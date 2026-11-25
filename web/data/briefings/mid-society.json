@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-25T05:39:40.205Z",
+  "updatedAt": "2026-11-25T21:21:19.695Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           2.7,
           2.4,
           7.7,
-          2.5
+          2
         ]
       },
       {
@@ -42,7 +42,7 @@
           7.3,
           0,
           4.2,
-          3.9
+          4
         ]
       },
       {
@@ -53,7 +53,7 @@
           2,
           2.4,
           2.4,
-          3.9
+          3
         ]
       },
       {
@@ -79,17 +79,6 @@
         ]
       },
       {
-        "word": "대통령",
-        "values": [
-          0,
-          2.7,
-          0,
-          1.8,
-          2.4,
-          2.8
-        ]
-      },
-      {
         "word": "취소",
         "values": [
           4.3,
@@ -97,28 +86,39 @@
           0,
           0,
           0,
-          2.5
+          3.7
         ]
       },
       {
-        "word": "의혹",
+        "word": "책임",
+        "values": [
+          2.4,
+          0,
+          0,
+          4.7,
+          0,
+          2
+        ]
+      },
+      {
+        "word": "대통령",
         "values": [
           0,
+          2.7,
           0,
-          2,
-          3.5,
-          0,
-          2.8
+          1.8,
+          2.4,
+          2
         ]
       }
     ],
     "rising": [
       {
-        "word": "한덕수",
+        "word": "탄핵",
         "change": null
       },
       {
-        "word": "탄핵",
+        "word": "한덕수",
         "change": null
       },
       {
@@ -130,12 +130,12 @@
         "change": null
       },
       {
-        "word": "AI",
-        "change": 77
+        "word": "리트",
+        "change": null
       },
       {
-        "word": "대통령",
-        "change": 90
+        "word": "AI",
+        "change": 80
       }
     ],
     "falling": [
@@ -158,11 +158,11 @@
     ]
   },
   "stats": {
-    "articles": 1160
+    "articles": 1175
   },
   "ai": false,
   "headline": "최근 6개월 사회: 「법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"」",
-  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,160건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 한덕수, 탄핵, 조사, 조희대 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,175건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 탄핵, 한덕수, 조사, 조희대 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -234,10 +234,44 @@
       "whyItMatters": ""
     },
     {
+      "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 7,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
+          "source": "2026.11"
+        },
+        {
+          "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "리트 만점자 과외교사 경찰 출석…“죽음이 범죄의 도주처 돼선 안 돼”",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52NUpYM19NSi1WejJaeE9Nd0YzOGdkNVhJNHZLNGJVLUpyMDRuVHRmTTlVRlF1TWtvckgyc2pVQ0dRRUNwdjlJWEl1bVJ0Z3hsWXg2enJlRlFMZ0gzaG5qX2VTWGM1UTJkX2x3?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2026-11-25T06:04:55.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV0hXSUtKY1laMF82QW0wSGtsLXVZYk5BUXMxSTdVRkZUNHpoTjZQOVJuZDdnYVc0dS1LeDhkdmF3UndBN2lwMFdzREhkbGFvUFEycEUydE5rbEdJZG80OFhLVXgxdkk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T07:49:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
       "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 8,
+      "articleCount": 7,
       "summary": "",
       "headlines": [
         {
@@ -280,46 +314,23 @@
       "whyItMatters": ""
     },
     {
-      "title": "공소청, ’장윤기 사건’ 부실 수사 경찰 팀장에 징역 3년 구형",
-      "span": "2026.11",
-      "monthCount": 1,
-      "articleCount": 5,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "공소청, ’장윤기 사건’ 부실 수사 경찰 팀장에 징역 3년 구형",
-          "source": "2026.11"
-        }
-      ],
-      "articles": [
-        {
-          "title": "‘장윤기 부실 수사’ 경찰 수사팀장, 공소청 ‘징역 3년’ 구형",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HZkpfVEZSQnJON1h2VkhqWFV2bXFtU0I3THZSNGlBWGZsRm9TVGl2eUhQbmI3d2ZudXhfc1JmZ3dBZGZOWk92XzlWeXVHelREWWM1YmtuZUpVd9IBX0FVX3lxTE5FM0ktb0xMQTZBajRZM2JRRnU2UEQzTnlsZFF6RXZWbmRPTjBpb29IWl96VkYzcy16aUU2c0tZSGhzQWdNT01mTDVVRTVmQWRXY3psa2RTT0pKMG54cUpz?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-25T05:29:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "술집서 합석 거절당하자 강제추행 의혹…현직 경찰 내사",
+      "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
       "span": "2026.11",
       "monthCount": 1,
       "articleCount": 4,
       "summary": "",
       "headlines": [
         {
-          "title": "술집서 합석 거절당하자 강제추행 의혹…현직 경찰 내사",
+          "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "술집에서 합석 거부당하자 강제추행한 현직 경찰 조사 중",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XalpUVDFjVjVfRWhtRmVSYmFCMEwxUGo5WXhYeVowMld3dlYwbjEwb3lNWDFaekt5RkdaTTVzZFA0QzhuYTJXWUtkTTBfdkdvNGpNSkxwb0ZJRG8?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T04:39:00.000Z",
+          "title": "법원, 김수현 소속사에 쿠쿠 모델료 8억여원 반환 판결 : 연예",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02SHRvUTNGa0tBU1NiekNiNUVqd0dpNnV1Q1BQX3E3YklhaFFjcnR6ZlhHWGJxdm8xM2k2RXVxV1BPTEdLbVItaDVxdw?oc=5",
+          "source": "재경일보",
+          "publishedAt": "2026-11-22T01:41:09.000Z",
           "kind": "news"
         }
       ],

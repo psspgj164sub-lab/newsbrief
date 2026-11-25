@@ -2,8 +2,8 @@
   "month": "2026-11",
   "category": "society",
   "ai": false,
-  "builtAt": "2026-11-25T05:39:35.143Z",
-  "articleCount": 283,
+  "builtAt": "2026-11-25T21:21:16.372Z",
+  "articleCount": 298,
   "summary": "",
   "topics": [
     {
@@ -11,8 +11,8 @@
       "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
       "summary": "",
       "importance": 5,
-      "articleCount": 8,
-      "sourceCount": 6,
+      "articleCount": 7,
+      "sourceCount": 5,
       "articles": [
         {
           "title": "민주 “조희대 탄핵 사유, 판결 내용 아닌 절차 위반 문제”",
@@ -29,81 +29,112 @@
           "kind": "news"
         },
         {
-          "title": "與 \"한덕수 판결, 내용 아닌 절차가 曺탄핵사유…연내의결 노력\"(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VWtaNjN5UTF6OEpOUi1Pc0ZFRVpmTHJXRGFHcDh0NzFrVGIzZWV2Szd3Z3FnTXM5TUlHSk5kX3VjWXJSMWZaTi1zZ2pqMS1EUWtCN2FtaE5wTTjSAWBBVV95cUxPSEVkREIyd1drUjZSX3F5eWVVY1ZQN2hYT2w4V3BsUEhHMDluWGlBelRoOUNxZkQtRUdLZEFfdTFseTlha2JJZlRIc0dzQS1BVzdlSU9faDNlRGxxdVpGWWY?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-22T06:15:20.000Z",
+          "title": "與 “한덕수 판결, 절차가 曺 탄핵 사유…연내 의결 노력”",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGN5U0dGQWw0MllhcHRreFUzdmx5U3Vvb3lIZWpyQUFTRzUxMC1LbEFxekRaSFhHLWh4aWhwbUxodS0zSHZWZWx0TVpNYmlhOF9BMFlMaUp0RlRsSDVkcmplYk14OTJDTXNNVXUyZGM1UG41ZGdSbi1RVjNkcWhLVG5jWTVpd3B6Wk1tTmlR?oc=5",
+          "source": "국제신문",
+          "publishedAt": "2026-11-22T06:38:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t1",
-      "title": "공소청, ’장윤기 사건’ 부실 수사 경찰 팀장에 징역 3년 구형",
+      "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
       "summary": "",
       "importance": 5,
-      "articleCount": 5,
-      "sourceCount": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
       "articles": [
         {
-          "title": "‘장윤기 부실 수사’ 경찰 수사팀장, 공소청 ‘징역 3년’ 구형",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HZkpfVEZSQnJON1h2VkhqWFV2bXFtU0I3THZSNGlBWGZsRm9TVGl2eUhQbmI3d2ZudXhfc1JmZ3dBZGZOWk92XzlWeXVHelREWWM1YmtuZUpVd9IBX0FVX3lxTE5FM0ktb0xMQTZBajRZM2JRRnU2UEQzTnlsZFF6RXZWbmRPTjBpb29IWl96VkYzcy16aUU2c0tZSGhzQWdNT01mTDVVRTVmQWRXY3psa2RTT0pKMG54cUpz?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-25T05:29:00.000Z",
+          "title": "법원, 김수현 소속사에 쿠쿠 모델료 8억여원 반환 판결 : 연예",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02SHRvUTNGa0tBU1NiekNiNUVqd0dpNnV1Q1BQX3E3YklhaFFjcnR6ZlhHWGJxdm8xM2k2RXVxV1BPTEdLbVItaDVxdw?oc=5",
+          "source": "재경일보",
+          "publishedAt": "2026-11-22T01:41:09.000Z",
           "kind": "news"
         },
         {
-          "title": "공소청, ’장윤기 사건’ 부실 수사 경찰 팀장에 징역 3년 구형",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JOVBnOTVOelBueFZ0bEZMRV9VemlfVHczZlQtS3pUU3lEa29lelM3N1VlUmlISlpYYk1QUGxPNWlYNW81czhkQXRtaGRTdWxhNjN4T2daZ083NFhmSklUVUl3Uzh4bXM?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T04:24:00.000Z",
+          "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92N1JJNEdxNDF2TEtSa0tGNTMyTUdZNkZxaDhmTjdWWWxHYlVCU01fZGhvazM4RFJNZ2oya2U0R3hkT1hoY3NnSEtVcklSREJpU2kyX2IwWlU?oc=5",
+          "source": "국민일보",
+          "publishedAt": "2026-11-20T10:37:36.000Z",
           "kind": "news"
         },
         {
-          "title": "‘장윤기 사건’ 증거인멸 의혹 경찰 간부…징역 3년 구형",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHb3Y3SHBIRlRtQWNPZFJZRlJwTDlHaEVwY2paYVJMMmtGa0JjenJxRHhzMWt6N0lTZ3JqaXhNaS16b0lHcmh1ckNnaHlDVVN3VXpkek9B?oc=5",
-          "source": "중앙일보",
-          "publishedAt": "2026-11-25T02:37:30.000Z",
+          "title": "\"신뢰 파탄\"…김수현 소속사 '모델료 8억 반환' 판결 나왔다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUVRiWDBRdkdqZVNzX0tQRFEwZTRuVDBPbnlhc0xzV0dDWXJVcVNEel9aUk9MVWtOZmF5YndYbkZLa0dqNzB4WWlvZ3p4d3cwVGhmU3Fob1otUQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-11-20T10:37:20.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t2",
-      "title": "술집서 합석 거절당하자 강제추행 의혹…현직 경찰 내사",
+      "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
       "summary": "",
       "importance": 4,
       "articleCount": 4,
-      "sourceCount": 4,
+      "sourceCount": 3,
       "articles": [
         {
-          "title": "술집에서 합석 거부당하자 강제추행한 현직 경찰 조사 중",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XalpUVDFjVjVfRWhtRmVSYmFCMEwxUGo5WXhYeVowMld3dlYwbjEwb3lNWDFaekt5RkdaTTVzZFA0QzhuYTJXWUtkTTBfdkdvNGpNSkxwb0ZJRG8?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T04:39:00.000Z",
+          "title": "리트 만점자 과외교사 경찰 출석…“죽음이 범죄의 도주처 돼선 안 돼”",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52NUpYM19NSi1WejJaeE9Nd0YzOGdkNVhJNHZLNGJVLUpyMDRuVHRmTTlVRlF1TWtvckgyc2pVQ0dRRUNwdjlJWEl1bVJ0Z3hsWXg2enJlRlFMZ0gzaG5qX2VTWGM1UTJkX2x3?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2026-11-25T06:04:55.000Z",
           "kind": "news"
         },
         {
-          "title": "술집서 합석 거절한 손님 강제추행 의혹…현직 경찰 내사",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90T3c5bUw3N1UxTVFwTVB1MDBoVjlsZU1haWFLSS1SYXpwcklRNmhCMjY4UC04UWdJeXBfbEoyTXZnbHlxaWhNMTBSLURCWFdTV0NqWUlB?oc=5",
-          "source": "중앙일보",
-          "publishedAt": "2026-11-25T04:25:48.000Z",
+          "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajFYeGFJNUtLTTlqaVdnMXZGS1c4TFhsa0syZmFmS1hVQ2EyMDJteXhmYXdhNk5sU2ZTSU1ZWjZjclYxNjJSTnVXV3lVZFhiR2htaC1FZWZSbEtaTkJVUFpRT0hSNTh5VXdKdHJqUWF4ZVdvTlJRd0dlNDF6NElvMHRWaExHc19CMk1QYVd4QWE?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-25T05:37:32.000Z",
           "kind": "news"
         },
         {
-          "title": "술집서 합석 거절당하자 강제추행 의혹…현직 경찰 내사",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoRjRXTHJTc1Y5S3RKZU1rbnVUdUdNc2pseHJ3a2tCVjJkdnpGWjZTZFQzZzU1QllsOHpRUDNsdkNjM0VnZUNYRU5LZ3RGV0RMczNWSzFqVEZpdUnSAWBBVV95cUxOMlR5THpSS296RndSWHBHblExNkdLZnVwZlZnQVFCMjNDWUJQRHdPdHNldmdLcWhBYm0zb1gyWE9vQkY0VVRaX1JiTXQ5YmFTS1k0aDB0Q1RpMVNncTdwckU?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T02:54:05.000Z",
+          "title": "‘리트 만점자’ 생명과학 과외선생 “죽음이 범죄 도주처 되면 안돼···그래서 경찰 출석”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1obmlSX1RpelZaQlZDcGExVUViQVpwREFEdS05ZjhycmQ0OEQyYUx3LVBwRXpRYVoxcXk4QlpXdW5WT1RSS0hRRFpPb1QwYnZDR09zaEwzN2xqd9IBX0FVX3lxTE95REJMbkE0ZFhjQlM1OFZ0VzVlMDIzdjNEdFZlbFFkMTVwWkFrQUMtUGdhWWxWdWdtS29PM2JOcVlXcWt4VFdtYmVlakd1Q29EUjhhME9aNDJ1R19aSTFZ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-25T05:15:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t3",
-      "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
+      "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
       "summary": "",
       "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV0hXSUtKY1laMF82QW0wSGtsLXVZYk5BUXMxSTdVRkZUNHpoTjZQOVJuZDdnYVc0dS1LeDhkdmF3UndBN2lwMFdzREhkbGFvUFEycEUydE5rbEdJZG80OFhLVXgxdkk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T07:49:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘리트 만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00OXlxcWE5bFlVYm40NFFjckZibnZ3U2dnc1dma0d2YWZIZ2tBLVl4UVdhaHpjbEgxNW5qTzZ3a3VkcmNxc050UUVNdXBDZFZTakxOTzhWYjFWZVk?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T07:04:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'리트만점' 이진우 과외교사 경찰 조사…\"진실 묻어선 안 돼\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZEhXMkdxVk1OMkE0OUR2clZXYWZiejJPUG5KMHhHWjRra0NXWUxtLS1IM2x5Mlh5ODRYNkVMRDE1dnBIN3o1Q1lhdTNfcC1jeTNQLUtzamNDaU3SAWBBVV95cUxNLXBwdlZMclQ5OGtXcGlXRFJDTTFSSzY0ODFkSzM4TC03Y1VRMmwtU3J0b3BDUnRDS1lsczZlcUk3ZTVHMFZsWWtPQ0Y3TlRQWWt1UzB3X2R2cXdobTh1Ymg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-25T05:24:02.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t4",
+      "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
+      "summary": "",
+      "importance": 3,
       "articleCount": 3,
       "sourceCount": 3,
       "articles": [
@@ -131,7 +162,69 @@
       ]
     },
     {
-      "ref": "2026-11#t4",
+      "ref": "2026-11#t5",
+      "title": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "유엔 법원, 미얀마에 사상 첫 '제노사이드' 유죄 판결… 이스라엘도 단죄되나",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NTXN1M1JnSHNJNXVmYk5fMkZxSC1pS3otbkJwQ09IaHEycDdCczlSbVpYVWJTXzI0bDRWajBWczdNa29CeHN6d19uamVQNG1RcmhYd2RiZUdjWlE1NG13bUZrWEFacXRlVkg0Q3Vn0gFzQVVfeXFMTUxTTTJIVmtqUF8ycGpreVRSNF90Y0ZfVU9nM2VvNUVCLVRMUDJRS2g4MUw2S3NtZ3lFd3B0c3pzVHVaa1EzMVAwaFdMSVpFQldGNC1VSV9kQ05KV3dtQ2hMQ2YtRjdrdXQtOVBfdjFnbnpYOA?oc=5",
+          "source": "한국일보",
+          "publishedAt": "2026-11-20T05:20:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeU5KV3ktZUt6UXdlRzRGQktEemptSnBjZUhXN0FmVjc2WXRwcjZjZVNVUjJSSkN5ak9iMThKcUcwR1ZLcjFxc3ZhbGE4a3ZXTEhRVGtvRlNPQjRuSVk2TTZneTdvaGtNZTEtV2JsZnpULWh0SzFvQjdBNGkxOTJtZ2l6ZVZ4b2dZQndjOHgwMnZxTU1CWWViSzRaVUF1Z9IBsgFBVV95cUxPVW1BUXdvbEpadnpyWG9HTDZ1S3ZPT01EYlQ4N0lsVmg3enBKaW5DbTM5SUduZUJ1RllIWlh2YTJGSmRrYzlqM2pvY182d2J5X0RfSnRDYzh0aG9FVEJrMFRMV1EtQ1pqQkVqeTNpQ1JvVjdVb1NrQnlhaXRJZU1lS2RwT2pYRFc0Qk4yM1hJUkNCSXV0MXpTQjV6WlFoXzViam1hNGRyNzJ2eGNMVnphcVRB?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2026-11-19T22:34:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"미얀마, 로힝야족 집단학살\"…유엔 최고법원 첫 국가 책임 판결 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3bHBITTFuRlFSLVN4b2s2LW1ITXhuWDRnV0dEMGMtbGJfM3BnQVRzdzBsSVUwa0IxR0YtbC0xaUlaSUpCejR5VlNnUHRLaXphdXNIYURoamVVWW5kdUNHNWJjTWhUcFNO0gFuQVVfeXFMTmRmNGY1MFAtZkZYcElDWmhKelAtalFycXRtSjFhTm81WHRpaGhZYzVWQkxBUk4wX1ZWNDlMdWtfbTdUQzBWZ2JVb1psTDdSRlVoNGk3SzczSWJ0WnpsM19TaUR0TUxnR3h3MGM0eEE?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "2026-11-19T12:46:52.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t6",
+      "title": "김건희 ’매관매직’ 사건 내달 3일 대법 선고",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김건희 ’매관매직’ 사건 다음달 3일 대법 선고",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqalp2Ul90ZlJ6cHNfQzJGenc4ODVpVVV5dkp5Ym9TY3BnX2VkMk5selJyNzkyeFBVb0NwMDlQMW5jU0EyV1BSVjdXd0hGNDF3b0hmQ2NfUEVzdkFPVVpNeGZBOVRBcVU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T07:46:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "속보 김건희 '매관매직' 사건, 내달 3일 대법 상고심 선고...2심은 징역 5년",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XdmM0TU02b0ZVY3VRQktaS3NhYTBIY0pUSkx2UFJrME5RZDBDanhmSTlpMi02OHV2M0cyZHlOd2g1anhZWEh5SldQajUwVGJDSkwzRHVYWlgxNktWOFE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-25T06:02:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김건희 ’매관매직’ 사건 내달 3일 대법 선고",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JR3QzaGN4UnlhcWg0UTBhbi1oQXEzREtHOHNUVDJaOExmQmtvczBsNVlRUDh4MzFSUjRrQkR5bG8tUzA2RndKUFN2WHJTS2RwekNiSlVpdDZITElvb3BISGt0M2pEdDQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T06:02:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t7",
       "title": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”",
       "summary": "",
       "importance": 3,
@@ -160,261 +253,190 @@
           "kind": "news"
         }
       ]
-    },
-    {
-      "ref": "2026-11#t5",
-      "title": "최교진 교육장관 사의…“수능 책임 통감”",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 3,
-      "sourceCount": 2,
-      "articles": [
-        {
-          "title": "최교진 교육장관 사퇴…“수능 책임 통감”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80eHJ4QmJqeF9BQ3ktZFJJMjM2bTVNN0N0X0ZMV3RISzlXYmxUN2ZWX1NTTjczY0VSZ3gtc3YwZE1TckZROGJwbHZXT2pYMnNxaDZJTTZhS2xCMjQ?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-22T12:01:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "최교진 교육장관 사의 표명…“수능 책임 통감”",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YMXVySzZqbmw2SVNJNEg2WFA4MFR5N0ZjdDdPSzFBMFBMZ25pY1ROZ2xWak5LUFZWN3BKam1IaUR6aEh3am5xTF9RNmRBM0w0S0daeHZyTldtWVlNcFFwNEs3TEtJaFdYeHc?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-22T02:49:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "최교진 교육장관 사의…“수능 책임 통감”",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IRGZfN1lPWmVZbl9IWDFwWlprdWVrcm5kVjZLR1N4a2NfYjFGRXlGVnFMWDFWNUVsTjFrMnBkUXB6SDRCLVF5cG1ER1R2eXdUbU1FLW95eGJFdTJ2bnQzRTI5Tks1QQ?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-22T02:42:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t6",
-      "title": "인천공항서 아이돌 팬 밀친 '과잉 경호 논란' 남성 경찰 고발",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 2,
-      "sourceCount": 2,
-      "articles": [
-        {
-          "title": "인천공항서 아이돌 팬 밀친 '과잉 경호 논란' 남성 경찰 고발",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UdzVLbUJnY2pVTVJvWnBYM2dXY0M1OUR0UUY2TEJqMzRMZUFlUm9iUGZDSE9BU2RuMXQyLUJtVlJnY1V3dzlRelhITUh0bE0zVU1ZblFzOTIxV0xRX2VJRDhGZ1NkU2l1ZUNZQlB1b3daV2NEbFI40gF3QVVfeXFMTzJJQXhOTkQyQ18yemJjclJfekwwZDZwODFtRFY0ZXZDRWl3UDBmblNxY3kxYUZaOEpxQ2wwdXJ2NGp3RWdjT1RDSjV4UFNOVURpaHFmR3htUXdHWjJOUzdZVGdVd2xVX0lheXI1REI2UXNIOUtnQ0k?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-24T07:29:24.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "아이돌에 여성 접근하자 '퍽!'...과잉경호 논란 남성 경찰 고발",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2RjhEc25DVnVuXzRsSHY4djZEanVoS1EwRFFzX3NoSVlhUFZ6YUFtSEN6MkQxaUZfcG85aVh2amRQWUZtWnZoZFN6b0IxZ19mZmMzNXhjZWc5bllHcHc?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-24T06:56:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t7",
-      "title": "한덕수 파기환송 판결 놓고 법원 내 이견…동조·반박 댓글 잇달아",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 2,
-      "sourceCount": 2,
-      "articles": [
-        {
-          "title": "한덕수 파기환송 판결 놓고 법원 내 이견…동조·반박 댓글 잇달아",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VRDB6Ti1TSEJucEliTThNUmgwanY1VE50VnBOdjFDSGlVTE1MOW9CZ3ZUdHppcWwzcHFnTm5JZFhYWG1ocV9iZkZOSzlpYlM3REpQRnJVdmZqWENm?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "2026-11-23T09:09:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한덕수 대법판결에 판사가 의문제기…동조·반박 댓글 잇달아(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZlhUSm5QS25ybEpKV3RlZXZjaEsycTd3MTJ5UmVva0dreUFxU3V6a255cDJFakhkcUthbms3ZGczN3E4MW5hR1VZcUJfWU5ySHoxblVZRzZDdkHSAWBBVV95cUxPaXF3eHZPLTFjYzhlN05BWDIwMy1EeUtjWm11Z19MZkFfZU5FcUtaVW9KdDM3Y1VNMHp3cEFHNlB3NjdSdHNrMEpQb3RNX1pycEJ0YnFwVE9oYlo4QWtIZGU?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-23T07:06:57.000Z",
-          "kind": "news"
-        }
-      ]
     }
   ],
   "keywords": [
     {
-      "word": "한덕수",
-      "count": 19
+      "word": "탄핵",
+      "count": 17
     },
     {
-      "word": "탄핵",
-      "count": 15
+      "word": "한덕수",
+      "count": 17
     },
     {
       "word": "조희대",
-      "count": 12
-    },
-    {
-      "word": "수사",
-      "count": 11
-    },
-    {
-      "word": "AI",
-      "count": 11
-    },
-    {
-      "word": "수능",
-      "count": 10
-    },
-    {
-      "word": "부정행위",
-      "count": 10
-    },
-    {
-      "word": "개최",
-      "count": 9
-    },
-    {
-      "word": "절차",
-      "count": 9
-    },
-    {
-      "word": "조사",
-      "count": 8
-    },
-    {
-      "word": "대통령",
-      "count": 8
-    },
-    {
-      "word": "의혹",
-      "count": 8
-    },
-    {
-      "word": "사망",
-      "count": 7
+      "count": 13
     },
     {
       "word": "리트",
-      "count": 7
+      "count": 12
     },
     {
-      "word": "만점자",
-      "count": 7
+      "word": "AI",
+      "count": 12
     },
     {
-      "word": "현직",
-      "count": 7
-    },
-    {
-      "word": "징역",
-      "count": 7
+      "word": "부정행위",
+      "count": 11
     },
     {
       "word": "취소",
+      "count": 11
+    },
+    {
+      "word": "만점자",
+      "count": 10
+    },
+    {
+      "word": "조사",
+      "count": 9
+    },
+    {
+      "word": "수사",
+      "count": 9
+    },
+    {
+      "word": "이진우",
+      "count": 8
+    },
+    {
+      "word": "절차",
+      "count": 8
+    },
+    {
+      "word": "수능",
       "count": 7
     },
     {
-      "word": "교육장관",
+      "word": "출석",
       "count": 7
+    },
+    {
+      "word": "의혹",
+      "count": 7
+    },
+    {
+      "word": "개최",
+      "count": 7
+    },
+    {
+      "word": "무죄",
+      "count": 7
+    },
+    {
+      "word": "대통령",
+      "count": 6
+    },
+    {
+      "word": "책임",
+      "count": 6
+    },
+    {
+      "word": "사망",
+      "count": 6
+    },
+    {
+      "word": "과외교사",
+      "count": 6
+    },
+    {
+      "word": "새만금공항",
+      "count": 6
+    },
+    {
+      "word": "사유",
+      "count": 6
+    },
+    {
+      "word": "김수현",
+      "count": 6
+    },
+    {
+      "word": "대법원",
+      "count": 6
+    },
+    {
+      "word": "고경표",
+      "count": 5
     },
     {
       "word": "교사",
       "count": 5
     },
     {
-      "word": "재난문자",
+      "word": "전국",
       "count": 5
     },
     {
-      "word": "공소청",
+      "word": "확인",
       "count": 5
     },
     {
-      "word": "장윤기",
+      "word": "교육장관",
       "count": 5
     },
     {
-      "word": "구형",
+      "word": "쿠쿠",
       "count": 5
-    },
-    {
-      "word": "대응",
-      "count": 5
-    },
-    {
-      "word": "적발",
-      "count": 5
-    },
-    {
-      "word": "확정",
-      "count": 5
-    },
-    {
-      "word": "역량",
-      "count": 5
-    },
-    {
-      "word": "개선",
-      "count": 5
-    },
-    {
-      "word": "최교진",
-      "count": 5
-    },
-    {
-      "word": "김수현",
-      "count": 5
-    },
-    {
-      "word": "내용",
-      "count": 5
-    },
-    {
-      "word": "사유",
-      "count": 5
-    },
-    {
-      "word": "겨울철",
-      "count": 4
-    },
-    {
-      "word": "남성",
-      "count": 4
-    },
-    {
-      "word": "여성",
-      "count": 4
-    },
-    {
-      "word": "고발",
-      "count": 4
-    },
-    {
-      "word": "세무사",
-      "count": 4
-    },
-    {
-      "word": "합석",
-      "count": 4
     },
     {
       "word": "조치",
+      "count": 4
+    },
+    {
+      "word": "교통사고",
+      "count": 4
+    },
+    {
+      "word": "신청",
+      "count": 4
+    },
+    {
+      "word": "김건희",
+      "count": 4
+    },
+    {
+      "word": "대법",
+      "count": 4
+    },
+    {
+      "word": "대응",
+      "count": 4
+    },
+    {
+      "word": "점검",
+      "count": 4
+    },
+    {
+      "word": "진실",
+      "count": 4
+    },
+    {
+      "word": "징역",
       "count": 4
     }
   ],
   "keyEvents": [
     {
+      "date": "11.19",
+      "event": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결"
+    },
+    {
+      "date": "11.20",
+      "event": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결"
+    },
+    {
       "date": "11.22",
       "event": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\""
     },
     {
-      "date": "11.23",
-      "event": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”"
+      "date": "11.24",
+      "event": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석"
     },
     {
       "date": "11.25",
-      "event": "공소청, ’장윤기 사건’ 부실 수사 경찰 팀장에 징역 3년 구형"
+      "event": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“"
     }
   ]
 }

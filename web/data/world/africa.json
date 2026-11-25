@@ -2,14 +2,14 @@
   "region": "africa",
   "label": "아프리카",
   "range": {
-    "from": "2026-11-19",
-    "to": "2026-11-25"
+    "from": "2026-11-20",
+    "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T05:39:47.665Z",
+  "updatedAt": "2026-11-25T21:21:24.464Z",
   "ai": false,
-  "overview": "최근 1주 아프리카 관련 국내 언론 기사 138건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「이란 \"美 봉쇄는 군사 침략…공격땐 모든 수단 동원\"」(기사 3건)입니다.",
+  "overview": "최근 1주 아프리카 관련 국내 언론 기사 162건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「상명대, 나이지리아 디지털 거버넌스 기반환경 조성사업 마무리」(기사 6건)입니다.",
   "stats": {
-    "articles": 138
+    "articles": 162
   },
   "themes": {
     "economy": {
@@ -17,24 +17,20 @@
       "summary": "",
       "keywords": [
         {
-          "word": "달러",
-          "count": 8
+          "word": "수출",
+          "count": 7
         },
         {
-          "word": "수출",
-          "count": 8
+          "word": "달러",
+          "count": 6
+        },
+        {
+          "word": "승인",
+          "count": 4
         },
         {
           "word": "철도",
           "count": 4
-        },
-        {
-          "word": "중동",
-          "count": 3
-        },
-        {
-          "word": "금값",
-          "count": 3
         },
         {
           "word": "상승",
@@ -45,7 +41,11 @@
           "count": 3
         },
         {
-          "word": "승인",
+          "word": "성장",
+          "count": 3
+        },
+        {
+          "word": "확보",
           "count": 3
         }
       ],
@@ -128,8 +128,8 @@
               "kind": "news"
             },
             {
-              "title": "케냐 아프리카 페리페리 핫소스 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlZ3hpQkpDeHFuTWhyNFBXUkRObUZEOWNxTHNjVzl5ZmU4NFpORTZuS1VuTzRQUXhtWGdRalV0SWVkdjBSWERWYWZqWVdYNVZ4UktRc3pBWWFkeWlYZnF3VE8yaHA3aDk4cTRtM2M0d2RSakZ0b3JEYW9OVE0?oc=5",
+              "title": "나이지리아 신선 카라카라 오렌지 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZzgzRURYWlR6WWFlYXVIdFJNSU5pdU1DRUpMSzQzVXZRVnFPQ0xzMnFkYklVRWlBOGNIVVl4OXZjcDFlX05Pdk9rUEVtbFlYNXhZQmU1ZU5WX1FRSzlaQy1NcmptMUZocjlZY2dySHVkTWNQX3c?oc=5",
               "source": "Tridge",
               "publishedAt": "2026-11-20T08:00:00.000Z",
               "kind": "news"
@@ -137,7 +137,7 @@
           ]
         },
         {
-          "title": "동해시, '동해페이' 시민 87.2%가 쓰는 생활 결제수단으로 안착",
+          "title": "친환경적인 생계 수단은 산간 지역 주민들에게 경제 발전의 기회를 열어줍니다.",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
@@ -148,16 +148,16 @@
           "articleCount": 1,
           "articles": [
             {
-              "title": "동해시, '동해페이' 시민 87.2%가 쓰는 생활 결제수단으로 안착",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OWHZKenJIU3c5ZllxQW5tSkZZNFJxUkNfWFlvSWhHWkxURlJKVElPdnhReWFuZ1BwRXFzemYtMFRTaGJIMzc4Wnh4eFp1M3pkRkoycFdhWWZNMWxkSGdpa29vVUVzTGc?oc=5",
-              "source": "www.hkilbo.kr",
-              "publishedAt": "2026-11-25T02:06:34.000Z",
+              "title": "친환경적인 생계 수단은 산간 지역 주민들에게 경제 발전의 기회를 열어줍니다.",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGQ4d3RnNWdjVHlUSUVZY3JKNmhaMUpEQVhyWlBCZmI2RnNxVmRmYkFHRTVaM3Radm1tdWpTUl9HQWZfMEZHb2p6RUtMWklmdkVRai1CX0tFTEs5bWE0QXdpNmRyQldrM1RrNjJldm81NDJPcGt6aVdYd3ViMVVzbG1rZGlieks4N1gyeHpzRzhqQQ?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-25T11:59:29.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "'동해페이' 시민 가입률 87%…필수 결제 수단 정착",
+          "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
@@ -168,16 +168,16 @@
           "articleCount": 1,
           "articles": [
             {
-              "title": "'동해페이' 시민 가입률 87%…필수 결제 수단 정착",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nTnpvZ21GdUVpZW5DQ2FzWVRYYXA4UkxHR2JNaHhJUlNUNkZDU0NQc1Vvc3VZaDh0YmdVTVNjYThOc0dWZm4zR1pQdzNyOTVHdFE?oc=5",
-              "source": "매일경제 마켓",
-              "publishedAt": "2026-11-25T00:42:58.000Z",
+              "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxdDRCMU0zaTN1eW0xNVlqaUJQVDB0NTJTMTE1bWhORV9XNXBfblc5M1dPb1JOYlRTU1lDRWxuTWtwQ3RYTlI5T2ZOemlUeV9VNnI1UXVoTXFhb3ZDSkk2Y0dmcW1aWmpDNlJHbGtwS3ZTSGJ2?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-25T09:10:47.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "아프리카 데이터 패권경쟁에 韓뛰어든다…11억원 지원의 의미",
+          "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
@@ -188,10 +188,10 @@
           "articleCount": 1,
           "articles": [
             {
-              "title": "아프리카 데이터 패권경쟁에 韓뛰어든다…11억원 지원의 의미",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUWlFxNFZMRlI3cjNxbUtrV0s1cVdJTkdOanN2Yk85T0s4d1F0dGRONDYxZ2NKMXJNQmI0dVFUVGhDNzFTZnVSUTNaWXQ4TUV3eVRrdXdRY3DSAVhBVV95cUxQVFpRcTRWTEZSN3IzcW1La1dLNXFXSU5HTmpzdmJPOU9LOHdRdHRkTjQ2MWdjSjFyTUJiNHVRVFRoQzcxU2Z1UlEzWll0OE1Fd3lUa3V3UWNw?oc=5",
-              "source": "미디어펜",
-              "publishedAt": "2026-11-25T00:04:40.000Z",
+              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVWt1STZvc3JCY3N5Vm94aVg1TlRpb2l4UHNtUU5yNUp6Nnh0TEkxbFdYUDN0cVFXQVZfNC1MT2FLSDdDR0ZONWUxMl9zNlhMdW04YTVlcnFzVV9rWGFORFFQLXRpRmNhZ3d0Zw?oc=5",
+              "source": "서울뉴스통신",
+              "publishedAt": "2026-11-25T08:22:48.000Z",
               "kind": "news"
             }
           ]
@@ -211,15 +211,15 @@
           "count": 7
         },
         {
-          "word": "이란",
+          "word": "우크라",
           "count": 6
         },
         {
-          "word": "우크라",
+          "word": "hd현대",
           "count": 5
         },
         {
-          "word": "hd현대",
+          "word": "이란",
           "count": 5
         },
         {
@@ -231,8 +231,8 @@
           "count": 4
         },
         {
-          "word": "넘어",
-          "count": 4
+          "word": "지원",
+          "count": 3
         }
       ],
       "items": [
@@ -407,8 +407,8 @@
               "source": "동아일보"
             }
           ],
-          "span": "11.23~11.24",
-          "days": 2,
+          "span": "11.23",
+          "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
@@ -417,7 +417,7 @@
               "title": "우크라 전쟁 아프리카까지 번지나...리비아서 러 군함 드론 피격",
               "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySjBmbzhyU3VkSWhhbGVlNWdWUWUwaWZmWXowRnNmTmo2cVdPejYxMC1fRE80b3RBejVwSTA5UEFUczU2ZWUtNzRQdjZHcVVnMmc?oc=5",
               "source": "JTBC",
-              "publishedAt": "2026-11-24T06:00:54.000Z",
+              "publishedAt": "2026-11-23T14:54:33.000Z",
               "kind": "news"
             },
             {
@@ -430,33 +430,33 @@
           ]
         },
         {
-          "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
+          "title": "한-에티오피아 협회 출범식, 초대 회장에 최윤이",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
-              "source": "글로벌이코노믹"
+              "title": "대구서 한국·에티오피아협회 출범…최윤이 초대 회장 취임",
+              "source": "경북일보"
             }
           ],
-          "span": "11.19",
+          "span": "11.22",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
-              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPckpvdDVlNG03eW5MeVgzNXpFQ1laU2VpZmo5c0trOGVwZ2JkVTNBa1p4VWJqbzVnRkhJOXdiWEZKNUd5MWdua3hIMVdXMkpuVklpRXJ3TEVkXzc2RlJPS2RrWExLUVBLS0ticHJ6R0VtTzlFelp2N2ZHSWM5R09rTEo0ZWlBUXhLNkdQTzUzTEEtZjdjeDN6LXV2ZlhqRnF3azNoMVB2MjZ5THMtenB1TGp0X3ZfY3VQMi02VzZ0MWZtNmxCaVdCSkVmdlJNVGtDWlNkM1V6ZmkzTUhhLW16bHBZelVnQVBKOXNxOWQ2Qk5NUVVqUFl1dWFKTy1SZGwzZ2RCcDVkREdjeGZiSFE3RjZ1VlFZZ2pk?oc=5",
-              "source": "데일리안",
-              "publishedAt": "2026-11-19T13:00:00.000Z",
+              "title": "한-에티오피아 협회 출범식, 초대 회장에 최윤이",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tZUtGaW9iUnc3Rkk3aVpCcXY4a1labW5vcGQ3MFlJWEgtc2toT1lOOFdNNGdjTHN1TFI2QlVmU1Y3cllIem9vck9Wa084dFdJNnNFU1BQLWliRGtrUFA3SlNn?oc=5",
+              "source": "매일신문",
+              "publishedAt": "2026-11-22T09:45:16.000Z",
               "kind": "news"
             },
             {
-              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjVndkl4TmlTTWVHdWtuVGFzbTNWbm1XbEhfQU1rcF9BTm5uOUZpLUdqdlBKVEU2TEVaMU9FLTJ0dmlZbUlTYW8yY2ZqTm1Ec29NWjFRNTR6ano3Z0x3cjZrWGlIdDZFX0YzT19RWFQxT0NlVGdPZG83bHM2RDNXMjFYZmVrajNy?oc=5",
-              "source": "글로벌이코노믹",
-              "publishedAt": "2026-11-19T09:36:16.000Z",
+              "title": "대구서 한국·에티오피아협회 출범…최윤이 초대 회장 취임",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jOXJfdEZyaDYxcnFzRmhkT3VBMngtZUpVV1BIYVJYcE12WDFtTGd0dld4UzJkRjRtU00yQ0dIem9BNU8xVUdWYUVhUzhmTFNfMTBEWF9GQWszb2xEUzEtMDJqOEFDcmFVcDNxd0U3QQ?oc=5",
+              "source": "경북일보",
+              "publishedAt": "2026-11-22T08:05:18.000Z",
               "kind": "news"
             }
           ]
@@ -469,43 +469,115 @@
       "keywords": [
         {
           "word": "상명대",
-          "count": 4
+          "count": 8
         },
         {
-          "word": "전자정부",
-          "count": 3
+          "word": "디지털",
+          "count": 5
         },
         {
-          "word": "마스터플랜",
-          "count": 3
-        },
-        {
-          "word": "여성",
-          "count": 3
+          "word": "거버넌스",
+          "count": 5
         },
         {
           "word": "조성사업",
-          "count": 2
+          "count": 5
         },
         {
-          "word": "이양",
-          "count": 2
+          "word": "기반환경",
+          "count": 4
         },
         {
-          "word": "신임장",
-          "count": 2
+          "word": "마무리",
+          "count": 4
         },
         {
-          "word": "평화",
-          "count": 2
+          "word": "여성",
+          "count": 4
+        },
+        {
+          "word": "AI",
+          "count": 4
         }
       ],
       "items": [
         {
-          "title": "남아공 첫 여성 부통령이자 여성 인권 증진 힘쓴 음람보-응쿠카 전 부통령 별세",
+          "title": "상명대, 나이지리아 디지털 거버넌스 기반환경 조성사업 마무리",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
+            {
+              "title": "상명대, 나이지리아 디지털정부 기반 조성사업 마무리",
+              "source": "BBS불교방송"
+            },
+            {
+              "title": "상명대, 1300만달러 규모 나이지리아 디지털 거버넌스 조성 사업 마무리 - 머니투데이",
+              "source": "머니투데이"
+            },
+            {
+              "title": "상명대, '나이지리아 디지털 거버넌스 기반환경 조성사업' 완료…'전자정부 마스터플랜 2.0' 이양",
+              "source": "전자신문"
+            }
+          ],
+          "span": "11.19",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 6,
+          "articleCount": 6,
+          "articles": [
+            {
+              "title": "상명대, 나이지리아 디지털정부 기반 조성사업 마무리",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ydGl1ekFmMFNEcUxRdzJIRUdZdlRNSjdFeHg5NEdUTThUODJacUgxYUJMeXhDanEzNU00NjR4VENxZC15YldPcExIQjhsdndNOXplZ1FIcWI2TGVtMVpJT1Jqa0hQZVdoRkhJ?oc=5",
+              "source": "BBS불교방송",
+              "publishedAt": "2026-11-19T06:32:04.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "상명대, 나이지리아 디지털 거버넌스 기반환경 조성사업 마무리",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MNFNHeUtIR0dLRmctQmxpbDVXdnkyV1NFNE1mbDE0RlMzQlZoNEk0WVJ5WkVKSl9tYjdiQnMxUDdXOVdnRElabWJiMEhzWl9TUklJY0puOEpfUVBoQmNDZW5Rb1k4Smc3d2s4V0pB0gFwQVVfeXFMTklzbDMzZmRtNTVTT1hwNk5jNVVFbUpVX1JIX1ZHQmpWNkdxQWpmRlRwRkVpRUZEcVlvWXhBUUwzZjBBdWUtWS13T0VkYXpPaENWZm1VcERlZ2d0WG0xbW1DYm5FYnBVb3dFNWktdjFNRw?oc=5",
+              "source": "대학IN",
+              "publishedAt": "2026-11-19T04:34:52.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "상명대, 1300만달러 규모 나이지리아 디지털 거버넌스 조성 사업 마무리 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBMWpLWHV4a2ZONWVSSFFWMHVDTmxtbkgtOUpESTNRU3FueW9ZUmd1TkFIZGszdkJONFVEN1RmSGd6OGVIa2QtbnhtRkVnMFJmcFVabUh3NHFZUXp6dU10SDBaUTVCSjRjSHfSAW9BVV95cUxOOHBBekVBejJYazk1VmVJSGhtczFLTUJyN3dqTklMV3NRQXRmck1RWmtIQXNrWWtLM1d2NHdKQlQ0ekZ4bDJHcVRKdllSNE1keU1keFVfREJySDNvX1VpUzVqemFqci1OcW8yN25YMHM?oc=5",
+              "source": "머니투데이",
+              "publishedAt": "2026-11-19T04:16:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "상명대, '나이지리아 디지털 거버넌스 기반환경 조성사업' 완료…'전자정부 마스터플랜 2.0' 이양",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBheHk5LXdvZ1MteEFWV3pIWE4wUkg4VmZiMnBVUTBVY1lUUXVjcWVSNjI2UXotV29wYXN3Z0ViRmZLZ1h3d1JRZGw4R3VnUQ?oc=5",
+              "source": "전자신문",
+              "publishedAt": "2026-11-19T04:15:05.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "상명대, ‘나이지리아 디지털 거버넌스 기반환경 조성사업’ 대장정 마무리",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZYVdKZmd0Tk00cG5ncWN3MUdGR01PcGR6QWh6WFlwbXlfZ1NoOVBKU0U0MHRKanZXNTFfTDNxRG4zcjhnbGlwenJNYnhGdnQ4NFQ5YURobUhFRXhuWWlPVVFFdE4?oc=5",
+              "source": "매일일보",
+              "publishedAt": "2026-11-19T01:50:32.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "상명대, ‘나이지리아 디지털 거버넌스 기반환경 조성사업’ 완료",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwaVNoSUZZU3NrU1dnSWt3T2gwb2g3Tk9KNXJsb0EyeE1jQVB3VXU1a1F0VFJqazlZei14UW5UZHM5dFNjR0xMQ1RiMkRHODA0TkJ1MGVDM3RSdEJfdWk4N3dzQjNCZXg4WU02OWhONlpCZF9JMk1vSzFhd2I?oc=5",
+              "source": "비욘드포스트",
+              "publishedAt": "2026-11-19T01:32:34.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…향년 71",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "남아공 최초 여성 부통령 음람보-응쿠카 별세...여성 인권 증진에 헌신, 韓도 수차례 방문",
+              "source": "문화일보"
+            },
             {
               "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
               "source": "연합뉴스"
@@ -514,19 +586,26 @@
           "span": "11.25",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
+          "sourceCount": 3,
+          "articleCount": 3,
           "articles": [
             {
-              "title": "남아공 첫 여성 부통령이자 여성 인권 증진 힘쓴 음람보-응쿠카 전 부통령 별세",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vRm5tZENJVWZYRUxrbHN1bWJFWk5fU0RScDZ6aTdTT1ZSNlpwT1l6czNValpTejJqSDROLXUzeEpBb29yMmI3dndxWEVvOHR6dXRhdXJiWFgxN0lvN3Vv0gFfQVVfeXFMT29Gbm1kQ0lVZlhFTGtsc3VtYkVaTl9TRFJwNnppN1NPVlI2WnBPWXpzM1VqWlN6MmpINE4tdTN4SkFvb3IyYjd2d3FYRW84dHp1dGF1cmJYWDE3SW83dW8?oc=5",
-              "source": "경향신문",
-              "publishedAt": "2026-11-25T02:40:00.000Z",
+              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…향년 71",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcXdZRTlUNERFZHdlM05maDRlZEg0NjJ0VlFTaXlpYy1PX1dDWnhyZG0wUzJLZmNyR3I4QVU3WnQzMWJRWUFWRHpyWDBzSlp1S0otV0x0OEdnOTdsSFpqbmxXcGx2bVhDZDdMMXl2VUNlV1U?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-25T08:55:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남아공 최초 여성 부통령 음람보-응쿠카 별세...여성 인권 증진에 헌신, 韓도 수차례 방문",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fODhoSzdRakw3V05DMVd5OGdmZFB1UzJiVDQzd0htdkJYMk1EZUxWZkhRR3BhcmE3UjQyLXVFYjl3ZkNza0VnVGJneFJ6bFVo?oc=5",
+              "source": "문화일보",
+              "publishedAt": "2026-11-25T05:13:44.000Z",
               "kind": "news"
             },
             {
               "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sQzF6ZUhDalcyLTdzTE02QXZRZ1VBeTlZdE50dXg2Q0FoTzRmcEpOMmdCdFVFaThLNW52NG1Yc1U3M1g3UWQtOUFfcDh5MlhWUWY3M2tYVUxRREnSAWBBVV95cUxNVU5IUG9IYk01R2FocXhiUHg0dEpBVHZLa3VRSDBLNHRKbS1ZSVRucU9jVlhGZFpsTTJJeFQ4OFNUbDE1enJjaklpYUgyNkplTzhhLTVUOTYtZlhkaGRhZkk?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VTkhQb0hiTTVHYWhxeGJQeDR0SkFUdktrdVFIMEs0dEptLVlJVG5xT2NWWEZkWmxNMkl4VDg4U1RsMTV6cmNqSWlhSDI2SmVPOGEtNVQ5Ni1mWGRoZGFmSdIBYEFVX3lxTE1VTkhQb0hiTTVHYWhxeGJQeDR0SkFUdktrdVFIMEs0dEptLVlJVG5xT2NWWEZkWmxNMkl4VDg4U1RsMTV6cmNqSWlhSDI2SmVPOGEtNVQ5Ni1mWGRoZGFmSQ?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-24T16:41:14.000Z",
               "kind": "news"
@@ -598,13 +677,13 @@
           ]
         },
         {
-          "title": "상명대, 나이지리아 디지털정부 기반 조성사업 마무리",
+          "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "상명대, '나이지리아 디지털 거버넌스 기반환경 조성사업' 완료…'전자정부 마스터플랜 2.0' 이양",
-              "source": "전자신문"
+              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
+              "source": "글로벌이코노믹"
             }
           ],
           "span": "11.19",
@@ -614,57 +693,49 @@
           "articleCount": 2,
           "articles": [
             {
-              "title": "상명대, 나이지리아 디지털정부 기반 조성사업 마무리",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ydGl1ekFmMFNEcUxRdzJIRUdZdlRNSjdFeHg5NEdUTThUODJacUgxYUJMeXhDanEzNU00NjR4VENxZC15YldPcExIQjhsdndNOXplZ1FIcWI2TGVtMVpJT1Jqa0hQZVdoRkhJ?oc=5",
-              "source": "BBS불교방송",
-              "publishedAt": "2026-11-19T06:32:04.000Z",
+              "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
+              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPckpvdDVlNG03eW5MeVgzNXpFQ1laU2VpZmo5c0trOGVwZ2JkVTNBa1p4VWJqbzVnRkhJOXdiWEZKNUd5MWdua3hIMVdXMkpuVklpRXJ3TEVkXzc2RlJPS2RrWExLUVBLS0ticHJ6R0VtTzlFelp2N2ZHSWM5R09rTEo0ZWlBUXhLNkdQTzUzTEEtZjdjeDN6LXV2ZlhqRnF3azNoMVB2MjZ5THMtenB1TGp0X3ZfY3VQMi02VzZ0MWZtNmxCaVdCSkVmdlJNVGtDWlNkM1V6ZmkzTUhhLW16bHBZelVnQVBKOXNxOWQ2Qk5NUVVqUFl1dWFKTy1SZGwzZ2RCcDVkREdjeGZiSFE3RjZ1VlFZZ2pk?oc=5",
+              "source": "데일리안",
+              "publishedAt": "2026-11-19T13:00:00.000Z",
               "kind": "news"
             },
             {
-              "title": "상명대, '나이지리아 디지털 거버넌스 기반환경 조성사업' 완료…'전자정부 마스터플랜 2.0' 이양",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBheHk5LXdvZ1MteEFWV3pIWE4wUkg4VmZiMnBVUTBVY1lUUXVjcWVSNjI2UXotV29wYXN3Z0ViRmZLZ1h3d1JRZGw4R3VnUQ?oc=5",
-              "source": "전자신문",
-              "publishedAt": "2026-11-19T04:15:05.000Z",
+              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjVndkl4TmlTTWVHdWtuVGFzbTNWbm1XbEhfQU1rcF9BTm5uOUZpLUdqdlBKVEU2TEVaMU9FLTJ0dmlZbUlTYW8yY2ZqTm1Ec29NWjFRNTR6ano3Z0x3cjZrWGlIdDZFX0YzT19RWFQxT0NlVGdPZG83bHM2RDNXMjFYZmVrajNy?oc=5",
+              "source": "글로벌이코노믹",
+              "publishedAt": "2026-11-19T09:36:16.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "산업기술 유출 막는다…정부, 범부처 기술보호 체계 강화",
+          "title": "오픈도어, 아프리카 기독교 박해 대응 촉구 ‘104만 명 청원’ 영국 총리실에 전달",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
+          "headlines": [
             {
-              "title": "산업기술 유출 막는다…정부, 범부처 기술보호 체계 강화",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pZUEtSE1vY19TdVFYM0M2ckNxMVR5SUhFSUVGbnpDM2RIcjR0dWhOa2dlcFBVV2RqRE5BSDhtQU1TODF4bDFteDZUSmhqcnp6TlEyUGxkdlBVYkpZR2FYMW9JNWoxcV9CQXJWMmNETW9YQQ?oc=5",
-              "source": "에너지신문",
-              "publishedAt": "2026-11-25T00:15:03.000Z",
-              "kind": "news"
+              "title": "오픈도어, 아프리카 기독교인 보호 촉구 104만 명 서명 英 총리실 전달 : 국제",
+              "source": "크리스천투데이"
             }
-          ]
-        },
-        {
-          "title": "남아공 거쳐 우크라전 참전하려던 짐바브웨 대학생 유죄",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
+          ],
+          "span": "11.19",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
-              "title": "남아공 거쳐 우크라전 참전하려던 짐바브웨 대학생 유죄",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81RkE0T1Fxb0hWUHBBZUc5SDlkSmxNS1ZFaE1oaWpjVHAweHNJWm9Ia0QzQ0VsOEtmWmdHZXFDa3dQdEpneFhUc0dEM01tblhLQzZ0eWtrWGIxdjTSAWBBVV95cUxOdnlBbnBDYVk4d2NDQVMzckppbHBCbGxISHJvRWlYVm1GSDVRSHhYVFpyVXlWNFQ5MnVSeTdON2poZmVBNlVHZ29UaTVQTkFrMGU2MlRCUDlkYzBqUEdra20?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T20:15:02.000Z",
+              "title": "오픈도어, 아프리카 기독교 박해 대응 촉구 ‘104만 명 청원’ 영국 총리실에 전달",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDaWJ3VjNvQzlIa2NHU0ZvVnB4cTktTHpCeGhpS0RkOWNjOXRScnFFTEU2NmVCa3Y2eTgySWhybXFEOEwxWUUzODVxOGRkN201cDBpdlp6a9IBXEFVX3lxTE5RUHZwRmRkVEZycFlRdFc0NXRBWUlORUxjbkR2bkNsYlBVOVZVZjNHOC0wVE9WNlhBRE5uWVhNWnJCaHloSG91S2xPeHM5bzVnWklKSnpBalM4MXNz?oc=5",
+              "source": "기독일보",
+              "publishedAt": "2026-11-19T07:51:56.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "오픈도어, 아프리카 기독교인 보호 촉구 104만 명 서명 英 총리실 전달 : 국제",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02QTFOQW5CNVJ4WEFFV3ozZGh1X2k1ZUx0Mm9zZzBic2Y3aGNyaGlzM1RlUnQ5Y2xDTkVNM1UxcTV1aGJHRU13Tzdjb1plNVMxZDZDM2gtMA?oc=5",
+              "source": "크리스천투데이",
+              "publishedAt": "2026-11-19T04:53:36.000Z",
               "kind": "news"
             }
           ]

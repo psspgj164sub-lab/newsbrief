@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-25T05:39:40.197Z",
+  "updatedAt": "2026-11-25T21:21:19.688Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           4.6,
           7.4,
           9.2,
-          2.4
+          3.1
         ]
       },
       {
@@ -42,7 +42,7 @@
           3.5,
           6.6,
           4.3,
-          0
+          3.1
         ]
       },
       {
@@ -53,18 +53,7 @@
           3.2,
           4.9,
           3.7,
-          3.8
-        ]
-      },
-      {
-        "word": "타결",
-        "values": [
-          0,
-          2.1,
-          1.8,
-          0,
-          3.7,
-          13.5
+          4.5
         ]
       },
       {
@@ -86,7 +75,7 @@
           3.2,
           3.3,
           2.5,
-          1.7
+          2.4
         ]
       },
       {
@@ -101,55 +90,66 @@
         ]
       },
       {
-        "word": "서울",
+        "word": "타결",
         "values": [
           0,
+          2.1,
+          1.8,
           0,
-          1.4,
-          3.3,
+          3.7,
+          6.5
+        ]
+      },
+      {
+        "word": "현대차",
+        "values": [
+          2.8,
+          2.8,
+          7.1,
           0,
-          8.3
+          0,
+          0
         ]
       }
     ],
     "rising": [
       {
-        "word": "타결",
-        "change": 722
+        "word": "대통령",
+        "change": 428
+      },
+      {
+        "word": "발언",
+        "change": null
       },
       {
         "word": "서울지하철",
         "change": null
       },
       {
+        "word": "타결",
+        "change": 387
+      },
+      {
+        "word": "총파업",
+        "change": null
+      },
+      {
         "word": "지하철",
-        "change": null
-      },
-      {
-        "word": "임단협",
-        "change": null
-      },
-      {
-        "word": "대통령",
-        "change": 428
-      },
-      {
-        "word": "철회",
         "change": null
       }
     ],
     "falling": [
       {
-        "word": "사망",
-        "change": -68
-      },
-      {
         "word": "인정",
         "change": -100
       },
       {
+        "word": "사망",
+        "change": -44
+      },
+      {
         "word": "하청노동자",
-        "change": -70
+        "change": -71
       },
       {
         "word": "현대차",
@@ -158,11 +158,11 @@
     ]
   },
   "stats": {
-    "articles": 1250
+    "articles": 1253
   },
   "ai": false,
   "headline": "최근 6개월 노동: 「2027년 최저임금 1만700원 확정」",
-  "overview": "2026.06부터 2026.11까지 6개월치 노동 기사 1,250건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(2개월), 「서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행」(2개월), 「1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금」(2개월)입니다. 기간 후반으로 갈수록 타결, 서울지하철, 지하철, 임단협 언급은 늘고, 사망, 인정, 하청노동자 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 노동 기사 1,253건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(2개월), 「1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금」(2개월), 「김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"」(2개월)입니다. 기간 후반으로 갈수록 대통령, 발언, 서울지하철, 타결 언급은 늘고, 인정, 사망, 하청노동자 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -216,51 +216,6 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cGZhMlJIcXU1WGlCMXBjWF9vMFRBT2Z5bGxhdnNTMVlkSzNRV21mcGpHZlRJWkJGWHBycVNHZDNkVDJZbW9HZ0V4N29PODNSaVRUTHNjWkVTU3Utd0ljTWI0THB3WEdu?oc=5",
           "source": "대한건설기계신문",
           "publishedAt": "2026-07-22T07:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행",
-      "span": "2026.10~2026.11",
-      "monthCount": 2,
-      "articleCount": 19,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행",
-          "source": "2026.11"
-        },
-        {
-          "title": "서울지하철 파업 직전 극적 타결…1~8호선 정상 운행",
-          "source": "2026.11"
-        },
-        {
-          "title": "경기 버스 노사 임단협 극적 타결…첫차부터 정상 운행",
-          "source": "2026.10"
-        }
-      ],
-      "articles": [
-        {
-          "title": "서울교통공사, 노사 임단협 잠정 합의… 지하철 파업 철회",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UMzJSZFVHTGxmOEIzTDhZdjlvbmxaWWJkNlhaeEVhSk1XODdMUzR5Rm1SWWdtRndlTklnUjVpZmZrZTRtWGxOWl9TSkg1aHJrdEF0SFVGOGRRVDduYUtWRUgyaw?oc=5",
-          "source": "국토일보",
-          "publishedAt": "2026-11-25T02:35:49.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울 지하철 1~8호선 파업 새벽에 극적 타결, 출근길 정상 운행된 이유는? 🚇",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZUE4cWFPNW81anZuUEtzaHNuRXEwSzU2aVZScGczekNOY1B1eTE5d2VVc1FkbkprMnVhUVZIek9iRWlyODNJdXViUWtIYWM5VUNz?oc=5",
-          "source": "뉴닉",
-          "publishedAt": "2026-11-25T03:21:08.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "경기 버스 노사 임단협 극적 타결…첫차부터 정상 운행",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pQ05OQ1cxc3hiMEM5YkJCNjU2YUcxLW50TDdURmd1YWE0ZHBwLUVRT19BT3ZqRllaRlhmcVpqY0xzUG85MTN5NE5oelRrUWRDaFJvVEZSYmo3ZWNvVzg0SmlLdjZSZw?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-10-30T07:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -372,11 +327,15 @@
       "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 30,
+      "articleCount": 23,
       "summary": "",
       "headlines": [
         {
           "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
+          "source": "2026.11"
+        },
+        {
+          "title": "서울 지하철 노사협상 타결… 총파업 철회",
           "source": "2026.11"
         }
       ],
@@ -387,19 +346,26 @@
           "source": "MBC 뉴스",
           "publishedAt": "2026-11-25T03:12:51.000Z",
           "kind": "news"
+        },
+        {
+          "title": "서울 지하철 노조 파업 철회",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41dGF1ZkNYQnNxNDBlQjE3dmF1aXVSeEcwT29Td3pMQlhKZVdqWFRfUVBSeTRxUDFQRHA1STREZG0wWkxyNXdGbWwxZ0V6cXhNTkVESVhwWXNFQWhS?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2026-11-25T00:27:00.000Z",
+          "kind": "news"
         }
       ],
       "whyItMatters": ""
     },
     {
-      "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 파업",
+      "title": "철도노조 26일부터 준법투쟁…열차 지연 우려",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 9,
+      "articleCount": 10,
       "summary": "",
       "headlines": [
         {
-          "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 파업",
+          "title": "철도노조 26일부터 준법투쟁…열차 지연 우려",
           "source": "2026.11"
         },
         {
@@ -409,17 +375,62 @@
       ],
       "articles": [
         {
-          "title": "서울 지하철 ’총파업 초읽기’…노사 오늘 막판 협상",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95RzZieHl3V0VuX2Y5TUZROVV2aVN3anhSLUg4TFpqbFU4bjJ5X2RWdVo2SUVRazA4SGxkOHVVczZHY3JTaEJfZmJXOXR5Z1F4aEk1eVAwRmhhbUluYTdaazI0d2FMdXM?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-24T00:45:00.000Z",
+          "title": "철도노조 26일부터 준법투쟁…열차 지연 우려",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NenJpRlFrX3lCOTc5akxtTjFXTC1hcXljMlRFTmlWQjAycEUwek4xcnYzR3NVNUpZckZaRTJ4RDlwbmlqaVpTSXN1WE5HOEZnRFhhZHFoMllGMXpQ?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2026-11-25T09:09:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울 지하철 노조 준법투쟁 돌입…25일 파업 예고",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JRDd1YTdNdHBDR3A3X3FiYl9tUWpEbHQwV2VPOXh2bnloeUNJRF9GT01ydndKd1B1X1hteVI2S1dreTNXWVh6QnowTFVWYnljRTFBWGZFNlBWNnowU1NPNUZtNA?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-20T09:09:00.000Z",
+          "title": "철도노조, 오늘부터 준법투쟁...비상대책본부 가동",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81S0daVmZIcTBmNV9sUEF2SGNvWmJVdFg4Q3A1VVpUTkdUcHhpS2JBM2c0TUhzYnVIYVFFQmxoTVZrSDF0QnhvSWcwcTcyRmdjMGVMeUdqOTV5SUdfMWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-25T15:37:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "경기 버스노사 오늘 최종 조정회의…결렬 시 내일 첫차부터 파업",
+      "span": "2026.10",
+      "monthCount": 1,
+      "articleCount": 8,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "경기 버스노사 오늘 최종 조정회의…결렬 시 내일 첫차부터 파업",
+          "source": "2026.10"
+        },
+        {
+          "title": "부산교통공사 노사 단체교섭 결렬…내일 첫차부터 파업",
+          "source": "2026.10"
+        },
+        {
+          "title": "경기 버스 노사 임단협 극적 타결…첫차부터 정상 운행",
+          "source": "2026.10"
+        }
+      ],
+      "articles": [
+        {
+          "title": "경기 버스노사 오늘 최종 조정회의…결렬 시 내일 첫차부터 파업",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tVmQ1dmVCNTVVVGVSOWtJLVJCN1psYkN2LTlRSU9kRnp1bzZqNzdadjhjcl9JR0dxaEh1MWsxNXl2RzV5S0xIVDlwdUlGVlh5Z3JCeWU4OHRnZjjSAWBBVV95cUxPNFZTaDlkXzVNNmtkdGl3OXNCOGkyeDdtTVN4WDFrcWpJazJSVG9adUpad3Excmh6bkZhRURIOVVQc0VuSmk2bWhmUkVmUU5MSlVOUk12X0RmaFBqYkdjb2k?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부산교통공사 노사 단체교섭 결렬…노조 파업 선언",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFbVlid200dEp0akR4UFlEVHFwRjR3ZVZMUnJGZmEtS0N2TVRpUU83cFJhOVNTdWVTdzYtSUlNREoyMXMtd2Y1eWdZcVZPTzNtZ19rWGFBa1dxR3BFLWlpMWxhVFdyZE0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경기 버스 노사 임단협 극적 타결…첫차부터 정상 운행",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pQ05OQ1cxc3hiMEM5YkJCNjU2YUcxLW50TDdURmd1YWE0ZHBwLUVRT19BT3ZqRllaRlhmcVpqY0xzUG85MTN5NE5oelRrUWRDaFJvVEZSYmo3ZWNvVzg0SmlLdjZSZw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
           "kind": "news"
         }
       ],

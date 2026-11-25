@@ -11,7 +11,7 @@
     "monthsAvailable": 36,
     "monthsTotal": 36
   },
-  "updatedAt": "2026-11-25T05:39:40.247Z",
+  "updatedAt": "2026-11-25T21:21:19.724Z",
   "trends": {
     "months": [
       "2023-12",
@@ -91,7 +91,7 @@
           9.6,
           5.9,
           7,
-          9.2
+          8.8
         ]
       },
       {
@@ -255,7 +255,7 @@
           3.5,
           0,
           5.2,
-          6.8
+          4.4
         ]
       },
       {
@@ -296,7 +296,7 @@
           0,
           0,
           1.8,
-          2
+          0
         ]
       },
       {
@@ -337,7 +337,7 @@
           1.7,
           6.7,
           2.6,
-          2.7
+          3.1
         ]
       },
       {
@@ -378,7 +378,7 @@
           3.5,
           3,
           2.2,
-          3.1
+          2.4
         ]
       }
     ],
@@ -393,11 +393,11 @@
       },
       {
         "word": "국힘",
-        "change": 666
+        "change": 652
       },
       {
         "word": "본회의",
-        "change": 1539
+        "change": 1522
       },
       {
         "word": "종합특검",
@@ -405,7 +405,7 @@
       },
       {
         "word": "조희대",
-        "change": 1473
+        "change": 1450
       }
     ],
     "falling": [
@@ -415,7 +415,7 @@
       },
       {
         "word": "이재명",
-        "change": -56
+        "change": -63
       },
       {
         "word": "김정",
@@ -423,27 +423,27 @@
       },
       {
         "word": "민주",
-        "change": -44
+        "change": -40
       }
     ]
   },
   "stats": {
-    "articles": 6670
+    "articles": 6672
   },
   "ai": false,
-  "headline": "최근 3년 정치: 「민주유공자법, 국회 본회의 통과」",
-  "overview": "2023.12부터 2026.11까지 36개월치 정치 기사 6,670건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「민주유공자법, 국회 본회의 통과」(9개월), 「북한스러운 ‘북한판 이지스함’ – RFA 자유아시아방송」(6개월), 「윤석열 대통령 탄핵소추안 가결」(3개월)입니다. 기간 후반으로 갈수록 통과, 대통령, 국힘, 본회의 언급은 늘고, 검사, 이재명, 김정 언급은 줄었습니다.",
+  "headline": "최근 3년 정치: 「'대미투자특별법' 국회 본회의 통과」",
+  "overview": "2023.12부터 2026.11까지 36개월치 정치 기사 6,672건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「'대미투자특별법' 국회 본회의 통과」(9개월), 「북한스러운 ‘북한판 이지스함’ – RFA 자유아시아방송」(6개월), 「민주당, 조희대 대법원장 탄핵 추진」(4개월)입니다. 기간 후반으로 갈수록 통과, 대통령, 국힘, 본회의 언급은 늘고, 검사, 이재명, 김정 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
-      "title": "민주유공자법, 국회 본회의 통과",
+      "title": "'대미투자특별법' 국회 본회의 통과",
       "span": "2025.07~2026.11",
       "monthCount": 9,
-      "articleCount": 60,
+      "articleCount": 55,
       "summary": "",
       "headlines": [
         {
-          "title": "민주유공자법, 국회 본회의 통과",
+          "title": "'민주유공자법' 국회 본회의 통과",
           "source": "2026.11"
         },
         {
@@ -464,7 +464,7 @@
           "title": "「민주유공자법 제정안」 26년 만에 국회 본회의 통과 - 카드/한컷 | 멀티미디어",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jeV9QV2tDMGIwaHJpUjVGLURpbU5CaW5PN3pYdW15OWRnaFZNXzh2ajZWeXZlYlZwdUs5NUpNcDk1aEJ2QW9BVHUzcmtuOVhFd0NPN0t4ZC11SVRtaElZOTgwN0doekFpMy03T0RB?oc=5",
           "source": "대한민국 정책브리핑",
-          "publishedAt": "2026-11-23T06:15:09.000Z",
+          "publishedAt": "2026-11-23T22:13:31.000Z",
           "kind": "news"
         },
         {
@@ -576,6 +576,62 @@
       "whyItMatters": ""
     },
     {
+      "title": "민주당, 조희대 대법원장 탄핵 추진",
+      "span": "2023.12~2026.11",
+      "monthCount": 4,
+      "articleCount": 17,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "민주당, 조희대 대법원장 탄핵 추진",
+          "source": "2026.11"
+        },
+        {
+          "title": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개",
+          "source": "2025.10"
+        },
+        {
+          "title": "민주당, 최재해 ‘감사원장 탄핵’ 추진…민주화 이후 처음",
+          "source": "2024.11"
+        },
+        {
+          "title": "국회, 조희대 대법원장 후보자 임명동의안 가결",
+          "source": "2023.12"
+        }
+      ],
+      "articles": [
+        {
+          "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Oc0pCMkV1ejJHVE9OYXhTY3RBZ2V6OXExYWZfRy1lQWFhY0hXbWM2UEtqUXhiSnpET1kyOFYtUWlMcUNKbGdPajFySU1HZnZnbFE4RGRhQTR2VVRMaEtJck9Vd2ZYdl8wZFY0VU9uX3Y2ZWtp?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-20T15:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GbHMtU3ByRVUxR0p4NHRyUWRHVXhsc3FBaEtFYU0xOVNpdGo2LV9iS3VRaXdMREhKZlp6VUR3MkkwcEFKY3pmT3dLRk1NRE9JcjZzWnhncTNtSmIybDFxTF8xNklVdm5mdXhIU1dJX0Q?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-10-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주당, 최재해 ‘감사원장 탄핵’ 추진…민주화 이후 처음",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JcUhwbGk3dHJCTDlqalAwV0FudTItQ2ozUnhCN1JWOGFvb2FETG1tdDNsbWQtQXpZX1d4WWIwQ0lJZkw1YVo5MlYyOEYzM0oteUVhUTRvNmMzUdIBX0FVX3lxTE9TeHZvcTIzYVBYUDRHeVNVeEcxdzhoMmNGeEVUeVlEbXF5dU1fZ04za3MxaUxxOEZUVll0bWYyMThaZjBzbDVOR0RLMnBBY0dJVnRnanQ3NHc0Z2lpLUhZ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'조희대 코트' 열린다… 국회, 대법원장 임명동의안 '가결'",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3ejBrU3dNRllkdzR6UjNRbXVaVHFBR0JWRTFfY19Hb2NDVzdjSXJwNkJkTEJxYlEzcElNSXJ3cU9yZTNuamdHQjZITWlFV3dnUUJtM3pUbE9WVThrLVhkRXVXX1duUzA3UldZai1n0gFyQVVfeXFMT2RsXzlScVpfVnp4azF1VFRJR2JZd3BOLWpvNElzbEk2NG9LUHFoMXlTSG5CS0pYXzBTN3A5ek14dHZaaHY4TDlMZ2h4T0plXzJleVkycnU1MU9lZnd1V1R4WDZsOVpSS0pkU1czT3k5VVhB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2023-12-08T08:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
       "title": "윤석열 대통령 탄핵소추안 가결",
       "span": "2024.12~2025.04",
       "monthCount": 3,
@@ -678,40 +734,6 @@
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CWHZ5a2thZTI1STB1N3gtc1g0YmlSNEdoc1RZNmRwQmhvQjFmaGtVcUpQQ3puZmY0dm10M3pRRWdORGNPQXc0WGktTkhJaTFjWVdrVW1Jd21jMkQ1dy1ieEd3?oc=5",
           "source": "KDI 한국개발연구원",
           "publishedAt": "2025-06-30T07:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
-      "span": "2025.10~2026.11",
-      "monthCount": 2,
-      "articleCount": 12,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
-          "source": "2026.11"
-        },
-        {
-          "title": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개",
-          "source": "2025.10"
-        }
-      ],
-      "articles": [
-        {
-          "title": "대한변협 “대법원장 탄핵소추 추진 우려… 국회, 신중히 재고해야”",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ld1hZZGRkdXg3SWhwZS1veVNTaFFMcEx4cTl0b192Qi1lN0lNTXM4VVBiY0VrRzN4M2NRay0wX0lpdF9wUGlwemZpNHRReFk1blFmRUhVd3FFLXZYbXNYWWIwek1YUU9FazZYRVVn0gFyQVVfeXFMTXB1SHFmTkFVaEczNXlVRDBWSFJxR3FKNlc3MEVFMUpTYVhGUnQ1SHg0RWFVb05LRFExZkVvZVZlYUFUVGR1ZVFxUXNfS2FIeFkwTURZSEMyNUk3THlTNUZweUc5V2xhVUI2YUstNzVmWWRR?oc=5",
-          "source": "법률신문",
-          "publishedAt": "2026-11-24T03:33:10.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GbHMtU3ByRVUxR0p4NHRyUWRHVXhsc3FBaEtFYU0xOVNpdGo2LV9iS3VRaXdMREhKZlp6VUR3MkkwcEFKY3pmT3dLRk1NRE9JcjZzWnhncTNtSmIybDFxTF8xNklVdm5mdXhIU1dJX0Q?oc=5",
-          "source": "매일노동뉴스",
-          "publishedAt": "2025-10-17T07:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -866,8 +888,8 @@
       "event": "청와대 \"국회 권한 강화 4년 중임제, 국민 수용성 높아\""
     },
     {
-      "date": "2026.11",
-      "event": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”"
+      "date": "2026.10",
+      "event": "'선관위' 특검, 28일 올림픽공원서 투표지 검증"
     }
   ],
   "outlook": ""

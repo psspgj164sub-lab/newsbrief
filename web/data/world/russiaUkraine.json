@@ -2,14 +2,14 @@
   "region": "russiaUkraine",
   "label": "러시아·우크라이나",
   "range": {
-    "from": "2026-11-19",
-    "to": "2026-11-25"
+    "from": "2026-11-20",
+    "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T05:39:42.999Z",
+  "updatedAt": "2026-11-25T21:21:22.194Z",
   "ai": false,
-  "overview": "최근 1주 러시아·우크라이나 관련 국내 언론 기사 242건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「러 군용기, 울릉도 영공 '초근접'…정부, 무관 초치해 항의키로(종합)」(기사 4건)입니다.",
+  "overview": "최근 1주 러시아·우크라이나 관련 국내 언론 기사 298건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 경제 분야의 「러시아 군용기 수대 동해 KADIZ 진입…울릉지역에 위급문자」(기사 3건)입니다.",
   "stats": {
-    "articles": 242
+    "articles": 298
   },
   "themes": {
     "economy": {
@@ -18,161 +18,227 @@
       "keywords": [
         {
           "word": "푸틴",
-          "count": 11
-        },
-        {
-          "word": "회담",
-          "count": 5
-        },
-        {
-          "word": "전쟁",
-          "count": 5
+          "count": 21
         },
         {
           "word": "우크라",
-          "count": 5
+          "count": 14
         },
         {
-          "word": "APEC",
-          "count": 4
-        },
-        {
-          "word": "제재",
-          "count": 4
+          "word": "트럼프",
+          "count": 11
         },
         {
           "word": "군용기",
-          "count": 4
+          "count": 9
         },
         {
-          "word": "미중러",
-          "count": 3
+          "word": "전쟁",
+          "count": 8
+        },
+        {
+          "word": "종전",
+          "count": 7
+        },
+        {
+          "word": "APEC",
+          "count": 7
+        },
+        {
+          "word": "젤렌스키",
+          "count": 6
         }
       ],
       "items": [
         {
-          "title": "미·중·러 정상, 회담 앞두고 첫 악수...우크라이나·북핵 논의 관심",
+          "title": "러시아 군용기 수대 동해 KADIZ 진입…울릉지역에 위급문자",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "합참 “러시아 군용기 수대, 동해 울릉군 인근 KADIZ 침범”",
+              "source": "서울경제"
+            },
+            {
+              "title": "러시아 군용기, 이틀 만에 동해 KADIZ 재진입",
+              "source": "뉴시스"
+            }
+          ],
+          "span": "11.19~11.24",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "합참 “러시아 군용기 수대, 동해 울릉군 인근 KADIZ 침범”",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51T3puSGo5LUUyaDJLZ21TcmhFcWFpeXZXdUo4TGVjcUVkeGg4dlpnYTFMSkpWXy00ZXUyS2o3LXNDX0pZRXlyYi1ueUtkVTFwbXfSAVNBVV95cUxPd1BmS2hlVkFFNXBNRVpoZE9ITGhZZTlCa0Q5a1gxS0FwN1EwbmFVZjNycl9Tcl9ZSEpyM19UUXNhZXR3WGpjdDJoMDJfX0FDcWluWQ?oc=5",
+              "source": "서울경제",
+              "publishedAt": "2026-11-23T23:18:31.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "러시아 군용기 수대 동해 KADIZ 진입…울릉지역에 위급문자",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FN1RaVVh4dzE3VVZBcC1nZEhBUU1RZ1JyazFlbnRVZ0plYXhDd3ZPa09YT20xcGdFWGZ3bHRha2xrOERBMzBWYU5yZTJFdHlyTmFQNjJ3?oc=5",
+              "source": "헤럴드경제",
+              "publishedAt": "2026-11-23T23:13:26.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "러시아 군용기, 이틀 만에 동해 KADIZ 재진입",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBueEFZM0VXQ1J2Y1Fac1Q0aWR1X0IxRy1QMHExS09EdUljbUl3MmpyY1pHMTlzTXdPVG9USHY1cGI4NFAwSWItTjNmSjE5WXZJRG9JLVF1NVJCdHVSdHlXMEpEYnFaMDZWbnptVEJJeHI3ZnpGaEVtStIBeEFVX3lxTFBueEFZM0VXQ1J2Y1Fac1Q0aWR1X0IxRy1QMHExS09EdUljbUl3MmpyY1pHMTlzTXdPVG9USHY1cGI4NFAwSWItTjNmSjE5WXZJRG9JLVF1NVJCdHVSdHlXMEpEYnFaMDZWbnptVEJJeHI3ZnpGaEVtSg?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-19T11:14:13.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "우크라 공격에 러 원유처리량 45% 뚝",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "우크라 드론에 러시아 정유망 마비…원유 처리량 45% 급감",
+              "source": "OBC 뉴스"
+            }
+          ],
+          "span": "11.19~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "우크라 공격에 러 원유처리량 45% 뚝",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0QkxQcXJldmpXb2NMZjRLRms0MF91RVlidDhUMG9qVkU4cEsyZDIyRmJMNTdlOUxUMkJNWDdHY1NxbXdhMXc?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-25T08:19:59.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 드론에 러시아 정유망 마비…원유 처리량 45% 급감",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wZFhnaFgyVTFqOGNDSWtnNXdnWEowWDRDaFVFSjFaLUg4ZzBxNWE4MHhJb183SFRVcXlsTnJWMzBUajFCUzRSTGxkNjhEbWhQT2s0V2tRUW5SdU4zbm5PbU5CcXN2aVl3Mnc?oc=5",
+              "source": "OBC 뉴스",
+              "publishedAt": "2026-11-19T03:40:09.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tZ3JPQVQ2U2dnTEJXcGN3VS1tQmZTWmJHaHJiOE5qS3F5cUhDazNocEsyUG9kOENHanlsSk9OU2RJbWpTdHpMdlRfVnBwRWZMVEpxUTVxTXM4Y00xZ3dzcl94M1pRdVk?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-25T07:39:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95cldnd3MzS1FtZXIzTm9fNUt5VnZncjljbTJIUi1PNUU5X3BCdUExdDJRX0sxUDc3eWxfMlRHclRpYWNVaU5uN1JSVmdSSWZUMG50d29ld2liSk3SAWBBVV95cUxNa0lSNXhyT1dsWXdIVUpNLWs1QVlUU3R0Vlg4RjVTemhRNFY1dDVKbVFXcmx2Z0NuSTg3enk4WDdSaXBWUXNIcXI4NVlvdjNHZkZQVHZDdnJwU1lvdzV0NTE?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T07:18:29.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "러시아 군용기와 카디즈",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "러시아 군용기 카디즈 진입…울릉군 한때 경계경보",
+              "source": "매일경제"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "러시아 군용기와 카디즈",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmY2ZDOVJWcmFSMHY0UWJtUTFGLTlkTTFudXFreVJ2VlBTSExicXFmRk85LUtQY25yeEgxa0hQZy1wZTlJejJRVW5wV05CY25RX2fSAVNBVV95cUxPVGh2VGgyQnVObjBoUWFMR3VzWUt3S3VPdl9jUERrSk9nd244QXZCV0lXS2lPRWNsa2RfSGNpdGh2VW5zbzJ4ZXdWdUN3Z0ZkOEJLdw?oc=5",
+              "source": "서울경제",
+              "publishedAt": "2026-11-24T09:01:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "러시아 군용기 카디즈 진입…울릉군 한때 경계경보",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93NEZ0RXk3NXl6Q1QwSlcwV1NrQm1Wb1FINnZjSzljb0R5R1MzQ016RjNlVy01Y1lvckZSYndQbHhiWnBKVDhicnE2YjFBSXFFUHlfVGxR?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-23T23:15:44.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "러시아 무관 초치…‘울릉도 영공 코앞’ KADIZ 진입에 “노 코멘트”",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.19",
+          "span": "11.24",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
           "articleCount": 2,
           "articles": [
             {
-              "title": "미·중·러 정상, 회담 앞두고 첫 악수...우크라이나·북핵 논의 관심",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NjFkT2ptcUxPWDZxb0xuSFdVMVo4RkFzekk0VGdXbEh4MUl2aXJYWWdrQ1dscW8zUjktRVB6RTB6ODdyOFFTQkV1Xzh2YVpkdFJFZEUzcDJKTEd5OWc?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-19T00:41:00.000Z",
+              "title": "러시아 무관 초치…‘울릉도 영공 코앞’ KADIZ 진입에 “노 코멘트”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vcE5QdWt2N19CY000WkVpczJxMEhoMk5QVTN1MzVDLTA4Ql9iUkVzeVVIbU9HLVZVRUFKZVF0NmozbXkwVWxPWl9zbDVtTGx0NWNkRU5R?oc=5",
+              "source": "헤럴드경제",
+              "publishedAt": "2026-11-24T06:31:37.000Z",
               "kind": "news"
             },
             {
-              "title": "미중러 정상, 회담 앞두고 인사...우크라이나 전쟁·북핵 논의될지 관심",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvcEZncGo4RWN1YnQ3TFlPNXhHWVIwZDJpSlVNR0Fzc2h3U3liUGVYTEU1Xzd3M19oQ2tTNGw4OVRSYm9xTUJXcHpocFBqWGV0MnNYX1J2ZmUtRGhlRXc?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-18T23:06:00.000Z",
+              "title": "국방부, 군용기 KADIZ 진입에 “러시아 무관 초치해 엄중 항의할 예정”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XYUpWcFE4RkRHd3dwdzF3SlpGRUU3cXVzLWJhRWI1Nm4zdXE0TVk0MjFkb3l6SmlFNXVFZzFzZE1kN05tcFpNR1F5QTV2ZG1EWVRFQ2ln?oc=5",
+              "source": "헤럴드경제",
+              "publishedAt": "2026-11-24T02:11:56.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "러, 국경 닫겠다는 나토 회원국 에스토니아에 '전쟁'까지 거론",
+          "title": "우크라, 리비아 해상서 러시아 군함 침몰시켜",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.25",
+          "span": "11.23",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
-          "articleCount": 1,
+          "articleCount": 2,
           "articles": [
             {
-              "title": "러, 국경 닫겠다는 나토 회원국 에스토니아에 '전쟁'까지 거론",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41UHdIdUM3LTR3R182SEVfaXVhelhELUlObXB0N2hDYUxFd2dhOUdrMm16Q1ZHa2d3WmptU2pEcmp5WkVhMlM4bVlQZG9UUktnWThqSkU2aTBLUU9sWU5GOdIBeEFVX3lxTFBYTlVDdktObHk2WTJ5MXdQbGV1X21NcUxyQ1RjcExMUDJlQ19IYzZ3T050d3lUcF9WaUREVXI3M3pYRDU0empLMi1mRVplQU16enloUy1kcTVoazU0ME5wQXRiMkFLOVE0SVNMekZFQmVPelZzMEYyTw?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-25T05:22:03.000Z",
+              "title": "우크라, 리비아 해상서 러시아 군함 침몰시켜",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UVVNQa3VpeDU3VVNsd0FjX3FMUzIxajZzNFkyZHc1WWdEUUhJWUo3Mks5bnNiS0JTWF9xZUhkck5XNFVDajZhQ01rRFpFM016VXc?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-23T10:28:25.000Z",
               "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "하노이 인민위원회와 모스크바 시의회(러시아 연방) 간 협력의 세 가지 핵심 축을 제안함",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
+            },
             {
-              "title": "하노이 인민위원회와 모스크바 시의회(러시아 연방) 간 협력의 세 가지 핵심 축을 제안함",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1JZZmREOU9UZnJBZnRDNEdmNkdaV19tdjJnMWQ1VGs5eUw5dW5nZkxYeTNqVjVYbkJFZHhEbWlwZTBKX1o2UEZkVnR5QWNUX1lxOUNrbFRWZ2Rwb2szRUx2QzY5bzVvajI2TW82V3VVWFY0OHNqTzBPZnB5Ti1JWC1KQ0Q0M3FEMFZrZm5VY2FHQU9BMWMtdHNtcjJ2Z1R1ZVYxWE5UX1dQQQ?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-25T04:22:58.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "서로 다리 때리는 러·우…러는 키이우 출근길, 우크라는 크림 보급로 노린다",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "서로 다리 때리는 러·우…러는 키이우 출근길, 우크라는 크림 보급로 노린다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BU1Z4UnlBTUNOMVJuY1ZfVktrRjFKSDNxOEpWYlIzejNDN25VaW1OcWdweDVkRzlnR1FNYXJoRUxRLTJOVmNTZ2RjWWJ4LWRYMkNkbkFaRmRLQUtmVUJmRdIBeEFVX3lxTE9lS01tc0xBMjBkNHhMM2RWZTBzcm5zQnZwTUhmbHVFeDg3b0VjNmZ0RllPWFF3R0ZzcUpPS1NwN3o1LWpPejdRa0FkX05mcDRsdDl2aUZSRzZNQ0JNeUIwSDBHQU9NN3NlakFDZmV4TFczSV9QQUlEWQ?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-25T02:33:30.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "교량 전쟁…러시아와 우크라이나의 비대칭 소모전",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "교량 전쟁…러시아와 우크라이나의 비대칭 소모전",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51bkYyaVp3RlY2Z1Zlb3dNSnRVQ0s5UFpmWHJjcmt1UnR2aUI5X0xoNllURGhxMlVwZFZ3YTh5RzVKdWxJbXlXaFZ2TmNNVUdZRFM3Q3dLZGR4VWFXQzlBTE9scTN1SFZVd3c?oc=5",
-              "source": "OBC 뉴스",
-              "publishedAt": "2026-11-25T02:09:46.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "러시아의 전쟁경제를 겨누는 우크라이나",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "러시아의 전쟁경제를 겨누는 우크라이나",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSblVLaEVOQUw4dlJvRXduUlJJa0xJc0dzVDJYUkdVMFVUc1o3R2otekcxS3VwVzl1MGtZOTlmdnVaSVd0aWxKa21PQkdMTWRsSHlnWENhVGY4TWpPYXdSTEljOTM0MERYQ0E?oc=5",
-              "source": "OBC 뉴스",
-              "publishedAt": "2026-11-25T02:01:10.000Z",
+              "title": "발트해·리비아 해상서 러시아 선박 잇단 피격",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VMHgwTlNZT05fZE1rWEVEcXJ6cXNQMXM0ZEpuZ0tuN3d4ZDBTTUpVcS04NnJzZkozMTZYdGdKYTlfaGRMTEE?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-23T08:50:00.000Z",
               "kind": "news"
             }
           ]
@@ -189,7 +255,7 @@
         },
         {
           "word": "푸틴",
-          "count": 13
+          "count": 11
         },
         {
           "word": "드론",
@@ -204,58 +270,90 @@
           "count": 8
         },
         {
-          "word": "폴란드",
-          "count": 7
-        },
-        {
           "word": "나토",
           "count": 7
         },
         {
-          "word": "지중해",
+          "word": "공격",
+          "count": 7
+        },
+        {
+          "word": "사망",
           "count": 7
         }
       ],
       "items": [
         {
-          "title": "러, 우크라 키이우 공습에 최소 14명 사망…아파트 붕괴",
+          "title": "우크라이나 전쟁 사망자, 러시아 자체 통계상 50만명 육박",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "러, 우크라이나 수도권 공격해 최소 14명 사망",
-              "source": "MBC 뉴스"
+              "title": "“우크라전 러시아군 사망자 50만명 육박…2차대전 이후 최대”",
+              "source": "한겨레"
             },
             {
-              "title": "러, 우크라 수도권 맹폭…최소 14명 숨지고 아파트 붕괴",
-              "source": "연합뉴스"
+              "title": "\"러시아군 자살 1087명\"…우크라이나 전쟁 사망자는 40만명 이상",
+              "source": "ABC뉴스"
             }
           ],
-          "span": "11.23",
-          "days": 1,
+          "span": "11.24~11.25",
+          "days": 2,
           "hasPress": false,
           "sourceCount": 3,
           "articleCount": 3,
           "articles": [
             {
-              "title": "러, 우크라 키이우 공습에 최소 14명 사망…아파트 붕괴",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEIxemRMb2NiZVp5MjRFWUFSZWNOMm1oZXZTcmVIQW9nbFc5bFhmZTJaV2pOWFRmcVBDNUZHd3hYUWoxVWFVdjI4TkNwOFROS0Vpb3hXblZJWWxkYlMyb3NQZ2cwTl9obnQtOTVuYnYyUmV1VG5nd2FfYnFFZklXQw?oc=5",
-              "source": "이데일리",
-              "publishedAt": "2026-11-23T07:12:39.000Z",
+              "title": "“우크라전 러시아군 사망자 50만명 육박…2차대전 이후 최대”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0waVhNbUpraWI1U2dBNkh6TjkwQXFkaE51QXZtcVdLNG1XZzM5VjN0eHhxelNiNjhocThlaERrN0dwTDZ0Q2JxdmlDN0pldDJ1Mk9qZGNCWTFDd01TMi1reXhIN3BnRU0zLXF1aG5B?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-25T08:34:00.000Z",
               "kind": "news"
             },
             {
-              "title": "러, 우크라이나 수도권 공격해 최소 14명 사망",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uUjgzb1hybkR4c2l3cmpfZW9LS3RNNmVjbXNiQXY3R2JLMHZnMi10WjRkZzZEMDNsM1FNTVAxbFFmY1pkR2p6Ml8zRzhWWmlmTGhfV1A3RC1LY3dtVFRMb3hVd3dPTVRJdEk0RXczU0F2S0JB0gF0QVVfeXFMUEt3TXZBM2hWRk1ha2NrV2FpMGk2TkFBVzZDS3JTeDN4bzcxczAtUXZQU0lOblFBWVVmX3ktTE96MkRJcHY2VmR1c0FSMWR1dkJLY3BoYmp0U1VKMjlfX2NrcG43UnEtUTZ1Z2lrQjhuaGZqcE4?oc=5",
-              "source": "MBC 뉴스",
-              "publishedAt": "2026-11-23T06:44:56.000Z",
+              "title": "우크라이나 전쟁 사망자, 러시아 자체 통계상 50만명 육박",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WSTZOYmJObDY0N0ppSFRQQXliVm16NjRZSjB0MlRmWGpZdExCNkQ2ZFByeXVrREVNc2hhYk9qUFpyYk03THNSNmF6OTd1aWZiSkdSRDhEcl9Ta1ZLeWfSAWNBVV95cUxPUGl4T280enE1NHZiZXVsclZfZVFaaDl4TU5PekFUMXVDQWlpZmgzZFdpS3JvamZQb1FSbmszU0pQbzA4REZyY3R0blNCbU9ZMnBFcU8zZFBXUXZsblV3Uk9WN2s?oc=5",
+              "source": "BBC",
+              "publishedAt": "2026-11-25T06:08:34.000Z",
               "kind": "news"
             },
             {
-              "title": "러, 우크라 수도권 맹폭…최소 14명 숨지고 아파트 붕괴",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BNGdHb0UtbzBreTZYTmtQT1pFYlhoZkc2T2lxTEtYREFDMDdaRGI2ZjhjSFBSSC1uYUw5VnlKcFA5cDdtZDEyaFhLeWZ3WGp4amNTMk5EZ3BKbF91WFI2N9IBYEFVX3lxTE5BNGdHb0UtbzBreTZYTmtQT1pFYlhoZkc2T2lxTEtYREFDMDdaRGI2ZjhjSFBSSC1uYUw5VnlKcFA5cDdtZDEyaFhLeWZ3WGp4amNTMk5EZ3BKbF91WFI2Nw?oc=5",
+              "title": "\"러시아군 자살 1087명\"…우크라이나 전쟁 사망자는 40만명 이상",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GMksweW05YTlhMnAtdzBGUFlrUlJCZjFWOVVwSGRDTkNNVG5lZlUzeTBDbEZ3TThTdE9tejNNTEFyMG1wMFY1WkIxRHh1Y25aMnMtN2UzM2xpSWZnY2JCUU13WQ?oc=5",
+              "source": "ABC뉴스",
+              "publishedAt": "2026-11-23T20:19:57.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tZ3JPQVQ2U2dnTEJXcGN3VS1tQmZTWmJHaHJiOE5qS3F5cUhDazNocEsyUG9kOENHanlsSk9OU2RJbWpTdHpMdlRfVnBwRWZMVEpxUTVxTXM4Y00xZ3dzcl94M1pRdVk?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-25T07:39:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rSVI1eHJPV2xZd0hVSk0tazVBWVRTdHRWWDhGNVN6aFE0VjV0NUptUVdybHZnQ25JODd6eThYN1JpcFZRc0hxcjg1WW92M0dmRlBUdkN2cnBTWW93NXQ1MdIBYEFVX3lxTE1rSVI1eHJPV2xZd0hVSk0tazVBWVRTdHRWWDhGNVN6aFE0VjV0NUptUVdybHZnQ25JODd6eThYN1JpcFZRc0hxcjg1WW92M0dmRlBUdkN2cnBTWW93NXQ1MQ?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-23T06:26:08.000Z",
+              "publishedAt": "2026-11-25T07:18:29.000Z",
               "kind": "news"
             }
           ]
@@ -293,39 +391,7 @@
           ]
         },
         {
-          "title": "美 국방장관, 우크라이나 패트리엇 미사일 공급 지연…60기 승인 대기",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "\"美국방, 패트리엇 미사일 우크라 인도 늦춰…60기 승인 지연\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.24",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "美 국방장관, 우크라이나 패트리엇 미사일 공급 지연…60기 승인 대기",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOUGQzeGl2R25yZ2hueER3a3NKaGdFSVB3WFlWS3d4aGJHa09zSUJzNzg4Tml6eXBOekh0cXBVNlFMRHh5VUdSWXB1OHZJTFN3UHhMSUZzZ3hrZnp4UEstQ201eVJydFU?oc=5",
-              "source": "M이코노미뉴스",
-              "publishedAt": "2026-11-24T07:51:42.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "\"美국방, 패트리엇 미사일 우크라 인도 늦춰…60기 승인 지연\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tb0txSjUzZVE2TTUyZkFQLU5CbzhTZWpKd3hYcU1mMlN6VS1uaDlUek9aVGNSazBwLWdWQ0x2WTlJWktPUjZiRlQ0RzllZ3lsUDRPbXFuOG90ZzhUSVY4ONIBYEFVX3lxTE1tb0txSjUzZVE2TTUyZkFQLU5CbzhTZWpKd3hYcU1mMlN6VS1uaDlUek9aVGNSazBwLWdWQ0x2WTlJWktPUjZiRlQ0RzllZ3lsUDRPbXFuOG90ZzhUSVY4OA?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T07:06:34.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "러·우 전쟁 후 러시아군 극단 선택 1000명 넘어···군 사망자 수 70만명 추정",
+          "title": "전쟁 중 러시아군 1000명 넘게 스스로 목숨 끊어… 외신 보도",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
@@ -341,10 +407,10 @@
           "articleCount": 2,
           "articles": [
             {
-              "title": "러·우 전쟁 후 러시아군 극단 선택 1000명 넘어···군 사망자 수 70만명 추정",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tWlJQSU5UWDQySlM3bEJzYzYyY0lJbWxIYkxNUnZwMGh4OFp3V0RGX0JwakNqR0hVejlnOVNIM0RxTkdEdHVTUmNja1QyYmx5NXJPS2NNQ011QdIBX0FVX3lxTFA0NzlUVklrbC02WGxwdnNkRC1KaGVPX2U2VEl2Vjl0VHNILV8zRklaaGgwdlljQ0g4enhEd2lHYkdEcTZKTW1Fc3NwbURIX3N4T1BQT3FZS21sZEM4VUUw?oc=5",
-              "source": "경향신문",
-              "publishedAt": "2026-11-24T06:37:00.000Z",
+              "title": "전쟁 중 러시아군 1000명 넘게 스스로 목숨 끊어… 외신 보도",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FVkRMS0ZSaURuS0ZFeXZxMTI1UGJ5SmtPWDNNSExTZDRjYVpMX3VhSUxwTnpVRE4zOGlBWmplUHFCSzYxY0RYVmtna2hta2lQMU5XV20wZWZ0QdIBWEFVX3lxTE9ULURmNHY1NkxTdGZxS3o4ejRpLW5TU3hCSnZGdUltWGZjVlFjVFo2SWhHbUctZFNRMVJJckIxSEFjT0dCdVlRQ29zLUliRWxHWlh6TmNrVjQ?oc=5",
+              "source": "아주경제",
+              "publishedAt": "2026-11-24T08:58:14.000Z",
               "kind": "news"
             },
             {
@@ -413,7 +479,7 @@
             },
             {
               "title": "가톨릭미디어콘텐츠 대상에 '러시아·우크라이나 전쟁과 북한군'",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53SHNkWFdLSnpDNUU2VS1uTU1wQXE3SFNvd3hQY0x1QnFRcVQ2bjNnSGFtdUFneTdieXpBb1d2bW03WDMtbkFWbV80MVg1eTZQX2RFSUI4MUNwT3VBSi1BX9IBYEFVX3lxTE53SHNkWFdLSnpDNUU2VS1uTU1wQXE3SFNvd3hQY0x1QnFRcVQ2bjNnSGFtdUFneTdieXpBb1d2bW03WDMtbkFWbV80MVg1eTZQX2RFSUI4MUNwT3VBSi1BXw?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOTGJlaXN1MGttbjRhdXhnc0d0Yjk3cU5kME0tVDk4RENLZGVmU2ZSM0FadHphckFock9xT3MwMUw2V3ZMTHkxTVhRSlFza0F4VERXQVdqNG9ON0XSAWBBVV95cUxOd0hzZFhXS0p6QzVFNlUtbk1NcEFxN0hTb3d4UGNMdUJxUXFUNm4zZ0hhbXVBZ3k3Ynl6QW9Xdm1tN1gzLW5BVm1fNDFYNXk2UF9kRUlCODFDcE91QUotQV8?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-23T07:43:06.000Z",
               "kind": "news"
@@ -428,27 +494,23 @@
       "keywords": [
         {
           "word": "푸틴",
-          "count": 33
+          "count": 32
         },
         {
           "word": "우크라",
-          "count": 21
+          "count": 28
         },
         {
           "word": "젤렌스키",
-          "count": 16
+          "count": 14
         },
         {
           "word": "공격",
           "count": 12
         },
         {
-          "word": "회담",
-          "count": 12
-        },
-        {
           "word": "트럼프",
-          "count": 10
+          "count": 12
         },
         {
           "word": "유럽",
@@ -456,60 +518,14 @@
         },
         {
           "word": "전쟁",
-          "count": 7
+          "count": 9
+        },
+        {
+          "word": "회담",
+          "count": 8
         }
       ],
       "items": [
-        {
-          "title": "러 군용기, 울릉도 영공 '초근접'…정부, 무관 초치해 항의키로(종합)",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "러시아 군용기 울릉도 근접 비행에 정부, 항의···주한 러시아 국방무관 초치",
-              "source": "한국NGO신문"
-            },
-            {
-              "title": "러 군용기, 울릉도 영공 직전까지 근접…정부, 러시아 무관 초치해 항의",
-              "source": "경향신문"
-            }
-          ],
-          "span": "11.24",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 4,
-          "articles": [
-            {
-              "title": "러시아 군용기 울릉도 근접 비행에 정부, 항의···주한 러시아 국방무관 초치",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yVGN2UHJpRTBYRW1tVmdhWWVxbVNSNllJVENWbk8zMDY1M2tYV211YXpuNkhoMUR4VHFhcVAyTTFvWXNoMzBpQjZtWEpKa2xVRll3bkZ5ZTVqeDlzOEdIMnZwamptMlJa?oc=5",
-              "source": "한국NGO신문",
-              "publishedAt": "2026-11-24T09:18:39.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "러 군용기, 울릉도 영공 직전까지 근접…정부, 러시아 무관 초치해 항의",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVkE3RGtLZW41SWtzalEwbzBteEF0dThobjd2UTdXQ1RSS05Ud1dLeUFUWWZZREgyenFPNG1Yd09xMXN2b2VlTVFQWjN1b3VURkZUdDR6WmhhUdIBX0FVX3lxTE0zMGpEcGItRk5GdVRJZXJTT1plZWFXb2RxaFFzZDZWNmFRekhVakR5S3ExcF9ZR0g4OWpYQ2FmWkdUOHQ3NUJBd0tvV3lXU3BQZlUxSUttb0hVd19zXzlr?oc=5",
-              "source": "경향신문",
-              "publishedAt": "2026-11-24T07:59:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "러 군용기, 울릉도 영공 '초근접'…정부, 무관 초치해 항의키로(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wSzhxMGZPYk5ZZzBHUFhJYzktT1lJeUtDc0Z5cHFkQVBiTWp6UjJNYlVpVDAtWXdBVXdqRm1TU1dOckxhTTNmbFJPLUo4VnlCTEhWekFZYlBTeE3SAWBBVV95cUxQME9lUjRrS2U1SE1JcXI1cHZEUHRWajhpZE5Kbm5qRXptZlFjSnpaT1d0Vy1ydlVkVzR6TDduRWJ3MTZXLXk0dlNSRTlDWjZxUm51a09kMHVleXc3S0Q5UHI?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T04:04:35.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "러 군용기, 울릉도 영공 '초근접'…정부, 무관 초치해 항의 예정",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01NzQ5Z3RwU3R2Skc1ZXcwSjNHZmVHejdnLVdhRnRiMHpKRXlLenZDbzJ0WjdLc0tjbzdINjFEdUZnRHRBYVV4LV9mdlIxQmNnZmd5ZGFNcmQ0ZGvSAWBBVV95cUxQR0J2ZDVyZGpxbmNTWmN0Ml9BTkZhdVRLU1F3X2poRElTUFhNN0pGWWJ1WlV0WTVQU1dmQXlteHkwc3lIdkoyMEpvQlRzUkM5UXotcVIzUmJPMFNGUzRBdVo?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T02:49:57.000Z",
-              "kind": "news"
-            }
-          ]
-        },
         {
           "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
           "summary": "",
@@ -554,49 +570,6 @@
           ]
         },
         {
-          "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…G20 계기 가능성",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "젤렌스키 \"성탄절 전 평화협상 제안에 동의\"...미 G20 계기 시사",
-              "source": "YTN"
-            },
-            {
-              "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"‥G20 계기 가능성",
-              "source": "MBC 뉴스"
-            }
-          ],
-          "span": "11.22",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "젤렌스키 \"성탄절 전 평화협상 제안에 동의\"...미 G20 계기 시사",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5aGl0Mm5SallVdEZ6d3lYelh3Wk5lZXlxM0d1OGJmSkRPMC1LdENWbDN3VGN5V0ROWW5VSEJWY3oxSjFRSU1uYmdXcVk3RnZONFZLWkwyWDRKV3lpV0E?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-22T13:51:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"‥G20 계기 가능성",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpSWFSQ0xxSERaWTJJUmVEbWhiQUVzVmMtbHBDZFllR24xZUdlY05mb25zNXhaMWhiWlk4R3FwV1NKaHdJd2h3b1JkMjctbTY1MW4zM0ROTWNJZWR0UFE0NDU4aXJkV0VGenVCLVBoUmhiRG5E0gF0QVVfeXFMTk41eWNtTDN6TnVQRDFMQkROa3hDeURTZHIxeHYtVW41aG9MMlBRX0ptdzhBNkd3ZHM1RW82cXBMMVQxb2YxSnlURnYxNVB2SFM5X3N4aEUydTVsaGlOS1ZjSUJCVHFlV3FITTZpZmtYMFVEVlk?oc=5",
-              "source": "MBC 뉴스",
-              "publishedAt": "2026-11-22T00:46:55.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…G20 계기 가능성",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12RVNkRnVSQWQ3NWhMR1NYamhHV2ItM1JRaEN4eHpqb0FzVjgtWFlaLUdWSXdWaE04TTd3T3pSUTdlQU0tVWwwTjRCR2ZsVHJiLTJVS08zcFVKbnl1R3JjSdIBYEFVX3lxTE12RVNkRnVSQWQ3NWhMR1NYamhHV2ItM1JRaEN4eHpqb0FzVjgtWFlaLUdWSXdWaE04TTd3T3pSUTdlQU0tVWwwTjRCR2ZsVHJiLTJVS08zcFVKbnl1R3JjSQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-22T00:35:27.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
           "title": "독일 총리 \"2008년 우크라 나토 가입 막은 건 실수\"(종합)",
           "summary": "",
           "whyItMatters": "",
@@ -616,7 +589,7 @@
               "title": "\"2008년 우크라 가입시켰어야\" 나토의 후회",
               "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVZHOUt3XzVQakpwaVpKWGJtWUw5V3FxNWFmQ2J1Qy1zYTdRdFFSdklDZU1uOVlCZVprMTgzUGw2UHhwbTQzejRHQk1iN0pUYXFwbmhSTXdjTUR4bWRqbk9WLWFNYW5wZzFmRDVwajRTZjlzUXVwNHdrVmRhU19zamZOM0JpWDFLLTdZeG9WZF92Y0p5VlVnUU1SV3VJQQ?oc=5",
               "source": "조선일보",
-              "publishedAt": "2026-11-24T15:41:00.000Z",
+              "publishedAt": "2026-11-24T15:46:39.000Z",
               "kind": "news"
             },
             {
@@ -675,6 +648,38 @@
           ]
         },
         {
+          "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tZ3JPQVQ2U2dnTEJXcGN3VS1tQmZTWmJHaHJiOE5qS3F5cUhDazNocEsyUG9kOENHanlsSk9OU2RJbWpTdHpMdlRfVnBwRWZMVEpxUTVxTXM4Y00xZ3dzcl94M1pRdVk?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-25T07:39:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95cldnd3MzS1FtZXIzTm9fNUt5VnZncjljbTJIUi1PNUU5X3BCdUExdDJRX0sxUDc3eWxfMlRHclRpYWNVaU5uN1JSVmdSSWZUMG50d29ld2liSk3SAWBBVV95cUxNa0lSNXhyT1dsWXdIVUpNLWs1QVlUU3R0Vlg4RjVTemhRNFY1dDVKbVFXcmx2Z0NuSTg3enk4WDdSaXBWUXNIcXI4NVlvdjNHZkZQVHZDdnJwU1lvdzV0NTE?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T07:18:29.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
           "title": "푸틴 \"러시아 석유시장 어려워\"…우크라 공격에 보복 예고",
           "summary": "",
           "whyItMatters": "",
@@ -702,6 +707,38 @@
               "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UeGkzVEd6YjNNbDMwVGVuS2lxWWpTbVJkU05lYnB4NFJfZGpUcXlzV29zemdja003b3FQVXQwY1R6Vjl0bHMyNGo0N3RMQmNUSFFpUHdJeWNIanM?oc=5",
               "source": "KBS 뉴스",
               "publishedAt": "2026-11-24T17:44:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "러시아 군용기 울릉도 근접 비행에 정부, 항의···주한 러시아 국방무관 초치",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "러 군용기, 울릉도 영공 직전까지 근접…정부, 러시아 무관 초치해 항의",
+              "source": "경향신문"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "러시아 군용기 울릉도 근접 비행에 정부, 항의···주한 러시아 국방무관 초치",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yVGN2UHJpRTBYRW1tVmdhWWVxbVNSNllJVENWbk8zMDY1M2tYV211YXpuNkhoMUR4VHFhcVAyTTFvWXNoMzBpQjZtWEpKa2xVRll3bkZ5ZTVqeDlzOEdIMnZwamptMlJa?oc=5",
+              "source": "한국NGO신문",
+              "publishedAt": "2026-11-24T09:18:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "러 군용기, 울릉도 영공 직전까지 근접…정부, 러시아 무관 초치해 항의",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVkE3RGtLZW41SWtzalEwbzBteEF0dThobjd2UTdXQ1RSS05Ud1dLeUFUWWZZREgyenFPNG1Yd09xMXN2b2VlTVFQWjN1b3VURkZUdDR6WmhhUdIBX0FVX3lxTE0zMGpEcGItRk5GdVRJZXJTT1plZWFXb2RxaFFzZDZWNmFRekhVakR5S3ExcF9ZR0g4OWpYQ2FmWkdUOHQ3NUJBd0tvV3lXU3BQZlUxSUttb0hVd19zXzlr?oc=5",
+              "source": "경향신문",
+              "publishedAt": "2026-11-24T07:59:00.000Z",
               "kind": "news"
             }
           ]

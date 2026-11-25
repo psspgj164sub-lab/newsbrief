@@ -2,8 +2,8 @@
   "month": "2026-11",
   "category": "labor",
   "ai": false,
-  "builtAt": "2026-11-25T05:39:34.984Z",
-  "articleCount": 289,
+  "builtAt": "2026-11-25T21:21:15.951Z",
+  "articleCount": 292,
   "summary": "",
   "topics": [
     {
@@ -11,8 +11,8 @@
       "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
       "summary": "",
       "importance": 5,
-      "articleCount": 30,
-      "sourceCount": 19,
+      "articleCount": 13,
+      "sourceCount": 9,
       "articles": [
         {
           "title": "'출근길 대란' 피했다‥서울지하철 노사 협상 타결",
@@ -22,10 +22,10 @@
           "kind": "news"
         },
         {
-          "title": "서울 지하철 밤샘 협상 끝 타결…출근대란 피해",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1LWZROEdnWUNvbG9mZUM5bG1GVHhGblJieFl3Z1VZeHZsVFUtcDFielZxWFJVdzMwTjByQjdlQi1nT2xTc2Zrd1UyZ2Y3QndPSTNNRm9xako2d0g2dzRoV0F5Q25rOWM?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T00:43:00.000Z",
+          "title": "서울지하철 임단협 타결로 파업 철회…`출근길 대란` 피했다",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEl4Zmhtb2M1akxiMzBIMHZfUFpLcDRINmdBcTdmZkN2OEpLdzhudGhEdk9uS3N5VDBqLU8ybHk4NnA1MWtkWFlYeW9qQkM0cWRSdVJmX0lPSVU2WW1aQkU0Sm5CaVQxY1VfOVFXeUNzclVGYnA5X25pdmxTT1pYY2VET1pDUW1GR29v?oc=5",
+          "source": "TBS 서울",
+          "publishedAt": "2026-11-25T01:58:00.000Z",
           "kind": "news"
         },
         {
@@ -39,62 +39,62 @@
     },
     {
       "ref": "2026-11#t1",
-      "title": "서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행",
+      "title": "서울 지하철 노사협상 타결… 총파업 철회",
       "summary": "",
       "importance": 5,
-      "articleCount": 13,
-      "sourceCount": 13,
+      "articleCount": 10,
+      "sourceCount": 8,
       "articles": [
         {
-          "title": "서울교통공사, 노사 임단협 잠정 합의… 지하철 파업 철회",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UMzJSZFVHTGxmOEIzTDhZdjlvbmxaWWJkNlhaeEVhSk1XODdMUzR5Rm1SWWdtRndlTklnUjVpZmZrZTRtWGxOWl9TSkg1aHJrdEF0SFVGOGRRVDduYUtWRUgyaw?oc=5",
-          "source": "국토일보",
-          "publishedAt": "2026-11-25T02:35:49.000Z",
+          "title": "서울 지하철 노조 파업 철회",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41dGF1ZkNYQnNxNDBlQjE3dmF1aXVSeEcwT29Td3pMQlhKZVdqWFRfUVBSeTRxUDFQRHA1STREZG0wWkxyNXdGbWwxZ0V6cXhNTkVESVhwWXNFQWhS?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2026-11-25T00:27:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울지하철 파업 철회 … 인천교통공사도 임금협상 순항",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1STUtCdFJWeVI0anFmc3djMHEtQU1mM0RUWUQtT2ZhUlExS1R5T2pubnJJaFZpZjkxYkFmaFp5cEpnaFhrNnZwOUl6VGZoS24wR1R0aGdZUy10MDhPOWxYSXRpbExXZmZUM2wxc1R3?oc=5",
-          "source": "인천뉴스",
-          "publishedAt": "2026-11-25T00:53:31.000Z",
+          "title": "서울지하철 노사 협상 극적 타결...총파업 철회",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMeC1XWUlTR01HX1NWZmloZlkyNzRyaHdrM1E2UUcwYTYxUjlaclhtcGk0SGVJdEFqejJGMzhkVU9vSGs3c0V4QTdxd18tVWQ3UnBPbWU1Y1dIWDQyeFpqbHhCMHJKT0tHOVFYR3RrWQ?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-24T23:03:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9leWFab0ViLXM3Y3AwczltUTM3S2Z6bDZqdHpPbDRJOGpXUEF2LTBxc3Y5QVJtNXljaXV5RllKZEZjUFJydHNBZXFtZGI3c0c0SDFLNWdsY2tLVjRIdndQakZ4MnhjUXB6bjI4?oc=5",
-          "source": "철도경제신문",
-          "publishedAt": "2026-11-25T00:20:41.000Z",
+          "title": "서울 지하철 1·2·3노조 모두 임단협 타결…파업 철회",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SVUE3WXRjbzRsQ0p3R1ozeVNQQnAwbjNwRy1PaHgxbVFHNUNNUGdDYTA3X0JnOXhIc1BVZ18yYk82WGJER1Iyc0NXUHBuR3pJZ3N6ZVJoWWhpQ2VOVTdZWdIBYEFVX3lxTE9SVUE3WXRjbzRsQ0p3R1ozeVNQQnAwbjNwRy1PaHgxbVFHNUNNUGdDYTA3X0JnOXhIc1BVZ18yYk82WGJER1Iyc0NXUHBuR3pJZ3N6ZVJoWWhpQ2VOVTdZWQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-24T19:17:33.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t2",
-      "title": "서울지하철 파업 직전 극적 타결…1~8호선 정상 운행",
+      "title": "철도노조 26일부터 준법투쟁…열차 지연 우려",
       "summary": "",
       "importance": 4,
-      "articleCount": 4,
-      "sourceCount": 4,
+      "articleCount": 6,
+      "sourceCount": 6,
       "articles": [
         {
-          "title": "서울 지하철 1~8호선 파업 새벽에 극적 타결, 출근길 정상 운행된 이유는? 🚇",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZUE4cWFPNW81anZuUEtzaHNuRXEwSzU2aVZScGczekNOY1B1eTE5d2VVc1FkbkprMnVhUVZIek9iRWlyODNJdXViUWtIYWM5VUNz?oc=5",
-          "source": "뉴닉",
-          "publishedAt": "2026-11-25T03:21:08.000Z",
+          "title": "철도노조 26일부터 준법투쟁…열차 지연 우려",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NenJpRlFrX3lCOTc5akxtTjFXTC1hcXljMlRFTmlWQjAycEUwek4xcnYzR3NVNUpZckZaRTJ4RDlwbmlqaVpTSXN1WE5HOEZnRFhhZHFoMllGMXpQ?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2026-11-25T09:09:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울지하철 파업 직전 극적 타결…1~8호선 정상 운행",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wS3c3TnZJclRBQldaUmVzamtaTlVDN3BRaVJ3VDFaUk04UDF6Q2FPdEdlNDdTY0hXVFI3cU9XN0JrUnQ0VUM4N1RXOEJJYmZ4S1lDcnRKdmVraVUwbnktT05ySHNrRGNP?oc=5",
-          "source": "한국NGO신문",
-          "publishedAt": "2026-11-24T22:32:03.000Z",
+          "title": "철도노조, 26일부터 준법투쟁 돌입…수도권 전철·KTX 운행 지연 우려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tSVVrSVJFTUpSOG5Iak5zRXp5SkdqWGJPZUpReWN6dTczendmZy1paEswNkRHM25GSE9Ec3ZnMHZWUGZ6b0NFR0VVNk8zMTY5YktuU01ib1VaX0U?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-11-25T08:55:27.000Z",
           "kind": "news"
         },
         {
-          "title": "서울 지하철 노조 파업 철회…지하철 1~8호선 정상운행 外",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWYTVkdXZmeVRBWThuakI1ZWlvakZzT1JXZXBzWFJ3UXlBWER3OUNwdTh6UVY3dUx4emFBd1pqWndlMVZleTNhRGIwZk5QSUgyc2ZVRWlKS3Jac1BTY1U1TUJzLW1JSkE?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-24T21:52:00.000Z",
+          "title": "철도노조 26일 오전 9시부터 준법투쟁…대구경북 열차 운행 차질 우려",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wQVNQTkdRdlZfaE1ucmlEZkpQZDE1RmJ1cDNvYS1IalFCSTByMVVtVXFWVW00dUw0NHlZMnRQRUV4aDZiRThWNXhmQkpiZE1Ic2x0aFFKa25EZw?oc=5",
+          "source": "경북매일",
+          "publishedAt": "2026-11-25T07:53:00.000Z",
           "kind": "news"
         }
       ]
@@ -104,9 +104,16 @@
       "title": "세아베스틸 전 대표 중대재해처벌법 1건 추가 '기소'",
       "summary": "",
       "importance": 4,
-      "articleCount": 4,
-      "sourceCount": 4,
+      "articleCount": 6,
+      "sourceCount": 6,
       "articles": [
+        {
+          "title": "‘노동자 5명 사망’ 세아베스틸 전 대표…중처법 위반 1심 집행유예",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SS1ItakhnRTZQTUg5MVBSSzF4ODBFa2dBcy15LTlReUFwZ1FBbVBmenJuOUpIam5wOVFkM3pTZHpiR1VDRWdyQzdhVm5QWjBsNllOeUM3SUJGcFQtX0dGbDlKVnh0UmZQbjhsZ1FR0gFyQVVfeXFMTTZhT1VYeC1YWmFkanFKU0NrVUN0LVJrZFBleDRSMVlfMHNIWnd4V0dYbnFCenE2Tkd0VDVUd01JTTlYWVU4MWRPeDdWNFRBcXA1OHEteDNaakloU0RrU0g3NF9aR3pZZ29mYng1dGt5OEVn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-11-24T09:05:08.000Z",
+          "kind": "news"
+        },
         {
           "title": "세아베스틸 전 대표, 중대재해처벌법 위반 징역 2년·집행유예 3년",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSTJBWTBSTGNlZldFVm5XZFktR1ZweDFzZ0p1SGJQQ3VHeGhnWlRqU1hpQ01tWlVZRTQ3dnJUb1VtM2JSd2JWbHB0d1dHZ0RVWVBoNHk5LW5qejR0R3o1TzRkeEVfdFU?oc=5",
@@ -120,49 +127,104 @@
           "source": "세이프타임즈",
           "publishedAt": "2026-11-23T10:45:19.000Z",
           "kind": "news"
-        },
-        {
-          "title": "공소청, 중대재해처벌법 위반 세아베스틸 전 대표 추가 기소",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MdW9wcWNvb19keFFhV2ZvTmY1ZDdIVnZmOTFqVUtCZS16M2thaG50NV9hVWpzWXRYbHcwSXVvb2hTVVl4UGgwRTh3Q1JWX1NKbURSNXA3eXE0MGxNOFZXYlhqdnlwTG8?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-23T07:51:00.000Z",
-          "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t4",
-      "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 파업",
+      "title": "철도노조, 내일부터 '안전 운행 투쟁'…운행 차질 불가피",
       "summary": "",
       "importance": 3,
-      "articleCount": 5,
-      "sourceCount": 3,
+      "articleCount": 6,
+      "sourceCount": 5,
       "articles": [
         {
-          "title": "서울 지하철 ’총파업 초읽기’…노사 오늘 막판 협상",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95RzZieHl3V0VuX2Y5TUZROVV2aVN3anhSLUg4TFpqbFU4bjJ5X2RWdVo2SUVRazA4SGxkOHVVczZHY3JTaEJfZmJXOXR5Z1F4aEk1eVAwRmhhbUluYTdaazI0d2FMdXM?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-24T00:45:00.000Z",
+          "title": "철도노조, 오전 9시부터 ‘안전운행 투쟁’…KTX 등 열차 운행 차질 불가피",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fY1dwR1N5dU1NQ1dEbm5QY2Y5Njd2cW1ub01pNkV2T0xTVXpVS3RQR2hMUFRhZUxDOEpHemhMcWxiLTdtc25RMXREbVA3TUx4Ty1Sd0FR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-25T20:26:48.000Z",
           "kind": "news"
         },
         {
-          "title": "서울 지하철 파업 D-1…서울교통공사 노사 오늘 막판 협상",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtV2MyOS02Q0tFNndMMHlWZEVDWnV4MnRZRzFXbDhYWWZ5SmRZRUIxYUJTWWFZVkx3c0xqcDk3QzV2ZWp6NkJPVW9lcnQxRHd5X01KQWxCb2xEQdIBX0FVX3lxTE5yOXpaS3lGc2lGSEpnejdJQ1E0RFE3Vkk1T2NncUtwVDZURjdqRGhYWjd6U2s2N0hEcmdEZFFsUWR5d1dsWWVJSzRodk5GNlkweHBoTUlEbjhxTWVITF9V?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-24T00:30:00.000Z",
+          "title": "철도노조, 내일(26일)부터 ‘안전운행 투쟁’… 일부 열차 운행 차질 예상",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1QXVVSHM2Wl9tLTdSSjhOaUR0VVVRZ2hzRlVCeUN3M1N2a0g5UHEyZlZ3dTluVVE0ck1SajByOFJDVU9aVEhhOWk0dEFfeTR0NzdXdTZHdmdwczA?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T09:48:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 첫차부터 파업",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TS2g4NjhHYm1tMG44SjlsNnZDczVWc3BsNFpMVkYxeGtsY2RrNUtPUWpJOTducngzaFZ2RXBWMzVSeEd6TW1BRnBEMjlWSWl3RVJGdkNZRGJ1S0HSAWBBVV95cUxPcU91R3I1eDJGaGREVThsbkM5a2JpckpYRDVsZXF4QkVBMHJNZTBsQnZWUFVfUzdpZmlJclNxQk9ZeUk4VUNtUnA2YW84NVJzV1RsNG1hVUtKNVJoN2toOF8?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-23T20:05:01.000Z",
+          "title": "철도노조 내일부터 ‘안전운행 투쟁’…열차 감속·시간외업무 거부",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSHdLOUNseE1ncXItaVpyc2ZaUC1YUUtLZW94NzNLal9XUmg2MlpqMUtmRUdJalhtbDVCcTFrVmZiV0VsazN6WWdnTlo5ajBGMVdtZEIxTXpLdURLa1JpUlkyMVI0SGFNOTRaWmtOYjVUdFA5SUHSAWZBVV95cUxQeUhLUE5EdUY1MGFmUkRPXzNnRVZieVQ5YnpNVDNaNUsxUmZOaUg4dVBYMGFyZ3Y2a19WSmhQcFZLQlVjZ0Y4V0RFbngxSXBXZDZVRUdNNmlLRGN1SFVzTzFLZ0dCbXc?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2026-11-25T08:59:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t5",
+      "title": "대구가톨릭대병원 노조, 8년만에 총파업",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 5,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "대구가톨릭대병원 노조 8년 만에 파업···인력 충원·처우 개선 놓고 이견",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HMTEzVGFfMzBHM01BdG05OG9xbjdYWHNuYkdzUEMyOTFheFdxN2xCVzZpZDQtZ3BCMG1HQUJCYzBjbW94TzhZbWJTOVFNN2M?oc=5",
+          "source": "뉴스민",
+          "publishedAt": "2026-11-25T14:51:19.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대구가톨릭대병원 노조, 8년만에 총파업",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53Q1N1bnJFOVRFd2pFdWg4TmZXUzMtSG9iRzFEbWtfMmNRdU1uRDVicmhidGd0Sy1waUotX3JVUlpDTGdBajZ6YWpLYU9ZYi1hVGptYTFHUlRlcG5qUkJMMFhzZVVOTWdpWUNMZg?oc=5",
+          "source": "데일리메디",
+          "publishedAt": "2026-11-25T10:47:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대구가톨릭대의료원 노조 “처참한 노동 조건에 총파업 돌입”",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xNnNlSHd3c1VJSzgtT3hSQ0tFRU1PTHJaRGF1bS1PNzZlQ1BETUZWa2tmdlYyM3R6Z1lnR3VWV3h1cy13eW5tSk9ZUGlpNFVSbFpNNjhSWU5WWVRuMWRFUVJiWC02dE9VZzk5RDA0a9IBc0FVX3lxTE1wakt0bG1Kb3lDRGJ1THhUZE40dkFDWWF2eGFQTmVhQU1LWXJxQTc2YlY5ZF9kbDcybkIyTE9HU2J2UlVxSHRPTjcyT3V1TWFxLVd4VmhLQkpsbzlpeVVQdGdfMkhTRk4zbk1fRnEwcjBUTlU?oc=5",
+          "source": "청년의사",
+          "publishedAt": "2026-11-25T07:46:30.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t6",
+      "title": "올해 2분기 임금근로 일자리 40.6만개↑…증가분 68%는 60대 이상",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 5,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "일자리는 40만개 늘었는데 20대만 감소…증가분 68%는 60대 이상",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzTzNKZXZ2bzFWNzVqZTBfbWp5WlB5SER3LVMtSWZlVDBBdVpLd1pwSFpOeE5UeUVBZUkxanJIVG1taUtKbjJkVzA3dUkyODV0d1pWUUZ3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-24T03:41:10.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "올해 2분기 임금근로 일자리 40.6만개↑…증가분 68%는 60대 이상",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWExXdHhrdDZsU2dMZk85aVJndVdYTHVfYk5tUVR2TGp0ZmV3c1BxSXJtTHl0VEhsN1lJQXdPZkNXWTctOEV4SHkxWk9meEtCb0pFQW1DbS0yaFhEa1dZWkI1Mk0tc1ZmeXJNVC1xbF8?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-11-24T03:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2분기 임금근로 일자리 40.6만개↑...20대 이하 '고용 한파' 15분기째",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iSVlnbGw5Q2pBbHJHR3p5MlEyYUpZXzRpX0NVQy1KMEFzMVpIOXpvNVc2OG02YUc2UHk2VUt3NDNwMWtWaHpOaGQ0aC0wUXJxTTBPem5kUWt4bUZq?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2026-11-24T03:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t7",
       "title": "서울지하철 노조, 오늘부터 준법투쟁",
       "summary": "",
       "importance": 3,
@@ -170,10 +232,10 @@
       "sourceCount": 3,
       "articles": [
         {
-          "title": "서울 지하철 노조 준법투쟁 돌입…25일 파업 예고",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JRDd1YTdNdHBDR3A3X3FiYl9tUWpEbHQwV2VPOXh2bnloeUNJRF9GT01ydndKd1B1X1hteVI2S1dreTNXWVh6QnowTFVWYnljRTFBWGZFNlBWNnowU1NPNUZtNA?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-20T09:09:00.000Z",
+          "title": "철도노조, 오늘부터 준법투쟁...비상대책본부 가동",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81S0daVmZIcTBmNV9sUEF2SGNvWmJVdFg4Q3A1VVpUTkdUcHhpS2JBM2c0TUhzYnVIYVFFQmxoTVZrSDF0QnhvSWcwcTcyRmdjMGVMeUdqOTV5SUdfMWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-25T15:37:00.000Z",
           "kind": "news"
         },
         {
@@ -191,157 +253,119 @@
           "kind": "news"
         }
       ]
-    },
-    {
-      "ref": "2026-11#t6",
-      "title": "2분기 임금근로 일자리 40만개 증가, 20대 임금근로 일자리 15분기 연속 감소",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 3,
-      "sourceCount": 3,
-      "articles": [
-        {
-          "title": "2분기 임금근로 일자리 40만개 증가, 20대 임금근로 일자리 15분기 연속 감소",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1FseXo0cl9LRjIyaDZ1dnhVZWtCdzdnWlE5MjJMWTNnWmxjb2xBd0JkcHdaQlZLazZKQTZBcTlhNjNwQVNVYXdndWFUcUp0amZDRGZFMWtKa3VjSGlMcU9lR2YzNE81eUNWYy1RSEI3Tm1jMUo5bUZWeVJ5QTNDVUhzeE1OWG5IMFpsNkhR?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-24T03:58:21.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "2분기 임금근로 일자리 40만6000개 증가…20대·제조업은 감소",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmN3ppd1VVeVdFRFVOZFNEeTZWLXVVX3NWWkExdWN2WUx4NGJIZnJXZjB4YWdrOThxSThwY2IxR0ZhcUtHOVp3V3ZPd2I4QQ?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-11-24T03:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "20대 이하 임금근로 일자리 지속 감소",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yOEdmRXp5b3dNRV9rd0Ziak9MMEJ3VGJManUxRzNEZTJJaHItS0tSa3YyaHMzbXA4RzZUQVFnR2Zobm1IQ1ZJelJzQ1FiQlJ4WjQ5ZnR3aWZCNVBoV2VsRHJEbVl6dExkMXZHWmtpdVU?oc=5",
-          "source": "매일노동뉴스",
-          "publishedAt": "2026-11-23T08:00:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t7",
-      "title": "거제시, 중대재해 예방 대응 역량강화 교육",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 3,
-      "sourceCount": 3,
-      "articles": [
-        {
-          "title": "거제시, 중대재해 예방 대응 역량강화 교육",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16c05MMmM0akh5NjNMTDYwVHJtdzdHY05DSE1oaVpENWUyRkozNVNpNXVKVXIwT29RQzNhMEJjUmNfaVNVVHRRbmx4cU5PQUZZSldCcVQyUmVGUFpXN1BNNVdlQmFZRG04TkE?oc=5",
-          "source": "경남도민일보",
-          "publishedAt": "2026-11-23T08:26:23.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "시, 중대재해 예방 위해 공무원 실무역량 강화",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ycy1pdldjQ214WGlrbU5rS3U4bGVUN2M2UHRqMnhjcTRPS0FDc1NmbjRpQ0NYX2Nwd1N2c0haRFJVU3pPY2szYjNLR1ZrcVpsM2lVM21rcmNGLVZBQmpMY2RjeS1oTmRO?oc=5",
-          "source": "영주시민신문",
-          "publishedAt": "2026-11-19T06:50:42.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "순천시, 중대재해 예방교육으로 안전관리 역량 강화",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fUW9UMmM5endPbTZXcE10UVdhNzNDb0x4M2ltM2RxS0dEMHBJbTQ4REJNeXVvUG1HZzY0bHpNN1BHZXdpck9CTGMyOGVOQ0V4UXJjNVVETzAzYW9ZZDM0V1ZsM2Q4S0NzR3c?oc=5",
-          "source": "뉴스깜",
-          "publishedAt": "2026-11-18T07:21:43.000Z",
-          "kind": "news"
-        }
-      ]
     }
   ],
   "keywords": [
     {
-      "word": "타결",
-      "count": 39
-    },
-    {
       "word": "서울지하철",
-      "count": 33
+      "count": 25
     },
     {
       "word": "지하철",
-      "count": 32
+      "count": 21
     },
     {
-      "word": "철회",
-      "count": 29
+      "word": "철도노조",
+      "count": 21
     },
     {
-      "word": "서울",
-      "count": 24
-    },
-    {
-      "word": "임단협",
-      "count": 23
-    },
-    {
-      "word": "출근길",
-      "count": 22
-    },
-    {
-      "word": "총파업",
+      "word": "타결",
       "count": 19
     },
     {
-      "word": "청년",
+      "word": "철회",
+      "count": 18
+    },
+    {
+      "word": "서울",
       "count": 16
     },
     {
-      "word": "운행",
-      "count": 14
+      "word": "총파업",
+      "count": 15
     },
     {
-      "word": "정상",
-      "count": 14
+      "word": "교섭",
+      "count": 13
+    },
+    {
+      "word": "준법투쟁",
+      "count": 13
+    },
+    {
+      "word": "출근길",
+      "count": 13
     },
     {
       "word": "협상",
       "count": 13
     },
     {
-      "word": "극적",
-      "count": 13
-    },
-    {
-      "word": "대란",
+      "word": "운행",
       "count": 12
     },
     {
-      "word": "교섭",
+      "word": "예방",
       "count": 11
     },
     {
-      "word": "서울교통공사",
-      "count": 11
-    },
-    {
-      "word": "피했다",
+      "word": "열차",
       "count": 10
+    },
+    {
+      "word": "임단협",
+      "count": 9
+    },
+    {
+      "word": "청년",
+      "count": 9
+    },
+    {
+      "word": "대표",
+      "count": 9
+    },
+    {
+      "word": "위반",
+      "count": 9
+    },
+    {
+      "word": "노동자",
+      "count": 9
+    },
+    {
+      "word": "사망",
+      "count": 9
+    },
+    {
+      "word": "투쟁",
+      "count": 8
+    },
+    {
+      "word": "대란",
+      "count": 8
     },
     {
       "word": "한화오션",
-      "count": 10
+      "count": 8
     },
     {
-      "word": "예방",
-      "count": 10
+      "word": "세아베스틸",
+      "count": 8
+    },
+    {
+      "word": "지연",
+      "count": 7
+    },
+    {
+      "word": "피했다",
+      "count": 7
     },
     {
       "word": "막판",
       "count": 7
     },
     {
-      "word": "지원",
-      "count": 7
-    },
-    {
-      "word": "위반",
+      "word": "노동부",
       "count": 7
     },
     {
@@ -349,27 +373,35 @@
       "count": 7
     },
     {
-      "word": "노동자",
-      "count": 7
-    },
-    {
-      "word": "세아베스틸",
-      "count": 7
-    },
-    {
-      "word": "대표",
-      "count": 7
-    },
-    {
-      "word": "준법투쟁",
+      "word": "난항",
       "count": 6
     },
     {
-      "word": "예산",
+      "word": "안전",
       "count": 6
     },
     {
-      "word": "간호조무사",
+      "word": "안전운행",
+      "count": 6
+    },
+    {
+      "word": "결렬",
+      "count": 6
+    },
+    {
+      "word": "차질",
+      "count": 6
+    },
+    {
+      "word": "인력",
+      "count": 6
+    },
+    {
+      "word": "대구가톨릭대병원",
+      "count": 6
+    },
+    {
+      "word": "지원",
       "count": 6
     },
     {
@@ -377,66 +409,26 @@
       "count": 6
     },
     {
-      "word": "정부",
+      "word": "고용노동부",
       "count": 6
     },
     {
-      "word": "난항",
-      "count": 5
-    },
-    {
-      "word": "노동부",
-      "count": 5
-    },
-    {
-      "word": "첫차",
-      "count": 5
-    },
-    {
-      "word": "철도노조",
-      "count": 5
-    },
-    {
-      "word": "약사",
-      "count": 5
-    },
-    {
-      "word": "한약사",
-      "count": 5
-    },
-    {
-      "word": "교차고용",
-      "count": 5
-    },
-    {
-      "word": "AI",
-      "count": 5
-    },
-    {
       "word": "근로자",
-      "count": 5
+      "count": 6
     }
   ],
   "keyEvents": [
     {
       "date": "11.20",
-      "event": "서울지하철 노조, 오늘부터 준법투쟁"
-    },
-    {
-      "date": "11.22",
-      "event": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다"
+      "event": "서울 지하철 노사협상 타결… 총파업 철회"
     },
     {
       "date": "11.23",
-      "event": "세아베스틸 전 대표 중대재해처벌법 1건 추가 '기소'"
-    },
-    {
-      "date": "11.24",
-      "event": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 파업"
+      "event": "철도노조 26일부터 준법투쟁…열차 지연 우려"
     },
     {
       "date": "11.25",
-      "event": "서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행"
+      "event": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다"
     }
   ]
 }

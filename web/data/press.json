@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-25T05:39:47.668Z",
+  "updatedAt": "2026-11-25T21:21:24.466Z",
   "items": [
+    {
+      "title": "미 국방부, 머피 의원 카타르 기지 방문 지원 거부",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qbnk1U0RIdWFZMGdXSW13Qk1EWXdYSFY0UHc3VFlYdjdjdXM0ZFlCYkFMZGFyaHZiekpmSkJMN1BCNDVHa09ZaXBFdl82dDlQMkNJbk1B0gFbQVVfeXFMUENzbFVYUHlLOS1XejdsajFZeEgyWjRGTldHS3JGYVBiNmFnMmx2aERnaGFQbmU1bXUtUGdfaFY2T1FUWkplQlVLdVVXdHVsM0E3NFExd0doOUxoOA?oc=5",
+      "source": "토큰포스트",
+      "publishedAt": "2026-11-25T19:56:06.000Z",
+      "kind": "press",
+      "category": "politics"
+    },
+    {
+      "title": "2027년 재정경제부 예산안 및 기금운용계획안 - 카드/한컷 | 멀티미디어",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlMxVVlWclEwMzBHTE5tS0F0QzZ4VVBfaU44Y1VYVFVVOXUyM1hqYXpIeUc0OUNGeWd4djdocDAzSGc0SDRYNDRPS29Cd0ZhdDNEeU1LbmxfdV9UMkc1NVk2QjNoTU1wY3ZXcnJOaW9rRV9nRnhxd1FoNUFVbHl2TnRaOHFIQXZkbHpV?oc=5",
+      "source": "대한민국 정책브리핑",
+      "publishedAt": "2026-11-25T17:46:54.000Z",
+      "kind": "press",
+      "category": "economy"
+    },
+    {
+      "title": "자산운용 전문위원 채용 최종합격자 공고",
+      "link": "https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20261100890",
+      "source": "고용노동부",
+      "publishedAt": "2026-11-25T17:32:23.000Z",
+      "kind": "press",
+      "category": "labor"
+    },
+    {
+      "title": "러, 울릉도 도발 때 최신 스텔스기 Su-57도 띄워",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3lUbzB6bGRiaWlLV3YxcWdKT0MxdDBqdzRrYVJubGhLUUlPeE9IR3hwSXY1Z0hPWWs2NWJXblVpbmpMa00wQkY1aUdpU0ZVckNpdTNJb0Jsd1R2UkNNQnA5MHpUazNESzNiZmJfQmd2WWRyeVlEODlEYVJTN2tPdFU5MENXWloyZ3BIZ2JUbjM1QQ?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-11-25T15:49:00.000Z",
+      "kind": "press",
+      "category": "politics"
+    },
+    {
+      "title": "가스기술공사, 현장 중심 노사 상생협력 성과 인정받아",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MQVdheGx0SE5IbmFIdlRfeW1lWXRFUmxuaFg5aWV5QVY3eU9pYTJrM20wckpNeTlXampVbUcybktLNnBtc1hYWklOUUVHcEJXUEZjOUdLckZxb0V4UEVNeEFjOE0zeVlMTWczUNIBcEFVX3lxTE9YU0FGTnlSM3V5MzhEMzFUdkozYWJsd21zck44LXhBNVRPa3FJeXNoakxPNEtrV2MxVjdzSEdhT2J2OEx0WTZwNjFoRU5LNU5pbFV6UVNkQXB3WVZDRHRKaXpxTllMZXhCbUc4N2pKcV8?oc=5",
+      "source": "에너지플랫폼뉴스",
+      "publishedAt": "2026-11-25T13:58:53.000Z",
+      "kind": "press",
+      "category": "labor"
+    },
+    {
+      "title": "금융위원회, ‘전환금융 모범규준’ 발표…저탄소 기업 지원 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByQkR0ZHFfdHh1aURCYmlTNjZocjhfRWVmMVhNYk1sbmFsWG1ET0RMZG44NXhaVTNSMnpkSTBvUURCcWc4bTVNeGQxbk93T3pHdU9ocmVZa0lBaFMzSEFQXzZHaTk?oc=5",
+      "source": "https://www.ppss.kr/",
+      "publishedAt": "2026-11-25T13:36:34.000Z",
+      "kind": "press",
+      "category": "economy"
+    },
+    {
+      "title": "고용노동부 영주지청, 한파안전 5대 기본수칙 준수 당부…취약사업장 자율점검 유도",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVGtKWW9aRUFqeGtOS1FtQVJUMTFDOEZ0SzhYdGMwOUI0eURZb1VHMVZrQkprNkdXanFFSHpKMVNrSTlEMUJleVpaS1Y3UHFlRUo2ZnFNX0ZxMEZmRWpEdXR2eFZzVVFJOXc0N2tB?oc=5",
+      "source": "국제뉴스",
+      "publishedAt": "2026-11-25T12:45:03.000Z",
+      "kind": "press",
+      "category": "labor"
+    },
+    {
+      "title": "고용부, 반도체팹 건설인력 양성 직업훈련 대폭 확대…삼성·SK와 맞손",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTVlrcklBcmRUQlkzVW1XU0dSb19yekFRTm1QRklrYzJlaW5XaVNJMUFKdVh5bzRkOFpCUF9ibDBnUS1QdU1KOVFmdVZiSzZraWt4c1pqY1VzMXVTVkZkUkxtcURna3o5YTFF?oc=5",
+      "source": "한국사회복지저널",
+      "publishedAt": "2026-11-25T11:28:00.000Z",
+      "kind": "press",
+      "category": "labor"
+    },
+    {
+      "title": "금융위, \"자본시장 개혁 전담기구 구성, 회의일정 결정된 바 없어\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NVXlXcjhJdm50SUV3SFo3ckR0WlpDbXl0d1M1SjFjZ2xXQktBeXd1VXpFTGxTWmtzTU1YV1lZRmx3S194QnRtN0NZMmU2ZkVxRWkwT05RV1FlYzdCRU42MXp4dFlHNnBXQWc?oc=5",
+      "source": "Daily NTN",
+      "publishedAt": "2026-11-25T11:20:39.000Z",
+      "kind": "press",
+      "category": "economy"
+    },
+    {
+      "title": "하남시, 조직문화 개선 우수기관 선정… 행안부 장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95MDN2NS1xdXFIZzVScTZESDZwdWt5bXJxS20xRHhtRjloR3BfWVRBdjZxaU1OWDZwT01heFNvYzB3WjQtVkNpQjdpT0tPc1JnMTU5T2g1RDRPalNHcHlmWjdhNmlHeEdXX1p1N19zSdIBc0FVX3lxTFBMZmFTdjlfOWpOdE5wSDhzOFcxWWZvelQ2TUM3a2VmV3NmUkhPUzJCNUJETGNmQU1Mb096cTRPWGN2b3pVWExXWVpGVU94WTgxTTU5b2tJWjI4TF83dnphY2ZsTkYwTHFlRVZ6bFVGZmNwN2M?oc=5",
+      "source": "데일리한국",
+      "publishedAt": "2026-11-25T08:56:44.000Z",
+      "kind": "press",
+      "category": "politics"
+    },
     {
       "title": "전문경력관 나군(사진·영상 촬영) 공무원 경력경쟁채용시험 공고",
       "link": "https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20261100854",
@@ -8,6 +88,54 @@
       "publishedAt": "2026-11-25T08:55:50.000Z",
       "kind": "press",
       "category": "labor"
+    },
+    {
+      "title": "가스기술공사, 현장 중심 노사상생 모델로 고용부 장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FZnQwVFZhSTdkS3RZTFZfOThwTzlIQWptdVp2SlJqMTQ2dVNuZUlnT2RSejdkUnZBdDkwWFhDdkZiZU5IR1JXM0VyR3lNVEtGanczR2p0R1Z4ZWwzRkh3VWtKQVdaZk93MWdJS1UtMXJBXzg?oc=5",
+      "source": "충남일보",
+      "publishedAt": "2026-11-25T08:29:08.000Z",
+      "kind": "press",
+      "category": "labor"
+    },
+    {
+      "title": "서울·경기·인천 통틀어 하남이 유일!… 조직문화 혁신으로 행안부 장관상",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVeG1ESzh6dVpYYzk0eklpMmNuUWJ3S3VMenlPeDVCQl9YTFBBeXpPalR4OHE5VFF5bmlJQ3FMODY1UWdhR1BNLW93?oc=5",
+      "source": "미디어투데이",
+      "publishedAt": "2026-11-25T07:28:00.000Z",
+      "kind": "press",
+      "category": "politics"
+    },
+    {
+      "title": "외교부, 인도 진출기업 간담회 개최…한·인도 경제협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zbXEzR0FweWMxMG1IZkE2Ti1JYWY5ZjNUb25EY2lDd3VRdGdKbGloNDhWa2NxcUY5R2tHQ3FvSEtERnNwZW0wUDYycXBJS0tYSnl1T1hKTXR4VjF4bkRDdS11MGlUM0Z0R0M4dWV3?oc=5",
+      "source": "뉴스후플러스",
+      "publishedAt": "2026-11-25T07:26:00.000Z",
+      "kind": "press",
+      "category": "politics"
+    },
+    {
+      "title": "세종경찰, 어린이보호구역 ‘우회전 위반’ 집중단속",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxZmtkdU5iQVA3SXYxTWpCUHNUd0Uwc19uUEVpOU8zTHlFSzROR1c0ZER1dnpRTkY0ekx5MVdZUlpya3h5WERYZktjdnJRaTg4WkNlR1ZDcFVvYUhfaUJ6ODJfTDc0RnBaeUNuN3NEUkFvdw?oc=5",
+      "source": "굿모닝충청",
+      "publishedAt": "2026-11-25T06:46:19.000Z",
+      "kind": "press",
+      "category": "society"
+    },
+    {
+      "title": "고용부, 2026 임팩트프러너 데이 참석…사회적기업 성장 지원",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jRWdNWTlSTkIxZjlvQ0ZQSlduaDUtU29TQ3JQNEtESW9SVzd1bzFPSzFUdzhuUTZ0bVBtZEUxV0JpZUZPNUhqcmYzT3YtWFBRVVNUNmhfUHotemt5UjZvX1lFSmN5cFM3UWFEZ2dB?oc=5",
+      "source": "뉴스후플러스",
+      "publishedAt": "2026-11-25T06:30:00.000Z",
+      "kind": "press",
+      "category": "labor"
+    },
+    {
+      "title": "제주엔젤렌트카, 제주 렌터카 업계 최초 ‘교통문화발전대회’ 국토교통부장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uck9Sd0duZ2xhbkZ1cUZEcE9zQkdUeWNZYlJ2V2cyWDIwRjUxQmxHdVN5N1A0NkJiSDg0RU93NDFDSENiRTdMd1RrQ0ZOTlptUzgyLVBlVHRKMEg0QmpN?oc=5",
+      "source": "뉴스와이어",
+      "publishedAt": "2026-11-25T05:30:21.000Z",
+      "kind": "press",
+      "category": "economy"
     },
     {
       "title": "LG전자, GD 상품선정 산업통상부장관상· 디자인진흥원장상 수상",
@@ -18,6 +146,22 @@
       "category": "economy"
     },
     {
+      "title": "행안부, 공공 AI 민원상담 설계기준 마련…행정사가 확인할 실무 과제는",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85WnZjNmllWFBfRUxUOVdzWXNfWE1rVGR0UVFlU3V1c1k3OHdNb19iRkVyWnNaUkdBX3dMNm5CeER3X0xKZWFzZXFQOWhvR3BZWEd0S3Eyb1Q3U2hpcUVUeXgzb3dXOG5NM085bA?oc=5",
+      "source": "대한행정사회신문",
+      "publishedAt": "2026-11-25T04:38:09.000Z",
+      "kind": "press",
+      "category": "politics"
+    },
+    {
+      "title": "학교 휴대전화 전면 금지 추진…SNS·게임 접속도 차단",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91RDJaVzY1cWFhT3h5M0d0Z1ZhT1o2T29wZkpKd1puTTZhZVFSNVJULVpXREhjQXFHd3YwUVdCcUhkVzltMTRmZGVrV3c2YWVELWZqWFdoLS1oZDN4Q1VvUEllc01PVEk?oc=5",
+      "source": "교육플러스",
+      "publishedAt": "2026-11-25T04:32:46.000Z",
+      "kind": "press",
+      "category": "society"
+    },
+    {
       "title": "덕성여대 심리학전공 학생팀, 영마인드 링크서 보건복지부 장관상",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6dU1JMVduMWtzOVloTW1Gc1pLdXR0NTFIUUVLMkpWS0lxdFBMaHRXOHAyM0hOTlhaR001Zk5LT3diZWtLYzItZHBwcUlwdmdsYWo1VVRGRU5PWFVjVXp4NXdubDg?oc=5",
       "source": "매일일보",
@@ -26,36 +170,12 @@
       "category": "society"
     },
     {
-      "title": "목포대학교-전남대불산학융합원 참여기업 SB선보㈜ 산업통상부 장관상 수상.. '친환경/스마트 조선설비 기술혁신'",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CZ3gxV1UwVVc0dlFIejZGNHRFYU42b2NiMDlSRjliYkpCcW04RlVvRnlnXy1WS3I2NlVMVFNad0xmX0RGcU1nVmEyNVhkYzNYbjFRNHpCa2taTjdOQWl3RHlVVE9WZFp2eFRaOQ?oc=5",
-      "source": "베리타스알파",
-      "publishedAt": "2026-11-25T03:42:25.000Z",
-      "kind": "press",
-      "category": "economy"
-    },
-    {
       "title": "대전상의, ‘고용노동부 지역 청년채용 지원 확대’ 건의",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoTXFjTE1IbGNXLVR2MGNwMlBmWHpUYVNUOUE4QzRXU0ZRcGUwcGhSY0JzX0YxQmRJbmUzRjZYa0Rmc3N6Yjhkak0xNmhwZTFRVmRIOHlya29hcWJYS3FXWlJ3ZHJNeXY3M3o5cldDVHU4QTg?oc=5",
       "source": "충남일보",
       "publishedAt": "2026-11-25T02:53:39.000Z",
       "kind": "press",
       "category": "labor"
-    },
-    {
-      "title": "교육부·한국연구재단, 제13회 교육 ODA 컨퍼런스 개최",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16d05RT0lpNVRDVU9hVU1SajZQdHNGOU9RMjdNWUNPUUNTU203Uy1Lakk2dkJwRk5GVFJCVFNJd3VyMEwzcmJpcUpfTkJ0TzhacGxDZlBMRGVaelh0cEZGS010aEJTNE9iZkxTOQ?oc=5",
-      "source": "파이낸스투데이",
-      "publishedAt": "2026-11-25T02:35:39.000Z",
-      "kind": "press",
-      "category": "society"
-    },
-    {
-      "title": "한화호텔앤드리조트, 산업통상부장관상 수상 外",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NdE00bjJLRnhLNHpfUC1fck9XckM4T19OTkExSFg4eDBmZVp1eEp4UGFwWEhscjdEWEZxUEdacU00ekFWNEpnMWd1aTFPdEItbWJMbUdwTjV6a3BlZGs2c1NMekpqUQ?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-25T02:14:39.000Z",
-      "kind": "press",
-      "category": "economy"
     },
     {
       "title": "수능 시험지 보관 5년으로 늘린다··· 교육부, 부정행위 사후 조사 강화",
@@ -82,16 +202,8 @@
       "category": "society"
     },
     {
-      "title": "부천시, 미래내일 일경험 사업 연계로 청년 9명 취업 성과 거둬",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XaFZMS1ZXMlpyNDVyRko1MktNVGh6TGNkRlVtazBhalVJeGRUZlk2XzNlcDFIWk5jUDFOM0ZsRzZwVkl3dW9rMExKZ0U0ajVfQlFvejM5dFUwdDlLeXhmSy1rNjh5WDlJRU1F?oc=5",
-      "source": "한국사회복지저널",
-      "publishedAt": "2026-11-25T01:45:30.000Z",
-      "kind": "press",
-      "category": "labor"
-    },
-    {
       "title": "교육부, 수능 시험지 보관기간 5년으로 연장 추진",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MSS1OLWNZUzJsX0I3a1FxMTlmVThIMHdLOWpBVkRnbndEdElYUVE3QUdnMVppRGhBNnQzd01sN3BIeWZ0MGFrNGRWVExrTmdadWVtbkRkcUZwV3Zxck5uOHljTzgwWnM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vaFo5V2NxUXkxZFJTU1dFT0tzRVlJRU10UFdKc3VjeXdXVGdoWkhXcWVTZk1zXzUyUThFME9EeVZuSDRsR3pJcDRKUEdqY3FzWVRtcmlPWll0QkJQaVZVTE4teENsUjNJ?oc=5",
       "source": "강원도민일보",
       "publishedAt": "2026-11-25T01:28:25.000Z",
       "kind": "press",
@@ -123,9 +235,9 @@
     },
     {
       "title": "교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdkhEQlhSZDBzZTJWYXpsWkRFWm9hTlVSalZzTkxDOGsxc3pidXN0ZnZYQXQ2Z202b0VycGxvMGF6eGVpcFUySDA5MjMwMkR4bXJwREdfZHRYOS1NQzNYX2Vn?oc=5",
-      "source": "미주중앙일보",
-      "publishedAt": "2026-11-25T00:57:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yd0dLblFLMzktVDVQRS1WbWd0ek1ieEhTaFdKLVBhWDRWVXdkVENvdWR6MTVDbjN3bVVfaldrYTl3OXBHZHlyYk5NOGpCdkFXN2dyay13?oc=5",
+      "source": "중앙일보",
+      "publishedAt": "2026-11-25T00:57:48.000Z",
       "kind": "press",
       "category": "society"
     },
@@ -146,28 +258,20 @@
       "category": "labor"
     },
     {
-      "title": "동두천고등학교 보건교사 보건동아리 학생 교육부 장관 표창",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tYkYyNHVaaEVqdTNSbkdtUDVpMGJTU0xZOW04LXh6STJTajRMVXBaclJqTzkzcjVRdC1rUHZ3dGRUUzdBaEtqQk8zZTg4Vnp0RHVKaTc5ei1qWU1fcU4wSmlPMkptOWlMb0NZb0pVLWU?oc=5",
-      "source": "인천일보",
-      "publishedAt": "2026-11-25T00:12:00.000Z",
-      "kind": "press",
-      "category": "society"
-    },
-    {
       "title": "포천 옛 6군단 맞교환 재추진…국방부, 대상지 변경 불가 입장",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zeG9OQTdRYURlcXVjNVMtR1BzdW5zWlJmb05XdHpXYTk4QTlVWUJCYzJVOTEtN05BT3h4cjZLZUFrTl9MYzZmbl9hQ3pwYVdXQS1KUmVYSnpQNUphT25PNXFaSk1QaFJLMnpDWHFDMTk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95QmRhZ01Od1NrQ0JRV0lPZDFoeldjTmt0eHo3VjJ1aFNPX090RTRSMVQwSVVtajJIMHBvOUhhZTkzN0daWXJJNHE3SUpkcUlIU3FiVjF1UlI1dGNqZGZYZUNla2ItdE9wLXhBMkFZOA?oc=5",
       "source": "인천일보",
       "publishedAt": "2026-11-25T00:06:00.000Z",
       "kind": "press",
       "category": "politics"
     },
     {
-      "title": "한국은행 금통위 앞두고 외국인 국채선물 대거 매수…“이번이 마지막 금리 인상?”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veldILXp5RG14bHB4a1FKSDc2UmZoVDl2ZVRUdEtmblR1ajAtOHh1T0dMSXQyOGVrSGhfUXhJTkFjYkJWNWdTcC1xX0dXSGxhZ2FyQ19BUDRjTFpTUUNaUDJBbF9BUjZS?oc=5",
-      "source": "키즈맘",
-      "publishedAt": "2026-11-24T23:16:02.000Z",
+      "title": "행안부, 공공 AI 가이드라인 29개 기준 배포",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82Q2prRmZrVVJpd09QODhkR011aWg2YjJFeEVkeDdna3k0SXBvZmgteGVPT1dKTV8tT01NUlZPOUszTjIwWUFJcDJreF9hdw?oc=5",
+      "source": "디지털포용뉴스",
+      "publishedAt": "2026-11-24T23:45:30.000Z",
       "kind": "press",
-      "category": "economy"
+      "category": "politics"
     },
     {
       "title": "국가자격시험에 전파탐지기 도입…이동형 CCTV·감독관 보디캠도",
@@ -202,14 +306,6 @@
       "category": "politics"
     },
     {
-      "title": "국내 ICO 허용 추진…백서 신고·주요 변경 즉시 공시",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJRFJmbFlQWEI5TVA2aG1MUTc4V0dUSTdOenZfZmRoZG14SFhKVG8tV0ZydWJmYWR6SmlMbUY3Uzg5ZFJabEQ3ZFlvb3d3REFhWUhIX05VNnhIVEdibGfSAV5BVV95cUxQSURSZmxZUFhCOU1QNmhtTFE3OFdHVEk3Tnp2X2ZkaGRteEhYSlRvLVdGcnViZmFkekppTG1GN1M4OWRSWmxEN2RZb293d0RBYVlISF9OVTZ4SFRHYmxn?oc=5",
-      "source": "토큰포스트",
-      "publishedAt": "2026-11-24T17:47:56.000Z",
-      "kind": "press",
-      "category": "economy"
-    },
-    {
       "title": "2027년 고용노동부 디지털영상게시판 유지보수 용역 입찰공고",
       "link": "https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20261100849",
       "source": "고용노동부",
@@ -224,22 +320,6 @@
       "publishedAt": "2026-11-24T15:57:46.000Z",
       "kind": "press",
       "category": "economy"
-    },
-    {
-      "title": "출퇴근 시간대 철도 운행방해 행위 관련 법안 심사 과정에서 밝힌 국토교통부 입장을 설명드립니다.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkZPTVdJYnpQaFJWVm5LeWMxUTd6WVBFRnp2U1JZM0pCSGNDa2xBUGFuVVhlcmVQOXdyV0FLdTVaUjExcnhVNWF1MzNTSTJnOXVFSFV2SzEtWDhCQ3JrN3RMdVczZllXSUFocFNLdGdzT29NaTcxNWVXOWZqOVZ4ZndFczRkbWdaUWNxRkVFWQ?oc=5",
-      "source": "대한민국 정책브리핑",
-      "publishedAt": "2026-11-24T10:25:13.000Z",
-      "kind": "press",
-      "category": "economy"
-    },
-    {
-      "title": "대전 원도심 변화 이끈 민관협력 150일",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51LURIRndMUVZTUW1VUmc4ZHFpQTZNUnlZWTFRYXF1OUM0c3hEWnlfN2dDbWUtWXlkNGR3Z3F6NEZpRm9veVVZQXdXaGg5dWVHRjNRLWo1dDVqY1lXcUttOVZIX25JckY5WHZpYUZkU1RYdw?oc=5",
-      "source": "굿모닝충청",
-      "publishedAt": "2026-11-24T08:54:40.000Z",
-      "kind": "press",
-      "category": "politics"
     },
     {
       "title": "코이카 매거진, 대한민국 커뮤니케이션대상 5년 연속 수상",
@@ -266,52 +346,12 @@
       "category": "economy"
     },
     {
-      "title": "SKT, AI 돌봄 서비스로 산업통상부 장관상 수상",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aXJIWWhEaHVLVnQ1NFkyWGxxcy1yRW1SR1RtZHhQOEJHSWZnNkRsdjhOTGhFMkh4czhXUklxUGVpb0VCZFY2X3hIQUtNNzBnS2MySHo1TncyZUItMmZZbUtfNF94M2Nodk1DUEZn0gFyQVVfeXFMTzF5bllYaEhfd0tvNXNEOFRFdlFTc3VsMURvT2FsSEd4VEgzUnptay1wVlpMUEJ0R002UDFQdDBSWXR0TlJDQ0FQZDR4UWt5Q215QWZOdkhxUXpXZXJOSjZWRUpSR0wyaVVaVXVVV3BBWjhR?oc=5",
-      "source": "팝콘뉴스",
-      "publishedAt": "2026-11-24T08:00:27.000Z",
+      "title": "스테이블코인, 은행권 과반 컨소시엄부터 허용",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeVJOY19maGF1X3AyWUZiN2lRSzRfU2g3RG5BdXdtN1E2NUV5XzdRbVk2NTczNG1VVVJrWFRzMnY1Z0dTX1pGRThsYUtxVEUyOWJnNDl4SENFMmVkandVRDlDWGJLcHpFN2JQXw?oc=5",
+      "source": "DFT 대한금융신문",
+      "publishedAt": "2026-11-24T07:20:10.000Z",
       "kind": "press",
       "category": "economy"
-    },
-    {
-      "title": "국가자격시험장 현장 살핀다 - 포토 | 멀티미디어",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Pbk15RVpRVDR6NlhGTWx5MjcwaGNrQ28wOEFQejVLaGc0eWhXNWJnZmtmSGs2OFZzR0NjNk5Ec2IzWjVsRjFBaWFvMlQ3RDllejZrejdlN1hXdEVlTG9NWDFMMEJsWjFpdkxoM2JRZlNfNzVMV2xsRkdB?oc=5",
-      "source": "대한민국 정책브리핑",
-      "publishedAt": "2026-11-24T06:22:30.000Z",
-      "kind": "press",
-      "category": "labor"
-    },
-    {
-      "title": "금감원, 증권사 랩어카운트 임원 간담회 개최…“내부통제 강화·수수료 개선 주문”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcG5neGo0STZabnAyZFNzTWl6NTZhdjhUbnRieWZraG91RF8zOEZRTEthSTYyT21qREd1U05qX1FabGZpczZfM1JnZGZVaU01bmFLWnNtclZpLVFpZkE5SjRLRE5oUjhwcVRveDV4bXhQMl9hVFJhMEp5YnJnZzMxSdIBgAFBVV95cUxPcG5neGo0STZabnAyZFNzTWl6NTZhdjhUbnRieWZraG91RF8zOEZRTEthSTYyT21qREd1U05qX1FabGZpczZfM1JnZGZVaU01bmFLWnNtclZpLVFpZkE5SjRLRE5oUjhwcVRveDV4bXhQMl9hVFJhMEp5YnJnZzMxSQ?oc=5",
-      "source": "뉴데일리 경제",
-      "publishedAt": "2026-11-24T06:05:00.000Z",
-      "kind": "press",
-      "category": "economy"
-    },
-    {
-      "title": "고용노동부 진주지청, 겨울철 한랭질환 예방 집중 점검 나서",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qUjZZbmZsMmc2Yk95TDROMm43X2JMLWJNM2o3Yi1JUXlvRnpHX25lRno0SjlSMjNDWXFOakticnNHMHVHeElXejE2Z0haQmdXWjc0UGJTUi1icDdyVTdiWUJjODVadkFFRGlkUi1R?oc=5",
-      "source": "국제뉴스",
-      "publishedAt": "2026-11-24T05:33:58.000Z",
-      "kind": "press",
-      "category": "labor"
-    },
-    {
-      "title": "순창군, 재난관리평가서 대통령상…특별교부세 7억 원 확보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01dFhDeTQtdmdCUW81b0cxQnVlazZ6MWVodm5RLXZvWkk3dExaM3gtNUdFRGV5ZVB5S21Zekd3V1NqdjBVZUU4UGpxeHhWRHJ5WGFtTHpnVVdOUC1qUHZQMlFKaHZPNVA4bk1LUg?oc=5",
-      "source": "한국사회복지저널",
-      "publishedAt": "2026-11-24T05:18:12.000Z",
-      "kind": "press",
-      "category": "politics"
-    },
-    {
-      "title": "외교부-해외건설협회, 우리 기업의 해외건설 수주 및 진출 지원 협력 강화 상세보기|보도자료",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uYmxkUXVPOFlyQ0dodUFvS0diRC02RjV4NXBmRUwtanpnZWZjWHhEU2ZJTGpBUG5RVG10VG9qRi0wd3JiLURwQkVISm1XeFRnRktvWWlmWFdCcHh6ZTZudEtBdk15RE0?oc=5",
-      "source": "Mofa.go.kr",
-      "publishedAt": "2026-11-24T04:59:19.000Z",
-      "kind": "press",
-      "category": "politics"
     },
     {
       "title": "NH농협캐피탈, 글로벌스탠더드경영대상서 산업통상부 장관표창",
@@ -322,14 +362,6 @@
       "category": "economy"
     },
     {
-      "title": "국가자격시험 부정행위하면 '최대 10년 응시 제한'…징역형도 5년으로 대폭 상향",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5abmNFa3NuRjBabzRHUzIzWjBabTh5SXAzUnRFRHp6bTVXZHN2NTVHUnF6NnNCVVMtdzBsa2NoZmJiUDlaZjFQSGcxY1lKTnExRHYtYS01Y1VFOGFTS0hvNE1wZTR5YmFseWRxStIBcEFVX3lxTE05QU9lNUNPbnZLVmhmUFNFbi1IdXhxT0tlcWw0bGhrTkJkaVJpaEJ1dFIxSnBXWFdaYmJqMG9yVU52NzFJWnVOTE1Rd3l1ZXdpSThFZlEtU2RGMC1OQ0ZqWWxQS3oyOXZGTC1UbVNpdkg?oc=5",
-      "source": "내외뉴스통신",
-      "publishedAt": "2026-11-24T04:12:18.000Z",
-      "kind": "press",
-      "category": "labor"
-    },
-    {
       "title": "행안부·KT, 사회연대경제에 AI 접목 협약",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1MGJEeERaQkg4R0RyenpTa1ktNlBsSTVzVHZPM0E3YWI0SlotcDl3LVFIOHgxZXhOQXgwUWNYMlRYRUN5bjh6Z2l2LVYwUQ?oc=5",
       "source": "디지털포용뉴스",
@@ -338,52 +370,20 @@
       "category": "politics"
     },
     {
-      "title": "허위자료 판쳐도 중노위 72년간 직권고발 '0건'",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QdEdRNXd6VUZ6c1dGVHRUblBRM0VmazZQQ2s4TldOWTNWYmN5cGxoWXREdzFCMU5jTnZfM0p2ZVVfM1NGaXRYNmxmWGg4MnNqcmI0LTB5ZnV1NEk5d2hTY3Nwd2h0dU1VSTZXMl8xRdIBc0FVX3lxTFBRbmhCSmE1SEdzMDlweGdaeW9vaDJtLTBQSVNMdzhZakZhckZkUnM1UmVnay1IbEJNN3pRdnprNEd4bUgtWWJaNGpmMlJIUGwyMjVNTkdsV0kycDkwYzBnWWhZSTNuaUVxNzQtUmE2eHVIbzg?oc=5",
-      "source": "세이프타임즈",
-      "publishedAt": "2026-11-24T01:33:55.000Z",
+      "title": "하승태 한국아이티에스 대표, 산업통상부장관 표창 수상",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fS1FoTnVXa0RJYWE5a3A1elVKcDRBVV9vZGJDMlJ5REZSV0Q0M25wZ1lMWl9iSXZyR3pwcnlRQ0lJV0RZcWY3eEJMZmFISVdiMzg3VUNNNGdQNnJ4c0JVWkw4czJkSUl3TWl3?oc=5",
+      "source": "보안뉴스",
+      "publishedAt": "2026-11-24T02:28:55.000Z",
       "kind": "press",
-      "category": "labor"
+      "category": "economy"
     },
     {
-      "title": "정부는 소상공인 임대료 깎아준다는데…전남광주시는 '외면'",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZkUxdEhtZ0c0RXNFT2tSWUNJOWdfMzV6b01lclFmY194dDNqcHVaWHpqZlpVM0k2amxLZmx3aUQ4V1d4akh5YVRJWmJUb1lhQUpuWHZZLU5ydjN4QU9OalV5MmxXTFlsSkg3YkRFQQ?oc=5",
-      "source": "진일보 | 전남일보",
-      "publishedAt": "2026-11-24T01:05:00.000Z",
+      "title": "국토교통부는 철도안전을 최우선으로 사고·운행장애 최소화에 지속 노력하겠습니다.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xUDBXZTVfNTdRRVVlU0l6SkQ4YkxEZldoczgwWjZDaUhKUW1VelZfekZLYkJKSUZDdjdOQllPTDdNaDhBMXNBWnNOd0c0bldVdUd1LUt3MTBGckZobngtcFpmdlFfUGgtVVgtVW9WYw?oc=5",
+      "source": "대한민국 정책브리핑",
+      "publishedAt": "2026-11-23T13:53:00.000Z",
       "kind": "press",
-      "category": "politics"
-    },
-    {
-      "title": "노동위 회의 허위자료 제출 빈번한데, 중노위 고발 ‘0건’",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzNjBFbkpDbW0tQlhIQ0RNb1hjalJwV2VCQmkyOTZVaklkcXFEQ3JBa3FQa3p2R1p4TFZPakdaMVdwanREX010STgwNlZ0QTlYZzhCdXNMREU0NFJzOWFOYUV3cjhZUmlpR1R6OENBams?oc=5",
-      "source": "매일노동뉴스",
-      "publishedAt": "2026-11-23T21:30:04.000Z",
-      "kind": "press",
-      "category": "labor"
-    },
-    {
-      "title": "나발그룹 UCUV 최종설계, 2㎥ 탑재공간 확보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaW1oUkw4OXl2b0pFc2tYeWNjak9IWFc3a21NZFdVR3pZejcxYU5pNE9zb0FteXZ0OFJGUTNQbjhLT3E2T3ZHLWJ4Y1ZOYzRUU1NOMEdZaHBjLTJHeXZFTEpWWG9hRmNCWWUzN0YtUVQ?oc=5",
-      "source": "데일리방산",
-      "publishedAt": "2026-11-23T13:00:00.000Z",
-      "kind": "press",
-      "category": "politics"
-    },
-    {
-      "title": "강금실·홍익표 대북 라인…한반도 상황 관리·대북 정보역량 강화 주력할 듯",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zRWpibHJnOEVrUldkSDhjVFVSTlROZ25SaEtweG1PRl9zVUlBSl9RWDdySU1mOFQxV0lqcndPOHhhM29lSGp6alVOYVNPei1hYXVzOVJUODNCTnhULXUwRNIBeEFVX3lxTFB2emVlSm1DdFdxRGxKQ3dydDlfaWlOWjF6cm1TbG9renNqWnhrSXhLUDBGRmJvNkFsVlZVcFJyTmRnZkhsdVVWWXhoTE44ZmJVd1pfb1hyYlhIRWo1X0FaNE1vVjI1bEdGMjU1Z19WQVU5VnRFN0NveQ?oc=5",
-      "source": "뉴시스",
-      "publishedAt": "2026-11-23T09:34:07.000Z",
-      "kind": "press",
-      "category": "politics"
-    },
-    {
-      "title": "라오스 총리가 CLMV-12 및 ACMECS-11 회의 참석을 위해 베트남을 공식 방문할 예정입니다.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa294eVlFaGdlRG4yZmZGQ2dKQlNKSzFYM0NEYTk4M2lMSW9aUW55MUdpenpmNjZZdnA5UDBjRl9jOTdRYnU3VUVyMDNrQ093U09LRzF2TUxCSHQ3U1ZmQTF2T3IxLVN2cHlTblE3dkUyQm1hOUs1NHhnc0NPc0NVeTVMTk55b2QycVBWbXFxTmZ1c3RDdDJOSlFTTkI3LTdzc1l3?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-23T08:48:05.000Z",
-      "kind": "press",
-      "category": "politics"
+      "category": "economy"
     }
   ]
 }
