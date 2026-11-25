@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-25T21:21:19.696Z",
+  "updatedAt": "2026-11-25T23:34:52.165Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           5.2,
           12.9,
           6.6,
-          10.5
+          10.9
         ]
       },
       {
@@ -42,7 +42,7 @@
           10.4,
           10.9,
           8.6,
-          4.7
+          4.1
         ]
       },
       {
@@ -53,7 +53,7 @@
           3.7,
           0,
           11.2,
-          10.8
+          9.2
         ]
       },
       {
@@ -64,7 +64,7 @@
           6,
           10.9,
           0,
-          6.1
+          5.8
         ]
       },
       {
@@ -75,7 +75,7 @@
           6,
           5.9,
           7.1,
-          2.7
+          3.4
         ]
       },
       {
@@ -86,7 +86,7 @@
           3.4,
           9.9,
           3.6,
-          5.4
+          5.1
         ]
       },
       {
@@ -97,7 +97,7 @@
           3.4,
           4.5,
           8.6,
-          6.4
+          6.8
         ]
       },
       {
@@ -115,7 +115,7 @@
     "rising": [
       {
         "word": "AI",
-        "change": 309
+        "change": 320
       },
       {
         "word": "상승",
@@ -126,16 +126,16 @@
         "change": null
       },
       {
-        "word": "반납",
-        "change": null
-      },
-      {
         "word": "폭락",
         "change": null
       },
       {
-        "word": "급등",
-        "change": 191
+        "word": "인상",
+        "change": 53
+      },
+      {
+        "word": "한은",
+        "change": 62
       }
     ],
     "falling": [
@@ -158,23 +158,27 @@
     ]
   },
   "stats": {
-    "articles": 1155
+    "articles": 1153
   },
   "ai": false,
-  "headline": "최근 6개월 경제: 「코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카」",
-  "overview": "2026.06부터 2026.11까지 6개월치 경제 기사 1,155건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카」(3개월), 「한은, 기준금리 연 3%로 인상...2회 연속 인상」(2개월), 「코스피, 하루만에 5,000선 아래로…매도사이드카」(2개월)입니다. 기간 후반으로 갈수록 AI, 상승, 한국, 반납 언급은 늘고, 발동, 사상, 기대 언급은 줄었습니다.",
+  "headline": "최근 6개월 경제: 「코스피 4,700선 턱걸이…또 ’매도 사이드카’」",
+  "overview": "2026.06부터 2026.11까지 6개월치 경제 기사 1,153건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「코스피 4,700선 턱걸이…또 ’매도 사이드카’」(4개월), 「한은, 기준금리 연 3%로 인상...2회 연속 인상」(2개월), 「8월 수출 983억달러로 역대 3위…반도체 사상 최대」(2개월)입니다. 기간 후반으로 갈수록 AI, 상승, 한국, 폭락 언급은 늘고, 발동, 사상, 기대 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
-      "title": "코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카",
+      "title": "코스피 4,700선 턱걸이…또 ’매도 사이드카’",
       "span": "2026.07~2026.11",
-      "monthCount": 3,
-      "articleCount": 11,
+      "monthCount": 4,
+      "articleCount": 13,
       "summary": "",
       "headlines": [
         {
-          "title": "코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카",
+          "title": "코스피 4,700선 턱걸이…또 ’매도 사이드카’",
           "source": "2026.11"
+        },
+        {
+          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+          "source": "2026.10"
         },
         {
           "title": "코스피, 6,300선 회복…코스닥 매수 사이드카",
@@ -187,10 +191,17 @@
       ],
       "articles": [
         {
-          "title": "젠슨황 복귀에 반도체주 급등…코스피·코스닥 매수 사이드카",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Kc3dJWDl5TWgzSDdyd2VZa3lEcDZ4VEoxTjlaY1hlU3hNRXdYTjV2LUU2NFlvUlg1TU95eWxEZGxWUDdGbW9Bc3daOWdIX0tUSXBxalBrbnBoUkVGSktzTjRkYWNBZw?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-24T03:00:00.000Z",
+          "title": "코스피 4700 턱걸이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuaVVyeFVzMGZoWXFfTWN1Y1QxeVNwbWZDaVNnWUtHb3ZubVlSMFlmTFhQaVhkNzl3ZkpPQkVzRlhobXVUMDR0eEwyMEZXWlR4dC1wNWFjNmwzd9IBX0FVX3lxTE14VWFwX2hueVo2Q3dGX3Z0aWJFb1V1eFJMcndnM0VkX0dTaFpxRTgyZHVFQ3Jxb0pWcERMaEs2NkREVVh1VktGWDJSZmNleGRrMDRrNEpSOFV1QWdrV2dr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-23T12:23:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aklpckczTUtvVmxCUko3SVVGTXNrUzhJTjhncUp2bnRyNW5uRDk3QVJnMEZfOURqUlhHb1Z5RFJveEowQWlxWW9sZmRKaWV2QWRHZFlYczRVSVBhMFZnU2RScFMydW9xa0RCUnFmQ29nUVlz0gF0QVVfeXFMTVFCM2FNQ0h5Nkp5YmJ4YUlLX0hfTXg1SW1wNExaTEdrTDRINzB5OEZ5ZlRteldFUEJSY0lHN0xTTHFwdUZxeFFYUi01V3BSWGZoYVh4dGduaV9pZ3BFY0xMNUluUEZzY3l1eFRNX1AxVTVMT20?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
           "kind": "news"
         },
         {
@@ -261,62 +272,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV01VY3dycW5IRHd6U1lRck51YzdpSWt4NWtGQnJ6ZjV5QmI2WUlJaTl2ZUE5MmpFcUExN0NoUXU2cEZSbndhTEhVSGl0Y216ZkRDTV9uejFDZkJGUmI5WDRjclZvYVk?oc=5",
           "source": "연합뉴스TV",
           "publishedAt": "2026-07-16T07:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
-      "span": "2026.10~2026.11",
-      "monthCount": 2,
-      "articleCount": 17,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
-          "source": "2026.11"
-        },
-        {
-          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
-          "source": "2026.11"
-        },
-        {
-          "title": "코스피, 두 달 만에 6400선 아래로…코스닥도 4% 넘게 '급락'",
-          "source": "2026.10"
-        },
-        {
-          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
-          "source": "2026.10"
-        }
-      ],
-      "articles": [
-        {
-          "title": "코스피, 반등 하루 만에… 6% 급락 4700선 아래로",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zMkhsNFlNTXpmcjBkY1N5cERwVVgyY3R0M25wZ0JZVm9kelFkZFFKYnpKdGswVWFYRFBKSy1fa3lUdEpYN1JCRXhJMm5EZw?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-11-25T07:03:54.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 무너져",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aTjlJN3pOa09VWENmWU5FX3RuRDdPMW8wTmZGdDRoRUNZN3k5SlRDT253dENMLTZQOWlhd091Um81V0NBWFJTdjhxbmNiQUxBTTVhRHY1M0tSLTg?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T08:01:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "삼전 최대 실적에도…코스피 6,000선 아래로",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTM3VYTkxubEc5U2NONlZxcnRId0lDbzlJaDljVDNaTVQ2c0F1UlNWckVtN1F5TFFXQVBsU0xCWFY0MGRJTm5iQnVYLUlqOVF3dndiX1FtWTNuQTJJd1NSMG52Q2VGcnc?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-10-29T07:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aklpckczTUtvVmxCUko3SVVGTXNrUzhJTjhncUp2bnRyNW5uRDk3QVJnMEZfOURqUlhHb1Z5RFJveEowQWlxWW9sZmRKaWV2QWRHZFlYczRVSVBhMFZnU2RScFMydW9xa0RCUnFmQ29nUVlz0gF0QVVfeXFMTVFCM2FNQ0h5Nkp5YmJ4YUlLX0hfTXg1SW1wNExaTEdrTDRINzB5OEZ5ZlRteldFUEJSY0lHN0xTTHFwdUZxeFFYUi01V3BSWGZoYVh4dGduaV9pZ3BFY0xMNUluUEZzY3l1eFRNX1AxVTVMT20?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-10-30T07:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -425,34 +380,46 @@
       "whyItMatters": ""
     },
     {
-      "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납(종합)",
+      "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 13,
+      "articleCount": 9,
       "summary": "",
       "headlines": [
         {
-          "title": "코스피, 6%대 급락…젠슨황 효과 하루만에 소멸",
-          "source": "2026.11"
-        },
-        {
-          "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납(종합)",
+          "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "하루 만에 꺼진 ‘젠슨 황 효과’…코스피 6% 급락, 극한의 널뛰기",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icS1KUFQwNWVsTVIzNFJLVFlMeTB2V1o3eERpcmFjQTFCR3RzREJ1TjhvbnJPMzJEZXgzSXhiQlFNR0hvWVUxanF4X3pDdUlQWlk5aE5QYUxNZ9IBX0FVX3lxTE01aTl6Rk1SeDRDWTJsdHdLVFloLW45WS1RQnBTSW9RVGRweWFHOFV3ZDFCZlR0eW9WeWxCQ2V3dkMzSzB3U09GeHo4UmVkU2s4a0pzVnQtTElJMS1fVGpV?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-25T12:21:00.000Z",
+          "title": "K-푸드+ 수출액 120억 달러 돌파 '역대 최고 실적'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcm12cGM3SUhvOVI2dmVnQkQ2UDM5ZzJ1ZFI1SlVKWmJnYWthQ2I0VFdhWjRSVWJvb0E4WVl2SWtaa1U0UlNEMWdfWS05Q1RuaWUtUERTU0pJRnhVQWZaOHJzVGhRRk9vZ3FyQQ?oc=5",
+          "source": "농수축산신문",
+          "publishedAt": "2026-11-22T22:00:00.000Z",
           "kind": "news"
-        },
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+      "span": "2026.10",
+      "monthCount": 1,
+      "articleCount": 6,
+      "summary": "",
+      "headlines": [
         {
-          "title": "코스피, 전날 급등분 모두 반납…6% 급락 마감",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PVnZOZXczX3FXY3RfMHZacUZYaWdWSFRaNnJYSXRseEhkRDV5dmpKZWh1SmRqVFlHSlk1MThIakhiQk5DbGRTemtQanpFQ3ZOZW1RUWw3ZmlMbjRWSDUtdmRtTXo3N3c?oc=5",
+          "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+          "source": "2026.10"
+        }
+      ],
+      "articles": [
+        {
+          "title": "’1,310원대 근접’ 원·달러 환율…명목실효환율 2년 만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93M1h6SUhDYnRsN0dpNFRkQU5hOEI1Zzc2MXVwbnlWQkdpS0dPTTJiQTlBU3pJQXRXWGlqQjFVMk1tM2RJR0NWc2U1S1VtZVJhalBKMUlZSEJoR2pkOUg4eDdkS2JMdHM?oc=5",
           "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T08:50:00.000Z",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
           "kind": "news"
         }
       ],

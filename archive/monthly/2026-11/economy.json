@@ -2,8 +2,8 @@
   "month": "2026-11",
   "category": "economy",
   "ai": false,
-  "builtAt": "2026-11-25T21:21:16.474Z",
-  "articleCount": 296,
+  "builtAt": "2026-11-25T23:34:49.240Z",
+  "articleCount": 294,
   "summary": "",
   "topics": [
     {
@@ -11,8 +11,8 @@
       "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
       "summary": "",
       "importance": 5,
-      "articleCount": 10,
-      "sourceCount": 10,
+      "articleCount": 9,
+      "sourceCount": 9,
       "articles": [
         {
           "title": "K-푸드+ 수출액 120억 달러 돌파 '역대 최고 실적'",
@@ -29,176 +29,52 @@
           "kind": "news"
         },
         {
-          "title": "수출 1조 달러 시대…'K-푸드+' 120억 달러 돌파, 역대 최고",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMEpxdlROTTFJVEN2TkRXYXl2c0lmbHRucHNLSFBfRDRZMGVBSEliTjYxclZzbFdEQ0NuSE9qWjZ5bTNhdi04WTJycUliM2FXQ2VCb0FKZXhtNVFhT0Y5V2kweXRUazhYZXBLQQ?oc=5",
-          "source": "대한민국 정책브리핑",
-          "publishedAt": "2026-11-20T08:14:59.000Z",
+          "title": "제주 수출 사상 첫 10억 달러 돌파 초읽기…역대 최고 실적",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wbXB0YzlJM3hIRS1TZEJVODUyMUpudFpXUnM4N1N0RUgxZTRlRmRPd1dmSkZLNXF4cFBPNHdDaFVkZHhyZDBTb0s4TUtoZXpud25qUUR5bzlzY3V4eW9JbW0yZkNVWDFaTERBNmZDQjJvTG8?oc=5",
+          "source": "헤드라인제주",
+          "publishedAt": "2026-11-20T07:03:31.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t1",
-      "title": "코스피, 6%대 급락…젠슨황 효과 하루만에 소멸",
+      "title": "코스피 4,700선 턱걸이…또 ’매도 사이드카’",
       "summary": "",
       "importance": 5,
-      "articleCount": 6,
-      "sourceCount": 6,
+      "articleCount": 5,
+      "sourceCount": 4,
       "articles": [
         {
-          "title": "하루 만에 꺼진 ‘젠슨 황 효과’…코스피 6% 급락, 극한의 널뛰기",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icS1KUFQwNWVsTVIzNFJLVFlMeTB2V1o3eERpcmFjQTFCR3RzREJ1TjhvbnJPMzJEZXgzSXhiQlFNR0hvWVUxanF4X3pDdUlQWlk5aE5QYUxNZ9IBX0FVX3lxTE01aTl6Rk1SeDRDWTJsdHdLVFloLW45WS1RQnBTSW9RVGRweWFHOFV3ZDFCZlR0eW9WeWxCQ2V3dkMzSzB3U09GeHo4UmVkU2s4a0pzVnQtTElJMS1fVGpV?oc=5",
+          "title": "코스피 4700 턱걸이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuaVVyeFVzMGZoWXFfTWN1Y1QxeVNwbWZDaVNnWUtHb3ZubVlSMFlmTFhQaVhkNzl3ZkpPQkVzRlhobXVUMDR0eEwyMEZXWlR4dC1wNWFjNmwzd9IBX0FVX3lxTE14VWFwX2hueVo2Q3dGX3Z0aWJFb1V1eFJMcndnM0VkX0dTaFpxRTgyZHVFQ3Jxb0pWcERMaEs2NkREVVh1VktGWDJSZmNleGRrMDRrNEpSOFV1QWdrV2dr?oc=5",
           "source": "경향신문",
-          "publishedAt": "2026-11-25T12:21:00.000Z",
+          "publishedAt": "2026-11-23T12:23:00.000Z",
           "kind": "news"
         },
         {
-          "title": "코스피, 6%대 급락…젠슨황 효과 하루만에 소멸",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50SHZPS2hudXQ1WDMwS3Q2LUVtX0xaM1ZTZW5YZUp0VWswLWZZVDJuYW05OUUyUld4WjhBR3dab1Y1eHNDcVcxU2NHcDZTNHNaV01RN2JzR2Y2QTJZZjBGMzh1cENEUW8?oc=5",
+          "title": "AI 공포에 급락…코스피 4,700선 턱걸이",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wam43VUVOOUl3Q3B3U1NQem11bktwMng0WDJIbHBLbVVmNW5KLVJEbmtEVUo0cFpxRWxJZncwWW5ldVA4SEJpRHVYcFVpSGhyUklHS09TLXkwQXdlWGI4SWM1d2VmWWc?oc=5",
           "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T11:41:00.000Z",
+          "publishedAt": "2026-11-23T11:12:00.000Z",
           "kind": "news"
         },
         {
-          "title": "코스피, 6% 폭락하며 ‘5천피’ 반납…‘젠슨 황 효과’ 하루 만에 끝나",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmczMyTWlfZFdLY3RUX204R3BZNnJUVHBTVVdWSXVmZzYtUW9kTDg5S0ZJaVE2Wmo0cHh3ZEkwMGZPWmdjaWpwY3h5M1ZtdV8xNUtoOUlST3VFQVR0UHRUWExxWE1mUTY4MUlQSnJ2emU5Zw?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-25T11:03:00.000Z",
+          "title": "美 기술주 폭락에 한국 증시 직격탄…코스피 4700선 턱걸이",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2ZEsyalR2VTJCSllaMlZKN3k2QVVhUUMweW1qdS1kdTlidUlhSEpBTnRxZWtNQUY2ckdSeXNTaVJuV3c5ZU5NWi0za0d6dw?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-23T07:17:03.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t2",
-      "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납(종합)",
+      "title": "가계대출 금리 5% 돌파…주담대 15년래 최고",
       "summary": "",
       "importance": 4,
-      "articleCount": 7,
-      "sourceCount": 5,
-      "articles": [
-        {
-          "title": "코스피, 전날 급등분 모두 반납…6% 급락 마감",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PVnZOZXczX3FXY3RfMHZacUZYaWdWSFRaNnJYSXRseEhkRDV5dmpKZWh1SmRqVFlHSlk1MThIakhiQk5DbGRTemtQanpFQ3ZOZW1RUWw3ZmlMbjRWSDUtdmRtTXo3N3c?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T08:50:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBYmczMmJkOV9wNGZ3UjV4bUM2RWQzTmdaeGxjaFE0N09pMkN1cGdRWVhqQVZfNUduS1hxUERqOFJIbWZTYUlJWm0xNkZNMVlPeEZBaWFyWk51YkHSAWBBVV95cUxOYVNzWlhtWW9rR1pmOXd4UzU3VHpzY3F0Tl80Z1E2QmFDTDljUi0xOTRRa2tlejF3NjY5emQyU3NUYk1uLVhRanBUX2UxbVJmQ3hsQ08yNDFwOUVXbW11MW4?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T07:11:22.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 6%대↓, 4,697 마감...전날 상승분 모두 반납",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PWG5HWWlDOEVLR1NBUmtmRjQtQ3M3UENxSW8xWFlEYUFwOHpXWmU3T1VpWC1aMFNRT24ySmhrY2VuVUxkOVZFMTVKcEt3VUNBU1JCdkJfVHExR2xE?oc=5",
-          "source": "티제이비",
-          "publishedAt": "2026-11-25T06:40:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t3",
-      "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
-      "summary": "",
-      "importance": 4,
-      "articleCount": 6,
-      "sourceCount": 5,
-      "articles": [
-        {
-          "title": "코스피, 반등 하루 만에… 6% 급락 4700선 아래로",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zMkhsNFlNTXpmcjBkY1N5cERwVVgyY3R0M25wZ0JZVm9kelFkZFFKYnpKdGswVWFYRFBKSy1fa3lUdEpYN1JCRXhJMm5EZw?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-11-25T07:03:54.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 6% 넘게 급락하며 4700선 아래로...‘삼전닉스’ 10% 폭락",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFc1U2c2ZXpLbFJEVzlhNDJmSFRueWY3SkJWV1ludFloQU1pdUFCMFFtM0RzT1U5SklPSUlvaXJ6UDN4eE5CNmN4TnFnajRxSmt5X0xNRG04ZHR4RlUtOVIyNlNieTZtZmx6SElQX3hqMElJLUVVLU8zWUhRV0hBTA?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-25T05:28:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T1Q0azJtRnRpMGVfQ3Bnb2FubG1wbE1TNDlnTkxkSEdoeTVEUDNCRzhjeGYxT2xkMU81eTVRZWtnUzVhck9QVzF5RE8wNlRDajFYUWUydWYwNGRJaGdBaWpUaDlYLTQ?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T03:03:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t4",
-      "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 5,
-      "sourceCount": 4,
-      "articles": [
-        {
-          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 무너져",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aTjlJN3pOa09VWENmWU5FX3RuRDdPMW8wTmZGdDRoRUNZN3k5SlRDT253dENMLTZQOWlhd091Um81V0NBWFJTdjhxbmNiQUxBTTVhRHY1M0tSLTg?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T08:01:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피, 장 초반 4%대 급락…매도 사이드카 발동",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04OTRrWl82R3lGS1ZpT3JrUHdCMVh0WlJzTlBlM0VlMkRWMGVYcHFYNDFBbS1fVWYxc3dpWlhuQnJBYVJTQnd5MWZPdXRNbUhSUXBfWU1PQXhCTjhieGdNUnR3?oc=5",
-          "source": "티제이비",
-          "publishedAt": "2026-11-25T00:29:46.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 4%대 급락 장중 ‘매도 사이드카’…하루 만에 ‘5천피’ 반납",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QQ2NMOGVSZlZXZWlBNzQ1RlhnWTdBWXotd2FZdE9TVGJlMTRhcVZ2OTF4MEdLRHFPTHU3Q2Rtbk5KQkh2WlI0RlNmZnUzbmFJTElVMw?oc=5",
-          "source": "JTBC",
-          "publishedAt": "2026-11-25T00:11:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t5",
-      "title": "코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 5,
-      "sourceCount": 4,
-      "articles": [
-        {
-          "title": "젠슨황 복귀에 반도체주 급등…코스피·코스닥 매수 사이드카",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Kc3dJWDl5TWgzSDdyd2VZa3lEcDZ4VEoxTjlaY1hlU3hNRXdYTjV2LUU2NFlvUlg1TU95eWxEZGxWUDdGbW9Bc3daOWdIX0tUSXBxalBrbnBoUkVGSktzTjRkYWNBZw?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-24T03:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "돌아온 젠슨황에 코스피 6% 급등…매수 사이드카",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qd3pwN0ljOGtKRmZVSzQtS3Uta1l1dGJnS3lSYm9YTDVROW82dk9NWmE5QUZ1a1hJcFA0R2dMLW0yVXpScGdTd3JkbzlQZDg5SXhRTnVLTVNldk9XVUJ0d2dpc2RTNW8?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-24T01:19:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12bVNXWjNVVmxPTWM5eDhVYkJ3aE9NbVRuZTF5a0lnZHgzNEtpR1JCV1JJd0lQdzVCNEROUGdGQWltZHp6eVJJZXF3cXlWVHVpX08zeUs4Zkp1OUFWbTFBcUJNT0RtUmI5NV9uSnlxa2taRGVv0gF0QVVfeXFMTlZURTBBRTBhYmxPVkdERUI5OTM2dHhESWhwNVpscXpodV9ZVE5WcjY2Z3RBRTdNZ2lpeko4eUdHdVRKRkJfUEZWZkRMNTBWRHhiUDZnUG1zQ3JtQkF0VVo3NndYdzVIb1ZGdHVpS0ZyeUdxS0Y?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-24T00:08:14.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t6",
-      "title": "10월 가계대출 금리 5% 돌파…주담대는 14년 7개월만 '최고'",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 4,
-      "sourceCount": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
       "articles": [
         {
           "title": "가계대출 금리 5% 돌파…주담대 15년래 최고",
@@ -224,32 +100,142 @@
       ]
     },
     {
-      "ref": "2026-11#t7",
-      "title": "美 10월 PCE 물가 3.8% 상승… 12월 금리 인상 전망에 힘 실려",
+      "ref": "2026-11#t3",
+      "title": "올해 마지막 금통위…한은, 금리 인상으로 물가 잡나",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "올해 마지막 금통위…한은, 금리 인상으로 물가 잡나",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93SnZ3bHlPSzRKLU9sQTRhN3c4Ym51eWdaN2RrYjlwQklJcnp3UEdZNUtUbUxuXzNsTVVvaGczd3JkVDI3OEljWkt4MnNtMVQ0TXlUaFlMejdJZEJmNTM2OHZacWRjaFk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T10:03:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "올해 마지막 금통위…금리인상 '마침표' 찍을까",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80TWg2SXdwSGw5UDVwaGJFd2xnS0FpMUllVVEzaWtPSHVKcGFfM3ZJY0dNVy1iWDVyTVVSUUNpbmFuMlFZNFhzeGJqbmtFdUtzNzhwR2JzaWFkdVIxVlYtVkJRT3lYSFIxcEd3?oc=5",
+          "source": "비즈워치",
+          "publishedAt": "2026-11-22T00:00:10.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이번주 올해 마지막 한은 금통위…금리 인상에 무게",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SRlRHcUJVOFpNYmNKaXlISmpRSjduRnQ1ZTF1ZEdTcFEwa1JIOEtmdzZTUDItUVBmam04UTV2ME9sTmxvY0o0dzJPVzNycGdaZkF3bGptT3E5T090MDZUTTlQRVhyblk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-22T00:18:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t4",
+      "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납(종합)",
       "summary": "",
       "importance": 3,
       "articleCount": 3,
-      "sourceCount": 3,
+      "sourceCount": 2,
       "articles": [
         {
-          "title": "미국 10월 PCE 물가 3.8% 상승-금리인상 굳어져",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QzBwY0EteWhyRUx1SVVIMnZhaFA0RjJqMXBDT2I2X1dWYlJTeWs4QzRFVXZjWnRLeS10NGlMUEFQeGF2aVlWNGhUMzRKYTBGd1pnUGVCME53bHplb0pV?oc=5",
-          "source": "포커스온경제",
-          "publishedAt": "2026-11-25T20:24:49.000Z",
+          "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBYmczMmJkOV9wNGZ3UjV4bUM2RWQzTmdaeGxjaFE0N09pMkN1cGdRWVhqQVZfNUduS1hxUERqOFJIbWZTYUlJWm0xNkZNMVlPeEZBaWFyWk51YkHSAWBBVV95cUxOYVNzWlhtWW9rR1pmOXd4UzU3VHpzY3F0Tl80Z1E2QmFDTDljUi0xOTRRa2tlejF3NjY5emQyU3NUYk1uLVhRanBUX2UxbVJmQ3hsQ08yNDFwOUVXbW11MW4?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-25T07:11:22.000Z",
           "kind": "news"
         },
         {
-          "title": "美 10월 PCE 물가 3.8% 상승… 12월 금리 인상 전망에 힘 실려",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUJrN0NjTVBMOFVNVHBCWXJ6U3B3YUxMVEpGNWtqLUZNLU12VHc1VWVBUFJ3UzVHN1FhS0xJaU4wNlNCRk5qTnZqbE5IVHZ4NkNMYTRmbWo2eVJZSUk2a00zZ0ZnX0tFU0QtRUdBckl2TmxCTnhlU25DbXN2Z3ljaC0ySUo4WXV6?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-25T17:11:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "미 10월 개인소비지출 물가 3.8%↑‥12월 금리인상 전망 굳어져",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ES0pSZ1hWcDJhTUkxU3JCUEZONHNHQUMzNUZYRWFMTEo1UjhTR2xwVE02UnppUmgzMEN1QURyVjNhbGdZRHo0STN1NkdBYzY3Z0ZxYzd3ODM5VS1melVoNjZIUjlUMlNQcExZQXMxNVFDODJq0gF0QVVfeXFMTmI1YnpzbkNQMFdlTHNYc0NEaG9ZVG4yMEx2WGdXRmRTY2o2Q05GQ1FjUlFnQjFrX2R3T25fS2pPdnFhNjhZSWFuemhHbjkyZXBtUnQ3cXpwN2tLTVVKa3czeG1yZjJ3ZnRFWU5SRXlJY0JBaHM?oc=5",
+          "title": "코스피, 6%대 급락 4,697‥전날 급등분 모두 반납",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aelVlR3AtaWZaNE44NjhOOVdVY2FXelJoUnZsUVdzS0tQQzhwU0ItWlVTUHVuems5UHRMaFptMGNBUUROMl9CMUtoTl9lTVBrcEdXSC1mX3lSYVZiVW05WXJWd1VHT0tVbTNNOVRjMThHNWpS0gF0QVVfeXFMTThaZzBOV29BUGkyU25aRTdUNnpjWXR2bUhfVVJ3dmR2ZHFxTlpQOExQM2NDRm80STlXaTZKRlE4bmR6cFBMR2lnQVBqTXFIRTlBQTktZW41ZFBqUWhvd2hVeHVZcktQdnJ4cmZ1Mk9xMF9WU3Y?oc=5",
           "source": "MBC 뉴스",
-          "publishedAt": "2026-11-25T15:11:38.000Z",
+          "publishedAt": "2026-11-25T06:35:15.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBidzkzYWN1VEFwUnFtenBJRnhBTFBYb0dnUnB4cmdXS2xvcEJ0Q3dFR25WamR5N0hrTjRXRml6SFlpMU8tcDM1dks3UTBadTF1N21SQ3BlWmhEdEHSAWBBVV95cUxPeld4R2lLc2MxaVBMaTRKOV9UNVhQZHB0MlFCbzh0WmJHRVBuYVZkS1lKZl9PbTlaMEFSbVhNUnBDcE1tOFptdE94QWVvVjFFc3B5bHFtb0ljYnhPSWl1b3o?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-25T06:37:38.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t5",
+      "title": "코스피 3%넘게 하락 마감…코스닥 2년 만에 최저",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "코스피 3%넘게 하락 마감…코스닥 2년 만에 최저",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuT1AtUEw3MzhvNU1lWmhuak1FQ01qeHp1Y1VnclRSaWQ2MEhrTkpzOU5UUXJNeHlSdE9TZXhFUng3b3g1OElXbEl2Q19fVG83RVBUSXF6eksyb3loYnVSdnVHWkJQZw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-23T08:01:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1TXc4R2ZwODZ0ZUEzRzh2aUctU0xrNVEwdzRvclFmclhiTGh1RlpzTEM2bFYwSkluSGhGUzhpbVlqYl9jcU5HWmsyZEYyZjh2aFU5Q0NtcExoNlXSAWBBVV95cUxNV3VNdEx6VzNJdkdqSFBXLUZJMlNwZElIR2RLb2NCSXdLLTBOcWw0a2dfVGxkYkN6MkFKMGxFSUh1VHVjR21JNVhVRDVrcmt2VU50ekhwOXFhdlBfZllqRUE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-23T07:11:06.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 3%넘게 하락 마감…코스닥 2년 만에 최저",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9peW4xZGlLbDMtLTFHLWg4aHNMUkxxUGhNN0RSMjNWYm8zWlV6Y3dRTjAtalNBWDM1SGE4YnFEUmp0YkYyRnVpbW04SkhxWGhmLU1qVERNdktIMkk?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-23T07:03:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t6",
+      "title": "하루 만에 꺼진 ‘젠슨 황 효과’…코스피 6% 급락, 극한의 널뛰기",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "하루 만에 꺼진 ‘젠슨 황 효과’…코스피 6% 급락, 극한의 널뛰기",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icS1KUFQwNWVsTVIzNFJLVFlMeTB2V1o3eERpcmFjQTFCR3RzREJ1TjhvbnJPMzJEZXgzSXhiQlFNR0hvWVUxanF4X3pDdUlQWlk5aE5QYUxNZ9IBX0FVX3lxTE01aTl6Rk1SeDRDWTJsdHdLVFloLW45WS1RQnBTSW9RVGRweWFHOFV3ZDFCZlR0eW9WeWxCQ2V3dkMzSzB3U09GeHo4UmVkU2s4a0pzVnQtTElJMS1fVGpV?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-25T12:21:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 6%대 급락…젠슨황 효과 하루만에 소멸",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50SHZPS2hudXQ1WDMwS3Q2LUVtX0xaM1ZTZW5YZUp0VWswLWZZVDJuYW05OUUyUld4WjhBR3dab1Y1eHNDcVcxU2NHcDZTNHNaV01RN2JzR2Y2QTJZZjBGMzh1cENEUW8?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T11:41:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t7",
+      "title": "KB證 \"2027년 성장률 2.8%→3.6%…반도체 가중치·수출 전망 변경\" |",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "KB證 \"2027년 성장률 2.8%→3.6%…반도체 가중치·수출 전망 변경\" |",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpTWZ3Mjk1LVNfMWtiVTlCLW54NHhLMm52bXMzd241Q0RyRld5amdzMGh1WXQ5dWFzRDQ4ZktUazNVVEpEM2x3a3l6T05pS3p1N3NyclpUbjdkRndWUy0yR2NnTEl5ejlLMm5sUGtjR2NpZ2Nz?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-11-25T07:18:45.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "KB證 \"2027년 성장률 2.8%→3.6%…반도체 가중치·수출 전망 변경\"",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQd2MwSzloX1ZPMXJIcTNDckkzOC1pdDRKdUc1dEVQd3k5LXJleTBoQm4yTkZKaXNXa0xTRWNJZkpLQmtxUTdqWjFnSVE1MnNHbk92X0dWOF9OaURVaE5NSDk1ZVRxSHNGZDlNRVpUVHJGdw?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2026-11-25T05:12:23.000Z",
           "kind": "news"
         }
       ]
@@ -257,27 +243,23 @@
   ],
   "keywords": [
     {
-      "word": "급락",
+      "word": "달러",
       "count": 32
     },
     {
-      "word": "달러",
-      "count": 31
+      "word": "급락",
+      "count": 27
     },
     {
       "word": "돌파",
-      "count": 24
+      "count": 23
     },
     {
       "word": "AI",
-      "count": 19
+      "count": 20
     },
     {
       "word": "역대",
-      "count": 18
-    },
-    {
-      "word": "반납",
       "count": 17
     },
     {
@@ -286,22 +268,10 @@
     },
     {
       "word": "최대",
-      "count": 16
-    },
-    {
-      "word": "사이드카",
       "count": 15
     },
     {
       "word": "하락",
-      "count": 14
-    },
-    {
-      "word": "급등",
-      "count": 13
-    },
-    {
-      "word": "최고",
       "count": 12
     },
     {
@@ -309,7 +279,7 @@
       "count": 11
     },
     {
-      "word": "젠슨",
+      "word": "최고",
       "count": 11
     },
     {
@@ -317,11 +287,15 @@
       "count": 10
     },
     {
-      "word": "시대",
+      "word": "폭락",
       "count": 10
     },
     {
-      "word": "정부",
+      "word": "머니투데",
+      "count": 10
+    },
+    {
+      "word": "코스닥",
       "count": 10
     },
     {
@@ -329,27 +303,31 @@
       "count": 9
     },
     {
-      "word": "금리인상",
+      "word": "시대",
+      "count": 9
+    },
+    {
+      "word": "사이드카",
       "count": 9
     },
     {
       "word": "효과",
-      "count": 9
+      "count": 8
     },
     {
-      "word": "머니투데",
-      "count": 9
-    },
-    {
-      "word": "매도",
-      "count": 9
+      "word": "젠슨",
+      "count": 8
     },
     {
       "word": "세계",
       "count": 8
     },
     {
-      "word": "전날",
+      "word": "정부",
+      "count": 8
+    },
+    {
+      "word": "엔비디아",
       "count": 8
     },
     {
@@ -357,19 +335,31 @@
       "count": 8
     },
     {
-      "word": "증안펀드",
-      "count": 8
+      "word": "미국",
+      "count": 7
+    },
+    {
+      "word": "급등",
+      "count": 7
+    },
+    {
+      "word": "회복",
+      "count": 7
+    },
+    {
+      "word": "반납",
+      "count": 7
     },
     {
       "word": "마감",
-      "count": 8
+      "count": 7
     },
     {
-      "word": "코스닥",
-      "count": 8
+      "word": "매도",
+      "count": 7
     },
     {
-      "word": "폭락",
+      "word": "증안펀드",
       "count": 7
     },
     {
@@ -377,66 +367,58 @@
       "count": 7
     },
     {
+      "word": "금리인상",
+      "count": 6
+    },
+    {
+      "word": "외국인",
+      "count": 6
+    },
+    {
+      "word": "턱걸",
+      "count": 6
+    },
+    {
+      "word": "월요일",
+      "count": 6
+    },
+    {
+      "word": "승진",
+      "count": 6
+    },
+    {
+      "word": "성장",
+      "count": 5
+    },
+    {
       "word": "기준금리",
-      "count": 6
+      "count": 5
     },
     {
-      "word": "PCE",
-      "count": 6
+      "word": "안정",
+      "count": 5
     },
     {
-      "word": "주담대",
-      "count": 6
-    },
-    {
-      "word": "연속",
-      "count": 6
-    },
-    {
-      "word": "상승",
-      "count": 6
-    },
-    {
-      "word": "미국",
-      "count": 6
-    },
-    {
-      "word": "회복",
-      "count": 6
-    },
-    {
-      "word": "복귀",
-      "count": 6
-    },
-    {
-      "word": "매수",
-      "count": 6
-    },
-    {
-      "word": "급등분",
-      "count": 6
+      "word": "논의",
+      "count": 5
     }
   ],
   "keyEvents": [
-    {
-      "date": "11.10",
-      "event": "코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카"
-    },
     {
       "date": "11.19",
       "event": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신"
     },
     {
-      "date": "11.23",
-      "event": "코스피, 하루만에 5,000선 아래로…매도사이드카"
+      "date": "11.22",
+      "event": "올해 마지막 금통위…한은, 금리 인상으로 물가 잡나"
     },
     {
-      "date": "11.24",
-      "event": "코스피, 6%대 급락…젠슨황 효과 하루만에 소멸"
+      "date": "11.23",
+      "event": "코스피 4,700선 턱걸이…또 ’매도 사이드카’"
     },
     {
       "date": "11.25",
-      "event": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납(종합)"
+      "event": "가계대출 금리 5% 돌파…주담대 15년래 최고"
     }
   ]
 }

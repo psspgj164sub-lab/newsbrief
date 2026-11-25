@@ -5,11 +5,11 @@
     "from": "2026-11-20",
     "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T21:21:23.300Z",
+  "updatedAt": "2026-11-25T23:34:55.662Z",
   "ai": false,
-  "overview": "최근 1주 동아시아 관련 국내 언론 기사 278건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 경제 분야의 「미 USTR, 한국 등 14개 경제주체에 과잉생산 관세…’15% 상한’ 유지」(기사 13건)입니다.",
+  "overview": "최근 1주 동아시아 관련 국내 언론 기사 252건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「조정식 국회의장, 다카이치 일본 총리와 회담 ··· 경제협력·의회교류 확대 논의」(기사 13건)입니다.",
   "stats": {
-    "articles": 278
+    "articles": 252
   },
   "themes": {
     "economy": {
@@ -18,46 +18,46 @@
       "keywords": [
         {
           "word": "한국",
-          "count": 21
+          "count": 19
         },
         {
           "word": "상한",
-          "count": 21
+          "count": 19
         },
         {
           "word": "유지",
-          "count": 17
+          "count": 15
         },
         {
           "word": "과잉생산",
-          "count": 13
+          "count": 12
         },
         {
           "word": "급락",
+          "count": 12
+        },
+        {
+          "word": "젠슨",
           "count": 11
         },
         {
           "word": "복귀",
-          "count": 11
-        },
-        {
-          "word": "젠슨",
           "count": 10
         },
         {
-          "word": "최대",
-          "count": 9
+          "word": "닛케",
+          "count": 8
         }
       ],
       "items": [
         {
-          "title": "미 USTR, 한국 등 14개 경제주체에 과잉생산 관세…’15% 상한’ 유지",
+          "title": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
-              "source": "한겨레"
+              "title": "美, 과잉생산 관세 추가…15% 상한은 유지",
+              "source": "연합뉴스TV"
             },
             {
               "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
@@ -71,8 +71,8 @@
           "span": "11.25~11.26",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 10,
-          "articleCount": 13,
+          "sourceCount": 9,
+          "articleCount": 10,
           "articles": [
             {
               "title": "美, 과잉생산 관세 추가…15% 상한은 유지",
@@ -103,17 +103,85 @@
               "kind": "news"
             },
             {
-              "title": "미국, 한국 등 14곳에 ‘과잉생산 관세’ 예고…“합의국은 15% 상한”",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4dWFvYTNfcHk5MGVYWHUzLVc4UE9Ya3RkdGNLWldqVERSa1NaTmJpUnV0azhmdVB0V1Q2YmhQQjFoZTJWb2lEM0dGQ1JtZVRGQUNhczU5R1lpX2xic0pHbTF1YzNGcExWOGlDcF9n?oc=5",
-              "source": "KBS 뉴스",
-              "publishedAt": "2026-11-25T13:44:00.000Z",
-              "kind": "news"
-            },
-            {
               "title": "“美 과잉생산 관세 부과…한국·일본 등 15% 상한 유지할 것”",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qakdfZzBYZ0FYUy11ZXpDaTgxQURya0VEdERkUjRxS3BqZl9Hb0RhLUZPMUhQLVBtR3h4bE9rSUlZSy05WjRIWjdtanZLZXVUQzcxS0p1a2ZnSTVZenfSAWNBVV95cUxQRnRRSFlsdVRJNFc5eHpHa2VWQ05venljUWtIaXVWLWs0eGhZQ1B3S01UZkZXdFVza2w0N1dGUDg2azZjZVd4VldjblB6bm5YQUNWNXV4cmRHSXVVWTJxOUNrdGs?oc=5",
               "source": "채널A",
               "publishedAt": "2026-11-25T13:37:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美, 한국·중국·EU 등 14개 경제권에 신규 관세 추진…韓 15% 상한 유지 전망",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9acThfUlpGTmJScGM4NFh4U3ZqWEluREVRaWtBU3czaENRN2xHUVZRcnN1VGdOUFkzRmFOcERXdXBIYlBwdG5mTE1vR0lfd2FUbWNSdFJ4YXozTkMy?oc=5",
+              "source": "뉴스핌",
+              "publishedAt": "2026-11-25T13:30:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "젠슨황 복귀에 대만 증시 급등…TSMC도 상승",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "'젠슨 황 복귀'에…대만증시 사상 최대 상승폭·TSMC 상한가",
+              "source": "아시아경제"
+            },
+            {
+              "title": "‘젠슨 황 복귀’ 소식에 대만 증시 9% 급등…TSMC도 상한가",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "대만 증시, 젠슨 황 복귀에 9% 급등…시가총액 1위 TSMC 상한가(종합)",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 5,
+          "articleCount": 6,
+          "articles": [
+            {
+              "title": "'젠슨 황 복귀'에…대만증시 사상 최대 상승폭·TSMC 상한가",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEQ1ljTE9tcDFLTGFRQWxWOGtDeVlIa2tLem1TRG1QSzZ6c1BGdHFDWjYtN192RVVIWTBEbTBvRVFPdl9jbGt1SFhKVEJUS2tsUnRoeGFTRXRGYTB1TTFIWA?oc=5",
+              "source": "아시아경제",
+              "publishedAt": "2026-11-24T09:47:38.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "‘젠슨 황 복귀’ 소식에 대만 증시 9% 급등…TSMC도 상한가",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13bzdUNXJKM2VsYjhKWTZDVHI5TXpELUJBUlZMMTZfRFpGd3hYX1M4OERLUFhSN3Bsaks4YXExUEpiSXhKQTRZRV9nUEQzem1ZdzVxb2lucklfdW8?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-24T08:40:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "대만 증시, 젠슨 황 복귀에 9% 급등…시가총액 1위 TSMC 상한가(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdXZ6ZFVKNnFtajdueGJYWFlPWkVOTnZPV1AtRFhvRzZ2dWZOTUd2WEtZbHg0ZGxJRFppNEdZNzFkVVdJNDNEd3lyMS1PQ0hyQkNldWc2clhPQ1c2dUoxWdIBYEFVX3lxTE1TdXZ6ZFVKNnFtajdueGJYWFlPWkVOTnZPV1AtRFhvRzZ2dWZOTUd2WEtZbHg0ZGxJRFppNEdZNzFkVVdJNDNEd3lyMS1PQ0hyQkNldWc2clhPQ1c2dUoxWQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T08:23:34.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "젠슨황 복귀에 대만 증시 급등…TSMC도 상승",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xQmJLNW5obi1iOW5PcVpBX0trV0tmX01GQkhBcWZBMGRrWmVpOVVmUDJIOHVtN0d5Qjl5dUVsYTliVTV1emNybGlXdElsWmJkVHY4WjM5WF82LTJFR1BET1Fla3hGS00?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T02:31:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "젠슨 황 귀환에 대만 증시 9% 강세…시총 1위 TSMC 상한가",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Hb29vQjF6UzlHaUZyOXNmdzZsMDRTVlN3UmNMSUtZTFphNkRoTE45RHFRdVBCLXFrVGQzaTRGNk1oTUhhdUxPeVZCZXcyazRwcHJIdkZMUkQ5Tkk4R3c?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-24T02:24:53.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "젠슨황 복귀에 대만 증시 급등…장중 사상 최대 상승폭 기록",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMXdvMEtmRFdpa3NwQzdKc0k2NFpTUUdBLWQxWkRDb0h5TWFyM0MzWFVoUzFSOWthZ01NMnVmZTU1QUhIOWNzVWZVcFVkRmtzZXRvbmdpTVdlaWPSAWBBVV95cUxPbG9qMldjbmlOUlRWNXdFU3UyenVJTGJlTE1NTlhPVC1CTG5FbXlpdl9DcFF6Tk5xeEZXT0o5MlpmeEdJOXNUdmJOTGlzNXdWWkxhNTluNTJhQlRuX2ZFcUo?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T02:27:02.000Z",
               "kind": "news"
             }
           ]
@@ -160,7 +228,7 @@
               "title": "미국 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
               "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Sd1dYVV9BNlhsckNjQXRfZHJGdHhBcEIzaHVTMFVQMWhlbkNDMURxZ3VQTE00YjJsOGEwVEl0dExtRG1WbGtpYjRUc0Z1bGEzUkJsSQ?oc=5",
               "source": "JTBC",
-              "publishedAt": "2026-11-25T13:44:00.000Z",
+              "publishedAt": "2026-11-25T13:46:45.000Z",
               "kind": "news"
             },
             {
@@ -241,67 +309,6 @@
           ]
         },
         {
-          "title": "젠슨황 복귀에 대만 증시 급등…TSMC도 상승",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "'젠슨 황 복귀'에…대만증시 사상 최대 상승폭·TSMC 상한가",
-              "source": "아시아경제"
-            },
-            {
-              "title": "‘젠슨 황 복귀’ 소식에 대만 증시 9% 급등…TSMC도 상한가",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "대만 증시, 젠슨 황 복귀에 9% 급등…시가총액 1위 TSMC 상한가(종합)",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.24",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 5,
-          "articles": [
-            {
-              "title": "'젠슨 황 복귀'에…대만증시 사상 최대 상승폭·TSMC 상한가",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEQ1ljTE9tcDFLTGFRQWxWOGtDeVlIa2tLem1TRG1QSzZ6c1BGdHFDWjYtN192RVVIWTBEbTBvRVFPdl9jbGt1SFhKVEJUS2tsUnRoeGFTRXRGYTB1TTFIWA?oc=5",
-              "source": "아시아경제",
-              "publishedAt": "2026-11-24T09:47:38.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "‘젠슨 황 복귀’ 소식에 대만 증시 9% 급등…TSMC도 상한가",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13bzdUNXJKM2VsYjhKWTZDVHI5TXpELUJBUlZMMTZfRFpGd3hYX1M4OERLUFhSN3Bsaks4YXExUEpiSXhKQTRZRV9nUEQzem1ZdzVxb2lucklfdW8?oc=5",
-              "source": "KBS 뉴스",
-              "publishedAt": "2026-11-24T08:40:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "대만 증시, 젠슨 황 복귀에 9% 급등…시가총액 1위 TSMC 상한가(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdXZ6ZFVKNnFtajdueGJYWFlPWkVOTnZPV1AtRFhvRzZ2dWZOTUd2WEtZbHg0ZGxJRFppNEdZNzFkVVdJNDNEd3lyMS1PQ0hyQkNldWc2clhPQ1c2dUoxWdIBYEFVX3lxTE1TdXZ6ZFVKNnFtajdueGJYWFlPWkVOTnZPV1AtRFhvRzZ2dWZOTUd2WEtZbHg0ZGxJRFppNEdZNzFkVVdJNDNEd3lyMS1PQ0hyQkNldWc2clhPQ1c2dUoxWQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T08:23:34.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "젠슨황 복귀에 대만 증시 급등…TSMC도 상승",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xQmJLNW5obi1iOW5PcVpBX0trV0tmX01GQkhBcWZBMGRrWmVpOVVmUDJIOHVtN0d5Qjl5dUVsYTliVTV1emNybGlXdElsWmJkVHY4WjM5WF82LTJFR1BET1Fla3hGS00?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-24T02:31:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "젠슨황 복귀에 대만 증시 급등…장중 사상 최대 상승폭 기록",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMXdvMEtmRFdpa3NwQzdKc0k2NFpTUUdBLWQxWkRDb0h5TWFyM0MzWFVoUzFSOWthZ01NMnVmZTU1QUhIOWNzVWZVcFVkRmtzZXRvbmdpTVdlaWPSAWBBVV95cUxPbG9qMldjbmlOUlRWNXdFU3UyenVJTGJlTE1NTlhPVC1CTG5FbXlpdl9DcFF6Tk5xeEZXT0o5MlpmeEdJOXNUdmJOTGlzNXdWWkxhNTluNTJhQlRuX2ZFcUo?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T02:27:02.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
           "title": "중국, 미국 ‘과잉생산 관세’ 발표 앞두고 “정치적 조작 반대”",
           "summary": "",
           "whyItMatters": "",
@@ -345,40 +352,44 @@
           ]
         },
         {
-          "title": "닛케이, AI·반도체주 급락에 2%대 하락",
+          "title": "日 증시도 '젠슨 황 랠리' 하루 만에 증발‥닛케이 3.3% 급락",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "日 증시, 美 AI·반도체주 약세 여파에 하락…닛케이 2%대 ↓",
-              "source": "KB Think"
+              "title": "日증시, 젠슨 황 효과 하루 만에 증발…닛케이 2.78% 급락 마감(종합)",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락",
+              "source": "연합뉴스 한민족센터"
             }
           ],
-          "span": "11.19~11.25",
-          "days": 2,
+          "span": "11.25",
+          "days": 1,
           "hasPress": false,
-          "sourceCount": 2,
+          "sourceCount": 3,
           "articleCount": 3,
           "articles": [
             {
-              "title": "닛케이, AI·반도체주 급락에 2%대 하락",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xNmpmX3E3YV8xS045VUdGTUI0U0REbEduUGNySWo3RW02QnJabkRjcnhYdGV2Vm9iSmZhX3J3WnRmUmw1LXRIdjV6QU5oNkpPeVAzX09aRkIyR1NDd0ItM2Nmb01tdE5qOEVfQkEtQkg?oc=5",
-              "source": "연합인포맥스",
-              "publishedAt": "2026-11-25T08:49:08.000Z",
+              "title": "日증시, 젠슨 황 효과 하루 만에 증발…닛케이 2.78% 급락 마감(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZXhEeXBNcVNRRlhZN3hxV0FyT1d4R01qMnR6ZWpQX3pXa2hoWl9MSHpLd3BoYUFNS0VERnE0U3p1N1R4SzBpbWFNcndaa2JBcjJvT09ySGQ1ZUHSAWBBVV95cUxPTkpaRDN5azVyaXBVc1F1VzZobVM2NkIyaUxQaEtXNUQ2cUd5a3VkaG13T0t0QWV0dkVKVmhVbzhzZmotREtCSlk0VEI0cm1RSjd0VmktSEQxTlNmaWxzSnQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T07:56:16.000Z",
               "kind": "news"
             },
             {
-              "title": "日 증시, 美 AI·반도체주 약세 여파에 하락…닛케이 2%대 ↓",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56WlNLbGZxRkVDbHlVRzBoeW91UkdnbGVjd3ZuaWpIcm1LV05Qa0s5VjdWdUNrS05KTVN1N0ttYk00TTlSbmk3MkZUdDY1QXV2emRDb3VWWVRBdS1jQ1pYUk55amIxc3ZIZkYzQzd2MDFjQQ?oc=5",
-              "source": "KB Think",
-              "publishedAt": "2026-11-25T00:22:04.000Z",
+              "title": "日 증시도 '젠슨 황 랠리' 하루 만에 증발‥닛케이 3.3% 급락",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54SHNhMlRld3VhUlpfd3Z4YlFjV3lrLVdLcUppdXh0NS1rUGhWYTloUURhbExsSVFUY3RQdHJDY2RDVy1DSGJJVl9FcFVTVHk2MTBUZXpJeEVJTXFnZ3YwMzJoelVRcTNZSnMtVkJKeWplLV9H0gF0QVVfeXFMTzcyYmNzYjdUQ1VLMVN1eE9KYlpSdklDUTR0WVFieW1pWlE4SjFjTUNFbXIyRnkzT3BmNEVtemQ3WEg3b0hzcU1LX0YzbWZNZ29kQ2F6VTJiUHYtWU9DV1dxNlc0X0dLOG1ZYW54N2llRGJ5Q3o?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-25T04:22:36.000Z",
               "kind": "news"
             },
             {
-              "title": "반도체주 급락에 약세",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRTNsdUwwcWJVenYzTERjLVoxcGJwU04wQjFzX29ibGsxbS1naW52M2plODRQLW1rYURnd0Vhck9RQVB1WEs2UFFrSUN5dTlUWlc4bldKMHJ4ZTZtcVBDeE1IaGpnU2Zsbm1lNEN5Q2Q?oc=5",
-              "source": "연합인포맥스",
-              "publishedAt": "2026-11-19T09:16:50.000Z",
+              "title": "日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kU1QwNmhnczl0d3ZlTmlMQkpFcWZtbHRLNUozSXZ5ZGhKN0JJVjFpd3pvWDRoTWVkamNJVE1sMlkzNzNpTWhkWUUwUFlrNVZjMjJnUWt2bW0xbC1LZFB0VmpONVV5RS1XNnRNWHdLZTlkVVpO?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-25T03:48:49.000Z",
               "kind": "news"
             }
           ]
@@ -391,81 +402,38 @@
       "keywords": [
         {
           "word": "수출",
-          "count": 10
-        },
-        {
-          "word": "AI",
-          "count": 9
-        },
-        {
-          "word": "미국",
-          "count": 8
-        },
-        {
-          "word": "무역전쟁",
-          "count": 8
-        },
-        {
-          "word": "엔비디아",
-          "count": 7
-        },
-        {
-          "word": "트럼프",
           "count": 6
         },
         {
-          "word": "승인",
+          "word": "미국",
           "count": 6
         },
         {
           "word": "머니투데",
           "count": 5
+        },
+        {
+          "word": "미군",
+          "count": 5
+        },
+        {
+          "word": "트럼프",
+          "count": 5
+        },
+        {
+          "word": "AI",
+          "count": 5
+        },
+        {
+          "word": "무역휴전",
+          "count": 4
+        },
+        {
+          "word": "군사기밀",
+          "count": 3
         }
       ],
       "items": [
-        {
-          "title": "美, 中 군사 연계 기업에 AI칩 27만개 수출 승인…수출 통제 허점 논란",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "트럼프 행정부, '중국 군사 기업'에 AI 칩 27만 개 수출 승인",
-              "source": "OhmyNews"
-            },
-            {
-              "title": "美, 中에 AI칩 88만개 수출 승인…군사 연계기업에도 27만개 허가 ‘논란’",
-              "source": "데일리안"
-            }
-          ],
-          "span": "11.20~11.21",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "트럼프 행정부, '중국 군사 기업'에 AI 칩 27만 개 수출 승인",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82SmtmaEVUbjFqRGtGZ3d1YXN6ZDMta2E5bjhQVnVaYVN3X1ZwOHotQkpMQ0xiRGRJWUVtWVFtQjdLSDRzaXRrVkhVUEJmSFBXNHJka1VkbVBybHIyWHNHc2JlZ2dSMnd5bnBta00weGUyUG1OY1hF?oc=5",
-              "source": "OhmyNews",
-              "publishedAt": "2026-11-21T02:31:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "美, 中 군사 연계 기업에 AI칩 27만개 수출 승인…수출 통제 허점 논란",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45VndEdnlPckpCMlQ4bHJxYmR5QjRYTERBM0czUHhqYW9PbzVUclV2UjZEcHRJbl82dzZBbkplVy1uSGpabUJPcXFjOTlkTXZ6SUJTa0N5S3JyQ2xaaW5NRXZrc3g3ek9jSUY4c9IBb0FVX3lxTE5UVHB3Y3g0c21WNDBVTlRwbUo3SC1QQkdlVWpjYzRkV3ZxZzYtbjRYSFRSMjBlMFQ4MF9ERlJaNjVOTkZUaUpmUThUdEtkanh2VmVJWEczS0Z4WVZUWUR2QmdnVzNFalVta1NoejJGRQ?oc=5",
-              "source": "한국소비자경제",
-              "publishedAt": "2026-11-20T18:00:04.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "美, 中에 AI칩 88만개 수출 승인…군사 연계기업에도 27만개 허가 ‘논란’",
-              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTTlWSDZtTTZCVDB0XzhCU1ByY2pJblNzdmU4dHFYQ3lPTzNWLW5VV0J2S3pOaEMyejJqNmtZcGN6WENiY1NJLTRrT0Y3Vnprb1dTQ2Q5dHhvTnNRMjFTRllPeDlGMU52UEQ3cWVhb1VNQTBjeG9Obld0MzlHSmJPN1BjVXJhLWFWMFozWFFTXzg2VGFKYVRQNllKWXZWY2RrUlp0dmRPY0M5OXAyUEVBUWhoU1QwbHZGVGdEdnNmNnRGSGpQY0pHRWVZYnA0Mm9WM3RCYjk3N1dIejdLNVRPYS1Ha3JJY2JlWWFhbTVR?oc=5",
-              "source": "데일리안",
-              "publishedAt": "2026-11-20T11:54:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
         {
           "title": "전쟁기념관 탱크 위에서 ‘찰칵’…말리는데도 무시한 중국 관광객",
           "summary": "",
@@ -491,7 +459,7 @@
             },
             {
               "title": "\"들어가지 말라\"는데도…중국 관광객들, 전쟁기념관 탱크 올라가 '찰칵'",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42bDNzYTlGZUlxNjJaZHhZRl9kVzVqaFd2QnMxTmhwZlowLVRuMnhzakI4SG5qUE4wbEtzdXRRUzVscUVnSnlIUTcxUWlBdndIQldoVUhxWUhHaE8wdTdaOGZUNm1xQnlUcnJz0gFmQVVfeXFMT0tzUUN1c1lqRmE4Sk0zY05aRDhaMU41ZlozREVnbFVxNlJoR2t0cFN5YXBQaEZLekgyelBsY2lDbzJJVHNMVzNGQW93QTZGMlloX2xKQm8weFZuN2tTZURQMmxSTkNR?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BbWtzWEktZ1RFeU1jODVJejJlN2VrZGlNYTdEWEI5TmNkRzRWbWMzdklMeEswc3lDM3J5RzhJc3o3TUxsY3hrbHZpS1BhSFVqa3ZoM0liaF9tb2JURDlqY2ZCN3BqR1Q0LWfSAWZBVV95cUxPS3NRQ3VzWWpGYThKTTNjTlpEOFoxTjVmWjNERWdsVXE2UmhHa3RwU3lhcFBoRkt6SDJ6UGxjaUNvMklUc0xXM0ZBb3dBNkYyWWhfbEpCbzB4Vm43a1NlRFAybFJOQ1E?oc=5",
               "source": "SBS 뉴스",
               "publishedAt": "2026-11-25T07:45:48.000Z",
               "kind": "news"
@@ -531,45 +499,13 @@
           ]
         },
         {
-          "title": "“엔비디아 사태로 美中 무역전쟁 재점화 우려”… 반도체·희토류 갈등 격화",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "\"'엔비디아 사태', 휴전 두달 남은 美中 무역전쟁 재점화할수도\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.23",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "“엔비디아 사태로 美中 무역전쟁 재점화 우려”… 반도체·희토류 갈등 격화",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkhVWUo5ZGZNZ1BrS1hpc3V6Skh4U2ctREdOZ1VRSlJTZU5Qang2NGZsNml0TzJsY2ltX3JmVVk0ZjkwbldSd1ZpYkVaUHRvc28ySV9iMGxpWG12Skd2LWJMSVREUVpQRFJjeEZHaE8zUWRNODV6blNQVm1FN3ZoUlhCRl85RnpMbEh2dkI0Q3dJVjQ1RUhmeW1CMlBPd9IBsgFBVV95cUxNTHdFQ2dMRW5vWGRhUkVNZFNrQkpJdU1Kb1FIaGFFT3lDY1VoQUQ1a3g1YVpaa0pYWDY5Qnl1VTU2bF95TFpMME9JdzBvdk9DYWIydTB1UklxSHpSaGNpMEh2VEJpMkppV1NCZi1lNnpoUjRPOVVNOEZXR0IwQTZaLUZSM0NaVmU4WVNWZ3dYZER0TjJ2QTI5cUtWLV8yVG9nVnhrTjVUamN1RkVKcUJkRFd3?oc=5",
-              "source": "Chosunbiz",
-              "publishedAt": "2026-11-22T15:54:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "\"'엔비디아 사태', 휴전 두달 남은 美中 무역전쟁 재점화할수도\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RQTFKY0xhMGlpLW03RDVhRHR1WUhwLUtqeW5GZnhKX1M3YUNwVWJCanlnMDk0S0FDZGJLMmkwV0xHWXZJczI0QkZSOUwwZlYzVkFRSEo1RVJnSVXSAWBBVV95cUxOWTVTNVJqajBKSWN1anFsOWN6cVUzc3o5bFN0VEIwS2dJUXczXzJQeE0zcjBnTlI5UTR0YUxoYXVJbmNmNklRRVB6SzFkdHBtdmpHUWFhcXpENDQ2b0p1blM?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-22T15:36:35.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
           "title": "美中, 상하이서 군사소통채널 가동‥\"해상·공중 안보상황 교류\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
               "title": "美中, 상하이서 군사소통채널 가동…\"해상·공중 안보상황 교류\"",
-              "source": "연합뉴스"
+              "source": "연합뉴스 한민족센터"
             }
           ],
           "span": "11.20",
@@ -587,9 +523,49 @@
             },
             {
               "title": "美中, 상하이서 군사소통채널 가동…\"해상·공중 안보상황 교류\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84TF9kak0zX2RGMURkSTdIWGJtVDhpNmU1X2lFZTNvQUVabWpxSDduWWNSLWxMRG1scGVGSGRMWWp2U0hXSXFCY3AtdzFLM2xRWWhVbmQtelB5cEnSAWBBVV95cUxObTBseWVNcmNTeDRNR0o5SWl2bTVJWmkxWExTak9yTG4zN1lPeGZqb3dvUnN3V3VGM1JRWS1xQjJXM2tjek5GeTg3MDlHYS1zMHBhYnhGZl9iclZnWUR4Vno?oc=5",
-              "source": "연합뉴스",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PMHA3dFV4WWJ0aEc3WldrcGROYzJGLXdTLVJUQ1czZk1uc29Fa0JLTzY5X3o5MHoyVHZFRlVqZExmLXNHVEFvYnlIeDBkdW45eF80YTBLUktvendnV1haeXc5NkJNRmpfTTNMaU5DaEFDdXBq?oc=5",
+              "source": "연합뉴스 한민족센터",
               "publishedAt": "2026-11-20T10:17:20.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"러 군용기, 韓·日·대만 동시 압박…아시아로 확산하는 러시아 군사 위협\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "\"러 군용기, 韓·日·대만 동시 압박…아시아로 확산하는 러시아 군사 위협\"",
+              "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcjdjUlJ0eWJfemp0dnZWU3c4eVYycy1xSk5VNGpMT1JSaHZKNDR1NS05YWFkVTFrSU54b1BrQ2NDdm54c19Mb2prNjIwYjJIZ1pEcHdkNE04d2pJcUNlQzBZSTBZVGRfYUlIQVBuV0dxRFFoeGVGcjlGSmRNd0NIQnlOc3RJa1RYakFnNlFZM0wwTjREbmU1ZkhRdExKNU5ia3dMUlJZVU9ic240UHg5Nm95WW5vd2hKWWJ5bmgzMnU1eFlmSC1CR2JyYUZzUllFWUlkeDZDaDRyWmw1THV6VnlRR05aekMzMXFMR1hPVU9Ucnk1NlE1OVlpZ2o0WmxGZTFUQk0xYjRuWEFDbWNkUjJwbENKUUE?oc=5",
+              "source": "데일리안",
+              "publishedAt": "2026-11-25T22:02:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "중국이 자동차 전쟁에서 이기고 있다…100년 제조업 패권의 대이동",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "중국이 자동차 전쟁에서 이기고 있다…100년 제조업 패권의 대이동",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lVXBxTUV3d3Zob3VEMDFrRHQtTjlwMEdQUnF6aEpGSXVBY2dvVjdtb0VBX1NKTG5iZ1ZtNmRDNVo0ajN3WHRzSk5rSlJGcVVqZXNveFZhOC1DMU9ySko1UHpRSTM?oc=5",
+              "source": "베타뉴스",
+              "publishedAt": "2026-11-25T21:30:00.000Z",
               "kind": "news"
             }
           ]
@@ -607,7 +583,7 @@
           "articles": [
             {
               "title": "\"일본 방위력정비계획 기본 방향에 '신형 대함 미사일 도입' 명기\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wem5LXzNtcWg5aFh1bUR6ZXNxRzktMmx5TDZma25fc1NxVHkwcUpHNkVkUTRtVFhZWEZnWUx0NjJ1dlpLNi1hQmI4dlBycHdCOExmWlhEdFNWS2hqQjhjQlM1eTZxSUZFMnlINHZtZmZVdVhx0gF0QVVfeXFMTnBmVzVacUE0SWJXTGN5SUNQa1J1RThNdjJCTHdmQnU3RW11WVhrdmU3ZENzckhWdXdaSEIydndkLWVtYjl1WTdmdmd0ZmE1bkpFb2VqSzZWVllDRmFuMlpCcl81eWNBTWsxd2l0d2FBRHM5N08?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wZlc1WnFBNEliV0xjeUlDUGtSdUU4TXYyQkx3ZkJ1N0VtdVlYa3ZlN2RDc3JIVnV3WkhCMnZ3ZC1lbWI5dVk3ZnZndGZhNW5KRW9laks2VlZZQ0ZhbjJaQnJfNXljQU1rMXdpdHdhQURzOTdP0gF0QVVfeXFMTnBmVzVacUE0SWJXTGN5SUNQa1J1RThNdjJCTHdmQnU3RW11WVhrdmU3ZENzckhWdXdaSEIydndkLWVtYjl1WTdmdmd0ZmE1bkpFb2VqSzZWVllDRmFuMlpCcl81eWNBTWsxd2l0d2FBRHM5N08?oc=5",
               "source": "MBC 뉴스",
               "publishedAt": "2026-11-25T13:35:39.000Z",
               "kind": "news"
@@ -622,62 +598,69 @@
       "keywords": [
         {
           "word": "다카이치",
-          "count": 32
+          "count": 25
         },
         {
           "word": "조정식",
-          "count": 12
-        },
-        {
-          "word": "회담",
-          "count": 10
+          "count": 16
         },
         {
           "word": "국회의장",
-          "count": 9
+          "count": 13
+        },
+        {
+          "word": "회담",
+          "count": 12
         },
         {
           "word": "논의",
+          "count": 9
+        },
+        {
+          "word": "경제협력",
           "count": 8
+        },
+        {
+          "word": "한국",
+          "count": 7
         },
         {
           "word": "트럼프",
           "count": 7
-        },
-        {
-          "word": "한국",
-          "count": 6
-        },
-        {
-          "word": "시진핑",
-          "count": 6
         }
       ],
       "items": [
         {
-          "title": "조정식 국회의장, 다카이치 일본 총리와 회담...경제협력·의회교류 확대 논의",
+          "title": "조정식 국회의장, 다카이치 일본 총리와 회담 ··· 경제협력·의회교류 확대 논의",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "조정식 국회의장, 다카이치 일본 총리와 회담…경제·의회 교류 논의",
-              "source": "서남투데이"
+              "title": "조정식 국회의장, 다카이치 일본 총리 회담…\"경제협력·의회교류 확대\"",
+              "source": "더밸류뉴스"
             },
             {
-              "title": "조정식 국회의장, 다카이치 일본 총리와 회담…한일 경제협력·의회외교 확대 시동",
-              "source": "불탑뉴스"
+              "title": "조정식 국회의장, 다카이치 일본 총리와 회담…경제·의회 교류 논의",
+              "source": "서남투데이"
             },
             {
               "title": "조정식 국회의장, 다카이치 일본 총리와 회담…경제협력·한일의회 미래대화 재개 논의",
               "source": "여성종합뉴스"
             }
           ],
-          "span": "11.23~11.25",
-          "days": 3,
+          "span": "11.23~11.26",
+          "days": 4,
           "hasPress": false,
-          "sourceCount": 12,
+          "sourceCount": 11,
           "articleCount": 13,
           "articles": [
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리 회담…\"경제협력·의회교류 확대\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oa0JVT0ZDTk1pa2s4bklield0RndDZ0xxbmQtV0VHb0VHM3pJQnhmdm5NYWlid3ctdHRFMzh2UDN1VHhQN1otaDNjNERpai03OUF0Vw?oc=5",
+              "source": "더밸류뉴스",
+              "publishedAt": "2026-11-25T22:59:46.000Z",
+              "kind": "news"
+            },
             {
               "title": "조정식 국회의장, 다카이치 일본 총리와 회담…경제·의회 교류 논의",
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zWE1DWUFJNG45OTJHZXNiU3FhRjNkQVJyUTI0MENIT2xKaEZtWHNjdUUxaUg5LWNvb3RYUGtOQWRIUmpqODdwUXBaTTNZd00za1VNeW01UFI0dw?oc=5",
@@ -686,10 +669,10 @@
               "kind": "news"
             },
             {
-              "title": "조정식 국회의장, 다카이치 일본 총리와 회담…한일 경제협력·의회외교 확대 시동",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lakN3ZU9hNzRZbFJ4cU03SEItTC1qSURPbEdDa0RBTGpZRkN6V0ZtMEh3QUQzSDBVYVVjVVllckdDVVhxMnlCQVFxejBGU2E3bXNTWl9aNE9Cdm5iSmc?oc=5",
-              "source": "불탑뉴스",
-              "publishedAt": "2026-11-24T12:32:55.000Z",
+              "title": "조정식 국회의장, 다카이치 일본 총리와 회담 ··· 경제협력·의회교류 확대 논의",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tbHMwSXBjWlFDeEdNdUZLWGI4SVFBbXNJSkxNVzJweE44RlB0LWpOYW85Z1d2ZnRScENydS1rQkUwNXlkb2poMWhyQmhpQkw1eXdRQVU1a0hpekQyMDl2Q2ZTUjFlWUXSAWtBVV95cUxNYlVXNUtpdkE1dGozNVlmMHp3VjFSa2dpWFFGS3phQzZEdnkyUXpHd2wwVU4zU1YzQ04zVEJDZGNTTXVJUEVkcWduUXZnNGswTG43QmNwU1pUMkdpX3JKVDFfdENObUpKVkl6VQ?oc=5",
+              "source": "투데이N",
+              "publishedAt": "2026-11-25T02:10:00.000Z",
               "kind": "news"
             },
             {
@@ -712,155 +695,48 @@
               "source": "내외통신",
               "publishedAt": "2026-11-24T08:59:45.000Z",
               "kind": "news"
-            },
-            {
-              "title": "조정식 국회의장·다카이치 일본 총리 회담, 한일의회 미래대화 재개 논의했나",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwU0NRMFU2bFB2MVJLSTVJS1NjdktYWWFMZk1sWW1TekFnVzVBRjRuR0JDMFJlejNsTUNVRDNpcjZ4V09Fc1BTakpndnR1X2hqTEdjVWZDUUk5Wjlka1g4UTc4ZkNDMTBO?oc=5",
-              "source": "창업일보",
-              "publishedAt": "2026-11-24T08:29:39.000Z",
-              "kind": "news"
             }
           ]
         },
         {
-          "title": "APEC 정상회의 입장하는 다카이치 사나에 일본 총리",
+          "title": "일본, 핵무기금지조약 불참 공식화…’핵반입금지 재검토’ 여지",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "악수는 했지만⋯중국, 다카이치 일본 총리 ‘냉대’",
-              "source": "이투데이"
+              "title": "일본, 핵무기금지조약 재검토 회의 불참 공식화",
+              "source": "YTN"
             },
             {
-              "title": "다카이치 일본 총리와 악수하는 시진핑 중국 국가주석",
-              "source": "연합뉴스 한민족센터"
-            },
-            {
-              "title": "시진핑 중국 국가주석과 다카이치 사나에 일본 총리",
-              "source": "뉴스1"
-            }
-          ],
-          "span": "11.19",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 5,
-          "articleCount": 6,
-          "articles": [
-            {
-              "title": "악수는 했지만⋯중국, 다카이치 일본 총리 ‘냉대’",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13d2h2b0IzZ0F0cHU1allJSzBPN2lTUnd1b3JxdFdndHBubmdydXdDV0Y1c3pwUmV2RFNoWWN3WDFRQ0g2dkhZMkIzemlVNTRvUkh5NA?oc=5",
-              "source": "이투데이",
-              "publishedAt": "2026-11-19T04:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "다카이치 일본 총리와 악수하는 시진핑 중국 국가주석",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zWFMwMUJRMW9zQ0pid3d3ZmcyNmhwczlvU0M4clBLNTBiRUFTTUlQRWp4ZW85cEtEeFVRWnlrcWNXYUNkV19ieEpjSjJwM0tFTEtjZDZjRlpwUWFnVHFubk1aTmM0ellmSDhRbUdSUW0wSGxm?oc=5",
-              "source": "연합뉴스 한민족센터",
-              "publishedAt": "2026-11-19T02:08:21.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "다카이치 사나에 일본 총리와 인사하는 시진핑 주석",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMUzZsOFI4OERZOGxaY1RIRExTVUJFd3RqZ3F3Sk1rak1aQk0zckNYblI3VVlDQmsxT0tXRnRiN0g2U3BDSzNZX1VuZWszdmxlWVRfZ0lybS1FT1Zzb2ZiVA?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-19T02:07:12.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "시진핑 중국 국가주석과 다카이치 사나에 일본 총리",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YVG9FNDd0ZXBpVmRMSGpJa0FZZW4xV25nYVphVWhqMU9kWjk5MTh4QXN3RTd6N3czOXU4SnpKWGZ1bUVtc1BxbWNmYw?oc=5",
-              "source": "뉴스1",
-              "publishedAt": "2026-11-19T02:01:26.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "중국 선전 APEC 정상회의 입장하는 다카이치 사나에 일본 총리",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16eDZUc2hhTmhxZS0xdlJaTVg5cDRRSkQyTmYwTzJkUzJqM2JDTXpfczhiUlpCWDdCR3Y2clpjU3YwT2RnaWx2M0VFeU5SR0Rfc0RydGFUdFVLcEnSAWBBVV95cUxOWEVTU1hKVGR4T1NteEhLenFxaW1qbDBSNW9tdlYtTzVqT0F0TjAyZGxlanh4QXZTeTdIX1hpT0RvZmg2b1cybDk5bllIcmFCY2M5Q1FYOU0tbndqUnVTNHU?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-19T01:35:21.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "APEC 정상회의 입장하는 다카이치 사나에 일본 총리",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TNmsxaHJiUWdDU2dlTHFFdXFJNDBwTk8wYkpweUZhMThWaV9LaUNrSWFPckxPMVZMdzFrNEhhM0w1cWx4WElDdjJfMVp0bFJfS2JpcERkdzdFT09hZGlzVw?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-19T01:52:25.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "다카이치, 美제재 봉착 ICC 지지 강조…분담금 조기 납부로 지원",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "다카이치, '美제재' ICC에 '분담금 조기 납부'…트럼프와 온도차",
-              "source": "마켓인"
-            },
-            {
-              "title": "다카이치 일본 총리, ICC 분담금 조기 납부 방침…美 제재 속 자금 지원",
-              "source": "서울뉴스통신"
-            }
-          ],
-          "span": "11.24~11.25",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "다카이치, '美제재' ICC에 '분담금 조기 납부'…트럼프와 온도차",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HcHFaVVVPTWpfbHBQcWJMYVJvdXJFS2Vkb19Ra29NTlhEd1pJZ2puRXF6SDU0RUNzVml5RmNCbjdoZTBSVjZjUmxZczVzajhBSmdpSTViVk5mUGw1MF83V05tR2VraENrdjBrR2FGUm5lM0E?oc=5",
-              "source": "마켓인",
-              "publishedAt": "2026-11-25T05:11:23.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "다카이치 일본 총리, ICC 분담금 조기 납부 방침…美 제재 속 자금 지원",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkbF9mUERyN3NVOGNjZ1JwcEx3ZDkxU1l5OEI5SDZUYlhiMlc5SjJMZGpCYTY4R1AtbTh3NDIxLW4tQVlQbE5IY0N6U1BFdXZwM1NQNnFGaVBDR3Y5djdMdFd0dWt4U2U4eEt3?oc=5",
-              "source": "서울뉴스통신",
-              "publishedAt": "2026-11-25T01:36:23.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "다카이치, 美제재 봉착 ICC 지지 강조…분담금 조기 납부로 지원",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RX3hnNnhtZVk5Z1Y3NG8td2JCM2hFSzV6Z2ZwRUpqeEdFaXMyMGtXN2pwbTE2ZGxKNm96QUl6eTh6cWJlNlBCSlFqZEszeWFQNFFkc1J2dkpaMVXSAWBBVV95cUxNMWVLVFd4R1pqOXUtY2x4Q3lYVmQyeC1ZSlNFN0RtVHRFYThsV01WcGxDSElIVEpSOHYzV3VwaVlmTjJpT2ZmNWxzc0JUMm5pUVA4aVhSa2NPMlZVWHlDSnQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T09:44:36.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "\"일본 방위력정비계획 기본 방향에 '신형 대함 미사일 도입' 명기\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "\"日 방위력정비계획 기본 방향에 '신형 대함 미사일 도입' 명기\"",
+              "title": "日, '핵반입금지 재검토' 여지 속 핵무기금지조약 불참 공식화",
               "source": "연합뉴스"
             }
           ],
           "span": "11.25",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
+          "sourceCount": 3,
+          "articleCount": 3,
           "articles": [
             {
-              "title": "\"일본 방위력정비계획 기본 방향에 '신형 대함 미사일 도입' 명기\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wZlc1WnFBNEliV0xjeUlDUGtSdUU4TXYyQkx3ZkJ1N0VtdVlYa3ZlN2RDc3JIVnV3WkhCMnZ3ZC1lbWI5dVk3ZnZndGZhNW5KRW9laks2VlZZQ0ZhbjJaQnJfNXljQU1rMXdpdHdhQURzOTdP0gF0QVVfeXFMTnBmVzVacUE0SWJXTGN5SUNQa1J1RThNdjJCTHdmQnU3RW11WVhrdmU3ZENzckhWdXdaSEIydndkLWVtYjl1WTdmdmd0ZmE1bkpFb2VqSzZWVllDRmFuMlpCcl81eWNBTWsxd2l0d2FBRHM5N08?oc=5",
-              "source": "MBC 뉴스",
-              "publishedAt": "2026-11-25T13:35:39.000Z",
+              "title": "일본, 핵무기금지조약 재검토 회의 불참 공식화",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kdVRVejZXLUlVV1ZSSTNFdGxLU3FuZUJCWmwzcDRWT241OGFOMm96QldNUFJYdjZqTW16dXpLV21CZ1k4Nm1tVWtqSnptN3FzQlJ0dkZ3TkxTUVgyUFE?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-25T05:38:00.000Z",
               "kind": "news"
             },
             {
-              "title": "\"日 방위력정비계획 기본 방향에 '신형 대함 미사일 도입' 명기\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UWkR6OGlZcEJBS05oMXNmb0Q2bzZBZDhkWVdhdVVjb3ZuSHRrcHdjQldqTFd4YlBWeWJhTVVuUFRIcjZMYXR5bEx3SHFVampIR25GdGJldUlvVUHSAWBBVV95cUxQYW1heXl4SG16M0M2QWt2LVRaLTl6dG05WVlVYTZvUmp3NVlJdmg4M3Rqa1B3VC11eHowSXB5LUpBV2YtMzZ4R3k4VmUzMzlkOC1NM1MzcWlwVlp6VjR1WEk?oc=5",
+              "title": "일본, 핵무기금지조약 불참 공식화…’핵반입금지 재검토’ 여지",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jaUhFdWYxdDlNOHRWb3NOWmlpRndacTg5eXk0Mmc4dnhTTzNYRXEyTXRKVVk4Nzc4R2pJV29BbXFJaWZZeEFCUlAtanB3dG1RMHVqZ0NLWlFGUUhxaHVFMjY1N3FKbm8?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-25T00:47:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "日, '핵반입금지 재검토' 여지 속 핵무기금지조약 불참 공식화",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TNnNMMkJfeE5hZUF4NGZBWTZ4Mnc2cXZNa0kzdll0elp0UXdCX0k1VDBmam02clY1bDRhdVpzbXN2cjZ3ZVN2TVk4Q2Joa1ZQX3R0clpjYkdWcXVIU3ZoV9IBYEFVX3lxTE9TNnNMMkJfeE5hZUF4NGZBWTZ4Mnc2cXZNa0kzdll0elp0UXdCX0k1VDBmam02clY1bDRhdVpzbXN2cjZ3ZVN2TVk4Q2Joa1ZQX3R0clpjYkdWcXVIU3ZoVw?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-25T13:18:45.000Z",
+              "publishedAt": "2026-11-25T00:09:52.000Z",
               "kind": "news"
             }
           ]
@@ -883,14 +759,14 @@
           "articles": [
             {
               "title": "\"일본 안보문서 전문가회의 '비핵 3원칙 재검토 의견'\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zTDVveUpmR3dEeVdScFVtU1ZpR1hGaUpBM0ItRjZlM2lUN3pESGVWamdqY2tlOEQxd2c4LTJRT2dMaU55cFdyTW53Y2I3dGpJSlF0NlVGV0JMdnAwQy12T2xUWVJPbWdjM1NiSzh3ZnZBQ0hQ0gF0QVVfeXFMT2prUWF1cWlqUDlualhQRGJZM1g5OW1tWmdDazNaZDNONHdqZF90OFRmaGZWcGRCNEdxRmhPMklHdllDOFZkZ3FsZmV5VHZlUTZFeDExcEFtYjhFc2NsSHVnaGdsVlJQQ1BTQ0haOVQ4NGpJSXg?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa1FhdXFpalA5bmpYUERiWTNYOTltbVpnQ2szWmQzTjR3amRfdDhUZmhmVnBkQjRHcUZoTzJJR3ZZQzhWZGdxbGZleVR2ZVE2RXgxMXBBbWI4RXNjbEh1Z2hnbFZSUENQU0NIWjlUODRqSUl40gF0QVVfeXFMT2prUWF1cWlqUDlualhQRGJZM1g5OW1tWmdDazNaZDNONHdqZF90OFRmaGZWcGRCNEdxRmhPMklHdllDOFZkZ3FsZmV5VHZlUTZFeDExcEFtYjhFc2NsSHVnaGdsVlJQQ1BTQ0haOVQ4NGpJSXg?oc=5",
               "source": "MBC 뉴스",
               "publishedAt": "2026-11-25T11:51:21.000Z",
               "kind": "news"
             },
             {
               "title": "\"日안보문서 전문가회의 제언 초안서 '비핵 3원칙 재검토 의견'\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0YlFPV21Jc25XSlpfTndkTVhKdUJNRnVvdGlVTGk2ZWthX1FrU2VRTzkzOWZmMGRfam9Nc0d0amtocV83b191TnhsYWFubUVXS2ZnamV4OWU3OG_SAWBBVV95cUxQRDRyd2Q3YTZPbmlBNEFVZU9nZzh1SUpoblJSTEQ3M1BmbkRDWFVpY0RXcWw5VHVIMUNySEdZeHJmZjRnV0MzTmduTTdfd3Btc2tkNUtLVW1LcC00QXpXRGI?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBENHJ3ZDdhNk9uaUE0QVVlT2dnOHVJSmhuUlJMRDczUGZuRENYVWljRFdxbDlUdUgxQ3JIR1l4cmZmNGdXQzNOZ25NN193cG1za2Q1S0tVbUtwLTRBeldEYtIBYEFVX3lxTFBENHJ3ZDdhNk9uaUE0QVVlT2dnOHVJSmhuUlJMRDczUGZuRENYVWljRFdxbDlUdUgxQ3JIR1l4cmZmNGdXQzNOZ25NN193cG1za2Q1S0tVbUtwLTRBeldEYg?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-25T11:35:51.000Z",
               "kind": "news"
@@ -925,6 +801,70 @@
               "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdm5XWTFMbkhBNFRBR1RQOXoxVm9xTVk3R1RQbzZwS2VoWXFJWlRUWGw3SEdIbk9TQk5aZ1EwZ3NaTDFxMGNMQ3drM01YNEFLd2JpcndEOGhTRGNYbFdhYkFTRWx2YzNxSVBDelRHemRqMVZCUFhNUEUyTnFTOFFkWVM3d1piU1UyNFJUekFMSjF5dw?oc=5",
               "source": "조선일보",
               "publishedAt": "2026-11-25T09:23:18.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "중국 \"트럼프, 대만독립 지지 안 한다 말해\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "中 \"트럼프, 대만독립 지지 안한다 말해\"…美에 실천 촉구",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "중국 \"트럼프, 대만독립 지지 안 한다 말해\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkYmhsOFdsdm94dTAyZW5wRngwSXlCQmhkWWQ5c0xNaDZ0ay1qU0wwMGlpb0FpODBPdkdhWm9IVGRheTREZl9vVV8tcGQ2aDFJMVoyUFhidDBNbUlIQzhzdFd4S0dYdjg2SFBzaXp4aVcwNURt0gF0QVVfeXFMTVB0V3ZjVkh0QjBFSHYweWxsdmtNb1ZLOU04cnQwX3ZWMmlZc1ppZG8xek41SzZTZTlEaEE0b1FRZUQ2bV9UVTlHV2xDZTZIZWhpZUxNX2NjckF3LWQ4RWhBTWdvOVozQWMxYW9vVjJTaE5lN2s?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-25T05:34:55.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "中 \"트럼프, 대만독립 지지 안한다 말해\"…美에 실천 촉구",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TUHYzNjU2OVZyNFAtb29tLXdZMm9kTmN1b3ozcS1CTlYyVDJUY2VaeFJSVnYtU20wRjZZZVNHaUJuX3BlNXMtcmlfcHRwQVV4X0tQYmdQRWdxeHfSAWBBVV95cUxOcEdRRzVTbk5odUNZRHRRNndJMDFHVVpYaWY1UUszRE5fc3lBU1E4N0tBckM4d2dzRi1DcUpkQmV0bTd4WW1yUFUyZUNBcm1KaGNYaHlYMFRfU3VwNjhmNDM?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T04:51:41.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "조 의장, 다카이치 총리 만나…’한·일 의회 대화’ 재개 제안",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "조정식 의장, 다카이치 총리 만나 '한일의회 미래대화' 재개 요청",
+              "source": "경인방송 뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "조 의장, 다카이치 총리 만나…’한·일 의회 대화’ 재개 제안",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tTmZrd1NJdTBtUWlpWDhiV1JnVktXa2NNRm1aMU02cGVyeEJTdkhsM1dPM1I4dWJ0SG5ydVFYZnFvVVNYODRzckJ3a1lDTlo3dFpRTzJvbHRYLVN5eWw2R1JDLVptMGM?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T08:46:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "조정식 의장, 다카이치 총리 만나 '한일의회 미래대화' 재개 요청",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40a1JSeWpPVWhJUEUweE5FaFB0WVJ1c0lleWFSenZXMzRpbzA1QTk1a18wMEprTjhVV1J6bll1Q1ZHdUxISEdJWmxIUzF2eHhBU1hiVDZUam9xWndHZERKWWs4T2lnellD0gFoQVVfeXFMTjRrUlJ5ak9VaElQRTB4TkVoUHRZUnVzSWV5YVJ6dlczNGlvMDVBOTVrXzAwSmtOOFVXUnpuWXVDVkd1TEhIR0labEhTMXZ4eEFTWGJUNlRqb3Fad0dkREpZazhPaWd6WUM?oc=5",
+              "source": "경인방송 뉴스",
+              "publishedAt": "2026-11-24T07:13:44.000Z",
               "kind": "news"
             }
           ]

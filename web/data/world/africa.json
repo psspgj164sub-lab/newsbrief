@@ -5,11 +5,11 @@
     "from": "2026-11-20",
     "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T21:21:24.464Z",
+  "updatedAt": "2026-11-25T23:34:56.980Z",
   "ai": false,
-  "overview": "최근 1주 아프리카 관련 국내 언론 기사 162건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「상명대, 나이지리아 디지털 거버넌스 기반환경 조성사업 마무리」(기사 6건)입니다.",
+  "overview": "최근 1주 아프리카 관련 국내 언론 기사 130건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「상명대, 나이지리아 디지털 거버넌스 기반환경 조성사업 마무리」(기사 6건)입니다.",
   "stats": {
-    "articles": 162
+    "articles": 130
   },
   "themes": {
     "economy": {
@@ -25,6 +25,10 @@
           "count": 6
         },
         {
+          "word": "데이터",
+          "count": 4
+        },
+        {
           "word": "승인",
           "count": 4
         },
@@ -37,15 +41,11 @@
           "count": 3
         },
         {
-          "word": "데이터",
+          "word": "가격",
           "count": 3
         },
         {
-          "word": "성장",
-          "count": 3
-        },
-        {
-          "word": "확보",
+          "word": "마켓",
           "count": 3
         }
       ],
@@ -83,6 +83,40 @@
           ]
         },
         {
+          "title": "에티오피아 유기농 신선 시금치 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.20",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "에티오피아 유기농 신선 시금치 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CSGxjVm1YRDhxdDVpOUN0ZExLYUZhcFNyVDZ2dXlxdDh3MV9GU1FHd3VHOFpibi1oZHhOb0dISHFObnRzSWpQSDVDQ2ZwQk1KbmZJZ1laN08wbGxDcWZZcnZNZU9TejJ3SWJWUnBzY1RyQzFf?oc=5",
+              "source": "Tridge",
+              "publishedAt": "2026-11-20T08:00:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "나이지리아 신선 카라카라 오렌지 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZzgzRURYWlR6WWFlYXVIdFJNSU5pdU1DRUpMSzQzVXZRVnFPQ0xzMnFkYklVRWlBOGNIVVl4OXZjcDFlX05Pdk9rUEVtbFlYNXhZQmU1ZU5WX1FRSzlaQy1NcmptMUZocjlZY2dySHVkTWNQX3c?oc=5",
+              "source": "Tridge",
+              "publishedAt": "2026-11-20T08:00:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "케냐 아프리카 페리페리 핫소스 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlZ3hpQkpDeHFuTWhyNFBXUkRObUZEOWNxTHNjVzl5ZmU4NFpORTZuS1VuTzRQUXhtWGdRalV0SWVkdjBSWERWYWZqWVdYNVZ4UktRc3pBWWFkeWlYZnF3VE8yaHA3aDk4cTRtM2M0d2RSakZ0b3JEYW9OVE0?oc=5",
+              "source": "Tridge",
+              "publishedAt": "2026-11-20T08:00:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
           "title": "캐피텍, 남아공 증시서 2.35% 상승 마감 : 기업주식정보",
           "summary": "",
           "whyItMatters": "",
@@ -105,33 +139,6 @@
               "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80T3luUmJGNmg1dkhfZFR0VlJGMUZyX3FxSnNMZ3hBX3RPMzBuLTc0MTg1VFhOMmNQeDRNYWNXQllhNTF5cEl4dllsdw?oc=5",
               "source": "재경일보",
               "publishedAt": "2026-11-24T04:01:05.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "에티오피아 유기농 신선 시금치 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.20",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "에티오피아 유기농 신선 시금치 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CSGxjVm1YRDhxdDVpOUN0ZExLYUZhcFNyVDZ2dXlxdDh3MV9GU1FHd3VHOFpibi1oZHhOb0dISHFObnRzSWpQSDVDQ2ZwQk1KbmZJZ1laN08wbGxDcWZZcnZNZU9TejJ3SWJWUnBzY1RyQzFf?oc=5",
-              "source": "Tridge",
-              "publishedAt": "2026-11-20T08:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "나이지리아 신선 카라카라 오렌지 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZzgzRURYWlR6WWFlYXVIdFJNSU5pdU1DRUpMSzQzVXZRVnFPQ0xzMnFkYklVRWlBOGNIVVl4OXZjcDFlX05Pdk9rUEVtbFlYNXhZQmU1ZU5WX1FRSzlaQy1NcmptMUZocjlZY2dySHVkTWNQX3c?oc=5",
-              "source": "Tridge",
-              "publishedAt": "2026-11-20T08:00:00.000Z",
               "kind": "news"
             }
           ]
@@ -203,36 +210,36 @@
       "summary": "",
       "keywords": [
         {
-          "word": "국경",
-          "count": 7
+          "word": "우크라",
+          "count": 5
         },
         {
           "word": "드론",
-          "count": 7
-        },
-        {
-          "word": "우크라",
-          "count": 6
-        },
-        {
-          "word": "hd현대",
           "count": 5
         },
         {
           "word": "이란",
-          "count": 5
-        },
-        {
-          "word": "보훈",
           "count": 4
         },
         {
-          "word": "유엔",
-          "count": 4
-        },
-        {
-          "word": "지원",
+          "word": "에리트레아",
           "count": 3
+        },
+        {
+          "word": "침략",
+          "count": 3
+        },
+        {
+          "word": "국경",
+          "count": 2
+        },
+        {
+          "word": "군함",
+          "count": 2
+        },
+        {
+          "word": "피격",
+          "count": 2
         }
       ],
       "items": [
@@ -280,124 +287,6 @@
           ]
         },
         {
-          "title": "HD현대 ‘보훈 동맹’…에티오피아서 6·25 전사자 ‘추모의 벽’ 건립",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "HD현대, 에티오피아에 ‘추모의 벽’…국경 넘는 보훈 동행",
-              "source": "이투데이"
-            },
-            {
-              "title": "HD건설기계, 에티오피아 6·25 전사자 122명 추모의 벽 건립",
-              "source": "필드뉴스"
-            }
-          ],
-          "span": "11.19~11.21",
-          "days": 3,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "HD현대 ‘보훈 동맹’…에티오피아서 6·25 전사자 ‘추모의 벽’ 건립",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GWnNyc1NYMDkwUXBrVVFhaEJxWHlQbk5kRVVRa0Q4SDlhRm9TVlJiTjhWUVJxMWc4eTNvX1luTy1LTlFneG15a1Vld1R3TlBFbVplUXJfcDQxanhqNE1hNw?oc=5",
-              "source": "뉴스토마토",
-              "publishedAt": "2026-11-21T02:48:11.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "HD현대, 에티오피아에 ‘추모의 벽’…국경 넘는 보훈 동행",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fSndCVXF2d2RLTWR4elVoUGJ3WjRjNVl3dW9RR1BENzNxQzZRYmlCV1ExSXdIR3lYLVVqRXQ4MmNvT1o5eHE0R2FXTUM2dXJGVDR3ZQ?oc=5",
-              "source": "이투데이",
-              "publishedAt": "2026-11-20T05:39:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "HD건설기계, 에티오피아 6·25 전사자 122명 추모의 벽 건립",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRVF0YVMwT1lKbnlmeHhLbVBOcVcyM1dIQUVJV2F1ZGlidXNqZXFZMmxxVGpaLXhxbVU5SUNheUw5UXRDTlhRczc0aXBRcmVCVU1GeG55YS0wSnBVUEZGUmhPcDJtOUZP0gFsQVVfeXFMTldrRHNwT3phek9UMEoxLTJrNURqcjFGclIwVkpUWXZtMEhRd0s3QVlkWTNYNDl4XzI5STZ5c2ZZYVZlTVZvUlBHNDk4bThnR0ZpUVZhWk9DZnM2V0RUZmlEaDF4WkJNaUNzU1dU?oc=5",
-              "source": "필드뉴스",
-              "publishedAt": "2026-11-19T01:02:10.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "“국경 넘어 이어지는 감사와 예우”···HD현대의 보훈 동행",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "국경 넘어 이어지는 HD현대의 호국 정신",
-              "source": "빅터뉴스"
-            },
-            {
-              "title": "국경 넘어 이어지는 감사와 예우… HD현대, 보훈동행 앞장",
-              "source": "국토일보"
-            }
-          ],
-          "span": "11.20",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "국경 넘어 이어지는 HD현대의 호국 정신",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53YWNYWHB0bDdsSmNHR1pmUzh6dnZySDN2TG9qT0dUSlRyUlhsYWpnTXFVeFBMRDZWZGVIbFAyRVJzR2RTU055VnhLajdvLVhwUTkydldQMnotMkxLR1JpZGpncWZlcXc?oc=5",
-              "source": "빅터뉴스",
-              "publishedAt": "2026-11-20T07:28:28.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "국경 넘어 이어지는 감사와 예우… HD현대, 보훈동행 앞장",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYRHhWaUl4Yl95T3doN0JPTExHQ0lIOFNvbnVncm0wV1d0SVVFZUt6ZFFKdEF0cjBXVUdoRi1kU0hLdHBxNmFGMk5Ld0NqUEdtSGZrakFOTjJ2eWpDcjkyWFhrMA?oc=5",
-              "source": "국토일보",
-              "publishedAt": "2026-11-20T05:31:54.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "“국경 넘어 이어지는 감사와 예우”···HD현대의 보훈 동행",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YLWJUMVV2bWlDLVFkOXdtOWMzakRfV0d6U3U1b0F6QlZhRjF2U3RzOVBTc0szc3hEZWhCWG80V0FZZHE5alVEakpQUUNzaWJOSXRsOWFCaTcwZ2lZY2o2WnFuX0RDS1U2VWU3MHpiY2nSAXRBVV95cUxPV19OMDZJZC13UzZpMVpqWWhzZF9BU3RUVUV4cFV1ZGtCdTQ2S3VQbUNndG9YYWJwai15dnR1ek9jQU80UnNsSzAxTFFJeWFYOWNwcmJBeHpEZnAteUpFSG9FcWUxajctNEIwcjN2bXF5ZHd6bQ?oc=5",
-              "source": "이뉴스투데이",
-              "publishedAt": "2026-11-20T05:28:38.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "세계식량계획 \"2개 전쟁에 식량 지원 차질…730만 명 추가 피해 우려\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "WFP \"2개 전쟁에 식량 지원 차질, 730만명 추가 피해 우려\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.24",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "세계식량계획 \"2개 전쟁에 식량 지원 차질…730만 명 추가 피해 우려\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81SEttRnJDblJjbnpCbmc2QlpaOVZ3QmhXR0toRGdzZGREZjFxZnFHSHRhaGtsXzFEQS1NOU96WDFWdGZfRVM4X2dGNHZ1Z0NWT2dkWkhCRGVJZ2ktTHNpempKTkE2RUh4Wnc?oc=5",
-              "source": "SBS 뉴스",
-              "publishedAt": "2026-11-24T06:14:46.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "WFP \"2개 전쟁에 식량 지원 차질, 730만명 추가 피해 우려\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dDRFSlVlTWZ6QTB6T0lWYnZRWUJqVUR6WmtsME84MDlSNXYxWjBUMW1rYXRtallkMjN5Tl9DSk1VQ2JxQmlwMTdiVV9jQlBNcEtGNktIYlUtMWPSAWBBVV95cUxQZF9YS0pDRTBRa293ZjdIQTVSWklaUkltYXNLVVhEY0U0b2hvUlVoMmtVTWlnM3FQZENQZVV5R1hQV081d0tXQjV6QVg2UkpFb3dnOG55SFl5VHFQR21TM2w?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T05:59:43.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
           "title": "우크라 전쟁 아프리카까지 번지나...리비아서 러 군함 드론 피격",
           "summary": "",
           "whyItMatters": "",
@@ -430,33 +319,93 @@
           ]
         },
         {
-          "title": "한-에티오피아 협회 출범식, 초대 회장에 최윤이",
+          "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "대구서 한국·에티오피아협회 출범…최윤이 초대 회장 취임",
-              "source": "경북일보"
+              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
+              "source": "글로벌이코노믹"
             }
           ],
-          "span": "11.22",
+          "span": "11.19",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "한-에티오피아 협회 출범식, 초대 회장에 최윤이",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tZUtGaW9iUnc3Rkk3aVpCcXY4a1labW5vcGQ3MFlJWEgtc2toT1lOOFdNNGdjTHN1TFI2QlVmU1Y3cllIem9vck9Wa084dFdJNnNFU1BQLWliRGtrUFA3SlNn?oc=5",
-              "source": "매일신문",
-              "publishedAt": "2026-11-22T09:45:16.000Z",
+              "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
+              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPckpvdDVlNG03eW5MeVgzNXpFQ1laU2VpZmo5c0trOGVwZ2JkVTNBa1p4VWJqbzVnRkhJOXdiWEZKNUd5MWdua3hIMVdXMkpuVklpRXJ3TEVkXzc2RlJPS2RrWExLUVBLS0ticHJ6R0VtTzlFelp2N2ZHSWM5R09rTEo0ZWlBUXhLNkdQTzUzTEEtZjdjeDN6LXV2ZlhqRnF3azNoMVB2MjZ5THMtenB1TGp0X3ZfY3VQMi02VzZ0MWZtNmxCaVdCSkVmdlJNVGtDWlNkM1V6ZmkzTUhhLW16bHBZelVnQVBKOXNxOWQ2Qk5NUVVqUFl1dWFKTy1SZGwzZ2RCcDVkREdjeGZiSFE3RjZ1VlFZZ2pk?oc=5",
+              "source": "데일리안",
+              "publishedAt": "2026-11-19T13:00:00.000Z",
               "kind": "news"
             },
             {
-              "title": "대구서 한국·에티오피아협회 출범…최윤이 초대 회장 취임",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jOXJfdEZyaDYxcnFzRmhkT3VBMngtZUpVV1BIYVJYcE12WDFtTGd0dld4UzJkRjRtU00yQ0dIem9BNU8xVUdWYUVhUzhmTFNfMTBEWF9GQWszb2xEUzEtMDJqOEFDcmFVcDNxd0U3QQ?oc=5",
-              "source": "경북일보",
-              "publishedAt": "2026-11-22T08:05:18.000Z",
+              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjVndkl4TmlTTWVHdWtuVGFzbTNWbm1XbEhfQU1rcF9BTm5uOUZpLUdqdlBKVEU2TEVaMU9FLTJ0dmlZbUlTYW8yY2ZqTm1Ec29NWjFRNTR6ano3Z0x3cjZrWGlIdDZFX0YzT19RWFQxT0NlVGdPZG83bHM2RDNXMjFYZmVrajNy?oc=5",
+              "source": "글로벌이코노믹",
+              "publishedAt": "2026-11-19T09:36:16.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ySm9Oc0JUMldDNnNNemFrdTA2bmhTalVBVmtOM0MyTjlfdnBiVFNacGJIcm5kdGtwTEh1aUY3dHdpUkpDYXItN2ZJM1dIZ083Y2c?oc=5",
+              "source": "매일경제 마켓",
+              "publishedAt": "2026-11-25T22:00:06.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QUTRmWGM0WmdPeUVTeEJkc3pDbVNlUTRySmQxWGlqbENBNlB1RW1waERQcnRaYlQ2RVNuS0drSENCNUZhWnZicjc5NDZXdzFTSTRKWk51RG4zYjl6czdDNdIBYEFVX3lxTE5QUTRmWGM0WmdPeUVTeEJkc3pDbVNlUTRySmQxWGlqbENBNlB1RW1waERQcnRaYlQ2RVNuS0drSENCNUZhWnZicjc5NDZXdzFTSTRKWk51RG4zYjl6czdDNQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T18:21:10.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxdDRCMU0zaTN1eW0xNVlqaUJQVDB0NTJTMTE1bWhORV9XNXBfblc5M1dPb1JOYlRTU1lDRWxuTWtwQ3RYTlI5T2ZOemlUeV9VNnI1UXVoTXFhb3ZDSkk2Y0dmcW1aWmpDNlJHbGtwS3ZTSGJ2?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-25T09:10:47.000Z",
               "kind": "news"
             }
           ]
@@ -484,6 +433,10 @@
           "count": 5
         },
         {
+          "word": "AI",
+          "count": 5
+        },
+        {
           "word": "기반환경",
           "count": 4
         },
@@ -492,12 +445,8 @@
           "count": 4
         },
         {
-          "word": "여성",
-          "count": 4
-        },
-        {
-          "word": "AI",
-          "count": 4
+          "word": "탄핵",
+          "count": 3
         }
       ],
       "items": [
@@ -575,10 +524,6 @@
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "남아공 최초 여성 부통령 음람보-응쿠카 별세...여성 인권 증진에 헌신, 韓도 수차례 방문",
-              "source": "문화일보"
-            },
-            {
               "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
               "source": "연합뉴스"
             }
@@ -586,21 +531,14 @@
           "span": "11.25",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
               "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…향년 71",
               "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcXdZRTlUNERFZHdlM05maDRlZEg0NjJ0VlFTaXlpYy1PX1dDWnhyZG0wUzJLZmNyR3I4QVU3WnQzMWJRWUFWRHpyWDBzSlp1S0otV0x0OEdnOTdsSFpqbmxXcGx2bVhDZDdMMXl2VUNlV1U?oc=5",
               "source": "한겨레",
               "publishedAt": "2026-11-25T08:55:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "남아공 최초 여성 부통령 음람보-응쿠카 별세...여성 인권 증진에 헌신, 韓도 수차례 방문",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fODhoSzdRakw3V05DMVd5OGdmZFB1UzJiVDQzd0htdkJYMk1EZUxWZkhRR3BhcmE3UjQyLXVFYjl3ZkNza0VnVGJneFJ6bFVo?oc=5",
-              "source": "문화일보",
-              "publishedAt": "2026-11-25T05:13:44.000Z",
               "kind": "news"
             },
             {
@@ -709,13 +647,13 @@
           ]
         },
         {
-          "title": "오픈도어, 아프리카 기독교 박해 대응 촉구 ‘104만 명 청원’ 영국 총리실에 전달",
+          "title": "이오수 경기도의원 \"준공 5년 광교청사 매각 검토라니…도민 재산이 재정난 해결 수단인가\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "오픈도어, 아프리카 기독교인 보호 촉구 104만 명 서명 英 총리실 전달 : 국제",
-              "source": "크리스천투데이"
+              "title": "경기도의회 이오수 의원, “준공 5년 만에 광교청사 매각 검토라니...도민 재산이 재정난 해결 수단인가”",
+              "source": "성남신문"
             }
           ],
           "span": "11.19",
@@ -725,17 +663,17 @@
           "articleCount": 2,
           "articles": [
             {
-              "title": "오픈도어, 아프리카 기독교 박해 대응 촉구 ‘104만 명 청원’ 영국 총리실에 전달",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDaWJ3VjNvQzlIa2NHU0ZvVnB4cTktTHpCeGhpS0RkOWNjOXRScnFFTEU2NmVCa3Y2eTgySWhybXFEOEwxWUUzODVxOGRkN201cDBpdlp6a9IBXEFVX3lxTE5RUHZwRmRkVEZycFlRdFc0NXRBWUlORUxjbkR2bkNsYlBVOVZVZjNHOC0wVE9WNlhBRE5uWVhNWnJCaHloSG91S2xPeHM5bzVnWklKSnpBalM4MXNz?oc=5",
-              "source": "기독일보",
-              "publishedAt": "2026-11-19T07:51:56.000Z",
+              "title": "이오수 경기도의원 \"준공 5년 광교청사 매각 검토라니…도민 재산이 재정난 해결 수단인가\"",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xSkFjM3FjeG5fVVFHNkQ0N0JqLUI4dUY3MmhEMTVETnlPU1NwdkdyYURVd3hRNWZFOTFrNnp4UVF2enR5RkkxWThfYXpaYk12aWdIS3VIclQ4aDctc2ZyWjZJMk41cnFZck5raTZXZ0kyUQ?oc=5",
+              "source": "https://www.newscenterkorea.com/",
+              "publishedAt": "2026-11-19T07:48:15.000Z",
               "kind": "news"
             },
             {
-              "title": "오픈도어, 아프리카 기독교인 보호 촉구 104만 명 서명 英 총리실 전달 : 국제",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02QTFOQW5CNVJ4WEFFV3ozZGh1X2k1ZUx0Mm9zZzBic2Y3aGNyaGlzM1RlUnQ5Y2xDTkVNM1UxcTV1aGJHRU13Tzdjb1plNVMxZDZDM2gtMA?oc=5",
-              "source": "크리스천투데이",
-              "publishedAt": "2026-11-19T04:53:36.000Z",
+              "title": "경기도의회 이오수 의원, “준공 5년 만에 광교청사 매각 검토라니...도민 재산이 재정난 해결 수단인가”",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95UWtIRjhnR2VXS29SazVCODRBZVZQUlVJMVZkelNKbERwdFp1ZFlXSm52WV9WZUVlTFY3TkZKSGlpNjJ6d1lBN2VPaTNCbXhVN3BrVEFrNHVtTWVQQ0RDeFlEZ0Foeno3cUFDadIBcEFVX3lxTE9yUzg1TlM1NFQ1NFpIRFdsSWdKdzFSTWZJTFRWbWVIVVMxUkF1TFcyS0k5b00xbElGeG15VVBZSjRSNVgwSEVBSkhGeVJ2SDk1T0lsNnBIU29aWXk2dEF3YV9TejFJRXF6cUVGQngyQVI?oc=5",
+              "source": "성남신문",
+              "publishedAt": "2026-11-19T07:25:46.000Z",
               "kind": "news"
             }
           ]

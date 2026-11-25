@@ -7,15 +7,15 @@
     "from": "2026-11-20",
     "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T21:21:17.027Z",
+  "updatedAt": "2026-11-25T23:34:49.681Z",
   "ai": false,
   "headline": "북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”",
-  "overview": "최근 1주 정치 분야 기사 346건(103개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”」(기사 8건·매체 8곳), 「법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”」(기사 7건·매체 7곳), 「민주당, 조희대 대법원장 탄핵 추진」(기사 8건·매체 6곳)입니다. 자주 등장한 키워드는 조희대, 스위스, 외교사무소, 대법원장, 민주당입니다.",
+  "overview": "최근 1주 정치 분야 기사 312건(84개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”」(기사 8건·매체 8곳), 「법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”」(기사 7건·매체 7곳), 「창원지법 “재판을 이유로 법관 탄핵… 헌법 가치 훼손”」(기사 7건·매체 6곳)입니다. 자주 등장한 키워드는 조희대, 스위스, 외교사무소, 대법원장, 민주당입니다.",
   "keyPoints": [],
   "keywords": [
     {
       "word": "조희대",
-      "count": 63
+      "count": 60
     },
     {
       "word": "스위스",
@@ -27,47 +27,47 @@
     },
     {
       "word": "대법원장",
-      "count": 19
+      "count": 17
     },
     {
       "word": "민주당",
-      "count": 15
-    },
-    {
-      "word": "행안부",
-      "count": 14
-    },
-    {
-      "word": "대통령",
-      "count": 14
+      "count": 16
     },
     {
       "word": "제재",
       "count": 13
     },
     {
-      "word": "김민석",
-      "count": 11
+      "word": "대통령",
+      "count": 12
     },
     {
       "word": "폐쇄",
       "count": 11
     },
     {
-      "word": "지원",
-      "count": 10
-    },
-    {
       "word": "한덕수",
       "count": 10
     },
     {
-      "word": "연대",
+      "word": "김민석",
+      "count": 10
+    },
+    {
+      "word": "법관",
+      "count": 10
+    },
+    {
+      "word": "통일",
       "count": 10
     },
     {
       "word": "평양",
       "count": 10
+    },
+    {
+      "word": "행안부",
+      "count": 9
     }
   ],
   "rising": [
@@ -88,11 +88,11 @@
       "change": null
     },
     {
-      "word": "연대",
+      "word": "법관",
       "change": null
     },
     {
-      "word": "평양",
+      "word": "통일",
       "change": null
     }
   ],
@@ -130,7 +130,7 @@
         },
         {
           "title": "스위스 “북한의 평양 외교사무소 폐쇄 결정 유감”",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwNG1FWUZjWnIxS09tdGdMTlNzcWFIQWFnaDlEajhoWjVnZnFZZEVJRVZqVDYzUWVXdS04SVdMaVZQRG9MMG53U21HMWhNdS1EcGkw0gFTQVVfeXFMUDA0bUVZRmNacjFLT210Z0xOU3NxYUhBYWdoOURqOGhaNWdmcVlkRUlFVmpUNjNRZVd1LThJV0xpVlBEb0wwbndTbUcxaE11LURwaTA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sNENxaXo0SzVYdEktU1M2aVVsS05RUnJISHBERlFmZTBfTTdwME05cVcwX0RDa2pyRDF0TWROR1g0cFM1U0hRTVcyREVLRlcw0gFTQVVfeXFMUDA0bUVZRmNacjFLT210Z0xOU3NxYUhBYWdoOURqOGhaNWdmcVlkRUlFVmpUNjNRZVd1LThJV0xpVlBEb0wwbndTbUcxaE11LURwaTA?oc=5",
           "source": "VOA 한국어 홈페이지",
           "publishedAt": "2026-11-25T16:29:20.000Z",
           "kind": "news"
@@ -198,9 +198,9 @@
         },
         {
           "title": "“조희대 탄핵 도 넘어…법관 행동 나서야”",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVDNDd2VHdFp5eTNJNXJZMFFEWktXdDdLTDlaSVN1MThQOUNsUlBnT3lWb2tWNzhqaFNVRnV1ZlY5b0JoRGhTVG1NaXV3TkJ1dndIeXphUDRscFNSMGxGMldTSE8yS1pxZHFZ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wRl94UEllRUU1c1N2eXlaUWVyWFhYbFN5WVc5aW1Qd3dQMkRVT3JJRTI1RTlhQWRYS3ZpM1h1UXB5NFBPWXZMRXNPbXJYOEUwUXNZRDVweU5sa1E?oc=5",
           "source": "KBS 뉴스",
-          "publishedAt": "2026-11-23T03:29:00.000Z",
+          "publishedAt": "2026-11-23T03:06:00.000Z",
           "kind": "news"
         },
         {
@@ -229,74 +229,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoYmNtamMxSXdwMGlEMFpTNV80Zngxd2I4UVQ3OVZhTlBfb2NyaDBuN2d5SEJVNmV1VTREQm9EUFNfQlc1b3pJTmJBVWNrcGVqMkMwZA?oc=5",
           "source": "JTBC",
           "publishedAt": "2026-11-22T21:56:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "민주당, 조희대 대법원장 탄핵 추진",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”",
-          "source": "강원일보"
-        },
-        {
-          "title": "與, '조희대 대법원장 탄핵' 당론 채택",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "김민석 \"조희대 탄핵할 것…절차·내용 지도부에 위임\"",
-          "source": "조선일보"
-        }
-      ],
-      "span": "11.19~11.25",
-      "days": 4,
-      "hasPress": false,
-      "sourceCount": 6,
-      "articleCount": 8,
-      "articles": [
-        {
-          "title": "최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zM2pVcVFpaTc3TV8yV2NpOUZ5ZWFOQTVrZ2VoU2ItZ0lWUWtXQzM5Vm5yaVI4ekNaaEQyZHZFVnJGQVFtR0d5eFBVZzRVMUw5cllFc3R5WW5FZkk?oc=5",
-          "source": "강원일보",
-          "publishedAt": "2026-11-25T09:23:22.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Oc0pCMkV1ejJHVE9OYXhTY3RBZ2V6OXExYWZfRy1lQWFhY0hXbWM2UEtqUXhiSnpET1kyOFYtUWlMcUNKbGdPajFySU1HZnZnbFE4RGRhQTR2VVRMaEtJck9Vd2ZYdl8wZFY0VU9uX3Y2ZWtp?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-20T15:14:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "與, '조희대 대법원장 탄핵' 당론 채택",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vd1Zyb2hzN3pqMHdmUjVKYkVlTjJ1TkFLakFaQjR3UnRrUWtKeEcycUdpMHB1Q3ZjZktRN1V4dVQwTmc4ZDhtcHprTFY4UHRVQjFsbWNfTmd3cmvSAWBBVV95cUxNZmZNWkFzR2ZBcU5OOGs0QjE1dU1zY01rT3Z2SXlUemJZY1lJOEwzbGh1SWxXMWJJSTRLMkY4YkJUZnVVdC1vcG80M2E2OEYwSDRtX2JzSjVyVDdJQlQxcjk?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-20T05:25:02.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "김민석 \"조희대 탄핵할 것…절차·내용 지도부에 위임\"",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnJLRHlNeDR6eGt4SzhMOVh6eFBFUEd1X0YyYkxxdkhHSGYxZTNDYWJjM3J5eVVVWEg3UTZVMWRFeERKVVRQYzJhQm10SW1uMnFLUVNiOXBGNldrR19nT1NRRFNiTW5Xa1hzdU1Id21TQVVveGJRdFpVOFRJZC13a3UybGNDZw?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-19T10:52:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "김민석 “조희대 탄핵해야 한다는 판단…절차·내용 지도부에 위임”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lM3pDOFRoZzVCS0l4T1hQalZGLXZjZVo2ZTlLZDNUTEZkU2NGbi1UUkJLOGl2WjR1aWYtazdUZmZqX0FYTnRGRkFaNzVZUF9Qblg5VEMtZUxjd9IBX0FVX3lxTFBBY1U3a1pYZG1hcW5MZ241Yy1UaW9JRTJsSHBsbWM4UTN5ZG56aklxR3VXcXJoY0VtSFpyYzFQNnlucmktY21iZ1F5Njc0bU1vMFhVY2Q0YzY3STFYdUs0?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-19T10:51:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "민주당, 의원총회서 조희대 대법원장 탄핵 추진 결정",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TOU5lM3ZVMjlWajlub2pMUEw1M1dWZEpBYnVIQUhIUVBEMnItZmNyYnJmQ25MR29HdkRha0pFV2RjeVNQQjk4M19PbXp4dDFjaXBsWTNGU3Ffb1E?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-19T10:47:00.000Z",
           "kind": "news"
         }
       ]
@@ -370,67 +302,6 @@
       ]
     },
     {
-      "title": "KT·행안부, 사회연대경제 AX 협약",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "행안부·KT, 사회연대경제에 AI 접목 협약",
-          "source": "디지털포용뉴스"
-        },
-        {
-          "title": "KT, \"춘천·청도에 AI 지원\"…행안부 사회연대경제 사업에 협력",
-          "source": "뉴스워치"
-        },
-        {
-          "title": "KT, 행정안전부와 사회연대경제 AX 협력 外",
-          "source": "딜사이트"
-        }
-      ],
-      "span": "11.23~11.24",
-      "days": 2,
-      "hasPress": true,
-      "sourceCount": 5,
-      "articleCount": 5,
-      "articles": [
-        {
-          "title": "행안부·KT, 사회연대경제에 AI 접목 협약",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1MGJEeERaQkg4R0RyenpTa1ktNlBsSTVzVHZPM0E3YWI0SlotcDl3LVFIOHgxZXhOQXgwUWNYMlRYRUN5bjh6Z2l2LVYwUQ?oc=5",
-          "source": "디지털포용뉴스",
-          "publishedAt": "2026-11-24T03:39:01.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "KT, \"춘천·청도에 AI 지원\"…행안부 사회연대경제 사업에 협력",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51R2VVeEtDaE5NajZ1NlpFdmRDUEZlRDBzVUd6M25qbVJmLVVrTXdCUlFpNi1KYlVkdVBMZk5DeTk3bkdfVmFRQlI0TVNHZ2NSdmdIa1Q3dkV6Q0pCcXREM0h0LXhNeFV0?oc=5",
-          "source": "뉴스워치",
-          "publishedAt": "2026-11-23T08:08:09.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "KT·행안부, 사회연대경제 AX 협약",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQ2haWVNYcjdSdDZySk5kNkhMeTVqLUFLMUdWOGNBOXJJWGNITC1ZcmZLUlN4NHo2bjlQV1Vhb1VWYURCNnJOYjkyMU9RcGhCZEhnenhSS0Vxb25MZmxNNXdBdDNlbjl0M3lrSTdGc3VuMHPSAXdBVV95cUxOMGJKeE5JbVdFSlRRdGs4X3pOM3NZQ0FVY0RYVVRfNnZ4OFFrdTdXd0NmY0paVF9uRDNfSlczc0RrZ0FyY3FuOF9vZndob20zd0l0b3RrekNvbnpicTNMYVZfSGlJSDJJY2h2NkNLOEtJb2p4akZnMA?oc=5",
-          "source": "스트레이트뉴스",
-          "publishedAt": "2026-11-23T07:16:39.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "KT, 행정안전부와 사회연대경제 AX 협력 外",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05ajl5eUVsZEszTmVlRWhadGJoR2oyVUMxV3lFU2xkM0R2VUJBZzhVMkVxRDJzUjl5VnRpV3BzV1MyaHlrYjQ2ZTdJUmttXzg?oc=5",
-          "source": "딜사이트",
-          "publishedAt": "2026-11-23T06:57:34.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "KT·행안부 사회연대경제 AX 활성화 지원",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tbmIxQ0ljZmoyNGdwaVVZSGdrSEl0SEtjMF9LUnJEMVhfYk9NRjI2V2xxZzJRUnUzZklfNDFwdWl6a3hpY2lQYzlpRkZPNkdrQkp2NGo4Q19jWmJRLWRfVU5VUkhLTGhRSEhPcA?oc=5",
-          "source": "중소기업신문",
-          "publishedAt": "2026-11-23T06:00:00.000Z",
-          "kind": "press"
-        }
-      ]
-    },
-    {
       "title": "신임 국정원장 후보자에 강금실…외교 임웅순·통일 홍익표",
       "summary": "",
       "whyItMatters": "",
@@ -492,6 +363,128 @@
       ]
     },
     {
+      "title": "민주당, 조희대 대법원장 탄핵 추진",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”",
+          "source": "강원일보"
+        },
+        {
+          "title": "與, '조희대 대법원장 탄핵' 당론 채택",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "민주당, 의원총회서 조희대 대법원장 탄핵 추진 결정",
+          "source": "KBS 뉴스"
+        }
+      ],
+      "span": "11.19~11.25",
+      "days": 4,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 6,
+      "articles": [
+        {
+          "title": "최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zM2pVcVFpaTc3TV8yV2NpOUZ5ZWFOQTVrZ2VoU2ItZ0lWUWtXQzM5Vm5yaVI4ekNaaEQyZHZFVnJGQVFtR0d5eFBVZzRVMUw5cllFc3R5WW5FZkk?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2026-11-25T09:23:22.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Oc0pCMkV1ejJHVE9OYXhTY3RBZ2V6OXExYWZfRy1lQWFhY0hXbWM2UEtqUXhiSnpET1kyOFYtUWlMcUNKbGdPajFySU1HZnZnbFE4RGRhQTR2VVRMaEtJck9Vd2ZYdl8wZFY0VU9uX3Y2ZWtp?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-20T15:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "與, '조희대 대법원장 탄핵' 당론 채택",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vd1Zyb2hzN3pqMHdmUjVKYkVlTjJ1TkFLakFaQjR3UnRrUWtKeEcycUdpMHB1Q3ZjZktRN1V4dVQwTmc4ZDhtcHprTFY4UHRVQjFsbWNfTmd3cmvSAWBBVV95cUxNZmZNWkFzR2ZBcU5OOGs0QjE1dU1zY01rT3Z2SXlUemJZY1lJOEwzbGh1SWxXMWJJSTRLMkY4YkJUZnVVdC1vcG80M2E2OEYwSDRtX2JzSjVyVDdJQlQxcjk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-20T05:25:02.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주당, 의원총회서 조희대 대법원장 탄핵 추진 결정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TOU5lM3ZVMjlWajlub2pMUEw1M1dWZEpBYnVIQUhIUVBEMnItZmNyYnJmQ25MR29HdkRha0pFV2RjeVNQQjk4M19PbXp4dDFjaXBsWTNGU3Ffb1E?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-19T10:47:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "與, 조희대 대법원장 탄핵 추진키로…\"절차·내용 지도부 위임\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RSjZVQnpaVFVPNHpMVlp2MEZ6THJwNXc3M2lDWFJxQlhLNWZ6M0tLaXh2SjZtNGdSNFp4TFV4MGpfRTc0ZS1HSmhFeW54Tkh5U2FZQUU5d0lhamfSAWBBVV95cUxPTFk1dEgyR180LWZ1TUxBbXBoSXVmNmVjYzlud0pPTmduWjJ2SldyV0laYmJ0UnhFSzNPaTA4VnBiY0FyM1lXM0QtWW1maHpkc1JzNXlTSlhZZ0V6Zk5rS3o?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-19T11:05:57.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주당, 조희대 대법원장 탄핵 추진",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55M0NiWGVzWHYxc2ZXOFFpa1hsd0hnMzJGamdWMXRFc0kzbmdSYURnajR2VzJfeUdMOXNzY3VEdF9EaTROZ3RvMGpKTDQ5OXlVYVpDV0FKa01qVGFwSEFPNjM3SzZaS2dqVzdFc1duVnByZVBI?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-19T10:50:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "하남시, 조직문화 개선 우수기관 선정… 행안부 장관상 수상",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "하남시, 조직문화 개선 행안부 장관표창…수도권 지자체 유일",
+          "source": "경기신문"
+        },
+        {
+          "title": "하남시, 조직문화 혁신으로 행안부 장관상 수상",
+          "source": "교차로저널"
+        },
+        {
+          "title": "하남시, AI 업무혁신·성과보상 조직문화 개선…행안부 장관 표창",
+          "source": "프레시안"
+        }
+      ],
+      "span": "11.25",
+      "days": 1,
+      "hasPress": true,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "하남시, 조직문화 개선 우수기관 선정… 행안부 장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95MDN2NS1xdXFIZzVScTZESDZwdWt5bXJxS20xRHhtRjloR3BfWVRBdjZxaU1OWDZwT01heFNvYzB3WjQtVkNpQjdpT0tPc1JnMTU5T2g1RDRPalNHcHlmWjdhNmlHeEdXX1p1N19zSdIBc0FVX3lxTFBMZmFTdjlfOWpOdE5wSDhzOFcxWWZvelQ2TUM3a2VmV3NmUkhPUzJCNUJETGNmQU1Mb096cTRPWGN2b3pVWExXWVpGVU94WTgxTTU5b2tJWjI4TF83dnphY2ZsTkYwTHFlRVZ6bFVGZmNwN2M?oc=5",
+          "source": "데일리한국",
+          "publishedAt": "2026-11-25T08:56:44.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "하남시, 조직문화 개선 행안부 장관표창…수도권 지자체 유일",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95eGNGaVZzdG5iTnhyNWtla0UtRjk3bmxBT2pKWUptR0dKU1RXSlFnbVpaN3hjU1RtYWVCRUw1U051SVNOLW1UYXlpcWNjT0tFaWM3U1o5LVlEQWY4dm9oMHJn?oc=5",
+          "source": "경기신문",
+          "publishedAt": "2026-11-25T08:07:54.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "하남시, 조직문화 혁신으로 행안부 장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NZURzNW8wN1k4TzI4TWJDeUNVaktnMVBDX3l1ckRRZjdYSzVLQUQ5WnJRbnNCbjZSckI4aHhUMTI3Z3g5ZmdTOTJqOXktYlpocXlGTENJWnlBMERaeF9GTnc1dVRRR3c?oc=5",
+          "source": "교차로저널",
+          "publishedAt": "2026-11-25T08:01:58.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "하남시, AI 업무혁신·성과보상 조직문화 개선…행안부 장관 표창",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NUmZuRmtDMVFPWU1tc1RDajFyOXpSYmdrT2FaUV9DMVJtM0w2Z3dDZTJuaS1BV0tWRDdMTmVDY05SRjJRdUh2aG5EdEV5eGJzT3FkbWsyM0VvSjRkRVE5MUZ5TlpCcHYtM19r?oc=5",
+          "source": "프레시안",
+          "publishedAt": "2026-11-25T07:51:44.000Z",
+          "kind": "press"
+        }
+      ]
+    },
+    {
       "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
       "summary": "",
       "whyItMatters": "",
@@ -520,7 +513,7 @@
         },
         {
           "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HUUo4RVFMRVFLN0p3Q3hGZzVaemt5b0NZdGdBcDhhS1ZTcE9oVnJHTF9LVWxnY25DWVB1V3ZmQXdSeGpma3BZYXIzU25wN05LSTVMUmlGT3lHSkV3WFg5StIBYEFVX3lxTE9HUUo4RVFMRVFLN0p3Q3hGZzVaemt5b0NZdGdBcDhhS1ZTcE9oVnJHTF9LVWxnY25DWVB1V3ZmQXdSeGpma3BZYXIzU25wN05LSTVMUmlGT3lHSkV3WFg5Sg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93eGxkbHVISGY2aHVwb2U4ZU5ZUkktMDNDMHJWU0tWV1RCeVZRMV9KcnJVRV9nU1ZTdVozeXfSAWBBVV95cUxPR1FKOEVRTEVRSzdKd0N4Rmc1WnpreW9DWXRnQXA4YUtWU3BPaFZyR0xfS1VsZ2NuQ1lQdVd2ZkF3UnhqZmtwWWFyM1NucDdOS0k1TFJpRk95R0pFd1hYOUo?oc=5",
           "source": "연합뉴스",
           "publishedAt": "2026-11-25T15:49:51.000Z",
           "kind": "news"
@@ -570,7 +563,7 @@
       "articles": [
         {
           "title": "북 김여정, 스위스 제재에 \"평양 외교사무소 철수 검토\"...스위스 \"외교는 별개\"",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oYnZiZjItb0ViWjYzSXFESExXNGRnaW5VOFJTNUNVY3BpLVFWV0s5YkhDbHh3M09uRFNRMm1vWHpaVV9pZlNLbm1mZE14RWZRNkJJ0gFTQVVfeXFMTWhidmJmMi1vRWJaNjNJcURITFc0ZGdpblU4UlM1Q1VjcGktUVZXSzliSENseHczT25EU1EybW9YelpVX2lmU0tubWZkTXhFZlE2Qkk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6YkV3UUZOOUxmUDlmUEdlX2ZiNU8zUE9aZV9wNWRvVW9GcjM4VVpWT3NHR05CNjlobzgzaExxRFZoeXVlQVlUVEVmcWliZWJF0gFTQVVfeXFMTWhidmJmMi1vRWJaNjNJcURITFc0ZGdpblU4UlM1Q1VjcGktUVZXSzliSENseHczT25EU1EybW9YelpVX2lmU0tubWZkTXhFZlE2Qkk?oc=5",
           "source": "VOA 한국어 홈페이지",
           "publishedAt": "2026-11-24T20:03:17.000Z",
           "kind": "news"
@@ -594,56 +587,6 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05RVNTb3VZd2pzT0MtTEJnQlFUdXU0eXMwMkQ4X19aeGZBLUU5ZDB0cWFsN3B1NVEzMHdudmNhYko1eWJwN2RZcGoyNERpb0hTRkQtTUlTamFLQdIBX0FVX3lxTE1CQnJLd0loN2FQTk9yaXBETmlHRU9scHhrR3k3em1oX1VSQ084UzNaVWN0WV8wYy1jTEZDb2hCUklDZlJqNXo5czVsQXNKWkRPZENmYXdfM1JTcEpLNkhN?oc=5",
           "source": "경향신문",
           "publishedAt": "2026-11-24T07:01:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "한의사 X-ray 허용 법안 국회 심사, 의협ㆍ한의협 국회 앞 장외 대립",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "한의사 X-ray 허용 의료법 개정안, 국회 복지위 법안소위 계류",
-          "source": "의학신문"
-        },
-        {
-          "title": "한의사 X-ray 법안 소위 심사 D-1…의협 vs 한의협 국회 앞 ‘맞불 시위’",
-          "source": "https://www.medicalworldnews.co.kr/"
-        }
-      ],
-      "span": "11.23~11.24",
-      "days": 2,
-      "hasPress": false,
-      "sourceCount": 3,
-      "articleCount": 4,
-      "articles": [
-        {
-          "title": "한의사 X-ray 허용 의료법 개정안, 국회 복지위 법안소위 계류",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wdTAyT0YxOW1yUXFkRUFEbjYtd3loUmpLUThOaGtySGwyUkNBTTUxMzNXLVMzdHVndE13a2Y4eWV0R21KdE13cXNTZEVkUUlYM28ySUZpeXhCNUUtcEl0ZE5iQzcyckFLdWc?oc=5",
-          "source": "의학신문",
-          "publishedAt": "2026-11-24T10:36:38.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한의사 X-ray 허용 법안 국회 심사, 의협ㆍ한의협 국회 앞 장외 대립",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84dUp6X0VJc19hazhHc21mYnVCNXV5NG1PVXlITVNnNTBvdm1LakhZNHJoLW5GT056TFY2clF5NVRuVE9XRm9ULTZXTWZiLWNOUy0yOU1pZ3V3Vmo1TlR4OHZYdC1OMkRj?oc=5",
-          "source": "의약뉴스",
-          "publishedAt": "2026-11-24T04:08:21.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한의사 X-ray 법안 소위 심사 D-1…의협 vs 한의협 국회 앞 ‘맞불 시위’",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kZTBFTHppR2RMVWxsX01uY18zTUlISnIyZ2RoT2Z6Z1dwclVwOEYxUzhCODRjOU1iMEVsSk9ad08tTXdjM0UyeTFyQTJNTWR0bWFMUUdxRU12S2dpU0pNczcxc1pOOUYtdEZqeEF5YWtiT2dJc2pv?oc=5",
-          "source": "https://www.medicalworldnews.co.kr/",
-          "publishedAt": "2026-11-23T14:23:25.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한의사 X-ray 허용법 심사 앞두고 의료계 국회 압박",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80X2FsbFZUZVZzeGJlWVZySDRqdUlCdGtMWGh6eHpPOGYwd2tXQml1Q2NPUHNDbV9VSEpVdUVPQ2dHMGNNSG9PMHVCTkl4QV9QbkdUdThFT2FpTVR1YnhrZkVXUHZCYzc0MWc?oc=5",
-          "source": "의학신문",
-          "publishedAt": "2026-11-24T02:14:36.000Z",
           "kind": "news"
         }
       ]
@@ -690,16 +633,51 @@
           "kind": "news"
         }
       ]
+    },
+    {
+      "title": "김민석, 조희대 탄핵 '5당 연대' 공식 제안‥\"신속 추진\"",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "김민석, 조희대 탄핵 ‘5당 연대’ 제안…판사회의 “독립침해”",
+          "source": "한겨레"
+        }
+      ],
+      "span": "11.25",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 2,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "김민석, 조희대 탄핵 ‘5당 연대’ 제안…판사회의 “독립침해”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvd1NlVWM3c1ZXM2x5ckUtSEhQMWI4UFVkUFNoODRrNDJ6SEQ5cEROSkduX1pYU0VQdW5WWmN6SjRVOXhPVTFaTW1RVnVmY1pWNnZKTFJPVjJXUGh4QWIycUFEbkVieC0zT29SbE1DZXRzaUYw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-25T11:04:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김민석, 조희대 탄핵 '5당 연대' 공식 제안‥\"신속 추진\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LM0J2NnZfTnR5Wmk2ZE5QTm5wTTU0ME5vSm1oZlhjY0lZY3dsSEozNldtc2hCZ3BkZW9oa3VRbmZDVW9GMzgtblF0c3l2VmZEYXFDTWY5a2FGNHhDSTh0aHFWOFVVYVBnNXpMWDdrVmExSE5HQ194btIBeEFVX3lxTE1GdHI3U09KU1ppMzZKY3lhSzJqam5ya3NrZWk0cl9LNHdHNmg4Qjk0X2hMbTRLOUV2S01RRzF0LVJMd2F6WF9ONXNjd0o2cDNPVEZwMUt4Um1rXzAwRHU1emprMG5PQUhfd08td0ZHU0RfMmxSMWdpNg?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-25T01:13:37.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“조희대 탄핵 추진에 5당 연대하자”…김민석, 공식 제안",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ERG1RUVRaV2hfRVhKcWdJY3R0UzRjR05fQ1ZkYjhDbWh4SkNVYXA5UllpdTZsY2ZfTlJUUUo5V2xuQVZLRUt1T3hVbmtVeWt2OElZbG9RSXZLMFl5LXlhU2hUb2tQS0pzZks3amV3NVZ1aVNH?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-25T10:08:00.000Z",
+          "kind": "news"
+        }
+      ]
     }
   ],
   "timeline": [
     {
       "date": "11.19",
       "event": "민주당, 조희대 대법원장 탄핵 추진"
-    },
-    {
-      "date": "11.20",
-      "event": "정동영 통일부 장관, 주한미국대사와 악수"
     },
     {
       "date": "11.23",
@@ -717,17 +695,17 @@
   "outlook": "",
   "press": [
     {
-      "title": "미 국방부, 머피 의원 카타르 기지 방문 지원 거부",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qbnk1U0RIdWFZMGdXSW13Qk1EWXdYSFY0UHc3VFlYdjdjdXM0ZFlCYkFMZGFyaHZiekpmSkJMN1BCNDVHa09ZaXBFdl82dDlQMkNJbk1B0gFbQVVfeXFMUENzbFVYUHlLOS1XejdsajFZeEgyWjRGTldHS3JGYVBiNmFnMmx2aERnaGFQbmU1bXUtUGdfaFY2T1FUWkplQlVLdVVXdHVsM0E3NFExd0doOUxoOA?oc=5",
-      "source": "토큰포스트",
-      "publishedAt": "2026-11-25T19:56:06.000Z",
-      "kind": "press"
-    },
-    {
       "title": "러, 울릉도 도발 때 최신 스텔스기 Su-57도 띄워",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3lUbzB6bGRiaWlLV3YxcWdKT0MxdDBqdzRrYVJubGhLUUlPeE9IR3hwSXY1Z0hPWWs2NWJXblVpbmpMa00wQkY1aUdpU0ZVckNpdTNJb0Jsd1R2UkNNQnA5MHpUazNESzNiZmJfQmd2WWRyeVlEODlEYVJTN2tPdFU5MENXWloyZ3BIZ2JUbjM1QQ?oc=5",
       "source": "조선일보",
       "publishedAt": "2026-11-25T15:49:00.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "김종민 의원, 세종시 보통교부세 대폭 증가...행정안전부 산정방식 개선 견인",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Uem1MWHRvWmdYNFJpb253RlRBc0lmb0kxR25oTHA4a3JDUjJYVEx1T1FNbDZLVjNTT0c2RmdWZ0lzVkhVR1B4U2dJQ2xXX0hvUkk0TWRBMnh6NTFOQ3FVYXE1YUw4S0V2NXc?oc=5",
+      "source": "뉴스티앤티",
+      "publishedAt": "2026-11-25T09:30:00.000Z",
       "kind": "press"
     },
     {
@@ -738,10 +716,24 @@
       "kind": "press"
     },
     {
-      "title": "서울·경기·인천 통틀어 하남이 유일!… 조직문화 혁신으로 행안부 장관상",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVeG1ESzh6dVpYYzk0eklpMmNuUWJ3S3VMenlPeDVCQl9YTFBBeXpPalR4OHE5VFF5bmlJQ3FMODY1UWdhR1BNLW93?oc=5",
-      "source": "미디어투데이",
-      "publishedAt": "2026-11-25T07:28:00.000Z",
+      "title": "하남시, 조직문화 개선 행안부 장관표창…수도권 지자체 유일",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95eGNGaVZzdG5iTnhyNWtla0UtRjk3bmxBT2pKWUptR0dKU1RXSlFnbVpaN3hjU1RtYWVCRUw1U051SVNOLW1UYXlpcWNjT0tFaWM3U1o5LVlEQWY4dm9oMHJn?oc=5",
+      "source": "경기신문",
+      "publishedAt": "2026-11-25T08:07:54.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "하남시, 조직문화 혁신으로 행안부 장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NZURzNW8wN1k4TzI4TWJDeUNVaktnMVBDX3l1ckRRZjdYSzVLQUQ5WnJRbnNCbjZSckI4aHhUMTI3Z3g5ZmdTOTJqOXktYlpocXlGTENJWnlBMERaeF9GTnc1dVRRR3c?oc=5",
+      "source": "교차로저널",
+      "publishedAt": "2026-11-25T08:01:58.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "하남시, AI 업무혁신·성과보상 조직문화 개선…행안부 장관 표창",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NUmZuRmtDMVFPWU1tc1RDajFyOXpSYmdrT2FaUV9DMVJtM0w2Z3dDZTJuaS1BV0tWRDdMTmVDY05SRjJRdUh2aG5EdEV5eGJzT3FkbWsyM0VvSjRkRVE5MUZ5TlpCcHYtM19r?oc=5",
+      "source": "프레시안",
+      "publishedAt": "2026-11-25T07:51:44.000Z",
       "kind": "press"
     },
     {
@@ -759,13 +751,6 @@
       "kind": "press"
     },
     {
-      "title": "포천 옛 6군단 맞교환 재추진…국방부, 대상지 변경 불가 입장",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95QmRhZ01Od1NrQ0JRV0lPZDFoeldjTmt0eHo3VjJ1aFNPX090RTRSMVQwSVVtajJIMHBvOUhhZTkzN0daWXJJNHE3SUpkcUlIU3FiVjF1UlI1dGNqZGZYZUNla2ItdE9wLXhBMkFZOA?oc=5",
-      "source": "인천일보",
-      "publishedAt": "2026-11-25T00:06:00.000Z",
-      "kind": "press"
-    },
-    {
       "title": "행안부, 공공 AI 가이드라인 29개 기준 배포",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82Q2prRmZrVVJpd09QODhkR011aWg2YjJFeEVkeDdna3k0SXBvZmgteGVPT1dKTV8tT01NUlZPOUszTjIwWUFJcDJreF9hdw?oc=5",
       "source": "디지털포용뉴스",
@@ -777,13 +762,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vV3JrejZOTmZVaXRxamMtbGN1MGRPc2xWZEZic0N6WGRBNTNjb3F5bDM2enBJLVZEWE45TThXaGdqRGxTcFkzVlpFNTV2WTJtSzZlRVdQcmE2eXpKS3UtOHRXMTQ0RDZwaEVxa2ZtUGtUWXc?oc=5",
       "source": "데이터투자",
       "publishedAt": "2026-11-24T21:07:34.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "이재명 정부의 '세종 행정수도 만들기' 진정성 있나",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qcFp1QTNWTzdBYm1BYURzbm5MZERpWm9BXzhuQnJLMUowV3lETHIxM1dRTHRSRkZCQmVublRsZDNjaFd6Sm1lRWZEdUVVT0Yzalc2X0VYLTdKcVBvbC16d1dnWC1fUTJZUmUxWld1Y9IBb0FVX3lxTE5qcFp1QTNWTzdBYm1BYURzbm5MZERpWm9BXzhuQnJLMUowV3lETHIxM1dRTHRSRkZCQmVublRsZDNjaFd6Sm1lRWZEdUVVT0Yzalc2X0VYLTdKcVBvbC16d1dnWC1fUTJZUmUxWld1Yw?oc=5",
-      "source": "메트로세종",
-      "publishedAt": "2026-11-24T20:52:49.000Z",
       "kind": "press"
     },
     {
@@ -802,7 +780,7 @@
     }
   ],
   "stats": {
-    "articles": 346,
-    "sources": 103
+    "articles": 312,
+    "sources": 84
   }
 }

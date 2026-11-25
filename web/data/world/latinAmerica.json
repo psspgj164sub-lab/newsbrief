@@ -5,11 +5,11 @@
     "from": "2026-11-20",
     "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T21:21:24.232Z",
+  "updatedAt": "2026-11-25T23:34:56.531Z",
   "ai": false,
-  "overview": "최근 1주 중남미 관련 국내 언론 기사 179건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「이코노미석 21시간 타고 APEC 간 멕시코 대통령」(기사 14건)입니다.",
+  "overview": "최근 1주 중남미 관련 국내 언론 기사 136건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「이코노미석 21시간 타고 APEC 간 멕시코 대통령」(기사 13건)입니다.",
   "stats": {
-    "articles": 179
+    "articles": 136
   },
   "themes": {
     "economy": {
@@ -17,100 +17,39 @@
       "summary": "",
       "keywords": [
         {
-          "word": "대통령",
-          "count": 11
-        },
-        {
-          "word": "협력",
-          "count": 9
-        },
-        {
-          "word": "통계",
-          "count": 9
-        },
-        {
           "word": "미국",
-          "count": 8
-        },
-        {
-          "word": "진출",
-          "count": 7
-        },
-        {
-          "word": "APEC",
-          "count": 7
+          "count": 6
         },
         {
           "word": "재정",
-          "count": 6
+          "count": 5
+        },
+        {
+          "word": "상승",
+          "count": 4
+        },
+        {
+          "word": "강세",
+          "count": 4
+        },
+        {
+          "word": "페루",
+          "count": 4
+        },
+        {
+          "word": "진출",
+          "count": 4
         },
         {
           "word": "달러",
-          "count": 6
+          "count": 4
+        },
+        {
+          "word": "페소",
+          "count": 4
         }
       ],
       "items": [
-        {
-          "title": "21시간 이코노미석 타고 APEC 참석…멕시코 대통령 소탈 행보 화제",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "다들 전용기로 왔는데…21시간 ‘이코노미석’ 타고 온 멕시코 대통령에게 생긴 일",
-              "source": "서울경제"
-            },
-            {
-              "title": "멕시코 대통령 셰인바움, 21시간 이코노미석 타고 APEC 정상회의 참석 : 왜 전용기 안 탔을까?",
-              "source": "허프포스트코리아"
-            },
-            {
-              "title": "“검소한 지도자” 호평 일색…이코노미 타고 21시간 걸려 APEC 도착한 멕시코 대통령",
-              "source": "경향신문"
-            }
-          ],
-          "span": "11.19~11.21",
-          "days": 3,
-          "hasPress": false,
-          "sourceCount": 5,
-          "articleCount": 5,
-          "articles": [
-            {
-              "title": "다들 전용기로 왔는데…21시간 ‘이코노미석’ 타고 온 멕시코 대통령에게 생긴 일",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DSG55TnNTWWpmN2RjZlpzcDVjZWZ2d3FjaVp1QjUwY19tVGZhZWdORmNvQnF6d3RrSTJkZDRxQnpJR2Z2VlNVQXRyMWZaQUhKVnfSAVNBVV95cUxNUjlmWi1TQVI0UGtjb0hCM0F4OFN3YTQ0bGFHR2ZVOTJDZTdBU1VUcGZtcUxiMU8yYWctZ2NCZmRPcTJVbkpxTm1VSWYzWGhIS1ZzRQ?oc=5",
-              "source": "서울경제",
-              "publishedAt": "2026-11-20T20:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "멕시코 대통령 셰인바움, 21시간 이코노미석 타고 APEC 정상회의 참석 : 왜 전용기 안 탔을까?",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wazM5dTl3a1BYclJTVFBMTEIxVTJMUk1xR0RNQWc3dU5oeVc1SVpCbGJtQm5YSm9SU3U0ZGxlLUNIU1pvOTFuOW92Y3hWVGpvam9sc2R3aw?oc=5",
-              "source": "허프포스트코리아",
-              "publishedAt": "2026-11-20T05:12:53.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "21시간 이코노미석 타고 APEC 참석…멕시코 대통령 소탈 행보 화제",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OWFZ3UUJpallIX1NOeVJONlZRS0N4c3BnMkthTWI5ZVkxOExGMDlsdUFiWk4tNmhYWE9zdjBaMl9qWmQyc1hFX1NMWHBYaEpGNmw2bVhKMHNVZ1U?oc=5",
-              "source": "경기일보",
-              "publishedAt": "2026-11-19T13:53:13.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "“검소한 지도자” 호평 일색…이코노미 타고 21시간 걸려 APEC 도착한 멕시코 대통령",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHY3JxRE5US2lyNmFRWWc4a0xTNVBDZ0Z5X0dmdEhIYzViWnRSNlJJdnlqZ0l1UVFuWlpFeC1YaF94VWZ2U1FWVllXUlZPQzdmTVRTbjI1dkZNQdIBX0FVX3lxTFBOV3ZfREpXeWlMcGRIUGRrVTlHT2VoaHhmUndYbktoaWtsaVVrUXBGOGF3eXl1ZXNCMFkyTi1xSEdCN0htaWJpT3ZFTXlXV0V0Ri1CMGJlNjQ0QThudWpN?oc=5",
-              "source": "경향신문",
-              "publishedAt": "2026-11-19T08:26:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "APEC｜멕시코 대통령의 21시간 이코노미 외교…중국도 놀랐다",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00Vm1wTGJDQXdVQ1QzdDFYUklMUGt6aGZsS3lyeFhVSlk2ZGw4OXFqOE00UWFFN1pLN0pTUkdJZVRVYkNpZHE2c2FtaTBqRGZWZXBZd0s5TFJCV1FXcVN4V1hCRUVjRlFhbEE?oc=5",
-              "source": "OBC 뉴스",
-              "publishedAt": "2026-11-19T00:32:52.000Z",
-              "kind": "news"
-            }
-          ]
-        },
         {
           "title": "한국환경공단, 페루와 순환경제 협력 확대…중남미 진출 교두보 마련",
           "summary": "",
@@ -155,86 +94,6 @@
           ]
         },
         {
-          "title": "브라질 세척 아라비카 커피 생두 (AA (크기 등급)) 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.20",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 5,
-          "articles": [
-            {
-              "title": "멕시코 갈릭 브레드스틱 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XcFZJa0lNOFkzNThDajdXRXNXZ09pWFNvekgwV3pkd0sydUZ2QzNveURnZ21vaVQ0Sl9yWW5mcmpZMThRTEhTaFRpaGlQYVRsLWs3RXJoaDU4ZlZ2U2lIV1VuM1VTSFloenFVclNEX1o?oc=5",
-              "source": "Tridge",
-              "publishedAt": "2026-11-20T08:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "아르헨티나 세척 아라비카 커피 생두 (AA (크기 등급)) 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnotVnJ0UlhtTGNIYW8yNXRZeTk2eDBrQzNCaGRPQ0Z5UWRvNXB2aXpmZWZ6ZjJZY2JaU3ozSDFOMms2SzJrc2x4LW5ubHVybDJ3aWQyRURwT29Yd3JYVjhUTTh1cG1hRTJ5emgxa2ZmT012VXowOFhYWVFBdk1wMA?oc=5",
-              "source": "Tridge",
-              "publishedAt": "2026-11-20T08:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "브라질 신선 유기농 야콘 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1menhqVHlXUFlwX292VzB5Vlh1ZFkydGpVbXVNX2FNUkVQRk51WHN0SEhQTDU0aUo3SlNjeWhWaUxucnRodHQtRWpOZTZodEFPNXB3TUF5M3RMcnJWb1VQOXBuMnBMWFlBX3pDSE8teU0yQQ?oc=5",
-              "source": "Tridge",
-              "publishedAt": "2026-11-20T08:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "브라질 세척 아라비카 커피 생두 (AA (크기 등급)) 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkE5LXhKdGxIVkE1YTc3VzlCM2hSQTV1Nk1xa0dRdmktcUlVTG1oWU9IcjN4T0lOM2xwN0JZN29qUlB2UVc3eFVnb2RTRmhnVnNfVEtvMmhiR2h3QV9SbVk5c2RRODROZzB6TnJYTXhKeER5MU05bVA5VWZ3ejVldw?oc=5",
-              "source": "Tridge",
-              "publishedAt": "2026-11-20T08:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "아르헨티나 아몬드 우유 음료 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EalFpMG9xNldjUVU3ZWJ5UUdrWXhOTDBuRm1JaHpEU2Q0MWt4UjN0OE8yRjhrYV9QOGgyY2VhVWhGOWdhR3JRckprbmd0RlFPSWdpdkM0cm9Ic00tNE9WVFJXcGtJaUxNSUdPaFUzTQ?oc=5",
-              "source": "Tridge",
-              "publishedAt": "2026-11-20T08:00:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "미국, 브라질산 항공기 10% 관세와 설탕 새 관세 제안 - 뉴스 및 통계",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "브라질산 항공기 10% 관세안 제안…301조 근거 보도",
-              "source": "토큰포스트"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "미국, 브라질산 항공기 10% 관세와 설탕 새 관세 제안 - 뉴스 및 통계",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcjFYS2FIbUJSYmM4bUZoNkl0NjVNTEhmUk1uRjRnLUptTWhsdWxYemVfaUN5b3ZHeE5Od1lXLVpSR0pGbWVLenNiYmlGY3duck5rZUowclNKekdsWG5EOFQ4SFNRU0g3a0kzaFRXaldiSFF1TV9ZdUQwaGpreVJYQWU0Uk15UnBKZ1N3VVVxSmsyeHlpSFNhZEpCZWRZSGJzSlhlRVZ3NTE?oc=5",
-              "source": "IndexBox",
-              "publishedAt": "2026-11-25T14:10:37.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "브라질산 항공기 10% 관세안 제안…301조 근거 보도",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OM0dJV01Ja0hUSXRUdVRNT1AtWmRZUnRJcU1EUVFIN1hXWm03MmFtWjV4ZV9FMXAtVFZ0ZHl4YVdBbmM1ZXVKMnloTjJZU2hycE5CX3pB0gFbQVVfeXFMTnNMZnJlSjJIbHd1Ynp3VjgwY19teG4xVUNETV9ONlhKS21FVXJJLXpSVVQ5LXgwb0RSaFUzNDNZNm9nMXR1RWJxOV9ucllHTTJLVVY1MmRyMWNXTQ?oc=5",
-              "source": "토큰포스트",
-              "publishedAt": "2026-11-25T13:41:16.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
           "title": "한화에어로, 브라질 기업과 파트너십…“남미 방산시장 공략”",
           "summary": "",
           "whyItMatters": "",
@@ -267,33 +126,107 @@
           ]
         },
         {
-          "title": "아르헨티나, 기술적 경기침체 진입⋯2분기 연속 역성장",
+          "title": "브라질, 2027년 GDP 전망 1.8%로 하향·물가 4.5%로 상향 - 뉴스 및 통계",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "아르헨티나 경제, 2분기 연속 역성장…기술적 경기침체 진입",
-              "source": "연합뉴스"
+              "title": "브라질, 2027년 성장률 전망 1.8%로 하향…물가 전망은 상향",
+              "source": "Investing.com 한국어"
             }
           ],
-          "span": "11.25",
+          "span": "11.24",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "아르헨티나, 기술적 경기침체 진입⋯2분기 연속 역성장",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSU1NvOEtxamlKZU1jeXNiY2JhMC12aE12VTkwQ3RsdkVVM3NmQ19rYkJsRmZwbkFBSVFfeGRncnVpRTFSQXJnV0d5Yzd4aEhPMms3cw?oc=5",
-              "source": "이투데이",
-              "publishedAt": "2026-11-25T01:29:00.000Z",
+              "title": "브라질, 2027년 GDP 전망 1.8%로 하향·물가 4.5%로 상향 - 뉴스 및 통계",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWhBczhwQ2ZLRUxHRXI4bEYycS12NjFqSWlkdFZVSzhnTE9HNVFNcC0xQ0FDNjBwSzRncXZRRnhVdDlHMVZzZDVBb3RUWlJqMTViWXMtQ2JpZ1RQSWxrenlyMzA1SDlRMy14Wkkwd1NwNlFnTHFqenAzbm5nd2xHX0JSNER2cUs1MnpRblQ4Rkl1YWltNEE0VUJSc3RrV1pZV2pDSGliYnFpaDJyNnZQZ1dCZDY2eEF4WDgzRQ?oc=5",
+              "source": "IndexBox",
+              "publishedAt": "2026-11-23T18:50:20.000Z",
               "kind": "news"
             },
             {
-              "title": "아르헨티나 경제, 2분기 연속 역성장…기술적 경기침체 진입",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdExEVTlDdEd6d1dsSUc4dUU0N2todU1nSGZRMW5uREE4RHFBNEVtRG5VOUFJaEQ2cWpMWGRDWGFrdTRvc0RRN3dRU21WeDUwTXFTbUtYb3NkNlHSAWBBVV95cUxPbFRtOVpnNlpDQ2J1c2xQRU1EbXB1blNTZHVSMWpkY2FuNUtwVDBKUWdEQ3V0SEpEQV9vZlUyU2xENUR1YkhQTGlZbmJyOUk5eElNaHpiWXBuZnZ6V0RHYXY?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-25T00:16:05.000Z",
+              "title": "브라질, 2027년 성장률 전망 1.8%로 하향…물가 전망은 상향",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84eXV2Ti1PUjBMaHh2ODFfQTAyblVGa2x3MnNLUF9pb01hUFNPNTAxN04tU3ZrUlZ1RUZiMldNcXJETlNrUDFkV18wSUNtb0szRWFsa0JjeWhDMS1IcmEtbVdDSzhMWG5BT1E?oc=5",
+              "source": "Investing.com 한국어",
+              "publishedAt": "2026-11-23T18:07:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "그루포멕시코, 멕시코 증시서 3.21% 상승 마감 : 기업주식정보",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.24~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "그루포멕시코, 멕시코 증시 하락세에 187.57 페소 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0SnFpdmEyRkhpRmlVYUR2bzhwUE05bXVUMHhIcFE4NmJnMHhHM29NZTI4Rzg5U0lCR2pvOU5yZkE3VTN1RXZsVWxvYw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-25T04:05:06.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "그루포멕시코, 멕시코 증시서 3.21% 상승 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpUmNrZXlraVNEZW1kTG13bTl3T1hTek5zVWJlQkQ1MGRldDRoQVhKWUV2Nm5PVG9nM00wU3c5ekNqR0dWY0ZPTE1kdw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-24T04:17:06.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "인두스트리아스페뇰레스, 멕시코 증시 상승세 속 강세 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zLWZENkFvbnk1X3lKdWtRTEpSNnBVX2wxMzNuZlZtRU9oTC0yTVNwQzJFbjJLdzdSdzBCU1FLaXcxY0FRYVNTLTRXNA?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-24T04:13:06.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "'사람 중심 도시' 해법…세계스마트시티기구 상파울루 총회 개막",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "'사람 중심 도시' 해법…세계스마트시티기구 상파울루 총회 개막",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SQTc4ZmVUMzQwZko1VmZNbkowUmV3Qlh2WHdkbTVrMzc3ekZLV2kxZEIyNXJVay1HRWgzUTZldkVqSTNyTzdZSllPTjY0cWFQdXc?oc=5",
+              "source": "매일경제 마켓",
+              "publishedAt": "2026-11-25T22:54:25.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "재정 개혁 기대·룰라 경제팀 인선설에 1.58% 상승…헤알화 강세",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "재정 개혁 기대·룰라 경제팀 인선설에 1.58% 상승…헤알화 강세",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBseks2c1BfTEFJc2prekJpUmJKS2xiT2NuNUtTQ1RGNWwzZlJUYTZUT05lSzdPc0NVbWUzc1pQcF9hN2hPUWVic21RdlZzZWw5dHRKUXF1ZEdfZmZK?oc=5",
+              "source": "뉴스핌",
+              "publishedAt": "2026-11-25T22:19:00.000Z",
               "kind": "news"
             }
           ]
@@ -310,10 +243,6 @@
         },
         {
           "word": "미국",
-          "count": 6
-        },
-        {
-          "word": "복원",
           "count": 4
         },
         {
@@ -329,58 +258,19 @@
           "count": 3
         },
         {
+          "word": "복원",
+          "count": 3
+        },
+        {
           "word": "베네수",
           "count": 3
         },
         {
-          "word": "군사관계",
+          "word": "트럼프",
           "count": 3
         }
       ],
       "items": [
-        {
-          "title": "美·베네수 21년 만에 군사관계 복원… 남미 안보 교두보 포석",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "美, 베네수와 군사관계 복원 협정‥'서반구 전략' 남미 교두보로",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "마두로 축출한 美, 베네수엘라와 21년 만에 군사 관계 정상화",
-              "source": "이데일리"
-            }
-          ],
-          "span": "11.19",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "美·베네수 21년 만에 군사관계 복원… 남미 안보 교두보 포석",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12OVFyOWthb0UwSXQ2bnY5VjNrUy10WVVOeEJaR2dyX3Q1NXVHR1g3N0xPWElPNGF0Q1ZzeF9pRnB3UjhOY2lWOEpzMjdMRWZJMGcyQVVVOFI?oc=5",
-              "source": "세계일보",
-              "publishedAt": "2026-11-19T12:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "美, 베네수와 군사관계 복원 협정‥'서반구 전략' 남미 교두보로",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZbThEc3FjMEZzWWFqZEtLOEhTc2g4dmtTck9WSy01UVA3VlpSUEYtRnF5SXpOaVhrT0hUSnlLZUlMZkQ1ZXMwU2U4SFJ0OXZyOTNIR09kNUZRVExyUXRlOWJyemJwUGtLOWNOV1JyT2lzNzdW0gF0QVVfeXFMUGMzY0o1dkNXQXprUlZFeE4xekdLSTg4VzFzVDl1Nm5tRU50LThOUWM2YW90Q1pIc0hxQkZabDB2UFRrLTRNTXpDUHdtY2oyYU1LWlhRZGlSVE5FbnZyeFdVbkhvQklHSDhnNHNOWDI5dS00UFI?oc=5",
-              "source": "MBC 뉴스",
-              "publishedAt": "2026-11-19T00:36:08.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "마두로 축출한 美, 베네수엘라와 21년 만에 군사 관계 정상화",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGtFWDZObUt0cTRFdWJKZ2NjdmZpcFFwMUtBTFgycFZlVGZ5S3BkeWNfSjFhS0VTQW00UU02LTBtQ2daNG1fSXFzemhHcjVNTzJic3cxTTNqRFFmbzJzVTlQeVZlOG9SWlpEWGhvelVIcy16NHloUmR2cW5vZzJMVg?oc=5",
-              "source": "이데일리",
-              "publishedAt": "2026-11-18T22:12:52.000Z",
-              "kind": "news"
-            }
-          ]
-        },
         {
           "title": "밴스, 정치 후원자에 베네수엘라 원유 사업 특혜 의혹…美상원 조사 착수",
           "summary": "",
@@ -414,28 +304,33 @@
           ]
         },
         {
-          "title": "미국과 베네수엘라 간의 새로운 군사 협정을 \"해독\"해 봅시다",
+          "title": "21년 만에 적에서 동맹으로…미국·베네수엘라, 군사협력 재개",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [],
-          "span": "11.19~11.25",
+          "headlines": [
+            {
+              "title": "美국방, 베네수 깜짝 방문…21년만 군사 협력 재개",
+              "source": "뉴시스"
+            }
+          ],
+          "span": "11.19~11.20",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 1,
+          "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "미국과 베네수엘라 간의 새로운 군사 협정을 \"해독\"해 봅시다",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQi1WUVF0WDJqbllVc2ZtZVk3V3ZNUFhlMTJXdlViV1E0Y1U4dEljc2Y5YjhaMzFJTDFkb3J6LU02Z2dMZXRDNTNVb1ZOVTdNUUxWaE04Uk9ieFVjUl9wNm5aMXlpUlV1eHBFZUpRa21uY2FaOHplZmJKOXpTZTZRbXQ2aw?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-25T04:02:45.000Z",
+              "title": "21년 만에 적에서 동맹으로…미국·베네수엘라, 군사협력 재개",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4ZkFJcFlFVXJIQXNYY1JMUWdmVkJJc2VSeTNJbXoya1dpUmU1MUpfYS1xRno4eGNhYTFMUFBBLUpLNWVsaDdfc0RzOVZIUmR0aVpNSHdyODViLThYdE5zWldLc3lzc1FjQjFYQm5WMzNVTUE?oc=5",
+              "source": "디지털투데이",
+              "publishedAt": "2026-11-20T00:34:23.000Z",
               "kind": "news"
             },
             {
-              "title": "미국과 베네수엘라가 새로운 군사 협력 협정을 발표했습니다.",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDFzaF9WWVFjSXJnMkotX19YQVJ4SmFodU1WUjZ3X2tpUmF1ejVLRlZ0cUhFSWd4WVRmVk9sWmNoamlUN2ZsSURsd2VTWU82bmNOZUd0MDcySl9ialNPbm5MTkluV0RodnJISWFmb3M1cXZDdENCbDZ4RnRjZzJsMU5PamlKZ3c?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-19T06:30:00.000Z",
+              "title": "美국방, 베네수 깜짝 방문…21년만 군사 협력 재개",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4a1k3eThZaFNXSXFhVDBzZFJwanA1UDNRWm5XYVV4T0o3SGk1d2EtekdSd2ZlNGpxcWlHRXdjRkE3VkJCdllYQUZhY1N5c29EVWZrNkUyYlA1R1lpSmw1WNIBeEFVX3lxTE5tcDVUZ21YZ2VhWGV3TnFnNFNsdTlILXhMeDBhSDVsXy00LVB0bUtVRzdQMkdpMFI4MGczZ3JteHhXYndvbDI3clZ4UldUc09nRnlsQlJ4VE4wTWVwdjByTXZDamlDdjVFN3h6RzN6dlQ2TGtLa3ZQUQ?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-19T00:37:19.000Z",
               "kind": "news"
             }
           ]
@@ -513,6 +408,26 @@
               "kind": "news"
             }
           ]
+        },
+        {
+          "title": "미국과 베네수엘라 간의 새로운 군사 협정을 \"해독\"해 봅시다",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "미국과 베네수엘라 간의 새로운 군사 협정을 \"해독\"해 봅시다",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQi1WUVF0WDJqbllVc2ZtZVk3V3ZNUFhlMTJXdlViV1E0Y1U4dEljc2Y5YjhaMzFJTDFkb3J6LU02Z2dMZXRDNTNVb1ZOVTdNUUxWaE04Uk9ieFVjUl9wNm5aMXlpUlV1eHBFZUpRa21uY2FaOHplZmJKOXpTZTZRbXQ2aw?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-25T04:02:45.000Z",
+              "kind": "news"
+            }
+          ]
         }
       ]
     },
@@ -522,7 +437,7 @@
       "keywords": [
         {
           "word": "타고",
-          "count": 13
+          "count": 12
         },
         {
           "word": "이코노미석",
@@ -530,14 +445,14 @@
         },
         {
           "word": "APEC",
-          "count": 10
-        },
-        {
-          "word": "전용기",
-          "count": 7
+          "count": 8
         },
         {
           "word": "룰라",
+          "count": 6
+        },
+        {
+          "word": "전용기",
           "count": 6
         },
         {
@@ -545,12 +460,12 @@
           "count": 5
         },
         {
-          "word": "중국",
+          "word": "검거",
           "count": 5
         },
         {
-          "word": "검거",
-          "count": 5
+          "word": "채무",
+          "count": 4
         }
       ],
       "items": [
@@ -575,8 +490,8 @@
           "span": "11.19~11.21",
           "days": 3,
           "hasPress": false,
-          "sourceCount": 13,
-          "articleCount": 14,
+          "sourceCount": 12,
+          "articleCount": 13,
           "articles": [
             {
               "title": "다들 전용기로 왔는데…21시간 ‘이코노미석’ 타고 온 멕시코 대통령에게 생긴 일",
@@ -750,7 +665,7 @@
             },
             {
               "title": "'가택연금' 보우소나루 전 대통령 장폐색으로 입원",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LNC1wcHdqMFRrcHA0OWV2cWQyYmhUYVg3aXNhWkpHZmZkZWpwb3dmQ2VNOFhzQ2c4Y3ZtQXZYRDBkOHZUeVdDWUwxT3BLSjZid2xraGpDVHlFN0JYdjhod9IBYEFVX3lxTE1LNC1wcHdqMFRrcHA0OWV2cWQyYmhUYVg3aXNhWkpHZmZkZWpwb3dmQ2VNOFhzQ2c4Y3ZtQXZYRDBkOHZUeVdDWUwxT3BLSjZid2xraGpDVHlFN0JYdjhodw?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zNjJWeWQ3WGllOW5tZGlUdnJYbXdKRGtvTDRtYUtIT0o5SUtMdGtmYVNoUHpqZnVOLWxuaEZxckUtb3NqNmJ4ZXJ4SEg2ZEhUOWtad3FEa1M1X2fSAWBBVV95cUxNSzQtcHB3ajBUa3BwNDlldnFkMmJoVGFYN2lzYVpKR2ZmZGVqcG93ZkNlTThYc0NnOGN2bUF2WEQwZDh2VHlXQ1lMMU9wS0o2Yndsa2hqQ1R5RTdCWHY4aHc?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-21T17:35:02.000Z",
               "kind": "news"

@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-25T21:21:19.695Z",
+  "updatedAt": "2026-11-25T23:34:52.162Z",
   "trends": {
     "months": [
       "2026-06",
@@ -42,7 +42,7 @@
           7.3,
           0,
           4.2,
-          4
+          4.1
         ]
       },
       {
@@ -53,7 +53,7 @@
           2,
           2.4,
           2.4,
-          3
+          3.7
         ]
       },
       {
@@ -86,7 +86,7 @@
           0,
           0,
           0,
-          3.7
+          3
         ]
       },
       {
@@ -114,11 +114,11 @@
     ],
     "rising": [
       {
-        "word": "탄핵",
+        "word": "한덕수",
         "change": null
       },
       {
-        "word": "한덕수",
+        "word": "탄핵",
         "change": null
       },
       {
@@ -126,16 +126,16 @@
         "change": null
       },
       {
-        "word": "조희대",
-        "change": null
-      },
-      {
         "word": "리트",
         "change": null
       },
       {
+        "word": "조희대",
+        "change": null
+      },
+      {
         "word": "AI",
-        "change": 80
+        "change": 81
       }
     ],
     "falling": [
@@ -158,11 +158,11 @@
     ]
   },
   "stats": {
-    "articles": 1175
+    "articles": 1173
   },
   "ai": false,
   "headline": "최근 6개월 사회: 「법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"」",
-  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,175건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 탄핵, 한덕수, 조사, 조희대 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,173건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 한덕수, 탄핵, 조사, 리트 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -245,23 +245,23 @@
           "source": "2026.11"
         },
         {
-          "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
+          "title": "이진우 과외교사 경찰 출석…세무사 감독관들 줄조사",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "리트 만점자 과외교사 경찰 출석…“죽음이 범죄의 도주처 돼선 안 돼”",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52NUpYM19NSi1WejJaeE9Nd0YzOGdkNVhJNHZLNGJVLUpyMDRuVHRmTTlVRlF1TWtvckgyc2pVQ0dRRUNwdjlJWEl1bVJ0Z3hsWXg2enJlRlFMZ0gzaG5qX2VTWGM1UTJkX2x3?oc=5",
-          "source": "주간조선",
-          "publishedAt": "2026-11-25T06:04:55.000Z",
-          "kind": "news"
-        },
-        {
           "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV0hXSUtKY1laMF82QW0wSGtsLXVZYk5BUXMxSTdVRkZUNHpoTjZQOVJuZDdnYVc0dS1LeDhkdmF3UndBN2lwMFdzREhkbGFvUFEycEUydE5rbEdJZG80OFhLVXgxdkk?oc=5",
           "source": "연합뉴스TV",
           "publishedAt": "2026-11-25T07:49:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이진우 과외교사 경찰 출석…세무사 감독관들 줄조사",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmOF9DMlFvQks5SFdZM19DRU1CdXZwM1JhNURjN0djOEE0SHFadUIyMjFhQS1DN0U0d01hMW1CZnZIY1lHWERvVmxHRkE4VTZZTi1sVWNkN3RyR2ZDcU9GcmJmMXE3UDQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T13:00:00.000Z",
           "kind": "news"
         }
       ],

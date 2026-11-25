@@ -2,8 +2,8 @@
   "month": "2026-11",
   "category": "society",
   "ai": false,
-  "builtAt": "2026-11-25T21:21:16.372Z",
-  "articleCount": 298,
+  "builtAt": "2026-11-25T23:34:49.205Z",
+  "articleCount": 296,
   "summary": "",
   "topics": [
     {
@@ -39,9 +39,40 @@
     },
     {
       "ref": "2026-11#t1",
-      "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
+      "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
       "summary": "",
       "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV0hXSUtKY1laMF82QW0wSGtsLXVZYk5BUXMxSTdVRkZUNHpoTjZQOVJuZDdnYVc0dS1LeDhkdmF3UndBN2lwMFdzREhkbGFvUFEycEUydE5rbEdJZG80OFhLVXgxdkk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T07:49:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, '이진우 과외선생' 조사...\"진실 묻히면 안돼\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ITWFVTHIxaXlRY2tyeDNDckNLVEt3NGNKV1NUeGpUY0cxTzlCWXpvSUYwNmVXSG55a2FTS2dEVXdodWNjcmlBRjV6TDd1b0hwOE45UUNVSzJGdjBlRUE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-25T06:54:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajFYeGFJNUtLTTlqaVdnMXZGS1c4TFhsa0syZmFmS1hVQ2EyMDJteXhmYXdhNk5sU2ZTSU1ZWjZjclYxNjJSTnVXV3lVZFhiR2htaC1FZWZSbEtaTkJVUFpRT0hSNTh5VXdKdHJqUWF4ZVdvTlJRd0dlNDF6NElvMHRWaExHc19CMk1QYVd4QWE?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-25T05:37:32.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t2",
+      "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
+      "summary": "",
+      "importance": 4,
       "articleCount": 4,
       "sourceCount": 4,
       "articles": [
@@ -69,72 +100,10 @@
       ]
     },
     {
-      "ref": "2026-11#t2",
-      "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
-      "summary": "",
-      "importance": 4,
-      "articleCount": 4,
-      "sourceCount": 3,
-      "articles": [
-        {
-          "title": "리트 만점자 과외교사 경찰 출석…“죽음이 범죄의 도주처 돼선 안 돼”",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52NUpYM19NSi1WejJaeE9Nd0YzOGdkNVhJNHZLNGJVLUpyMDRuVHRmTTlVRlF1TWtvckgyc2pVQ0dRRUNwdjlJWEl1bVJ0Z3hsWXg2enJlRlFMZ0gzaG5qX2VTWGM1UTJkX2x3?oc=5",
-          "source": "주간조선",
-          "publishedAt": "2026-11-25T06:04:55.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajFYeGFJNUtLTTlqaVdnMXZGS1c4TFhsa0syZmFmS1hVQ2EyMDJteXhmYXdhNk5sU2ZTSU1ZWjZjclYxNjJSTnVXV3lVZFhiR2htaC1FZWZSbEtaTkJVUFpRT0hSNTh5VXdKdHJqUWF4ZVdvTlJRd0dlNDF6NElvMHRWaExHc19CMk1QYVd4QWE?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-25T05:37:32.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "‘리트 만점자’ 생명과학 과외선생 “죽음이 범죄 도주처 되면 안돼···그래서 경찰 출석”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1obmlSX1RpelZaQlZDcGExVUViQVpwREFEdS05ZjhycmQ0OEQyYUx3LVBwRXpRYVoxcXk4QlpXdW5WT1RSS0hRRFpPb1QwYnZDR09zaEwzN2xqd9IBX0FVX3lxTE95REJMbkE0ZFhjQlM1OFZ0VzVlMDIzdjNEdFZlbFFkMTVwWkFrQUMtUGdhWWxWdWdtS29PM2JOcVlXcWt4VFdtYmVlakd1Q29EUjhhME9aNDJ1R19aSTFZ?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-25T05:15:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
       "ref": "2026-11#t3",
-      "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
-      "summary": "",
-      "importance": 4,
-      "articleCount": 3,
-      "sourceCount": 3,
-      "articles": [
-        {
-          "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV0hXSUtKY1laMF82QW0wSGtsLXVZYk5BUXMxSTdVRkZUNHpoTjZQOVJuZDdnYVc0dS1LeDhkdmF3UndBN2lwMFdzREhkbGFvUFEycEUydE5rbEdJZG80OFhLVXgxdkk?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T07:49:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "‘리트 만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00OXlxcWE5bFlVYm40NFFjckZibnZ3U2dnc1dma0d2YWZIZ2tBLVl4UVdhaHpjbEgxNW5qTzZ3a3VkcmNxc050UUVNdXBDZFZTakxOTzhWYjFWZVk?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T07:04:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "'리트만점' 이진우 과외교사 경찰 조사…\"진실 묻어선 안 돼\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZEhXMkdxVk1OMkE0OUR2clZXYWZiejJPUG5KMHhHWjRra0NXWUxtLS1IM2x5Mlh5ODRYNkVMRDE1dnBIN3o1Q1lhdTNfcC1jeTNQLUtzamNDaU3SAWBBVV95cUxNLXBwdlZMclQ5OGtXcGlXRFJDTTFSSzY0ODFkSzM4TC03Y1VRMmwtU3J0b3BDUnRDS1lsczZlcUk3ZTVHMFZsWWtPQ0Y3TlRQWWt1UzB3X2R2cXdobTh1Ymg?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T05:24:02.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t4",
       "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
       "summary": "",
-      "importance": 3,
+      "importance": 4,
       "articleCount": 3,
       "sourceCount": 3,
       "articles": [
@@ -162,7 +131,7 @@
       ]
     },
     {
-      "ref": "2026-11#t5",
+      "ref": "2026-11#t4",
       "title": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결",
       "summary": "",
       "importance": 3,
@@ -193,38 +162,38 @@
       ]
     },
     {
-      "ref": "2026-11#t6",
-      "title": "김건희 ’매관매직’ 사건 내달 3일 대법 선고",
+      "ref": "2026-11#t5",
+      "title": "‘운전자 바꿔치기’ 현직 경찰관 조언 의혹 경찰 간부 2명 감찰",
       "summary": "",
       "importance": 3,
       "articleCount": 3,
       "sourceCount": 2,
       "articles": [
         {
-          "title": "김건희 ’매관매직’ 사건 다음달 3일 대법 선고",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqalp2Ul90ZlJ6cHNfQzJGenc4ODVpVVV5dkp5Ym9TY3BnX2VkMk5selJyNzkyeFBVb0NwMDlQMW5jU0EyV1BSVjdXd0hGNDF3b0hmQ2NfUEVzdkFPVVpNeGZBOVRBcVU?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T07:46:00.000Z",
+          "title": "‘운전자 바꿔치기’ 현직 경찰관 조언 의혹 경찰 간부 2명 감찰",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BOWQ2MDdGLTZWaE4wRmV0RXpTelBhNDMzRGJOWFdxSVpIYjJlTzVDNFFTbnRuUkU2UmtZd2JWSTNoY1UzLVR4TVY5ak5DMk9lV3ZJTUpqRXZ0MGs?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T13:47:00.000Z",
           "kind": "news"
         },
         {
-          "title": "속보 김건희 '매관매직' 사건, 내달 3일 대법 상고심 선고...2심은 징역 5년",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XdmM0TU02b0ZVY3VRQktaS3NhYTBIY0pUSkx2UFJrME5RZDBDanhmSTlpMi02OHV2M0cyZHlOd2g1anhZWEh5SldQajUwVGJDSkwzRHVYWlgxNktWOFE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-25T06:02:00.000Z",
+          "title": "음주사고에 '운전자 바꿔치기' 조언 의혹…감찰 착수",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13Vkp4QUFscUpGUnl4c1VTXzBhbzUxb0FrUDFObHZLZmxEaFdFVVprTEJxVXJNOUtDc1ZBMXhZSzRwMkExMXVPUHVocEM1bnpRWmFMdWpGN3c1ZTQycHp0VW5n?oc=5",
+          "source": "KBC광주방송",
+          "publishedAt": "2026-11-25T12:14:44.000Z",
           "kind": "news"
         },
         {
-          "title": "김건희 ’매관매직’ 사건 내달 3일 대법 선고",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JR3QzaGN4UnlhcWg0UTBhbi1oQXEzREtHOHNUVDJaOExmQmtvczBsNVlRUDh4MzFSUjRrQkR5bG8tUzA2RndKUFN2WHJTS2RwekNiSlVpdDZITElvb3BISGt0M2pEdDQ?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T06:02:00.000Z",
+          "title": "‘음주 뺑소니’ 경찰에게 조언 의혹 경찰 간부 2명 감찰",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55aEs0aVhkRjR0UEJocGxucnVIS2h3dEtOQWw1YmJtSy00LTNnR3VhaUlDUFR0cUlYb3ZzQl85cXlHWjB3Y1piUGhWWWtYWWdCd1VkTV9RNGJIRDg?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T12:53:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "ref": "2026-11#t7",
+      "ref": "2026-11#t6",
       "title": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”",
       "summary": "",
       "importance": 3,
@@ -253,39 +222,67 @@
           "kind": "news"
         }
       ]
+    },
+    {
+      "ref": "2026-11#t7",
+      "title": "이진우 과외교사 경찰 출석…세무사 감독관들 줄조사",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이진우 과외교사 경찰 출석…세무사 감독관들 줄조사",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmOF9DMlFvQks5SFdZM19DRU1CdXZwM1JhNURjN0djOEE0SHFadUIyMjFhQS1DN0U0d01hMW1CZnZIY1lHWERvVmxHRkE4VTZZTi1sVWNkN3RyR2ZDcU9GcmJmMXE3UDQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T13:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘이진우 과외교사’ 경찰 출석하며 \"명복을 빕니다, 하지만\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdjZFMS1paFRjZzkzZk1lbllrd1FsVnFNVUpyMUtNRjVNa1l4OE1IWEFUcHp2d25ZUHR5ZEZnVzdOSERZZDBwaDB0RUFLRm00NHdzbQ?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2026-11-25T10:14:00.000Z",
+          "kind": "news"
+        }
+      ]
     }
   ],
   "keywords": [
+    {
+      "word": "한덕수",
+      "count": 18
+    },
     {
       "word": "탄핵",
       "count": 17
     },
     {
-      "word": "한덕수",
-      "count": 17
+      "word": "리트",
+      "count": 13
     },
     {
       "word": "조희대",
       "count": 13
     },
     {
-      "word": "리트",
+      "word": "AI",
       "count": 12
     },
     {
-      "word": "AI",
-      "count": 12
+      "word": "만점자",
+      "count": 11
+    },
+    {
+      "word": "수사",
+      "count": 11
     },
     {
       "word": "부정행위",
       "count": 11
     },
     {
-      "word": "취소",
-      "count": 11
-    },
-    {
-      "word": "만점자",
+      "word": "의혹",
       "count": 10
     },
     {
@@ -293,11 +290,15 @@
       "count": 9
     },
     {
-      "word": "수사",
+      "word": "이진우",
       "count": 9
     },
     {
-      "word": "이진우",
+      "word": "취소",
+      "count": 9
+    },
+    {
+      "word": "개최",
       "count": 8
     },
     {
@@ -305,19 +306,15 @@
       "count": 8
     },
     {
+      "word": "교사",
+      "count": 7
+    },
+    {
       "word": "수능",
       "count": 7
     },
     {
       "word": "출석",
-      "count": 7
-    },
-    {
-      "word": "의혹",
-      "count": 7
-    },
-    {
-      "word": "개최",
       "count": 7
     },
     {
@@ -329,19 +326,15 @@
       "count": 6
     },
     {
-      "word": "책임",
-      "count": 6
-    },
-    {
       "word": "사망",
       "count": 6
     },
     {
-      "word": "과외교사",
+      "word": "적발",
       "count": 6
     },
     {
-      "word": "새만금공항",
+      "word": "책임",
       "count": 6
     },
     {
@@ -361,10 +354,6 @@
       "count": 5
     },
     {
-      "word": "교사",
-      "count": 5
-    },
-    {
       "word": "전국",
       "count": 5
     },
@@ -377,8 +366,24 @@
       "count": 5
     },
     {
+      "word": "새만금공항",
+      "count": 5
+    },
+    {
       "word": "쿠쿠",
       "count": 5
+    },
+    {
+      "word": "과외",
+      "count": 4
+    },
+    {
+      "word": "참고인",
+      "count": 4
+    },
+    {
+      "word": "재난문자",
+      "count": 4
     },
     {
       "word": "조치",
@@ -389,31 +394,19 @@
       "count": 4
     },
     {
-      "word": "신청",
-      "count": 4
-    },
-    {
-      "word": "김건희",
-      "count": 4
-    },
-    {
-      "word": "대법",
-      "count": 4
-    },
-    {
       "word": "대응",
       "count": 4
     },
     {
-      "word": "점검",
+      "word": "현직",
       "count": 4
     },
     {
-      "word": "진실",
+      "word": "개선",
       "count": 4
     },
     {
-      "word": "징역",
+      "word": "함께",
       "count": 4
     }
   ],
@@ -436,7 +429,7 @@
     },
     {
       "date": "11.25",
-      "event": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“"
+      "event": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\""
     }
   ]
 }

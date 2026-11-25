@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-25T21:21:19.692Z",
+  "updatedAt": "2026-11-25T23:34:52.086Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           9.6,
           5.9,
           7,
-          8.8
+          8.2
         ]
       },
       {
@@ -42,7 +42,7 @@
           0,
           0,
           8.1,
-          21.7
+          21.1
         ]
       },
       {
@@ -57,6 +57,17 @@
         ]
       },
       {
+        "word": "민주당",
+        "values": [
+          4,
+          2.3,
+          3.5,
+          0,
+          5.2,
+          6.1
+        ]
+      },
+      {
         "word": "국힘",
         "values": [
           3.1,
@@ -64,7 +75,7 @@
           3.5,
           3,
           2.2,
-          2.4
+          2.7
         ]
       },
       {
@@ -79,17 +90,6 @@
         ]
       },
       {
-        "word": "민주당",
-        "values": [
-          4,
-          2.3,
-          3.5,
-          0,
-          5.2,
-          4.4
-        ]
-      },
-      {
         "word": "정부",
         "values": [
           2.7,
@@ -97,7 +97,7 @@
           1.7,
           6.7,
           2.6,
-          3.1
+          2.4
         ]
       },
       {
@@ -126,8 +126,8 @@
         "change": null
       },
       {
-        "word": "민주",
-        "change": null
+        "word": "민주당",
+        "change": 80
       },
       {
         "word": "중간선거",
@@ -149,7 +149,7 @@
       },
       {
         "word": "대통령",
-        "change": -37
+        "change": -39
       },
       {
         "word": "선관위",
@@ -158,22 +158,22 @@
     ]
   },
   "stats": {
-    "articles": 1288
+    "articles": 1287
   },
   "ai": false,
-  "headline": "최근 6개월 정치: 「'민주유공자법' 국회 본회의 통과」",
-  "overview": "2026.06부터 2026.11까지 6개월치 정치 기사 1,288건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「'민주유공자법' 국회 본회의 통과」(2개월)입니다. 기간 후반으로 갈수록 조희대, 대법원장, 트럼프, 민주 언급은 늘고, 종합특검, 지방선거, 대통령 언급은 줄었습니다.",
+  "headline": "최근 6개월 정치: 「민주유공자법, 국회 본회의 통과」",
+  "overview": "2026.06부터 2026.11까지 6개월치 정치 기사 1,287건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「민주유공자법, 국회 본회의 통과」(2개월)입니다. 기간 후반으로 갈수록 조희대, 대법원장, 트럼프, 민주당 언급은 늘고, 종합특검, 지방선거, 대통령 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
-      "title": "'민주유공자법' 국회 본회의 통과",
+      "title": "민주유공자법, 국회 본회의 통과",
       "span": "2026.08~2026.11",
       "monthCount": 2,
-      "articleCount": 9,
+      "articleCount": 13,
       "summary": "",
       "headlines": [
         {
-          "title": "'민주유공자법' 국회 본회의 통과",
+          "title": "민주유공자법, 국회 본회의 통과",
           "source": "2026.11"
         },
         {
@@ -203,7 +203,7 @@
       "title": "외교·안보 라인 전면 교체‥동맹파에 힘 실었나?",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 12,
+      "articleCount": 11,
       "summary": "",
       "headlines": [
         {
@@ -234,6 +234,29 @@
       "whyItMatters": ""
     },
     {
+      "title": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 8,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "'조희대 탄핵'에 법관회의 의장 \"행동 나서야\"...\"수령 모시나\" 반론도",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWXhheHFiSGxSMTN5U0xRUVdueFZqdVR2SzZVQXlaUUc1bFVscDF6ZERWUDIwbWlpRDBmY1E1RXdEckNJSG1vMF9oTkVOU0Q5RFNRN25neXRldG9XZVhnZ1B5UWpTRjZSdXR3UGRJaw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-23T09:45:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
       "title": "'선관위' 특검, 28일 올림픽공원서 투표지 검증",
       "span": "2026.10",
       "monthCount": 1,
@@ -251,52 +274,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96SVFIc3JfOXdPdnBpaTJKS3o0Z05fc3dULUhoam5FVmFYUUtJUFA3MjhuVUg2dUNFVEh3c1hMLUdnRkd1VTIxVHRzZElIWTlwRThFMFZCQ2UwU2J4WWItcFd2dklLdw?oc=5",
           "source": "KBS 뉴스",
           "publishedAt": "2026-10-30T07:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "창원지법 “재판을 이유로 법관 탄핵… 헌법 가치 훼손”",
-      "span": "2026.11",
-      "monthCount": 1,
-      "articleCount": 5,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "창원지법 “재판을 이유로 법관 탄핵… 헌법 가치 훼손”",
-          "source": "2026.11"
-        }
-      ],
-      "articles": [
-        {
-          "title": "“재판 이유로 탄핵, 헌법 가치 훼손”…판사들 나서나",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yTjV4TGdKaDY0NHpuU1NwdnRHdUxhdnNIY2hMUGlUT29XYlZJNEJlN3J3cXhOZGRDUFJXNV9WX1VGU2lUSEc5SHZYTDFUU3JQLTVudk9kSXd1Mm8?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T12:14:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
-      "span": "2026.11",
-      "monthCount": 1,
-      "articleCount": 5,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
-          "source": "2026.11"
-        }
-      ],
-      "articles": [
-        {
-          "title": "전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sX3NFc1dKWGl0b3B2dGV3RHVUYkI3YWsyclZ3Y1hDRDg2b3pwZXcwWl9TbzYwSU43RVpJSWMtclZqRHlHNXBSZHQycktpeklzV0tQLXpYN0lkTDZadTFTSktaX2J0aW42RUwyV0oxbHdQQQ?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-23T06:13:00.000Z",
           "kind": "news"
         }
       ],
@@ -347,6 +324,29 @@
         }
       ],
       "whyItMatters": ""
+    },
+    {
+      "title": "청와대 \"국회 권한 강화 4년 중임제, 국민 수용성 높아\"",
+      "span": "2026.08",
+      "monthCount": 1,
+      "articleCount": 5,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "청와대 \"국회 권한 강화 4년 중임제, 국민 수용성 높아\"",
+          "source": "2026.08"
+        }
+      ],
+      "articles": [
+        {
+          "title": "靑 \"국회 권한 강화된 4년 중임 대통령제가 국민 수용성 높아\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Tnhac1FZU25uQ0V5cVBoM3VPQXdUNFloZUp1VDFnZ2VZM1dvUXN3aVQ3NTY3Ui1WNjhEay05Q09qLTg0TjIwd1N4QzVFZU80NnBSS1ZhdlM4YjDSAWBBVV95cUxOOVc1TVBoWjl1dnFXN3o0VTl3aHJjMFhwMlE4RkIxRENGSnNfbmxneUdiSVJtMHpTOE5pQ3Fyb2syM3J1VlhaXzI4YmVPS2xIRlcwRlNOOUMwZlpPcUV6Zjg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-14T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
     }
   ],
   "timeline": [
@@ -372,7 +372,7 @@
     },
     {
       "date": "2026.11",
-      "event": "외교·안보 라인 전면 교체‥동맹파에 힘 실었나?"
+      "event": "민주유공자법, 국회 본회의 통과"
     }
   ],
   "outlook": ""

@@ -7,76 +7,72 @@
     "from": "2026-11-20",
     "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T21:21:18.922Z",
+  "updatedAt": "2026-11-25T23:34:51.634Z",
   "ai": false,
-  "headline": "10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고",
-  "overview": "최근 1주 경제 분야 기사 295건(107개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고」(기사 11건·매체 10곳), 「美10월 PCE 물가 3.8%↑…12월 금리인상 전망 굳어져(종합)」(기사 8건·매체 8곳), 「삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사」(기사 5건·매체 5곳)입니다. 자주 등장한 키워드는 급락, AI, 돌파, 하락, 최고입니다.",
+  "headline": "美10월 PCE 물가 3.8%↑…12월 금리인상 전망 굳어져(종합)",
+  "overview": "최근 1주 경제 분야 기사 347건(128개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「美10월 PCE 물가 3.8%↑…12월 금리인상 전망 굳어져(종합)」(기사 9건·매체 9곳), 「한은 올해 마지막 금통위…금리 3.25%로 인상 유력」(기사 8건·매체 8곳), 「주담대 금리 14년7개월 만에 최고…은행 가계대출 금리 5% 돌파」(기사 7건·매체 7곳)입니다. 자주 등장한 키워드는 급락, AI, 하락, 돌파, 인상입니다.",
   "keyPoints": [],
   "keywords": [
     {
       "word": "급락",
-      "count": 34
+      "count": 33
     },
     {
       "word": "AI",
-      "count": 18
-    },
-    {
-      "word": "돌파",
-      "count": 18
+      "count": 25
     },
     {
       "word": "하락",
       "count": 17
     },
     {
-      "word": "최고",
+      "word": "돌파",
       "count": 16
     },
     {
-      "word": "역대",
+      "word": "인상",
       "count": 16
+    },
+    {
+      "word": "금통위",
+      "count": 15
     },
     {
       "word": "최대",
       "count": 15
     },
     {
-      "word": "폭락",
+      "word": "수상",
       "count": 14
+    },
+    {
+      "word": "PCE",
+      "count": 14
+    },
+    {
+      "word": "달러",
+      "count": 14
+    },
+    {
+      "word": "상승",
+      "count": 13
+    },
+    {
+      "word": "한국",
+      "count": 13
+    },
+    {
+      "word": "사이드카",
+      "count": 13
     },
     {
       "word": "삼성전자",
       "count": 13
-    },
-    {
-      "word": "주담대",
-      "count": 12
-    },
-    {
-      "word": "상승",
-      "count": 12
-    },
-    {
-      "word": "매도",
-      "count": 12
-    },
-    {
-      "word": "PCE",
-      "count": 11
-    },
-    {
-      "word": "달러",
-      "count": 11
     }
   ],
   "rising": [
     {
       "word": "하락",
-      "change": 495
-    },
-    {
-      "word": "주담대",
       "change": null
     },
     {
@@ -84,92 +80,32 @@
       "change": null
     },
     {
-      "word": "가계대출",
+      "word": "사이드카",
+      "change": null
+    },
+    {
+      "word": "반납",
+      "change": null
+    },
+    {
+      "word": "젠슨",
       "change": null
     },
     {
       "word": "금리인상",
       "change": null
-    },
-    {
-      "word": "PCE",
-      "change": 272
     }
   ],
   "issues": [
-    {
-      "title": "10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "은행 가계대출 금리 5% 돌파",
-          "source": "조선일보"
-        },
-        {
-          "title": "은행권 가계대출 금리 연 5% 넘었다",
-          "source": "경향신문"
-        },
-        {
-          "title": "가계대출 금리 5% 돌파…주담대 15년래 최고",
-          "source": "연합뉴스TV"
-        }
-      ],
-      "span": "11.25~11.26",
-      "days": 2,
-      "hasPress": false,
-      "sourceCount": 10,
-      "articleCount": 11,
-      "articles": [
-        {
-          "title": "은행 가계대출 금리 5% 돌파",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYVB5aWJfZ0RvbG5fcU5CZ1R3Vm9RMEIxRVF1bE5SOC1QaWw3ZjdCcXZSQmY1cDFvTzB0X1ktTmVvVVNoYVEzSUJYVExwOEp6Y2wzR2w0WHMxSFN2SlotZi15TUdXajZ0amw1OUF2ZXhlbi15ZmZ6X2VVbzh5NVRjTUp5RUZxM3hGLWVURzln?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-25T15:32:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "은행권 가계대출 금리 연 5% 넘었다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSkhzckwzb0ItaDBpU3JERThhQ0ZYQW5HUHlCVkdCd0pMeFpyZ3ZyZFZZN01xaVdFOUtUNkJWM0RYbHFlQnJvZkhfNHFDOFkwMXRpcXJ3MFp3dw?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-25T12:27:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "가계대출 금리 5% 돌파…주담대 15년래 최고",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUHZTSG1FSWUwMURDb1FZYnZOOUF6M21VT183c1laXzlxSVNyQjlYdGhUZ2hHQV8tNi1rQWVUaU91dDBsUE82aF9vSy1KbU1LSXJYLW13aEFQMG5JdGZRSDlXRXJCR0E?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T11:12:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "주담대 금리 14년7개월 만에 최고…은행 가계대출 금리 5% 돌파",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxcnpVeWlkeVBVa0RMdG9qNHdSdUtwV2JfcHhUajFVM0R3a0VreG1hdzcySXZfeWZQQndHbFFQd2g1czRTbmdzSWxqazJKMWlPME9vV3hMVm9Wdkk?oc=5",
-          "source": "경기일보",
-          "publishedAt": "2026-11-25T09:28:56.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "은행 가계대출 금리 3년 만에 5% 돌파, 주담대는 14년 7개월 만에 ‘최고’...유한양행, 김열홍·강대식 총괄 공동부대표 선임, ‘투톱 체제’ 유력",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZTFg4ZHFtZERfcll1MV9KWGgtTmU1N1ByYWtRMVZjX0tIckpSNFFWQURDQjlBMWNDNGFUWnRKdVRWZmNJeEIwVGxFVUNoYUltR2c?oc=5",
-          "source": "더나은미래",
-          "publishedAt": "2026-11-25T09:16:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5INGZEWC1sQmRBRDFqUk5qV1ZWcWFTdmktN1UtUjFqU19iTzF6XzBoUGloRUFvemFWQXY2SWYxd0lMR2g4VG5oR1g0eUNGV3Y0cVVrWV9sWjhOUQ?oc=5",
-          "source": "한국경제",
-          "publishedAt": "2026-11-25T08:45:34.000Z",
-          "kind": "news"
-        }
-      ]
-    },
     {
       "title": "美10월 PCE 물가 3.8%↑…12월 금리인상 전망 굳어져(종합)",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
+        {
+          "title": "美 PCE 물가 3.8%↑…12월 금리인상 무게",
+          "source": "연합뉴스TV"
+        },
         {
           "title": "미국 10월 PCE 물가 3.8% 상승-금리인상 굳어져",
           "source": "포커스온경제"
@@ -177,18 +113,21 @@
         {
           "title": "美 10월 PCE 물가 3.8% 상승… 12월 금리 인상 전망에 힘 실려",
           "source": "조선일보"
-        },
-        {
-          "title": "미 10월 개인소비지출 물가 3.8% 상승…금리인상 전망 굳어져",
-          "source": "SBS 뉴스"
         }
       ],
       "span": "11.25~11.26",
       "days": 2,
       "hasPress": false,
-      "sourceCount": 8,
-      "articleCount": 8,
+      "sourceCount": 9,
+      "articleCount": 9,
       "articles": [
+        {
+          "title": "美 PCE 물가 3.8%↑…12월 금리인상 무게",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80cWF6YnhVcldZV1NCSHB1eUJsS2hOLUg4UEIyNXAzTWtYTEVHWXRERTVpa0tPSUp6NDVOcW1sLUtiR0M3MlIwQXQ1LW82U1k5dUNkYkpZemtrcU5vZ25vYXRTOXdEeEU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T23:26:00.000Z",
+          "kind": "news"
+        },
         {
           "title": "미국 10월 PCE 물가 3.8% 상승-금리인상 굳어져",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QzBwY0EteWhyRUx1SVVIMnZhaFA0RjJqMXBDT2I2X1dWYlJTeWs4QzRFVXZjWnRLeS10NGlMUEFQeGF2aVlWNGhUMzRKYTBGd1pnUGVCME53bHplb0pV?oc=5",
@@ -223,282 +162,157 @@
           "source": "연합뉴스",
           "publishedAt": "2026-11-25T14:42:13.000Z",
           "kind": "news"
-        },
-        {
-          "title": "美 10월 개인소비물가 3.8%↑…'12월 금리 인상' 굳히기 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52czgtYnBSSk5NZ0w3OGlKVExXYmFlZ0tsY2RFTGxPOUF6dm1tY194Wlc1RG5ha1VzVUlwMkVLUnFUQkg5ZzdZNW5nckZPTV8yNW1DQ2VyMElZWWdqbXhBYXdDSVJ5RDdy0gFuQVVfeXFMUERtTE5RMk5zb1FQX1czb3RhRlJmdHo5V0c2RXdzanNwSXlaUG5jVTV3Y3JKUkc0M091RVlpX2Fwazl2emxSd0VpdEJqdGdVTlJ2dGZJSnNMdmZfdkpxX0pvemJiWndtb2ZBWWlvVGc?oc=5",
-          "source": "머니투데이",
-          "publishedAt": "2026-11-25T14:25:05.000Z",
-          "kind": "news"
         }
       ]
     },
     {
-      "title": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사",
+      "title": "한은 올해 마지막 금통위…금리 3.25%로 인상 유력",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "삼성전자 인사, 반도체 실적 주역들 전면에…성과 확대 뒷받침",
-          "source": "폴리뉴스 Polinews"
+          "title": "오늘 한은 금통위…금리 3.25%로 인상할 듯",
+          "source": "채널A"
         },
         {
-          "title": "삼성전자, 반도체 실적 부사장 3명 사장 승진",
-          "source": "퍼블릭뉴스통신"
+          "title": "한국은행, 오늘(26일) 올해 마지막 금통위...기준금리 3.25% 인상 유력",
+          "source": "싱글리스트"
         },
         {
-          "title": "“반도체 실적 주역 사장 승진·전면 배치”..삼성전자, 2027년 정기 사장단 인사 단행",
-          "source": "데일리카"
+          "title": "한은, 오늘 금통위…韓경제 '깜짝 성장'에 금리 연 3.25%로 인상 전망",
+          "source": "뉴시스"
         }
       ],
-      "span": "11.20~11.25",
+      "span": "11.25~11.26",
       "days": 2,
-      "hasPress": false,
-      "sourceCount": 5,
-      "articleCount": 5,
+      "hasPress": true,
+      "sourceCount": 8,
+      "articleCount": 8,
       "articles": [
         {
-          "title": "삼성전자 인사, 반도체 실적 주역들 전면에…성과 확대 뒷받침",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LbTItMmVQUDNaTWkzbFZTZmZFaHZDalpwbnQ1TGdjUXZ2TlA1aE5MT3N3WVozTWZRbjJvRnc3d29vNlN5QU1uUWxEanZWZU5MU2g4ZGZFU053aXUwUnJ3M29CbzNORFBaZzNIM0Nn?oc=5",
-          "source": "폴리뉴스 Polinews",
-          "publishedAt": "2026-11-25T08:35:55.000Z",
+          "title": "한국은행, 오늘(26일) 올해 마지막 금통위...기준금리 3.25% 인상 유력",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JbXQzZ0pZVHplaTAtTjVjMzE5MGtHLTRtRjRzRGRsdlNnSkFRX19maW1UM1JhdnBPRzlOWUJNMkRDQWN2Q3VuM21KeXcxQUsya0gtXzB5T0RSTjQ2b01UQnZDaHYzdw?oc=5",
+          "source": "싱글리스트",
+          "publishedAt": "2026-11-25T22:48:06.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "한은 올해 마지막 금통위…금리 3.25%로 인상 유력",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNWc3TUZtU3BZNm5qX1FnLWJSM0dQcEJFVnRsbXhuMmswN09lak92VDYtVGR3V3dPaXV1Tk5Tbmx4eUFjaDltQjFtVGo1Q2xxYjVZbWx3R1dMQ3Bad2tRYk5oZw?oc=5",
+          "source": "조세금융신문",
+          "publishedAt": "2026-11-25T23:11:04.000Z",
           "kind": "news"
         },
         {
-          "title": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhaTY4Q3lVQnBHeU1MUkZXV3pIeldKYmJIaHNzU3FXWWZKY1k0c3FLb1p5Z2Y0bUhySEdvT001RU9MM3ljWE16YlQxRHdyazdZWWc?oc=5",
-          "source": "노컷뉴스",
-          "publishedAt": "2026-11-20T10:09:36.000Z",
+          "title": "오늘 한은 금통위…금리 3.25%로 인상할 듯",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15Y2dOMDdsb05PUV94TGFOb0g0RUlBM29OdjdkUlFIbG9RakQtS3Vib3dSXzhrOHVkSWpkTjZ1T09pUWZjQlRQQUFobkJmVXB6NlY2X05QLVRBZUhhalHSAWNBVV95cUxQRzBTcFBRUkRVU0c3TWRiYTZBdnNKS2NxWUlKSlphU25nclhURjZUaXFmSTc1ZS02YVk2THM3NHNXejlxeHRCZWR1WlRKSWxsbVZHQmNBZVl5S2JfYTJaVEZqd0U?oc=5",
+          "source": "채널A",
+          "publishedAt": "2026-11-25T22:53:00.000Z",
           "kind": "news"
         },
         {
-          "title": "삼성전자, 반도체 실적 부사장 3명 사장 승진",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZUZLRklMVW1udFNqaVE2a29odnVyVmttWHJJdXpYT05NVXZhaGdiZWRCVHJ3ZWE4WTd0OWZvMnZFTWhWcUp3WF9vQWxkVXVuM182d1JwcF9qdjEtOUlUbmV0eVA4eHRzQ3c?oc=5",
-          "source": "퍼블릭뉴스통신",
-          "publishedAt": "2026-11-20T05:17:10.000Z",
+          "title": "한은, 오늘 금통위…韓경제 '깜짝 성장'에 금리 연 3.25%로 인상 전망",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NTHFkREV1Vk9HMHRtU05CTDVkZi1zMlJYRFRkR0RKc1BxUTIwSFpNVUhxeE9mbGYxdjN4eG1mc3ZJM2YzSXJWREpJTUpBanN5WjF1LTA5a1FvMmF3d0Y4LdIBeEFVX3lxTE5hdDNUZmhobG9JeHBaTVF2SWZnVVFCcUQxaHdWMzBFeDE1V1phSWV5VWRXMVo4bUNEUGNFTmw0cmE3RlBDTU42Vklod1FkMnJ3Z3VaYzlKellxX21lVTVEQTlzdlRkNkhoZ1BseHdfYUtJejJXNlNsbA?oc=5",
+          "source": "뉴시스",
+          "publishedAt": "2026-11-25T21:02:24.000Z",
           "kind": "news"
         },
         {
-          "title": "“반도체 실적 주역 사장 승진·전면 배치”..삼성전자, 2027년 정기 사장단 인사 단행",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yQXRVZzUyTE5wTENVOEIwNU5XR3l0Sk5BaFJ3TlBMTjhrUkFYMGxieHg4d0dsVWlraDBhMzd0UDA5dDNTOE1WWWRRbXE2LW1oeVhFTDNEY0JwZG5LNzlRNGxjRmJrZGd5cU0zWE9INmxlRW01MWc?oc=5",
-          "source": "데일리카",
-          "publishedAt": "2026-11-20T05:05:20.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "삼성전자, 반도체 '실적 주역' 3인 사장 발탁…전영현·노태문 미래사업 전념",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zZ2ZRVVN1R2tKWDhyM2NUcXpTOURMd255enpldGtObVNoUDhESDRVejJzYlZwSXBLLWJkQUxYZERhM0VWOGRDM2F5TTNiUQ?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-11-20T00:16:55.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "현대홈쇼핑, 몽골서 K뷰티 수출상담회…182억원 상담 실적",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "현대홈쇼핑, 몽골 뷰티 수출상담회서 182억 규모 상담 실적",
-          "source": "내외경제TV"
-        },
-        {
-          "title": "현대홈쇼핑, 몽골 수출상담회 주최…1354만달러 상담 실적",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "현대홈쇼핑 코아시스, 몽골서 K뷰티 수출상담회…182억원 규모 실적",
-          "source": "뉴스1"
-        }
-      ],
-      "span": "11.25",
-      "days": 1,
-      "hasPress": false,
-      "sourceCount": 5,
-      "articleCount": 5,
-      "articles": [
-        {
-          "title": "현대홈쇼핑, 몽골서 K뷰티 수출상담회…182억원 상담 실적",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTlWQ2FGck0zMXg1T1lQejlBeHZ6N3loT0pMSXJKS1AxQUNfT1k1dGIxUkRzdS1GTDlFNHRzNlFZbVFiZEdob2xnY3ZzM3ZkZ1RPNi16eE9QXzY1M3dXZm5DcFFQS085cE1lM1l4RkRpa1dUbFB1SVEwYVVTS01wQw?oc=5",
-          "source": "이데일리",
-          "publishedAt": "2026-11-25T08:01:10.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "현대홈쇼핑, 몽골 뷰티 수출상담회서 182억 규모 상담 실적",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiX05ORVVSVzIxTkhIeFl2cTRDaHhjZ0FDOGZjRG5nWW1BOTJYclY5akhucWlQX1pRaU9BaHlKUU5oWGYyTDJiN0FGSWdVMV9ENGllUS1HM0F5cFpkOTBsT2IzaU5YUW9KaGlN?oc=5",
-          "source": "내외경제TV",
-          "publishedAt": "2026-11-25T06:58:14.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "현대홈쇼핑, 몽골 수출상담회 주최…1354만달러 상담 실적",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1VxcmxjM0dsOEFLYjNxamE2dmVOMWJudTNWbllLUmJfM1dvRl92R28wN3AzcEVDSjc0VE5ia25pLU5pNU4zX21MNmNJaUV4eEFyRXJmLUlaWmdNQlpHa3FlSkhkTG9rSkl2Q19lRndCZmdWZ2gwZHBkdm9IN3FpbEM1NVp3N3BuTzJN?oc=5",
-          "source": "글로벌이코노믹",
-          "publishedAt": "2026-11-25T06:53:25.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "현대홈쇼핑 코아시스, 몽골서 K뷰티 수출상담회…182억원 규모 실적",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iNjJET2paVm5lMTRCWnB6X1hUOUY4WDRodFVvOXluUUtGNEhHQjZqUnl3RlNIOG1LbnNyQUhaRklmMUx6cm9mMmlxcFo5ZnpzOU5CXzFEQkR6d0tCNVlv?oc=5",
+          "title": "오늘 금통위, 기준금리 3%→3.25% 인상 무게…내년 추가 인상 신호 촉각",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xSnFpY244cXhQZ1NvYVljNnJXZFNHeVVYdDdfOG5MOEdBaUFDQlJ6bURDUEdGM3h2YXh1TlVzMzdMM3NVaFU4QU1GSUVPLXU2TjBlMw?oc=5",
           "source": "뉴스1",
-          "publishedAt": "2026-11-25T05:26:39.000Z",
+          "publishedAt": "2026-11-25T20:55:00.000Z",
           "kind": "news"
         },
         {
-          "title": "현대홈쇼핑, 몽골서 180억 규모 K-뷰티 수출 상담 실적",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aejB4b2RLdmZtall5d3prbDAzcWI0VUFFN3JsWEp5eW9HRTA1Sjl6SFJRZ0FBbGRsaEh4X09nR2g5b1lPa3NRWV9MNXRsU1BISlJvbzdB?oc=5",
-          "source": "헤럴드경제",
-          "publishedAt": "2026-11-25T04:52:54.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "하루 만에 뒤집힌 증시...코스피 5%대 급락, 매도 사이드카 발동",
-          "source": "KBC광주방송"
-        },
-        {
-          "title": "속보 코스피 4%대로 낙폭 확대...매도 사이드카 발동",
-          "source": "YTN"
-        },
-        {
-          "title": "코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려",
-          "source": "MBC 뉴스"
-        }
-      ],
-      "span": "11.23~11.25",
-      "days": 2,
-      "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 6,
-      "articles": [
-        {
-          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 무너져",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aTjlJN3pOa09VWENmWU5FX3RuRDdPMW8wTmZGdDRoRUNZN3k5SlRDT253dENMLTZQOWlhd091Um81V0NBWFJTdjhxbmNiQUxBTTVhRHY1M0tSLTg?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T08:01:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "하루 만에 뒤집힌 증시...코스피 5%대 급락, 매도 사이드카 발동",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmcmxTdEJDbU0yOVE5NVNldTBDc3hRd214aVBTd1pXOHNkeWJzVG15TWk5SDlzQ2xWY3k1YmxxbmRabG5aZ3dtV0EwTjZuRFVDNUhhalAxQl9oTENWb2Fabw?oc=5",
-          "source": "KBC광주방송",
-          "publishedAt": "2026-11-25T01:05:01.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "속보 코스피 4%대로 낙폭 확대...매도 사이드카 발동",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByN1dxZ1dwNUtKNzFqcnlSNXVjcjdDUU9oWFVlY1RJMENvMjNLM1hWdGJuMXhEOEcxT2tobENsazdESjhTZ2hhM1FpcVhxM1NBOF9EYjVSRjR6dDBIWlE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-25T00:14:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMDY3V0VKOEt3TFhFdkRJTWZzWlowbGFGd0hqQ0xycE54MGZNT2NIdm16cFYyZnhhSnZySVZBY0NQbmdMa2tzOEM0d1djcVlkb2hHaU1zaVZweFE3MW9id3NUcG5palo0Vko0aHlsYTNYaTh40gF0QVVfeXFMUGFldkQxVEhrMmZ5cFNQRDdybzJvQ1RwMjBsUElZNUc0WDlrYXRULTRKX0F6czk2dU5GNkc4ejkzVTRCV0FSQjVVZ3Z3T1ZPcjZYZExVaUoxcVVVWUxTUmRVZzI4ZjhqYnlpZHp5YndyUFVaMzA?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-23T02:36:35.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaRWNRdk1DM242ZU14d3RsM2lBU0VMQXNaajJsZHhkR3VPV3dPenZ1UGd1VnI1WC1HZUFuOWdhdUpWS0lja2R0OHBqY3JOVTFYMENuc3o4UWNIRWM?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T03:01:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 장초반 급락…매도 사이드카 발동",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYeDJRRkFza0lSZXJlbHBvQWFXM1BZV3hrWF9hR0J1TnRlSXFIT19idlR0MnpXeFhqVEMwbURJcmFwaFFLWEZiQlZkaDFRdmZ3SW9pT3U4RTJMcTA?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T00:19:00.000Z",
+          "title": "올해 마지막 금통위…금리 3.25%로 올리고 성장전망 상향할듯",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CcUl3WndXaWlmUjJPamRiTzdwTGVPWDlGaDBabWZuZTBnWkxLd2ZxUkNJd0I4N2lBT2lyT2NrVnk4YWlpSlFuUDFuX2g5dzFHdUE?oc=5",
+          "source": "매일경제 마켓",
+          "publishedAt": "2026-11-25T20:45:01.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "18년 만에… 증시안정펀드 가동 준비",
+      "title": "주담대 금리 14년7개월 만에 최고…은행 가계대출 금리 5% 돌파",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "'검은 월요일' 될까‥증시안정펀드 가동 준비",
-          "source": "MBC 뉴스"
+          "title": "은행 가계대출 금리 5% 돌파",
+          "source": "조선일보"
         },
         {
-          "title": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비",
-          "source": "주간조선"
-        },
-        {
-          "title": "‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
+          "title": "은행권 가계대출 금리 연 5% 넘었다",
           "source": "경향신문"
+        },
+        {
+          "title": "가계대출 금리 5% 돌파…주담대 15년래 최고",
+          "source": "연합뉴스TV"
         }
       ],
-      "span": "11.22~11.23",
+      "span": "11.25~11.26",
       "days": 2,
-      "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 6,
+      "hasPress": true,
+      "sourceCount": 7,
+      "articleCount": 7,
       "articles": [
         {
-          "title": "'검은 월요일' 될까‥증시안정펀드 가동 준비",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Kb3FCbUxBOXlnUDRtNklrT1k2ZHluTnRGM0VRMmlTOU10d2ZBWFFKaERNb1h0MEhaZkRzUTh0cklIM0R1V3NyZGxIYXVzVms5Wjd1VGpPb095U3hDMVViTTlNaERHMGRLVHM0R0ZIaGoyRWg5RG9seUNB0gF6QVVfeXFMUHFtMUdXRVBRQm5XWDFOQ0p5MlNpZS1zX0xaTHZ1QlNaSWNXTEJQZUgtSGVWbFFlcDN0ZjZTc0Y0ckRkbkl5SnY5NlBxanR4SVhlc1hJekdlb1ppSEdQcnRmUjktM1JPQ2dwS2xGR3A1ZUdMeGRpNi1WU0E?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-22T21:04:35.000Z",
-          "kind": "news"
+          "title": "은행 가계대출 금리 5% 돌파…저축은행 대출금리 10%대 재진입, 서민 이자부담 가중",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJQXRWUVNhWVZjNjZZcWZJZmYwV3lDeTdnUjgyeDAycWJXUUNwNXNHQ3lISTBNMkd6akV3UHJtcEI2Qy0tcFFxRE80ODVwMGtQcnRWN0dZc05CUVZlVWJtWGNDdWVrTEtDLUhj0gFuQVVfeXFMTmVxTWVIc0JyWm1sWldnbUkya2RPUUdONnBsRTE4N3BXVUZMdW4xZFJuVGhkUHRUSU52UjlOZUNWalZCd3RBdFoza2I5WElkTmdsSW42aXVJVllHS0tGM1FHaEMwX0RfLVVGQWprckE?oc=5",
+          "source": "제주뉴스",
+          "publishedAt": "2026-11-25T08:35:05.000Z",
+          "kind": "press"
         },
         {
-          "title": "18년 만에… 증시안정펀드 가동 준비",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXNQTFo1ZU1vOHlTSDNEdjFLdDZBeTdRUGtzbVVpYl9Yekw1LXVjMkpzSUZnRzFuLXBZcUNmcFBWNGNTU01oUkJucVZMZzdBbll5a09yS3ZUSFVPOFFVTTlUMG9kN1M5cXdIdDlyQlJrWnNqeVdINDh3c29lNWx4ay1uQ3FTNERtVFpr?oc=5",
+          "title": "은행 가계대출 금리 5% 돌파",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYVB5aWJfZ0RvbG5fcU5CZ1R3Vm9RMEIxRVF1bE5SOC1QaWw3ZjdCcXZSQmY1cDFvTzB0X1ktTmVvVVNoYVEzSUJYVExwOEp6Y2wzR2w0WHMxSFN2SlotZi15TUdXajZ0amw1OUF2ZXhlbi15ZmZ6X2VVbzh5NVRjTUp5RUZxM3hGLWVURzln?oc=5",
           "source": "조선일보",
-          "publishedAt": "2026-11-22T16:00:12.000Z",
+          "publishedAt": "2026-11-25T15:32:00.000Z",
           "kind": "news"
         },
         {
-          "title": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IdXdVMzlOVnViTW55b1hLQ1laT183aFpBWjc3YWcxNzIyZDlQcUhrUUxGSU14cDl5YThlMnBmLWdTVjRtcEhYRk5VbGpCZnA2MFNWb3Q2bDJyeXB5UjNRMC1hTkdobm1NOXN3?oc=5",
-          "source": "주간조선",
-          "publishedAt": "2026-11-22T15:55:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fc1M4OFVFVGFySHNLSll3RzNzRUlzeGtyRGlpYVdkSjEtcmREMVlkQ0JFdnlmVVFaM0diTE41TVh6OUt6dEdJMjI0aTBydXVyV2VNWW95SnZNd9IBX0FVX3lxTE9POW0xaFpfbm1uYzQ2Mzltbkxna2hYd3d4TGhfR1prZGpBTE1WeElHaG1aZjBVOTd6aVFaUzFiQkstT2gzSng2LWptWHFrR3dRSEFuYXpWNGVkZEV2QUc4?oc=5",
+          "title": "은행권 가계대출 금리 연 5% 넘었다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSkhzckwzb0ItaDBpU3JERThhQ0ZYQW5HUHlCVkdCd0pMeFpyZ3ZyZFZZN01xaVdFOUtUNkJWM0RYbHFlQnJvZkhfNHFDOFkwMXRpcXJ3MFp3dw?oc=5",
           "source": "경향신문",
-          "publishedAt": "2026-11-22T09:21:00.000Z",
+          "publishedAt": "2026-11-25T12:27:00.000Z",
           "kind": "news"
         },
         {
-          "title": "증시안정펀드 가동 준비... 2008년 금융위기 후 처음",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjBPTG5NSy1VTkI3cmUzc3g3UlhaRzlhc1UxelFsQXg4R28wdktMWkw0Wmc2WjIxekdWOWVqWTRHaUtSQk9yMzZDZjJPTHZFWG9KNU1LdVNFbEVSNTBFSFExZ0FIcV9pS1NjakI2bERaazhPZ0FRajBWSDZ4SklzZ2hoYXpzSGc2UjVlSWdB?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-22T12:26:10.000Z",
+          "title": "가계대출 금리 5% 돌파…주담대 15년래 최고",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUHZTSG1FSWUwMURDb1FZYnZOOUF6M21VT183c1laXzlxSVNyQjlYdGhUZ2hHQV8tNi1rQWVUaU91dDBsUE82aF9vSy1KbU1LSXJYLW13aEFQMG5JdGZRSDlXRXJCR0E?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T11:12:00.000Z",
           "kind": "news"
         },
         {
-          "title": "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DRkNyQmdrYUtGWWtrbEQtLW1qMk5vTXF0MFNQQVpRSzN1b00wcm1aZDVmbzdtNDdpRTBneWRqTzdnZnJyRzBRZldkNWZDSDZva0t2MFluRHljb19OcTZSNUJSckR5U1JDUFg3eGlCenI3TDUyTnFHQtIBeEFVX3lxTE1qS0NmaGMzOUFrTXM4Wk4tdWxzdXVQTDJNTzlPMHlwWlVYd19DbTlWQlVrWm5RVVhZelk2bHE2NEtXUmxUbjNOd3EtQng4OS1UZFZJWmlGdlNWRGNSS0tHTVhaSkplRXJJVGgxa2JlNTdBRmh6cmwydQ?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-22T11:04:48.000Z",
+          "title": "주담대 금리 14년7개월 만에 최고…은행 가계대출 금리 5% 돌파",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxcnpVeWlkeVBVa0RMdG9qNHdSdUtwV2JfcHhUajFVM0R3a0VreG1hdzcySXZfeWZQQndHbFFQd2g1czRTbmdzSWxqazJKMWlPME9vV3hMVm9Wdkk?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-11-25T09:28:56.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5INGZEWC1sQmRBRDFqUk5qV1ZWcWFTdmktN1UtUjFqU19iTzF6XzBoUGloRUFvemFWQXY2SWYxd0lMR2g4VG5oR1g0eUNGV3Y0cVVrWV9sWjhOUQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-11-25T08:45:34.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "미 USTR, 한국 등 14개 경제주체에 과잉생산 관세…’15% 상한’ 유지",
+      "title": "美USTR, 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합)",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
-          "source": "연합뉴스"
+          "title": "미 USTR, 한국 등 14개 경제주체에 과잉생산 관세…’15% 상한’ 유지",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "美, 한국 등 14개 경제주체에 ‘과잉생산 관세’ 예고…15% 상한 유지",
+          "source": "매일일보"
         },
         {
           "title": "미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지”",
@@ -508,8 +322,8 @@
       "span": "11.25~11.26",
       "days": 2,
       "hasPress": false,
-      "sourceCount": 3,
-      "articleCount": 5,
+      "sourceCount": 6,
+      "articleCount": 9,
       "articles": [
         {
           "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
@@ -526,6 +340,13 @@
           "kind": "news"
         },
         {
+          "title": "美, 한국 등 14개 경제주체에 ‘과잉생산 관세’ 예고…15% 상한 유지",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iTll1S0NBSW8zVGtNc2l4cFBaU0JIWnBHY2Zta05KRnBnbFRTdjJWRVUtQ2N4N2dsRHN6TXo3d2ZuNDBhM3NuQnpDWmNkemF2Qi0xNFBSdFNGdWl5OVdTRjhqalQ?oc=5",
+          "source": "매일일보",
+          "publishedAt": "2026-11-25T13:42:28.000Z",
+          "kind": "news"
+        },
+        {
           "title": "미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지”",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5od2xiQmxRLW16ZFV1aWxqTWJPcm96eWFNYkszak1RZ1FSbllpbkF2aC1FRHgyWDlqSjR4ZFo5N2NucUpSQlkwaDNtclR6U3Y3S3VqbGdoQkg5d9IBX0FVX3lxTE5OMzMyQmd2OW41LXB4VjNXLW4xVDNDNjFSMUpiT0JzeDV4TzBVYmhlazBtZkdVSF9KanAwbzBBSGtsRnUxclJ3OXJUNzFidkt6Unh0QURBbEdKSm5mU1Iw?oc=5",
           "source": "경향신문",
@@ -533,147 +354,344 @@
           "kind": "news"
         },
         {
-          "title": "美USTR, 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQUlFUzZGcUVUUHpQY1JKVXV4ZzAxZEFUWXBrU3NzS1ZOamx0TzdnemlFVVlOS1paTmNCeXF5aC03T05hc0NCUDQxZDl1cWNyb0lBd2h2eVhiWUnSAWBBVV95cUxOTmx6YjFscDVCLVFmX2M0NXVKQzBRbDk4Z3Q0UUR5Y29oam9DU29ydHpmT1UxSUI0TmFpejR5aXZCYmVRREZxWERNN2s4RXU5ZXEwSmszQmpROXJrdWVZT3I?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T15:08:32.000Z",
+          "title": "美, 14개 경제주체에 과잉생산 관세…“韓 15% 상한 유지”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tQmhtU0ZNR3FFbjdYbmhmdnZMY0YxR200bmJWU2FSMTdCNGRpNy1rd2JEakNlUnNPeTFYS1dFN1VIMExhRFRGSmtoNzMwY1pTWlN0Vkxn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-25T13:21:07.000Z",
           "kind": "news"
         },
         {
-          "title": "美, 한국 등 14개 경제주체에 ’과잉생산 관세’ 예고",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rVG42VFZKXzZ2N2tobVd3SDVPb0FEMUkycTZ0Wks1TG1rLWRqUUdvQzd5WW5mSWZGSFlBRU45b1VRVnE5ZE5kd0VrZkRWakppTGlFSF8zNVpxcllIZk9lLWl3UEJmWjQ?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T13:20:00.000Z",
+          "title": "미 무역대표부, 14개 경제주체에 과잉생산 관세‥\"한국 15% 상한 유지\"",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yaWVUMkk1cDVTTWVlbS0tZHZpOGFvSGc1MTA0anZ2ZjlYUHdSZlJuMFo1M3BqU0FHT2dzRjBHWVEwMHNvNnpwT2gtYlcwOUdkUGtoeG1uRmNyZ1dvT1BUZlBDdUdzejNTanFicnNvLUJyM1pr0gF0QVVfeXFMTkYtbnVtd3VVdW5OMnBtOGdPeVVHZWkyYzFfVGFBOTdIbm96T3RMWVUyOTRUZWw4MmsxSUc2NVBNeUdpREFWUzZpOWVaM0hiYVJaa01ad1Itc1JEendPLU03aFNRMmFoX1N6ZTBhZ2hnM084S1o?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-25T13:20:58.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "코스피, 반등 하루 만에… 6% 급락 4700선 아래로",
+      "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "코스피 6% 넘게 급락하며 4700선 아래로...‘삼전닉스’ 10% 폭락",
-          "source": "조선일보"
+          "title": "하루 만에 꺼진 ‘젠슨 황 효과’…코스피 6% 급락, 극한의 널뛰기",
+          "source": "경향신문"
         },
         {
-          "title": "코스피, 하루만에 다시 급락…5,000선 아래로",
+          "title": "코스피, 6%대 급락…젠슨황 효과 하루만에 소멸",
           "source": "연합뉴스TV"
+        },
+        {
+          "title": "코스피, 6%대 급락 4,697‥전날 급등분 모두 반납",
+          "source": "MBC 뉴스"
+        }
+      ],
+      "span": "11.24~11.25",
+      "days": 2,
+      "hasPress": false,
+      "sourceCount": 5,
+      "articleCount": 8,
+      "articles": [
+        {
+          "title": "하루 만에 꺼진 ‘젠슨 황 효과’…코스피 6% 급락, 극한의 널뛰기",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icS1KUFQwNWVsTVIzNFJLVFlMeTB2V1o3eERpcmFjQTFCR3RzREJ1TjhvbnJPMzJEZXgzSXhiQlFNR0hvWVUxanF4X3pDdUlQWlk5aE5QYUxNZ9IBX0FVX3lxTE01aTl6Rk1SeDRDWTJsdHdLVFloLW45WS1RQnBTSW9RVGRweWFHOFV3ZDFCZlR0eW9WeWxCQ2V3dkMzSzB3U09GeHo4UmVkU2s4a0pzVnQtTElJMS1fVGpV?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-25T12:21:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 6%대 급락…젠슨황 효과 하루만에 소멸",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50SHZPS2hudXQ1WDMwS3Q2LUVtX0xaM1ZTZW5YZUp0VWswLWZZVDJuYW05OUUyUld4WjhBR3dab1Y1eHNDcVcxU2NHcDZTNHNaV01RN2JzR2Y2QTJZZjBGMzh1cENEUW8?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T11:41:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96V3hHaUtzYzFpUExpNEo5X1Q1WFBkcHQyUUJvOHRaYkdFUG5hVmRLWUpmX09tOVowQVJtWE1ScENwTW04Wm10T3hBZW9WMUVzcHlscW1vSWNieE9JaXVvetIBYEFVX3lxTE96V3hHaUtzYzFpUExpNEo5X1Q1WFBkcHQyUUJvOHRaYkdFUG5hVmRLWUpmX09tOVowQVJtWE1ScENwTW04Wm10T3hBZW9WMUVzcHlscW1vSWNieE9JaXVveg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-25T06:37:38.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 6%대 급락 4,697‥전날 급등분 모두 반납",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aelVlR3AtaWZaNE44NjhOOVdVY2FXelJoUnZsUVdzS0tQQzhwU0ItWlVTUHVuems5UHRMaFptMGNBUUROMl9CMUtoTl9lTVBrcEdXSC1mX3lSYVZiVW05WXJWd1VHT0tVbTNNOVRjMThHNWpS0gF0QVVfeXFMTThaZzBOV29BUGkyU25aRTdUNnpjWXR2bUhfVVJ3dmR2ZHFxTlpQOExQM2NDRm80STlXaTZKRlE4bmR6cFBMR2lnQVBqTXFIRTlBQTktZW41ZFBqUWhvd2hVeHVZcktQdnJ4cmZ1Mk9xMF9WU3Y?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-25T06:35:15.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 6%대 급락 4697…전날 급등분 모두 반납",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPUzdBRG9CTVpwQ0c0WWl3V3RhcERKbnlpM0hLU3ZpZG92U1Z3UHJBV1RXNGVDN0kxaXZxZ0JSVk9jZEJlZG5kX3FLUlJuQXoxWGxEbm5n?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-25T06:34:33.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 하루 만에 6%대 급락…전날 급등분 반납",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1REVKZmkxRjk0TGpWVjdvXzJXd1F1aXpDWkVPN2hSNWUxVjZsR1EycnlicDg1dG9kN2dJY0dxZF9Zdnl6WHF5TVF4MkVLM0dLZThzTkc2YW9OVEtOaUNLOFc3Z3M2Nzg?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T07:08:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "‘일장황몽’ 코스피…하루 만에 5000피 반납, 나흘 연속 사이드카",
+          "source": "중앙일보"
+        },
+        {
+          "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지",
+          "source": "한겨레"
+        }
+      ],
+      "span": "11.23~11.25",
+      "days": 2,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 6,
+      "articles": [
+        {
+          "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T1Q0azJtRnRpMGVfQ3Bnb2FubG1wbE1TNDlnTkxkSEdoeTVEUDNCRzhjeGYxT2xkMU81eTVRZWtnUzVhck9QVzF5RE8wNlRDajFYUWUydWYwNGRJaGdBaWpUaDlYLTQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T03:03:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWaDlPclRuY01QMWw2UmV4blViSTNPa1lDSXVKUjh5RjJxZG9TLW5ZdS1TZDFpbFlTRENmeVZlT19lelgtcmZPQzBJWmQyX011TTYxbmppUUF1T2M?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T01:41:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘일장황몽’ 코스피…하루 만에 5000피 반납, 나흘 연속 사이드카",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aTJ3ZmFsamVweHJ5Qzc4RzFrX1dzTl9jN3laX09zOXQzYmgtNjA3azVEM0pZbUhfWWk4R0NOTEwzNlVXckpJZWhvaDQwLVVEWUZxMXBB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-25T01:21:13.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-23T06:13:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼전닉스 장중 7% 안팎 급락…코스피 하루만에 5000선 반납",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16bWtRUHRZMllRMFJ1SG11V3B2SVA1RjNBN215UmthNkdwZGRpcVFqWkk0SlQyRnZ2dXhUZ2w4elA2WU5yRGd2RUJwOUd3VHNOOExHR01R?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-25T00:10:11.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "4,700선까지 주저앉은 코스피…매도사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmcV9yWE1rRWs4eFkwTEZUMC1tZ0RuMEV4d1NxbnJaMzVzYlVXR1ZSVDd2QjRPNmV5ZmdDbmI0Njl6a0I5S1BuSTJzeVdXd0NTU2ZQUDZhMDdSN2dYWU9rTkN4Qm1HVU0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-23T07:10:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "코스피, 장 초반 4%대 급락…매도 사이드카 발동",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "어제는 매수, 오늘은 매도…코스피, 매도 사이드카 발동",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "코스피 4%대 급락 장중 ‘매도 사이드카’…하루 만에 ‘5천피’ 반납",
+          "source": "JTBC"
+        },
+        {
+          "title": "코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려",
+          "source": "MBC 뉴스"
+        }
+      ],
+      "span": "11.23~11.25",
+      "days": 2,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "어제는 매수, 오늘은 매도…코스피, 매도 사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHBQeU0xYUN4T0Q5VEZVV2JDLUg3Y1NzazF5SzBDRnRDb0RXMXUtU3BRNHdwS3RhT2hlNDctbG5iVDE5RGtIQzdjNDhaSHFBRUg5dnNFVGc5SkFDUl9YeDlGbzBLb0U5TnlxVk1MTm1MdEhSdFE0UlBPbjNhVjI4UFFBcjEzMGM10gGcAUFVX3lxTE83cFZKbU8tMVlGemlYRWJqMTVEYmtwYkZyVW80ZGJvMy00RFBqRFZOVWlWaE1IZUk2THV1NTdZNG5wd2V2NjY3Zm5JMHIzTkF2TVpDWnBFNWNGc0JuanctTG1TRHgwTVA5Q2hkV3NHV1hfYmtnSGFBaUgyd1BPWHB5VVNpTjFPUENBV2NoSHV6RTlRMDhIaW5VRDJJWQ?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2026-11-25T00:36:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 장 초반 4%대 급락…매도 사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04OTRrWl82R3lGS1ZpT3JrUHdCMVh0WlJzTlBlM0VlMkRWMGVYcHFYNDFBbS1fVWYxc3dpWlhuQnJBYVJTQnd5MWZPdXRNbUhSUXBfWU1PQXhCTjhieGdNUnR3?oc=5",
+          "source": "티제이비",
+          "publishedAt": "2026-11-25T00:29:46.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 4%대 급락 장중 ‘매도 사이드카’…하루 만에 ‘5천피’ 반납",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QQ2NMOGVSZlZXZWlBNzQ1RlhnWTdBWXotd2FZdE9TVGJlMTRhcVZ2OTF4MEdLRHFPTHU3Q2Rtbk5KQkh2WlI0RlNmZnUzbmFJTElVMw?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2026-11-25T00:11:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMDY3V0VKOEt3TFhFdkRJTWZzWlowbGFGd0hqQ0xycE54MGZNT2NIdm16cFYyZnhhSnZySVZBY0NQbmdMa2tzOEM0d1djcVlkb2hHaU1zaVZweFE3MW9id3NUcG5palo0Vko0aHlsYTNYaTh40gF0QVVfeXFMUGFldkQxVEhrMmZ5cFNQRDdybzJvQ1RwMjBsUElZNUc0WDlrYXRULTRKX0F6czk2dU5GNkc4ejkzVTRCV0FSQjVVZ3Z3T1ZPcjZYZExVaUoxcVVVWUxTUmRVZzI4ZjhqYnlpZHp5YndyUFVaMzA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-23T02:36:35.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "美 10월 PCE 물가 전년 대비 3.8%↑…예상치 부합",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "美 10월 PCE 물가 전년比 3.8%↑…예상치 부합",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "美 10월 PCE 물가지수 전년比 3.8%↑…예상치 부합",
+          "source": "뉴스1"
         }
       ],
       "span": "11.25",
       "days": 1,
       "hasPress": false,
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "articles": [
         {
-          "title": "코스피, 반등 하루 만에… 6% 급락 4700선 아래로",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zMkhsNFlNTXpmcjBkY1N5cERwVVgyY3R0M25wZ0JZVm9kelFkZFFKYnpKdGswVWFYRFBKSy1fa3lUdEpYN1JCRXhJMm5EZw?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-11-25T07:03:54.000Z",
+          "title": "美 10월 PCE 물가 전년比 3.8%↑…예상치 부합",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWliY25ZT2ZNU2daWE5tV2xQOWtTeUtKUExMMzdqc3BOelhLdFVzcC1wWEpRN29UUVhSOXh4dThIUjI3U1QxdnVwRF9RSmQ2LXM1aWJMa00xUnNJd25MN3R0Q2RaZ0VuaVg1V01TVVNTOWhZTGF2NmVjUnVZb0FDbkgzenfSAZgBQVVfeXFMUDlMUnk1UDNoOW4zdDh6SGVoNmtuM05MSTRsUlVCMWJHbTVRbzNZdUtqZmxDamo5WnBCckItSTExZzFnSGh0OWVPVzlDaWtldldsSFVlT291b1FqOGowTFZXMEFGQ21UNkFqVHA2dUdwSFRfZGhnRVkweDZUR2wteW9PZ1hsX2RxZEFhVGFELUJRSG1zdUR0WGE?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2026-11-25T14:53:00.000Z",
           "kind": "news"
         },
         {
-          "title": "코스피 6% 넘게 급락하며 4700선 아래로...‘삼전닉스’ 10% 폭락",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFc1U2c2ZXpLbFJEVzlhNDJmSFRueWY3SkJWV1ludFloQU1pdUFCMFFtM0RzT1U5SklPSUlvaXJ6UDN4eE5CNmN4TnFnajRxSmt5X0xNRG04ZHR4RlUtOVIyNlNieTZtZmx6SElQX3hqMElJLUVVLU8zWUhRV0hBTA?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-25T05:28:00.000Z",
+          "title": "美 10월 PCE 물가지수 전년比 3.8%↑…예상치 부합",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZR2pEVVpXMF9iNGhkLUljaEpVb0wzaWsxOVRYSUcyM2xZOHJCNjJPenhyRDNLRlhVenZ0eUE0UHg0RERtSU4wanppY2VpX2lvQ0xqemlWSUlIVUIyb0RVdlZxTlJtTDQ?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2026-11-25T14:03:22.000Z",
           "kind": "news"
         },
         {
-          "title": "코스피, 하루만에 다시 급락…5,000선 아래로",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FbVV1eVIxVTljNkc2ME5nMl90VW5lNVQtb0xBTFlybVMtVF9WQnlZM2FtTTNXQkVmNFFLUm1XWEQzU3ZaV3UzS1FXYUlyM0VVbGI3SmFUZi1EQ2NKX3BlMWxyd3haX1k?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T01:28:00.000Z",
+          "title": "미 10월 PCE 물가 전년대비 3.8%↑…예상치 부합",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xZlIzZFJQR1g2MEVBN1RfVjdGM2ZfSWxnRXdkZ1RCMlFxVS1iUGktZmRJQzVkNERKWkV2ek95WnJOWmQybEp4YmtuQUNacXlRWE1rdDZVSVlhbkXSAWBBVV95cUxQdTQ5aVRhVDAyODR1N0FuUHU4cDJidE5BQ21hQ3kxN0d4cUtRNU50VFlaN1pxUXhwb0daclZlLVBBM2ZFeThSbXcxOUxVdW1zLW5KUFo3OTlwdXFxVGwtS0o?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-25T13:50:01.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美 10월 PCE 물가 전년 대비 3.8%↑…예상치 부합",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jLUtoZUtZWGFYOUtPNDgyVmVEeG1uRUpmN2xzWE5VTFpPWGpFaDhjNm9QUlY1WnRVNFBiLU40LVRiTTlBMWNIQllHWmExaVJLN01iTEZGWS1SLUnSAWBBVV95cUxOamlGTFdpelktdXlWdkFtOERua0gyRVVyTjBHdnhMVlk2RE5mTUxMN1ZJYURZdHZXM2xQTENXYmVJaEZqa0s5V1plNEMtYjBGb2laUkNBMGg0YU9zTFlpblc?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-25T13:34:02.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "삼성전자 '역대 최대 실적' 반도체 힘 실었다...HBM4 주역 등 131명 승진",
+      "title": "한화호텔앤드리조트, 산업통상부장관상 수상 外",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "‘HBM4 양산·역대급실적’ 힘 실었다…삼성전자,반도체임원 70명 승진",
-          "source": "뉴스톱"
+          "title": "한화호텔앤드리조트, 사회공헌 프로젝트 산업통상부장관상 수상",
+          "source": "디지털비즈온"
         },
         {
-          "title": "삼성전자, 임원 131명 승진…반도체 실적 주역 중용·여성 역대 최다",
-          "source": "서울타임즈뉴스"
+          "title": "SKT, AI 돌봄 서비스로 산업통상부 장관상 수상",
+          "source": "팝콘뉴스"
         }
       ],
-      "span": "11.24",
-      "days": 1,
-      "hasPress": false,
-      "sourceCount": 3,
-      "articleCount": 3,
-      "articles": [
-        {
-          "title": "‘HBM4 양산·역대급실적’ 힘 실었다…삼성전자,반도체임원 70명 승진",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WOHdhZ3NCV09ySWRqMHR5YnA0bWlRc2tDU190Sm9UazF6azRsblFHcDBhWEtVaWdiLXMxRXJkVU1VVDlEVEkwREJzMVFIRTQ2X2llcXI0SllLc1NzX0E?oc=5",
-          "source": "뉴스톱",
-          "publishedAt": "2026-11-24T05:39:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "삼성전자 '역대 최대 실적' 반도체 힘 실었다...HBM4 주역 등 131명 승진",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMGZ0MGUyaWtlZ0RfZGk5eFd6cEFycnVIUUFlc190Z1IzcnJnQXFfSFpuZXJ0S29kYnJ3MC1Cc0VzWThOc2k4U2RtWk1KS3loYURCc205aU43NVpvQ0F3?oc=5",
-          "source": "MTN 머니투데이방송",
-          "publishedAt": "2026-11-24T00:22:17.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "삼성전자, 임원 131명 승진…반도체 실적 주역 중용·여성 역대 최다",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kdndsV1FabUZ0QjhNbFpYME9Fc29aNHBiUkhpVG11bWd1Q0RDdnZUSzZxcDBzUEhKWXU1V1ZEUTlSUFNTUHI3QmR1bzBaUFo3YUtibm1pQ3Ztd1ZucXZ6Ykl4SWptS0o3RVpR?oc=5",
-          "source": "서울타임즈뉴스",
-          "publishedAt": "2026-11-24T00:20:03.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "수출 연 1조달러 돌파…K-푸드도 역대최고 실적",
-          "source": "농민신문"
-        },
-        {
-          "title": "K-푸드+ 수출 122억 9천만 달러…역대 최고 실적",
-          "source": "BBS 불교방송"
-        }
-      ],
-      "span": "11.19~11.21",
+      "span": "11.24~11.25",
       "days": 2,
-      "hasPress": false,
+      "hasPress": true,
       "sourceCount": 3,
       "articleCount": 3,
       "articles": [
         {
-          "title": "수출 연 1조달러 돌파…K-푸드도 역대최고 실적",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNEtOc3F1eWk0em1HZU5IS04zYlVEbHpjVFBPNENQRUxaMS1paTB6cXRhOXNNdW5ZVHhPa0t5d1V2bVdiLWF6WGlxY3NHS3YwTTFpV3hpM2lZZw?oc=5",
-          "source": "농민신문",
-          "publishedAt": "2026-11-21T02:00:00.000Z",
-          "kind": "news"
+          "title": "한화호텔앤드리조트, 사회공헌 프로젝트 산업통상부장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yVXYyQWgtajdQbU8wZ0NzV3p0R0pTWk5HSGp1RkZvcFRqZjE1LXhDdzFFVU5HM21VQjN1RFJ6c053cHdTVGVyWEJfcHV0R3I2b3p4cVExWTNXd2lXX2tRelJfTjZmcDBEa01reVZ1b1NPUdIBdEFVX3lxTE56akdBVm10S3g0c19SUTVfRUY5RzRrbExnQUFyeWRucTBFTVdxNXhPWWk2Z2RyemIxc1N3R3hTSUR4R1ktd2JnZ1JKTEU1SWJ4NnJ5cGdXMDM3bkRjcmszYkdSSnVFZmNRVGVHUGJsNnJoWUFv?oc=5",
+          "source": "디지털비즈온",
+          "publishedAt": "2026-11-25T03:04:20.000Z",
+          "kind": "press"
         },
         {
-          "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XTmF2Q21xZmEzd05iZHZkQjJIV1FuRk1YcENWWWg4V2tyOVFYXzBRaUpmcnB3N1pRZFF5Vmx4QWpPbzRGVGdsX29FX3k5TGxjaGVubTNiNG0zX0lnSHNGQ01SRnZ1eTg?oc=5",
-          "source": "한국식품의약신문",
-          "publishedAt": "2026-11-19T08:18:11.000Z",
-          "kind": "news"
+          "title": "한화호텔앤드리조트, 산업통상부장관상 수상 外",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NdE00bjJLRnhLNHpfUC1fck9XckM4T19OTkExSFg4eDBmZVp1eEp4UGFwWEhscjdEWEZxUEdacU00ekFWNEpnMWd1aTFPdEItbWJMbUdwTjV6a3BlZGs2c1NMekpqUQ?oc=5",
+          "source": "싱글리스트",
+          "publishedAt": "2026-11-25T02:14:39.000Z",
+          "kind": "press"
         },
         {
-          "title": "K-푸드+ 수출 122억 9천만 달러…역대 최고 실적",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmaGdSVldUWTBXM0V5czhMdEJZdUdYSFRrRkJFZHkwMDFCXzE1YjNRaG5xX3Z6RU1mYzlCSVdER3BqMVVMR05GUFF5VmpWdTNpb1FabDZFQWl6UEJmaExCVFNtUTVwQkVEVnRj?oc=5",
-          "source": "BBS 불교방송",
-          "publishedAt": "2026-11-19T06:49:16.000Z",
-          "kind": "news"
+          "title": "SKT, AI 돌봄 서비스로 산업통상부 장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aXJIWWhEaHVLVnQ1NFkyWGxxcy1yRW1SR1RtZHhQOEJHSWZnNkRsdjhOTGhFMkh4czhXUklxUGVpb0VCZFY2X3hIQUtNNzBnS2MySHo1TncyZUItMmZZbUtfNF94M2Nodk1DUEZn0gFyQVVfeXFMTzF5bllYaEhfd0tvNXNEOFRFdlFTc3VsMURvT2FsSEd4VEgzUnptay1wVlpMUEJ0R002UDFQdDBSWXR0TlJDQ0FQZDR4UWt5Q215QWZOdkhxUXpXZXJOSjZWRUpSR0wyaVVaVXVVV3BBWjhR?oc=5",
+          "source": "팝콘뉴스",
+          "publishedAt": "2026-11-24T08:00:27.000Z",
+          "kind": "press"
+        }
+      ]
+    },
+    {
+      "title": "한밭대 공학교육혁신센터, 산업통상부장관 표창 수상",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "하승태 한국아이티에스 대표, 산업통상부장관 표창 수상",
+          "source": "보안뉴스"
+        },
+        {
+          "title": "한밭대 공학교육혁신센터 우수 센터 선정 산업통상부장관 표창 수상",
+          "source": "베리타스알파"
+        }
+      ],
+      "span": "11.20~11.24",
+      "days": 3,
+      "hasPress": true,
+      "sourceCount": 3,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "하승태 한국아이티에스 대표, 산업통상부장관 표창 수상",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fS1FoTnVXa0RJYWE5a3A1elVKcDRBVV9vZGJDMlJ5REZSV0Q0M25wZ1lMWl9iSXZyR3pwcnlRQ0lJV0RZcWY3eEJMZmFISVdiMzg3VUNNNGdQNnJ4c0JVWkw4czJkSUl3TWl3?oc=5",
+          "source": "보안뉴스",
+          "publishedAt": "2026-11-24T02:28:55.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "한밭대 공학교육혁신센터, 산업통상부장관 표창 수상",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tNXlZRVpYdS13RnhXcVM3NGd5N0VDdGNFTExSNDh3TUdaYXh2aDBiZWx0VGh6V1JDNHRPQzBsQjNQeURsbDhLVmxTeFh4dVF0WHZXbm5YbGpzdS1YZGNlV2tXUms?oc=5",
+          "source": "중도일보",
+          "publishedAt": "2026-11-22T04:01:10.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "한밭대 공학교육혁신센터 우수 센터 선정 산업통상부장관 표창 수상",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UY21kNmtmMmtVTC1idUNQQzhHdzE3VEwwa0NPMzBTUldXMXBTR0tXUFQxdXBYX1JEbnR1dWVBZDBPdGc1cmlZeEpEUUk4NHpPdlZQT0NRMFNZM0ZhejU2R2k1T2hJQTFBWDdTcw?oc=5",
+          "source": "베리타스알파",
+          "publishedAt": "2026-11-20T01:13:03.000Z",
+          "kind": "press"
         }
       ]
     }
@@ -681,35 +699,34 @@
   "timeline": [
     {
       "date": "11.19",
-      "event": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신"
+      "event": "한국 수출 사상 첫 '1조 달러' 돌파…독·미·중 이어 세계 4번째"
     },
     {
       "date": "11.20",
-      "event": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사"
-    },
-    {
-      "date": "11.22",
-      "event": "18년 만에… 증시안정펀드 가동 준비"
+      "event": "한밭대 공학교육혁신센터, 산업통상부장관 표창 수상"
     },
     {
       "date": "11.23",
-      "event": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락"
+      "event": "코스피, 하루만에 5,000선 아래로…매도사이드카"
     },
     {
       "date": "11.24",
-      "event": "삼성전자 '역대 최대 실적' 반도체 힘 실었다...HBM4 주역 등 131명 승진"
+      "event": "코스피, 6%대 급락 4,697…전날 급등분 모두 반납"
     },
     {
       "date": "11.25",
-      "event": "10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고"
-    },
-    {
-      "date": "11.26",
-      "event": "미 물가 상승 확대…12월 금리 인상 '기정사실'"
+      "event": "美10월 PCE 물가 3.8%↑…12월 금리인상 전망 굳어져(종합)"
     }
   ],
   "outlook": "",
   "press": [
+    {
+      "title": "한국은행, 오늘(26일) 올해 마지막 금통위...기준금리 3.25% 인상 유력",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JbXQzZ0pZVHplaTAtTjVjMzE5MGtHLTRtRjRzRGRsdlNnSkFRX19maW1UM1JhdnBPRzlOWUJNMkRDQWN2Q3VuM21KeXcxQUsya0gtXzB5T0RSTjQ2b01UQnZDaHYzdw?oc=5",
+      "source": "싱글리스트",
+      "publishedAt": "2026-11-25T22:48:06.000Z",
+      "kind": "press"
+    },
     {
       "title": "2027년 재정경제부 예산안 및 기금운용계획안 - 카드/한컷 | 멀티미디어",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlMxVVlWclEwMzBHTE5tS0F0QzZ4VVBfaU44Y1VYVFVVOXUyM1hqYXpIeUc0OUNGeWd4djdocDAzSGc0SDRYNDRPS29Cd0ZhdDNEeU1LbmxfdV9UMkc1NVk2QjNoTU1wY3ZXcnJOaW9rRV9nRnhxd1FoNUFVbHl2TnRaOHFIQXZkbHpV?oc=5",
@@ -718,17 +735,38 @@
       "kind": "press"
     },
     {
-      "title": "금융위원회, ‘전환금융 모범규준’ 발표…저탄소 기업 지원 본격화",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByQkR0ZHFfdHh1aURCYmlTNjZocjhfRWVmMVhNYk1sbmFsWG1ET0RMZG44NXhaVTNSMnpkSTBvUURCcWc4bTVNeGQxbk93T3pHdU9ocmVZa0lBaFMzSEFQXzZHaTk?oc=5",
-      "source": "https://www.ppss.kr/",
-      "publishedAt": "2026-11-25T13:36:34.000Z",
-      "kind": "press"
-    },
-    {
       "title": "금융위, \"자본시장 개혁 전담기구 구성, 회의일정 결정된 바 없어\"",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NVXlXcjhJdm50SUV3SFo3ckR0WlpDbXl0d1M1SjFjZ2xXQktBeXd1VXpFTGxTWmtzTU1YV1lZRmx3S194QnRtN0NZMmU2ZkVxRWkwT05RV1FlYzdCRU42MXp4dFlHNnBXQWc?oc=5",
       "source": "Daily NTN",
       "publishedAt": "2026-11-25T11:20:39.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "최장 5년 거래 제한 추진…금융위 거래 금지 조치 받은 디지털자산 혐의자",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oVkc1RlVDZ2Nid3dVci1oR0ZVZTNLMHZ5bkM5RE50WEZZQVl6RnNaT0ktQnJ1eEs5RUdxY3c1WllWd1l4eU05MWRJN3I3MFFXUU04XzR1Um9BcTV5WFHSAV5BVV95cUxPaFZHNUZVQ2djYnd3VXItaEdGVWUzSzB2eW5DOUROdFhGWUFZekZzWk9JLUJydXhLOUVHcWN3NVpZVndZeHlNOTFkSTdyNzBRV1FNOF80dVJvQXE1eVhR?oc=5",
+      "source": "토큰포스트",
+      "publishedAt": "2026-11-25T10:27:55.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "금융위 디지털자산법안, 거래 자문을 운용업에 포함",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01c1lsWUtneENXMzdERTdoU0FpcVlYQTFmd1RXY1pfd09HQkRhMmJ1aGxIbm9QdDdZREJmeUlMWUo4LVJGanA1bzlmMk5iZlFTU0NSUGl6Rm3SAV5BVV95cUxOQ1ZRYmduVm9xMzhXbXB4U3AyZUh2MUsxWGc3Q1NEOF93R1lwRE04NkNEbDl2UmtCR2VteEphUGxKWXlZbnlqeFdKb1ZIbkZpVTJMbm1WelVGQzVFY3l3?oc=5",
+      "source": "토큰포스트",
+      "publishedAt": "2026-11-25T09:19:29.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "은행 가계대출 금리 5% 돌파…저축은행 대출금리 10%대 재진입, 서민 이자부담 가중",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJQXRWUVNhWVZjNjZZcWZJZmYwV3lDeTdnUjgyeDAycWJXUUNwNXNHQ3lISTBNMkd6akV3UHJtcEI2Qy0tcFFxRE80ODVwMGtQcnRWN0dZc05CUVZlVWJtWGNDdWVrTEtDLUhj0gFuQVVfeXFMTmVxTWVIc0JyWm1sWldnbUkya2RPUUdONnBsRTE4N3BXVUZMdW4xZFJuVGhkUHRUSU52UjlOZUNWalZCd3RBdFoza2I5WElkTmdsSW42aXVJVllHS0tGM1FHaEMwX0RfLVVGQWprckE?oc=5",
+      "source": "제주뉴스",
+      "publishedAt": "2026-11-25T08:35:05.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "예보, 금융위·금감원·한은과 SIFI 10개사 첫 RRP 연계 합동훈련 실시",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90VXJVc0JyQ1Q5U2FqcktvYUFZZi1rV3pxUk82YngtT0JiMEpGWEtZbWJLX2NsZzRqX25qZ2NCd0FRZjhwNXhkakFMVGdUZ1pDbi0xMFRmN3V2TldJN2dpcjNndm8tQ2x0cGFz0gFvQVVfeXFMTUEyS2E3NWRfckpHb0Z5eE14dWdOeEpCVFU3V1JEOVNJMVZHbGl0MHp0ekVRN2tpVk9FZ1dUOW9obHBzejA5SHRIVER0Zk5XUEFjdDNRTXRtcEp6eG5EczBUTWsyUG5DNEZma2hhVFp3?oc=5",
+      "source": "펜앤마이크",
+      "publishedAt": "2026-11-25T06:00:00.000Z",
       "kind": "press"
     },
     {
@@ -746,57 +784,29 @@
       "kind": "press"
     },
     {
-      "title": "한화호텔앤드리조트, 중증 환아 가족 휴식 지원 사업 산업통상부 장관상 수상",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mYlF2RjF3c29PVy1sVzRjbl9OQk9lek1lVk0tYWRmYnVNV3JRdmtkTlZxcllQWW1xaUUwRF9iMUtrY2ZxVlJ2dkI0UUdvc1VVbHlkdmtYWWFSSnBYOUxONlREQU5heXY4NUZ2RkdB?oc=5",
-      "source": "뉴스후플러스",
-      "publishedAt": "2026-11-24T22:37:13.000Z",
+      "title": "한화호텔앤드리조트, 사회공헌 프로젝트 산업통상부장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yVXYyQWgtajdQbU8wZ0NzV3p0R0pTWk5HSGp1RkZvcFRqZjE1LXhDdzFFVU5HM21VQjN1RFJ6c053cHdTVGVyWEJfcHV0R3I2b3p4cVExWTNXd2lXX2tRelJfTjZmcDBEa01reVZ1b1NPUdIBdEFVX3lxTE56akdBVm10S3g0c19SUTVfRUY5RzRrbExnQUFyeWRucTBFTVdxNXhPWWk2Z2RyemIxc1N3R3hTSUR4R1ktd2JnZ1JKTEU1SWJ4NnJ5cGdXMDM3bkRjcmszYkdSSnVFZmNRVGVHUGJsNnJoWUFv?oc=5",
+      "source": "디지털비즈온",
+      "publishedAt": "2026-11-25T03:04:20.000Z",
       "kind": "press"
     },
     {
-      "title": "민형배 시장, 내년 국비 확보 사활",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wSFRJWXdIdWZLRzYwVkdwUWNIWkRBcnQ4ZWlEdmVvMC12UUc2aU9FRjMwN1FNRzA2UWR0RnlhU1VHTjkwaTJDR2x1czFBMVhqZVdUTmxZd010SVE0V09TQXUxT3ZlNUprV1IxQmY2TUY5b0HSAXdBVV95cUxOZ1hkQUZBX2xxd0ZMSklwVUFmV1NJYjRzbzZpT1d6QnVrR3dmdnQ0SjE1RGxNU1lvazhybzNUSnlMVHM2TDBxRHJxRndIM05wamFmb2ZPR0c0Sk16TDJaZWtWWXoxVkY3eDNxNnl6eWw3SjY0UlpCVQ?oc=5",
-      "source": "스트레이트뉴스",
-      "publishedAt": "2026-11-24T15:57:46.000Z",
+      "title": "한화호텔앤드리조트, 산업통상부장관상 수상 外",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NdE00bjJLRnhLNHpfUC1fck9XckM4T19OTkExSFg4eDBmZVp1eEp4UGFwWEhscjdEWEZxUEdacU00ekFWNEpnMWd1aTFPdEItbWJMbUdwTjV6a3BlZGs2c1NMekpqUQ?oc=5",
+      "source": "싱글리스트",
+      "publishedAt": "2026-11-25T02:14:39.000Z",
       "kind": "press"
     },
     {
-      "title": "독거 어르신 돌보는 AI, 대국민 투표 거쳐 ‘시슐랭 스타’ 됐다",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NN1VqdXg3N2dweENwNXMyNFVxNVRpU3BaR1JveFVtVUtrNnk5R0FaS0JaTEtsZERqYlNSM3d2TTc2N3FXWWZSVg?oc=5",
-      "source": "SK텔레콤 뉴스룸",
-      "publishedAt": "2026-11-24T08:01:24.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "스테이블코인, 은행권 과반 컨소시엄부터 허용",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeVJOY19maGF1X3AyWUZiN2lRSzRfU2g3RG5BdXdtN1E2NUV5XzdRbVk2NTczNG1VVVJrWFRzMnY1Z0dTX1pGRThsYUtxVEUyOWJnNDl4SENFMmVkandVRDlDWGJLcHpFN2JQXw?oc=5",
-      "source": "DFT 대한금융신문",
-      "publishedAt": "2026-11-24T07:20:10.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "NH농협캐피탈, 글로벌스탠더드경영대상서 산업통상부 장관표창",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Eakc3X2pzZXRManAyMmdXbXBKb3oxZnBVS3Vmam5OZkhvSTJzTktxRDQ5cDdhMndQVnhQMjFITGxmczdiN3ZFaHZkNFhpWWliR1k5eEY3RzhYNnEtX3VhVDlXcXVSdGhoU1p3RQ?oc=5",
-      "source": "중소기업신문",
-      "publishedAt": "2026-11-24T04:50:00.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "하승태 한국아이티에스 대표, 산업통상부장관 표창 수상",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fS1FoTnVXa0RJYWE5a3A1elVKcDRBVV9vZGJDMlJ5REZSV0Q0M25wZ1lMWl9iSXZyR3pwcnlRQ0lJV0RZcWY3eEJMZmFISVdiMzg3VUNNNGdQNnJ4c0JVWkw4czJkSUl3TWl3?oc=5",
-      "source": "보안뉴스",
-      "publishedAt": "2026-11-24T02:28:55.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "국토교통부는 철도안전을 최우선으로 사고·운행장애 최소화에 지속 노력하겠습니다.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xUDBXZTVfNTdRRVVlU0l6SkQ4YkxEZldoczgwWjZDaUhKUW1VelZfekZLYkJKSUZDdjdOQllPTDdNaDhBMXNBWnNOd0c0bldVdUd1LUt3MTBGckZobngtcFpmdlFfUGgtVVgtVW9WYw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "publishedAt": "2026-11-23T13:53:00.000Z",
+      "title": "한국은행 금통위 앞두고 외국인 국채선물 대거 매수…“이번이 마지막 금리 인상?”",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veldILXp5RG14bHB4a1FKSDc2UmZoVDl2ZVRUdEtmblR1ajAtOHh1T0dMSXQyOGVrSGhfUXhJTkFjYkJWNWdTcC1xX0dXSGxhZ2FyQ19BUDRjTFpTUUNaUDJBbF9BUjZS?oc=5",
+      "source": "키즈맘",
+      "publishedAt": "2026-11-24T23:16:02.000Z",
       "kind": "press"
     }
   ],
   "stats": {
-    "articles": 295,
-    "sources": 107
+    "articles": 347,
+    "sources": 128
   }
 }
