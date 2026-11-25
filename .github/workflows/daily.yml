@@ -1,0 +1,74 @@
+name: 뉴스브리핑 매일 업데이트
+
+on:
+  schedule:
+    - cron: '23 20 * * *' # 매일 05:23 (한국시간) — GitHub 사정으로 수십 분 늦을 수 있음
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '실행 종류'
+        type: choice
+        options: [daily, backfill]
+        default: daily
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: newsbrief
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-5-5' }}
+      NAVER_HUB_KEY_ID: ${{ secrets.NAVER_HUB_KEY_ID }}
+      NAVER_HUB_KEY: ${{ secrets.NAVER_HUB_KEY }}
+      NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+      NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+      LONG_REFRESH: ${{ vars.LONG_REFRESH || 'daily' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 생성기 설치
+        working-directory: generator
+        run: |
+          npm install --no-audit --no-fund
+          # (선택) AI 요약 키가 등록된 경우에만 SDK 설치
+          if [ -n "$ANTHROPIC_API_KEY" ]; then npm install --no-audit --no-fund --no-save @anthropic-ai/sdk; fi
+
+      - name: 지난 3년 월간 자료 만들기 (처음 한 번)
+        if: github.event.inputs.mode == 'backfill'
+        working-directory: generator
+        run: npm run backfill
+
+      - name: 오늘의 브리핑 생성
+        working-directory: generator
+        run: npm run daily
+
+      - name: 결과 저장 (archive, web/data)
+        run: |
+          git config user.name "newsbrief-bot"
+          git config user.email "newsbrief-bot@users.noreply.github.com"
+          git add archive web/data
+          git commit -m "브리핑 업데이트 $(TZ=Asia/Seoul date +'%Y-%m-%d %H:%M')" || echo "변경 없음"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: deploy
+        uses: actions/deploy-pages@v4

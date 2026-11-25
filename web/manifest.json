@@ -1,0 +1,26 @@
+{
+  "name": "뉴스브리핑 — 노동·정치·사회·경제·해외",
+  "short_name": "뉴스브리핑",
+  "description": "노동·정치·사회·경제 뉴스를 단기(1주)·중기(6개월)·장기(3년)로, 해외 뉴스를 지역별 경제·전쟁·정치로 매일 정리합니다.",
+  "lang": "ko",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4ECE1",
+  "theme_color": "#3E2717",
+  "categories": ["news"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "노동 단기 브리핑", "short_name": "노동", "url": "./#/domestic/short/labor", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "경제 단기 브리핑", "short_name": "경제", "url": "./#/domestic/short/economy", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "해외 브리핑", "short_name": "해외", "url": "./#/world", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "보도자료", "short_name": "보도자료", "url": "./#/press", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

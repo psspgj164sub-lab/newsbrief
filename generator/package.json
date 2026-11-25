@@ -1,0 +1,20 @@
+{
+  "name": "newsbrief-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "뉴스브리핑 데이터 생성기: 수집 → 이슈 묶기·키워드 분석 → 단기/중기/장기·해외 브리핑 JSON 생성 (API 키 없이 동작)",
+  "scripts": {
+    "daily": "node src/run.js",
+    "backfill": "node src/backfill.js",
+    "sample": "node src/sample.js",
+    "check-sources": "node scripts/checkSources.js",
+    "serve": "node scripts/serve.js"
+  },
+  "engines": { "node": ">=20" },
+  "comment": "AI 요약(선택)을 쓰려면: npm install @anthropic-ai/sdk 후 .env 에 ANTHROPIC_API_KEY",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "rss-parser": "^3.13.0"
+  }
+}
