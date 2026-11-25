@@ -1,0 +1,414 @@
+{
+  "month": "2025-08",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:32.256Z",
+  "articleCount": 246,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-08#t0",
+      "title": "구윤철 경제부총리 \"코스피 PBR 10\" 발언, 개미들에 '뭇매'",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "구윤철 경제부총리 \"코스피 PBR 10\" 발언, 개미들에 '뭇매'",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6SWwyTk9wUy1VVFFoVHVnYlNYNUxiZ1pkOFNDWGstYWl6NlBXNm4yMmFqYkpVMVc5MkQ4NEZfQms1RktveWhLcURGRWd0YkdmVTRTMTRVVU1fQ2NzdUE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-08-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "구윤철 ‘코스피 PBR 10’ 발언에 뿔난 개미들 “증시 너무 몰라 참담”",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0xGZElMWHJoVjNFcU1DNmltQnRjN1ZWdm1UR3prR2pCak5zNmpDYUFjQlBnUFJCU2lpcnZwdVRnejZuWHZ3N3p4d0huOVExZ2pqdmkwd0JEVnlsck5SajIzT1haaGxrZzNDRHdvdW1Db2dfWE1DODdiTHcyM3lWMkF1cV9VUjVxSk5iTGFGLW0?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2025-08-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"코스피 PBR 10배\"…개미들 화병 키운 구윤철 부총리 답변",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jeHVIZmZWSlduRXpsZmR4TW8ybEVxZndMaTY0M294M0I3ZTl1bzUzUmN6cVduWkptM2lhV3hlcHR0SUdyWnZoa1c4QVFuSG1MSnhZclFR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-08-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-08#t1",
+      "title": "‘화순 폐광지역 경제진흥 개발사업’ 예타 통과",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘화순 폐광지역 경제진흥 개발사업’ 예타 통과",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dXVGVFBoYW5wZm41Yk1fS1FqNC1SUzZoeWVXTFFNQlp5ZlRSN0lzX0dkSnlKcHVZSVY2M2FkZFE2VDZhV3A4bEdaWjV5VEdLRHY5b2NObnIydlE?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-08-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'포스트 마이닝' 빗장 열다…강원 폐광지경제진흥사업 예타 통과",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51X0E0WGFtOG5oWFliSWhaZi1JdjBRMklQdzU4dXdvTEJSLUpuVWxsZUY5a0VtYW5rTDkycDQtTC1yN1NCeEJjMm53WWlnXzY0SEQ4Q2FVZkt0d0nSAWBBVV95cUxPY0hMYmZYZEF4TXZFT0pLUUdoSUxWdi01Y1FxNmdHQnptNE1QZF94d1Rtd2J0TTRMTDAzTnA2V19yaHF0QTRjT2NzTjlkcUNNMHlUWlBydkFZdWQ1dVJkZzY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-08-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘화순 폐광지역 경제진흥 개발사업’ 예비타당성 조사 통과",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ieDBWekNlTVZ4MUc1N0MyeHYwblpwbFpDYTBqT3BlQVFmQ1hVMDU2NUNFbFZJai1rTWcya3lMbk9uTF9IYlFKOUZFMUlMY0VXME1xWWVxaDBoSUE?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-08-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-08#t2",
+      "title": "한국 경제 반등하나…“내년 1.8%, 내후년 2% 성장” 전망",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한국 경제 반등하나…“내년 1.8%, 내후년 2% 성장” 전망",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wMVpzSmZjZng5Q2NMMndiTzl4Y3B0X1VZYzV3ODQ0ZEpvbDFScnY0R3VJZnI3d29qaERUejc2RG9tLVVXaC1Rd284aHVQdVY3TVNwblpB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-08-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "韓경제 바닥 찍었나…국내외 기관 \"내년 1.8%·내후년 2% 성장\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTNER6UnViUEZmQk9wV25PREt3TWRnc3UzU3FMdG9ELVQtZ0Q0TVVDMFZNZ0w2R1poVUtwM0puNlQxazFJRmFEQnR1RDUzakNCeHozUlktOWFKS0k?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-08-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-08#t3",
+      "title": "기준금리 변동 추이",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "기준금리 변동 추이",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85UURiWTUxUTFtMDhFdy0wcGVtVm9iU3pHU1NZR1R4MHBTSENzTHdMUjQ0cGV6b2dYcWRXUERuMlh4bmFvNnFMRktSSQ?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2025-08-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한미 기준금리 추이",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PLVAtRko1M2xIXzZKeFpWcDV4WGd6VUhQakVxamQ4QUtsUXJuNkVBYldJaU1MX3RpekVCODZGVlF4NHk1aTFfdjQ3ZEJmR1B5bWJsZmtVUWV2NzhUVzl1djc5OTJSZE1acEZ6cnFqVjVFRzdPelg2Tg?oc=5",
+          "source": "티제이비",
+          "publishedAt": "2025-08-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-08#t4",
+      "title": "경기도, 용인 반도체국가산단 일대 부동산 투기사범 23명 적발",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "경기도, 용인 반도체국가산단 일대 부동산 투기사범 23명 적발",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1peERUSnV0WVI4aUN3Q29ZUjBqZGFRUm5oQ0I4YmFadUhFRjVJbGhfSTRLVlFEdVhfR1pSeE1RaFJ2WEwzX2kzUnVRWXYxYzFLYmU0SDJ4N2RsVE3SAWBBVV95cUxPTmdkcGxMTnJXNWRSX1RaR0F0dHFWR3lGMGQtVDRRRjgtSXNEUTVBaFAzMzZaRWZtcEp5UFQzTkJOdXltS0puNHZlSWhfVlVPQVJhWE95eGoyWkhBMXN2R3k?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-08-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'용인 반도체 국가산단' 부동산 투기사범 23명 적발…134억 불법 거래",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qVjQ4SG45em5Vb1RiXy00NHo1NDZYMGN2V01BaUtsd1V4OHQ1ZjlMWkVqMkVqbTR6RFBrVDYxZjQ2MzVvYXV6OUNDY1g3X1hjQUxyeE5R?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-08-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-08#t5",
+      "title": "외국인 ‘부동산 쇼핑’ 규제… 실거주 안 하면 수도권 집 못 사",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "외국인 ‘부동산 쇼핑’ 규제… 실거주 안 하면 수도권 집 못 사",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXZZaVE1cmpmTWJqaVFhWnQwdk1oOWFEMF9XT2RJajZZbTI4MFRscnZQYy0yTmZzb3pDQ3owYkJ3OTNtZGgzZVo0TU5jV3FaZHVLUnh4RFhHb01YZURXTk9nbUFVbVVHSFNTb0pMYVdLQU5hMGdKOThIQ3lBOS0xWTZ5dGpTSllf?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2025-08-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'외국인 부동산 쇼핑 멈춰'…실거주해야 주택 산다",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RdmNrd0hZNk1VWm9oeC1CRWRwMlNaNU85Yk4yWWpUc1hrMGlBcUkyR2FJN0ZOU1pibVBJcktSb2tIOHhnVEk3ejFRY3pGR01TdWYxVDFuRkpYNVUyeGJwUHp6d3NBQWpNNUhoREhEU2s?oc=5",
+          "source": "비즈워치",
+          "publishedAt": "2025-08-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-08#t6",
+      "title": "분석/ 2025년 상반기 해사기업 경영실적-조선",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "분석/ 2025년 상반기 해사기업 경영실적-항만하역",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OaE5NZFlWSEZ6YmtYTlBYU3dfZlZaWXdLTjFHZGUwRjdUVFROLTUzRm81Q3Z0bmFzNzJCcGFDN1dXUjlSQ1RfaFFIbndqZmRMRnUwRU8tVms4eHRFdXFGT1pxNjg1WE84T2VYRVJqUUpRMkRWVDJ4aVV3?oc=5",
+          "source": "해양한국",
+          "publishedAt": "2025-08-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "분석/ 2025년 상반기 해사기업 경영실적-조선",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhb2VsNGF1RlFFR0dZcUREeGszNVJiQjVuYVhMRV9WMDQxOGtLcXlFYjBhbUNMTWpJMHhXTzZna0lCNzRQazl1bjl5cUpUX2xaSjROY2dZSnJBU21lT1pWeENlWV9PTmNMS0FPZGJ6WUtGOUpsRlM4SWZB?oc=5",
+          "source": "해양한국",
+          "publishedAt": "2025-08-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "분석/2025년 상반기 해사기업 경영실적-외항해운",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pM3ltSlZ2T05Dai1IUE9SckVqQVJqeENjY3pOQWxmNUcwNzhwQVB0dWZiWGxfVXJwNUpzSXJTUjdhTldtSlBRWTRGcEJkNldqaFQ0NjRYREZaYmZPSVFDaW1fbXJvYzhRNnc5SUh3V1A5a08xblV4aUhn?oc=5",
+          "source": "해양한국",
+          "publishedAt": "2025-08-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-08#t7",
+      "title": "프로젝트 리츠 관련 부동산투자회사법 시행령 및 시행규칙 개정안의 주요 내용과 시사점",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "「부동산투자회사법」 시행령 개정안의 주요 내용 및 시사점",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQSk0zZ1NVRm9qaXA4NVlBVFNxNHU4Uk9sTUxrNllWa3QtOHJqSURIOHp0ekd4T2xRSHVYNi01Y3kxZnhLWkVoR3o3RU4xQ2ZWOWdiSXdGeGhJMFpHYUd2dUtEMWhtZ2E2M3RlX3hR0gFyQVVfeXFMTjhiTzNWeWJYdlBEb1ZYaVVBZ0FpalVZNlNqUXJoVDRJdlZNQmJLcF9hUUk0Sm51ZzdRMUttaXRzU003a3ljbnR1MkYzZ3F3Nm9fUjBTcVlZRlVJSF9ZdXJwRzVWR2llWmgwRzBacjU5ejdn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-08-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부동산투자회사법 시행령 및 시행규칙 개정",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96eHhyR1pXY3JqUXR4Smp3VUN6Vk5fVGZkS0x1ai1naWZKcUFmbGpOVC1UTHBpZmJHTTdPZ0ZicFZ4QWpmSXFJbWw5MGF5NWQxeTZKVmwxQXZycHF3YWZXdkNTQlZPVWk0aUlKbnhR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-08-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "프로젝트 리츠 관련 부동산투자회사법 시행령 및 시행규칙 개정안의 주요 내용과 시사점",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fejhCUTJ6UDdhSzg4VmxKWlRDX3VqWU5EWHRuTDRndldjXzhLb2NfUzZrY1ZqeFFFaFk2SDBpWnZBejFMajhvd1ZCYUd3VlpieEZJWXFMNVVtbFdUbWlNeUd5eHpwdFctSXRMNE1n0gFyQVVfeXFMTjU5aFhPUkdPQzRISVM0ZFJJMEFFZnVtTVhENzdRNU40X0ZETENPbm83Mmo0anhSUDBhN3JMcUtzU2x0ME43OE5nanVvOTZ5TW1OM1RaaXJ0WVFVZDdUM3czY1Y5TWxPR0hsVk9KdUhRMUJB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-08-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "상반기",
+      "count": 20
+    },
+    {
+      "word": "기준금리",
+      "count": 10
+    },
+    {
+      "word": "상승",
+      "count": 8
+    },
+    {
+      "word": "정부",
+      "count": 8
+    },
+    {
+      "word": "매출",
+      "count": 8
+    },
+    {
+      "word": "사회연대경제",
+      "count": 7
+    },
+    {
+      "word": "한국",
+      "count": 7
+    },
+    {
+      "word": "최대",
+      "count": 7
+    },
+    {
+      "word": "투자",
+      "count": 7
+    },
+    {
+      "word": "상장",
+      "count": 7
+    },
+    {
+      "word": "AI",
+      "count": 6
+    },
+    {
+      "word": "정책",
+      "count": 6
+    },
+    {
+      "word": "외국인",
+      "count": 6
+    },
+    {
+      "word": "영업이익",
+      "count": 6
+    },
+    {
+      "word": "달러",
+      "count": 5
+    },
+    {
+      "word": "연속",
+      "count": 5
+    },
+    {
+      "word": "한은",
+      "count": 5
+    },
+    {
+      "word": "인하",
+      "count": 5
+    },
+    {
+      "word": "성장",
+      "count": 5
+    },
+    {
+      "word": "머니투데",
+      "count": 5
+    },
+    {
+      "word": "주가",
+      "count": 5
+    },
+    {
+      "word": "기본법",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "전략",
+      "count": 5
+    },
+    {
+      "word": "PBR",
+      "count": 5
+    },
+    {
+      "word": "하반기",
+      "count": 5
+    },
+    {
+      "word": "돌파",
+      "count": 5
+    },
+    {
+      "word": "코스닥",
+      "count": 5
+    },
+    {
+      "word": "미국",
+      "count": 4
+    },
+    {
+      "word": "최고치",
+      "count": 4
+    },
+    {
+      "word": "동결",
+      "count": 4
+    },
+    {
+      "word": "집값",
+      "count": 4
+    },
+    {
+      "word": "파월",
+      "count": 4
+    },
+    {
+      "word": "발언",
+      "count": 4
+    },
+    {
+      "word": "기대",
+      "count": 4
+    },
+    {
+      "word": "구윤철",
+      "count": 4
+    },
+    {
+      "word": "베트남",
+      "count": 4
+    },
+    {
+      "word": "주요",
+      "count": 4
+    },
+    {
+      "word": "이재명",
+      "count": 4
+    },
+    {
+      "word": "시대",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "08.20",
+      "event": "구윤철 경제부총리 \"코스피 PBR 10\" 발언, 개미들에 '뭇매'"
+    },
+    {
+      "date": "08.22",
+      "event": "외국인 ‘부동산 쇼핑’ 규제… 실거주 안 하면 수도권 집 못 사"
+    },
+    {
+      "date": "08.27",
+      "event": "경기도, 용인 반도체국가산단 일대 부동산 투기사범 23명 적발"
+    },
+    {
+      "date": "08.28",
+      "event": "기준금리 변동 추이"
+    },
+    {
+      "date": "08.31",
+      "event": "한국 경제 반등하나…“내년 1.8%, 내후년 2% 성장” 전망"
+    }
+  ]
+}

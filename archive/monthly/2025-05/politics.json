@@ -1,0 +1,414 @@
+{
+  "month": "2025-05",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:18.292Z",
+  "articleCount": 293,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-05#t0",
+      "title": "선관위, 송진호 대선후보 고발…\"신고하지 않은 사무실서 선거운동\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "선관위, 송진호 대선후보 고발…“미신고 사무실·차량 이용해 선거운동”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZcEVjSGZEMEhlMU9tSXRVSk1mckRjQTZWdVo3UWJFSFpNOWRTMi0wQkVNLW5kYWlDVkFpbXRnOUZwdy1aemxnZHpaWnFsSXBYN2NKeFZrSlJNeGs?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-05-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "선관위, ‘미신고 사무실서 선거운동’ 송진호 후보 고발···황교안 이어 두 번째",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KeVB2SEdsVDJQSnh3TV9ERXYtUGpseUQ5UlVreXJ1a3FVX0lfMkszLUZWbWJCRExRbXMzdUdmWDJWcXpQN1NaazF0ODRvZ3BXeVJzSnRwX2toQdIBX0FVX3lxTE50ZTVuWVNfNkRCdjgtU2ZfV3pCWHM5Nl9iU2lySWZhN292SXE0MC13Sk9GNnNaRnBzOHJUMEdFN3lMV0laa1NtNjFJd3VWQVV4WVZBdzVQOUlmV0t0VXNr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-05-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "선관위, 송진호 대선후보 고발…\"신고하지 않은 사무실서 선거운동\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41T1JIRndsVGE5ZzY1RUw0Z0hYenFVcEY2VXB0NEJZWm5VMjNNbmctYjh5OTdwNVh6dUFTZHZBejkwWDVxQ0RaaU9oU0JjYXVKOWtSMXRSemJLWHpJRGpVQ05xTHY4WUU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t1",
+      "title": "‘제21대 대통령선거’ 사전투표 & 선거일 체크리스트",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "‘제21대 대통령선거’ 사전투표 & 선거일 체크리스트",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnhFSExuRWFtYlF0OVpmTTdpc3Q3SmVsZkxUVXBGcXN4ZTdaSXpNNWYtV1VBT0pDNHhMZ2tDYW0xdDVyUG5hQ05vRnZ6d1JDaGhodXdpcVVURnN3UzZod1NQa3FCRWpGMzRTa2F4bm9ycHVSVjQxV0hzSTl1SmdwblRraGlaUlZxRkZlZA?oc=5",
+          "source": "경기도뉴스포털",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경주시, 제21대 대통령 선거 투표율 제고에 총력",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJQkhqb0JUdnk1c0lZRFd0eVJURk56OEc1bWxmU3dKYnZsNDVpYnViSU1lc1ZZRldkc3RFX2Y0eHZUVU0takd2YzF3VTFYckxJa2lDSVBqOVRCd09rNUxvLXBpZm9pZw?oc=5",
+          "source": "데일리대구경북뉴스",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "제21대 대통령 선거, 사전투표·선거일 투표 안내 - 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzUEVhcG0yQThQc0s5RFJXTUlaclppYUdBTG9DOV9jdWVNVU9VWDhKUjFOLURhdHFXRVRFM3JYWS1QdDFBWTRaQ2hnV0E0T0IydldKUXBwbGgyRHlSazdZMC11SDNwcjM4VjNWX193?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-05-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t2",
+      "title": "북한 해커와 불법 도박사이트 만든 총책 구속기소",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "북한 해커와 손잡고 도박사이트 만든 50대 총책 구속 기소",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aYmx0RWVzb1Juc3FYQ1RaV1hWamV4VERXRW5NemVpQVZ4VGUyN3lrMi1IZlRscWF2Tnp6R0pLN3NfaGhqbEtIT3JDU3RUNVRpaVBVOV9LZmc0OUtPd2psUURaRkY0ck0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-05-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 해커와 불법 도박사이트 만든 총책 구속기소",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xRFF2VTladnpCZ1hmeUlfeDBRaGh2NFhPLWJ1YWQwN21qbHNJa1VwajhRTHRDWXNjRE1RTW5va3BkSUwxbkZUTjZ5UVJmZVhIZE9VWG5TX1h4Z9IBX0FVX3lxTE51RFFBcndrUUV1WXRSOUNGNDBoZjJ3Q0t2cFFVTERfeFdEQlVqTmo4SzVTSDZUUzRfWlV3T0pnbVZ1UWRwQUdDX3gzdFQ0QmRuZFJRMmFfTUhQV3BaODNn?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-05-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 해커가 만든 도박사이트 국내 유통…총책 구속기소",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xNHNtZHRQZU55OXRNcjJrR2lsNFYzX21XMFNXeThiVG5pSnRPOW9VZGhMejMwRFdna2sxcVRWVTRGakRhNlBuZmh2dDhPVEZtZWx1ZnVIZldEZFE?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-05-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t3",
+      "title": "“제21대 대통령 선거운동 시작… 금천구 각 정당 본격 유세 돌입”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "막 오른 제21대 대통령 선거...제주, 각 정당 거리 유세전 본격화",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wRFBabExzX3FHeW9qbGVtMWhWVF9VeFg2bTFRVUhybS12NmlobXlyUmZodzVwaXBReHBxNmQzZ055d1EtNHpnR1E3TnhhQ2ZZdzZxRzE4QWgzVEdrLVgxM0xPM21JNXBhS3N0TE9B?oc=5",
+          "source": "헤드라인제주",
+          "publishedAt": "2025-05-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“제21대 대통령 선거운동 시작… 금천구 각 정당 본격 유세 돌입”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85TnBuZ3oySk1HWXJnZm50Sm5MUmhKQUFUWkVUeENSNHdtMkgyMXB3bVZyUmJkSVJOeWtZdmpDcnFrMWFiQy00RnBoUm1ObFVacmExWkF2bjN2VEVwOTZhdkYzSnlkTFZPOEE?oc=5",
+          "source": "마을신문 금천in",
+          "publishedAt": "2025-05-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "제21대 대선 선거운동 본격 시작",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tSi1ad05sd2VnU3B2cFpjR09NWGt5M2pDR2hWVHA0LVNjd3lkV3M0YWFfV3hrNWRsam96MUo2TTIzdnNrLURJci01T3JOc3dfV1J4cFlweUNkdmPSAWBBVV95cUxOWVdHNF9SQ1N6dHE1aTl3bDNPRmxKYUFyTUVtM2ZXMzAtckhHNzBOMmlDUDdwS3hSUjJOS1NhRl9pTENLZVkxcFAtemVqSWROOWhHaVVodWNrczloVFpJYVg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t4",
+      "title": "러가 北에 넘긴 방공무기 '판치르'…북한판 이지스함에도 탑재",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "러가 北에 넘긴 방공무기 '판치르'…북한판 이지스함에도 탑재",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DczRkLU43elZFWENPUjRlQ2UzVHdMTlc5OUxqTGVST3Z0MEZXb0E3SUVObFhSVmRhSzJiUTVTZjhVcFNRaE1jcU44TFZxYjN4Zlc0WjhHS2pPYVXSAWBBVV95cUxOUXNSeEpqZXNtM1d1UUdXTVhQYjRaNUZ5a3k1R2NXVDlKb0Q3VXo1bU9xWmpzT212TzdzYy1yREdrZGFMMWtfLVRVQmRkYVVLMV91Y0Rkbk5oRFpBTHRWd1I?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "러시아서 북한 이전된 방공무기 ’판치르’…’북한판 이지스함’ 최현호에 탑재",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kX2NrNzB4b1ZndVJzSFREbDdXdU9DczE0WW1vaGMyNXlXeXE0YTdhRkR5N2VMRU5ucXJ3b3JqSG1mR1pSXzlQYlZHLWdzTlFKczJRNTdlY1BaSDRDTjNWMWRwNVZXOXM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t5",
+      "title": "김예지, “시각장애인 선거공보물, 형식은 갖췄으나 질적 접근성 여전히 미흡”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김예지, “시각장애인 선거공보물, 형식은 갖췄으나 질적 접근성 여전히 미흡”",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2dFIwbVJMdnVaT1lNTll4bzB4MGZjQUcyclZnRW1rTlFfSDZ4c25hUHFoeWNnTmFRbTQ2ZkxSb3pWbS1LU05QTWluc3RqekE?oc=5",
+          "source": "더인디고",
+          "publishedAt": "2025-05-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김예지 의원, “21대 대선 시각장애인 선거공보물 질적 접근성 향상 필요해”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HMWxPUmh0aFlJZU15N2VWQzY4MVkxWEExa2RTVXBiWDRIX2Z5NUFlVDhEcHVNcktQcTFES1EzNjdkQUVUNmozRHZkLWVYakF2Y2p5UURqMEY5blJiNThueklwQXVaYUNmNnR1VEJjYXJadw?oc=5",
+          "source": "인더스트리뉴스",
+          "publishedAt": "2025-05-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t6",
+      "title": "당근, ‘제21대 대통령선거’ 정보 서비스 오픈",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "당근, ‘제21대 대통령선거’ 정보 서비스 오픈",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSVFvalA4NzlaMlJHQ1l2SUkyTFBUQXpkZlJBX2lIaTVUVERjU21VbE1pRl8tOGQ5Qk0ySEVsV2xZS0NHbFhVUlc1UkZ4M3NEZ1A3WEJiZU1RZEFwX3ZoS1dwaHdHUE5hZFBwUjVhVmNBWUc0NXRXT1lBM0xoZVZBYVNzcXZfdkZ1OVNOS2pmeDdnZWFfVDI1S2ZnX0ZaZHNrZ2xGOGhTRzVDejMxSV94ZE8yTXpBaXJiaXZIT3RSVGZKbGVpODdWWm8wbWtnYU5vVGh1cVVJRXk0ZmpIUmJkMUtQOF90eWVDZGJaQjVuQ1RXNlllV19VSTZPR0dwRlZwNi1xbGF6aWdrUXhPTGhVaWtJbUhhZEN6bXpBa1d2U01FZw?oc=5",
+          "source": "당근 회사소개",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "제21대 대통령선거 선거정보 QnA 「사실은 이렇습니다」 4탄",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJdnRHVkNzNUFjTEgxVGFLU25rQjM1QWgxRFdnZ0theG5hRHBCbnJtVzZYc0k4M1RQZk9aY21HZjJRYTV2bjNZTDVNZ0ZkZDJxbU4yZnNXcVpDelBUcUttYW9Wb01NTnJrUXNR?oc=5",
+          "source": "시정일보",
+          "publishedAt": "2025-05-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t7",
+      "title": "북 국가보위상, 국제안보회의 참석차 러시아 방문",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "북 국가보위상, 국제안보회의 참석차 러시아 방문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Kek9Dc3VQNDQ3b2RrSDBubDZJUEQxXzl0U3FmTUxyQjB5THFrR21aMlBaVVExZkRhdXc5OW9sakFLaUZDdUNhWnFaRmw0ZVU1cXhmU0NuNU1rT25LQktRR0JXTF83UzVaT0dIUDN3?oc=5",
+          "source": "통일뉴스",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 국가보위상, 안보 고위대표 회의 참석차 방러",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FS21JY0gxSE5XNU00WkYzc2wxN1RnSzZMYVVKZ3hsRUhRS3RWWVBXbkRSdXRKUlZhY2UtNzBpTWpXMmo0akZoUkNSWEhhUFRPT05ySzlRMGlPdFU3NTIxSElLa1FvMzQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "이재명",
+      "count": 39
+    },
+    {
+      "word": "대선",
+      "count": 19
+    },
+    {
+      "word": "대통령",
+      "count": 19
+    },
+    {
+      "word": "부정선거",
+      "count": 18
+    },
+    {
+      "word": "김문수",
+      "count": 15
+    },
+    {
+      "word": "민주당",
+      "count": 12
+    },
+    {
+      "word": "한국",
+      "count": 11
+    },
+    {
+      "word": "이준석",
+      "count": 9
+    },
+    {
+      "word": "영화",
+      "count": 8
+    },
+    {
+      "word": "선관위",
+      "count": 8
+    },
+    {
+      "word": "선거운동",
+      "count": 7
+    },
+    {
+      "word": "훼손",
+      "count": 7
+    },
+    {
+      "word": "RFA",
+      "count": 7
+    },
+    {
+      "word": "자유아시아방송",
+      "count": 7
+    },
+    {
+      "word": "구축함",
+      "count": 7
+    },
+    {
+      "word": "국회서",
+      "count": 6
+    },
+    {
+      "word": "국민의힘",
+      "count": 6
+    },
+    {
+      "word": "수사",
+      "count": 6
+    },
+    {
+      "word": "투표",
+      "count": 6
+    },
+    {
+      "word": "고발",
+      "count": 6
+    },
+    {
+      "word": "공개",
+      "count": 5
+    },
+    {
+      "word": "음모론",
+      "count": 5
+    },
+    {
+      "word": "후보",
+      "count": 5
+    },
+    {
+      "word": "국회의원",
+      "count": 5
+    },
+    {
+      "word": "시작",
+      "count": 5
+    },
+    {
+      "word": "개최",
+      "count": 5
+    },
+    {
+      "word": "공약",
+      "count": 5
+    },
+    {
+      "word": "중국",
+      "count": 5
+    },
+    {
+      "word": "윤석열",
+      "count": 5
+    },
+    {
+      "word": "사전투표",
+      "count": 5
+    },
+    {
+      "word": "인권",
+      "count": 5
+    },
+    {
+      "word": "없다",
+      "count": 4
+    },
+    {
+      "word": "총리",
+      "count": 4
+    },
+    {
+      "word": "추천",
+      "count": 4
+    },
+    {
+      "word": "필요",
+      "count": 4
+    },
+    {
+      "word": "AI",
+      "count": 4
+    },
+    {
+      "word": "통과",
+      "count": 4
+    },
+    {
+      "word": "어떻게",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "개정안",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.12",
+      "event": "“제21대 대통령 선거운동 시작… 금천구 각 정당 본격 유세 돌입”"
+    },
+    {
+      "date": "05.22",
+      "event": "‘제21대 대통령선거’ 사전투표 & 선거일 체크리스트"
+    },
+    {
+      "date": "05.26",
+      "event": "북한 해커와 불법 도박사이트 만든 총책 구속기소"
+    },
+    {
+      "date": "05.29",
+      "event": "김예지, “시각장애인 선거공보물, 형식은 갖췄으나 질적 접근성 여전히 미흡”"
+    },
+    {
+      "date": "05.31",
+      "event": "선관위, 송진호 대선후보 고발…\"신고하지 않은 사무실서 선거운동\""
+    }
+  ]
+}

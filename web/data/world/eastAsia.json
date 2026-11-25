@@ -1,0 +1,797 @@
+{
+  "region": "eastAsia",
+  "label": "동아시아",
+  "range": {
+    "from": "2026-11-19",
+    "to": "2026-11-25"
+  },
+  "updatedAt": "2026-11-25T05:39:44.229Z",
+  "ai": false,
+  "overview": "최근 1주 동아시아 관련 국내 언론 기사 240건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「조정식 국회의장, 다카이치 일본 총리와 회담...경제협력·의회교류 확대 논의」(기사 13건)입니다.",
+  "stats": {
+    "articles": 240
+  },
+  "themes": {
+    "economy": {
+      "label": "경제",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "복귀",
+          "count": 17
+        },
+        {
+          "word": "젠슨",
+          "count": 13
+        },
+        {
+          "word": "급등",
+          "count": 13
+        },
+        {
+          "word": "젠슨황",
+          "count": 9
+        },
+        {
+          "word": "반등",
+          "count": 9
+        },
+        {
+          "word": "AI",
+          "count": 9
+        },
+        {
+          "word": "한국",
+          "count": 8
+        },
+        {
+          "word": "TSMC",
+          "count": 6
+        }
+      ],
+      "items": [
+        {
+          "title": "대만, 증시 안정 위해 국가금융안정기금 2배로 확대 검토",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "대만, 증시 안정 위해 국가금융안정기금 두 배 확대 검토",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "대만, 증시 안정 위한 '금융안정기금' 2배 확대 검토",
+              "source": "이투데이"
+            },
+            {
+              "title": "증시 급락에 놀란 대만···‘국안기금’ 두 배 확대 검토",
+              "source": "경향신문"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 6,
+          "articleCount": 6,
+          "articles": [
+            {
+              "title": "대만, 증시 안정 위해 국가금융안정기금 두 배 확대 검토",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jM0J5cnNsQmNuNjVLNlliMU10YmtFVVdTRGExcmtQOFViUTJic1RnZmZsTFFJd2tuUnN3cVhlUEQ3V0dKVEVyem02YnhWT3RxdGpyV3hwRm1lOW5wNXM0dWNrazZwUWZuT2d1cXN2TmI?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-24T06:34:36.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "대만, 증시 안정 위한 '금융안정기금' 2배 확대 검토",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ScUh4MmRjTXdvZnU1V3pMcTZ3ZVhuanpvZUZBeUlwUEtVSG5SbHQ1OW51ckVJSVpCc01JNG44dlNBWHZFNURpTy13cTUtdE9PcURYWA?oc=5",
+              "source": "이투데이",
+              "publishedAt": "2026-11-24T05:20:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "증시 급락에 놀란 대만···‘국안기금’ 두 배 확대 검토",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpVk12R3F2bU8yYVBET1BVSTFMd3V4b0FHOUxEMFFuTlhaTFBvcVRjWXNDb0VYQWpISmliTG1EdWVrSFN3S0FHWklKTVZ6TnZuYzM5WHlmUkJ5OVVkT0FV0gFfQVVfeXFMUGlWTXZHcXZtTzJhUERPUFVJMUx3dXhvQUc5TEQwUW5OWFpMUG9xVGNZc0NvRVhBakhKaWJMbUR1ZWtIU3dLQUdaSUpNVnpOdm5jMzlYeWZSQnk5VWRPQVU?oc=5",
+              "source": "경향신문",
+              "publishedAt": "2026-11-24T05:10:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "증시 불안정에 적극 대응하는 대만…금융안정기금 2배로 확대 검토",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUldTWU9LN2FHNjcxaW9Rb1VQa1VOR0ZLLTB3VXJxMjdkSlYtaVliRXBIM0x4REItUm5oT0VmMTVXMjNWajBUY0VJbEUyYlN6VjRjX0kwRFJ0Zkc5SThRUVJhOERPdDA?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T04:58:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "대만, ‘증시 안정’ 국가금융안정기금 2배로 확대 검토",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IRjBEY3c4X3o2OFUtWGFTZzRsQnB4SUEySllsbFJfVXpScXBWTGJvMHJBOGFkMFBPYUI5Y1IzWklxMktfYmVlVGNCRklsZGhneUNNT0VBZlJoWVU?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-24T04:07:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "대만, 증시 안정 위해 국가금융안정기금 2배로 확대 검토",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncnkwaFU1ZFpLYUxEZFBZRWhkTzhzTGkzc3VuSW11a0xpcXFud2stblFrV2tiWFk4azBLZ19TdDQ5U0gzOXJSUjFrdy1JejMxMm85TkRZQk14Y1nSAWBBVV95cUxPUzMzbEpORW1odmpINk9oc0Q2Uy1RTWVlZEY0ZjhscGRHaUFFWXV6R0wwSG01dHNhalQzT0pmeWs2ZUZmcHVVeWl2T0NaM2ZKTnpNX1R4c3I1elctM3dRWXQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T03:31:26.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "젠슨황 복귀에 대만 증시 급등…TSMC도 상승",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "‘젠슨 황 복귀’ 소식에 대만 증시 9% 급등…TSMC도 상한가",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "대만 증시, 젠슨 황 복귀에 9% 급등…시가총액 1위 TSMC 상한가(종합)",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "젠슨 황 귀환에 대만 증시 9% 강세…시총 1위 TSMC 상한가",
+              "source": "뉴스1"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 4,
+          "articleCount": 5,
+          "articles": [
+            {
+              "title": "‘젠슨 황 복귀’ 소식에 대만 증시 9% 급등…TSMC도 상한가",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13bzdUNXJKM2VsYjhKWTZDVHI5TXpELUJBUlZMMTZfRFpGd3hYX1M4OERLUFhSN3Bsaks4YXExUEpiSXhKQTRZRV9nUEQzem1ZdzVxb2lucklfdW8?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-24T08:40:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "대만 증시, 젠슨 황 복귀에 9% 급등…시가총액 1위 TSMC 상한가(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdXZ6ZFVKNnFtajdueGJYWFlPWkVOTnZPV1AtRFhvRzZ2dWZOTUd2WEtZbHg0ZGxJRFppNEdZNzFkVVdJNDNEd3lyMS1PQ0hyQkNldWc2clhPQ1c2dUoxWdIBYEFVX3lxTE1TdXZ6ZFVKNnFtajdueGJYWFlPWkVOTnZPV1AtRFhvRzZ2dWZOTUd2WEtZbHg0ZGxJRFppNEdZNzFkVVdJNDNEd3lyMS1PQ0hyQkNldWc2clhPQ1c2dUoxWQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T08:23:34.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "젠슨황 복귀에 대만 증시 급등…TSMC도 상승",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xQmJLNW5obi1iOW5PcVpBX0trV0tmX01GQkhBcWZBMGRrWmVpOVVmUDJIOHVtN0d5Qjl5dUVsYTliVTV1emNybGlXdElsWmJkVHY4WjM5WF82LTJFR1BET1Fla3hGS00?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T02:31:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "젠슨 황 귀환에 대만 증시 9% 강세…시총 1위 TSMC 상한가",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Hb29vQjF6UzlHaUZyOXNmdzZsMDRTVlN3UmNMSUtZTFphNkRoTE45RHFRdVBCLXFrVGQzaTRGNk1oTUhhdUxPeVZCZXcyazRwcHJIdkZMUkQ5Tkk4R3c?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-24T02:24:53.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "젠슨황 복귀에 대만 증시 급등…장중 사상 최대 상승폭 기록",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMXdvMEtmRFdpa3NwQzdKc0k2NFpTUUdBLWQxWkRDb0h5TWFyM0MzWFVoUzFSOWthZ01NMnVmZTU1QUhIOWNzVWZVcFVkRmtzZXRvbmdpTVdlaWPSAWBBVV95cUxPbG9qMldjbmlOUlRWNXdFU3UyenVJTGJlTE1NTlhPVC1CTG5FbXlpdl9DcFF6Tk5xeEZXT0o5MlpmeEdJOXNUdmJOTGlzNXdWWkxhNTluNTJhQlRuX2ZFcUo?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T02:27:02.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "日증시, 젠슨황 복귀 소식에 급등…닛케이지수 3.9%↑(종합)",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "일 증시, 젠슨황 복귀에 급등...닛케이지수 3.9%↑",
+              "source": "YTN"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "일 증시, 젠슨황 복귀에 급등...닛케이지수 3.9%↑",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxdklobXhjbVRZOG1INjdZcVBXRFZ4MTlucjUtdDdvVlZiY1ZNRzVRTUk3M1M0eGd2T2d2TF9FYk8yYVR0elZrYkxVbDg5Z1RWYlBXcmFUZmpPRTd2SXc?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-24T08:28:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "日증시, 젠슨황 복귀 소식에 급등…닛케이지수 3.9%↑(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FZ2JOR2NHVTBSMDQ5cDJOWnZoZHJoTVdsVmRfZTdpclVuRUczNzVMU2pqeXZwTGFST0VHbTYxX1Q3UHJRdlktMUQtcy1aNnRIQW1SVXY1clNyZjJDNVIyatIBYEFVX3lxTE9FZ2JOR2NHVTBSMDQ5cDJOWnZoZHJoTVdsVmRfZTdpclVuRUczNzVMU2pqeXZwTGFST0VHbTYxX1Q3UHJRdlktMUQtcy1aNnRIQW1SVXY1clNyZjJDNVIyag?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T07:23:29.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "日증시, 젠슨황 복귀 소식에 훈풍…닛케이지수 4.5%↑",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMnVGcXlkeGUwZGtvWEphelRXRmxzXzZGMDhqMTdHRV9Lb0xMY2pvVEViSlVQX3FzUXBvSTlWOXVSRDJBTDl0MUF6b2RLVlItQXB6UkVfMWUwZVXSAWBBVV95cUxNYmVfbG1HeVpITVdtcXc1Nm9GYXJTc0RuMnkyTGF2ZHhnWmlpcVE4eXYtbTZwZDVoWHJXS2hmaXdieDNIVTRhQ0F6Rks3WDMwZEtTcm5XR1hkRWs3cXYyQm8?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T01:56:48.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "日 증시도 '젠슨 황 랠리' 하루 만에 증발‥닛케이 3.3% 급락",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "日 증시도 '젠슨 황 랠리' 하루 만에 증발‥닛케이 3.3% 급락",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54SHNhMlRld3VhUlpfd3Z4YlFjV3lrLVdLcUppdXh0NS1rUGhWYTloUURhbExsSVFUY3RQdHJDY2RDVy1DSGJJVl9FcFVTVHk2MTBUZXpJeEVJTXFnZ3YwMzJoelVRcTNZSnMtVkJKeWplLV9H0gF0QVVfeXFMTzcyYmNzYjdUQ1VLMVN1eE9KYlpSdklDUTR0WVFieW1pWlE4SjFjTUNFbXIyRnkzT3BmNEVtemQ3WEg3b0hzcU1LX0YzbWZNZ29kQ2F6VTJiUHYtWU9DV1dxNlc0X0dLOG1ZYW54N2llRGJ5Q3o?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-25T04:22:36.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13UUFZNHJqZ2dlMjgzcDFoRkloTXZDQmVFaVNzVW8zVnhYTUNpZUluVURtUjNtQ1hYSmUzZnpqN0dJWmJNUU9tN1JIU0stdFl2M1lPbmNoT3czZG5QOE95ZdIBYEFVX3lxTE13UUFZNHJqZ2dlMjgzcDFoRkloTXZDQmVFaVNzVW8zVnhYTUNpZUluVURtUjNtQ1hYSmUzZnpqN0dJWmJNUU9tN1JIU0stdFl2M1lPbmNoT3czZG5QOE95ZQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T03:48:49.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "日 증시, 美 AI·반도체주 약세 여파에 하락…닛케이 2%대 ↓ |",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "日 증시, 美 AI·반도체주 약세 여파에 하락…닛케이 2%대 ↓",
+              "source": "KB Think"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "日 증시, 美 AI·반도체주 약세 여파에 하락…닛케이 2%대 ↓ |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ydmxLOFZVaDlPcmlJUXVpTGpFd2NXTGlwZkdYNUc0N3F2Wnh4UDFlN0ExLURiNjJYWFJlbmJRSGg4VVpWa2NtcEViaEVXbTdhc2VUVzhxcDVBSlE3RURBNWZ5Zjc1ZVdGeWRmeGhGaHhKMk1I?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-25T02:25:59.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "日 증시, 美 AI·반도체주 약세 여파에 하락…닛케이 2%대 ↓",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56WlNLbGZxRkVDbHlVRzBoeW91UkdnbGVjd3ZuaWpIcm1LV05Qa0s5VjdWdUNrS05KTVN1N0ttYk00TTlSbmk3MkZUdDY1QXV2emRDb3VWWVRBdS1jQ1pYUk55amIxc3ZIZkYzQzd2MDFjQQ?oc=5",
+              "source": "KB Think",
+              "publishedAt": "2026-11-25T00:22:04.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"美USTR, 이르면 이번주 '과잉생산 관세' 조사 결과 발표\"(종합)",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "미, 한국·중국·일본·EU 등 관세 조사 결과 이르면 이번 주 발표",
+              "source": "JTBC"
+            }
+          ],
+          "span": "11.24~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "\"美USTR, 이르면 이번주 '과잉생산 관세' 조사 결과 발표\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUeExaZ3B1blp3djNZdUhSa01CS1hPYUx3RlpYQjMzbEhGU0RIa0RfQ0xkaVQ2ZkRHQjZEc09ZWlFSbjlsLW16UnFsUWxZSnpnRjJpUnk3b0lPNU3SAWBBVV95cUxNN1hPQzZNMGwtT1pJTEMwUEpaaUk3OHgwWFpiRnNHb2dlRkxpU0FXSG5ScjUzcWNVTGlTSE1ENG5XSl9oYUMwMXBRdGgwZ1hqaHQ0czBNZUJBUU8tRGdTREE?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T15:08:40.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미, 한국·중국·일본·EU 등 관세 조사 결과 이르면 이번 주 발표",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iMGxRM3VQR1QzWUxLbVdZREtIcjNKRzdqT211RGdpeU1rREVMd2o4R3k4WmdyNFJfdXJMQlAzYjNGd0dZZ3pwZVZHMVdvSi1uZFJ6Tw?oc=5",
+              "source": "JTBC",
+              "publishedAt": "2026-11-24T13:40:00.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "war": {
+      "label": "전쟁·안보",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "머니투데",
+          "count": 6
+        },
+        {
+          "word": "트럼프",
+          "count": 6
+        },
+        {
+          "word": "AI",
+          "count": 6
+        },
+        {
+          "word": "수출",
+          "count": 5
+        },
+        {
+          "word": "미군",
+          "count": 5
+        },
+        {
+          "word": "미국",
+          "count": 5
+        },
+        {
+          "word": "패권",
+          "count": 3
+        },
+        {
+          "word": "군사기밀",
+          "count": 3
+        }
+      ],
+      "items": [
+        {
+          "title": "중국에 군사기밀 팔아넘긴 현역 미군...전직 장병이 포섭했다",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "중국에 군사기밀 팔아넘긴 현역 미군, 유죄 인정…최대 징역 10년",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "중국에 군사기밀 팔아넘긴 현역 미군...전직 장병이 포섭했다",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oQ3R3cklqQ3lTSk5wY3d1bk94cFJDaGFBMmx5aFB1dmRPWlgtRGk1dnBISi1JR1JqU0dWS1VSc1MtR05fdThPa0lEZGwwR01iN05VdWlfYURmTEtydXdjSVFFb2E?oc=5",
+              "source": "www.ppss.kr",
+              "publishedAt": "2026-11-25T01:38:57.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "중국에 군사기밀 팔아넘긴 현역 미군, 유죄 인정…최대 징역 10년",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcjI4aWVDSnBkNTFUZDFTWG9qdFR4czVXdHE2LXUtV21nQS1CWXF3VVJqNTgzc0lXTDVCSEhtU3JNVkhEWTI2ZGlVVF9BbWFfcWV2UndZS2NCS1E?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-25T00:32:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "美中, 상하이서 군사소통채널 가동‥\"해상·공중 안보상황 교류\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "美中, 상하이서 군사소통채널 가동…\"해상·공중 안보상황 교류\"",
+              "source": "연합뉴스 한민족센터"
+            }
+          ],
+          "span": "11.20",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "美中, 상하이서 군사소통채널 가동‥\"해상·공중 안보상황 교류\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUS1htX1k0eDloYUxfR09YMHVIX0lwOEJDU0ZjOW5NczdfMHFjOU1EbWhIVFdYcE4yNk1lajkxZFhwMFZkWDdWem8tNEhHUWJKV0RvTlZ3TVUyU0QtWUpNV1lLbFhBbzdPUzJhVGlKekFUbG5R0gF0QVVfeXFMTnJYenVXQ1R2bloxN1owWjlUQXJvV2JVbWdxeFhGWjFXcFRfdHdTeEhnLV9yY3ZHakFUOEZ0alVCcF9wZFdwSTRCaTd6a1ZRRkY2UlcteG9pVW9VVGhSRjBncDM5eVE4SWJhTktpT0JkUDk2Smw?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-20T10:21:59.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美中, 상하이서 군사소통채널 가동…\"해상·공중 안보상황 교류\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PMHA3dFV4WWJ0aEc3WldrcGROYzJGLXdTLVJUQ1czZk1uc29Fa0JLTzY5X3o5MHoyVHZFRlVqZExmLXNHVEFvYnlIeDBkdW45eF80YTBLUktvendnV1haeXc5NkJNRmpfTTNMaU5DaEFDdXBq?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-20T10:17:20.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"중국, 지난해 인도가 파키스탄 공습할 때 인도 서부해안 정찰\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "\"중국, 지난해 인도가 파키스탄 공습할 때 인도 서부해안 정찰\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSRGp5dHp1U3Z3UzRsOC1fLVJLc3l3R3FwRHFtT01WU2JJNldGc3ZkNEd0ajZMYjVzQ3RFTUNiN3JEaFE1dHpOdGFiRGhCQm9tSjlfTmFtQUM0UkxraWZfNdIBYEFVX3lxTFBSRGp5dHp1U3Z3UzRsOC1fLVJLc3l3R3FwRHFtT01WU2JJNldGc3ZkNEd0ajZMYjVzQ3RFTUNiN3JEaFE1dHpOdGFiRGhCQm9tSjlfTmFtQUM0UkxraWZfNQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T01:42:13.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "미군 병장, 중국에 군사기밀 넘기려다 유죄 인정 : 국제",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "미군 병장, 중국에 군사기밀 넘기려다 유죄 인정 : 국제",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHYWx3UFY3UUFadXQyUl9wMU9odDFCV01nUWloanY1S3QyZnhObFNQaDNMeUtxSXB3T0U5V05hTnh1WjRYZkNkcFlxUQ?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-25T00:59:35.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "중국, 전장 군 병력을 위한 휴대용 WiFi 개발",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "중국, 전장 군 병력을 위한 휴대용 WiFi 개발",
+              "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOc0JsMXdxRTM4TUhFYUpZcEJmTE9lRnlHdjczTFBXSUNzanp2enpjaEI2dkRYRUU0Y2pkY1d2VTRqSjhodHpVdVRXSmd5SjcyelZqcXZnVDhVT0dWd3otdWE5bXZDYWg2TDRQbFpkcGNYUTBqYXFSR185ZEtVdFpxbkJ6OXNPdjNIQmdIQTFMdUdxZE1zZGJ4b083RTR2WElXMTllcVZYUkxIVjNNMFZ4WEgwTFNJR2xWQl9qQmIyemlnOGFEQlNJSEZCOUhtM2lNUm92U0FMOTlCcHRGdVBEWGx2dnJCSWhyUHJ6cUNzSU5FLUFNckZabU5vbHhPQVh4TV9qUEZNWGZQbDVEaXc4Q3FwMUUzdzc1d1E?oc=5",
+              "source": "IDNFinancials",
+              "publishedAt": "2026-11-24T13:20:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "전쟁·물가·AI가 뒤흔든 美 중간선거…중국의 대미 전략에 영향 미칠까",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "전쟁·물가·AI가 뒤흔든 美 중간선거…중국의 대미 전략에 영향 미칠까",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kRTJDOGdmdGNtM0xuMENaazNLTVA3d2lMV1liY0ZzQ3FjX3BMZXNnX0szSUpVejRQYkY5WjZrZU43VF9vSXRCY3BKeGJCVmtWaWNFQWdLclhKUmJ4S3FPWVBUR0lJQ05xcVJwTlVuUENhc3M?oc=5",
+              "source": "디지털투데이",
+              "publishedAt": "2026-11-24T11:25:00.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "politics": {
+      "label": "정치",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "다카이치",
+          "count": 35
+        },
+        {
+          "word": "조정식",
+          "count": 11
+        },
+        {
+          "word": "회담",
+          "count": 10
+        },
+        {
+          "word": "시진핑",
+          "count": 10
+        },
+        {
+          "word": "국회의장",
+          "count": 9
+        },
+        {
+          "word": "논의",
+          "count": 7
+        },
+        {
+          "word": "경제협력",
+          "count": 6
+        },
+        {
+          "word": "재개",
+          "count": 5
+        }
+      ],
+      "items": [
+        {
+          "title": "조정식 국회의장, 다카이치 일본 총리와 회담...경제협력·의회교류 확대 논의",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리와 회담…한일 경제협력·의회외교 확대 시동",
+              "source": "불탑뉴스"
+            },
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리와 회담…경제협력·한일의회 미래대화 재개 논의",
+              "source": "여성종합뉴스"
+            },
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리와 기념촬영",
+              "source": "파이낸스투데이"
+            }
+          ],
+          "span": "11.23~11.24",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 12,
+          "articleCount": 13,
+          "articles": [
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리와 회담…한일 경제협력·의회외교 확대 시동",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lakN3ZU9hNzRZbFJ4cU03SEItTC1qSURPbEdDa0RBTGpZRkN6V0ZtMEh3QUQzSDBVYVVjVVllckdDVVhxMnlCQVFxejBGU2E3bXNTWl9aNE9Cdm5iSmc?oc=5",
+              "source": "불탑뉴스",
+              "publishedAt": "2026-11-24T12:32:55.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리와 회담…경제협력·한일의회 미래대화 재개 논의",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PbzI4VkJwSEwwWkszbVRDTVJzSkpHV1o4MTB2U21XTzRvQmVQRjloSjFXTkEzQ2tiXzg0YjVrQ2pzbXVwcy1LMl9mQ0tycFlIblh3Zzl2c0NvbFgwLWgyNTZWeVlGWGw2d2VrRm9ERQ?oc=5",
+              "source": "여성종합뉴스",
+              "publishedAt": "2026-11-24T11:13:30.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리와 기념촬영",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NMThtZHVwZXNCZXN6S212R2dXYVRTZWZmb2prbllSQ0ljaDh0VXNnQ1NQYlFNdGtOLWUtcjVZTFZ0Y0g3cl9xQTk3ZkU4ZUFIVF9BWVRQdlZGa0hZYlJhQkRORHJmNlN4WW56aw?oc=5",
+              "source": "파이낸스투데이",
+              "publishedAt": "2026-11-24T09:38:29.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리와 회담...경제협력·의회교류 확대 논의",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqdkt3YnotRk9rSzI3amtmR0FRcVF1SEVkR1pqU0RtSFQyNkVuYzRBNk1mTFJZdVRDc3lhSGRWRXpiRmQxTjJuVDhRa3pmVUxHd3d5WU5ZRmE2TjNmRHYzWDRtdUs0djVhSDVV?oc=5",
+              "source": "내외통신",
+              "publishedAt": "2026-11-24T08:59:45.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "조정식 국회의장·다카이치 일본 총리 회담, 한일의회 미래대화 재개 논의했나",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwU0NRMFU2bFB2MVJLSTVJS1NjdktYWWFMZk1sWW1TekFnVzVBRjRuR0JDMFJlejNsTUNVRDNpcjZ4V09Fc1BTakpndnR1X2hqTEdjVWZDUUk5Wjlka1g4UTc4ZkNDMTBO?oc=5",
+              "source": "창업일보",
+              "publishedAt": "2026-11-24T08:29:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "조정식 국회의장, 다카이치 일본 총리와 경제협력·의회교류 확대 논의",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QX29nUzlhZzRFUlVyUlVuYVF3czE0MGhtZk5sZlJSbzgteE9pTjcyTmdsOHRvYWxLOW9xbE1OQTl4d29CVlFrRnlOUEpZWDloVUtuRW10cHJRVW5PYXhRdkRnQml2ckNJOHVXZTdhaDJCaDIwQ3F6cjZn?oc=5",
+              "source": "로이슈",
+              "publishedAt": "2026-11-24T08:14:45.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "다카이치 일본 총리와 악수하는 시진핑 중국 국가주석",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "악수는 했지만⋯중국, 다카이치 일본 총리 ‘냉대’",
+              "source": "이투데이"
+            },
+            {
+              "title": "시진핑 중국 국가주석과 다카이치 사나에 일본 총리",
+              "source": "뉴스1"
+            }
+          ],
+          "span": "11.19",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "악수는 했지만⋯중국, 다카이치 일본 총리 ‘냉대’",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13d2h2b0IzZ0F0cHU1allJSzBPN2lTUnd1b3JxdFdndHBubmdydXdDV0Y1c3pwUmV2RFNoWWN3WDFRQ0g2dkhZMkIzemlVNTRvUkh5NA?oc=5",
+              "source": "이투데이",
+              "publishedAt": "2026-11-19T04:00:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "다카이치 일본 총리와 악수하는 시진핑 중국 국가주석",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zWFMwMUJRMW9zQ0pid3d3ZmcyNmhwczlvU0M4clBLNTBiRUFTTUlQRWp4ZW85cEtEeFVRWnlrcWNXYUNkV19ieEpjSjJwM0tFTEtjZDZjRlpwUWFnVHFubk1aTmM0ellmSDhRbUdSUW0wSGxm?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-19T02:08:21.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "시진핑 중국 국가주석과 다카이치 사나에 일본 총리",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YVG9FNDd0ZXBpVmRMSGpJa0FZZW4xV25nYVphVWhqMU9kWjk5MTh4QXN3RTd6N3czOXU4SnpKWGZ1bUVtc1BxbWNmYw?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-19T02:01:26.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "APEC 정상회의 입장하는 다카이치 사나에 일본 총리",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "중국 선전 APEC 정상회의 입장하는 다카이치 사나에 일본 총리",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.19",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "시진핑 주석과 인사 후 이동하는 다카이치 사나에 일본 총리",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaHh6aURCSW9VMVJiOEgtTTZxYkRPT05tTVpUTWNfSjdET3YyQjZvVjNPc3Y0Ql9oM1B5NnlodWd0VklkckV3ZVozMkRsZGxacXc1bHdUOFBGQjBOc09OQQ?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-19T02:07:12.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "중국 선전 APEC 정상회의 입장하는 다카이치 사나에 일본 총리",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16eDZUc2hhTmhxZS0xdlJaTVg5cDRRSkQyTmYwTzJkUzJqM2JDTXpfczhiUlpCWDdCR3Y2clpjU3YwT2RnaWx2M0VFeU5SR0Rfc0RydGFUdFVLcEnSAWBBVV95cUxOWEVTU1hKVGR4T1NteEhLenFxaW1qbDBSNW9tdlYtTzVqT0F0TjAyZGxlanh4QXZTeTdIX1hpT0RvZmg2b1cybDk5bllIcmFCY2M5Q1FYOU0tbndqUnVTNHU?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-19T01:35:21.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "다카이치 사나에 일본 총리와 인사하는 시진핑 주석",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMUzZsOFI4OERZOGxaY1RIRExTVUJFd3RqZ3F3Sk1rak1aQk0zckNYblI3VVlDQmsxT0tXRnRiN0g2U3BDSzNZX1VuZWszdmxlWVRfZ0lybS1FT1Zzb2ZiVA?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-19T02:07:12.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "APEC 정상회의 입장하는 다카이치 사나에 일본 총리",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CTFdNR3h0SXlZc2cxQWNtcEhSZmJ6TzVGOVdybGRoN1piUnpQdkdrdXVHZVFPT1N1MTBqeU1zTnRENnhXdTlYSUJDTGlSRUZBNjc1VE45a19zSS1IUG45MA?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-19T01:52:25.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "일본, 핵무기금지조약 불참 공식화…’핵반입금지 재검토’ 여지",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "日, '핵반입금지 재검토' 여지 속 핵무기금지조약 불참 공식화",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "일본, 핵무기금지조약 불참 공식화…’핵반입금지 재검토’ 여지",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jaUhFdWYxdDlNOHRWb3NOWmlpRndacTg5eXk0Mmc4dnhTTzNYRXEyTXRKVVk4Nzc4R2pJV29BbXFJaWZZeEFCUlAtanB3dG1RMHVqZ0NLWlFGUUhxaHVFMjY1N3FKbm8?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-25T00:47:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "日, '핵반입금지 재검토' 여지 속 핵무기금지조약 불참 공식화",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hNlR3QldZWHVFVlY5ZldJczRaUlM2by1FSWF5ME9xNGdlLWhZSUtOa18wVEFTTDJNUkx3V3Q2alhHWDRSaEF2QVRsOWFmdUpMV2o1RzNwelp5STTSAWBBVV95cUxPUzZzTDJCX3hOYWVBeDRmQVk2eDJ3NnF2TWtJM3ZZdHpadFF3Ql9JNVQwZmptNnJWNWw0YXVac21zdnI2d2VTdk1ZOENiaGtWUF90dHJaY2JHVnF1SFN2aFc?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T00:09:52.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "증시 불안정에 적극 대응하는 대만…금융안정기금 2배로 확대 검토",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "대만, 증시 안정 위해 국가금융안정기금 2배로 확대 검토",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "증시 불안정에 적극 대응하는 대만…금융안정기금 2배로 확대 검토",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUldTWU9LN2FHNjcxaW9Rb1VQa1VOR0ZLLTB3VXJxMjdkSlYtaVliRXBIM0x4REItUm5oT0VmMTVXMjNWajBUY0VJbEUyYlN6VjRjX0kwRFJ0Zkc5SThRUVJhOERPdDA?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T04:58:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "대만, 증시 안정 위해 국가금융안정기금 2배로 확대 검토",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncnkwaFU1ZFpLYUxEZFBZRWhkTzhzTGkzc3VuSW11a0xpcXFud2stblFrV2tiWFk4azBLZ19TdDQ5U0gzOXJSUjFrdy1JejMxMm85TkRZQk14Y1nSAWBBVV95cUxPUzMzbEpORW1odmpINk9oc0Q2Uy1RTWVlZEY0ZjhscGRHaUFFWXV6R0wwSG01dHNhalQzT0pmeWs2ZUZmcHVVeWl2T0NaM2ZKTnpNX1R4c3I1elctM3dRWXQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T03:31:26.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "EU 역내 전기차 우대에 한일 빠질듯…일본서 초기대응 부재 비판론",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "EU 역내 전기차 우대에 韓日 빠질듯…日서 초기대응 부재 비판론",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "EU 역내 전기차 우대에 한일 빠질듯…일본서 초기대응 부재 비판론",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2NW9OYlg5U1ZiSDJSdHFhVVNMOUVscEJiSnBQVER2cUhVakgydkxxX0o2bmlZaEROQ3UzRjdLN2hDOElLQklGZzRzdzU2bjBMem9vZ0s5ODJrZm8?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-24T01:57:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "EU 역내 전기차 우대에 韓日 빠질듯…日서 초기대응 부재 비판론",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81RmdQQkZYMUV5azFxYWFtZ1RvcEszZjhseVVNWGh3QmFiU2hWUG5BOWpvejFhZG82c1RzcjBLdkZjd3h3ekNoVW5VamZwODlfUnpvZ2FUUDJjd0HSAWBBVV95cUxNMnROaDdaOFBuekE5c2N0R05kcEFWOWV5VkJKNDdXcjNfaml1RzBOZlEtWlFXLUM4bnB3UkVoQU1vTkNkOEJvR0o0TTNQYjN1ekpTR0FvS2NtQWdCbmxLZzE?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T01:37:42.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

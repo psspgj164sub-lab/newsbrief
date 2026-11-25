@@ -1,0 +1,428 @@
+{
+  "month": "2026-01",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:14.030Z",
+  "articleCount": 282,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-01#t0",
+      "title": "서울 시내버스 파업 이틀 만에 타결…오늘 첫 차부터 정상",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 7,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "서울 시내버스 노사, 파업 이틀 만에 타결",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nTjRpQmdHOHR2QlN6R0NjcmJYWVZpNHRtaTlXOW1MRmZUcXBZZ0Q0S3plck9DOFNCek42M1JobHFQb01VT19aeTQ5SnhRRFZzaUVCXzhoQmtCbll5M2Z5Z241SnJVRjlqYzc3cmVsRFA?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-01-15T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "’이틀 파업’ 서울 시내버스 운행 재개...노사 협상 ’타결’",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VeE1zSjk1X0Z1RFd1Q09ENGRqelMzLUlJQWtBcGd1YkYzbDlNbWFUVVZLcnkySFNKcmlaRUdyUTFhbkRlWUdSd1BiMlBWOHhpdGZqU0I0dkdFNlNweVE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-01-15T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 시내버스 파업 이틀 만에 타결…오늘 첫 차부터 정상",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FUTJHc1I0SDdXUk9sSE1JcUN0V3ozOGRHYUZuVHpiTmFnR1hMV04zUlM3Y3dWN2tjWmt1Qk5ZYmswOHdiVmcta0pLSkJXY2Y1cDFINUs5NEdYZTFlNzZFN0FWcHFLUUxG?oc=5",
+          "source": "티제이비",
+          "publishedAt": "2026-01-15T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t1",
+      "title": "서울 시내버스 첫차부터 파업...출근길 대란 현실화",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "서울시내버스 첫차부터 무기한 파업…물밑 접촉은 이어갈 듯",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaldHVVVySGhhb1ZiQWVPSURxLWxlLU9wNl93M3cyQ0hLckZSaElVZmphNDNodTJEczRXWllvTlBTZzdYaDVXZS1CRlFWUHZCb3EtXzlHMVEyZGM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울시내버스 오늘 첫차부터 무기한 파업…추위속 교통대란 우려(종합2보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTTFCaFFEUjdLMHE0NzBTclh1VDFkTEU5UTZKU2h4bTZ2TC1YZlpMYVJabm5DT21Ua2pyVlZjLVBIMGlxM1lqWlFnX3lpVlJ3b2JVaDY3U0dQLWfSAWBBVV95cUxQMjZ5X2VFQnhwejFuZ0dHWnJTdUdTUGhGal9rSV91RjJEcUxCdFRaUWhlWDBWc0RabVhBNl9zQWNYMHlPR251NnQ0dE1hVVVYMFpmVmhCcGw5WFFjRHhQR0Y?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 시내버스 첫차부터 파업...출근길 대란 현실화",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XQWpnOFAwaUlOVUVISldhR2NyeDBiX01ZbTlKbnp6aF9wOU1rb2JkRTlGQXJ0MG9QZHhSbll1ZXhyM0VxdUtTMTVKa01DQ24xVS1mZ2JMU1N6Y3FUNmc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t2",
+      "title": "서울 버스파업 이틀째 출근길 혼잡…오후 협상 재개",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "서울 버스파업 이틀째 출근길 혼잡…오후 협상 재개",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NVV9LUmdOWDZhR3ZHa2loRHFKNW5hWFFrYk0yMVJRLWNDV2drUmRtd1JKbGU0QlNvemRSeEFmYVloalM4b1NrVFYyVDc3ZkN4cGRxcGRiR042NTVBWVJsSHVRV0xuaXc?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-01-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "시내버스 파업 이틀째 출근길 차질...오후 협상 재개",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80cnNjWkpDMkxYTFFaeGRpcVlzSHMxZXlqUDlHSkxhakM3RW4tamgwY1ExUFJrY0xSakd3VGFTYXZYNkxjTzF1N05SUm9wSkJnNE9qWk1MNnFTVmhBeXZZcHpDLTNfdzBrRy1WLUF2OA?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-01-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘운행률 6.8%’ 서울 시내버스 파업 이틀째…오후에 협상 재개",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZWXRVT3l6cXlsVnJjeVdkZy1wRE5XUzJVSUVHUmhRV0c5eDQwUDFpbVFuN2dWZmtHWE9XeWV6MkRxQTdmOHFlNHpOYzlOQVhERGJsNFF3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t3",
+      "title": "현대차 노조, 로봇과 전면전... \"노사합의 없이 1대도 안 돼\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "현대차 노조, 로봇과 전면전... \"노사합의 없이 1대도 안 돼\"",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVhUemlvV2hHZ0dHbUR5bTJaaEw0RDNPQ09OejlpUWlOejdkSEt6MGFDYWVOS2FrdDExTWRiaHNmWkhkNWR0alZDTmxWRkU1bTd1VTQ2S2JRWEpQV2g1NEVoUFQwaF9Ya2J0N19DNnNnUmtCZGt3X3JVOHQ3MllNWmVKbWI4WThESm9fQnYzOA?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“노사 합의 없이는 1대도 못 들여“…현대차 노조, ’아틀라스’ 공식 반대",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlbG56LTg4Y2xUaHhjakdSQjRaRGRRNGpGaHMzYllmZ2ZNa2MtczlSN1NQekVlWEEyVzl1T05NN3ZCLVRuLXFxYWZBSDF0SU41Q1A5cFBCZUtKaDNObXpMSTd1VWJmdDQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대차 생산에 로봇 투입 쟁점화…노조 \"합의 없이 1대도 안돼\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KYnVKYm91RkpxZzN0c2N5U0t4azNPVlJFSHlGbVN6a21mVWw1bUVjbmFDWWRqVkJwdkJLU2lSSHc2QXBqZEhEbFc2TWdaY0tGMDVSdnRKSmhCMTTSAWBBVV95cUxQZnNPRVZ4NVYyTk9HY3JhQWllZ1hGd3hiWG5yTE5IQW9jWThINVBtZExLbFZ6MFhEQWJCMlFTZDBkSmoybk1aQWtmTGhoakFORXJ1VWhDeThaajgwVldsVXM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t4",
+      "title": "대법 양형위, 중대재해처벌법 위반 양형기준 만든다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "양형위원회, 내년까지 중대재해처벌법 위반 양형 기준 마련",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tdUd1QzRCb19pV2xFcW1rNDlzR0szaGMzMDBPVS05V2NmSV9iQm05RVJwVEIyZ2pMUGFtMEtJUWdCTnJ3c1E1XzJFT2RSLVZEMTMtTlB6WmNhYUpudWNQb1ZYRFFIdUU?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2026-01-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대법 양형위, 중대재해처벌법 위반 양형기준 만든다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jUHBUcl81UnVBb1RheW93U2ZESmc3ZE1HUW5wYmdXbUt1RjdYUXVUSXNJNi1henZBcU04U1FEZThLeS1WOU05YU5fVURWLXNuUW14dzBQaXRHSkp1QkRTTzdDdU43dWVyQTlzVVF30gFyQVVfeXFMTldvRWs4UWo0bDYzb2ZneWFoeWtOdzdBd3lGdWZFTVVaclFocE5ZY1Q3YXRDTDFoeUlQSkY4emNJOEZuMDBwOTJOZU9Zbl85anNXMUQzTzRyRm5Zd21WZXZfSFdnaXlXT09pUzBKckt3OFBB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'솜방망이 처벌 논란' 중대재해법 양형기준 만든다",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SdzBVVU9WVFlST09tb3RJSnV3ZERJMXNfRV84dHhseEtlbWJzZ1JzT2hVMGFkYURpMC16ZVRFeWFjUlV6UXliYWxCNmlEVnFjbVJKX3dtdnVBNzDSAWBBVV95cUxQdFd4WVBFZHdpamJWZW1MTjAycE1ZNnZLeHNBVjNJRU9EMTNWYTdHdXZTczR4cDZ2RTVvc1p5aFNnMWZTU1Q3SkRPM1ZELVN2c3dUX3lPNnBSSTRBV09SNDE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t5",
+      "title": "김충현대책위, “한전KPS 비정규직 직접고용, 이재명 정부가 책임져라” 기습시위",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김충현 대책위, 한전KPS 비정규직 ‘전원 직접고용’ 합의 이끌어내",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNGpDZnVVSmZIckt0WE1XQzZpOFpkOVRHT2xtcW1reXBEZXlUVzdMY1l5Wmk1VXRraHdCQlRBLTBsY29icE5na2ZzNGRBWjZjR0g3VFZ5SzVobEVBX1Z4a3RXMFduTFBLclpMSEpR0gFyQVVfeXFMUGE2Y1dfdk81ckpocGJyYjR6TDR6bnlabXFBbnlSUVhxU2JwblJCVzJKUlZOcGJSUDV4cjR3eDJ1UE1LR1dTd0R6dWdyd0hVSWlYUGladmNsNWZ5ZllJMnhpWVdEYUJ2OFJtQllNZkNDckNn?oc=5",
+          "source": "노동과세계",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“발전 비정규직 직접고용 정부가 책임져라” 김충현대책위 서울역 앞 기습시위 [현장 화보]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15ZEJZT0h5bTQ0OVR6WnBFc3RUSWxyZk82MzJfV19wWTNHYTFabktZZ0JaTThneG5BLVFqRDJOa3FqZnRnaTlfZTFpT1NrajhfeFZNTXFLY3pQZ9IBX0FVX3lxTE9vZVFzRGtDcV93MjA3NDVVNF9CSWdZQTg3Q2djYkNsbnZ6ZWgtTnQ5R1BwMWEtRHpaLW9FT3lUUWp2MW4yaHpIaTFJUGJObjNybUwyLUdZOGZCMXZwZFh3?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-01-07T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김충현대책위, “한전KPS 비정규직 직접고용, 이재명 정부가 책임져라” 기습시위",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZbHlJUnh2RmlyLXFha3UwUzg0UmxXZV8zMGh5cmp1Nk5oV2MtWkpEWUVXZ0trOTRqSEFMZ2ZpdkowMUtGSHlKZDhkaWt6YkxZTlUtSUlrOVllMjNreUNCM09TMzVYWTJQQlRvb1l30gFyQVVfeXFMUE9kMVNUTnJzZmVoQ0tuVjdBaFFsR2JpR0lWVGpkWUswZjB0MGpSSGZ6cjd6cFEtekF0XzVmUjQtcHp2a2RVQjF1ZF94OUlZVVZCMnpuaTZGWFBsY3YyZEZ0X0ZVUHBWdDJPWmJXM2dSNUZR?oc=5",
+          "source": "노동과세계",
+          "publishedAt": "2026-01-07T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t6",
+      "title": "삼성전자, 창사 이래 첫 ‘과반 노조’ 탄생",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "삼성전자, 창사 이래 첫 ‘과반 노조’ 탄생",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlpYVk9RVVJ1YzhQRmRXdVc4dVdXZEtpRHlNeG1PU3o1cDY5VVRLeEpDQm1CVWxaQy1rbTRIMnc0dDlvUEI3M0ZYaHRCZlRVX0VhXzA5RkFSZlgyN1NYN1pKV2JJUlFZcGhRdlowN3lPSjlwZ3F0QzlPVjdhd2tILVJoNA?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 첫 ‘과반 노조’ 탄생…노사관계 급변 예고",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10N0NSckxlNFlMaWFuUjdBMUlyOVYzMlp4NlJFSElMZlV1UUN2VkVEaW1oOUxiS3VNN2QyZk5lR0ZoeVFrbVd5T21KWHF2NlR0UFpZTzg0VFV4NnY5MHZpblRoMlI?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t7",
+      "title": "조선하청 “성과급 원하청 동일지급, 한화는 하는데 현대는?”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "조선하청 “성과급 원하청 동일지급, 한화는 하는데 현대는?”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rN0tSUjFFSEROVHR6ODdxRVdxLURkcmdEcjhXM2tvcXpiYmtReFpHN2FqTjZBM2t5VVpOR3luNTNUdEt0REthM3Q1VmZNeEdQSlpIMHAwTXNQQW4xb2xTcFNlZjJobWdNdHdqQ19RbWU?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“조선소 성과급 원·하청 동일 지급 ‘진짜 사장’이 답하라”",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSE5XVWpMU1JER3drQ05HS2ZRNlJ3SU5FeThCdHRBWlJ0bExiaC14SjBZbXNsakxsb00wdS1mT2h5WlVPemR4VjVIN0xObkl0T29RZnBWUkZkV3B5RHNvejJ1RXdCTkRuU0x0X3ZkUFhTLVk?oc=5",
+          "source": "울산저널i",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "서울",
+      "count": 18
+    },
+    {
+      "word": "시내버스",
+      "count": 14
+    },
+    {
+      "word": "현대차",
+      "count": 11
+    },
+    {
+      "word": "쿠팡",
+      "count": 10
+    },
+    {
+      "word": "고용노동부",
+      "count": 9
+    },
+    {
+      "word": "협상",
+      "count": 9
+    },
+    {
+      "word": "노동자",
+      "count": 9
+    },
+    {
+      "word": "노동부",
+      "count": 9
+    },
+    {
+      "word": "교섭",
+      "count": 8
+    },
+    {
+      "word": "첫차",
+      "count": 8
+    },
+    {
+      "word": "버스",
+      "count": 8
+    },
+    {
+      "word": "AI",
+      "count": 8
+    },
+    {
+      "word": "지원",
+      "count": 8
+    },
+    {
+      "word": "청년",
+      "count": 8
+    },
+    {
+      "word": "타결",
+      "count": 7
+    },
+    {
+      "word": "재개",
+      "count": 7
+    },
+    {
+      "word": "최대",
+      "count": 7
+    },
+    {
+      "word": "중대재해처벌법",
+      "count": 7
+    },
+    {
+      "word": "법원",
+      "count": 6
+    },
+    {
+      "word": "삼성전자",
+      "count": 6
+    },
+    {
+      "word": "의혹",
+      "count": 6
+    },
+    {
+      "word": "아틀라스",
+      "count": 6
+    },
+    {
+      "word": "성과급",
+      "count": 6
+    },
+    {
+      "word": "위반",
+      "count": 6
+    },
+    {
+      "word": "역대",
+      "count": 6
+    },
+    {
+      "word": "대법",
+      "count": 6
+    },
+    {
+      "word": "판결",
+      "count": 6
+    },
+    {
+      "word": "노조법",
+      "count": 5
+    },
+    {
+      "word": "합의",
+      "count": 5
+    },
+    {
+      "word": "필요",
+      "count": 5
+    },
+    {
+      "word": "출근길",
+      "count": 5
+    },
+    {
+      "word": "이틀째",
+      "count": 5
+    },
+    {
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "개정",
+      "count": 4
+    },
+    {
+      "word": "시행령",
+      "count": 4
+    },
+    {
+      "word": "원청",
+      "count": 4
+    },
+    {
+      "word": "일하",
+      "count": 4
+    },
+    {
+      "word": "사람",
+      "count": 4
+    },
+    {
+      "word": "로봇",
+      "count": 4
+    },
+    {
+      "word": "없이",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "01.07",
+      "event": "김충현대책위, “한전KPS 비정규직 직접고용, 이재명 정부가 책임져라” 기습시위"
+    },
+    {
+      "date": "01.12",
+      "event": "서울 시내버스 첫차부터 파업...출근길 대란 현실화"
+    },
+    {
+      "date": "01.13",
+      "event": "서울 버스파업 이틀째 출근길 혼잡…오후 협상 재개"
+    },
+    {
+      "date": "01.14",
+      "event": "서울 시내버스 파업 이틀 만에 타결…오늘 첫 차부터 정상"
+    },
+    {
+      "date": "01.22",
+      "event": "현대차 노조, 로봇과 전면전... \"노사합의 없이 1대도 안 돼\""
+    }
+  ]
+}

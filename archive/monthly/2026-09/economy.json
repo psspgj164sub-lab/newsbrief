@@ -1,0 +1,392 @@
+{
+  "month": "2026-09",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:34.066Z",
+  "articleCount": 202,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-09#t0",
+      "title": "8월 수출 983억달러로 역대 3위…반도체 사상 최대",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 8,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "8월 수출 983억달러로 역대 3위…반도체 사상 최대",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMmpNb25Nam1ZWFcybTBsTDBGTmg4RzZaOFhiS1dxaU9UUnpUWWxZWmtKbU04d0t2MnJsUmZLdmhzVGZ5Zk5vTWdkWVZkc05FOGNkYlk1M05malnSAWBBVV95cUxNcktsRXo3VHU2emdSM3pjQTV5ODR4VWFRSzZVRzNrYjlmWHJiVkFNTVFMT0Ffb0txSWtvazd2di1obnNzcVpRS2xiamtaTTVDRmROLXo5TnlXNHEyeUgwc2E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "8월 수출 982.5억 달러 ’역대 3위’…반도체 최대 실적",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iMjViUVhWMWVoMFpibVk0WVhRVnFBOGZxWl9QOWIxbnJ0MktHQkJ3bVlkNWIyUktJWUZfSEs0ZmxUdjZRaFJQR0t0dWNpVWkyMW9mbWtsQl9QZDNPRUktVjI4eXVQcmc?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "8월 수출 983억달러…68.7%↑·역대 3위 실적",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OMU55T3hWeE9BcWdscU16d050M1FnbWY3ZHJiLTVFUTJWUkEzcl9HWE9sUmFtYWZDclh1N1dhdllBZTlfZmpoWkdYTFh0ZUVBQWUyYnJnd3A5eGdTN3VpdVNvNzJOdGpHeWY0?oc=5",
+          "source": "파이낸셜신문",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-09#t1",
+      "title": "수출, 어제 벌써 역대 최대 지난해 실적 돌파...\"12월 초 1조 달러\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "수출, 어제 벌써 역대 최대 지난해 실적 돌파...\"12월 초 1조 달러\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KeEc0ZzhxZ0FLUzFscDN6TF8tQy1Ba1BfWURwM1RlVWNqSlhiNTJXSmVObWVHOVNDQ0Z4RjFIMWJGSEhPZ1l6Z3dIZUgxd1ZwdWpVMXBoWmg5QUlsZWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-09-06T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "李대통령, ‘역대 최대 수출’ 실적 홍보…관세청장 “12월초 1조 달러 전망”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VUlJ3Zk1kUzB6RHNSQy1faFpESURyckNFVVM0V1BzeFJGMElSbWlaLTFVbEJMLWpYWjFUc3cxLWRnQjZDVzVRbWNlcklmakR3SENIWERR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-09-05T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "수출, 오늘 벌써 역대 최대 지난해 실적 돌파...\"12월 초 1조 달러\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xcWdoYUFROFpaZGlaMzN1SGp4NDUySkpMcWVIbk1NdzBEYVdvUGo5QVVQUlhlQi1yOWF1NTI1Z05VQ0tQZkRpaVpmSHNtbEJGYkROVWpDRllfRTFmenc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-09-05T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-09#t2",
+      "title": "수출 7,094억 달러…역대 최대 기록 갈아치운 한국 수출",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "수출 7,094억 달러…역대 최대 기록 갈아치운 한국 수출",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50eVpGZHplaVA2RF8tTVNvQmdPckZOT0dyRERWWUh4YlpEUEFYMnVzZFM3ZHVtYjJpem42NDlmNmdwWXVkSUR6S0VhSTk3Vy1GZkV3VnZQZEpPay15YXJOc09uaWNIZ9IBa0FVX3lxTE5HZHFGWFpaV25tSXBGYzBoUkxjaDhyR0EtNzdaVTVlY0R2clVUZEUxYWVMSU13U3ptMzVvek0zU0ZyOTA5SFpLWmFZU2ZtcEFBZHU2NkJUYVdVSmk1ZFJncEQteGpXeWdFNlR3?oc=5",
+          "source": "한국관세신문",
+          "publishedAt": "2026-09-08T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "9월 5일 13시 기준, 수출 7094억 달러...역대 최대 기록",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Pa3BCS2hBQ1Mwd1lQYXlnMjRCbFp0a1BLUXlkLWN1amhjSGxNT2JYcW9pM0taM0JfWGJkTzJTclpnOWNuMU01bHhtanZSMGFwNzU3SzNWZ2p1YnBCeDR6bnBfbTFDZUgxTlE?oc=5",
+          "source": "Daily NTN",
+          "publishedAt": "2026-09-07T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-09#t3",
+      "title": "골드만삭스 \"코스피 목표 12,000 유지…실적 지속기간 과소평가\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "골드만삭스 \"코스피 목표 12,000 유지…실적 지속기간 과소평가\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83Y21FWHFOdVZoTDJsODNlN3Bubi00aGdzN0tjTTlhMUtrQ1AySF9tV2p0Z1ZWb0JRUGk3Mk9nZUpSdjFPM1o4X2FnbUtQTl9iZl9GV3h1UTJfRknSAWBBVV95cUxQRVZ5aFRsZkQtZ2hsUnZJREF2NV9YUFVPcFdZVHhLQkozcDJZek5NZXZRZUo5XzBHdndqS2liT3NJZzc4RVZmZXdvRm83RndObU9fcEVWVXpfMGxmdXdKdkE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-07T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "골드만삭스, 코스피 '12,000' 목표가 유지…\"반도체 실적 사이클 과소평가\"",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HLTJQeUZpOHdjVEVFQUhSN0NUNnk1UmpVVDNEQVBLUENFQjJoVmh1NGljbTZrUkg3dXlQZ204U3ZzblBTNkc5d20zb09Od1NNTU5UREtXcVp5RXZE?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2026-09-07T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-09#t4",
+      "title": "9월 초 수출 7천억달러 돌파…지난해 연간 실적 넘어",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "9월 초 수출 7천억달러 돌파…지난해 연간 실적 넘어",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWNvSzgwcVJDRjlWQktMT0thbWNlSG4tT1FaNHJlSnpydm5FSi11TVRxSFJzY2JRTWV5aFQ3T2xYMjVqQjNJUnlsdVM2enZMQXpWNXktLTNJT3ZreXpDVGlzaE8zT21ZYjZ0WmhQSzZBVnE5WHZyTGVuWGV1a0IyTktGZkNtWjJjcWtXelhR?oc=5",
+          "source": "국제신문",
+          "publishedAt": "2026-09-05T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "9월 초 수출누계 7천억달러 돌파…작년 연간 최대 실적 넘어",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zRVFiUlRPSnN1a0E5U2xuVDhxOExNejJLck9SeC0wRWhPY1NmNGQwX0ZuQ0J5U1lWOU9DeUN0MW1nOEVpaHg0ME9BY01fS1RuOFY0LXhKdF9OS3fSAWBBVV95cUxPZmVTdlhOU2pJYnNNY2dPWWp6OXBMdERfOHNMLWJScC1aNGoteVhobkdtWFZMa2pYdXhWU3VsYmxDbnE3dUN3UDJwdEtETGtOOFVVaDd4OTlGckF5eHhmOWM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-05T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-09#t5",
+      "title": "8월 반도체 수출 또 역대 최대… 올해에만 다섯번 경신",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "8월 반도체 수출 또 역대 최대… 올해에만 다섯번 경신",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXNJdGo3blp5VDk3OXQtT3JtZHlKMWZyNkgwdF9FdkR0VmxCNXZQSElHZkFMeTRZS0pLYVR5eDdKbFlfcWY3a0hDTTl2QXdEU1RWdmttdkdTcWk5MmdMdXNwdjRIQ0JkSGxHbjJtLW9CNGdIZkV4UTVPdTkzMVFKUEF3cVZOaW5YZElna3Fn?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-09-02T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "8월 수출 역대 3위…반도체 올해만 다섯번째 기록 경신(종합2보)",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YYWpKNVg2WHJwMEpHLThZeG85T0YtUFlYbW1zNkZGTGowRTZMRXRhYlpUa1hRbnpNUTNGRC1MVUpjUURVWlVWcUY3N0xLRU45R2g0TkpUalpwMTBVSWZZU001cnV0aG9ySzRwM1FpWFI?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-09#t6",
+      "title": "8월 수출도 900억달러 돌파…1조 고지 보인다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "8월 수출도 900억달러 돌파…1조 고지 보인다",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14MkpfdnNra19aV1U2bFJHbGhDRW1hUXFGRnk1VEdvUnEwR1JzbmR0aVd3YXVUaUZqZFBueUN5Z082c0pqOUpBbXJrWTZaSGVEanVCUzd6aEYxdUVyVGV2LWwyb29QbEtaNVhSSVVpcDc5OXM?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2026-09-02T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "8월 수출도 900억달러 넘었다…반도체 역대 최대 기록 경신",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yck1WdWdRNklZM2lndTJYVTZLZXVDYzIxZWV3TFRLaTlCQXVWZjVfblc3SkdJanI2RHluRE9xYlhpRkF2dmttSHgtWWJEVkpuSi01OWNCQjBpUQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-09#t7",
+      "title": "부동산 불법 광고, 1만여 건 적발 - 전체 | 카드/한컷 | 멀티미디어",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "부동산 불법 광고, 1만여 건 적발 - 전체 | 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIN3hQaW9OYWlCbmMxWjdOR2JCSjFkNjJWRmpoTks0QUtYeGJwQTIybENTTUtqVmJHTzNuVWRfQU1qT2ttRlhYdU1fWlNFM2xkTWtLWUI1NldoZkR5OFdoSFZNdEN2RHUwSWs2VHpB?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-09-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "종합부동산세 줄일 수 있는 신고·신청 Q&A - 전체 | 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GVW5FRnBnMWFWZS0zOVdaU1Q3UU0xSTNaN1VGeGYzVkVjWHB6azA5QlRaMlFyU18zemRXc2tsWUZHanI5c2M0NWw2QlZFMGt4SHBBd2hCbkpCS2g1MjVfeVZZVVFYNDdYTFNuNmlB?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-09-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "달러",
+      "count": 26
+    },
+    {
+      "word": "하락",
+      "count": 22
+    },
+    {
+      "word": "역대",
+      "count": 22
+    },
+    {
+      "word": "최대",
+      "count": 20
+    },
+    {
+      "word": "돌파",
+      "count": 16
+    },
+    {
+      "word": "상승",
+      "count": 13
+    },
+    {
+      "word": "코스닥",
+      "count": 12
+    },
+    {
+      "word": "출발",
+      "count": 9
+    },
+    {
+      "word": "AI",
+      "count": 9
+    },
+    {
+      "word": "마감",
+      "count": 8
+    },
+    {
+      "word": "사상",
+      "count": 8
+    },
+    {
+      "word": "기록",
+      "count": 8
+    },
+    {
+      "word": "훈풍",
+      "count": 7
+    },
+    {
+      "word": "강세",
+      "count": 7
+    },
+    {
+      "word": "원화",
+      "count": 6
+    },
+    {
+      "word": "주식",
+      "count": 6
+    },
+    {
+      "word": "뉴욕증시",
+      "count": 6
+    },
+    {
+      "word": "중동",
+      "count": 6
+    },
+    {
+      "word": "국채금리",
+      "count": 6
+    },
+    {
+      "word": "급등",
+      "count": 6
+    },
+    {
+      "word": "연속",
+      "count": 6
+    },
+    {
+      "word": "반등",
+      "count": 6
+    },
+    {
+      "word": "삼전닉스",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "악재",
+      "count": 5
+    },
+    {
+      "word": "유가",
+      "count": 5
+    },
+    {
+      "word": "동반",
+      "count": 5
+    },
+    {
+      "word": "탈환",
+      "count": 5
+    },
+    {
+      "word": "자사주",
+      "count": 5
+    },
+    {
+      "word": "연간",
+      "count": 5
+    },
+    {
+      "word": "경신",
+      "count": 5
+    },
+    {
+      "word": "벌써",
+      "count": 5
+    },
+    {
+      "word": "작년",
+      "count": 5
+    },
+    {
+      "word": "수출실적",
+      "count": 5
+    },
+    {
+      "word": "장중",
+      "count": 4
+    },
+    {
+      "word": "성장",
+      "count": 4
+    },
+    {
+      "word": "약세",
+      "count": 4
+    },
+    {
+      "word": "효과",
+      "count": 4
+    },
+    {
+      "word": "매입",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "09.01",
+      "event": "8월 수출 983억달러로 역대 3위…반도체 사상 최대"
+    },
+    {
+      "date": "09.05",
+      "event": "수출, 어제 벌써 역대 최대 지난해 실적 돌파...\"12월 초 1조 달러\""
+    },
+    {
+      "date": "09.07",
+      "event": "수출 7,094억 달러…역대 최대 기록 갈아치운 한국 수출"
+    }
+  ]
+}

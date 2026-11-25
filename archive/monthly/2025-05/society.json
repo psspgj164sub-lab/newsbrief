@@ -1,0 +1,386 @@
+{
+  "month": "2025-05",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:24.245Z",
+  "articleCount": 171,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-05#t0",
+      "title": "\"한국 잠재성장률 2040년대 0% 안팎 추락…원인은 고령화\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "'고령화·저출산' 경제가 늙는다···韓 잠재성장률 2040년 0%대 전망",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZYTdEbDlXeXZhQ3J1SjRpbHhPaEZ4WmtYTWNvaUF1ellUU25mWDBiREx1aGI3Sk81ajBJRnBadEh1dXZGczdYemRXcmVTUl9hSDJOZVZuSjRtVWxlR1FaUkNiVngtQXdNYXQ0ODBtY0w4eE3SAXdBVV95cUxNUUh3OFF6Y1FEbzRQNndvOU1IMlA2blJBZlROeExyVDBNaUIwLTRpdDM4NkNGYVRHQ1BOXzVCQVo0RHFseDhtcHdLNnVxR3k4TWk5anRDRS1LbUVjbm10YVJKblFpU3NWU2dzV1VNR1RKMGxWRU9OYw?oc=5",
+          "source": "여성경제신문",
+          "publishedAt": "2025-05-09T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"한국 잠재성장률 2040년대 0% 안팎 추락…원인은 고령화\"",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZGM0SDJxUnJxZTdqanBTbDVZTEx6dkl5ZS1xT19fWXQ0aEN6aXRzSVFJa0NjaDBhYXM1OUFUcmRpdEtwekswd20ybTN6UUhNMTZKSUtR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-05-08T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국 잠재성장률, ‘고령화’로 치명타…2040년대엔 0.1%",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03MkRPNlZvYjNISDlST1JrbW1CTVdhMFVuMlJpUm5yV01uUG82bzd5RXpkeGRxZzdyUWM0YmVMa3hFWjQtRXVyZDZ4UTV4eTgzQUlELTVQWWZJZ9IBX0FVX3lxTE8yX2Rhc3pPcGRRZngtaVhEMmppa1c3MkJWVlh4d19adUlsN0N4cDhVd1VLdFQ5Z1F1dzVQdkRjMjFEX29IOEVuclptX1VqaTFBQzlVYnZLN2h6RUU0ODc4?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-05-08T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t1",
+      "title": "천대엽 법원행정처장 “최고법원 판결 존중 없이 법치주의 없어”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "천대엽 법원행정처장 “최고법원 판결 존중 없이 법치주의 없어”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wVVU0UFdyU01xVk11OUdTTUJvSERGeEUxdlNVVy01Y1kyeWhYeGVjVDRnUkN2Xy1Pc3FxYy1nem5NQ1poQ3V2aUQ0UHlvNnFtVVpJRlVIWmE2QTQ?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-05-02T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원행정처장 \"최고법원 판결 존중해야…헌법·법률 따라 처리\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zMlJidUJVU1V1U3J1SzI1UzBzNXpsbzZ3aDBRWllLUHZKWXFfZ1dBUlRTYzZBMHduZi1hRjZlUE1ZMVRkeU9rRXZ6THc5U05WZGhrZHpVY0VUZFXSAWBBVV95cUxNOGJZbWpqdmF5NHJ3cmRaSXhEOUFPLW5wUW0zcFZPOWIzVTZUak1VdXBwNjJGZ0lsUlR5VGkyRlRCQVc3elFYOUlrcXdLbGk5aGN6MUVxWjBZV0Q5SXlyT3M?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-02T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "천대엽 \"쿠데타라 볼 수 없어…최고 법원 판결 존중해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sbVRGNG5Cc2xiaWFhRjJ4UDJfazlxSHh0MlBhMmFVbFJwaS1BZ0pNX2tZYWU3OUlJRGdsazQwZ00tVzVWU1RGUGp1TVR3eFN5Y0phWQ?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2025-05-02T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t2",
+      "title": "중국 산둥성 화학공장서 폭발사고…5명 사망·6명 실종",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "중국 산둥성 화학공장서 폭발사고…5명 사망·6명 실종",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BQk1KWGJZVm9PUE1ZRHRmWVJGT1ZoVW40WTdGVVBYTDBVXzFiN3dLc2I2M3BraHJtS0FmcnYwVC1KRnREeXczdDN5SnBGUzJZaGVUSF9BNFVaZHZPeHl0TWIwbm9yQUE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "중국 산둥성 화학공장서 폭발사고···5명 사망·6명 실종",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42ZDlLd3VWWjRYX0RFQk15T1poZ0tuWFFEVFdCYXRITzNmVlpPS1ZkTS1XakRLX0FrQVdKdUd6VnZXbHRRdEpCejI0OTNSSk9fdzZzQzhmZEVJUdIBX0FVX3lxTE1Ka3ZTekd2bUx5cTdjdGp0Vy04WXNmTUtKYmFndkZQX1lreTZSamx4bzNzck5WMzlPVlpJTkpFVHZuRnhVdFpYbGc3Tk1ZNXFmbmZiQUVxb2R0SzZjX2hR?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t3",
+      "title": "법원 \"'콜 몰아주기' 카카오모빌리티, 200억대 과징금 취소\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원 \"'콜 몰아주기' 카카오모빌리티, 200억대 과징금 취소\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aeG9DVWhPOUdxM080V1M0d0pTdnBDaVZ0aVJULUFqTmNaYzdBMHlCTTlaRlhDVDNaV1Ixc2kwNEFtcEZOVFV3Ni10clVHcVpYSUlsV2xITmNlQVExQ2EyWFJUNzVDVnpmaWlVQU530gFyQVVfeXFMTnZNaVVyWDJLQUJ6VWQ2VTRadVJRbzI1cUlQcnYxZkNCazFrMUYxZjdTZ3dOS2NXWkIzVXBzQ1NSMjV5VG4xRTEwdjdCUy0xd0JIaHhLcGFxZDJVa0pFN3FWeFY2SUJ1YzhfLXVjSWt5WjdB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-05-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원, ‘콜 몰아주기’ 카카오모빌리티 과징금 271억원 취소",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00VkZsb2diUXFRVXZqS2tCMTJyZTk5d2JockZVWk85OENaMnY1XzN5dVRraXFRU0FuZWlLSTdlYS1ZcHhBQXZMU1Y5UFh3N1JNSmphSExuQkV3Y3ZzYzZHeUptN2F5NWpvSFc2QW1TRQ?oc=5",
+          "source": "법조신문",
+          "publishedAt": "2025-05-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t4",
+      "title": "이재명 “동물복지 기본법 제정…동물보호 넘어 복지 선진국으로”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이재명 “동물복지 기본법 제정…동물보호 넘어 복지 선진국으로”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZaWlsMGtlZmVJMmFsNVBZNE5BelBvR0NlbGYtOGZUdHA5V2RZZWgzeTNYV01JM2x3emJPQWVFcTlYanVkbjAxdHZ4b2JUNEdXaVRBZERZZ09mSjhzSHN4WjhObkFWV2ZEX3c?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-05-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이재명 \"동물보호 넘어 복지 체계로\"…반려동물 정책 발표",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95c0RtV0JhU1F2enM2ckgtcHRTVUlwQWE1YThmR3RMR2JZektQNFNKTHBMUU8zV1FrNjMzYndIUDcwdEFBS3VXX24xUU5OY2d1WXNxcA?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2025-05-21T01:39:12.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t5",
+      "title": "공무원 채용후보자의 과거 성범죄 전과로 인한 미임용 처분은 정당",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "공무원 채용후보자의 과거 성범죄 전과로 인한 미임용 처분은 정당",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rTE1IZVpBbmlzZTliRWxUZjBFLXhxSmFqUWktekRxV1ZwLXd5anhxY2hYamlJRTdZQ1o4WGtMM1d0V2xKT2pjM2cwZ0dneVBKVDB4Tzh3MmRFZHJjQWFwMzBXMEZCQ3ZTanRhMmt4OA?oc=5",
+          "source": "법조신문",
+          "publishedAt": "2025-05-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "공무원 채용후보자 된 후 과거 성범죄 발각...\"미임용 처분 정당\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtTXFtVHdBUUNuNDZGSE5XTHl4ZXZhUWZMeXd4VDBZUmszaDlSYmdwck0xMVkwTkF2UDlyd25TME9wX01XUXJqN0ZuOGJsWUxvem5STU0taHlZQ1JrMTV6Umw5NG5MQ2lYMVVxb0930gFyQVVfeXFMUHZsVzYzS2VnNkpORmJNOXpLN19vRTVoc28taE1pY0dkVjF2QWJ3MEE4NVpnR3NjSEc4VWhVQmdDRHh5NkNIVnhTb20zMjJYNGpUR2RIVlFhRXEzaXBvOEJlTmVTVktmWW1fQTJHSVRGZVpB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-05-06T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t6",
+      "title": "마포역 지하철 화재 최초신고자 “바닥에 액체 뿌리자마자 사람들 도망갔다”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "마포역 지하철 화재 최초신고자 “바닥에 액체 뿌리자마자 사람들 도망갔다”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TdHZuQ0dEV1BNNlhlTUUtRDBEa2JLTTVFUm45Y2taTURaS3dRTEpEdkM1ejIyLWxWc0VVXzVHV2R0b1dWM3hSd0cwcV9FdGhLSjFXOHR4U0dMd9IBX0FVX3lxTFBOSm1XZWpDVTZ5cXN0bHFfekNzX19mMC0zWmRxbV9zRDloVXdvMlJ6eHZBeXRHNHpseTVCNEg1T19vek5OMTNYR1BmV1VNOGo1OUNiN1BPdlRidWNkdFBV?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t7",
+      "title": "속보 경찰 \"지하철 5호선 화재, 방화 추정...현행범 체포\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "속보 경찰 \"지하철 5호선 화재, 방화 추정...현행범 체포\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TllrVjhWTVEwd1BnVTh2cFowcmE3UWhLV1BfbGtHNEVwaEM5YjgxR2R3N2NYX0ZmcDhPSHJaMExKY2l2OU9Rdmt2MHN5SHY0S3hsLVRDQkVkbHpwNXc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "이재명",
+      "count": 6
+    },
+    {
+      "word": "취소",
+      "count": 6
+    },
+    {
+      "word": "처분",
+      "count": 6
+    },
+    {
+      "word": "대응",
+      "count": 5
+    },
+    {
+      "word": "금호타이어",
+      "count": 5
+    },
+    {
+      "word": "안전",
+      "count": 5
+    },
+    {
+      "word": "정당",
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "반복",
+      "count": 4
+    },
+    {
+      "word": "AI",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "원인",
+      "count": 4
+    },
+    {
+      "word": "사망사고",
+      "count": 4
+    },
+    {
+      "word": "공장",
+      "count": 4
+    },
+    {
+      "word": "기업",
+      "count": 4
+    },
+    {
+      "word": "대법원",
+      "count": 4
+    },
+    {
+      "word": "시스템",
+      "count": 3
+    },
+    {
+      "word": "교통사고",
+      "count": 3
+    },
+    {
+      "word": "증가",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "예방",
+      "count": 3
+    },
+    {
+      "word": "기술",
+      "count": 3
+    },
+    {
+      "word": "홍보",
+      "count": 3
+    },
+    {
+      "word": "피해",
+      "count": 3
+    },
+    {
+      "word": "구축함",
+      "count": 3
+    },
+    {
+      "word": "진수",
+      "count": 3
+    },
+    {
+      "word": "북한",
+      "count": 3
+    },
+    {
+      "word": "spc삼립",
+      "count": 3
+    },
+    {
+      "word": "지하철",
+      "count": 3
+    },
+    {
+      "word": "SPC",
+      "count": 3
+    },
+    {
+      "word": "아냐",
+      "count": 3
+    },
+    {
+      "word": "실종",
+      "count": 3
+    },
+    {
+      "word": "지키",
+      "count": 3
+    },
+    {
+      "word": "방화",
+      "count": 3
+    },
+    {
+      "word": "중국",
+      "count": 3
+    },
+    {
+      "word": "잠재성장률",
+      "count": 3
+    },
+    {
+      "word": "대법",
+      "count": 3
+    },
+    {
+      "word": "뇌물",
+      "count": 2
+    },
+    {
+      "word": "번째",
+      "count": 2
+    },
+    {
+      "word": "끼임",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.06",
+      "event": "공무원 채용후보자의 과거 성범죄 전과로 인한 미임용 처분은 정당"
+    },
+    {
+      "date": "05.08",
+      "event": "\"한국 잠재성장률 2040년대 0% 안팎 추락…원인은 고령화\""
+    },
+    {
+      "date": "05.21",
+      "event": "이재명 “동물복지 기본법 제정…동물보호 넘어 복지 선진국으로”"
+    },
+    {
+      "date": "05.22",
+      "event": "법원 \"'콜 몰아주기' 카카오모빌리티, 200억대 과징금 취소\""
+    },
+    {
+      "date": "05.28",
+      "event": "중국 산둥성 화학공장서 폭발사고…5명 사망·6명 실종"
+    }
+  ]
+}

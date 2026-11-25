@@ -1,0 +1,742 @@
+{
+  "period": "short",
+  "periodLabel": "단기 · 최근 1주",
+  "category": "economy",
+  "categoryLabel": "경제",
+  "range": {
+    "from": "2026-11-19",
+    "to": "2026-11-25"
+  },
+  "updatedAt": "2026-11-25T05:39:40.193Z",
+  "ai": false,
+  "headline": "가계대출 금리 5% 돌파…주담대 금리 14년7개월 만에 최고",
+  "overview": "최근 1주 경제 분야 기사 319건(122개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「가계대출 금리 5% 돌파…주담대 금리 14년7개월 만에 최고」(기사 16건·매체 16곳), 「코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납」(기사 14건·매체 11곳), 「외국인, 국채선물 대량 매수…마지막 금리인상에 베팅?」(기사 4건·매체 4곳)입니다. 자주 등장한 키워드는 급락, 돌파, 최고, 매도, 사이드카입니다.",
+  "keyPoints": [],
+  "keywords": [
+    {
+      "word": "급락",
+      "count": 34
+    },
+    {
+      "word": "돌파",
+      "count": 20
+    },
+    {
+      "word": "최고",
+      "count": 19
+    },
+    {
+      "word": "매도",
+      "count": 19
+    },
+    {
+      "word": "사이드카",
+      "count": 19
+    },
+    {
+      "word": "AI",
+      "count": 18
+    },
+    {
+      "word": "하락",
+      "count": 18
+    },
+    {
+      "word": "역대",
+      "count": 16
+    },
+    {
+      "word": "수상",
+      "count": 15
+    },
+    {
+      "word": "가계대출",
+      "count": 15
+    },
+    {
+      "word": "달러",
+      "count": 14
+    },
+    {
+      "word": "주담대",
+      "count": 14
+    },
+    {
+      "word": "상승",
+      "count": 13
+    },
+    {
+      "word": "최대",
+      "count": 13
+    }
+  ],
+  "rising": [
+    {
+      "word": "급락",
+      "change": 229
+    },
+    {
+      "word": "사이드카",
+      "change": null
+    },
+    {
+      "word": "하락",
+      "change": null
+    },
+    {
+      "word": "가계대출",
+      "change": null
+    },
+    {
+      "word": "주담대",
+      "change": null
+    },
+    {
+      "word": "인상",
+      "change": null
+    }
+  ],
+  "issues": [
+    {
+      "title": "가계대출 금리 5% 돌파…주담대 금리 14년7개월 만에 최고",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "은행 가계대출 금리 3년 만에 5% 돌파…주담대 14년 7개월 만에 최고",
+          "source": "www.hidomin.com"
+        },
+        {
+          "title": "은행 가계대출 금리 5% 돌파…3년 만에 최고 수준",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "주담대 금리 14년 7개월 만에 최고…가계대출도 5% 넘어",
+          "source": "대한경제"
+        }
+      ],
+      "span": "11.25",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 16,
+      "articleCount": 16,
+      "articles": [
+        {
+          "title": "은행 가계대출 금리 3년 만에 5% 돌파…주담대 14년 7개월 만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZGZVdTFncXc1ZXFMMzZ0dmJoa3dMTnFESXlOSEdvN2JPMWZaWVc1SGdJa0Z3MG5lczU1YlRhamczWVZ0OVdjWXZ6azNtenBnTzF3MDZDWFpXYmxmWnRFTlpzRkNKUlhwTGc?oc=5",
+          "source": "www.hidomin.com",
+          "publishedAt": "2026-11-25T05:27:24.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "은행 가계대출 금리 5% 돌파…3년 만에 최고 수준",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fdUlSNEpTZ0lONS1BOUgzZEZ0YUNMOWtlcXFpaEZOR2FZZHlDZE1wd1dNTE9JaHVDT0lIVWN3blBKcm0wc1g1bEFuMzRkRDRQX1dzTk1UZFRCQQ?oc=5",
+          "source": "브릿지경제",
+          "publishedAt": "2026-11-25T05:26:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "가계대출 금리 5% 돌파…주담대 금리 14년7개월 만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vS1pQVFZURi1rQlhpQUVTb24ycTlJWGJaa01UOEFhOEtCWXhqd29HY0lXNWFKZFNQMENSRThtNF9fUXJKX1VYMkpkbl9oZ3RtbHc?oc=5",
+          "source": "매일경제 마켓",
+          "publishedAt": "2026-11-25T05:17:13.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "주담대 금리 14년 7개월 만에 최고…가계대출도 5% 넘어",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83cHhBbGpyR0VVZDBIWUI4LURTckpVTWVNMHl4R1FGZEVMQVFQcE5zUS1FSEFGODl0RHNmb3RBQkpya0NPaFNxcGp0YVRfSTNTNE1nUkFPbnc4YkMxT3dzMEJLcThTM1FlWElFc0kxY3FmWjQ?oc=5",
+          "source": "대한경제",
+          "publishedAt": "2026-11-25T04:40:16.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "10월 가계대출 금리, 2년 11개월 만에 5% 돌파…주담대도 최고",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2RPX0c1NVFqOVE4cVRqbHdUOFZEQXRBT2NEQVZJUE5IcUxwdkxPMnpMdUEyQjFRRG9wUlF1VjIyYVNmMXFtTlhrRllfc0VxVmowWFJNYTQxZDRhUExEalJBMzJXbFhYTHFmeTFhWjIxM25lM1YtQWtJcTlMM0pwTnFISlE?oc=5",
+          "source": "글로벌이코노믹",
+          "publishedAt": "2026-11-25T04:15:30.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "10월 은행 가계대출 금리 5% 돌파⋯주담대 14년 7개월 만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12VkJUYnJXYkVYN2YydDJQZ2MyN29aYXUyTkVCUlJOUndWel90ZG1yeXQ2RkJYQl95RmRLdGpCMldiZU1fcGVUV2RuczFVaUxVbURJQTkwcm1oc0YyRlFZ?oc=5",
+          "source": "포커스온경제",
+          "publishedAt": "2026-11-25T03:54:09.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "‘일장황몽’ 코스피…하루 만에 5000피 반납, 나흘 연속 사이드카",
+          "source": "중앙일보"
+        }
+      ],
+      "span": "11.23~11.25",
+      "days": 2,
+      "hasPress": false,
+      "sourceCount": 11,
+      "articleCount": 14,
+      "articles": [
+        {
+          "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T1Q0azJtRnRpMGVfQ3Bnb2FubG1wbE1TNDlnTkxkSEdoeTVEUDNCRzhjeGYxT2xkMU81eTVRZWtnUzVhck9QVzF5RE8wNlRDajFYUWUydWYwNGRJaGdBaWpUaDlYLTQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-25T03:03:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaRWNRdk1DM242ZU14d3RsM2lBU0VMQXNaajJsZHhkR3VPV3dPenZ1UGd1VnI1WC1HZUFuOWdhdUpWS0lja2R0OHBqY3JOVTFYMENuc3o4UWNIRWM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T03:01:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘일장황몽’ 코스피…하루 만에 5000피 반납, 나흘 연속 사이드카",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aTJ3ZmFsamVweHJ5Qzc4RzFrX1dzTl9jN3laX09zOXQzYmgtNjA3azVEM0pZbUhfWWk4R0NOTEwzNlVXckpJZWhvaDQwLVVEWUZxMXBB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-25T01:21:13.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "하루 만에 뒤집힌 증시...코스피 5%대 급락, 매도 사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmcmxTdEJDbU0yOVE5NVNldTBDc3hRd214aVBTd1pXOHNkeWJzVG15TWk5SDlzQ2xWY3k1YmxxbmRabG5aZ3dtV0EwTjZuRFVDNUhhalAxQl9oTENWb2Fabw?oc=5",
+          "source": "KBC광주방송",
+          "publishedAt": "2026-11-25T01:05:01.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 하루 만에 5000선 반납…삼전·하닉 6%대 뚝",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LeEVWdHVVNXN5a18yOHZRMTV0c0VNdFVYVmZyUGEweFctMXJkVy0wN2FrZ2ZVNEZTcDU1aGVheXh3ODZIdGkxVlpKTHc3UQ?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-25T00:21:30.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "또다시 '매도 사이드카'...하루 만에 주저앉은 코스피 [자막뉴스]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRGMtS0ZIUUlILTFMd055dV9ZM0ZJeTBMSnlKdDBnS0k1aVJ1RXlwY0pZSTFlWmpvaXhBTTJLQ0pEbXBqeERJam9NenBBUDJqemg3TnZkTEVPa2MzSFE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-25T00:15:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "외국인, 국채선물 대량 매수…마지막 금리인상에 베팅?",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "“이번이 마지막 금리 인상?”…외국인, 10년물 국채선물 대거 사들였다",
+          "source": "매일경제"
+        },
+        {
+          "title": "한국은행 금통위 앞두고 외국인 국채선물 대거 매수…“이번이 마지막 금리 인상?”",
+          "source": "키즈맘"
+        },
+        {
+          "title": "마지막 금리인상에 베팅?…외인, 금통위 앞두고 국채선물 대량 매수",
+          "source": "연합뉴스"
+        }
+      ],
+      "span": "11.25",
+      "days": 1,
+      "hasPress": true,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "한국은행 금통위 앞두고 외국인 국채선물 대거 매수…“이번이 마지막 금리 인상?”",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veldILXp5RG14bHB4a1FKSDc2UmZoVDl2ZVRUdEtmblR1ajAtOHh1T0dMSXQyOGVrSGhfUXhJTkFjYkJWNWdTcC1xX0dXSGxhZ2FyQ19BUDRjTFpTUUNaUDJBbF9BUjZS?oc=5",
+          "source": "키즈맘",
+          "publishedAt": "2026-11-24T23:16:02.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "“이번이 마지막 금리 인상?”…외국인, 10년물 국채선물 대거 사들였다",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWMXZiRGdIVnEwenRWclBJOW1rRDZ5aGpLZ29YNHNTemp4RlY0RVlkQWRzMlZaS0p5dmE5d2JYZGhLQ0JMbUY4WmYwQTJqWjN3bkJBSQ?oc=5",
+          "source": "매일경제",
+          "publishedAt": "2026-11-25T02:03:32.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "외국인, 국채선물 대량 매수…마지막 금리인상에 베팅?",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakM4ajgwdDhHVDR0WFVDLU8xUHlWMzctQmtxRXVzYTJkUk0tTEFBMEVKZk1Id2Y3ZnJDTlZ4UkItQVR4UU9PMGVveWtjdlBjYXdSZTVqYmkxamdkUlp0TTRnaXhWRlFpcHNvdGdNTTh2ZW45d01pME1hSUdJNkJNQTl6VkJBM1NuRm5XeGZpWQ?oc=5",
+          "source": "news.sbs.co.kr",
+          "publishedAt": "2026-11-25T00:48:29.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "마지막 금리인상에 베팅?…외인, 금통위 앞두고 국채선물 대량 매수",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZ21nNjFSVHI4TF9zQXlDTlk1VEtKa2VhY3hfNjlNVTBCeEFxTjlKeEVLckJEV0pMVE5aQjRmQXltdmJfbjNoMEVXM2FqbnhhUlVDU2hza0dJRW_SAWBBVV95cUxNdlBiRFFqWlRjOUpVRlppZ0xHUi02MnJ2OFpXZkE3NlY2bC1qUnBrUkFFYzJyQXZQSnFuN0ozeDlCSmlJTkRsRjh2VVBHVDRyVDBnLWhzM0p5d3BvQWVGZEg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-24T23:00:02.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "iM뱅크, 한국부동산원과 주거래은행 업무협약",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "한국부동산원·iM뱅크, 주거래은행 업무협약 체결",
+          "source": "매일일보"
+        },
+        {
+          "title": "iM뱅크-한국부동산원 주거래은행 협약",
+          "source": "Tbc.co.kr"
+        },
+        {
+          "title": "iM뱅크, 한국부동산원과 주거래 은행 협약",
+          "source": "연합뉴스"
+        }
+      ],
+      "span": "11.25",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "iM뱅크, 한국부동산원과 주거래은행 업무협약",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZX1ItdEpnTHlXSmcxTmM5STFJY3hJTllMMG9GQ0NpS3FYTlRzejRiY3NET2RTRnotYy1LMDQwT3FsRHFkYWZIQ1B4bTNsUVpyd3huQ3dPQ0g2eEUwQlhrWEVEa1o?oc=5",
+          "source": "한국세정신문",
+          "publishedAt": "2026-11-25T03:05:24.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국부동산원·iM뱅크, 주거래은행 업무협약 체결",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hNlRGUXJzTUpxVzlackFwVWFFMDFOb1pfb00xcXFjdU5fSHFES3FaSkxjU1N6QlRTYWx5WTNRUkMxQ3BCSXQ5NElCcl9wWlNlTlgxRVN1REJrX0JkOFVxUHhyeG0?oc=5",
+          "source": "매일일보",
+          "publishedAt": "2026-11-25T01:59:24.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "iM뱅크-한국부동산원 주거래은행 협약",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXpzbENPMlFBM0l1Y3UwZjd2LXRKeWp3WFRzcG1OeFJqZWpYU3ZwSWJpRmJnVS1UT2MzX0NrdEIzd19LT1pjSE1mbmdGXzFLZThjeEhuekhvOVlqUkljX3J4RUNIUGItYVlMN2JuWE9mc1B1cmNxNUxCVXNmRk1kSGFabUxhQQ?oc=5",
+          "source": "Tbc.co.kr",
+          "publishedAt": "2026-11-25T01:38:18.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "iM뱅크, 한국부동산원과 주거래 은행 협약",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4bFc3OVJkSHM1WGNFekFuVVBTcC1yRm01TUNjdV80VVZLWEtBVE1Qc0k3Mm5IeW1TZnQzOUFISlNub1A1Ylk2Q1p1R0F0bjBobFRIWHExSFRiUWvSAWBBVV95cUxPX3Q4Rnlwam9WOU80NlhHRTV4NjhIMnUySDFCX3cwWDVJYjNyV0FsSkI1UTJJVUUxMTZFNE5LWGxPNGpsRU0xS2xfOUhEX0IzbUxNNUdDbmlYY1NjLUNuMHA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-25T00:38:48.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "삼성전자 '역대 최대 실적' 반도체 힘 실었다...HBM4 주역 등 131명 승진",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "‘HBM4 양산·역대급실적’ 힘 실었다…삼성전자,반도체임원 70명 승진",
+          "source": "뉴스톱"
+        },
+        {
+          "title": "삼성전자, 임원 131명 승진…반도체 실적 주역 중용·여성 역대 최다",
+          "source": "서울타임즈뉴스"
+        },
+        {
+          "title": "삼성전자 임원 131명 승진…역대 최대 실적에도 30명 줄이고 반도체 집중",
+          "source": "전자신문"
+        }
+      ],
+      "span": "11.24",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "‘HBM4 양산·역대급실적’ 힘 실었다…삼성전자,반도체임원 70명 승진",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WOHdhZ3NCV09ySWRqMHR5YnA0bWlRc2tDU190Sm9UazF6azRsblFHcDBhWEtVaWdiLXMxRXJkVU1VVDlEVEkwREJzMVFIRTQ2X2llcXI0SllLc1NzX0E?oc=5",
+          "source": "뉴스톱",
+          "publishedAt": "2026-11-24T05:39:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 '역대 최대 실적' 반도체 힘 실었다...HBM4 주역 등 131명 승진",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMGZ0MGUyaWtlZ0RfZGk5eFd6cEFycnVIUUFlc190Z1IzcnJnQXFfSFpuZXJ0S29kYnJ3MC1Cc0VzWThOc2k4U2RtWk1KS3loYURCc205aU43NVpvQ0F3?oc=5",
+          "source": "MTN 머니투데이방송",
+          "publishedAt": "2026-11-24T00:22:17.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 임원 131명 승진…반도체 실적 주역 중용·여성 역대 최다",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kdndsV1FabUZ0QjhNbFpYME9Fc29aNHBiUkhpVG11bWd1Q0RDdnZUSzZxcDBzUEhKWXU1V1ZEUTlSUFNTUHI3QmR1bzBaUFo3YUtibm1pQ3Ztd1ZucXZ6Ykl4SWptS0o3RVpR?oc=5",
+          "source": "서울타임즈뉴스",
+          "publishedAt": "2026-11-24T00:20:03.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 임원 131명 승진…역대 최대 실적에도 30명 줄이고 반도체 집중",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVlmTGJNcXg5QWxrUGpRbmh0enlKNnRWMVMyTHI4QnduNEVwVzJpdHNGV0R0ZmNWOTRCWEVndlc4YnFOelR4LU1wUUdzYTUwVW5BRXljakxIcC1ucUFDM25IZWRFYzNPTlk0UlUtdWNrelpVSVVwdjdSc050YnZjdS16VHdrV3FwWE43dzE1a2tHREg0ZWt6SDd3MGQ5MkxxSkpxbTJaeVdyX2l1RGt1TEpOMzRpbTNsNnU2SUlIT3ZLbDg4RFpsZjlldTF4cGZGeU5fLUlFOA?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-24T00:13:41.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "삼성전자, 반도체 실적 부사장 3명 사장 승진",
+          "source": "퍼블릭뉴스통신"
+        },
+        {
+          "title": "“반도체 실적 주역 사장 승진·전면 배치”..삼성전자, 2027년 정기 사장단 인사 단행",
+          "source": "데일리카"
+        },
+        {
+          "title": "삼성전자, 반도체 '실적 주역' 3인 사장 발탁…전영현·노태문 미래사업 전념",
+          "source": "전자신문"
+        }
+      ],
+      "span": "11.20",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhaTY4Q3lVQnBHeU1MUkZXV3pIeldKYmJIaHNzU3FXWWZKY1k0c3FLb1p5Z2Y0bUhySEdvT001RU9MM3ljWE16YlQxRHdyazdZWWc?oc=5",
+          "source": "노컷뉴스",
+          "publishedAt": "2026-11-20T10:09:36.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 반도체 실적 부사장 3명 사장 승진",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZUZLRklMVW1udFNqaVE2a29odnVyVmttWHJJdXpYT05NVXZhaGdiZWRCVHJ3ZWE4WTd0OWZvMnZFTWhWcUp3WF9vQWxkVXVuM182d1JwcF9qdjEtOUlUbmV0eVA4eHRzQ3c?oc=5",
+          "source": "퍼블릭뉴스통신",
+          "publishedAt": "2026-11-20T05:17:10.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“반도체 실적 주역 사장 승진·전면 배치”..삼성전자, 2027년 정기 사장단 인사 단행",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yQXRVZzUyTE5wTENVOEIwNU5XR3l0Sk5BaFJ3TlBMTjhrUkFYMGxieHg4d0dsVWlraDBhMzd0UDA5dDNTOE1WWWRRbXE2LW1oeVhFTDNEY0JwZG5LNzlRNGxjRmJrZGd5cU0zWE9INmxlRW01MWc?oc=5",
+          "source": "데일리카",
+          "publishedAt": "2026-11-20T05:05:20.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 반도체 '실적 주역' 3인 사장 발탁…전영현·노태문 미래사업 전념",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zZ2ZRVVN1R2tKWDhyM2NUcXpTOURMd255enpldGtObVNoUDhESDRVejJzYlZwSXBLLWJkQUxYZERhM0VWOGRDM2F5TTNiUQ?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-20T00:16:55.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "한화호텔앤드리조트, 산업통상부장관상 수상 外",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "한화호텔앤드리조트, 중증 환아 가족 휴식 지원 사업 산업통상부 장관상 수상",
+          "source": "뉴스후플러스"
+        },
+        {
+          "title": "SKT, AI 돌봄 서비스로 산업통상부 장관상 수상",
+          "source": "팝콘뉴스"
+        }
+      ],
+      "span": "11.24~11.25",
+      "days": 2,
+      "hasPress": true,
+      "sourceCount": 3,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "한화호텔앤드리조트, 산업통상부장관상 수상 外",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NdE00bjJLRnhLNHpfUC1fck9XckM4T19OTkExSFg4eDBmZVp1eEp4UGFwWEhscjdEWEZxUEdacU00ekFWNEpnMWd1aTFPdEItbWJMbUdwTjV6a3BlZGs2c1NMekpqUQ?oc=5",
+          "source": "싱글리스트",
+          "publishedAt": "2026-11-25T02:14:39.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "한화호텔앤드리조트, 중증 환아 가족 휴식 지원 사업 산업통상부 장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mYlF2RjF3c29PVy1sVzRjbl9OQk9lek1lVk0tYWRmYnVNV3JRdmtkTlZxcllQWW1xaUUwRF9iMUtrY2ZxVlJ2dkI0UUdvc1VVbHlkdmtYWWFSSnBYOUxONlREQU5heXY4NUZ2RkdB?oc=5",
+          "source": "뉴스후플러스",
+          "publishedAt": "2026-11-24T22:37:13.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "SKT, AI 돌봄 서비스로 산업통상부 장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aXJIWWhEaHVLVnQ1NFkyWGxxcy1yRW1SR1RtZHhQOEJHSWZnNkRsdjhOTGhFMkh4czhXUklxUGVpb0VCZFY2X3hIQUtNNzBnS2MySHo1TncyZUItMmZZbUtfNF94M2Nodk1DUEZn0gFyQVVfeXFMTzF5bllYaEhfd0tvNXNEOFRFdlFTc3VsMURvT2FsSEd4VEgzUnptay1wVlpMUEJ0R002UDFQdDBSWXR0TlJDQ0FQZDR4UWt5Q215QWZOdkhxUXpXZXJOSjZWRUpSR0wyaVVaVXVVV3BBWjhR?oc=5",
+          "source": "팝콘뉴스",
+          "publishedAt": "2026-11-24T08:00:27.000Z",
+          "kind": "press"
+        }
+      ]
+    },
+    {
+      "title": "속보 코스피 4%대로 낙폭 확대...매도 사이드카 발동",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "어제는 매수, 오늘은 매도…코스피, 매도 사이드카 발동",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "코스피, AI 수익성 우려에 4%↓…매도사이드카 발동",
+          "source": "대한경제"
+        }
+      ],
+      "span": "11.25",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 3,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "어제는 매수, 오늘은 매도…코스피, 매도 사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHBQeU0xYUN4T0Q5VEZVV2JDLUg3Y1NzazF5SzBDRnRDb0RXMXUtU3BRNHdwS3RhT2hlNDctbG5iVDE5RGtIQzdjNDhaSHFBRUg5dnNFVGc5SkFDUl9YeDlGbzBLb0U5TnlxVk1MTm1MdEhSdFE0UlBPbjNhVjI4UFFBcjEzMGM10gGcAUFVX3lxTE83cFZKbU8tMVlGemlYRWJqMTVEYmtwYkZyVW80ZGJvMy00RFBqRFZOVWlWaE1IZUk2THV1NTdZNG5wd2V2NjY3Zm5JMHIzTkF2TVpDWnBFNWNGc0JuanctTG1TRHgwTVA5Q2hkV3NHV1hfYmtnSGFBaUgyd1BPWHB5VVNpTjFPUENBV2NoSHV6RTlRMDhIaW5VRDJJWQ?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2026-11-25T00:36:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "속보 코스피 4%대로 낙폭 확대...매도 사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByN1dxZ1dwNUtKNzFqcnlSNXVjcjdDUU9oWFVlY1RJMENvMjNLM1hWdGJuMXhEOEcxT2tobENsazdESjhTZ2hhM1FpcVhxM1NBOF9EYjVSRjR6dDBIWlE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-25T00:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, AI 수익성 우려에 4%↓…매도사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlTEFtSnRyQ19MVlBOTUpaMGthS1lpWVdCWHlLUlBCVENHSngwaVNHVEdLQ0ZCRHN4TkZ0QmhGU0RSTU5GQmE0dTFPU3VubWotb0FKQnp4V01LWld4MkRhS3hQM1Jwck1kV0JTRDZUN1EyWUk?oc=5",
+          "source": "대한경제",
+          "publishedAt": "2026-11-25T00:13:54.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "코스피, 하루 만에 3%대 급락 출발…장중 '5천피' 반납",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "코스피, 하루 만에 4%대 급락 출발‥'5천피' 싸움",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "코스피 3%대 하락 출발...하루 만에 '5천 선' 반납",
+          "source": "YTN"
+        }
+      ],
+      "span": "11.25",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 3,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "코스피, 하루 만에 4%대 급락 출발‥'5천피' 싸움",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TWDE0TEs2M1dldk90dU50TkJyYWwxSmQtQ1JZWDVGbG5ib2Z5dUlUb1R0YWY1a1RhajFNTndYMFhYOGp5LUQtMjJmSk9QTUJfS0pjcUhUdEhuMDMtZS1SMEF1d2xJNXZaVDQzX3pJeGFGM0E30gF0QVVfeXFMTm1Id1ZsMDVLVFRXN2tlT2xlMUROZUFWcENLeXVMV1NEcjZ2ZV96M3dvY1V4azkxMGVJcENuYmlrMERwV0RyakxrZ0ZiSEtnNzA5bUlib1hUWHBiN0VJQ29GTGhnTGh1aGxhVXpUU3F6R2d0SHA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-25T00:27:18.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 3%대 하락 출발...하루 만에 '5천 선' 반납",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aT1o4TnYwUGpZZzcxTmZyd1ZsWjJ0NzAzS3JNZVlBS3RIUE14RGZwR01FUEp0cXBPTXVseXp4ZXZDUGh3STRVbXIxWVdETGZpUU01bUpnQUstaUtFMFgtcmJENE5fNTJaSmZFQnJhTQ?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-25T00:27:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 하루 만에 3%대 급락 출발…장중 '5천피' 반납",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xa2lkWlRvRjdESDhRZmowM2lSaXFQWFlZN1hxLW9IZEVWQ2hfbWUwZ0gxTDhiZXpUelVhems0OERiazd2MGdjVzlUSHJPZlYtckVpdUMxaVN4cUXSAWBBVV95cUxOY2k3VVc2djZWUEl0d0s0OUVEcW1STk1lUUFhaEVQbXZ4WGNIeTJVb1BWNWoySk9vN3BYcG14QUVNZnF5d2RpTTVka3VSZXBNU0JvSmxMNnE1c3N4aDdmUTc?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-25T00:05:16.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "젠슨황 복귀에 반도체주 급등…코스피·코스닥 매수 사이드카",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "코스피 5~6%대 급반등 출발…코스닥도 3%대 상승",
+          "source": "연합뉴스"
+        }
+      ],
+      "span": "11.24",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 3,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "젠슨황 복귀에 반도체주 급등…코스피·코스닥 매수 사이드카",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Kc3dJWDl5TWgzSDdyd2VZa3lEcDZ4VEoxTjlaY1hlU3hNRXdYTjV2LUU2NFlvUlg1TU95eWxEZGxWUDdGbW9Bc3daOWdIX0tUSXBxalBrbnBoUkVGSktzTjRkYWNBZw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-24T03:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 5~6%대 급등‥코스피·코스닥 매수 사이드카",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12bVNXWjNVVmxPTWM5eDhVYkJ3aE9NbVRuZTF5a0lnZHgzNEtpR1JCV1JJd0lQdzVCNEROUGdGQWltZHp6eVJJZXF3cXlWVHVpX08zeUs4Zkp1OUFWbTFBcUJNT0RtUmI5NV9uSnlxa2taRGVv0gF0QVVfeXFMTlZURTBBRTBhYmxPVkdERUI5OTM2dHhESWhwNVpscXpodV9ZVE5WcjY2Z3RBRTdNZ2lpeko4eUdHdVRKRkJfUEZWZkRMNTBWRHhiUDZnUG1zQ3JtQkF0VVo3NndYdzVIb1ZGdHVpS0ZyeUdxS0Y?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-24T00:08:14.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5~6%대 급반등 출발…코스닥도 3%대 상승",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41LTFRUGhIZHBLQ0ZnU0o0ZnBWS2NjaWNQbjloTXQ1cHZIWGNBSEgySVdGZmM3eVUxUFdYSHhNcWwtVVdVaVVTTzdWandkaWQ3TE5XaXZqaEpleU1YZzhzWNIBYEFVX3lxTE41LTFRUGhIZHBLQ0ZnU0o0ZnBWS2NjaWNQbjloTXQ1cHZIWGNBSEgySVdGZmM3eVUxUFdYSHhNcWwtVVdVaVVTTzdWandkaWQ3TE5XaXZqaEpleU1YZzhzWA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-24T00:03:06.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "11.19",
+      "event": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신"
+    },
+    {
+      "date": "11.20",
+      "event": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사"
+    },
+    {
+      "date": "11.22",
+      "event": "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비"
+    },
+    {
+      "date": "11.23",
+      "event": "코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납"
+    },
+    {
+      "date": "11.24",
+      "event": "삼성전자 '역대 최대 실적' 반도체 힘 실었다...HBM4 주역 등 131명 승진"
+    },
+    {
+      "date": "11.25",
+      "event": "가계대출 금리 5% 돌파…주담대 금리 14년7개월 만에 최고"
+    }
+  ],
+  "outlook": "",
+  "press": [
+    {
+      "title": "LG전자, GD 상품선정 산업통상부장관상· 디자인진흥원장상 수상",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNFAta09vYlBlc2lXNWhTenlmVWFJOG9SR2RXclRfRGl5UkY1LWtWVHdPSUl4VFU2Nk9qcmVDaTY1SFR0bkw2TmMtR2swYnRwRlN3TXNWeUJfRDNCRHV2NS14SWFqNFdNeXd3Ng?oc=5",
+      "source": "중소기업신문",
+      "publishedAt": "2026-11-25T04:48:41.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "목포대학교-전남대불산학융합원 참여기업 SB선보㈜ 산업통상부 장관상 수상.. '친환경/스마트 조선설비 기술혁신'",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CZ3gxV1UwVVc0dlFIejZGNHRFYU42b2NiMDlSRjliYkpCcW04RlVvRnlnXy1WS3I2NlVMVFNad0xmX0RGcU1nVmEyNVhkYzNYbjFRNHpCa2taTjdOQWl3RHlVVE9WZFp2eFRaOQ?oc=5",
+      "source": "베리타스알파",
+      "publishedAt": "2026-11-25T03:42:25.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "한화호텔앤드리조트, 산업통상부장관상 수상 外",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NdE00bjJLRnhLNHpfUC1fck9XckM4T19OTkExSFg4eDBmZVp1eEp4UGFwWEhscjdEWEZxUEdacU00ekFWNEpnMWd1aTFPdEItbWJMbUdwTjV6a3BlZGs2c1NMekpqUQ?oc=5",
+      "source": "싱글리스트",
+      "publishedAt": "2026-11-25T02:14:39.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "한국은행 금통위 앞두고 외국인 국채선물 대거 매수…“이번이 마지막 금리 인상?”",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veldILXp5RG14bHB4a1FKSDc2UmZoVDl2ZVRUdEtmblR1ajAtOHh1T0dMSXQyOGVrSGhfUXhJTkFjYkJWNWdTcC1xX0dXSGxhZ2FyQ19BUDRjTFpTUUNaUDJBbF9BUjZS?oc=5",
+      "source": "키즈맘",
+      "publishedAt": "2026-11-24T23:16:02.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "한화호텔앤드리조트, 중증 환아 가족 휴식 지원 사업 산업통상부 장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mYlF2RjF3c29PVy1sVzRjbl9OQk9lek1lVk0tYWRmYnVNV3JRdmtkTlZxcllQWW1xaUUwRF9iMUtrY2ZxVlJ2dkI0UUdvc1VVbHlkdmtYWWFSSnBYOUxONlREQU5heXY4NUZ2RkdB?oc=5",
+      "source": "뉴스후플러스",
+      "publishedAt": "2026-11-24T22:37:13.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "국내 ICO 허용 추진…백서 신고·주요 변경 즉시 공시",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJRFJmbFlQWEI5TVA2aG1MUTc4V0dUSTdOenZfZmRoZG14SFhKVG8tV0ZydWJmYWR6SmlMbUY3Uzg5ZFJabEQ3ZFlvb3d3REFhWUhIX05VNnhIVEdibGfSAV5BVV95cUxQSURSZmxZUFhCOU1QNmhtTFE3OFdHVEk3Tnp2X2ZkaGRteEhYSlRvLVdGcnViZmFkekppTG1GN1M4OWRSWmxEN2RZb293d0RBYVlISF9OVTZ4SFRHYmxn?oc=5",
+      "source": "토큰포스트",
+      "publishedAt": "2026-11-24T17:47:56.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "민형배 시장, 내년 국비 확보 사활",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wSFRJWXdIdWZLRzYwVkdwUWNIWkRBcnQ4ZWlEdmVvMC12UUc2aU9FRjMwN1FNRzA2UWR0RnlhU1VHTjkwaTJDR2x1czFBMVhqZVdUTmxZd010SVE0V09TQXUxT3ZlNUprV1IxQmY2TUY5b0HSAXdBVV95cUxOZ1hkQUZBX2xxd0ZMSklwVUFmV1NJYjRzbzZpT1d6QnVrR3dmdnQ0SjE1RGxNU1lvazhybzNUSnlMVHM2TDBxRHJxRndIM05wamFmb2ZPR0c0Sk16TDJaZWtWWXoxVkY3eDNxNnl6eWw3SjY0UlpCVQ?oc=5",
+      "source": "스트레이트뉴스",
+      "publishedAt": "2026-11-24T15:57:46.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "출퇴근 시간대 철도 운행방해 행위 관련 법안 심사 과정에서 밝힌 국토교통부 입장을 설명드립니다.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkZPTVdJYnpQaFJWVm5LeWMxUTd6WVBFRnp2U1JZM0pCSGNDa2xBUGFuVVhlcmVQOXdyV0FLdTVaUjExcnhVNWF1MzNTSTJnOXVFSFV2SzEtWDhCQ3JrN3RMdVczZllXSUFocFNLdGdzT29NaTcxNWVXOWZqOVZ4ZndFczRkbWdaUWNxRkVFWQ?oc=5",
+      "source": "대한민국 정책브리핑",
+      "publishedAt": "2026-11-24T10:25:13.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "독거 어르신 돌보는 AI, 대국민 투표 거쳐 ‘시슐랭 스타’ 됐다",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NN1VqdXg3N2dweENwNXMyNFVxNVRpU3BaR1JveFVtVUtrNnk5R0FaS0JaTEtsZERqYlNSM3d2TTc2N3FXWWZSVg?oc=5",
+      "source": "SK텔레콤 뉴스룸",
+      "publishedAt": "2026-11-24T08:01:24.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "SKT, AI 돌봄 서비스로 산업통상부 장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aXJIWWhEaHVLVnQ1NFkyWGxxcy1yRW1SR1RtZHhQOEJHSWZnNkRsdjhOTGhFMkh4czhXUklxUGVpb0VCZFY2X3hIQUtNNzBnS2MySHo1TncyZUItMmZZbUtfNF94M2Nodk1DUEZn0gFyQVVfeXFMTzF5bllYaEhfd0tvNXNEOFRFdlFTc3VsMURvT2FsSEd4VEgzUnptay1wVlpMUEJ0R002UDFQdDBSWXR0TlJDQ0FQZDR4UWt5Q215QWZOdkhxUXpXZXJOSjZWRUpSR0wyaVVaVXVVV3BBWjhR?oc=5",
+      "source": "팝콘뉴스",
+      "publishedAt": "2026-11-24T08:00:27.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "금감원, 증권사 랩어카운트 임원 간담회 개최…“내부통제 강화·수수료 개선 주문”",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcG5neGo0STZabnAyZFNzTWl6NTZhdjhUbnRieWZraG91RF8zOEZRTEthSTYyT21qREd1U05qX1FabGZpczZfM1JnZGZVaU01bmFLWnNtclZpLVFpZkE5SjRLRE5oUjhwcVRveDV4bXhQMl9hVFJhMEp5YnJnZzMxSdIBgAFBVV95cUxPcG5neGo0STZabnAyZFNzTWl6NTZhdjhUbnRieWZraG91RF8zOEZRTEthSTYyT21qREd1U05qX1FabGZpczZfM1JnZGZVaU01bmFLWnNtclZpLVFpZkE5SjRLRE5oUjhwcVRveDV4bXhQMl9hVFJhMEp5YnJnZzMxSQ?oc=5",
+      "source": "뉴데일리 경제",
+      "publishedAt": "2026-11-24T06:05:00.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "NH농협캐피탈, 글로벌스탠더드경영대상서 산업통상부 장관표창",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Eakc3X2pzZXRManAyMmdXbXBKb3oxZnBVS3Vmam5OZkhvSTJzTktxRDQ5cDdhMndQVnhQMjFITGxmczdiN3ZFaHZkNFhpWWliR1k5eEY3RzhYNnEtX3VhVDlXcXVSdGhoU1p3RQ?oc=5",
+      "source": "중소기업신문",
+      "publishedAt": "2026-11-24T04:50:00.000Z",
+      "kind": "press"
+    }
+  ],
+  "stats": {
+    "articles": 319,
+    "sources": 122
+  }
+}

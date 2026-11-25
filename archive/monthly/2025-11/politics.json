@@ -1,0 +1,382 @@
+{
+  "month": "2025-11",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:19.202Z",
+  "articleCount": 200,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-11#t0",
+      "title": "2025년 11월 14일",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2025년 11월 27일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OMXBiMWd2cFNNYXlYSG01MDgta0w1aWhlWl9VLUplUzBZYzhCTWluTGQzcFZwQzZxNnJhZllZOWZJOGZEQzlES2lWRUFWVHM0elIyTURQZENrVjhxSzFJM1hxYlQ2aXlwdnpmajJn0gFyQVVfeXFMT2JSc01VR3Y5d1YyUWNDUl9fTFJrY0UwZFp6TDY0QUFnWDNUOUdENl9xbFpHdmRnaWRPYjFuTWo2ZnJMb3o4SjVaYkJmbmtNaEZOaFRDbVJXNF9nY2R4R29DNnA5ZVJPcTgxQVJ6c3Ftdi1R?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-11-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "KDI 북한경제리뷰 2025년 11월",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oWFg4T2ZkT0l2M1kyQ2hsdzJrNzlyTTc3VU5GWFBpZENISE0xWEpEa19nRDE1V0VJU3VsTXRsS3lzVFJyWmo3VHZVUWpaOGwydGQwZ0F4QUJScmFDS2dON3BR?oc=5",
+          "source": "KDI 한국개발연구원",
+          "publishedAt": "2025-11-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025년 11월 14일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9POF8wVkZqcndfYTFSX0R4QVQ3NzJianJfd1VVcC1XdlMzMDQ3cGw2N1EtVFNpRjIxRzB6VlNIYXB0d1UyMTE2ekx6bTIycEd1SnhoTTZ0WU9iVUJDTjZ5RnZpZG4xQlAtY0tPX2530gFyQVVfeXFMTUY2LU9QR05KZXRrYlVHVkttRmZGMlBkc25kaGxKeHpPMkNmZmR6TE1BTjZWNkpyWEs1b0hHUUQ0WjJCd3ZLWnRkMFlkZ1BYNlRyV2VKZVpQSFlHU2RZa291Tlg5X3R6MVAxVG5QeG1ucGxn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-11-14T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t1",
+      "title": "軍, 남북군사회담 제안…\"군사분계선 기준선 설정 논의\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "코리아넷뉴스 - 국방부, 남북군사회담 제안···\"군사분계선 설정 논의\"",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WUUdhZG9fNlNMVGhUM3h6ZVpTTVhwQnF6alFKWGVnNkJTTTA3TDhVbGozZzZWSnFRcG5OekhSOXN6ampHZDBkWGw0akE4QmVlVjQ2YXVWdHB5R3h2dDVaNnd2NDRDVXdnMVhN?oc=5",
+          "source": "문화체육관광부 한국문화원",
+          "publishedAt": "2025-11-18T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "軍, 남북군사회담 제안…\"군사분계선 기준선 설정 논의\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YnAtcFNQMC1rcEoyMFNka1N0WlMwQW9LXzJGZ1JUWHl0SzVqVmtwOWdxVHpTbnpSZmNOWFA3LUQxaHduS1Q2dFliSFJrRF9hM1VzN3N0OHFJS1HSAWBBVV95cUxPZTdlNW5TU2ltckxKNFBYMUN6Q1pNRmhUcmhBUnVWTGJhSTkxUmQ3SDViazdWSHF0d04xMTlPZXlJVkRNYkFsQzhhVlRoOS1kcjNhcXJVNjBGSEd1SElBYlo?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-11-17T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "軍, 남북군사회담 제안…\"군사분계선 기준선 설정 논의하자\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hZ1JWYjlPVzJOQmxyMEYzLTY2V0FqZnBTVUlyNU42N2NLOFZsNmlKY2V2NXhOV05TRGtMc3JkMnVhdElMcnRMU1FaWmRyU1ZfMGdEME02ekc0VEXSAWBBVV95cUxNYlAzV0lLN19lSnFHMVIzZFN1MG5LVDZFTVpkWVhPYTRqb01rZFNTdGQ0VHUwT2d3eTEzeW54dFZxR1EwbVNmaUM0dWlEa1V0aC04Yk9RYlIwUlJhX1ZZV3E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-11-17T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t2",
+      "title": "이재명 대통령 내년도 예산안 국회 시정연설",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이재명 대통령 내년도 예산안 국회 시정연설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hTk1vSVYtVFpadnBieHZoSlQtQkNnbkU5U3ROSHFVamR5ODVmNV9iQXowVGRkRFVkb3VTaWxsWjBCSHBlR0FpYm5ZMjk0VHdHMy1uc1MySUo2Zw?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-11-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이재명 대통령 국회 시정연설 주요 내용",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94ZG13VzhqVzVrV3pubXVWYnBOTnZaSDRGOUZQelNMTl9aZTFhcTk0ck9EMExXVDZNMmFmQ0h1Vm55RUJxRUwzMXA1ekU4R2xCUEF5VG1IOHdNZDjSAWBBVV95cUxOT29wXzVlVWZ4VVRUYXRjbkc0WDlmQWoydXVJQUN2T3Q0UkkwQkk3c2VZOGJrZXlid3JmWDZhbHBVUHNhc0dwemFoRlBQd2p0RWVUWFBsUXRiZENhQkdPT1c?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-11-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t3",
+      "title": "남북회담본부 부활·인권인도실 폐지…통일부 조직개편 단행",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "남북회담본부 부활·인권인도실 폐지…통일부 조직개편 단행",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ENFU2OGVWOTY5V1dqZmZPbFNJVVJSUXFMaWp5c2NEVW5zQ1d1WTZBSjJBNEhyd2xBQlk1UGFKcUFpbl9qVG03RnlPb19rd2Zyakw1eC1KdWlqSzjSAWBBVV95cUxPd2hJb2tWRmlJdXZ2eWtwTnQxbFNxY2dlaFkzTVJQd0ptQ2k1emlVcW9SMC1DQ29VUEt6RVdPczdsZHBwM1hmZjlXUzA1Q0ZhNTk3R2k4Q1RvUEs0SlJhbHM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-11-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "남북회담본부 2년 만에 부활, 인권인도실 폐지…통일부 조직개편 오늘 단행",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRGNCcUVwY3hMWTRyNXRyQ0pob01SSFd0elVZZm5VbWluT3d3WVlnazQ5MloxRDRsX0JBVXY4Tjl3TXY0OFR2MTdGWEJlQ1NIbWxBTlJOX2FGd9IBX0FVX3lxTE94cV9UcXdKS2xBZmE3RVlSZVl2cmxfdmhFRUdqcFFHUm9lMS1heFZJN3JKQWNnSm8tTkNUU0FBa25jSXZiQ0tnWUxKb1ZndUVQdmVmMFJVd1RUVlNkalVF?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-11-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t4",
+      "title": "'국익 중심' 실용 외교는 글로벌사우스 국가의 전략과 통한다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'국익 중심' 실용 외교는 글로벌사우스 국가의 전략과 통한다",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kc3JpR2RQZlVCdGVsM3p6SzdfUzQwYlpBOC1VdTRjX1JJTU91QXN4VTZuZXJzWVdPQlZwR0hjdFA2cnhOc2tHbXV6OUI3SzJaMWl0TVhVZy1YUlNaOV9uQ2xFWE9QcTJrZ0VNOA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-11-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'국익 중심' 실용 외교는 글로벌사우스 국가의 전략과 통한다 - 오피니언 | 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WUU9aSHpmRzg0TU1OQl8xRXJxUndvR2x5eVRjbDczMl8wOHRCanU1amxpZFdtM2psX04zb2hjbl90bEFxczBUSVpybGpZRnpDdDdxUXVIQlpLTURxQ0RHbGY1RVk2R3FrdmNVWVZKNEo?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-11-27T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t5",
+      "title": "북한 해킹조직, '먹통' 공습…스마트폰·PC·카톡까지 장악(종합)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "북한 해킹조직, '먹통' 공습…스마트폰·PC·카톡까지 장악(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52bkljbzdUSEV1WkxyRk0zT2xnWXZiS2I1WTF1TW9sLW5MdkNHV3JIZXp6clhnTlRZWjVsbHBSZklmS19CRVN3VVV2MWF1ZDRKbGJxTUhLVHNNSG_SAWBBVV95cUxQbXc5MkJxek8wNHpmbGpmWDQ5UEhFUjZTclRIZktiYlRETFhrTDVzUFdyekdna0tvOTNIVHZqMUJwdjBYd3ItX1JTdlhxb2ZZYncyZ09OR2xSamExWEVhTG0?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-11-10T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 해킹조직, '먹통' 공습…스마트폰·PC·카톡까지 장악",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IYlZ6OU54VS1UMEQzYWdPdjhyM2dHVWE4a2JROEttaE9oQllhU1ZtUHVQcjFOZWVCUkVpaG1sMUI5aU55NkxXSmF3M0t4ZGdnTEpqbElIbWNUMUHSAWBBVV95cUxOLXVYU3VlVmxrY1VVblJzaXFjelQ0Z2t2RGMtMURLT3VvclJ1a2lOLVktd2dkREhEdHdYMzV1S09IcVJKU09naDFnMlVfdFFGTlJEOU5JVVIzc1hzQVBIZzc?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-11-07T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t6",
+      "title": "국힘은 반정부 투쟁, 여당은 야당 압박만…‘정치 복원’ 요원",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "국힘은 반정부 투쟁, 여당은 야당 압박만…‘정치 복원’ 요원",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhTU9QaG55MnBCcTBrOEMyYXIzNE1sOGphdUdCUzdGRVRidFdrU0wyZHdRXzBJMHFQMnUyLXRmemFGX3g0Z2lyMVprMlVwMDJraDUzVXgzVDJLZ9IBX0FVX3lxTE1nSUxiczU5WVBuSlhuNHVWeWEtT1lRYS1FNzV3SDVNOVdUOEQtZzhxdGptbDFoWEdKVXg2U1d3UUhNdnVSY3hGbEl1Zk1xZldJM2wzMk5pYUJ4RnVDT21B?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-11-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t7",
+      "title": "진보정당 역사의 6가지 교훈과 재구성의 길",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "진보정당 역사의 6가지 교훈과 재구성의 길",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNbjZ0RUdTc3RmeEpiVEFjdE03TFowWVdiSDNSb2xQV2xZRDFFVEJHRmt6WEpnRU1WdWppRTNqdHg1a0NOOG1rNE5vWi1UdUFaMlp0VHc5SUJnYU5GV09hSElPWmZqZFltMHJ1NA?oc=5",
+          "source": "세상을 바꾸는 시민언론 민들레",
+          "publishedAt": "2025-11-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 14
+    },
+    {
+      "word": "국힘",
+      "count": 10
+    },
+    {
+      "word": "정부",
+      "count": 9
+    },
+    {
+      "word": "국민의힘",
+      "count": 7
+    },
+    {
+      "word": "예산",
+      "count": 7
+    },
+    {
+      "word": "남북관계",
+      "count": 7
+    },
+    {
+      "word": "개최",
+      "count": 6
+    },
+    {
+      "word": "AI",
+      "count": 6
+    },
+    {
+      "word": "현수막",
+      "count": 6
+    },
+    {
+      "word": "이재명",
+      "count": 5
+    },
+    {
+      "word": "시정연설",
+      "count": 5
+    },
+    {
+      "word": "정청래",
+      "count": 4
+    },
+    {
+      "word": "대상",
+      "count": 4
+    },
+    {
+      "word": "전략",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "논의",
+      "count": 4
+    },
+    {
+      "word": "글로벌",
+      "count": 4
+    },
+    {
+      "word": "위반",
+      "count": 4
+    },
+    {
+      "word": "해산",
+      "count": 4
+    },
+    {
+      "word": "미국",
+      "count": 4
+    },
+    {
+      "word": "김영남",
+      "count": 4
+    },
+    {
+      "word": "설정",
+      "count": 4
+    },
+    {
+      "word": "국가",
+      "count": 4
+    },
+    {
+      "word": "군사분계선",
+      "count": 4
+    },
+    {
+      "word": "패스트트랙",
+      "count": 3
+    },
+    {
+      "word": "민주당",
+      "count": 3
+    },
+    {
+      "word": "의원",
+      "count": 3
+    },
+    {
+      "word": "헌법",
+      "count": 3
+    },
+    {
+      "word": "아닌",
+      "count": 3
+    },
+    {
+      "word": "통과",
+      "count": 3
+    },
+    {
+      "word": "국회서",
+      "count": 3
+    },
+    {
+      "word": "항소",
+      "count": 3
+    },
+    {
+      "word": "포기",
+      "count": 3
+    },
+    {
+      "word": "우원식",
+      "count": 3
+    },
+    {
+      "word": "국회의장",
+      "count": 3
+    },
+    {
+      "word": "매우",
+      "count": 3
+    },
+    {
+      "word": "주요",
+      "count": 3
+    },
+    {
+      "word": "내용",
+      "count": 3
+    },
+    {
+      "word": "민주",
+      "count": 3
+    },
+    {
+      "word": "폐지",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "11.04",
+      "event": "2025년 11월 14일"
+    },
+    {
+      "date": "11.07",
+      "event": "북한 해킹조직, '먹통' 공습…스마트폰·PC·카톡까지 장악(종합)"
+    },
+    {
+      "date": "11.17",
+      "event": "軍, 남북군사회담 제안…\"군사분계선 기준선 설정 논의\""
+    },
+    {
+      "date": "11.27",
+      "event": "'국익 중심' 실용 외교는 글로벌사우스 국가의 전략과 통한다"
+    }
+  ]
+}

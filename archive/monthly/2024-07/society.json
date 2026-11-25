@@ -1,0 +1,386 @@
+{
+  "month": "2024-07",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:22.785Z",
+  "articleCount": 250,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-07#t0",
+      "title": "다중 운집 인파 사고 '사회재난' 포함…\"재난관리 사각지대 해소\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "다중운집인파사고 ‘사회재난’에 포함…재난관리 사각지대 해소",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03MWhwRWtxc1JfZGpxNXEtWkYtd1NjZDNCNWl3QVhVa19CLXduT3FGVkE3aGlTSWNCd2FUXzdGRHNRcmowaTZUX096U2R1QmFQYjBTYW5ZeEhJU3dYYjhGUlhZbEI5MUJmUTJ2Zw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-07-09T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이태원 참사 같은 ‘다중운집인파사고’도 사회재난으로···재난관리 사각지대 정비",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2ZkVCOVc3aUVDdXZFT2k4cy12RmNKTE0tVGtLRXY0Z0NOb01KbVZYbEpJTkpDRko5Y0paeG5xejVWd3ZCdGZLRWpQeDJJRmFQMFFaUGtyWm4xQdIBX0FVX3lxTE56dU8wem1qWVd5YkZZYkJueG5hZ1hFUm16SHZlWXRNcENhUk9tdmtWWUZaS3hnLXVUcnZ5d0xmZWV6MUFQRzFtcV9Qd09WMlphRk5FczlMbVdlOXZhNWhn?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-07-09T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "다중 운집 인파 사고 '사회재난' 포함…\"재난관리 사각지대 해소\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yRVdVWWpad01zSE9Hazh0cWRCa2ZmMVRIX01pNmVuU3UzUDVDUUI3NzhXTE81am1WS1BGWENDbldTLU9fZ1JiV3BGbXQzQk1jZ1doN0R4aDd3RmtwTC1iTmEyR2pHUDdsdVVYZkdQZw?oc=5",
+          "source": "경북일보",
+          "publishedAt": "2024-07-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t1",
+      "title": "영주시, 교육발전특구 시범지역 선정...어떤 내용 담고 있나",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "영주시, 교육발전특구 시범지역 선정...어떤 내용 담고 있나",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MTzdUUGVWaFFUclJLaWV1aF9xS3ZYYXhfZ3lqX240Y1ZNenFxSnVkRmVuczdWZlNQVUJDNXYzTXNkUFlOLXRIVm9RRk1BMGJzSFR2Wjl5SmltclRjZ1RyaVZvWG9RN0pO?oc=5",
+          "source": "영주시민신문",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'교육발전특구 시범지역 선정' 전주시, 140억 투입해 인재 양성",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yUzlZTGNGb2tfdkx5bDFQSXpNZmhSYVFFVldzS0VqN0tSZW1nMDZwellFV0IwMlV0UUV2c2NlVHZ6UEhCaEMtdjEwajZGd1dUcjF4OVFwczB0bzjSAWBBVV95cUxPSG9CRFlsY1VkNjBjU3JzaW9ZYWJ1T0lsWkV6OXAyYTV4S0Q3ZHBYbklJZUJ0RDgzTHJFTWxOQkpoY3htWF9lNk53LWNKemFMTEp4UHFrcWhJaXpYUjM2cUY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-07-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t2",
+      "title": "리튬이온 배터리 화재, 5년간 612건...절반 이상 과충전이 원인",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "리튬이온 배터리 화재, 5년간 612건...절반 이상 과충전이 원인",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qSmNNLWhXZTV5V2JjeXlBZU13U0pCQ2tDZ1FaU2t4bHdHQUppSE1yM0E3TWpIaFRXa3hzc2NVZktQby1QM2lxLVdrUkdrWEdnSHpvMWVUcGphRlRHUGhVSS0tQW1fblU?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2024-07-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "리튬이온 배터리 화재 사고 절반은 ‘과충전’ 때 발생",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGbHhpZExDQ1J1dDFTTkZpR2drQ3gwTHN1SzYwZ1BsZXlBSHA3anB6QkR6UU1xRDF5bUFSMDlobkFVY3V3OHJaenY5cUZsNkoxeEhIclhyYjV0d9IBX0FVX3lxTFBQMEloOTZ3OEJkbkJsRXZKdnZBYVNlN0JYUW9mZTlGM1MxNjR6WHQ4Yk1TZlh1M1dvYmxtTTNFRF9QeU5BTGdGSjZvbW5FeDl1RGRaOGdMQnpBRWtpal84?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-07-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t3",
+      "title": "경찰·소방 ‘원팀’ 구성…재난·범죄 대응 사각지대 없앤다 - 키워드 뉴스 | 뉴스",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "경찰·소방 ‘원팀’ 구성…재난·범죄 대응 사각지대 없앤다 - 키워드 뉴스 | 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMVzh1eVZoT2VvaEpZczVDMzlvci1EWW54WWhtcWF3VzF1Q0dNUDRDOTBWNWo4ek8yQTBpcEhYVXhuWWFEeFo0WVRwOGN3am8yUFNONzBqS3Vvbk5nOW5XWF9XZDBOb2ZGc2hoUlJvT3dBQQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-07-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰·소방 ‘원팀’ 구성…재난·범죄 대응 사각지대 없앤다",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4UUM3alRlQVQ5ZVFtc01GRmlzUnV3TWk5cHRMUm4zM3BGMlhrYlR5OWxKU0RsSG1qN3B1aFFkcVZlOGZJMGlIZFVHbVFJWWNYUDMzMUtJX1ZSRzY1N1o0cnR0TVNQMHlmcmViRA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-07-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t4",
+      "title": "2주 새 청년 경찰 3명 과로사…일선 경찰관 “남 일 같지 않다” 부글",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2주 새 청년 경찰 3명 과로사…일선 경찰관 “남 일 같지 않다” 부글",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWaEpXTjRzem1OSXpad1B3U01ZME1YWDYxYVhXOU5FUmtPUXJoUnZydmpBVlVkOHFkVGJEZm05Ty16MjBieW1QSW1PQmJDZWN5UW5lV29ybUl2UdIBX0FVX3lxTFA4RjRuV2RoT2R6Yzlqcmx0V0tseWRfSTZfQlFZd1F4VC1oWlZ5blRLdW5wcDQwWGdWdk5JWkdzaXR4dHVVX3Z4eWtnUTBTbklhMXl0RVBhd3R3TTg0TXRz?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-07-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2주간 젊은 경찰관 3명 사망···경찰 내부 “남 일 같지 않다” 부글부글",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUkNwc1pMRDIxSEJvejhmcjhfaDJEMmFZWXdmQ3dPSEZSNy1ORWVIaTBSeHJOUmIyQVFqZDk3VlBFa0gyNW0tMFZvM1RCbUoyZllhNDlnZlJoQdIBX0FVX3lxTE5XUEhBazBrQ3BJMF9MRVBSN2UyUDY2cmJhejdPRDNJUjlTTmUwbUdFTnRTOHBheTNpRDBOMGhSVkI2LVg5ZVpwVUkyNUZrbG5BUDg1MjY5dUVDSE03WUhN?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-07-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t5",
+      "title": "부평소방서, 생활 속 리튬이온 배터리 화재 예방수칙 홍보",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "부평소방서, 생활 속 리튬이온 배터리 화재 예방수칙 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkNGtoQ0UwVHdnSVNRWjl6NlMwQVF3dUZvZVZQY3J5bi1ZNlZxUTlpdDRCY3l5ZVgyQVpMTkQ5cmRQYjVvT1E?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2024-07-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "괴산소방서, 리튬이온 배터리 화재 예방법 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2dWJob2FEUWI5bk1wZGoyeVRpTld3XzlIdTFPNU5oVGR6ZGJnQXpTaHlWZXc5UDVZOGNYS01kSlpBd09sWnc?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2024-07-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t6",
+      "title": "화성 아리셀 공장 화재 참사 유족들이 말하는 '조선족 노동자들'",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "화성 아리셀 공장 화재 참사 유족들이 말하는 '조선족 노동자들'",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1bWZGZXFab1M2QmVpZmVscFdsUzVTVDJDRkc4MnA4R1pqM284bGsycXN5MGM2WlpEaXcyTks1d2dHdHotUEFGN25RQldHQ1NCcm9DVEp0VTNqVzhk0gFiQVVfeXFMUF9LNzY2UnZtbmFPZXFYYUNxRjRvQ1VCa0pSeEF5clczV3BQSVNFR1MyQjN3ejUzdGFUdjhISHVub2FYYWNPUGFydWdQenA3a2NvUlBMbGxYZFZpU2dsYUtMamc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2024-07-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "화성 아리셀 공장 화재 사고: 숨진 중국 조선족 노동자의 이야기",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mTnFyUGpLNEdpZTRNV0FRc2ZjbmRWZ2NyQXlReHcyN1lCbVowbFZvOGY4WURaYW41aUd3ZklRTUtPNUJNb21YRTVBY0JoSmtTWHY0M0RMc2tQVk1Q0gFiQVVfeXFMT0JlbGNhRklSaEtab2czYnBwaEdWdENMbTk2SU5HTVZaWXltUzdTTU1LczlYV0J2cW84MXpZbGdWZjR1aEhFbVhZNG1xMm9CNlczYzBnRDFPclRqZFlpYzh0ZFE?oc=5",
+          "source": "BBC",
+          "publishedAt": "2024-07-05T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t7",
+      "title": "“고속도로 교통사고, ‘비트박스’ 기억하세요”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“고속도로 교통사고, ‘비트박스’ 기억하세요”",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52QlNncC15WGkwc2kyN19qRmdCQ2c3ZXZXYnVUUU8xdmJlR1dXb3pIbkhwbk53MEhkVDdybVRtUmlabGxrVGp3NG9MSGx0THFDYUdXenRvT0tNUVhLNUZobVV0MlNMX1RjTE9ZMQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "저출산",
+      "count": 11
+    },
+    {
+      "word": "배터리",
+      "count": 9
+    },
+    {
+      "word": "교통사고",
+      "count": 7
+    },
+    {
+      "word": "시청역",
+      "count": 7
+    },
+    {
+      "word": "대응",
+      "count": 7
+    },
+    {
+      "word": "서울",
+      "count": 6
+    },
+    {
+      "word": "참사",
+      "count": 6
+    },
+    {
+      "word": "운전자",
+      "count": 5
+    },
+    {
+      "word": "사각지대",
+      "count": 5
+    },
+    {
+      "word": "징역",
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 5
+    },
+    {
+      "word": "확정",
+      "count": 5
+    },
+    {
+      "word": "AI",
+      "count": 5
+    },
+    {
+      "word": "미래",
+      "count": 5
+    },
+    {
+      "word": "아리셀",
+      "count": 4
+    },
+    {
+      "word": "원인",
+      "count": 4
+    },
+    {
+      "word": "공장",
+      "count": 4
+    },
+    {
+      "word": "사회재난",
+      "count": 4
+    },
+    {
+      "word": "재난관리",
+      "count": 4
+    },
+    {
+      "word": "차량",
+      "count": 4
+    },
+    {
+      "word": "수사",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "활용",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "리튬이온",
+      "count": 4
+    },
+    {
+      "word": "국민",
+      "count": 4
+    },
+    {
+      "word": "리튬",
+      "count": 4
+    },
+    {
+      "word": "아파트",
+      "count": 4
+    },
+    {
+      "word": "병원",
+      "count": 4
+    },
+    {
+      "word": "지원",
+      "count": 4
+    },
+    {
+      "word": "노인",
+      "count": 4
+    },
+    {
+      "word": "대상",
+      "count": 4
+    },
+    {
+      "word": "관한",
+      "count": 4
+    },
+    {
+      "word": "대법원",
+      "count": 4
+    },
+    {
+      "word": "침해",
+      "count": 4
+    },
+    {
+      "word": "화성",
+      "count": 3
+    },
+    {
+      "word": "인명피해",
+      "count": 3
+    },
+    {
+      "word": "역주행",
+      "count": 3
+    },
+    {
+      "word": "중국",
+      "count": 3
+    },
+    {
+      "word": "노동자",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "07.09",
+      "event": "다중 운집 인파 사고 '사회재난' 포함…\"재난관리 사각지대 해소\""
+    },
+    {
+      "date": "07.21",
+      "event": "리튬이온 배터리 화재, 5년간 612건...절반 이상 과충전이 원인"
+    },
+    {
+      "date": "07.24",
+      "event": "부평소방서, 생활 속 리튬이온 배터리 화재 예방수칙 홍보"
+    },
+    {
+      "date": "07.28",
+      "event": "2주 새 청년 경찰 3명 과로사…일선 경찰관 “남 일 같지 않다” 부글"
+    },
+    {
+      "date": "07.30",
+      "event": "영주시, 교육발전특구 시범지역 선정...어떤 내용 담고 있나"
+    }
+  ]
+}

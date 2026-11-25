@@ -1,0 +1,365 @@
+{
+  "month": "2024-03",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:10.259Z",
+  "articleCount": 121,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-03#t0",
+      "title": "서울 시내버스 12년 만에 파업…노사 협상 결렬",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "서울 시내버스 12년 만에 파업…노사 협상 결렬",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40S1g4M1h6N2Q3dWtEd1M0U3BKWGtlSm1WN0NLN1VfUWFFbzFIa2tWek16Mi1OY3FqNGR5ZDRMWnJJQVhCV1ZhbEpGU0pNWkpBdko3T2NaRnc2V3ZsRjdHaHJTMlFsUU0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-03-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 시내버스 12년만에 멈췄다…파업 돌입 속 물밑접촉(종합2보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRDhxZmItUEZIa2dXakVqTmNmWTFMN0lYOFFfczFKcHpHUkoxNHQ2Mmhrc0hKeE83MUotLWJBS0FPSmQwM3ZIaU42a0piZzU2S2x5bWhZd1FGWjDSAWBBVV95cUxQbUdQY21vYUpNbGxHQUdCMEhGeHJta0NPS3hZY0dQZkZiYUpXU25hQVVqZ2g4YnBHMDdNemxHSlJHMU1GQmltQVdVRWJ4RDNqMEZEVGMwb1g5S2FVYWlCTjY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-03-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t1",
+      "title": "중장년층 고용 불안정성 극복을 위한 노동시장 기능 회복 방안",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "중장년층 고용 불안정성 극복을 위한 노동시장 기능 회복 방안",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qRWRDTDE0eGp2Z2JxNDQzZVN1TmJCQm1XUUoyQjhzaXBubW1GNnZIMl9ZaDNLRW0xVkF2RnY4SXF2SUNwSFpOSkhSQU5iS1VhZUdPWGxJemF5b0IzWmlndTVSaw?oc=5",
+          "source": "KDI 한국개발연구원",
+          "publishedAt": "2024-03-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "KDI FOCUS '중장년층 고용 불안정성 극복을 위한 노동시장 기능 회복 방안'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkMk45a2V3b25aWE1uNW9qQWYwT0hEN2pVczB5RF8wLWFSd013VU1ZbUJHcmZDR3hSLXl4UGpNZk11bWhBbzdVVlBoS0k0ZXdwMGlwTnM5M3BfTktKTDNQUnRPaTJqZEY2Y1BMbA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-03-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t2",
+      "title": "산업연구원 “AI가 국내 일자리 327만개 대체…60%는 전문직”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "산업연구원 “AI가 국내 일자리 327만개 대체…60%는 전문직”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdlJoTEFhSE5wTzF4eWpSR05tek1QbDZTcDBrVUZFZFRaSzFxbDhWR0NUUWxqOGdzTFVBY3VUNTNtRWR4akhNTXB1VS1VM1V3aGhmajBR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-03-13T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"국내 AI 대체 가능 일자리 327만개…이중 60%는 전문직\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZjRBVVgxVS1qekVUU2VGSEE1MjlnY3ozcFNUeWVJOHFpZnY5N190Wk5uczViLTQ0VnhPb19DWEV3a3NZT2ZqRFlneV85aFRqbzhiMjhtXzFvcGfSAWBBVV95cUxOZVZNTUh1YnpWSW5OeGQ5YTFNMlUtaFhXNnlIWFJ0RVBGYlhVLWJkcm42UDUtUFM3MU9iVHFZUEc4bGZ5QkFvd1IwOENlbWpZM09FdzdGMVdsSzNVcG9CX0U?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-03-13T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t3",
+      "title": "‘외국인 가사노동자 임금 차등’ 한은 보고서 “엉터리”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘외국인 가사노동자 임금 차등’ 한은 보고서 “엉터리”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92ckxkUlNjdU9PY3M2U1R4M3kycjdEdGtGMDdBZlpVcU5UMEdNbTJNbFhLWDFTQWpCUDdvc01ZcEJwRXp5aUlwaHBva2RfUGEwelhOby1uV0JlcGgwR3ctMnhsZWo0VmRkWjBHdlBzaGM?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-03-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“‘돌봄 이주노동자 최저임금 차등’ 한은 보고서 폐기하라”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sUkx5aVNFTXQ0YUJodWhIdUdNWkd2TjJjLXpITGJ3dVVqMWJyNUl3cU04YmRBLVdQSmQ2RGt2UUJqQ2Y1TkxETzQyVU5CTUxUOE5xWUVpbGZhaHp4UlVjMFZFd1ZzZDNMUE4zUVRzRWE?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-03-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t4",
+      "title": "평균 임금 172만원 … ‘돌봄 노동자’ 수요 늘어도 노동환경은 ‘제자리 걸음’ [플랫]",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "평균 임금 172만원 … ‘돌봄 노동자’ 수요 늘어도 노동환경은 ‘제자리 걸음’ [플랫]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlOUdrQXkzY3N3QXd3bE1DNlFfMTJ0TmwzVEhaNUdUMFNHU0RQc1g0VWxSMVRmeGIxZ0tPcG1QeFV0QWVyN255VXMwVXlCRks2QW5hVWplWFhzUQ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-03-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“돌봄노동자 월급 172만원…경력 쌓여도 임금은 제자리”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hTi1VZERyMHpRaVhlVGYwMzdzUGdESFQ2aldrTVRlR3A0RkhKTkg2NjlFNVFZV0JuamFpYVdSSXByZkw1dy1oUEhBU3dCM2x0T1BncWRFVUhlQdIBX0FVX3lxTE1YT2hLQ0pydnpuMW1kV29ZcXdrdTQ3Skhwb0tqeUp1ZGZCcFh3LUhCZjFjOEhlZ3oyMmNRdS0wd3FfU3VDbm1HWWVaS2laeFlaVmM2enN0bWtadzJyZ3Rv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-03-19T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t5",
+      "title": "“석탄발전소 노동자에게 재생에너지 일자리를”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“석탄발전소 노동자에게 재생에너지 일자리를”",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1RFE5eDA1SnR3dm9nRkdDT1hLYXlmMzZ6S1RIYnB2aXV1M0RBN3BrcFl3WDdCN0dqdXVlaUVFeXh6NjhuSEJpdkZjY1ZyZnBhV1lta24ta2FHeW9rQXFMTVlzcHpXWEdValBV?oc=5",
+          "source": "단비뉴스",
+          "publishedAt": "2024-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t6",
+      "title": "‘지역맞춤형 고용촉진장려금’ 시범사업…서울남부 북한이탈주민·전주 결혼이민자",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘지역맞춤형 고용촉진장려금’ 시범사업…서울남부 북한이탈주민·전주 결혼이민자",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ldk90UEdjVFFET2hKdy1RS3VFN19Uci16aUNqaXpOZlNscjd3MjFkbEFKUWRrT2F5dlNRY1d6RzJHNFEyTjl0emczdG5pZkJ3T0xsS2MwYzd1QdIBX0FVX3lxTFBGcWs2dXZvajA3VTl1ZWY5MjdvVEl2WERBRlZDdmVjMkdfakZBSzhXUTNFRk5ReFJHSDMtTmhJQ085OVdDU2VNcy10QVVteTZ6WEVuMmZwZ0theFVMbnZr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t7",
+      "title": "경주시, 지역일자리 사업 추진 계획 수립…일자리 1만3752개 창출",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "경주시, 지역일자리 사업 추진 계획 수립…일자리 1만3752개 창출",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yWmNDclFGUk53Qkx3ZE9nbEJVSE1Yb1ZKb2FHRVoxd3czRnFBUUxqNWFjY2JMbk54NjhfbGFTVEZ3YUtLOXZxWldsclFoWFppbTRwVTU4QnEwcEs1dHZqXzRyZFN0OE0?oc=5",
+          "source": "영남경제",
+          "publishedAt": "2024-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "서울",
+      "count": 7
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "AI",
+      "count": 6
+    },
+    {
+      "word": "시내버스",
+      "count": 5
+    },
+    {
+      "word": "외국인",
+      "count": 5
+    },
+    {
+      "word": "여전히",
+      "count": 5
+    },
+    {
+      "word": "일본",
+      "count": 4
+    },
+    {
+      "word": "중장년",
+      "count": 4
+    },
+    {
+      "word": "KDI",
+      "count": 4
+    },
+    {
+      "word": "대체",
+      "count": 4
+    },
+    {
+      "word": "인상",
+      "count": 4
+    },
+    {
+      "word": "보고서",
+      "count": 4
+    },
+    {
+      "word": "노동시장",
+      "count": 3
+    },
+    {
+      "word": "방안",
+      "count": 3
+    },
+    {
+      "word": "결렬",
+      "count": 3
+    },
+    {
+      "word": "창출",
+      "count": 3
+    },
+    {
+      "word": "사업",
+      "count": 3
+    },
+    {
+      "word": "국내",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "취업",
+      "count": 3
+    },
+    {
+      "word": "어르신",
+      "count": 3
+    },
+    {
+      "word": "격차",
+      "count": 3
+    },
+    {
+      "word": "노동자",
+      "count": 3
+    },
+    {
+      "word": "경력",
+      "count": 3
+    },
+    {
+      "word": "한은",
+      "count": 3
+    },
+    {
+      "word": "인정",
+      "count": 3
+    },
+    {
+      "word": "OECD",
+      "count": 3
+    },
+    {
+      "word": "평균",
+      "count": 3
+    },
+    {
+      "word": "중장년층",
+      "count": 2
+    },
+    {
+      "word": "불안정성",
+      "count": 2
+    },
+    {
+      "word": "극복",
+      "count": 2
+    },
+    {
+      "word": "기능",
+      "count": 2
+    },
+    {
+      "word": "회복",
+      "count": 2
+    },
+    {
+      "word": "총파업",
+      "count": 2
+    },
+    {
+      "word": "협상",
+      "count": 2
+    },
+    {
+      "word": "시내버스노조",
+      "count": 2
+    },
+    {
+      "word": "VS",
+      "count": 2
+    },
+    {
+      "word": "물밑접촉",
+      "count": 2
+    },
+    {
+      "word": "구조",
+      "count": 2
+    },
+    {
+      "word": "현대제철",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "03.13",
+      "event": "산업연구원 “AI가 국내 일자리 327만개 대체…60%는 전문직”"
+    },
+    {
+      "date": "03.19",
+      "event": "평균 임금 172만원 … ‘돌봄 노동자’ 수요 늘어도 노동환경은 ‘제자리 걸음’ [플랫]"
+    },
+    {
+      "date": "03.20",
+      "event": "중장년층 고용 불안정성 극복을 위한 노동시장 기능 회복 방안"
+    },
+    {
+      "date": "03.28",
+      "event": "서울 시내버스 12년 만에 파업…노사 협상 결렬"
+    },
+    {
+      "date": "03.31",
+      "event": "“석탄발전소 노동자에게 재생에너지 일자리를”"
+    }
+  ]
+}

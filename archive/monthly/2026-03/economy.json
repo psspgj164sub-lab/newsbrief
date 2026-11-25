@@ -1,0 +1,414 @@
+{
+  "month": "2026-03",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:33.316Z",
+  "articleCount": 271,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-03#t0",
+      "title": "환율 1,530원마저 돌파…금융위기 이후 최고",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "원·달러 환율 1,530원도 넘었다...금융위기 이후 최고치",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwaG5SMm84QmRkbmlqRGFGOXdiQm5VZ29PWXpydWtHcTl4MmR1NzRNNkQxaWxaa2JuWGxIYkwzcXhLSGtIYTFpV3htNmJjR01yUTNwWVpXN3laaDIyRjhRcTNmeHV5dzQ2MXZRSDQyTQ?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "환율 1,530원마저 돌파…금융위기 이후 최고",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JT1A1SmJVdWxVejh1WFdwaW55eDlOZllRcngwVFpDMFVDeVpjTVRFNmdWMFdIMDdWOWkwb084SGRGR2dIS0RwcHM5eHNWX3NMdEJMaXRWTzdPb1pSM0RpWlFOem9SQUU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "속수무책 오르는 환율, 1,540원 육박…금융위기 이후 최고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUUM0Uk9Xa05jYzNfMElUX2RzWGJXMF9hamtDV19DZjNxampWWEphaXZyeWhjRkduY1dBLUprcjFsOEUzYWV2dGRVRmZNNjdCTU5jWTVLNy01WEnSAWBBVV95cUxNcVlrWGJTdlczRE5GMGtOQWt4VHp0TVNTY3N1OFZUNE9TN0NyNmdSUGpXWThxUXFKZ19FZUdGMWFRQzVQaFZocktuN1BTaDQtSFdDVlcwNXVvY2dZajRTUDU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t1",
+      "title": "코스피·코스닥 10% 이상 급등‥매수사이드카 발동",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "코스피 5% 급등에 매수사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vVUh4Q202WFVIQkxPRzlZLW0wSk5uODRBLTVYVzhaaUJmUTZ4WXJ0Sm9zaG5BRGpLV3ZhZGVJX1I3TzgxVkxXWTZ0c195SWxWeUVGTjlxeUN1Z9IBX0FVX3lxTE12M3J1cGdXd0N1WFFFa19NcTVnQnBhTUx3Y0F4ZXBGVklxUFNaemVPUjZOcGQycmVsZ25kNHdSNEEzNVMySkx3SG1yb1pZZklrZVN2TkQtUTM4am9rQUpr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-03-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피·코스닥 10% 이상 급등‥매수사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BeEY1VUpRbWRQOFdoTDlJZWhySUFIdjN0ejByTkFvYjFobFJoX21GbzNwUjBDNndyY2FSak9YejhiUmZSck9BZ3VyZGdGUkRIX2pzdnR3X1puaFF5a0hnWENRcjE2NWRxdzVCMHEtTG9hM1V20gF0QVVfeXFMTXh0bU1QT1Bxc2ZTc1FabTZtUk5DbjBScS1YUnVIUXJIR0RwRWZCNDRMc1hnenE1NkpWdGRvYTVhWGVSUVRpbVpfRXFuN2RpNGdUUkRHWEQ0aHlHOGt6b195V0tjQi03c29xN3hDRkozY1JEWlY?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-03-05T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이틀 폭락하더니 하루 만에 10% 급등…코스피·코스닥 매수 사이드카",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rQ1kzazJwTnhIWGphYmt6NDFvcjB2MERNRjRCQWwxeE1ua3U2dzFmME9oTFBqOWJDRUZYQzFCOG0yU3RLa3pweW5jd3E5bFhfRTdDbjFGYWIzMGg5THlBYmJDdFBIejgwaGfSAW5BVV95cUxOd1Z6UllZS3pGN0M3NEh2Y2Q4ZEJGcEdZdlp3OGlWUDVSZEZFb1gwNUFiSWVkVzRia2lDTXlDb0RXY3I1U2VvVmpaUV9YNWdPYnRzOGhIVldkZ2ZYYjN4UTNrTzZtNGY3VXl1VzR6UQ?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2026-03-05T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t2",
+      "title": "신현송 한은총재 후보 \"현재 환율 큰 우려 없어…달러 유동성 양호\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한은총재 후보자 \"현 환율 큰 우려 없어…달러 유동성 양호\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FbEktTTlvQndtTmlxaDRUVmVaYTJTSDZyWXJ0U05aZVlOVzNJNndWUjhGdXpuUFp3Uy0zNkFuRTBsNWN5NS1lQVZXZ0NQbVNRYWhNbENQNTZsOXPSAWBBVV95cUxQQkhJNjVTSnM4ZG55QnNUcmh6czhMWFA1NVFuVHhDZ2tqWmZpd2hwMnR0OE5sOENkQTZpb3JuNmdjbW5zOFZVR3JZOU0tMFYwY3dHSFc1eDFCOC1yVWdlZVU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "신현송 한은총재 후보 \"현재 환율 큰 우려 없어…달러 유동성 양호\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yMlp2WGp5bTdzb3RSMWdzQ1RmaS1kdVdKNU1VZFRORlktMEZSVHg4VnluSVdmQzAxNkZDODhQWWZnS2ZKOTc0Zjd0cTdHQXN4Q1JIekhBTHRNdXB3aXgzbFJIZXh6TEE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "신현송 \"현재 환율 큰 우려 없어…달러 유동성 양호\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94UUdkWU9jNVpEU194cGVjRFFfUi1jdGxOSFg3WXFRS3BrVVVzcG0zVjVlZm12V04wWFcwWlFpOTQtQ0JMTFRrTU9QbndZaGZ5T0VFTHdDQ3FNbTdfNGFKVFJjWGhXVnM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t3",
+      "title": "코스피 12% 폭락…코스닥도 14% 급락에 1,000선 아래로",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "코스피 12% 폭락…코스닥도 14% 급락에 1,000선 아래로",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XTWVDSF9yNXMzbzk0bzZ1M3pucVk4aXBwNl9jVUlFdDF6cXduOTVHQkozS0NOTFNPVDcxSnFoNk5HOVdFQ1lISWlZS3ZUa0V0X3dxaTVTdmFKQmVzTXREU3luVFZ2czA?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'12% 폭락' 코스피 5,100 아래로‥역대 최대 하락",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05WTF0NVZaSHZUM1A0UnQ0T3hGQVBrbTF3S3ZuQmk2Sk8tODVKay1ub0UyaEZqaWRZWHU0UEwzalBZdFdlTXZkS1RPWTU1Q0RoWDQwbEVaMHFJeXhHNkxRWlpiZ1FybVNYY2FpX3owdFN5bWFfd0ltX9IBeEFVX3lxTE9MQ0ZmMi16M0ctM0JQU040MnZ0SVVfQXZNOWc4RFFVa1BOQko5Vng2OXdEZmpIOWgtQndNZ0FkUWpvVkRjVWdKbmtTLWk5Z3Z4WkZ1NTROck83b3NaeFIwa2NwN3FhMVVqWXF3c2E0bloyMnpTaFI3Yw?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-03-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 ’12% 폭락’ 5,090선 마감…코스닥도 14% 급락",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYjNaRlNDRnhwZVZoRFh3MUdwTW5UWEM3NGtQMnFDcmphR2pLX1FuU3VVc2ZpemVSODlJSFQzX01wSWpFeXBkUUs2NHBxNXlwSC1TUU5kMlJrOGl5N1VQQ1Ffc3FHSGM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t4",
+      "title": "5대 은행 주담대 고정금리 연 7% 돌파‥3년 5개월 만에 처음",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "5대 은행 주담대 고정금리 연 7% 돌파‥3년 5개월 만에 처음",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqTUtkRXQ5QU1CT1ZpbHRCVHp0NVotTEdoYkR0YVhNbXdQdndabHU4NDVXS3N1aUNIVjB5VlJGR0RtRDBIbHVLeVg1eGoxUFRabXJJY3lnazFMZS1iTnBTT0JyUEJON294UG5RNmI3c0l6V3RJ0gF0QVVfeXFMTnowLTJxQlRGRWR3R1pNcHhUS2VQYUFpWjVVNUhlRHQ1RnZneVJxbkFDSGsxZFJRaFNSOUJZMGdzdzVHVTBpYjg1eXlzbXlGSFVDMnBhOHRQTXRnTWRkWjlDbU1YRU5UQUJ6Y0U2VHNreU5aS1U?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-03-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "은행 주담대 고정금리 7% 넘어…중동불안 등에 3년5개월내 최고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uV29vTXpVYnJxUkVTeGw0YVEyc3J6WDVPcGNDOWdlMHp1eU1LLUJTY2dpeUNvZldlb0gwZ3g3ejV5SnFIU0Y3Q004dnBoODFKNlZFZzFXX05ESmM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-03-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t5",
+      "title": "3월 1~20일 수출 533억 달러...한 달 만에 또 '최대 기록'",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "3월 1~20일 수출 533억 달러...한 달 만에 또 '최대 기록'",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXYTNCa1FHejNBcGhkTzBmQ0N5eERLY1JpaUJfZ2pfeVV3ZldPc1RhNXllZklpMzZjeGZja2JDOG9vTmdURjN3elpFWWdVN0cta24ycEF4NDZQSlo3RVhYUTk2WkcxWTkzRk02ZWloYw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-03-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "3월 1~20일 수출 533억 달러, 역대최대···AI 수요 급증에 반도체 167% 늘어",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXVoSWJWa0w4VnVsVlZyTHN0UFdQRl9odGhrMFhRV05PSXpSWHNPNVVheWt5UmVFOEhIXzdON1hrNmpsaG11N2laR2VVd1BrcGthMC1hYktIandIMDN0MDZvZGFfbmEtT29RZ1lFOEhlenMxeHd4cmNJQkc0OVdoclVBQ1lmUl9FQk5aN3hn?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-03-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t6",
+      "title": "모건스탠리 \"코스피 2년내 최대 8,500 가능\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "모건스탠리 \"코스피 2년내 최대 8,500 가능\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NM212LTFzNXN4OE96NDNKNV9QZnJwVld6emROR3lXb2NDcXV1OVc5Q2NMMkowa253SHdoVkdXbnM4Vk5PMU9mVHZMdmtDamJfUHcybHZGMWxIbmhIaGQ5SWJIcnZhdTg?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-18T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“코스피 8500 간다”…모건스탠리, 한국 증시 낙관론",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzWFN1bC1NNkw1MldkLUIwY1pDcGZSYmJ4MGpPZjhkZjdXcnUwM3F2SDBoOXFNZFBWc3NKYWxDTkt3blN4c1dTc2d1U0hZOGxKeEJTRi11cDUyTWdfdFFCbkpMbEZNVU9aaHc?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2026-03-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t7",
+      "title": "코스피 1단계 서킷브레이커 발동‥코스피·코스닥 사이드카도 잇달아",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "코스피 1단계 서킷브레이커 발동‥코스피·코스닥 사이드카도 잇달아",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMDFrbFZfamdidVdGQlM0b0hJc0hOaml6TDR1aHh6SFp5YllJOUpxZHNoaUItVVctaUVMc2VYMWZqY3k4Ty11Yno5Qk5aVF83U1Uya0ptTTNndHU2Z2ZQZWxZbjVyNXJFdkN6SWtXVEdBdDBm0gF0QVVfeXFMTWFfSHM1ZDFuUllBbi0wbE9CR3NTbFJLTFFqSE1CSnFCMlZuMWNneW85QWt1dW56ZG1RTE5icVUyamt1NnJMemtMNllXVXpXc2xHdjc0N0ZFNWhydVpsel9XWHJZd05xQkxKVGxWS2Q1bzhEbXk?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-03-09T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 서킷브레이커 발동",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zczM2aWRhV3MwUTl5dzQwNEVrS3pJLVNSZ2tYdmY4S1dqT0N0OGdNUGM5NVhwLWVlR2t4U0VkQUhEVGJxUi1SaDg3Z2RiUQ?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-03-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "최대",
+      "count": 31
+    },
+    {
+      "word": "달러",
+      "count": 24
+    },
+    {
+      "word": "역대",
+      "count": 22
+    },
+    {
+      "word": "상승",
+      "count": 13
+    },
+    {
+      "word": "돌파",
+      "count": 13
+    },
+    {
+      "word": "유가",
+      "count": 12
+    },
+    {
+      "word": "급락",
+      "count": 12
+    },
+    {
+      "word": "하락",
+      "count": 11
+    },
+    {
+      "word": "급등",
+      "count": 10
+    },
+    {
+      "word": "금융위기",
+      "count": 8
+    },
+    {
+      "word": "전쟁",
+      "count": 8
+    },
+    {
+      "word": "최고",
+      "count": 8
+    },
+    {
+      "word": "외국인",
+      "count": 8
+    },
+    {
+      "word": "폭락",
+      "count": 8
+    },
+    {
+      "word": "대통령",
+      "count": 7
+    },
+    {
+      "word": "인상",
+      "count": 7
+    },
+    {
+      "word": "미국",
+      "count": 7
+    },
+    {
+      "word": "시대",
+      "count": 7
+    },
+    {
+      "word": "이란",
+      "count": 7
+    },
+    {
+      "word": "중동",
+      "count": 7
+    },
+    {
+      "word": "코스닥",
+      "count": 7
+    },
+    {
+      "word": "성장",
+      "count": 7
+    },
+    {
+      "word": "한은",
+      "count": 6
+    },
+    {
+      "word": "시장",
+      "count": 6
+    },
+    {
+      "word": "세계",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "신현송",
+      "count": 6
+    },
+    {
+      "word": "회복",
+      "count": 6
+    },
+    {
+      "word": "공포",
+      "count": 6
+    },
+    {
+      "word": "매출",
+      "count": 6
+    },
+    {
+      "word": "쇼크",
+      "count": 5
+    },
+    {
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "반등",
+      "count": 5
+    },
+    {
+      "word": "발동",
+      "count": 5
+    },
+    {
+      "word": "삼성전자",
+      "count": 5
+    },
+    {
+      "word": "마이크론",
+      "count": 5
+    },
+    {
+      "word": "목표",
+      "count": 5
+    },
+    {
+      "word": "원화",
+      "count": 4
+    },
+    {
+      "word": "동결",
+      "count": 4
+    },
+    {
+      "word": "충격",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "03.05",
+      "event": "코스피·코스닥 10% 이상 급등‥매수사이드카 발동"
+    },
+    {
+      "date": "03.16",
+      "event": "환율 1,530원마저 돌파…금융위기 이후 최고"
+    },
+    {
+      "date": "03.23",
+      "event": "3월 1~20일 수출 533억 달러...한 달 만에 또 '최대 기록'"
+    },
+    {
+      "date": "03.29",
+      "event": "5대 은행 주담대 고정금리 연 7% 돌파‥3년 5개월 만에 처음"
+    },
+    {
+      "date": "03.31",
+      "event": "신현송 한은총재 후보 \"현재 환율 큰 우려 없어…달러 유동성 양호\""
+    }
+  ]
+}

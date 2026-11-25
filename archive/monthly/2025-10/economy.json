@@ -1,0 +1,283 @@
+{
+  "month": "2025-10",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:32.565Z",
+  "articleCount": 50,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-10#t0",
+      "title": "삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "삼성전자, 2025년 3분기 실적 발표 – 삼성전자 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3I5U3NLZm1BTG1RWFplS3FWZGwzRlBhaDRXd2o2MlJXX2o1WE1qd1NncjFEaWF2MGRDbUQ1bHlrdF8wbG1uX29iSUQzMlg1UlN6YlVGaHlVb0VwUGl2dGJzdjFDV1BKMlNsQTFXbE5iT0xzUEo4REhSSGlCVmM0TjE5Mk5GbG1aWkIya0V5UTVJVnB4bDZ0VXlOOENzeVl0RHpyX1AwcGRSUDJfQzhuWHpQRHpvV09GWE1NZW1sVE5raUJIc2FEckt5SWY3bnd4bUE?oc=5",
+          "source": "samsung.com",
+          "publishedAt": "2025-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "뉴스 : 삼성SDI, 2025년 3분기 실적 발표",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWDNlMGZGc0dMbTE4YnJpYTNhMHN3aHZaQVA4ZEc4QV9wcXQtVEVHV3RHbVg3d0k5Q1drRGJ2T0QtUk53Z29hamt1akx0eEx4Zm1EWVlqWkJYODZsSEZKZTRxNmJ0UQ?oc=5",
+          "source": "삼성SDI",
+          "publishedAt": "2025-10-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 오늘 3분기 잠정실적 발표…영업익 10조 회복할까",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiQXRnNG42d1dTLXBQQjRsU1NCS1B0NVpTcXlfTFRnc244VlFzRUlCUV9oRmJaVnRpdnFsWWlrcFJ6cFV4OE13REVGd21GcW1kWXd4RWFDWXZGZUnSAWBBVV95cUxQWHBxQTVMQ3F6cGtBRzlzaDh4UHl0X051ZnFRczBlNlliQ1dSMDNiS3VVLWh1RG0tQ0hMWDdrQzcyS1NRYWFWVy14VkpJMDk0RnhMUmRZcmpkM25PVTdldjE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-10-13T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t1",
+      "title": "삼성전자, 3분기 영업익 12조 ‘깜짝 실적’…반도체 부문만 7조",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "삼성전자, 3분기 영업익 12조 ‘깜짝 실적’…반도체 부문만 7조",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FUW1YVUxPY1JFM2UycHdXZ0Vhd2M0MHpFRlljaWVYU3RTV3VDY3NleW1KYWFyOUs1bEhlN3d2NHktWlhyTDNpZ2J3czFadHFUS29NcFMxdExlUTZOTzJOQWliSXhsS2NNZDdwMU1iaTN6QQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 3분기 영업이익 12조 돌파…반도체 실적 회복에 ‘깜짝 반등’",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GbU9LT0hqU01IOHBmNjQxVGZEQThUbnBDVXhjVXF1b2pvanBoNEhHV1BZV3lrdmhrbjRRLTVwc29US0ZXZ1lyTGtaeE1DcTBxc0d0RUJPRUxNQXhtQ0FtaV9WNkk5aUFmNk5r0gFvQVVfeXFMTkJBNWxtbTUyVTY4d0VMVHp1cnN6Q1FObWY3elFzeDczX2JMR3oxRkhzZXR4RTFIOFBlR0lVVk9xdzhEV1ZIQW9PaFJnTm5WR2tyVlR1UGVXS2FZalRtTUxBc3pwQ29oZzRxUXMta0ZJ?oc=5",
+          "source": "더퍼블릭",
+          "publishedAt": "2025-10-14T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t2",
+      "title": "기준금리를 내리면 물가와 주식은 어떻게 움직일까?",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "기준금리를 내리면 물가와 주식은 어떻게 움직일까?",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ba3VQZk9GdmtYT1hvNU52VE9IZHdXLWY5Wk1ZTWhKRVRQTHpBcFdEamUxcUlUTnV0Z0pfLWRDVmNDSlhUU1l2LWNKVjdfUkVHaVk2WWdyZFZmR1E?oc=5",
+          "source": "토스피드",
+          "publishedAt": "2025-10-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t3",
+      "title": "\"부동산 불법행위 뿌리 뽑는다\"…범부처 부동산 감독 추진단 출범",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "\"부동산 불법행위 뿌리 뽑는다\"…범부처 부동산 감독 추진단 출범",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YSWdpM3YxUUhlaTdjN3dEd2NGTmhKWDR3ajRHLWhVUGhWRzEtVVlyNjdCOE0xQjRNaEp3QXNIRXJwT213SE54dHJPVHpwckhhT1pCNGRFQ2N3Tk0tekh2SGVZcVBMMHMyOGRoNQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-10-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t4",
+      "title": "‘정말 5000피?’ ‘지금이라도 들어가?’···불붙은 코스피 바라보는 착잡한 투심",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘정말 5000피?’ ‘지금이라도 들어가?’···불붙은 코스피 바라보는 착잡한 투심",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjOF9pZGtvX3RnbjA1a2UyQzgyOEJsSnJrQmZrVXN2UHVQbHdxcTJZX3ptWkNRdnJiU2lnUHlvNl9SRnpSbjRfdlRYUENSSzQwekt2NEJ4SW94UdIBX0FVX3lxTE1hbVhERmpGQUdCRHFaRUFZSk9HYXRHOXF4N2V3R3ZDa0FXeGdITEptc1VPbTVXM2k2QnZDRmxwWWVZbVlURDE0ZUxkR09nT2dYQnFnRnFjTVFkclRFTG5R?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-10-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t5",
+      "title": "부동산 정책 규제 대상이 아닌 중국인(동포)들의 한국 부동산 투기?",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "부동산 정책 규제 대상이 아닌 중국인(동포)들의 한국 부동산 투기?",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UQi1tczE3NjFaLVlmS3BGVzhSQzNoTWNxQnMxWWoyUXc2LWZyQUJUaXliR242Y3AtTURqcDIzMU00VW5SNlphdi1jMXJGQ2plZ3FjMF93dEU5N1RWU3JjWV9INDlfWXpyeUZ5MFFZYw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-10-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t6",
+      "title": "물가 안정과 서민경제 지키는 우리 동네 작은 실천 '착한가격업소'",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "물가 안정과 서민경제 지키는 우리 동네 작은 실천 '착한가격업소'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JZDVaY21DLUJ0ckYtRTJGVWxJVVdpYW9QTkRiUDBpZHBkVzFrLUJMSC1JbHd5aGlMbWxzYzFHcmVYdEoxZkNOcDhQLXZmU09oVVFPTkNzS2UyX3lFNFNiMzQtVURTY0Rqbjd0dw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-10-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t7",
+      "title": "2025년 3분기 중소기업 수출 역대 최고실적 달성 - 카드/한컷 | 멀티미디어",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2025년 3분기 중소기업 수출 역대 최고실적 달성 - 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kZ2syaUY1MzBOZG85NUdQQVNvR2hIUjBkQ1psOWVYRVNvM3A1NEtNbkNNT255clN4UUJCZmxDc1JqcVpHYmlFbHQtb2ZJMUo5aEtwZGIyaldNdXo0LS1lOGdYaFRfOVkyemhoajl3?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-10-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "삼성전자",
+      "count": 8
+    },
+    {
+      "word": "역대",
+      "count": 6
+    },
+    {
+      "word": "돌파",
+      "count": 6
+    },
+    {
+      "word": "화장품",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "깜짝",
+      "count": 3
+    },
+    {
+      "word": "AI",
+      "count": 2
+    },
+    {
+      "word": "달러",
+      "count": 2
+    },
+    {
+      "word": "우리",
+      "count": 2
+    },
+    {
+      "word": "정책",
+      "count": 2
+    },
+    {
+      "word": "여정",
+      "count": 2
+    },
+    {
+      "word": "달성",
+      "count": 2
+    },
+    {
+      "word": "회복",
+      "count": 2
+    },
+    {
+      "word": "투기",
+      "count": 2
+    },
+    {
+      "word": "등극",
+      "count": 2
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "중소기업",
+      "count": 2
+    },
+    {
+      "word": "아이티엠반도체",
+      "count": 2
+    },
+    {
+      "word": "양산",
+      "count": 2
+    },
+    {
+      "word": "기대",
+      "count": 2
+    },
+    {
+      "word": "잠정실적",
+      "count": 2
+    },
+    {
+      "word": "영업익",
+      "count": 2
+    },
+    {
+      "word": "경신",
+      "count": 2
+    },
+    {
+      "word": "뉴스룸",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "10.13",
+      "event": "삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸"
+    },
+    {
+      "date": "10.14",
+      "event": "삼성전자, 3분기 영업익 12조 ‘깜짝 실적’…반도체 부문만 7조"
+    },
+    {
+      "date": "10.30",
+      "event": "\"부동산 불법행위 뿌리 뽑는다\"…범부처 부동산 감독 추진단 출범"
+    },
+    {
+      "date": "10.31",
+      "event": "기준금리를 내리면 물가와 주식은 어떻게 움직일까?"
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "month": "2025-05",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:31.834Z",
+  "articleCount": 161,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-05#t0",
+      "title": "2024년 물류기업 경영실적 분석",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2024년 화장품·뷰티 기업 406곳 경영실적 분석",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54TE1oNV93WTNaSmY5Q3dyU2lFczZCYlVBSmVhRlBqYVNnWG5JRHc0TEx3akJzcDdkMDljUkowd2RLa1dXSDJkUUQ0c2JnQVRJWXhTbzJ6RHZxbDhvNGh5UzZzRQ?oc=5",
+          "source": "코스모닝",
+          "publishedAt": "2025-05-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2024년 물류기업 경영실적 분석",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pR1d4VVJfQTEtYmJ0UFhWUk9TN1czYWs0bTZIaVRJRzFsUUV5ZlRKLWZ0NjJDN19Oa3hvd0ZoN09Hdjl5ckFwRzVKTm1UNm1JWlM3MjUwS2hNaUNfZ2piM1RtSDNXUGhzVzBn?oc=5",
+          "source": "물류신문",
+          "publishedAt": "2025-05-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "Part 1. 주요 물류기업 2024년 경영실적 분석",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zb0d2ZUhva3pYaDA3WXA0aVZ1NnBGUzhPcTY2YjZMLVp0MzdkaFNmb2dSUm9ub1lRYkhqSXd4RGhkNlNQcFhFYUpEQVp6R3h1b3hlM1ZpZ3N2VFNPV2NKN0ZwRF8xVmNyeGx3?oc=5",
+          "source": "물류신문",
+          "publishedAt": "2025-05-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t1",
+      "title": "“코스피 5000 간다”···이재명 재강조에 증권주 ‘불기둥’",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "“코스피 5000 간다”···이재명 재강조에 증권주 ‘불기둥’",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rOU0yRUw5M0szQ01zZGVnY0tKV3BSMDlrOHZVY2U4RWNhdEVzMWFENE1KdVJqYktCTVZ5YTdmRm5YZ2p2VXhPWk5NQTJfcXdLb3NsTw?oc=5",
+          "source": "매일경제",
+          "publishedAt": "2025-05-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"코스피 5000시대 열겠다\" 이재명 한마디에 증권주 들썩",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iSkFadUxwRTNUbDRJNzhBNmFZWW1ha1U2WkhibXJyVXJQRG4zTUVOX25VdFl5TTctT2JoNjdjYmZmLTB3RXZxMUpCVHROb0RuUmZOWnQwU3dWaFVMYmtUZWZKWEZTTFJDV1NrTHd0Zl9lajg?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2025-05-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t2",
+      "title": "이재명 \"'코스피 5000' 실현하겠다…반드시 투표해달라\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이재명 \"'코스피 5000' 실현하겠다…반드시 투표해달라\"",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FcU94SkhTOWNfQWVHV1FNa2o2M2IxU09lWGM0bVRmZExvUFVVazJ4TFRYSTJ6eGxMM1pNV1RyaFdKXzVNeEJIY2tiQ0ozamdULUlEREphVktHdw?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2025-05-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이재명 \"'코스피 5000' 희망 실현하겠다\"…사전투표 독려",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wRFNSZUtEX3ZzSzc0OTNmWERPZzZQNEFZNk1YSEpqeV9LQ2UzRWo5bEhnQmdwZzlaSGw5OEZNT0owVEdYdFN0bWJSRUNaa3ZVeldPcGJ3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t3",
+      "title": "오로라, '팜팔스' 美 트럼프 시대 '완구 킬러' 부상…\"사상 최대 실적 전망\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "오로라, '팜팔스' 美 트럼프 시대 '완구 킬러' 부상…\"사상 최대 실적 전망\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xOXItemNrZEZtNTQwWkpsSXljRTd5cWI4SDM5MnYtWkE5OFh4eG1OaWlhQWkwRmxVZzU0OW9GQUkxUVYtM2pORnNwYS05MjNlTjA5ei01M3VOcUFoRGUxVw?oc=5",
+          "source": "프라임경제",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "오로라월드, '팜팔스' 美 캐릭터 완구 킬러로 부상...사상 최대 실적 전망",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NdXc2dGhiVTdGTDRhVjhVU2ZhcDVHUDhsOXhoVlZfdlQzRXpjeUtFWGlMb3JIanlZUy1hbGotVzlCd1hhOHNOWVZHTkIwTjJnbDRkVkFSZ2Z2cDBEd1lzSDhaRDd0NTNRY0Y3UHNTcUJROXc?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t4",
+      "title": "나대지‧분양권‧비상장주식도…국세청, '부동산 감정평가' 대상 대폭 확대",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "나대지‧분양권‧비상장주식도…국세청, '부동산 감정평가' 대상 대폭 확대",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02RTBoQkk2bGduZmJSMzBpM3htbUlNU0hYV0UwT05FUWtEUDUwbW40eUtpS0gyMkoxa29WT3JYNzNKZzg0VmFab214d1JkU2lJbGFXRU1MbjRfbE84NDBaQ0FtOUI?oc=5",
+          "source": "한국세정신문",
+          "publishedAt": "2025-05-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국세청 부동산 감정평가 사업 늘린다…‘비상장법인’으로 확대",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQcTdqcl9jLXdJRFBld0REMmYwTndSV3NRenZfU2RUOThNRUtKQWM0Wm9vMi1SN0R4UFAtRDZTalRYWHlRR2FqVTZwSW05SmdlYVlNc1k3ZWd0NGxaOG9tMkFOcTJiRVlKNEpiWg?oc=5",
+          "source": "세정일보",
+          "publishedAt": "2025-05-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t5",
+      "title": "'대통령 선거일' 6월 3일 증시 휴장",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'대통령 선거일' 6월 3일 증시 휴장",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BeE15WmdBLVZIUUsyWnpxSlh3anFabVk3eExhdlpOdnRTcHphbWRVVEFrMkVRSG5HRWVDMzhpMFl4V19sVk4xOFBVOHd0aFlGY1BtRDlPdUdtV0HSAWBBVV95cUxNcjQtQllWQ2x6ak5GQVJ4Ti12aWVZTWphVUJxTXlTUkdSNkhjejkxTFdqOURYLXpLTUJScVFqQzVwOTVCMmVZSXhwRWNzczdiU3pCdDUwVEVkdGJlSlhLeG4?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국거래소, 6월 3일 대통령 선거일 증시 휴장",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pSkhUZTlIXzV5U2pWMkJXT1Y1NVVWTlZrWVhCTDIzdU9MbXdXU3NOUnBJS1l6X0pzeFczd3pZNUNwOWxxVDRrLVZkVHp3Z2t5NENpU3dHcVJvVlhvcVNVZDZaRmpza0ZjeXlFUjg2dGM2Zw?oc=5",
+          "source": "인더스트리뉴스",
+          "publishedAt": "2025-05-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t6",
+      "title": "“유통도 수출 시대”… 애터미, 국내 유통기업 수출 1위",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "“유통도 수출 시대”… 애터미, 국내 유통기업 수출 1위",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UR0lMRjVlYm9kNTdqUlI4WmlodUMxR0QyeEgzU1dHbEc2SVI2Y3Fpb1ZzNzdycnRDVzdBWVlpU1BtaWowV0pmNzcySS15TjRGR05sODU3ZW9udEdoY3psZHhfZWo?oc=5",
+          "source": "지이코노미",
+          "publishedAt": "2025-05-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "애터미, 국내 유통기업 수출 1위",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GWmlPeDRadHA1a0Y1cDF5cUROZDFUeHI1MlJsM0pwQmtHZDVMN1JkclBnLXFsRy1YaFU0TkEzczBhaWdUSU1FZGpKX05TNkZ3YkJHc0VyMWNZRm4tdUF5U2IxcmhOTmxtQ0E?oc=5",
+          "source": "금강일보",
+          "publishedAt": "2025-05-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t7",
+      "title": "李, 험지 강남4구서 표몰이…\"민주당 집권 자체로 코스피 3,000\"(종합)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "李, 험지 강남4구서 표몰이…\"민주당 집권 자체로 코스피 3,000\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95N24xNHRJNEFQSW42cDRpSWh1QWhuUmlmQ1RqYzFEaGJLZ2xlT0gwQ2xVaTRYR19mQm1LdUVFcEpLa2RILU1UZU0tc0VUc2RpcWp1OER6TkdMeTDSAWBBVV95cUxNUU45SzAweklOZTJaeUY2OVNldXFLTlpXdzJqRktGOEhKclVVbUdmV2xFYngtSWc1SXJsejBlMHpJZGp6WjhSa0pRTVN1Y2hJc184dHdQdkwwdXNQR0lsUWY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이재명, 험지 강남4구서 표몰이…\"민주 집권 가능성에 증시 살아나\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YdDBaWU1jWjYyYW42MFRIS042OEk4ZWhMTkhSTmpZdzdKS0FJTm5RZm9tRUE0bDhhdXFJdmVPNVlvVHp1N04tUGFRYVlvbTRObkhESk5yemRWOVk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "이재명",
+      "count": 20
+    },
+    {
+      "word": "성장",
+      "count": 7
+    },
+    {
+      "word": "공약",
+      "count": 7
+    },
+    {
+      "word": "분석",
+      "count": 6
+    },
+    {
+      "word": "기준금리",
+      "count": 5
+    },
+    {
+      "word": "주요",
+      "count": 5
+    },
+    {
+      "word": "달러",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "글로벌",
+      "count": 4
+    },
+    {
+      "word": "대선",
+      "count": 4
+    },
+    {
+      "word": "김문수",
+      "count": 4
+    },
+    {
+      "word": "외국인",
+      "count": 4
+    },
+    {
+      "word": "도입",
+      "count": 4
+    },
+    {
+      "word": "PF",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "국내",
+      "count": 4
+    },
+    {
+      "word": "화장품",
+      "count": 4
+    },
+    {
+      "word": "사상",
+      "count": 4
+    },
+    {
+      "word": "경영실적",
+      "count": 4
+    },
+    {
+      "word": "한은",
+      "count": 3
+    },
+    {
+      "word": "시사점",
+      "count": 3
+    },
+    {
+      "word": "세계",
+      "count": 3
+    },
+    {
+      "word": "내용",
+      "count": 3
+    },
+    {
+      "word": "투자",
+      "count": 3
+    },
+    {
+      "word": "추이",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "작년",
+      "count": 3
+    },
+    {
+      "word": "공급",
+      "count": 3
+    },
+    {
+      "word": "VS",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "부동산투자회사법",
+      "count": 3
+    },
+    {
+      "word": "프로젝트리츠",
+      "count": 3
+    },
+    {
+      "word": "DSR",
+      "count": 3
+    },
+    {
+      "word": "코스닥",
+      "count": 3
+    },
+    {
+      "word": "제약",
+      "count": 3
+    },
+    {
+      "word": "강남",
+      "count": 3
+    },
+    {
+      "word": "시대",
+      "count": 3
+    },
+    {
+      "word": "달바글로벌",
+      "count": 3
+    },
+    {
+      "word": "첫날",
+      "count": 3
+    },
+    {
+      "word": "사업",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.16",
+      "event": "2024년 물류기업 경영실적 분석"
+    },
+    {
+      "date": "05.20",
+      "event": "'대통령 선거일' 6월 3일 증시 휴장"
+    },
+    {
+      "date": "05.22",
+      "event": "나대지‧분양권‧비상장주식도…국세청, '부동산 감정평가' 대상 대폭 확대"
+    },
+    {
+      "date": "05.28",
+      "event": "이재명 \"'코스피 5000' 실현하겠다…반드시 투표해달라\""
+    },
+    {
+      "date": "05.29",
+      "event": "“코스피 5000 간다”···이재명 재강조에 증권주 ‘불기둥’"
+    }
+  ]
+}

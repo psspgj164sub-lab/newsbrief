@@ -1,0 +1,386 @@
+{
+  "month": "2025-02",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:31.360Z",
+  "articleCount": 163,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-02#t0",
+      "title": "분석/ 2024년 해사기업 경영실적 –외항해운 5개사",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "분석/2024년 해사기업 경영 실적 – 조선기업 7개사",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Nk1iOWpSd3J2UmdoYU5Tbkg4VXNaSjJIZmwyN21xbkpSaDZsaXgxVjFmWVJSYTd4cnM4TTIxS1dYb19SdVNzbnVxQ3BEeTVlczVudXBJQWlZRTB1TUdlZ2NUNUpveWNWc1RUYlV5Q0RQUm9FWWlKTVZB?oc=5",
+          "source": "해양한국",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "IBK기업은행, 2024년 경영실적 발표",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ELWRLNHp5R0pmY0FDSDVpV0hxbDZlbDVpY29FZk5zUTh2R280bFNOTTVOaUZwOGJqWWFmT1JCV3dpdWRDdURMYWhxZzRxWDQ4eEdhaEJCSThUeW9hbmhn?oc=5",
+          "source": "뉴스와이어",
+          "publishedAt": "2025-02-10T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "분석/ 2024년 해사기업 경영실적 –외항해운 5개사",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81RWZoWjF1OWswcjhEWXRWYkRlSkNUOGRvNF9iQWREVTJENlhVcVkzV0Q0YWk1NkhxZDVRUzVPcVlDekpxWDhXTXhiQTVnSFZEZFJtNEVKX2dWYm9Hcm1TckhETUZqc1d2bnFNTkVCRjhWVmcxOGxrVXZR?oc=5",
+          "source": "해양한국",
+          "publishedAt": "2025-02-24T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t1",
+      "title": "지방주택 친척에 가장매매 1주택자인 척…국세청, 부동산 탈세 156명 조사",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "지방주택 친척에 가장매매 1주택자인 척…국세청, 부동산 탈세 156명 조사",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xd3B4RXZCMEhRSzFpYzNVb0ZLS09iazFFdFZMblZ6dGpXaEhvMVhURjJQODgtRWFfd2F6ZHRqbUF1Q1VkVXoyNi1wN19sbG5uVmoycXB5eVZURGVVTmY0?oc=5",
+          "source": "한국세정신문",
+          "publishedAt": "2025-02-17T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "수십억 아파트 편법증여·가장매매…부동산탈세 156명 조사",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MNVAzVC1LcHhYSmp6OXY5R3FtUW8wWTBKbTJUMDRaNUl5aW9pTDUwTUgtTGlSa0lBR3FZYU1nSk15emFyLWdNNWJrREFiOV8zNVZhSGhWd3hDQ1Zwc1NuckNKeXdDX251Vl81QlJB?oc=5",
+          "source": "세무사신문",
+          "publishedAt": "2025-02-17T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t2",
+      "title": "강원 의료기기업체 '아랍 헬스'서 역대 최대 규모 실적",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "강원 의료기기업체 '아랍 헬스'서 역대 최대 규모 실적",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mQ0R6SS15Ul9LeWZxcUhia09iSWkyMzZubjQ0eFcwajJQRVFOdWtEQ0M4SVFaOGVyTW1FTzlXSGxDRkhJbzJKdGUyTkJhUUlhNU9vM2ZIUmlKY3Qx?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2025-02-05T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "강원 의료기기, 중동시장 진격…두바이 아랍헬스서 역대 최고 수출 실적 달성",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OWTBRODRITzdoeXJ0bDhjemsteExNOWdtUlAwaThpejI4X2YzUlltZ1NYZHVqZy13MjNVYXIyTGMzMktGcmlDakdSUkRtcGhTZVZaQmM4d1JnNlpmcnA0SVZLVnZGUzE3QWc?oc=5",
+          "source": "헬스경향",
+          "publishedAt": "2025-02-05T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t3",
+      "title": "트럼프 관세 우려에 코스피 2% 급락…원달러 환율 1470원대 재진입",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "트럼프 관세 우려에 코스피 2% 급락…원달러 환율 1470원대 재진입",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXFmU0lxWHhXV0haSVU0TWQtUVpCQkRseG9kdmVaVktvUTVmalhRa1BxUXdSc2JaMDBrVmppT0RsZU05NGxWXy1XRmxpd2NTNGg3a09JZFE0TDVkN01CU19mcVVTZ1pBZ2FtVjdpR3dmRXBCZy0zLTdKM1ZETTBtRDd1Zw?oc=5",
+          "source": "인베스트조선",
+          "publishedAt": "2025-02-03T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 '관세' 쇼크..코스피 2% ↓·환율 1470원 ↑",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQMk83aUZYUXN3OTJvNjF4NlZSckFwcUpRWVB3dGlNUzdaNEY0Ylc0S0g2eE5jRWQ1dmtLRTFRTmRQQUNMdmFrQVcyOWkySjROZDlibVN4SEJEa3lB?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2025-02-03T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t4",
+      "title": "한미반도체, 작년 연매출 5589억 최대 실적…HBM 효과",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한미반도체, 작년 연매출 5589억 최대 실적…HBM 효과",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PZmRXbll6WFJXTmJ4eFo4SkZjSi0tRmplTkNlUWd5NTFjZy1vWDhHTXdYNWRhRHVUN25sLVdWcm0zQzRLQkpmTmJKUmRZUExLc191Z2pn?oc=5",
+          "source": "지디넷코리아",
+          "publishedAt": "2025-02-03T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한미반도체, 작년 매출 5589억…창사이래 최대 실적",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuN294Vy1xV3dsb1FlVUtXUDUtUGc4bWIwd01nVkJOb05ScE1qTm1fdWd5UkloUndiYVJkUnludDRpd1k0ZzJrb1dMeDNQZFBzeXJkTWFn?oc=5",
+          "source": "헤럴드경제",
+          "publishedAt": "2025-02-03T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t5",
+      "title": "국민연금 '국내부동산 위탁운용사' 1차 통과한 현대인베운용 어딜까",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "국민연금 '국내부동산 위탁운용사' 1차 통과한 현대인베운용 어딜까",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qX0g2VFBSVEVuNUtFMTdMTk1Nc3RldEZ0TURMTDBWQ29ieThiZU5Oc2dLTnQtTkpZNzRsYnpMcEtScnptd1QzUHZvdFJ6WUsyWnVLRW1veWRINWowQnlLSFAxT2hNZDVzclJYOHhIYnY1QQ?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2025-02-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국민연금 '국내부동산 위탁운용사' 1차 '삼성SRA·이지스' 등 6곳 선정",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGTDVCS1NQcXBOd0x5a0pTWmsyQ3JldVN6aWc2Mm90eVIyVlBUV2V2dkxRY19RX2lfVmtxUDBSRWJtVVlpMUZnd1BUZU1wRHhIQTNYamdqa1ZHLWxsZnE3TWxwUFU5WkgwUnhNUEpSVzZIdw?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2025-02-21T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t6",
+      "title": "'2025년 개정 부동산 정책' 요점 정리",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'2025년 개정 부동산 정책' 요점 정리",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZWp6MTRrZE1XeGNnWGxmTmtOVXVHNDgySUlDQVMxa2ZZNFRtQUNCN1VMMExVdkZGaS1udmJuU0JNaHhibTlFT3A5d0hreXB0dWhuNGlJMnRGUDRlUmRkN2RiQ0ZCM2pLUDVF?oc=5",
+          "source": "한국부동산뉴스",
+          "publishedAt": "2025-02-07T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'2025년 개정 부동산 세법' 요점 정리",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyU25RbE1ONVlBXzYySUJMU2JmdmJWV19uVjE0TzN2eUpET3BPVjA5OXFmUHdVRGVZWl92eGEtUXpwMWVDUF81OXpObXhPS3BaSEYxTHlBOGtZRzFmWGo5Rmk5Z0pLWUdFS2JZ?oc=5",
+          "source": "한국부동산뉴스",
+          "publishedAt": "2025-02-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t7",
+      "title": "\"가계부채 줄인다면서 금리는 내려라?\" 금융정책 엇박자",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "\"가계부채 줄인다면서 금리는 내려라?\" 금융정책 엇박자",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KbHQ4R0kyVG52T0RRZ2VjVUF5RG1Iak9pRkt6UkJyUFFWVlFQaFpMbnVKTm1GMG1hdDdnR3F1QTFxemdSUmNjWG5QQ25ITDQ1UHFjNUQ2cENPbmJCOEE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "시장",
+      "count": 10
+    },
+    {
+      "word": "작년",
+      "count": 8
+    },
+    {
+      "word": "트럼프",
+      "count": 8
+    },
+    {
+      "word": "한국",
+      "count": 8
+    },
+    {
+      "word": "매출",
+      "count": 8
+    },
+    {
+      "word": "최대",
+      "count": 6
+    },
+    {
+      "word": "관리",
+      "count": 5
+    },
+    {
+      "word": "성장",
+      "count": 5
+    },
+    {
+      "word": "정책",
+      "count": 4
+    },
+    {
+      "word": "시대",
+      "count": 4
+    },
+    {
+      "word": "부실",
+      "count": 4
+    },
+    {
+      "word": "한미반도체",
+      "count": 4
+    },
+    {
+      "word": "미국",
+      "count": 3
+    },
+    {
+      "word": "VS",
+      "count": 3
+    },
+    {
+      "word": "상장",
+      "count": 3
+    },
+    {
+      "word": "글로벌",
+      "count": 3
+    },
+    {
+      "word": "개정",
+      "count": 3
+    },
+    {
+      "word": "주식",
+      "count": 3
+    },
+    {
+      "word": "가장매매",
+      "count": 3
+    },
+    {
+      "word": "탈세",
+      "count": 3
+    },
+    {
+      "word": "부동산pf",
+      "count": 3
+    },
+    {
+      "word": "거래",
+      "count": 3
+    },
+    {
+      "word": "쇼크",
+      "count": 3
+    },
+    {
+      "word": "증가",
+      "count": 3
+    },
+    {
+      "word": "CEO",
+      "count": 3
+    },
+    {
+      "word": "상속세",
+      "count": 3
+    },
+    {
+      "word": "주요",
+      "count": 3
+    },
+    {
+      "word": "경영",
+      "count": 3
+    },
+    {
+      "word": "역대",
+      "count": 3
+    },
+    {
+      "word": "강원",
+      "count": 3
+    },
+    {
+      "word": "호조",
+      "count": 3
+    },
+    {
+      "word": "전략",
+      "count": 3
+    },
+    {
+      "word": "경영실적",
+      "count": 3
+    },
+    {
+      "word": "역대급",
+      "count": 3
+    },
+    {
+      "word": "손에",
+      "count": 2
+    },
+    {
+      "word": "디딤돌",
+      "count": 2
+    },
+    {
+      "word": "버팀목",
+      "count": 2
+    },
+    {
+      "word": "대출금리",
+      "count": 2
+    },
+    {
+      "word": "미분양",
+      "count": 2
+    },
+    {
+      "word": "인하",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "02.03",
+      "event": "트럼프 관세 우려에 코스피 2% 급락…원달러 환율 1470원대 재진입"
+    },
+    {
+      "date": "02.05",
+      "event": "강원 의료기기업체 '아랍 헬스'서 역대 최대 규모 실적"
+    },
+    {
+      "date": "02.10",
+      "event": "분석/ 2024년 해사기업 경영실적 –외항해운 5개사"
+    },
+    {
+      "date": "02.17",
+      "event": "지방주택 친척에 가장매매 1주택자인 척…국세청, 부동산 탈세 156명 조사"
+    },
+    {
+      "date": "02.21",
+      "event": "국민연금 '국내부동산 위탁운용사' 1차 통과한 현대인베운용 어딜까"
+    }
+  ]
+}

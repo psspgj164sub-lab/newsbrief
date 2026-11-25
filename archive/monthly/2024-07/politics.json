@@ -1,0 +1,265 @@
+{
+  "month": "2024-07",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:16.484Z",
+  "articleCount": 54,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-07#t0",
+      "title": "‘윤석열 탄핵’ 청원 100만 넘어…접속 대기 2시간 20분",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘윤석열 탄핵’ 청원 100만 넘어…접속 대기 2시간 20분",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SUWYxRVJ6TVpiZXRpV09sM0J4TGg0aFJ6SzdXNmFxRGJpNnF4Q0o4eDFmLS1Nd1l3bTduYXBxS3JYZVVlV2tFbVMxWVl4TWNleG01RTZ0d0pPOEJTWlpFU1FJb3JRM3JmUHZwUzJNd25UX3BD?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-07-04T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘윤석열 탄핵’ 국민청원 100만 넘었다",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oWUNvUzlhTmlfMlBVdHV3azgtN0xUZ1NpSF9aSC15MlAtT0cwSHpnWjlVVE1ZLVZSbVhRQTJTaHFFTlRpMnJjX01Ib08wRGt3MzAycVkxMTBhbkFFemw4MXNZUWRXT2xsZ1lBQmQxRXJDN0lz?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-07-03T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t1",
+      "title": "윤, 이진숙 이번 주 임명 강행할 듯…야당 탄핵 카드 맞불 예고",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "윤, 이진숙 이번 주 임명 강행할 듯…야당 탄핵 카드 맞불 예고",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11NVE3Vmp2ZW1ISHlRcEV5ajMyT0Y4SVAwU0F5aTdtZWJHTzNsWHFfM19PS2hlQ3o2YUQyRVJERkIyVF9hcUtBM1k0ZGZEQldicnZMZ2poOHpteWtxdHp6RHhIWGN6S2ZfV2lYSVpEMnptRHpX?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-07-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t2",
+      "title": "에너지안보 강화와 탄소중립을 위한 한국의 대응방안",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "에너지안보 강화와 탄소중립을 위한 한국의 대응방안",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0telUwUEdGNnNmdHpIMVJZV0syZnFQdS1ESjNyZHZJVC1scS15SWltRkRrZ3hBcHZ2bFdRU3B0LTU1Nl9aMFdIWnJVSGw3emNtUHJ3ak9NbkIxRXFFOTFRMkFCUzJOekdaX21F?oc=5",
+          "source": "KDI 경제교육·정보센터",
+          "publishedAt": "2024-07-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t3",
+      "title": "22대 국회에서도 동물대체시험법 촉진법안 나왔다",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "22대 국회에서도 동물대체시험법 촉진법안 나왔다",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Pdld0WnJBYmZwdmpFRE1MS2hUektNekIyMGZPdXIzS0QxZi1oWnVoLXN5QUIxd1o3UmZCdktRNXpxdE1pMXlKaW9Db3pUSlpRakJBRHlXcjQ?oc=5",
+          "source": "데일리벳",
+          "publishedAt": "2024-07-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t4",
+      "title": "APT45: 북한의 디지털 군사 조직",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "APT45: 북한의 디지털 군사 조직",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVU40bF9GUllrLWpWYU1LV0YwQm1iblk2eXFnMm1fd3R6VTZ0UWI5em1QenVqZXZyR3c0cjduYVlRVnVJaGZId1hDaUhhRWYtRDdDNEFjeUcxbG9IN21pdEFPeFgtNVg5VXprMGlWMHNkc2NvelZfWHpJbDd1MGRDLUZnN1h1OTdpM3g5aE0tRi1SQ3VWRl91WWVuLWJwOUhoMlpadg?oc=5",
+          "source": "Google Cloud",
+          "publishedAt": "2024-07-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t5",
+      "title": "‘체리 따봉’ 문자 속 대통령실 행정관…음주운전에도 뒤늦은 징계 요구",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘체리 따봉’ 문자 속 대통령실 행정관…음주운전에도 뒤늦은 징계 요구",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzNl9VU0hwUHBMY2M3MU1FX3U2LWFIZDFtY3o5YWN2NUNaSnFpUl83OFBRVjlDRjVrczdTQ3NjSFJpa1RxWk9TOFF3ektCYmp6cmxwVDE1QzlzNWFXNFFURW9VQzFtdEJ2QUtwWDVYTnZ4T0Zv?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-07-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t6",
+      "title": "유승민 IOC 위원 “파리올림픽, 한국 스포츠 외교 지평 넓힐 기회”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "유승민 IOC 위원 “파리올림픽, 한국 스포츠 외교 지평 넓힐 기회”",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rZnk5NXBRbmRSRmV1Tk5taXNJcEtCSlAyN0lpdzR4NmRReEpGRzZwS0RORHpPeXkzd202OExNN241ZGVkYnJZWUtveThlSElXQzdRekZhNmFURmR5dHZvcDZFRGx2WnNoQjB0VA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-07-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t7",
+      "title": "'민주당 해산 국회청원' 5만명 넘어 심사요건 충족",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'민주당 해산 국회청원' 5만명 넘어 심사요건 충족",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MTUVUMjJ0QzVmTElTRVJscnphNms3N1pLOER6QVAyZldmOVctZ3dCaWtYU0NmOHNLbVc4VmtGRURudU5rcklNUk41N1hGMUUzOXo3T3RJZFNNZmfSAWBBVV95cUxPMUNyRUw2Y3ZrMkZmNzhpZlRPRnZjRmNFeTFidkZMMGp0RHptcTJNNlR4Q3kyY0dDZ21DZjBCYWJmeUNEbjdlVVN1SEtqNjcyZnhZc09FQ2owNFlnLWVWOHQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-07-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "청원",
+      "count": 8
+    },
+    {
+      "word": "검사",
+      "count": 5
+    },
+    {
+      "word": "청문회",
+      "count": 4
+    },
+    {
+      "word": "민주당",
+      "count": 4
+    },
+    {
+      "word": "넘어",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "윤석열",
+      "count": 4
+    },
+    {
+      "word": "민주",
+      "count": 4
+    },
+    {
+      "word": "보복",
+      "count": 3
+    },
+    {
+      "word": "탄핵청원",
+      "count": 3
+    },
+    {
+      "word": "북한이탈주민",
+      "count": 3
+    },
+    {
+      "word": "중단",
+      "count": 2
+    },
+    {
+      "word": "위법",
+      "count": 2
+    },
+    {
+      "word": "VS",
+      "count": 2
+    },
+    {
+      "word": "방탄",
+      "count": 2
+    },
+    {
+      "word": "돌파",
+      "count": 2
+    },
+    {
+      "word": "이재명",
+      "count": 2
+    },
+    {
+      "word": "접속",
+      "count": 2
+    },
+    {
+      "word": "사퇴",
+      "count": 2
+    },
+    {
+      "word": "북한주민",
+      "count": 2
+    },
+    {
+      "word": "통일",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "인권",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "07.03",
+      "event": "‘윤석열 탄핵’ 청원 100만 넘어…접속 대기 2시간 20분"
+    },
+    {
+      "date": "07.23",
+      "event": "‘체리 따봉’ 문자 속 대통령실 행정관…음주운전에도 뒤늦은 징계 요구"
+    },
+    {
+      "date": "07.26",
+      "event": "22대 국회에서도 동물대체시험법 촉진법안 나왔다"
+    },
+    {
+      "date": "07.30",
+      "event": "윤, 이진숙 이번 주 임명 강행할 듯…야당 탄핵 카드 맞불 예고"
+    }
+  ]
+}

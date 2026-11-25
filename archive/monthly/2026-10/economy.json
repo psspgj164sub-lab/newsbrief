@@ -1,0 +1,400 @@
+{
+  "month": "2026-10",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:34.189Z",
+  "articleCount": 197,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-10#t0",
+      "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 6,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "’1,310원대 근접’ 원·달러 환율…명목실효환율 2년 만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93M1h6SUhDYnRsN0dpNFRkQU5hOEI1Zzc2MXVwbnlWQkdpS0dPTTJiQTlBU3pJQXRXWGlqQjFVMk1tM2RJR0NWc2U1S1VtZVJhalBKMUlZSEJoR2pkOUg4eDdkS2JMdHM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xY1U2U25NVVZoazZxRkpKTnRiTVBtQW8xZHNUVlpoZDR0Tmt3X2w4QUFYX1FxTUJBTV82YXJNR1YxTkczSEQ4Y292SlVmdkllWGZ4ak1xczl6eUk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "원달러 환율 2년 만에 최저‥1,333.2원까지 하락",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tWHQtb2VHMTBjRkQ1YjN4MExYcy00TVdNVmk3ZmlVR2JiNTN5bnUzRElPbENxamo3ZE1jWGkxTEdPWTdtZGVQN2lPY0g0S041U3d2V3hnN2xzNldqMkhTcTdvaHotd1FZOFBIYWlaVktpZkdzWV91N9IBeEFVX3lxTE1hWWFkZkg3Vl9nVlZhTVlBT3M3VUZ5UjhFdTNXdThqTDFnNXBYUWxDWE96Z3AwaEVkWG83eG4zNkRhUzRTTXlKc0hFVHFrbHFiYWRQcFg0cWVDUGhhMHBwSVI5NDRNUkxKM2FiZEstc2lVdk5WQjhSQg?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t1",
+      "title": "코스피, 두 달 만에 6400선 아래로…코스닥도 4% 넘게 '급락'",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "삼전 최대 실적에도…코스피 6,000선 아래로",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTM3VYTkxubEc5U2NONlZxcnRId0lDbzlJaDljVDNaTVQ2c0F1UlNWckVtN1F5TFFXQVBsU0xCWFY0MGRJTm5iQnVYLUlqOVF3dndiX1FtWTNuQTJJd1NSMG52Q2VGcnc?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 6%대 급락에 6,000선 아래로",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mS3FnSVpVLS10N3ZKb2NLZFBzcWNYaTB0cTNybUxiVW5KeHRickpYbF9vZzd2WEpBRmRDYzhBcnVuN0tqQ1FNTUJ4a2FPNzVWVUVjekdNaHM2Z1d1U3FLUmRRUUdlNmVPQy1hMFhpT2FYRlRD0gF0QVVfeXFMT0p3NU5DZzFVS042TEZRcFp0SGNYdlVXMW9MdUNSdFVnZkFjaThHbkFSblpVWlVpYW5kay05bVlNcEgwWHhVWFlDZkVOaEVrZGd4VTR5R2VvTGdkYzg5ODcxV0JBYUpVdVg0VXl1dnc1SGZRUk0?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-13T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 두 달 만에 6400선 아래로…코스닥도 4% 넘게 '급락'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wZmVKUEF2eHF2aGw2RzNVREc0ZU5OS1NYNnJLVUl5aXJ0Y1JUMEhtaGZyM0JpTDhJTmNMeFUwWm5BekZ2X3o5LXU4YzM3a0dwdmtKSE1HWHhGdw?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-10-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t2",
+      "title": "美 FOMC·반도체 실적 ‘슈퍼위크’…코스피, 반등 실마리 찾을까 [주간 증시 전망]",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "美 FOMC·반도체 실적 ‘슈퍼위크’…코스피, 반등 실마리 찾을까 [주간 증시 전망]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11U2JNNUlwVFBCdHpEZERYOWhYMlNyLXNVeTUxWXEzNGNiNnpMWlBXZ01TYlFvTmhvTkFxZTkwRmlLd0VVZWpMS2ZReVRBa01mMVHSAVNBVV95cUxOR3liZ0N0aFhIYVRMRmxreEp5ZXpPTWhNMWZfenhJRWQyUVVTeWlWMkRzWFA5VlV5MmJHalJtY0prZmp6bFpzYmZPX0k2bTI0VVVUQQ?oc=5",
+          "source": "서울경제",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "반도체 실적에 美 FOMC까지···코스피 반등 불씨 살릴까",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CcUFBYUR4UE1UWklQZ1JxX3pySW9oV29LU21RRWdqVkUzdFlheWJFYV9IdmR2OHVkUzZRYUhHczhHRjNkN0VtSkU0RWEtRTJoblhmWXd0ODVacXJnc0FJcmJpaUFxcEtGMmc?oc=5",
+          "source": "뉴스웨이",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t3",
+      "title": "원·달러 환율, 1.3원 내린 1329원",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "원·달러 환율, 1.3원 내린 1329원",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONW5OWjhmVnhubTJyZ2VYY0Z2MjNyM2dZSlFCSmRqZUV0dTVXSHp1cnFCTXNaUktPck9aNW45ZFlRaklzNndqR3hJb2lpdU5PTlZpZ3ZLbEFJYndwZXlaQU93bmxCLWdFNGdUaVZneTRyWWd3eVp0S2tINlM4UnpkWHZpV3ljQdIBmgFBVV95cUxOLUdzM0cwYmpYbExqN29xY093UF83NEt2V3k4T0E3dk9xSnB3WHMwREpId0dIQzJKd1dycVNKX2I5NTBDS1lwS0h2V0ZnRFFEdmFCSDVjWGVqV0pKT090OTZaQ3U4d19JMGdydFBISEcxTUswUTlLRmNZSm5DSHpKajRiUVlnWWV5NVZEWVRlRkVlUlgtUmtwbU5B?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "원/달러 환율 1.1원 내린 1,330.3원(15:30 기준가)",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55bk9IMmEySzJHS1dsRG02Nk1ya1hHcEEwcXFRcWRiR2wzUHQ0STRkemVZV0dZazVjTTlmSFMzVXhKUVVRc0ZiZDlUTGt5RnkyaVh0amhIQzB5elFCUDJkadIBYEFVX3lxTE55bk9IMmEySzJHS1dsRG02Nk1ya1hHcEEwcXFRcWRiR2wzUHQ0STRkemVZV0dZazVjTTlmSFMzVXhKUVVRc0ZiZDlUTGt5RnkyaVh0amhIQzB5elFCUDJkaQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-19T06:30:49.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t4",
+      "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYS3hROUpwLWZuY1dCeUN1aUlHQVhQUktXWWVoeEMxTjEyazRhSXhMSmRsZGMxYTVEMGVzdFlfWk9yRVNiNk1sREhBalB4Q2tUbkpSZXhkdXpjMTg?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피·코스닥 연달아 '서킷브레이커 발동'‥20분 거래 중단",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUEloOFQ0X2VJdDFLUUsxOTRfRFZ0emFON3dIX1I4bmlacC1WRTdfMEdaaUE5V25zVFpvWThWUkZPd3dOdHhoVlRSMmo3QmoxWDI3VUdBTzNrT0xfU1hsWDliTUdvRS1lcDBhMXQ0Tnhac2gw0gF0QVVfeXFMTWozdzg2Q1ZLSERLbTJrMHV6em02Qi01ZnRKemVqb21zZVFMQ1VkUXhldVlIbGJjUC10dktlRERBZjF6WUc1eENvcS1QSDhLZ2RoQW5sV2t4SDd6ZVZya09WeEE1Wms3R3YtR016WHl1Z1EzOTY?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t5",
+      "title": "이 대통령 “부동산 투기공화국 탈출 약속 반드시 지킬 것…집값 반드시 안정”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이 대통령 “부동산 투기공화국 탈출 약속 반드시 지킬 것…집값 반드시 안정”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4cGI4TGVHVFY3cjhYSERpeTJJcHhZeEVDRlZtVkRWRkFRX3hSSThoZmtEekc3NDBSTHhObU8yekZRMVczSEFPQkVoYWszaVI2eHh3eExqbV9KdDQ?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-05T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "李대통령 \"부동산투기공화국 탈출은 국가과제…약속 반드시 지킬 것\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HMGhiejhCUVZJQlBabkRMdlFqWEpKRW5CeDdvU00yQXBPWThsY3FvTFNrWGx4N2NQVjZfQVlFR0xqWV9aLXE1UnVQampxcHFldUdjZ1ZCcXlGdzA?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2026-10-05T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t6",
+      "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aklpckczTUtvVmxCUko3SVVGTXNrUzhJTjhncUp2bnRyNW5uRDk3QVJnMEZfOURqUlhHb1Z5RFJveEowQWlxWW9sZmRKaWV2QWRHZFlYczRVSVBhMFZnU2RScFMydW9xa0RCUnFmQ29nUVlz0gF0QVVfeXFMTVFCM2FNQ0h5Nkp5YmJ4YUlLX0hfTXg1SW1wNExaTEdrTDRINzB5OEZ5ZlRteldFUEJSY0lHN0xTTHFwdUZxeFFYUi01V3BSWGZoYVh4dGduaV9pZ3BFY0xMNUluUEZzY3l1eFRNX1AxVTVMT20?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 4%대 급등에 매수 사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wemIzZXBhd3REU3dpRjc5bndPbjVRdlU4cHptRkdIWFdOUmZNNG8zX09fV1pxWDlfSFNRSHE0b19oMzl1LUFhQ0RsdExXenY4d0NpdmJWVG1YN2xMTkRMbkdDVkJfSS1IXzFldFdrbEdDeXcw0gF0QVVfeXFMTzhDSlhkeEJKQTF2a0MyWkg1cUtVelA1NHBrSHk1S0VCVVFqTVc1SjZSS255MXZEYTFRanQwRl90VjdYLTNEOXZHVWw2dk1hSnEwTUpiOXpkVGkxWVZNZ3JiSHhybmpDbl8wbUpacjBSQlhwNDA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t7",
+      "title": "앤트로픽발 훈풍에 코스피 반등…5,600선 회복",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "앤트로픽발 훈풍에 코스피 반등…5,600선 회복",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbHhtZzB2bHJCelZ2LUI0TEh6OUw0RnJkaUZSLXBTeHZld3BqT2ItVUYwUmg2S2wtWmFsRVZLbWo1UVNVMzJSVWhlaG5EUGdHbDJia0k4T29wSXgyc1V1M3JPUU9faVk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 앤트로픽발 훈풍에 강세…경제성장률 호조도",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWWWh6NlNuUzRtZ2VtS3QyQnVJczNnc0Z4RC00dzZ0ZGtEcVFkMGFhaXE4V3dPSWV5d0I0OTYxT0YwMEcyOVRiT0laTk1OOWFvN0tpY2FWTUh2QmxnZW5Xdkt1RFdFb0E?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "급락",
+      "count": 22
+    },
+    {
+      "word": "하락",
+      "count": 17
+    },
+    {
+      "word": "AI",
+      "count": 17
+    },
+    {
+      "word": "상승",
+      "count": 14
+    },
+    {
+      "word": "코스닥",
+      "count": 14
+    },
+    {
+      "word": "달러",
+      "count": 13
+    },
+    {
+      "word": "원화",
+      "count": 12
+    },
+    {
+      "word": "반등",
+      "count": 12
+    },
+    {
+      "word": "마감",
+      "count": 10
+    },
+    {
+      "word": "인상",
+      "count": 7
+    },
+    {
+      "word": "미국",
+      "count": 7
+    },
+    {
+      "word": "최대",
+      "count": 7
+    },
+    {
+      "word": "뉴욕증시",
+      "count": 7
+    },
+    {
+      "word": "FOMC",
+      "count": 6
+    },
+    {
+      "word": "삼성전자",
+      "count": 6
+    },
+    {
+      "word": "출발",
+      "count": 6
+    },
+    {
+      "word": "한은",
+      "count": 5
+    },
+    {
+      "word": "동결",
+      "count": 5
+    },
+    {
+      "word": "기준금리",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "강세",
+      "count": 5
+    },
+    {
+      "word": "최고",
+      "count": 5
+    },
+    {
+      "word": "발동",
+      "count": 5
+    },
+    {
+      "word": "앤트로픽",
+      "count": 5
+    },
+    {
+      "word": "장중",
+      "count": 5
+    },
+    {
+      "word": "훈풍",
+      "count": 5
+    },
+    {
+      "word": "최저",
+      "count": 4
+    },
+    {
+      "word": "내린",
+      "count": 4
+    },
+    {
+      "word": "연속",
+      "count": 4
+    },
+    {
+      "word": "역대급",
+      "count": 4
+    },
+    {
+      "word": "삼전",
+      "count": 4
+    },
+    {
+      "word": "딛고",
+      "count": 4
+    },
+    {
+      "word": "회복",
+      "count": 4
+    },
+    {
+      "word": "매도",
+      "count": 4
+    },
+    {
+      "word": "사이드카",
+      "count": 4
+    },
+    {
+      "word": "급등",
+      "count": 4
+    },
+    {
+      "word": "폭락",
+      "count": 4
+    },
+    {
+      "word": "수익성",
+      "count": 4
+    },
+    {
+      "word": "공급",
+      "count": 3
+    },
+    {
+      "word": "하락세",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "10.05",
+      "event": "이 대통령 “부동산 투기공화국 탈출 약속 반드시 지킬 것…집값 반드시 안정”"
+    },
+    {
+      "date": "10.12",
+      "event": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고"
+    },
+    {
+      "date": "10.15",
+      "event": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락"
+    },
+    {
+      "date": "10.19",
+      "event": "원·달러 환율, 1.3원 내린 1329원"
+    },
+    {
+      "date": "10.26",
+      "event": "美 FOMC·반도체 실적 ‘슈퍼위크’…코스피, 반등 실마리 찾을까 [주간 증시 전망]"
+    }
+  ]
+}

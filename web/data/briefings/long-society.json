@@ -1,0 +1,798 @@
+{
+  "period": "long",
+  "periodLabel": "장기 · 최근 3년",
+  "category": "society",
+  "categoryLabel": "사회",
+  "range": {
+    "from": "2023-12",
+    "to": "2026-11"
+  },
+  "coverage": {
+    "monthsAvailable": 36,
+    "monthsTotal": 36
+  },
+  "updatedAt": "2026-11-25T05:39:40.285Z",
+  "trends": {
+    "months": [
+      "2023-12",
+      "2024-01",
+      "2024-02",
+      "2024-03",
+      "2024-04",
+      "2024-05",
+      "2024-06",
+      "2024-07",
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2024-12",
+      "2025-01",
+      "2025-02",
+      "2025-03",
+      "2025-04",
+      "2025-05",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ],
+    "unit": "기사 100건당 언급",
+    "series": [
+      {
+        "word": "AI",
+        "values": [
+          0,
+          0,
+          2.7,
+          0,
+          0,
+          0,
+          3.1,
+          2,
+          0,
+          2.7,
+          6.3,
+          10.2,
+          2.4,
+          4.5,
+          5.4,
+          2.3,
+          3.6,
+          2.3,
+          2.6,
+          3.8,
+          5.6,
+          5,
+          2,
+          5.3,
+          0,
+          0,
+          5.5,
+          4.5,
+          7.2,
+          4,
+          2.9,
+          1.6,
+          7.3,
+          0,
+          4.2,
+          3.9
+        ]
+      },
+      {
+        "word": "사망",
+        "values": [
+          1.9,
+          3.8,
+          3.1,
+          0,
+          2.9,
+          6.9,
+          1.6,
+          2,
+          0,
+          0,
+          1.1,
+          0,
+          8,
+          2.2,
+          3.4,
+          3.9,
+          3.6,
+          2.3,
+          1.5,
+          3.8,
+          3.7,
+          5,
+          0,
+          0,
+          1.4,
+          2.2,
+          3.1,
+          7,
+          0,
+          0,
+          4.3,
+          2.7,
+          2.7,
+          2.4,
+          7.7,
+          2.5
+        ]
+      },
+      {
+        "word": "배상",
+        "values": [
+          3.7,
+          2.3,
+          0,
+          0,
+          0,
+          0,
+          3.1,
+          0,
+          0,
+          0,
+          3.4,
+          0,
+          0,
+          0,
+          3.4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          4.3,
+          0,
+          0,
+          5.3,
+          4.2,
+          3.6,
+          2.4,
+          0,
+          4.6,
+          4.8,
+          2.4,
+          2.7,
+          0,
+          10.6,
+          0,
+          0
+        ]
+      },
+      {
+        "word": "정부",
+        "values": [
+          0,
+          0,
+          1.9,
+          0,
+          0,
+          0,
+          2.3,
+          1.6,
+          4.4,
+          0,
+          5.1,
+          3.1,
+          2.4,
+          1.7,
+          0,
+          4.7,
+          0,
+          2.3,
+          1.5,
+          0,
+          1.9,
+          5,
+          4.4,
+          0,
+          0,
+          0,
+          1.7,
+          0,
+          1.5,
+          4,
+          1.4,
+          0,
+          2,
+          2.9,
+          1.8,
+          0
+        ]
+      },
+      {
+        "word": "저출산",
+        "values": [
+          3.7,
+          5.3,
+          2.3,
+          0,
+          1.3,
+          2.3,
+          2.3,
+          4.4,
+          3,
+          0,
+          0,
+          0,
+          0,
+          2.8,
+          2,
+          3.9,
+          0,
+          0,
+          0,
+          7.7,
+          0,
+          0,
+          0,
+          5.3,
+          2.8,
+          0,
+          0,
+          0,
+          1.5,
+          0,
+          0,
+          0,
+          2,
+          0,
+          2.4,
+          0
+        ]
+      },
+      {
+        "word": "아파트",
+        "values": [
+          0,
+          9.8,
+          1.9,
+          5.6,
+          0,
+          0,
+          0,
+          1.6,
+          0,
+          2,
+          0,
+          0,
+          3.2,
+          0,
+          0,
+          0,
+          2.6,
+          0,
+          0,
+          5.8,
+          0,
+          0,
+          0,
+          7.9,
+          2.1,
+          0,
+          1.4,
+          0,
+          0,
+          0,
+          0,
+          2.2,
+          2,
+          1.8,
+          0,
+          0
+        ]
+      },
+      {
+        "word": "원인",
+        "values": [
+          0,
+          0,
+          0,
+          5.6,
+          0,
+          4.6,
+          1.6,
+          1.6,
+          0,
+          0,
+          0,
+          2.4,
+          5.6,
+          1.7,
+          0,
+          0,
+          1.5,
+          2.3,
+          2.6,
+          3.8,
+          0,
+          3.3,
+          1.5,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          1.9,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "word": "인정",
+        "values": [
+          1.9,
+          0,
+          2.3,
+          0,
+          0,
+          0,
+          5.4,
+          0,
+          0,
+          2,
+          1.7,
+          0,
+          0,
+          1.7,
+          0,
+          0,
+          2.1,
+          0,
+          0,
+          0,
+          3.1,
+          0,
+          2,
+          0,
+          4.2,
+          2.2,
+          0,
+          3.5,
+          0,
+          2.4,
+          0,
+          2.7,
+          0,
+          5.3,
+          0,
+          0
+        ]
+      }
+    ],
+    "rising": [
+      {
+        "word": "취소",
+        "change": 569
+      },
+      {
+        "word": "배상",
+        "change": 183
+      },
+      {
+        "word": "판결문",
+        "change": 269
+      },
+      {
+        "word": "AI",
+        "change": 52
+      },
+      {
+        "word": "사망",
+        "change": 55
+      },
+      {
+        "word": "위법",
+        "change": 142
+      }
+    ],
+    "falling": [
+      {
+        "word": "저출산",
+        "change": -64
+      },
+      {
+        "word": "아파트",
+        "change": -55
+      }
+    ]
+  },
+  "stats": {
+    "articles": 5885
+  },
+  "ai": false,
+  "headline": "최근 3년 사회: 「트럼프 '10% 글로벌 관세'도 위법 판결」",
+  "overview": "2023.12부터 2026.11까지 36개월치 사회 기사 5,885건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「트럼프 '10% 글로벌 관세'도 위법 판결」(3개월), 「영등포소방서, 겨울철 난방기구 화재 예방수칙 홍보」(3개월), 「대법원, ‘가습기 살균제’ 국가배상 책임 첫 인정 판결 확정」(3개월)입니다. 기간 후반으로 갈수록 취소, 배상, 판결문, AI 언급은 늘고, 저출산, 아파트 언급은 줄었습니다.",
+  "keyPoints": [],
+  "issues": [
+    {
+      "title": "트럼프 '10% 글로벌 관세'도 위법 판결",
+      "span": "2026.02~2026.06",
+      "monthCount": 3,
+      "articleCount": 15,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "트럼프 ‘10% 글로벌 관세’ 7월까지 유지···미 항소법원, 집행 정지 기간 연장",
+          "source": "2026.06"
+        },
+        {
+          "title": "트럼프 '10% 글로벌 관세'도 위법 판결",
+          "source": "2026.05"
+        },
+        {
+          "title": "美항소법원, ‘10% 글로벌 관세’ 무효 판결 효력 ‘일시 정지’",
+          "source": "2026.05"
+        },
+        {
+          "title": "미 연방대법원, 트럼프 '상호관세' 위법 판결",
+          "source": "2026.02"
+        }
+      ],
+      "articles": [
+        {
+          "title": "트럼프 ‘10% 글로벌 관세’ 7월까지 유지···미 항소법원, 집행 정지 기간 연장",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UanZjbTRhMUZESVdHQUQ5RXdGa3dmOFd5LWhSSFBZZENXRWV1cTNvVHNVSGFiS1VSUDdIbkx3UTNpREhqdWxicEdKYUdXckhOQm5wa0d6YnIxUdIBX0FVX3lxTE82Wlg5OTV2dU5Cb2ROdVdmaDc3cGd0VjBSWGJtN3NpUERqYUZHUE5zOHpGaUdlUFZLM1BqS0IzRnlFQ1hLNlE1Y3VBRzlEcXN6TWp5Sy1RV2NFNXFjWkNv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-06-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 '10% 글로벌 관세'도 위법 판결",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnQnA1c09OOWoxMWI4VTdyVEMyQTFTSTJOWTJoOXNKUlMyZ3NUeU04RU5KZTI5aFRJZnU1RG1EMzVwQ2dXXzBTemtaNGF1aFZCdXpUOTZuSmVSMVRjV0t2OTlZQmlDa3RIWm9HWDZJN3ZZaTVK0gF0QVVfeXFMUC0wNkJpVHJ6VVNEMS1qdm5vc0JkT1dMV1JaSUtVRl9HNnhwSm5GSmR1bTdZVVJCUVNDWGVzaEs5MnE4OTV4LVc4aWNHU1pIeW9vNHlBQXhncmZrYkVrYXVVYS05VUlmNER0YUdRdGswY2lsTkQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-05-08T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "미 항소법원, ‘10% 글로벌관세 무효’ 1심 판결 집행 일시 정지",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WWUgzN2xhZzM2czg5WlZrbUdnUmlfY2RiY3o4RVh6UnRfdU5VblpsckxWQXJQSlk3S1VhUUNRSDR3WkY2MEp0SWVmbFE4Z3dudzhSeExOUGN6QdIBX0FVX3lxTE41YlpWaTlaU0RVM012MDFNUUdPREZacVlFVFB2UWlGQ0l3amRnclRCTnpjZDVqblNLRTAzbm1Zb0dJNkh3ekpHWHEtOGpxV2QwR0NrYjdyMGxrWFQwWVYw?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-05-13T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "미 연방대법원, 트럼프 '상호관세' 위법 판결",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZV2UwNnlfeW5oN0xXMy14bU1VMEVIVXI3aVVLTFBxNEF3S3Q3LTEzZGlQVnI2bDBQNkJiREt1Sko5MmFISGhCUUFGbHJVOVN6ZnVJVXg0VXpIbzh3RWtqd2hwa0pZOHhCV19IZzJB0gFyQVVfeXFMT0RBdHRsb1labUZyTlppSF9fZGFWWjJLRnZQbjZoWW00ME1talJFWXd0NnJJc2M3cHlKcHp3bWRodlk1Q1JJZzJ0RE9td2pTeHV0X3lWZU80bHNtaWVmcDNyck5VaUZUOF9oU3QyeFJPbldn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-21T08:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "영등포소방서, 겨울철 난방기구 화재 예방수칙 홍보",
+      "span": "2024.05~2024.12",
+      "monthCount": 3,
+      "articleCount": 8,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "영등포소방서, 겨울철 난방기구 화재 예방수칙 홍보",
+          "source": "2024.12"
+        },
+        {
+          "title": "부평소방서, 생활 속 리튬이온 배터리 화재 예방수칙 홍보",
+          "source": "2024.07"
+        },
+        {
+          "title": "김해동부소방서, 봄철 공사장 화재예방 안전수칙 홍보",
+          "source": "2024.05"
+        }
+      ],
+      "articles": [
+        {
+          "title": "영등포소방서, 겨울철 난방기구 화재 예방수칙 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02ZDJBLU5MV3BBdXdYU3RkRjlYZ3JYbTJORG5GRDZLQkZXbXk4QzlKSG1wSHM5QlVyamIwYVNmenhqQ1NxTWc?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2024-12-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부평소방서, 생활 속 리튬이온 배터리 화재 예방수칙 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkNGtoQ0UwVHdnSVNRWjl6NlMwQVF3dUZvZVZQY3J5bi1ZNlZxUTlpdDRCY3l5ZVgyQVpMTkQ5cmRQYjVvT1E?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2024-07-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김해동부소방서, 봄철 공사장 화재예방 안전수칙 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qdWctb2h0ME5PU2w1UGMyT2c0UUhPQ25lQTJGZ0JkQWVRQ2VFNXJkeXNHVHU2ZVd2NlFCb3JkVHlZVUd2emc?oc=5",
+          "source": "소방방재신문",
+          "publishedAt": "2024-05-14T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "대법원, ‘가습기 살균제’ 국가배상 책임 첫 인정 판결 확정",
+      "span": "2023.12~2024.06",
+      "monthCount": 3,
+      "articleCount": 8,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "대법원, ‘가습기 살균제’ 국가배상 책임 첫 인정 판결 확정",
+          "source": "2024.06"
+        },
+        {
+          "title": "법원, 가습기살균제 피해 국가배상 책임 첫 인정",
+          "source": "2024.02"
+        },
+        {
+          "title": "법원, 옥시 가습기살균제 '천식 악화' 환자 첫 배상 판결",
+          "source": "2023.12"
+        }
+      ],
+      "articles": [
+        {
+          "title": "가습기살균제 사태 국가 배상책임 인정 판결 최종확정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDSWl2TGVQYmpGODQtTFhJNTZQOTJTa0lsU3dteU1qRjgtNlNJSm83WkpZQkFlRklvWGZzWUY0RjBsaS1NT0hIRzFrdkZSZHV4WnhSS2JEMnNxYzTSAWBBVV95cUxQSjFnaXRGRW9Jd1JaMkg5MERBeHdlUWEwSXVKNW0tWHE2MzVDSlBWMTZkc2VPRXFpb1BsR2E1czNTTkxyaHE3R1M5bktqelBEenVFMTBwWWRTazltcDJFcXU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-06-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원, 가습기살균제 피해 국가배상 책임 첫 인정",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZNzJaSzRKdVNkNUQ1b1pwR19yclVoTFFYQ2R3Q3JNcVo1YjFmX21lcXZRbENkUWRqemJqbThsMTlZMTkzVzd1UmJ2eFNFTF91UTNreXVPdENnZ3hjcFl4czhjT2t3QUpVcHhwQVlB0gFyQVVfeXFMTUdqZTZPVHhyTjFRckRQNWw4V1pISkFvNlpqSUdlUGJOR1ZtdG1UVk1aZG9VRU1Lbm8zMUg3U1RGSjd0VmFyVE81cml2TFdDVS1lU3lJUFV2Yy15SnJQNGVWWWxMSGF3NEw1OFpPbUFZblN3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-02-06T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원, 옥시 가습기살균제 '천식 악화' 환자 첫 배상 판결",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iaHctd3lEWFJpcVZXSGJMclB4NG5ZWEhNSm1IcF9lcFFYS3JYR2V0WXgxS3ZrbUhXTTk0T3EwU252bmtkd2xwSWJoaV82eXkyd0dkSlBSeVVtbzJIZ3hZN0VJSDNLUm5JaEE?oc=5",
+          "source": "SBS 뉴스",
+          "publishedAt": "2023-12-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "뉴진스, 어도어에 완패…법원, 전속계약 ’유효’ 판결",
+      "span": "2025.10~2025.11",
+      "monthCount": 2,
+      "articleCount": 8,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "뉴진스 해린·혜인, 어도어 복귀 \"법원판결 존중…전속계약 준수\" (종합)",
+          "source": "2025.11"
+        },
+        {
+          "title": "뉴진스, 어도어에 완패…법원, 전속계약 ’유효’ 판결",
+          "source": "2025.10"
+        }
+      ],
+      "articles": [
+        {
+          "title": "\"법원 판결 존중, 전속계약 준수 결정\"....뉴진스 해린·혜인, 전격 어도어 복귀 선언",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BYzRlY1VNRjZjT2lPMGpXZXRvZ1BzdTdzVFpTY0pBMHExYXZ2Y2lzeElRdWRtN3FNMG1Ccm95NXVWSGNNS3p1c3h3M3pSdjlXR3pFcQ?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2025-11-12T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "뉴진스, 어도어에 패소…법원 \"계약 유효\" 판결",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tUWV4dlZpOWktSk1lRFpUNnMwRV90a3dpNnhBUjZQY19kd015dU1uZ3pPQTB6cG93c1A3STZKcldqa0lNclY5RkFLQzR3Z1kxR3I5aVRBSU43YzlieTV2c09pNFRjVnI0UFHSAWZBVV95cUxNMEhhZDlmWEVlUXAxVzFDTmlxeUpYZXlOVXlaRnpKZkd3U0d4SWlNVDEwVzR1UnVONjlRYXZjaC1sV2NVVGFGSkR0aEFUclFhM0MzSVZabVpiNlZFalZQaTE3VzNIVVE?oc=5",
+          "source": "SBS 뉴스",
+          "publishedAt": "2025-10-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
+      "span": "2026.03~2026.09",
+      "monthCount": 2,
+      "articleCount": 6,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
+          "source": "2026.09"
+        },
+        {
+          "title": "법원, 尹 내란 1심 판결문 홈페이지 공개",
+          "source": "2026.03"
+        }
+      ],
+      "articles": [
+        {
+          "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RRUwxVmZpaFlDMFN1emszTzlKcUl5b2VqQl85QUdSUGxGVFg3YVJGaVRfS1RhRUlzc3VwNGY0LS1WTFlua1lTV3lrZXlaYlI4eDJuSi1fWmtJRTTSAWBBVV95cUxPZlFkRXQ5Rml2ZjNFRWFuU19Ca1lDUnBZbEFpTTRxQW9hbk1adzUxbFFEQjlWbFFocUphSEhWRzk5dFltcEUtXzlJZlMzbldXTkhmREttSTQ1S0diSDF0V3E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원, 尹 내란 1심 판결문 홈페이지 공개",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2YWx4R25LVFE4UVFBU0I2WTBNdVRZNzFZTHpQcE5BT3RWbERIYk0wRG1VN25kTFQzdEl6T0RlaERITzBJTnlpMjgxakQ2NVMzZjhWNmE2NFp1VEJ0WnZRU2JXUVd2MkE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-19T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "법원 “삼성 ’급식 몰아주기’ 2천억원대 공정위 과징금 취소“",
+      "span": "2024.02~2026.04",
+      "monthCount": 2,
+      "articleCount": 4,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "법원 “삼성 ’급식 몰아주기’ 2천억원대 공정위 과징금 취소“",
+          "source": "2026.04"
+        },
+        {
+          "title": "공정위, 쿠팡에 부과한 30억 원대 과징금 취소",
+          "source": "2024.02"
+        }
+      ],
+      "articles": [
+        {
+          "title": "법원 “삼성 ’급식 몰아주기’ 2천억원대 공정위 과징금 취소“",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XNkF6R2VHMWNmdXBCRVNMNGhvXzRIMG50c01kZHFQcnZKMzlxSllYQ1RXZFpmQ0dEWFFZc2VDbXI3Y3A0bVVlZTJXOGUwYjd3eTBsakdNQVRzRV9qd3l1Zjh3X0Nya2M?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-04-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "공정위, 쿠팡에 부과한 30억 원대 과징금 취소",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yWWh0bzFDbUVhZS0yal93M1FZVHY0QUV0S2picmtyWXRtYVNWUVhWR2o1UWo4LTdIcjlmR183bVA3dElLdVZuYlNhNnhHM2VVRWU4VExiejB1T0N6WkVYTFhEYlpRaWc1eWszdTZvRFJsYU1nNnhCM3R3?oc=5",
+          "source": "로이슈",
+          "publishedAt": "2024-02-02T08:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "상주 고속도로서 '눈길 미끄럼 추정' 32중 추돌 사고(종합)",
+      "span": "2023.12~2025.01",
+      "monthCount": 2,
+      "articleCount": 3,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "상주 고속도로서 '눈길 미끄럼 추정' 32중 추돌 사고(종합)",
+          "source": "2025.01"
+        },
+        {
+          "title": "상주영천고속도로서 추돌사고…3명 사상",
+          "source": "2023.12"
+        }
+      ],
+      "articles": [
+        {
+          "title": "상주 고속도로서 '눈길 미끄럼 추정' 32중 추돌 사고(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yVmVDcmNXeFZiM2dVWTNRSndtZWxUTjVLRnd4TDQxeDNqR09LbU1xSmUyaE94Sm5BdkNNblRDOEk4X3hUeUJfZ25hLWpkU0lIaGNvVUJPSDhEdUpIeVZz?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2025-01-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "상주영천고속도로서 추돌사고…3명 사상",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83U2VVMDEtQUFfWG12OVBIa1JuTWsxT2FwaWpseUxxdUlZQ0ZrbVVMTUQtejJ0d04xcVBNcTV2SVNCOXBQSDMta0UwZnNGR2FWSS1rZFc4ZXp3bjDSAWBBVV95cUxOZzJwdUNzS1Ytc3B2Tld6NW40ZUV5Z3JZR056ZFRrNklULTgyVjB3ZU9ucDhYdThJYjgyNi16eUdxdnJuV2VoYkp2ZngtRnVqSVpScnZvLXJ5RWRDSHVQQVU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-29T08:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "화성 아리셀 공장 화재 참사 유족들이 말하는 '조선족 노동자들'",
+      "span": "2024.06~2024.07",
+      "monthCount": 2,
+      "articleCount": 3,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "화성 아리셀 공장 화재 참사 유족들이 말하는 '조선족 노동자들'",
+          "source": "2024.07"
+        },
+        {
+          "title": "화성 ‘아리셀 공장 화재’…재난지역 제외 가능성",
+          "source": "2024.06"
+        }
+      ],
+      "articles": [
+        {
+          "title": "화성 아리셀 공장 화재 참사 유족들이 말하는 '조선족 노동자들'",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1bWZGZXFab1M2QmVpZmVscFdsUzVTVDJDRkc4MnA4R1pqM284bGsycXN5MGM2WlpEaXcyTks1d2dHdHotUEFGN25RQldHQ1NCcm9DVEp0VTNqVzhk0gFiQVVfeXFMUF9LNzY2UnZtbmFPZXFYYUNxRjRvQ1VCa0pSeEF5clczV3BQSVNFR1MyQjN3ejUzdGFUdjhISHVub2FYYWNPUGFydWdQenA3a2NvUlBMbGxYZFZpU2dsYUtMamc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2024-07-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "화성 ‘아리셀 공장 화재’…재난지역 제외 가능성",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCTUZlY09FUURFMkR5bG16SGlFWm1CeVRzT2ZrT01WbHV1aUlYdC1FMFlOQnVaemFOY1gxM0tCRVV4RF9hSEJHRkowVGhjUjNCNVJLS1FmMXhHdjQ?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2024-06-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024.02",
+      "event": "법원, 가습기살균제 피해 국가배상 책임 첫 인정"
+    },
+    {
+      "date": "2024.04",
+      "event": "고령화 먼저 온 日 “도쿄 집값 840조 날아간다”…한국도 위기?"
+    },
+    {
+      "date": "2024.06",
+      "event": "대법원, ‘가습기 살균제’ 국가배상 책임 첫 인정 판결 확정"
+    },
+    {
+      "date": "2024.09",
+      "event": "국과수 “인천 전기차 화재, 외부 충격으로 차량 배터리셀 손상 가능성”"
+    },
+    {
+      "date": "2024.12",
+      "event": "영등포소방서, 겨울철 난방기구 화재 예방수칙 홍보"
+    },
+    {
+      "date": "2025.05",
+      "event": "\"한국 잠재성장률 2040년대 0% 안팎 추락…원인은 고령화\""
+    },
+    {
+      "date": "2025.08",
+      "event": "법원 \"'청담동 술자리 의혹' 제기 김의겸, 한동훈에 배상하라\""
+    },
+    {
+      "date": "2025.10",
+      "event": "뉴진스, 어도어에 완패…법원, 전속계약 ’유효’ 판결"
+    },
+    {
+      "date": "2026.01",
+      "event": "\"형사 성공보수 유효\"… 하급심, 대법 전합과 다른 판결"
+    },
+    {
+      "date": "2026.05",
+      "event": "트럼프 '10% 글로벌 관세'도 위법 판결"
+    },
+    {
+      "date": "2026.07",
+      "event": "법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\""
+    },
+    {
+      "date": "2026.11",
+      "event": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\""
+    }
+  ],
+  "outlook": ""
+}

@@ -1,0 +1,417 @@
+{
+  "month": "2023-12",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:15.459Z",
+  "articleCount": 287,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2023-12#t0",
+      "title": "국회, 조희대 대법원장 후보자 임명동의안 가결",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "'조희대 코트' 열린다… 국회, 대법원장 임명동의안 '가결'",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3ejBrU3dNRllkdzR6UjNRbXVaVHFBR0JWRTFfY19Hb2NDVzdjSXJwNkJkTEJxYlEzcElNSXJ3cU9yZTNuamdHQjZITWlFV3dnUUJtM3pUbE9WVThrLVhkRXVXX1duUzA3UldZai1n0gFyQVVfeXFMT2RsXzlScVpfVnp4azF1VFRJR2JZd3BOLWpvNElzbEk2NG9LUHFoMXlTSG5CS0pYXzBTN3A5ek14dHZaaHY4TDlMZ2h4T0plXzJleVkycnU1MU9lZnd1V1R4WDZsOVpSS0pkU1czT3k5VVhB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2023-12-08T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "조희대 대법원장 임명동의안 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fYnNaLXRteVgxSzBxOUloWGY0LWIzOFdVVTdiWW4yNkpDc0NrcDRFN2dDbGJ6ZmR0ZDVNRnhXTEdXMmhadUM2U0ZOWTdCaV9WVjBKU01uOUVTQdIBX0FVX3lxTE1FZWxjdklCZjRmakIyb28wX2ZRSnhRUDBDN0tXWVBzSk92dWJSTjhYU0M4RTFiQ3VWOWk4ZHhJOHQ4SGFLS3Z2YWdfZTgxa1R3NjdZbVNBZ1RKSjlFT0Fj?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2023-12-08T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회, 조희대 대법관 임명동의안 가결...사법부 수장 공백 2달여 만에 해소",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TVEF5NGNSN2RIeFJFTHYzeHdubG5ua3JIT1dMTngwcmU2TkRxQmdGUG1iU2NfS05TVjY0WE1VWmZqMFBQXzQ3a0xHSjRWZldUTkpSMjFsMEE4alBoMVE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2023-12-08T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t1",
+      "title": "소고기와 북한 – RFA 자유아시아방송",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 6,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "사라지는 비행장 활주로… 드론 대체 가능성 – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBobU85aUQzSWZBeF9fenRWOWhxQ2c2SzRvM0V3aHNSalV0ZTVyOTZQdjhYc25Vc04yZGNKRVZOcDhVM3JyZWxaV184ODRjLUZvVVlEaFRSTTQ2eGpYMzN6ckd1bjJCNl9VM2lYRmNRQTQtaTJDVTBV?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2023-12-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "소고기와 북한 – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVVIYmhuVnM2RlJkRmRKNFNneWVPM1pNeG5YSkJjcjZuam1jR00yUWJ3REtaYkdKYjBOM01vZzBXWVBNcm93OFNtSTFfRlNyWk8wNGVQUUdmUkFKQjk3elEtZjdlVEcwR0FHNERsOC1pUDl0ajgtLXJ6SW9YUXdyOXhXOXBjYjVzX01xZGZJalVpRF9LcTR2M3BEQlR6SDVRT240LXdQSHVBVmZxTkNBVmhnaFM?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2023-12-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "러시아에 지원된 북한 조립식군수공장이란? – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORmlER1RFNGJmQS1hSnJYVXQwUjlLd1lBeW9PbWRqTmZvMDRDa3VlVlRIZlF4Q2Z1Y1BaN3oyOWhSNFZqU0VFcllVZHdTTHpNT3cySjI3emJPcm1WTjFLQ0ppQmlYbGtWZzVRY19FRnItUHcwYjc1YVVSd3pma0t1V0ZFdTJwUEFrLWg3OHA2dkNucTg?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2023-12-21T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t2",
+      "title": "북한 경제 3년째 역성장…남북한 소득 격차 30배로 확대",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "북한 경제 역성장…남북 1인당 소득 격차 30배 달해",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lMEZJRUFzUVdsQml1SHRWN3VKNjdYMkdwN25WOGlfREV5Nk8xbjg2QzBvclB3VmhDWTRwd1JvcklaM1FQaTNmWTBpZFU4NHJRbDNwaVI2VnhlZVlLOUo5bUdsRFl3RkU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2023-12-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 경제 3년째 역성장…남북한 소득 격차 30배로 확대",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15MTVob19Ma3ROdzZ1SEVOLUtxOVdYRGlBd2hLakNQNFFERGJ4WUNKalJXNncxSzdrMjR0NGIzOGRja3g1ZWJwZnhEODBwaVhlY3ZMYVpnS21ERm_SAWBBVV95cUxQNko0T2toYUJLMUVrVlhibUJUT0JnNm5DR3RyY0NtbjVZTUJaTFAyX082LWRWS0RZNXBiYXQ1X2pYeURvYVgzaHBiU2RLTHR2czkybW9FVXZXQllWZVBEc0M?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 경제 3년째 역성장…남북한 경제 규모 60배 차이",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51X28wUlVtZXcxck55dVY1aTY5ak04bk1lZ01OTVdCRG5pQzd1VHdTUG03R0NvODNkNW9BcXUwbklzRGhkaTlKdFBDVHQxU005YTlCUVdfR1NVZFYxSlBaTzBvM1VvTmxYdjVacU96WU12d0NVc2fSAWZBVV95cUxNVExDOWdzSzRHOENTbWdPU3NjakF6dXRJWm84X1N3NG1DMFc2Q19kM3hubWNFRkN3X2FxQWlBWG9fSENiMDNWUENJaUdLUWdWUzZUSk9hZDBvVVZ2MVZpak4wVWhlSEE?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2023-12-20T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t3",
+      "title": "'국회 난입 폭력사태 방조' 조원진, 1심 벌금 500만 원",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "'국회 난입 폭력사태 방조' 조원진, 1심 벌금 500만 원",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80Wk5tcFZRNnB4eVNkVU1Jdkk5THdzczAwbHRwd0x6M3VqbVlFd1h6V3pYMTI4dXJaYTRLOE5KeFRPaW95LWw2eXRIVTZvZDhvWEhMbC1OdmU2V0xXdXdaOWZ5WnpfOHk1cE5tTlFB0gFyQVVfeXFMTUR6MG9XQ0N0NGZRXy1KVFhSYlpqaWpGRXk2dEpMcGNGNGdTaHZtN2dHd2VaTHlMMnRQWjhkNUwwOXZXMGV3eEtOa01NTjdTVVlEZ0ZVYzNfV3N6TzNWRkRLaEZfVm53U1M4NkI3aFc5NHNB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2023-12-18T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "’국회 난입 폭력사태 방조’ 조원진, 1심 벌금형",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oaEhiY2dXMGhUbnhSMkoxX3A0Q2gxUkVNUmRRQVJ2T2EwSVMzVjB6Sjdwb29LaWdUVl9VTVVkMXVmRnNGOVc5VjE4SlNNcW00MFg0NUNiVjhmR3lWV3FHVVhNMVg3Z28?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2023-12-18T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘국회 본관 난입 방조 혐의’ 우리공화당 조원진 벌금 500만원",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82OEN5U19OY25qUlBTZTVJdHFWNUpXQ3JWQlY2U3p0Ui1FMWhINGM1eTRxQkNmWmQxY0FQYkFVRXltcnluVjlwY1FNY05EM0wwWkx1ekdn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2023-12-18T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t4",
+      "title": "민주노총 11기 부위원장 선거일정 공고",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 4,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "민주노총 11기 부위원장 선거 투표 결과 공고",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaRTRjR0VqSUV5Zll2d3hoUFVIUlh6bURsZmYwWVFqNnlMeGw4WXUyckJDU293bE5sSktxRGlweWttMlpJa0tILQ?oc=5",
+          "source": "민주노총",
+          "publishedAt": "2023-12-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주노총 11기 부위원장 선거 후보자 합동 유세 일정 공고",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lNXRucTdsdTFRQVUyNkQzZVdFSTBsZGVNWDQ2S3BkZ2swNG5LZl94cXFLUlpTWU00NUNhT3F2bWp3bnY2cTVxNQ?oc=5",
+          "source": "민주노총",
+          "publishedAt": "2023-12-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주노총 11기 부위원장 선거 후보자 확정 공고",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kYkZ3X0dJcGIxVTNmZUNlUURwSmpMS0lTTVVLRHRLbFVJb1dvNmdyTm5YZ1ctOC1vU2owS2Nrazh6ZDlDOGR0Mw?oc=5",
+          "source": "민주노총",
+          "publishedAt": "2023-12-15T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t5",
+      "title": "'부정선거' 논란 세르비아서 최대규모 시위 \"결과 무효화해야\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'부정선거' 논란 세르비아서 최대규모 시위 \"결과 무효화해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmMTg0Z3daeV9zakNmWUJEY3VMUXh2d040Q1NfUzZodTZ2cWZ0dG1GRG80LWhWXzlfb2k5UVBxVzIzUDJxdWZoOXV4eTF6S1BJZkVHamN4RU1Yc1HSAWBBVV95cUxPTzhnZExFcHFRdWxNOHJvVlVhOE5QWWZuSEgwWkxuVVNkT3hxSzQtaXQyWXFMM1JvX204ZEJPVUVNZzBCS1NRS0tGYUpoalZFYnpyUTBrTG43bU5VMTlTVFM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-31T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "세르비아서 ‘부정 선거’ 무효화 요구 최대 규모 시위",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpa1FQR1FfTWJFVkZxTHg3NEJKYWhXY3ZWdVgybnk5Sl9EZkI3TEFaTkdoRlFoRkFuNzFZUklRTzF3cExnbUJPWDJhSkVsd2lvTUVHaU1oMUhGc1E?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2023-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t6",
+      "title": "김정은, '남북관계 근본적 전환' 선언…\"적대적인 두 교전국 관계\"(종합2보)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김정은, '남북관계 근본적 전환' 선언…\"적대적인 두 교전국 관계\"(종합2보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OFF1YnFvY1pCV0d5RTZZQ3Zua3hGUVNMZW5QeExXU3ZhRktPYjZxcUtzenV3c3luZ2hpMExtMUc0MnR1dG5vZXpxbW9jVXNHbGZxNFZFWXdsaFHSAWBBVV95cUxPQUxsb2V2NlBiOERKMEVySmxZbnc5aVZIV09ENURPMEpNUGxJYTJOajFhdGEtQzcyRUV2UTdDOTZYa1hfZzdvTmlwSDhCbG5OUHRQRFFEbTZWZGptckVaNFY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-31T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "北 ‘남북관계 근본적 전환’ 선언…“남북은 ‘교전 중인 두 국가 관계’”",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvWHFKQ2dWdXpFWERuNGl1OGZ3eDd5SVc2dEFMQWdfNXZmRTFYSEJESWRYbVBpUjlaUGN0bVl4Rm5HRWFvNHRfaDk4ZDBNWjRJRWFwOXdUaUpvb2hBUkpoeEVRdHd5d3BGVDZUTlQ2SWFrM0NxM1E00gFmQVVfeXFMUDNjbUtEbDZnOE41RmFpeHczX2JwRHA3VjA4QTktUFg1R2lzSng1cDRmWGN0NFNzSm5XbG9ReERfbG8yYlM0d25MQXpUcVBLUDZwTnhfTENEaDY4QTRUWjlQd1Y4b2V3?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2023-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t7",
+      "title": "김정은 “적대적 두 국가” 남북관계 선언···화해·통일 대신 전쟁으로",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김정은 “적대적 두 국가” 남북관계 선언···화해·통일 대신 전쟁으로",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWDlaSDRaYWxKdTBMeVVhT3p4VE9YUEJ1VnhwOUpXM2p1NmN1b0F0UTlkSzdOaUYxSzNiN0RDa0ZDdUpIc3ZkLUJ3eHBqWUtYZnJuQkd3Y0NjUdIBX0FVX3lxTFBzd3JpY0RDMFRRUEc2Zm55SVJFVEN2aXhJVzFGdEQ1bkJIZ0F5cGFvLXRObFpkcVNsc29UM2RUdXBmRkF5U3ZoT0JVWVRoaFBuSy14MEV2VkFucllhbXFv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2023-12-31T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김정은: 남북 '적대적 두 국가 관계,' '통일 가능성 없다'",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yZTJteGhHSFBnMjFwRXJTc3ExcnZoajZ4S0lpYkY5YmZBekNsaWxBc0pzMGsxR19iVlVRVlJiUTh1cmUzNEVMeWFsZmp1SG5PS3BLM1pISjZOY1A30gFiQVVfeXFMUGZWQlFuV0lYMXA3N0lqMVJraS1tbFA5eDNIcVU0aU1LVTgxZFp6ZndtaGRmemQ2NE5MdGpvcGQ4alNUMTRVQkUycFItSVBNTkdoSFVubHdyaktGZmFuODRZRWc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2023-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "김건희",
+      "count": 15
+    },
+    {
+      "word": "통과",
+      "count": 11
+    },
+    {
+      "word": "김정",
+      "count": 11
+    },
+    {
+      "word": "한국",
+      "count": 9
+    },
+    {
+      "word": "국가",
+      "count": 9
+    },
+    {
+      "word": "총선",
+      "count": 8
+    },
+    {
+      "word": "민주당",
+      "count": 7
+    },
+    {
+      "word": "당선",
+      "count": 7
+    },
+    {
+      "word": "조희대",
+      "count": 6
+    },
+    {
+      "word": "본회의",
+      "count": 6
+    },
+    {
+      "word": "이재명",
+      "count": 6
+    },
+    {
+      "word": "정부",
+      "count": 6
+    },
+    {
+      "word": "공고",
+      "count": 6
+    },
+    {
+      "word": "한동훈",
+      "count": 6
+    },
+    {
+      "word": "검사",
+      "count": 6
+    },
+    {
+      "word": "전쟁",
+      "count": 6
+    },
+    {
+      "word": "RFA",
+      "count": 6
+    },
+    {
+      "word": "자유아시아방송",
+      "count": 6
+    },
+    {
+      "word": "대법원장",
+      "count": 5
+    },
+    {
+      "word": "관계",
+      "count": 5
+    },
+    {
+      "word": "결과",
+      "count": 5
+    },
+    {
+      "word": "AI",
+      "count": 5
+    },
+    {
+      "word": "특검법",
+      "count": 5
+    },
+    {
+      "word": "VS",
+      "count": 5
+    },
+    {
+      "word": "선언",
+      "count": 5
+    },
+    {
+      "word": "거부권",
+      "count": 5
+    },
+    {
+      "word": "경제",
+      "count": 5
+    },
+    {
+      "word": "통일",
+      "count": 5
+    },
+    {
+      "word": "임명동의안",
+      "count": 4
+    },
+    {
+      "word": "가결",
+      "count": 4
+    },
+    {
+      "word": "전환",
+      "count": 4
+    },
+    {
+      "word": "국민의힘",
+      "count": 4
+    },
+    {
+      "word": "의원",
+      "count": 4
+    },
+    {
+      "word": "윤석열",
+      "count": 4
+    },
+    {
+      "word": "주요",
+      "count": 4
+    },
+    {
+      "word": "일정",
+      "count": 4
+    },
+    {
+      "word": "후보자",
+      "count": 4
+    },
+    {
+      "word": "탈당",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.08",
+      "event": "국회, 조희대 대법원장 후보자 임명동의안 가결"
+    },
+    {
+      "date": "12.18",
+      "event": "'국회 난입 폭력사태 방조' 조원진, 1심 벌금 500만 원"
+    },
+    {
+      "date": "12.20",
+      "event": "북한 경제 3년째 역성장…남북한 소득 격차 30배로 확대"
+    },
+    {
+      "date": "12.31",
+      "event": "'부정선거' 논란 세르비아서 최대규모 시위 \"결과 무효화해야\""
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "month": "2024-06",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:30.207Z",
+  "articleCount": 198,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-06#t0",
+      "title": "한국 의식주 물가, OECD 평균의 1.6배…사과·티셔츠 OECD 1위",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "‘의식주 물가’ OECD 평균보다 55% 비싸…사과 3배· 티셔츠 2배",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLUTZxc0NBRGdxNFdPemVKMkZuell4bEtGSDh5VUF2SmJFR3FzakFtUXdaRllhMWw2UE54Tl8tN2lXWXJTNWo0Y0V6eGhqVEs4SFhXOTd5RjFKeHEyVGc4dWJsa3IyeTJIdmpoM3g5VnZ2QQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-06-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국 의식주 물가, OECD 평균의 1.6배…사과·티셔츠 OECD 1위",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QSkFlbHYzWVJEcmtuZEdaaEQ2eDBVdURodk9Db3h5VWZhdHFIcXBCSjFOR3pjd0JpY3R0alY4bHlYNS1iZE9SMEd1OXNLM0NoSzN0eDAwYzQ2ZUHSAWBBVV95cUxNLUxaYnJCUktQN1BiN284SWE5bVJldU5ocXB1elcyOW5FcUpRQUZOd24yMW1oOVo2d0QzRkV6akNIU1I1MDZIdVNzOHg5NnhtZzY0Y2dqWnNDd1VURnBuazQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-06-18T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국 사과 값 가장 비싸다...의식주 물가 OECD 평균 1.6배",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlQ2JGSDdLeFR4eUs0N0VQQks5WTV5eG1wMGZfWTc4MWZSd2hSMkxTeVY2TkJGelJmVklYc0NpNDd0V2cyX3pRUEdOQkVtZ3c2OUNGcS1VSEZwSGxZTEE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-06-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t1",
+      "title": "‘2단계 스트레스 DSR’ 9월 시행…스트레스 금리 0.75%",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘2단계 스트레스 DSR’ 9월 시행…스트레스 금리 0.75%",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wT0pXM0Z4NGstN1prWFA4Xy1saWw3YmNBQlQtUThmQ1pkb0tiWDJzRC05WGxOSjBqdUpzOVdUQ1g2dXdPeWswVlRGbGhQTWE5N29BSC1PYVUxemVjUEpwZ1FLSjdVa2hWa1NGSg?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-06-25T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "가계부채 급증에도…'2단계 스트레스 DSR' 시행 9월로 미룬다",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wcHdBMGxkbmE5V0NIQTBLNzNIMzBNa0dFNGFvUUNaREFtTm5FMTJ0SHJuaXFyMXhaemlKNDh4MkliRnRPS0h0eGk2VkdxXzNWR3N5M2hTRTBCMVXSAWBBVV95cUxQZGdIUnk2TGI5Z3lUaWd2TXVCUkhya3hGb21ZbVdvS0libVMxVGh2aVFTU1pWZXYxRGhJcUp6V05sU2hGanJoUWJ0YW84SGthSjJjZjZ6WHNBQnhZT3dnU0Q?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-06-25T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t2",
+      "title": "갈라파고스적 부동산PF, 근본적 구조개선 필요",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "갈라파고스적 부동산PF, 근본적 구조개선 필요",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kUGtVa0Qzc2Q0dko4ZjhCUVFlX0x2NERrYUoyajI0QXRqc0lqWm54SmplVkIzbXVLRmY2eEs4R3V1Y3l1T1Y2OG93MTUyTER1SkJISXJEbG9KenhjanlwdVlDQQ?oc=5",
+          "source": "KDI 한국개발연구원",
+          "publishedAt": "2024-06-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "KDI FOCUS '갈라파고스적 부동산PF, 근본적 구조개선 필요'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWcW5HYVk3cTEtZkJscjRMamdNTHJ0VkRhdl9XdUpUNzRybzUzU05US0haS2xiYUFBbk00VENLRFRvMkVyb2xJSGVaM3ZXbmlHNExqazUwVW5QRE0zaDJaaHFidXQ0U1k3aUJPWA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-06-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t3",
+      "title": "최대 5兆 은행ㆍ보험업권 부동산 PF 신디케이트론 가동",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "최대 5兆 은행ㆍ보험업권 부동산 PF 신디케이트론 가동",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFRJeEREcG9HNUpLUUpuZVRoTmNfN0l5WmJobEZBeDNINmdSMm5nRnBhQ09TN09GbFUxcjk0dEZrbDJsek12YnR4ZFRpdGhLSjZuOHgzcU40RlFtTDN5cE5CekxrdHNzTWlRYlZYWE9sblp4R1JwZmVGNWt6OUt5Q1J3OA?oc=5",
+          "source": "인베스트조선",
+          "publishedAt": "2024-06-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "은행·보험권, 부동산PF 5조원 신디케이트론 공식 출범",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zVElzbWJKWFg4aERKa2YxcUNKLU1kXzM5Q19EZE1fcTRvaG9rUF9WQmZ3WEhGY2JaRWdIbmZMaXl0M0ZZZTctVGhDWU02NE00bjBlaVlJMkN4a3JP?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2024-06-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t4",
+      "title": "2024년 상반기 KB 상업용 부동산시장 리뷰",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2024년 상반기 KB 상업용 부동산시장 리뷰",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUNXODl4eGZDYnRIWHE5UXpmSDBnZllPcUlUOVFtck9zUW5nOUxPTGYweEZMbkZMVnRZZzN1TWxCQkpacXd4bjN1cm9rbmgwUkZ0WFJNQkMxdnNCbHRFcWxSbl9XZXQ3ckxxWkozNHkzVUNMYnJnVkxkbE8xQ0tjYnFTdWNzZUZNNldtTFdtT2lVcEVaYTJvQ2o3QjJhVHRuVW1sc2tJYnZIZllfTVVQdU4xN0tPOXNBVGpydzNBRFQ5enFScGE1cDdwMmVYWjFzOVZJTU81bk5hNy00SEpobw?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2024-06-04T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2024년 상반기 KB 상업용 부동산시장 리뷰 - 상가",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUFhHNUxlN2tuZUtBMmFmNERCbkkwMW95eFVCLW1oaWxTaWd1MFRmUDBHU2hIVUNzMENINGpRMjdhVDZPUDlIbnBsOUs3N2FudWZickgtMjZZZjI3THNkYjExdzBoWTM3OFFTRU9hRElMay16QzB6eU05RnJrYmsyN212MWhJSWN3QVpmZXBielU3Ym4yRUttNUU5bUlKYXIxOUh6U0hFaUdqWVpCT29BcENFTDBmU0d0Mzd5NUdGcW90VTRXR1l4WEtUVkVFWmdHQ0J2ZlBuWGhILVJNQ1d0Vw?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2024-06-04T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2024년 상반기 KB 상업용 부동산시장 리뷰 - 물류센터",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQem1CU1c4cHNhS2Q3cURlaWtCRDhpNjQ0c25LcGtKTUlua0NfQTJyTnpOSVBwUmxUZENBNUlieUh0ZXE3NUtRa25tVUJMQzRacUMtZkpqV2ZnRTdvQkJwQV9KSkZhYzgwRjdDWlZnM1dpNEFwZ0l2M0pmcFpMaTdxRmJvdVFJancwZm1YMHBqM0hUblc5SXVMQXh6MDdBODdMQ1VWNVhPeFJpVGF3d3htdUoyTG1VaTF1M0lTcnJyMnAxNko0cThGNmFMRW5vTGZ4UTZDekQza0VsV1ppdFdvVA?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2024-06-04T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t5",
+      "title": "\"개국 대출한도·금리로 은행 선택...동업은 경비처리 주의\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "\"개국 대출한도·금리로 은행 선택...동업은 경비처리 주의\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YdnVNRU16ektDXzQ1bWUzSUZVeFZwTjVlYThubGxNdld5ZGlhYUJfQmhhNnF0dnhMai0wS2F1QXVzY3p6OVZUaUR2VHV0YV8tbzlzZlljTWdTTWs0NU1fYk5ERGl5VWZFNUVBakpB?oc=5",
+          "source": "데일리팜",
+          "publishedAt": "2024-06-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t6",
+      "title": "공급망안정화기금 출범…정부 집중관리 '경제안보품목' 확대",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "공급망안정화기금 출범…정부 집중관리 '경제안보품목' 확대",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hek5yblJQUlVfNE9FV1pWWV92ZC01Z2VBRGtmQzhkNllhQ0lVT3VNSktZdU1UUGdsLVRaVTdla29ZTG5GY2VTWTNPR1gteWtxbzQ5NlVSNXF6MWd4VUQzcW5kUVN4WmpFMEh3M0dETW55UTA?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2024-06-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t7",
+      "title": "\"투명성 부족 수수께끼 같아\"…韓증시에 쏟아진 해외투자자들 쓴소리",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "\"투명성 부족 수수께끼 같아\"…韓증시에 쏟아진 해외투자자들 쓴소리",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LdDFKOHBCYzdabDN3cXZwd1VPdGgwajZYeFBiYklSZHBONW9ybFUwT0phdWpBdDBEdm55WjVkeTRwbEpiMlN3Z3puNXZPWm5k?oc=5",
+          "source": "매일경제 마켓",
+          "publishedAt": "2024-06-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "한국",
+      "count": 10
+    },
+    {
+      "word": "부동산pf",
+      "count": 10
+    },
+    {
+      "word": "시장",
+      "count": 7
+    },
+    {
+      "word": "KB",
+      "count": 6
+    },
+    {
+      "word": "은행",
+      "count": 5
+    },
+    {
+      "word": "의식주",
+      "count": 5
+    },
+    {
+      "word": "OECD",
+      "count": 5
+    },
+    {
+      "word": "한은",
+      "count": 5
+    },
+    {
+      "word": "부동산시장",
+      "count": 5
+    },
+    {
+      "word": "리츠",
+      "count": 5
+    },
+    {
+      "word": "종부세",
+      "count": 5
+    },
+    {
+      "word": "상반기",
+      "count": 4
+    },
+    {
+      "word": "출범",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "규모",
+      "count": 4
+    },
+    {
+      "word": "수준",
+      "count": 4
+    },
+    {
+      "word": "신규",
+      "count": 4
+    },
+    {
+      "word": "머니투데",
+      "count": 4
+    },
+    {
+      "word": "필요",
+      "count": 4
+    },
+    {
+      "word": "KDI",
+      "count": 4
+    },
+    {
+      "word": "상업용",
+      "count": 4
+    },
+    {
+      "word": "국내",
+      "count": 4
+    },
+    {
+      "word": "상승률",
+      "count": 3
+    },
+    {
+      "word": "가격",
+      "count": 3
+    },
+    {
+      "word": "경제안보품목",
+      "count": 3
+    },
+    {
+      "word": "주담대",
+      "count": 3
+    },
+    {
+      "word": "달러",
+      "count": 3
+    },
+    {
+      "word": "돌파",
+      "count": 3
+    },
+    {
+      "word": "농산물",
+      "count": 3
+    },
+    {
+      "word": "일본",
+      "count": 3
+    },
+    {
+      "word": "개최",
+      "count": 3
+    },
+    {
+      "word": "시행",
+      "count": 3
+    },
+    {
+      "word": "평균",
+      "count": 3
+    },
+    {
+      "word": "사과",
+      "count": 3
+    },
+    {
+      "word": "가장",
+      "count": 3
+    },
+    {
+      "word": "대도시",
+      "count": 3
+    },
+    {
+      "word": "투자",
+      "count": 3
+    },
+    {
+      "word": "미국",
+      "count": 3
+    },
+    {
+      "word": "통계",
+      "count": 3
+    },
+    {
+      "word": "올랐다",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "06.04",
+      "event": "2024년 상반기 KB 상업용 부동산시장 리뷰"
+    },
+    {
+      "date": "06.18",
+      "event": "한국 의식주 물가, OECD 평균의 1.6배…사과·티셔츠 OECD 1위"
+    },
+    {
+      "date": "06.20",
+      "event": "갈라파고스적 부동산PF, 근본적 구조개선 필요"
+    },
+    {
+      "date": "06.25",
+      "event": "‘2단계 스트레스 DSR’ 9월 시행…스트레스 금리 0.75%"
+    },
+    {
+      "date": "06.30",
+      "event": "\"개국 대출한도·금리로 은행 선택...동업은 경비처리 주의\""
+    }
+  ]
+}

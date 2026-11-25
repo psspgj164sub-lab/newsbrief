@@ -1,0 +1,400 @@
+{
+  "month": "2025-01",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:17.391Z",
+  "articleCount": 168,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-01#t0",
+      "title": "헌재, 이진숙 방통위원장 탄핵심판 '기각'",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 8,
+      "sourceCount": 6,
+      "articles": [
+        {
+          "title": "헌재, 이진숙 방통위원장 탄핵 기각… 즉시 직무 복귀",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ob1hIeUZHQzB4dlowOWFQVjJpaFJOeGQ3MS1henlOQ2p3UTAzck9Fc2VBd0w1bnhTcTdpN0lXckJPNVRMZEFqMm9tT21XcEN1eTFCMk9RMzFqd1RWTEhMbnZITVZUZE00blZMcndB0gFyQVVfeXFMTnVwXzFxek5XODlWZ1h2NkhfYXBYd0U3WXBIakVmVHMxczZLQTFLdHR6RGtXM0xiNTllWGpxTTZwOFc1ckFPZFd1OElOV3lfV284WDJwNmlvRjI0OF81cUViMF9CcTVUOXlxZ3VHd0h6Nnh3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-01-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "헌재, 이진숙 방통위원장 탄핵 기각…4:4 가른 핵심은 ‘의사 정족수’",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUZ2ozRG9CaFFCNGF4SENSd3dKRjZURzVtVF9VcmtsbU8tUmtzck5IMkZHN2pYM0hldEVTSmptMzlSNktjVjhlbEVIZmJZdFVJYlpDWHNwbTVTWWM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-01-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "헌재, 이진숙 방통위원장 탄핵심판 '기각'",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrV3JYLVBoUVlGdEtCdThJREo5NHM2WnJBV1NWTkszTS1MRHZKZXlzd2IwZVhHNGJyLVFIZzI1RWFNdF84QkV5ZXBST0ZnWXN4ZHhoX3ZRWFg2RlYtd2o5aQ?oc=5",
+          "source": "한국기자협회",
+          "publishedAt": "2025-01-23T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t1",
+      "title": "속보 윤석열 대통령 탄핵심판 4차 변론기일 종료",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "윤석열 대통령 헌법재판소 탄핵심판 4차 변론 주요 장면 및 쟁점",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nSDhZR0dDYk83VHZPck5vQ0JMZ1ZZZFphdVZwN3hReWN0MFdDc0xWYkw3NjUyQ0hyTzRNRW4wbGdudGtNSm12ejJwLXZXbFhUM2V4RGJYMUZZdE1N0gFiQVVfeXFMUFhWdEZfYmZ5TS1SWVZjZWhOVTVGSlIxNGkzYVAwX2xXOGRaTWFKUEtlRm9hVGNmb2hUb09nSml1RDNZMmRJSU1sTV83b1pKVmxfejVMNXN0ODB1M2kydlk3Rnc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2025-01-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "속보 윤석열 대통령 탄핵심판 4차 변론기일 종료",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6dTlueHh4S3Vvd3lnbk5uLTNiRVpCQy1nNGc0Zm05bG1kTG5HU3Y3elV6bUdkcDVHSGtZcHFjeURzVldUV0gyazRtMmV4Vk9neHlsNjZWS2ZOTjdjQWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-01-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "속보 헌법재판소, 윤 대통령 탄핵심판 3차 변론기일 종료",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uNm0tbzhKUnlZcEtQdmhXQlBWVTVuTEo2UDFHckEzdFl4bXlIM2EySXk5NHF1blh1d2JUS1E2VFhjWU00Ym1zd005MFEtLXYta2RfUk5hbWU3bjlQR3c?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-01-21T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t2",
+      "title": "\"이산가족 76%, 북한 가족 생사도 몰라\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"이산가족 76%, 북한 가족 생사도 몰라\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TSFpyT29Uc2lsT05kTmVMSFFWUzJfWTVXdDloMzB1enVGUXhfOEpCTmJBY3JGMXgzMXoxRVpia3hodEFPeFhlUFJGNHhwd0t1Y3VWSk9qMHJRR0HSAWBBVV95cUxORlNhazU5TWN5dFJjT2dYYlhWMEVuQWJpY2VQYXo2U0Q3UTNvSTlUdWp0Qi16NVVrclItZnNhVHRiU1VNMVhzSGp4MG5QYjNsSXR2V1RBQXppTmoxVXpaMFg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국 정부 이산가족 실태조사…76%가 북한 가족 생사도 몰라",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYcllNY0xkRXVQZ3NhSE1FTWJTSW5lS2x5X2ZpR3dlc2tWR0Q4WEk2UTB1ZEh6N3ZSTENLaHh2bHpzemp3VjRWeksxTGVCYXcz0gFTQVVfeXFMUGxCbUh3N1M2V1JHdTVkR3VNWDhyUUFlbmNsQ2NNMmJxVHRLdGpZX01fVlBtZWNKNVp2UGJmeWxFUEpoVUdubTdKQ2NVdXRSbjc3cTQ?oc=5",
+          "source": "VOA 한국어 홈페이지",
+          "publishedAt": "2025-01-24T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t3",
+      "title": "“윤석열 지지” 대통령 탄핵 반대 집회",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "“윤석열 지지” 대통령 탄핵 반대 집회",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiX3FyMnV4S0FGNXJBUVVBQUNuX3d5emZwTDhOYjU1TmNYUktfR29zSkdhY2lEbXUwb3NiTmZtem9DS3dFTlF5bU1BUXZqVkh0TVE?oc=5",
+          "source": "경인일보",
+          "publishedAt": "2025-01-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"탄핵 무효\"…대구서도 열린 尹 대통령 탄핵 반대 집회 [영상]",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPb2hkelNOQjF4dnlTQ0hlN3dYZGM4RjFDa0E5UFJRMVE1c09CcnVmQ1ZfUzF6V09WOS1ZMXJlbmpJRHhSVXhqVUFRbDFLTUI0cTRscG9jU0UwYVNuMnJ5VHVB?oc=5",
+          "source": "매일신문",
+          "publishedAt": "2025-01-18T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t4",
+      "title": "주한미군, 선거연수원 중국인 99명 체포 보도 \"전적으로 거짓\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "주한미군, 선거연수원 중국인 99명 체포 보도 \"전적으로 거짓\"",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGFfaDBHWDVsY2k2cEFhRUFvQXFLOEVqTE5iU1JxcEFWM1ZoOEh0MUdSYXVQTWJZYXNMV0VmS2hMM1RVM195bVhxLUY1dEpMelpPTGtSRkJha3dHNjF4eEFzdmhGRWxBbWZueElOSnByb2Nsdkpad2xhVWFLQjB2ZmFsZk5sNTYtRGfSAZ4BQVVfeXFMTU1kZm5ndkpNd05fUjc4TjFmLXNtT3dKaktZenNBRXEzRTNoZkU2Vnh2RE1PQmFDY0d3aEw1TzRLZFp2MENxVDZ3NS12OTFqTHFfWGdaSDlXcGhuUHM5VmFwX0lZYkZGWWR6bGcxRE9GV1JYWEFkQnlvOVRiakFDOHptYW5Lcm5JRVMzc0tUVlFVelJTZ3J2UnMtRFVJNWc?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2025-01-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "주한미군, '선거연수원서 중국인 99명 체포' 보도에 \"완전 거짓\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXSEQ1NEVoajR5eDJXQ0RhaXhhU0pDWWY0c01LNklsY2RaMXEzWExIUXd3T3ppOVVTVl9sdnNhRmhNbHhYR3JOV3VLNEJlSG5QZkVNZTlOYzBpcmPSAWBBVV95cUxQX3JaLWtzZURyUWpSZ05XUG51VVdray16clU2MmFjcU9VVHpFbjdpeFI5cGhVOWpia1lnak43U1lkSzFyQUtjNjZUblFQRHN1OHJKTy1QZ2N0eDZPSEM1YlA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-20T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t5",
+      "title": "미국 국방장관 지명자 “북한 핵보유국 지위는 세계적 위협”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "미국 국방장관 지명자 “북한 핵보유국 지위는 세계적 위협”",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1WTR6RmZVVnVtaXdkbG1vS1Q5dmN0NXBWTGFkRENvaWM5cktJcDNOTEphb0g4cDZmbXpCdWxOYVN1aFJXUmFGTXA2cnlGblVzM2g0YmRaajZJZVRRNmhPQndaNmI0V29CM2xtRkRSVQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-01-15T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美국방장관지명자, 북한 '핵보유국' 지칭…\"세계안정 위협\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVHJubjNXTV9IVzlzX2xsNldLNmR6cEtsTXhrMkxOUVhIV1JoU1dXWnBZMHpLdi1BTHQza0xOR3gxSjkxelh6RHhWRk5Rc0hJOFNoV2ZKSHVPZXfSAWBBVV95cUxOdDZiZHQ1UXJWcWZhd1ZMWFk5R3ltQ1Q5TmgyV0c1MVVBTkZpd3ZyVkxEZWJId0NFZEJnaG94dDN2d01kTF9mRGJVaURUYmt4WkNuempzelVFbC1jYUpLWGU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-15T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t6",
+      "title": "與김민전 주선으로 '尹사수 백골단' 국회 기자회견…野 강력비판(종합)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "與김민전 주선으로 '尹사수 백골단' 국회 기자회견…野 강력비판(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWW01dzVqcXNwX0dyMXBPQXk1UFdFeEh0ekM1VUZ1UHg3cG5wVjZMbV9fZTc5VVUyZWtuaUF0alRUeUtSd05RVHl6eVBOZU5sUzdjVC1fcnlFOUXSAWBBVV95cUxOV2FiemRSMnp4R1NLZjVUQm53T2NCYm1qRzFTejRHT09IVFhtVVVqaGxrUnVoSjU2cnowQm83U0FXWDN0ZmJJMzdib19SX0pJd0VCUl9yUVN0dGRUeXJSMVM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-09T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김민전, ’백골단’ 국회 기자회견 주선…야, 반발",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sUkdFWEowZHBuT2k4bmpXTTY1U3Z0dmhObXIyeENQbWg0a2hMbFlwZ2RIWExnNUJhMnYwbV9OMktOeHFSQ1c3dVVVSWdqTjVSREJDWDREWkM0eUlXZ1JqTkEyV1JtMzg?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-01-09T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t7",
+      "title": "대선 승패 열쇠 쥔 중도층, 야당 지지율 여당의 2배",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "대선 승패 열쇠 쥔 중도층, 야당 지지율 여당의 2배",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGRUhGZWFSUk0wQloyRTkwOUZQckRibXVRVk82QWVhQUhROGJheVN2TGhNZlk1Y25mVjlSUHNRS1dvQ0pxRy13ZHhwX1N6UFRFZGMwMVZrS3FsQdIBX0FVX3lxTE9DTmVaV1h5V1VKc0lPUTZWNHhseUNvNFVWaVJjU2VwTTVXY0NXMEtuZkFGQlZKNXVuRzBsY2FWdEJrYi1Ka09UNkdJWXBUWERNMVRiVjY4bVl1NWxMTU9r?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-01-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "야당 지지율이 ‘여당의 2배’…대선 가를 중도층은 달랐다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aQ2hvbmZjS3drRG45bVZtaEdrWTlkRWhPX3B6R2x1SFpxWDNySG9lUHdzZjgtbC14a1UtZjBLVzZmRW5hcW9kR0ZPWTFVaDliOGtTVHBHa0YzUdIBX0FVX3lxTE5MUDZvQ0xNUVBpUFUtVHE5MHc0SVAydHJKUWFxZzdSdTdiSHhYWkpNcHdxWlo2ZmJxblpmSTl2c2pHY3lEUjJaQ2tjWGxEUkVEVThPWFBRcHRrTHdhejRz?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-01-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 27
+    },
+    {
+      "word": "탄핵심판",
+      "count": 22
+    },
+    {
+      "word": "윤석열",
+      "count": 19
+    },
+    {
+      "word": "이진숙",
+      "count": 19
+    },
+    {
+      "word": "헌재",
+      "count": 17
+    },
+    {
+      "word": "기각",
+      "count": 15
+    },
+    {
+      "word": "방통위원장",
+      "count": 8
+    },
+    {
+      "word": "출석",
+      "count": 7
+    },
+    {
+      "word": "부정선거",
+      "count": 7
+    },
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "지지율",
+      "count": 6
+    },
+    {
+      "word": "내란",
+      "count": 5
+    },
+    {
+      "word": "국민",
+      "count": 5
+    },
+    {
+      "word": "계엄",
+      "count": 5
+    },
+    {
+      "word": "반대",
+      "count": 5
+    },
+    {
+      "word": "헌법재판소",
+      "count": 5
+    },
+    {
+      "word": "탄핵소추",
+      "count": 5
+    },
+    {
+      "word": "심판",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "백골단",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "위협",
+      "count": 4
+    },
+    {
+      "word": "의혹",
+      "count": 4
+    },
+    {
+      "word": "복귀",
+      "count": 4
+    },
+    {
+      "word": "변론",
+      "count": 4
+    },
+    {
+      "word": "보도",
+      "count": 4
+    },
+    {
+      "word": "집회",
+      "count": 4
+    },
+    {
+      "word": "핵보유국",
+      "count": 4
+    },
+    {
+      "word": "아닌",
+      "count": 3
+    },
+    {
+      "word": "민주",
+      "count": 3
+    },
+    {
+      "word": "경찰",
+      "count": 3
+    },
+    {
+      "word": "기자회견",
+      "count": 3
+    },
+    {
+      "word": "비상계엄",
+      "count": 3
+    },
+    {
+      "word": "이재명",
+      "count": 3
+    },
+    {
+      "word": "위기",
+      "count": 3
+    },
+    {
+      "word": "직무",
+      "count": 3
+    },
+    {
+      "word": "변론기일",
+      "count": 3
+    },
+    {
+      "word": "종료",
+      "count": 3
+    },
+    {
+      "word": "방통위",
+      "count": 3
+    },
+    {
+      "word": "얘기",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "01.15",
+      "event": "미국 국방장관 지명자 “북한 핵보유국 지위는 세계적 위협”"
+    },
+    {
+      "date": "01.18",
+      "event": "“윤석열 지지” 대통령 탄핵 반대 집회"
+    },
+    {
+      "date": "01.20",
+      "event": "헌재, 이진숙 방통위원장 탄핵심판 '기각'"
+    },
+    {
+      "date": "01.21",
+      "event": "속보 윤석열 대통령 탄핵심판 4차 변론기일 종료"
+    },
+    {
+      "date": "01.24",
+      "event": "\"이산가족 76%, 북한 가족 생사도 몰라\""
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "month": "2025-12",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:25.481Z",
+  "articleCount": 142,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-12#t0",
+      "title": "법원, 삼성디스플레이 비정규직 청소노동자 유방암 ‘산재’ 판결",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원, 삼성디스플레이 비정규직 청소노동자 유방암 ‘산재’ 판결",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZU1kUGVHaDh5ZU1HNGRLYWZrNDlzOE5BQjdUMmh2aGI4b2lwQjk0V0hnNDZ1V2h5WkQ5dkZwN1R4SFN2dEJETWxMYnRuUEd1WXZqTFZYcjZPdVp5ZGRnTUVHaWZIYlF2UXMxaHRn0gFyQVVfeXFMTlE2MFpBQWhxN1p2d21pdHl3cWNnLXl1UV9QQ1E2SWtfY2g5T0NLMllqUU10VzBzaTJfSm5HVnNLbTJZU1BxdGJSaEt4RlBZeDl2dENpcGlPM3ZKZ2lhcmM2RktHeFlCeWRoVHl5X0ZDdFdR?oc=5",
+          "source": "로리더",
+          "publishedAt": "2025-12-15T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "6년7개월 만에야…법원, 삼성디스플레이 청소노동자 유방암 산재 인정",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMlZGcDFXQURldGVHYnZISWdSVzhlb0NRSUt1dEp2V3lvLWRfQWgxbDJydUlZbmVidUV5QklIdUlxRnpnY0hIYjZBMEJLVDlaenA2OFFjeTB0Zkpoc1VSRmhqdTc?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-12-11T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t1",
+      "title": "창원 아파트 화재 60대 부부 숨져…\"현관 중문서 대피 못 해\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "창원 아파트 화재 60대 부부 숨져…\"현관 중문서 대피 못 해\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ldVRQTFA0VDNwRTRwMXBhTENaTnZuc0ItZHBYR0tmaFUtNG5sQnZzalBKTW1JdHRQTjZCM1ExTE40VnRBaUx0VVNQdXRDQV94VWN2Wg?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2025-12-07T10:33:54.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "창원 아파트 새벽 2시에 화재…60대 부부 숨지고 130명 대피",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91ZENTLWZzbk9KUlYtd2pCajFzV2ZuLTVhRjRLZFdjUUVQWVVjT2xobUVGV3hlTlRzVVFHNTVwRE9EemE1bW9ZX0VzSGd2RmFiRjgtdWtwejJVc2d0a2ZGOHRVRUo?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-12-07T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t2",
+      "title": "서울 강서구 아파트에서 불…주민 1명 숨져 外",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "서울 강서구 아파트에서 불…주민 1명 숨져 外",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReDVFUW5DOG02ODV1NlBFeFhPemZyRHpFNGx3dTFYWGFCUzBvVlFJVEdqUmlvN2tSZGxGNmdRb1lOR09rSS1GRHJqd252OVU0cWxULUIwRk9aN201bFdwRTk2SWN1a3M?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t3",
+      "title": "‘저출산 고령화’ 호치민시, 출산율 소폭 반등…인구정책 첫 ‘성과’",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘저출산 고령화’ 호치민시, 출산율 소폭 반등…인구정책 첫 ‘성과’",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxRjMwVmRsZThRU2M2RGZsaUstWkNaX0JteFpzcVliR1VBdUJFRVJUdVlsd0ZIWjJpNHZKQmtQNnc3emZNdmxMU3ItTURtel92ZVRibkdFRFA4a0FtOEEyeTJfV1FsRndlTjlBRQ?oc=5",
+          "source": "인사이드비나",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t4",
+      "title": "(재)영덕군교육발전위원회, 하반기 장학증서 수여식 개최",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "(재)영덕군교육발전위원회, 하반기 장학증서 수여식 개최",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vdWlIVk1Pa29YbU9qa1pwWDFNU0FQQmRFNVNVcVlJWklNYnJHV1gyOGJiMnZaWHZ1Q1dMQW5JaXdrX1FialFkWlU5S21PU1NhVEx0ZEo2dDFySzRpNG5IV2FqZ1g3UQ?oc=5",
+          "source": "데일리대구경북뉴스",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t5",
+      "title": "대법원 “경도대교 디자인은 저작권 침해” 확정 판결… 건설업계 디자인 베끼기 관행에 제동",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "대법원 “경도대교 디자인은 저작권 침해” 확정 판결… 건설업계 디자인 베끼기 관행에 제동",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQQWNRSGJWcnRLVDFXWTI2OC1MZ21BX19sZlA0cWc2SXZLRTMzU1RuTzM0cVRldWJPYXkyLWtINGRfQkRnQmJNRHM0RkRvd0V5M1hLNXNSeUJUQkl2SmtjckxYN1RQN3YzM3Z3UnFjTDA1cDBzX280bGdwUEMtVnBNbnlfWG1vT0x0N2Y0d2stRHlNVmtaa1BkUksybnZrdzVaQ2ZTSjEwNUR5LV9pQjFnU2RMWHF0ZWxrbmJYZk1pb2hlUHpjNWpWRGlvX2NjU0YxRVEzOXYybEJiZGE2SWI4UUVpZkxDV2JXdnVCYjVjYXVqSk0yeHFwV1J5RHRBVTlWTW5oZExQZGRrc1owUThQdGktQmo4czFEaGJpV3Z4N3hBbTlOeHlKXzBObHdiT3hqREdSZ0w4eXRMNDFPWU9kcFNic0UwdWZLQUh5Ymdn?oc=5",
+          "source": "IPDaily",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t6",
+      "title": "법원 “금호고속ㆍ박삼구 전 회장 회계부정, 증선위 제재 정당”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "법원 “금호고속ㆍ박삼구 전 회장 회계부정, 증선위 제재 정당”",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rM29FME5IaU5rSW9sbEJDNmgtN0h0WERSaVBZb1F1YzBoandkV250OFVETEI0cDdGa20zcDFEZWlIdFBZcnhpeHRCMkJINXg2TTJ5aHdHNGVmZmlqZC1IVlIwcUVLNEZ3THJfM3Z30gFyQVVfeXFMUFowb01EbllFWHBlZG5yTUUwVU1TOVpOQXBVSDZhckUxbTR4RG54MzRoWG5BQnE4X3ItaGpYbnYwb1R4Z2xjdjdrRUlCcE1KRVJBTEVVNlJONWhHU0xQM3NFZlE2Z2RNNHRwTHQxMTNEOGJR?oc=5",
+          "source": "로리더",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t7",
+      "title": "[2025 바이오 IP 소송] “CRISPR-Cas9 선발명자 소송, 툴젠 유리한 고지”… UPC 다국적 금지명령 선례적 판결",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "[2025 바이오 IP 소송] “CRISPR-Cas9 선발명자 소송, 툴젠 유리한 고지”… UPC 다국적 금지명령 선례적 판결",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSHk4YTVPRDFOTVctTDAxcG4zWTBpUXdEYlpaVlFsLWY1V0dQbXBRQ3BXb1JNYWt4TXl4OG9ObVZrSEFUVFR0MkFhYUZLTW1pZ2NUbDBMTjR0dlJYTjdOOWpiWTBab3NieHVIeU9kZXhzU2lkanJ4Mlh6SkU0Q1A1eVRUR0RKSHNyTHIwZ2JfVHhERmFId3pEblZsSUQwYlVYZFB5U2JRRDBfVldhYTI3Nzk4STJOTk5xaEtPTnhWajlBRmJjcncyNGpRTmpnc3ljNE5Sb180NGhHTk9wUWpnOE16YUlyMmJwbko2TUN6YlRxVXRpREZYX1VEY2xZc1NPQlVEQy1BM1pHbTJiRG9nQ09wbXhjcG1zX1UtdHBiUGg3UENkVHBsVV9IUXJqVDk0RFBhV0tocHBhcjdtOVNFMFgwY3RXd0VFS3I0Q0tPZlBqa1RlQ05MbQ?oc=5",
+          "source": "IPDaily",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "재판",
+      "count": 7
+    },
+    {
+      "word": "위법",
+      "count": 6
+    },
+    {
+      "word": "인정",
+      "count": 6
+    },
+    {
+      "word": "배상",
+      "count": 6
+    },
+    {
+      "word": "취소",
+      "count": 6
+    },
+    {
+      "word": "사랑의교회",
+      "count": 6
+    },
+    {
+      "word": "대법원",
+      "count": 5
+    },
+    {
+      "word": "판결문",
+      "count": 5
+    },
+    {
+      "word": "정당",
+      "count": 5
+    },
+    {
+      "word": "저출산",
+      "count": 4
+    },
+    {
+      "word": "공개",
+      "count": 4
+    },
+    {
+      "word": "항소심",
+      "count": 4
+    },
+    {
+      "word": "승소",
+      "count": 4
+    },
+    {
+      "word": "창원",
+      "count": 3
+    },
+    {
+      "word": "아파트",
+      "count": 3
+    },
+    {
+      "word": "정책",
+      "count": 3
+    },
+    {
+      "word": "머스크",
+      "count": 3
+    },
+    {
+      "word": "보상안",
+      "count": 3
+    },
+    {
+      "word": "변호사",
+      "count": 3
+    },
+    {
+      "word": "기준",
+      "count": 3
+    },
+    {
+      "word": "대법",
+      "count": 3
+    },
+    {
+      "word": "유죄",
+      "count": 3
+    },
+    {
+      "word": "손해배상",
+      "count": 3
+    },
+    {
+      "word": "위자료",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "불복",
+      "count": 3
+    },
+    {
+      "word": "항소",
+      "count": 3
+    },
+    {
+      "word": "중계",
+      "count": 3
+    },
+    {
+      "word": "제정",
+      "count": 2
+    },
+    {
+      "word": "교통사고",
+      "count": 2
+    },
+    {
+      "word": "서울시",
+      "count": 2
+    },
+    {
+      "word": "중심",
+      "count": 2
+    },
+    {
+      "word": "유출",
+      "count": 2
+    },
+    {
+      "word": "보니",
+      "count": 2
+    },
+    {
+      "word": "직원",
+      "count": 2
+    },
+    {
+      "word": "규정",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "부부",
+      "count": 2
+    },
+    {
+      "word": "숨져",
+      "count": 2
+    },
+    {
+      "word": "대피",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.07",
+      "event": "창원 아파트 화재 60대 부부 숨져…\"현관 중문서 대피 못 해\""
+    },
+    {
+      "date": "12.11",
+      "event": "법원, 삼성디스플레이 비정규직 청소노동자 유방암 ‘산재’ 판결"
+    },
+    {
+      "date": "12.31",
+      "event": "서울 강서구 아파트에서 불…주민 1명 숨져 外"
+    }
+  ]
+}

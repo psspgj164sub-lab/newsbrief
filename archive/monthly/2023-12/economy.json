@@ -1,0 +1,396 @@
+{
+  "month": "2023-12",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:28.875Z",
+  "articleCount": 238,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2023-12#t0",
+      "title": "비더스킨, 제60회 무역의 날 ‘삼백만불 수출의 탑’ 수상",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "굽네치킨 지앤푸드, 제60회 무역의 날 ‘100만 불 수출의 탑’ 수상 [ 강동완 기자 ] : 네이버 블로그",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6OE5PWmRFTC1pcVFtSnhUX0ljbTJaUThnTkZrQmNkdWNMc2dtc1FKSVZpNlcyeWk4NENhQjIwZmRxRlFQdnhwdjBuVjVQMUNCeTRBd0hreHBnVWpJc3VFclJMZWI1UQ?oc=5",
+          "source": "Naver Blog",
+          "publishedAt": "2023-12-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "비더스킨, 제60회 무역의 날 ‘삼백만불 수출의 탑’ 수상",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmejIyd0F6a0xMMk80MnBrRWgwV2dVa0s1OWgwVFBERjRUa1Y4UFBHSjhBUXRSYzhHMG5STTVUSFpDUXpxX25kN2hXMmRIWGc0MGVwSnBqbTdHbTYzYTlSUWROcERLN3pkdVE?oc=5",
+          "source": "비즈월드",
+          "publishedAt": "2023-12-12T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "제60회 무역의날 수출의탑 수상기업 명단",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vdG5jVDRHT2hjaENFZGRhRTViMUZrLTFtT2UwSFJ2cEppOTh2aERMZ0tPaEtCLUJHd1NyN2hyM2VJeFBucWFiZTk4bGZrWnloYV9kcVhBeExURVVJb1E?oc=5",
+          "source": "스마트투데이",
+          "publishedAt": "2023-12-06T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t1",
+      "title": "국산차 美 수출 100만대 돌파 ‘역대 최대’···친환경차 비중↑",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국산차 美 수출 100만대 돌파 ‘역대 최대’···친환경차 비중↑",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlRTFpQVFJd3ViZVJKUmFiSFI2Mi1UUUE5YUtXWWVEaW4tUVJhbm9LUTFKZzY2cEdvdEE4UktTNEMtRWtOOGFoUVRoNTNldWJNejVZOXAzdkx5dmxTOXFlN0NkTG9TT1hEc0dXX3BWUkpGd9IBdkFVX3lxTE5NODJYQ1Rrb0FsNGFWSkt6M3A1bVJzR3FsRXFtOWNTdGVPZVYtc0NVYW5Ed09HYTNOQUNWeXlUWnNJRmNScjlrTUlCTUJRNkVQRy1pWFlGYmtDZmtUSUxRMVJTV3duQnZYZnlWR0Nibml5WW9GTXc?oc=5",
+          "source": "시사저널e",
+          "publishedAt": "2023-12-31T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "올해 한국차 美 수출 8년 만에 100만대 돌파..역대 최대 규모",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR0VZYm9aYVd5cC1Eb25ER0J2TkJLNkdoUkliWkY1NkN1TmdSRWFhRFdldHJMZ2xELVFwSEozTW1mV2szZ2hFdGZZM3d4SXlOYXdzV2k1aUlWa3ljT2x6eW9JdTYzYllTc1ZxMl9JUjFUZ3otVlFWX21FQkJCdTNSNw?oc=5",
+          "source": "이데일리",
+          "publishedAt": "2023-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t2",
+      "title": "소비자물가 추이",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "소비자물가 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UX3ZYWExwdm5lMG0way0zU3ZKckE1U2F2YTg1SXNBYTJPc0JHMnpZZlE4VkxDdzZ4Q1N6MnR2Yy1ONHdLQ3dmUUhLVndqRGtybWtmZWxVcG5yVTDSAWBBVV95cUxPYi1fSWdGbmp4WHA2LU9BTkhEQjRBbkRQOEp5aUtpUWhhNnYzS1loMWxfaFhVUjZHeHlHWVJzV2FkdzhTT2t0OHdzellZU0JnYUlub2Qtc3IyRmt1QW9TbHk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "월별 소비자물가 지수 추이(2023년11월기준)",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZEx0NExXRm9kRDJqa3ZFc3dGYndVOVZOcVVGajVWMFBoZDJwbTdRUjVRMjFDcWtRbDhqUWNqaGVpUUJhZWdfSFhlRjE5TUtmZktXLWdwWEVRUWNq?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2023-12-06T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t3",
+      "title": "네이버페이 모바일 앱 개편…결제 넘어 증권·부동산 서비스까지 추가",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "네이버페이 모바일 앱 개편…결제 넘어 증권·부동산 서비스까지 추가",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZRHJwSGFOZEZQWkd1QzVla0FvalNmbHlqRWxrekJDNXNZb3FDSFVqeFpSQkpSNXlITm01VldCNmI1NDUzaklJNG9zYXRad3Nsd1hPSXFwRTdFbXRkWUszUTJSM0ExSzA?oc=5",
+          "source": "아이티데일리",
+          "publishedAt": "2023-12-12T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "네이버페이 앱 UI·UX 개편…증권·부동산 서비스 신규 추가",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nUWF3YkEtYkN6dm85VS03NGFqR2gtenJHdTJHS1Y4SzU4YTU0MGZJRzZ1SzUySDVrUnlMNk5aUC1QZUpmcFItcWE5SnBTY2dDam9MekRJWnYtMVhmTWhqb19UUUQ5VVNraFFn?oc=5",
+          "source": "파이낸셜신문",
+          "publishedAt": "2023-12-12T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t4",
+      "title": "KBI알로이, '2023년 무역의 날' 기념식서 '삼천만불 수출의 탑' 수상",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "KBI알로이, '2023년 무역의 날' 기념식서 '삼천만불 수출의 탑' 수상",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByTVFaWGhMTnFFQl9pRU9VRVUzLXptZElLNmxnVHhHbklnWFlzNU5tUVEwdlNFd280ZGthUTYxckN1bG90R0RsZldIdS1DcGM3akN6THJtb0s1cmZYTnlveG9McUdYdmRpMk93?oc=5",
+          "source": "파이낸셜신문",
+          "publishedAt": "2023-12-06T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대차, 무역의 날 기념식서 '최고 수출의탑' 수상",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MMGVNRnNRdFR3Z01NN2VXZU9YZkFNRDk1UWxVWWJ4ajZDQjkwQkxsT2Z6cTlkXzlJZjhkMmJ1UnlsV1RuZUdmblJselRselJNdHIxQmtBTVhaM1NvcjRlOUphLVM?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2023-12-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t5",
+      "title": "성남시, 바이오헬스분야 수출 계약 50억원 실적 달성",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "성남시, 바이오헬스분야 수출 계약 50억원 실적 달성",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vbFJGWGNydzNuYWtNU09zSnBuOC0yVHJRTnlTd0Mta2tOc2dYdERJMWV6TEVIdXpLMUxfZEtoSmJ1Z3QzV2dCek9iaXA1c1dHQW1Ca3d6bVVZX3N0TTN0RWVVdw?oc=5",
+          "source": "에너지경제신문",
+          "publishedAt": "2023-12-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "성남시, 바이오헬스분야 수출계약 50억원 실적 쾌거",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkbnJjSFBSVk9kX1J0ZUxOUjk5S2FjbW5ha2NzUVllQ0V2X09kTlVZdGoyUmJ2VVd4MmVJMFN2a1h4YndobnhxWkM3RV81UE1NaXBWeFhFejh5bTdZVU1VVDljOHkxMFFjcnNlRmk2UQ?oc=5",
+          "source": "위클리오늘",
+          "publishedAt": "2023-12-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t6",
+      "title": "Re: 사회연대경제로",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "Re: 사회연대경제로",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYUkxFcl9BZlV3RC1jd0I5U0tRSldERUZ4LUItWDJqeGNPLUJnaERoalBtYXljaVpEdktVdVotM2RLNklIbmlkcVczMm11M0JlaVVSeV9xdkhsU1RkQ213VHZQN2FlTWNy?oc=5",
+          "source": "라이프인",
+          "publishedAt": "2023-12-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "사회적경제에서 사회연대경제로",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTzEzV0U1NDRMNjNBRnlrcExyZl9SRmNLc2JBc3NBWFRTOEN0N0xJTjBfeTU1eXJteTBaMEVPVUw5dmdUbW9PYmtTenRTUDVxczhNWUh4VGVVcnNoLWpNNG90MjFpUGk3?oc=5",
+          "source": "라이프인",
+          "publishedAt": "2023-12-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이제는 '사회연대경제' 어떠세요?",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPNDhYZVNXYTFwVzg2SEFfbUVaR0RxMTYtalhnaDlPamx3TVNoRmhla3B1a1VPOGNQOVBJVnRjX2Q0SGRyYkZMTVZ0dlVtVkN6c2xDVG54ZWF0OVJJRzR1bXIxc2Nnc1Zz?oc=5",
+          "source": "라이프인",
+          "publishedAt": "2023-12-01T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t7",
+      "title": "中, 또 부동산시장 회복 촉진책…베이징도 주택구입 규제 완화",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "中, 또 부동산시장 회복 촉진책…베이징도 주택구입 규제 완화",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TbVJYYUd4RlhQV00zMFBBM2szQS0xRVlmbVpsVXptcEVCSEk1S0RtQ29wSXlUS0pkc19nNm52X045cGh6c2xsUGRNZndOSHIzTUFyM0J5cFN2X1XSAWBBVV95cUxOV2ROVzJqai1yQWlSNTdIS2JaUjVoNlYzVEx1dnktcXFpRllKaTJvY25HVXpST2dDR3o3dHI1M3FBWXIyWDgtVkM0U1AxNElCVnNGUi1QcGxZWUdtZW9zMi0?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "中 부동산 살리려…베이징·상하이도 주택구입 규제 완화(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yRkgzaUxtckZ4U1ZTeFBhMmppdVlFTmNVQkFzU2h0a0p0MlNvekQyY1lqazkyNkYyR0hieXpwbFJFLUVTTlhTazh1WjIwcDh3eU1kdGxQSFUzRG_SAWBBVV95cUxNTk9yMXpGMERyeGx6Q3NucHdTYmk4SHYzcnRHTU5CNGlMN0RfZ3M2Q2NKNl8zam9wVmxDVm56ckpuQWs0R2dKSDkxZ0lTSFdlV0dxLVd1ZzFfaDlTekVyV0E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-14T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "수상",
+      "count": 11
+    },
+    {
+      "word": "시장",
+      "count": 9
+    },
+    {
+      "word": "최대",
+      "count": 8
+    },
+    {
+      "word": "PF",
+      "count": 8
+    },
+    {
+      "word": "투자",
+      "count": 7
+    },
+    {
+      "word": "인하",
+      "count": 7
+    },
+    {
+      "word": "한국",
+      "count": 7
+    },
+    {
+      "word": "사회적경제",
+      "count": 5
+    },
+    {
+      "word": "미국",
+      "count": 5
+    },
+    {
+      "word": "부동산pf",
+      "count": 5
+    },
+    {
+      "word": "추이",
+      "count": 4
+    },
+    {
+      "word": "북한",
+      "count": 4
+    },
+    {
+      "word": "변화",
+      "count": 4
+    },
+    {
+      "word": "금융",
+      "count": 4
+    },
+    {
+      "word": "사회연대경제",
+      "count": 4
+    },
+    {
+      "word": "대표",
+      "count": 4
+    },
+    {
+      "word": "추가",
+      "count": 4
+    },
+    {
+      "word": "역대",
+      "count": 4
+    },
+    {
+      "word": "동향",
+      "count": 3
+    },
+    {
+      "word": "신청",
+      "count": 3
+    },
+    {
+      "word": "국내",
+      "count": 3
+    },
+    {
+      "word": "기준금리",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "이자",
+      "count": 3
+    },
+    {
+      "word": "새해",
+      "count": 3
+    },
+    {
+      "word": "달러",
+      "count": 3
+    },
+    {
+      "word": "글로벌",
+      "count": 3
+    },
+    {
+      "word": "영향",
+      "count": 3
+    },
+    {
+      "word": "거래",
+      "count": 3
+    },
+    {
+      "word": "기대감",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "상승",
+      "count": 3
+    },
+    {
+      "word": "내년엔",
+      "count": 3
+    },
+    {
+      "word": "한은",
+      "count": 3
+    },
+    {
+      "word": "구축",
+      "count": 3
+    },
+    {
+      "word": "불법",
+      "count": 3
+    },
+    {
+      "word": "위기",
+      "count": 3
+    },
+    {
+      "word": "코스닥",
+      "count": 3
+    },
+    {
+      "word": "주가",
+      "count": 3
+    },
+    {
+      "word": "주식시장",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.04",
+      "event": "KBI알로이, '2023년 무역의 날' 기념식서 '삼천만불 수출의 탑' 수상"
+    },
+    {
+      "date": "12.06",
+      "event": "비더스킨, 제60회 무역의 날 ‘삼백만불 수출의 탑’ 수상"
+    },
+    {
+      "date": "12.12",
+      "event": "네이버페이 모바일 앱 개편…결제 넘어 증권·부동산 서비스까지 추가"
+    },
+    {
+      "date": "12.31",
+      "event": "국산차 美 수출 100만대 돌파 ‘역대 최대’···친환경차 비중↑"
+    }
+  ]
+}

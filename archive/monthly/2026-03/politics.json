@@ -1,0 +1,393 @@
+{
+  "month": "2026-03",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:19.678Z",
+  "articleCount": 116,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-03#t0",
+      "title": "'대미투자특별법' 국회 본회의 통과",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 10,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "공소청법 및 중대범죄수사청법 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CRHlpX3RTUXRsVjhEWlIyQXlNaUwzQ3kwQlNZUUpSMXZZa3p4ZjNEaDFURkxCMU9LRUxtUzY2b3QwMXk1ZUtvWlVzZGNhUUdYSjFkXzJ2dk9XczRYOVpaQmMyT1NqWFBvcXpvRWt30gFyQVVfeXFMUEpQeF9QT3lMZ3RMTlpRRVFMajY1SkNUSHFSU2J2YVJxaDI5NWxxaXZtUkhqQ2d5NDBMY2VnUW1fMlZVZXlpS1RacHhJemhjR19QV1JIS0xiM1hBemxOSGs0RU8wTExrQjVpdEFNc3ZhN19n?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "공소청법, 민주당 주도로 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BamlGenNGQ2JrMEJwQk5CbFJqU05kOU4xdFhwMGhxeU55cHR2clMyWDVPWkNEeUxfd1ZvM284UnFZVERIcy1YQ3hVYzZlTXpQajVFVDRvVDlCQUlhM0puM0FRMkRNVkE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘노동감독관법·중간착취 방지법’ 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ja0JwMGNObWx3MVc0Qm9oLUJQcmtVT3cyeWtSaS1RUGVOWXdnaFkzMG55WkRyaGlOQlc1SHJURURocGRrNGI0c1FYcjg2RDNfY3NsRDE3cTU5YmV4OGZXQk9ZaUFEbWZUM25RT1JiMy0?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-03-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t1",
+      "title": "'개헌 관문' 국민투표법 개정안 국회 본회의 통과",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 6,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "정보통신망법 개정안 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOGlvaWNIYlp2QlBqX2tXbGRIaHRGMVI3Z1l5Tmk1REgzVjUxazZhRjRqRnFBU2lDNlhiOEt5SmVYY1NXOWFzbXdvWFRuOG1ib0VxWU9pbER3bXdFMUt3Rk9EenNVYTF0TmF1QXVB0gFyQVVfeXFMTTNtaFcxUjVYcGZPTUE2cVRCVlVzMnlRMzlFRDlKTUZ1dDYwbktSZkpVME5qM3l4YUVzVHZ0ZnhnZDZKSFAySFBweEpyUWtCVzA1bUdvRUQ3WXM2QzFpR09XZHRPejczdzJzYVBncFBxVGNn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘개헌 선결조건’ 국민투표법 개정안, 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rZWxSaXhsV1VYYWkyZ3FiNndiTTRlcWJRSnVLUk9peUdGSXJQcl9Ra2c3LVQ2bUl4c2EyQWtqYTNkYzF4RlFsZ2xCT0N0N0JlVVQ2QnlON2xwUdIBX0FVX3lxTFB5NURLdlJGMENMTy05eVJITWZadkFJeHI0R2VjTEMtRXpqclc0YVhuMVRsaFNSMldXZWYwbnJiUVRZOFUxekt4RzhNVnBMUm1NSTFFSkVGNnZ0cUU2MjVB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-03-01T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'재판소원 허용' 헌법재판소법 개정안, 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pLXpvMXpFdU5DTGozWC1vdmlxWU94RkowU2RLLXE1MkN6S1FvOHl5SUhPM0NLdlpSbmlwa1NDMzZBU3VHM1hjWjdSdTRzbnhON0NhT3FobWVSNVJwMHpDcHFxVTZBeUU4WldMa0dR0gFyQVVfeXFMUFg0cmNvT1NfMl9XWWdodERkTWtNa0JTMU9MWTdEajFLaW81N0s2Q18xVW52eENmMDdvMkx5QXdJTElWcjZHV0hwbTFXS3BiZkw3cHNmSURjTldVVlZZazZjUHZhcUN5eFdFTTFXQjdkeWl3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t2",
+      "title": "5월 1일 노동절도 '빨간날'로…공휴일법 국회 법사위 통과",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "노동절 공휴일 법안 국회 통과...5월 1일 '빨간 날'",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uUGlQeVlYNHlXYWFvaF9Ma0pwazhva1h4aldKa2xXaHdPVGlKMmNsTTRFNXNFejVtaXN3YU1QOVJ0VXBnZWJNUWt1QzNyMHRfcXF4WUhHSWMzUjVsY0E?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "올해부터 5월 1일도 쉰다…'노동절 공휴일법' 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jV3o4Y0ZYX2ZlVzVONFA5eGRaOUtaeEhDVGdCN0dldUYtNDVUQVc1YTJBdDFxc2FHVW1mUE42N0FxRWJpdmZmVVJ0SFgtRG9OamtWLUVyY3dxMTDSAWBBVV95cUxNdHJKdmhaSDdvODlEQWJuVHdVTU9HV213bXphdWJzaTk3cVVlSDUxWmR4U2tsOUZxMXBrc25fQzVBYkdCclVZWGlNSGgwMi1nZElPRzUycW9jZmJCSlhTU0s?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'5월 1일' 노동절 법정 공휴일법, 국회 법사위 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0Unp1aDA0UDFjMnhCRmJpS1dEckt1SERuUkYxTnhKd3dfZ3FlbE52bWpTTF9qYTMtRVpUZ3c4UzExakpJQkpWVEZXTW5ZZlNNOXZZMTgzMS1uUGI4VGlVamNhOEhMSTZ1Y3FEYWlR0gFyQVVfeXFMUEk0RG1CYzJIdHZuR010WWJVSEU1MVFBRHAxNDFZVlhpWlJQLW53YlhSOEM1QXM3N3ZiWTQtalZ1Q1Nnd1haTlAta3JWLXBpRnp3QUxqcEluRUg3dy1FQUk3enRrOWNaZk5Xc0dMb29CcmxR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t3",
+      "title": "2026년 3월 20일",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 4,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2026년 3월 24일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lS0M1Q05YYnN5T1hUbmxCYjREXzloVDRYZFRyS2k1cXFnQW1JX3A1R2pNa1hkT2R0dU93QlNfT19NNnBqZ1U0bEw1NEFVdkxkMVJOWHhSVk43OVRqNXhra1Q4bjUxZWJfaG5BdFNn0gFyQVVfeXFMTnROaFFtU0JSeUhlRVR2S3piUEJ5N05YMDhmWW4zYUdST2MyN1AwNTNmanpxcmNzOEg4SU1HdDBKV0ZSTTYwTGt6bkRmRXl6cUtjVnFnX3Zpd0J5VkxVZ090MmdORml0Vmk2YmhYR1NYZ2ln?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2026년 3월 23일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GbUdYWm5PNzFyZzVlUGxUUE5oSUpCM2JDOW1oYTA1NmppR2hfTlRNNUVlWUpBaTZ4MXdqZG52MGN0d0NZQjJieVRzTlhkTWZQRUF6aEJJZ2toQW9rX3RRdV85bkdQejVqMkhvNk9n0gFyQVVfeXFMTTBkc3RzODY0ZWpiVXNBQWdyWVJkX3psakdhS1hIZkpydU5mX0lJOGJoY2lETXVRaTJVandOMS14RWRLMEs2aERTSW1zdWtjcFVNLU9wSzVLdC0tWXU5RFJzcjQ5SXlkc3NrajNzS1hnVnV3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2026년 3월 20일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHNGdMMUpaRzJwLWNZdF9tYzZaMDhnZVl2eE83NnBDZUg3MVcwZXpFaWhRVXJ4YkN4T2pBcW81MktkT2VBUGk5bEhqeC1tNWh5NHZmZ243X1ZWbW5sZEp1VWMwVEF4d2NsZF9aZnd30gFyQVVfeXFMTVhLRl9ZWlktWXlrQkx5M2FFaE1LYzJXaTZNenZMdG0xNi00UmtQeTdUMTZZeHpRNFdRR1c2NGpRanJVVEYtNWFCdUFKVndIc1lwS213YWlxQ1dJaUNNZjFqY0hJU3VSQmFlNUYtMzlKd3h3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t4",
+      "title": "이재명 대통령 국정 지지율 67%···TK정당 지지율 민주당 29%, 국민의힘 25%",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이재명 대통령 국정 지지율 67%···TK정당 지지율 민주당 29%, 국민의힘 25%",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxa0dtS1VyT0VaVC1xOXhnaUNuX2szQWloZFZzUDBaWU9HNzlxY2dWNUdKU292d3RUOHZVS2d5Ym9OUkg2MUc0WjN1LVY?oc=5",
+          "source": "대구MBC",
+          "publishedAt": "2026-03-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국민의힘 정당 지지도 17%··· 국정 지지도 67%",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zbjBvRFgxNzFGM2ZzdUhFWV9oRFBtMURDaF9pWHo5VEVTajZ0Z0NSNjUwaGJFdWUxTTNaVWEtcGxUbHFBRjdNX0ZWUHkxbDNuUjFJX3doLWZCUnEwRWFYZjBoZWFSNVNRaUo2RzhZUzk?oc=5",
+          "source": "인천투데이",
+          "publishedAt": "2026-03-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t5",
+      "title": "국회, 수어통역사 8명 직접고용… “정보접근권·노동권 동시 강화”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "국회, 수어통역사 8명 직접고용… “정보접근권·노동권 동시 강화”",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NYXk5OVJQZDVCU2NRLXREZHVIdGsydmdnbzZNcnV4WWZseG5lZFh1TUR4UXpTMFA3eE1CRENGS2o0T3VDR3lYa3BxRGljOVU?oc=5",
+          "source": "더인디고",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t6",
+      "title": "17개월 국회 사회적 대화 마침표",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "17개월 국회 사회적 대화 마침표",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxVlR5bmt1TzVnTEk4Ti1SemxfNG1Hd1BLS3J3Qy1RelI1QnpJNDQ5dFhXaTFQUUJEWU9hQkFvOGpNcUdlbXBpWWlMWEp5cUhOSzZDdjhTdFFiZDc1MVV3ZkFrSVlFZGV5OHlJT3N5eFo?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t7",
+      "title": "환자기본법안 국회 본회의 가결…환자 중심 의료 전환 신호탄",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "환자기본법안 국회 본회의 가결…환자 중심 의료 전환 신호탄",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pM2loN1gzR1JpZktwNjB6UUllZVdsUmdoNVE2VGMxc1NNTkxvS3RyNEMzTlNJU0t4TDU3LUd3dWl3RVBOWnFHdWxzemhrNGo4RVpaNzVFSzc3VHIxQWduRzJZRElRVS1Fak5UTQ?oc=5",
+          "source": "약사공론",
+          "publishedAt": "2026-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "통과",
+      "count": 26
+    },
+    {
+      "word": "본회의",
+      "count": 19
+    },
+    {
+      "word": "개정안",
+      "count": 9
+    },
+    {
+      "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "민주",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "논의",
+      "count": 5
+    },
+    {
+      "word": "합의",
+      "count": 5
+    },
+    {
+      "word": "개최",
+      "count": 4
+    },
+    {
+      "word": "민주당",
+      "count": 4
+    },
+    {
+      "word": "국민의힘",
+      "count": 4
+    },
+    {
+      "word": "대미투자특별법",
+      "count": 4
+    },
+    {
+      "word": "공소청법",
+      "count": 4
+    },
+    {
+      "word": "노동절",
+      "count": 4
+    },
+    {
+      "word": "법사위",
+      "count": 4
+    },
+    {
+      "word": "투자",
+      "count": 3
+    },
+    {
+      "word": "의결",
+      "count": 3
+    },
+    {
+      "word": "동시",
+      "count": 3
+    },
+    {
+      "word": "이재명",
+      "count": 3
+    },
+    {
+      "word": "지지율",
+      "count": 3
+    },
+    {
+      "word": "국민투표법",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "상정",
+      "count": 3
+    },
+    {
+      "word": "사회적",
+      "count": 3
+    },
+    {
+      "word": "대화",
+      "count": 3
+    },
+    {
+      "word": "조희대",
+      "count": 3
+    },
+    {
+      "word": "공휴일법",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "특위",
+      "count": 3
+    },
+    {
+      "word": "국회서",
+      "count": 3
+    },
+    {
+      "word": "달러",
+      "count": 2
+    },
+    {
+      "word": "대미",
+      "count": 2
+    },
+    {
+      "word": "설계",
+      "count": 2
+    },
+    {
+      "word": "최고",
+      "count": 2
+    },
+    {
+      "word": "최저",
+      "count": 2
+    },
+    {
+      "word": "없다",
+      "count": 2
+    },
+    {
+      "word": "국민",
+      "count": 2
+    },
+    {
+      "word": "국가",
+      "count": 2
+    },
+    {
+      "word": "정치",
+      "count": 2
+    },
+    {
+      "word": "국정",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "03.10",
+      "event": "2026년 3월 20일"
+    },
+    {
+      "date": "03.11",
+      "event": "'대미투자특별법' 국회 본회의 통과"
+    },
+    {
+      "date": "03.12",
+      "event": "이재명 대통령 국정 지지율 67%···TK정당 지지율 민주당 29%, 국민의힘 25%"
+    },
+    {
+      "date": "03.30",
+      "event": "5월 1일 노동절도 '빨간날'로…공휴일법 국회 법사위 통과"
+    },
+    {
+      "date": "03.31",
+      "event": "국회, 수어통역사 8명 직접고용… “정보접근권·노동권 동시 강화”"
+    }
+  ]
+}

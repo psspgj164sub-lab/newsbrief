@@ -1,0 +1,889 @@
+{
+  "region": "northAmerica",
+  "label": "북미",
+  "range": {
+    "from": "2026-11-19",
+    "to": "2026-11-25"
+  },
+  "updatedAt": "2026-11-25T05:39:41.634Z",
+  "ai": false,
+  "overview": "최근 1주 북미 관련 국내 언론 기사 275건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 경제 분야의 「\"美USTR, 이르면 이번주 '과잉생산 관세' 조사 결과 발표\"(종합)」(기사 8건)입니다.",
+  "stats": {
+    "articles": 275
+  },
+  "themes": {
+    "economy": {
+      "label": "경제",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "과잉생산",
+          "count": 19
+        },
+        {
+          "word": "한국",
+          "count": 13
+        },
+        {
+          "word": "이르면",
+          "count": 13
+        },
+        {
+          "word": "트럼프",
+          "count": 11
+        },
+        {
+          "word": "하락",
+          "count": 10
+        },
+        {
+          "word": "AI",
+          "count": 9
+        },
+        {
+          "word": "급락",
+          "count": 8
+        },
+        {
+          "word": "젠슨",
+          "count": 7
+        }
+      ],
+      "items": [
+        {
+          "title": "\"美USTR, 이르면 이번주 '과잉생산 관세' 조사 결과 발표\"(종합)",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "미국 USTR, 이르면 이번주 '과잉생산 관세'조사결과 발표",
+              "source": "포커스온경제"
+            },
+            {
+              "title": "미 USTR, 이번주 과잉생산 관세 조사결과 발표",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "美 ‘과잉생산 관세’ 결과 이르면 이번주 공개…한국도 포함됐다",
+              "source": "중앙일보"
+            }
+          ],
+          "span": "11.24~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 7,
+          "articleCount": 8,
+          "articles": [
+            {
+              "title": "미국 USTR, 이르면 이번주 '과잉생산 관세'조사결과 발표",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKTXh2a1ZMY3VaNlJkTG41Zjk1dDNJRTBSdm9JdDA0V2k4aTMyUjNtZEtMN29lamVNclgzMUxJY05IOVFsVWx0aVplTEpDTDRpV3NTOGdjd2tCTG5QNzhV?oc=5",
+              "source": "포커스온경제",
+              "publishedAt": "2026-11-24T20:57:13.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미 USTR, 이번주 과잉생산 관세 조사결과 발표",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udGxDTXVXVUwyMTRxc2lkd0lieFNfMHN6bE1KYUZnSVI2REV2WEZjTEJOWlZiWHJOc2FLRjdrYWFVN28tZlRUaWxLWnR1REM3NkJLVkpsbWM1dnIxR0ZtQzlQN2xscjA?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T20:12:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"美USTR, 이르면 이번주 '과잉생산 관세' 조사 결과 발표\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUeExaZ3B1blp3djNZdUhSa01CS1hPYUx3RlpYQjMzbEhGU0RIa0RfQ0xkaVQ2ZkRHQjZEc09ZWlFSbjlsLW16UnFsUWxZSnpnRjJpUnk3b0lPNU3SAWBBVV95cUxNN1hPQzZNMGwtT1pJTEMwUEpaaUk3OHgwWFpiRnNHb2dlRkxpU0FXSG5ScjUzcWNVTGlTSE1ENG5XSl9oYUMwMXBRdGgwZ1hqaHQ0czBNZUJBUU8tRGdTREE?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T15:08:40.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 ‘과잉생산 관세’ 결과 이르면 이번주 공개…한국도 포함됐다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82MEFkREc4clRMY3U3R0EtX0tUcWRWY2xTV0k3ZXNRMTVhaDAwc2NBQUdtcVN2amlmNlEydFg2ZXk2RW1YZE90eWNqTnF4aHFxdzJ1Z2FB?oc=5",
+              "source": "중앙일보",
+              "publishedAt": "2026-11-24T14:54:07.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "“미국 USTR, 이르면 이번주 ‘과잉생산 관세’ 조사 결과 발표”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92bUs3TmlXbHF4Q2dBaHhMQUIyOFNxN2lqWlVGcDFoa0RrWWFJV3RlbnlkbHR6TF9fWEhzQ0h0RXd4eUxxOGpHOUdQS2kzQmd3enZZMWhVY1lxdGc?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-24T14:34:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"美 USTR, 이르면 이번 주 '과잉생산 관세' 조사 결과 발표\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PUlctRHJiZ3J1MnFIUUF1bGZjQWo1OFFHblZJUndMWWczMEg3Yk84WXhUWHgtekhQS3dZYzJyeGdhajlJQUNNQzhCSzY3blR6RnpQaFN4eGc1bmVTdGtadEFPbkN4eVdCT2hGX2NzaDJZVFF10gF0QVVfeXFMTU9SVy1EcmJncnUycUhRQXVsZmNBajU4UUduVklSd0xZZzMwSDdiTzhZeFRYeC16SFBLd1ljMnJ4Z2FqOUlBQ01DOEJLNjduVHpGelBoU3h4ZzVuZVN0a1p0QU9uQ3h5V0JPaEZfY3NoMllUUXU?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-24T13:51:33.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "美 '과잉생산 관세' 이르면 오늘 발표…외신 \"韓 15% 유지 예상\"(종합2보)",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "美, 이르면 오늘 '과잉생산 관세' 발표...韓 15% 상한 예상",
+              "source": "티제이비"
+            },
+            {
+              "title": "“트럼프 행정부, 이르면 오늘 밤 과잉생산 관세 발표”···외신, 한국 ‘15% 상한선’ 유지 예상",
+              "source": "경향신문"
+            },
+            {
+              "title": "美 '과잉생산 관세' 이르면 오늘 발표‥외신 \"韓 15% 유지 예상\"",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 5,
+          "articleCount": 5,
+          "articles": [
+            {
+              "title": "美, 이르면 오늘 '과잉생산 관세' 발표...韓 15% 상한 예상",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wY2tpbUR2aUtjZ01lT1lRV0k5RDFuV1NpeUg5R3BDNEcxSUJrOGJmZGpJMlhtZC1iN08ydFd0Rk1Ld0hSWWVXT285dDNmWGtUblFHRzdtTEpTcmk3?oc=5",
+              "source": "티제이비",
+              "publishedAt": "2026-11-24T22:55:36.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "“트럼프 행정부, 이르면 오늘 밤 과잉생산 관세 발표”···외신, 한국 ‘15% 상한선’ 유지 예상",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiamo3WFREZW10cnluMmlmWDR1T0RpaFR1OUYxeEhON1JGTVFDbndrVHZubndkR2JMdXcxYVAwclFhYmFoOEVaOVJjQndJZDlyZjJkMmlMd041QdIBX0FVX3lxTFBWajl1TmRRdFMtTmFJR291cTh4T09yd3Juc3piYXkzTUdOcVVrOURaejRDNzl2cWVqWU5uUlFNUlJfT1pvbFN1NlZlTFBCSXV1Qzg1bzNqRzMzbUpMd0ZZ?oc=5",
+              "source": "경향신문",
+              "publishedAt": "2026-11-24T21:59:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 '과잉생산 관세' 이르면 오늘 발표‥외신 \"韓 15% 유지 예상\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVYzFMZEdXRW9XcUdEbklSblNIY1hPZ0pXZzhDaFQ1S0I4eExmdnVoTjlMT1kwUl80aUNPb0RwRnhiT3lYVXVSX2s0VXAtWkVLemt1Z1B1X2htUjg3bjlpTThvU1ppTS1TNTVTTWJSU0JrZ25Q0gF0QVVfeXFMT1ZFaDNQVEJSbjdIZnZnaWl2c2hlSjVfOW82QWRoeDJSWF9uNVlYZGxZSldCR3BzckdiZHhXbUlOUlZsWm8zRWg2Z2VoNnp3WkFmWXdhenBaY251SnVpM0NadHhTMFhqVGVpU3lhR2hiZ1ZiNTM?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-24T21:27:35.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 '과잉생산 관세' 이르면 오늘 발표 … 한국 15% 상한 유지 전망",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16T2pzX3JsS29oSF9FZFB4cVJiR1FuYVdoc3c3WkhKUVpQdTk3VHA4SzFnRi1IbDM3WmIwNHhVU0hoUXM2cUdmdEFuWXNYTTNvWFV0ZE9lZTBxU2lBMllfZktvZmFlZlQtUWZJYWhydmItbVJGaUdhTVZBNNIBgAFBVV95cUxQcXFkcHdKTE4tSDRzd1FZZDF6Q1p5Z09GRFg3bnZuZWFXNllBREV1cG5oWU5Fc0RNQl9WTTJNdEY4OTVFZVpyWG9RUnlFX1FuanpMUlB1eEhuSDlOM2x5Mlh0QzNrV0FSVHNiV3VPWWx6NnVEVTFZNldrZGx1Z2tCSg?oc=5",
+              "source": "뉴데일리",
+              "publishedAt": "2026-11-24T21:18:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 '과잉생산 관세' 이르면 오늘 발표…외신 \"韓 15% 유지 예상\"(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6ZmF6SndETXR1dC1WSWNpRHFhWTBJNlVNVFc2ZGVRdmc1azZsMHlwSHJfNmM3Yk9QVXA0OFZTaktLRmRRZFg5RUJTVlFhNy1KZjNQenRneFpBV1HSAWBBVV95cUxQQTc2eE54dlBBQXZWcEpYT0ZvRkZROXVmTFp5elktVjdfMHdFd2lrYnl0eHpOY0RCTEVuNHNrVnFHVFI3OERsZk9memtxdFlZeDVEeWtBMEFZbC1VZEZ0b2I?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T21:09:02.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "美 ‘과잉생산 관세’ 발표 임박…한국 ‘15% 상한’ 지켜질까, 마지막 변수는?",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "美 '과잉생산 관세' 발표 임박‥\"한국 15% 유지 전망\"",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "미 '과잉생산 관세' 발표 임박...우리 최대 변수는 '이것' [자막뉴스]",
+              "source": "YTN"
+            },
+            {
+              "title": "미국 USTR, 16개 무역 파트너 과잉생산 관세 발표 임박…한국 15% 상한 적용 전망",
+              "source": "글로벌이코노믹"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 4,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "美 '과잉생산 관세' 발표 임박‥\"한국 15% 유지 전망\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nVmJFNGdlMVotZGdHb1RhMFFVX1RRb3RQSWpXUXptTVlwSm54MzcwQkctMldqaTQwdFV2MHZNR09OdlFXYm9sUVNYZ3ZORHhObVl0ejZic25oaHhNYS01LVFDWWZwQ3dDUGRCb21qTFlVaHl20gF0QVVfeXFMTWdWYkU0Z2UxWi1kZ0dvVGEwUVVfVFFvdFBJaldRem1NWXBKbngzNzBCRy0yV2ppNDB0VXYwdk1HT052UVdib2xRU1hndk5EeE5tWXR6NmJzbmhoeE1hLTUtUUNZZnBDd0NQZEJvbWpMWVVoeXY?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-25T02:01:25.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 ‘과잉생산 관세’ 발표 임박…한국 ‘15% 상한’ 지켜질까, 마지막 변수는?",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ORFBYenhzYWFYZXQ3Tm9USWJTemFQWXk1ME9OUTM2RktDRU01NGZEWWd2Q2RHd21pMVpOc0M5clQycWVLRkFnTzZQOTdHQXJrZUE?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-24T23:47:55.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미 '과잉생산 관세' 발표 임박...우리 최대 변수는 '이것' [자막뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ObUhzalRPUFZaaUc5ckdweXJRcENUbFdpbEdCcVVTOVhGNDZROGp4UFNzMmlCOEJDR1Q1T2lzY3Y5Q2d6NXI1RDdURjV4VlcwTklONUVVcmFVLXNzd2F5RTIydzNpWFNRM2tFUFdZVFJLRFpLQVE?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-24T23:01:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미국 USTR, 16개 무역 파트너 과잉생산 관세 발표 임박…한국 15% 상한 적용 전망",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFNvQnQ0R0p1R216bjlBcGxNMmE1TXVvU0JhNlVWUzd4WWFBWXJHMS1WU0JGeHFHMGJSN0xVZlFhbFpJOThPWnpGWDFseWI4M2RManlXYjNyV2o2Um1sblViYTk5Q3ZJVFI2WXJxekVVQVBfNWhTQ19KcE43akRrc0VHUXFzV21u?oc=5",
+              "source": "글로벌이코노믹",
+              "publishedAt": "2026-11-24T21:36:13.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "뉴욕 증시, 혼조 마감...엔비디아 급등에 차익 실현",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "뉴욕증시, 엔비디아 급등 후 차익실현에 혼조…나스닥 1.5%↓",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "엔비디아 차익 실현에 뉴욕 증시 혼조 마감...엔비디아 7% 넘게 하락",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rM2VRMUlMSEo0YnZiY0hEZmtRX25aczhONHB3Q1pQVlFLbEtSb2FIWDJwRXhuWms0czgxQ2dhaWY3NWE0c25rejVlN2ZrbWRGNW5SYUc2V1RJUDRXYnc?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-24T22:07:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "뉴욕증시, 엔비디아 급등 후 차익실현에 혼조…나스닥 1.5%↓",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TUndCR3FiRW52QW1ybEVrUWFDeHJhQWlYZU9XQkZEN0tPbVkyRDhjekl5dnJyVmNWbTFjal9oYVZtX0Z3MVg1UjZ0Sjdodm14MXQyQWJCVTZYQnPSAWBBVV95cUxPd3VOTklTaGhTWktCbFcyRV9XdDEzcTR6aUlldXFrTlNRdmFONjI5Rl84ajdLcXcwOTJhczVRU2pxMlFsTDh6T3luZFFsaFZLTDdWMTdPUjcyMGRhb0RKM1M?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T21:23:58.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "뉴욕 증시, 혼조 마감...엔비디아 급등에 차익 실현",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NUko2cDlJZVNodVFmXzVReUVWRGlnbm52V2VfQ0s0bTJuWmxkdHdJTUplcmw2WlJITTRCRUQxZGU3TTR4QU95RFp5allhOUJUOVhELTN5c0IzOEdSTVE?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-24T21:43:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "캐나다중앙銀 총재 \"고유가發 2차 효과로 인플레 지속성 높아질 것\" |",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "캐나다중앙銀 총재 \"고유가發 2차 효과로 인플레 지속성 높아질 것\"",
+              "source": "KB Think"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "캐나다중앙銀 총재 \"고유가發 2차 효과로 인플레 지속성 높아질 것\" |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EZFMtUFVCakVJaE02SlJKX0ltTmNmNlVBNGFvb0I0cm83V0U1QWRjelAwb1FHWkZzekZ0VnpEalRlb192Q0ZJalVDbFlVZ3hINnRkU1kzNDJkTmpJNF90YjhfWVpwTzk3ekk5TGptVjhpZEFX?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-24T20:28:56.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "캐나다중앙銀 총재 \"고유가發 2차 효과로 인플레 지속성 높아질 것\"",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LXzF4d1dCaTc4bE10blJfQUZmZ0l3VkFtLU9iTmpuSnFYczBicXJoZjJ4aWQ0MXJ4WFhpelhwQWtnOWc2OFI4WUtEVHlRdzM0WDFKZ2tRYm1BT2toSEhrOWgwcmVraDVienpjeDdJYks5dw?oc=5",
+              "source": "KB Think",
+              "publishedAt": "2026-11-24T18:22:37.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑ |",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑",
+              "source": "KB Think"
+            }
+          ],
+          "span": "11.24~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑ |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EZE5vNzlkREJEV1hidkdrYzlKemQ5Q0Q3Q21sZmRDTlQ2OVJ6M1BzaE85aXg1YlcxNkRBWG1mNnJ6cGZvVVpodFpaTUxNci1jX0w3Y3dCX1Jyd01XdU1MRE9DWVk4TUNXTmNra2lVVFY1X1Rt?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-24T16:52:50.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WbTBrZ3VIV1YwaFlFaUNHVlpjdkFsdVBCZDhYNVNQcjZhTnV0QVlTWFZRaHliZkNlbGpHRWNmNkFGLVJmZC0wb24wREZNeXNwd29xbUVKMnpTTXlDOHo4bl9zSzNiZUlVQ200N3F0MllWdw?oc=5",
+              "source": "KB Think",
+              "publishedAt": "2026-11-24T14:48:19.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "war": {
+      "label": "전쟁·안보",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "이란",
+          "count": 32
+        },
+        {
+          "word": "우크라이나",
+          "count": 9
+        },
+        {
+          "word": "인도",
+          "count": 7
+        },
+        {
+          "word": "있다",
+          "count": 7
+        },
+        {
+          "word": "패트리어트",
+          "count": 7
+        },
+        {
+          "word": "봉쇄",
+          "count": 6
+        },
+        {
+          "word": "트럼프",
+          "count": 6
+        },
+        {
+          "word": "공격",
+          "count": 6
+        }
+      ],
+      "items": [
+        {
+          "title": "이란 \"미국의 봉쇄는 군사 침략…공격 시 혁명수비대가 답할 것\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "이란 “미국 봉쇄는 군사 침략 행위…공격시 혁명수비대가 답할 것”",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "이란 \"미국 봉쇄는 군사 침략…공격시 혁명수비대가 대응\"",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "span": "11.23",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "이란 “미국 봉쇄는 군사 침략 행위…공격시 혁명수비대가 답할 것”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KWkZpZE5xTUtlaGhaOFhza3JWTGsxLTFpQU1UT2dTbGJzcHVoZWFUb0FGNFVCTzg3WnVzZHppWGFjeGNlWGRNdmhjYlVHVFg0TTg4VFFR?oc=5",
+              "source": "헤럴드경제",
+              "publishedAt": "2026-11-23T12:56:26.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란 \"미국의 봉쇄는 군사 침략…공격 시 혁명수비대가 답할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWpteElIVGx1eUhadHBjc1R6SmZ1OWRqOTVOeXhtQVRMclZVNEZhVHJ2RFp3RlhsY3BSc1k3b3FNNWFLdTctZ3A0NTdQRHh4aXJMYUIzUUFBb3VEOHM5dEg0X3U0cEhMTUhuX3B2MUk2SnZ6aVZyRG5BSnN4NEtvVm9UbnV6dw?oc=5",
+              "source": "news.sbs.co.kr",
+              "publishedAt": "2026-11-23T09:34:44.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란 \"미국 봉쇄는 군사 침략…공격시 혁명수비대가 대응\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVamNub2lqdFo5NjdvVmhScnpkMkF3T3MybWxUVjd0clNqLXpfcFBicVcxREliOGJDWnZRaG5IQWdULVlkNFNHUjdDZnJ6SnI5RzB3VTkzNFhKRk5NQ2kwcjhjcnU5S3M?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-23T09:34:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "이란, 미사일 2발 동시 발사대 첫 공개…미국에 경고",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "미사일 두 발 동시 발사대 공개한 이란…미국에 경고 : 국제",
+              "source": "재경일보"
+            },
+            {
+              "title": "이란, 신형 미사일 발사대 첫 공개…미국에 군사력 과시",
+              "source": "신아일보"
+            }
+          ],
+          "span": "11.23",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "미사일 두 발 동시 발사대 공개한 이란…미국에 경고 : 국제",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNSUx4X0xmeG96RjdJUV9EeWRXMkJ6by1sZlpVNVhxbUVqRHVIdFdOSXIwbGNpcFNtOUo4OGViT1Q1U2paNmRxem5kdw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-23T07:52:31.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란, 미사일 2발 동시 발사대 첫 공개…미국에 경고",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sTkM1MHVDblNfdE0tY3BqNGhBM0pZWmY5UVNweEtGU05mOGFjTlhUM0JId0tRSmJQVWNwTHJ3Y1FfbW16VEJHa1hwSW8xQVlfNmx6N1JYeXBQX0cwY3R1RHdwdUs1V1VEU1Rr?oc=5",
+              "source": "BBS불교방송",
+              "publishedAt": "2026-11-23T02:04:13.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란, 신형 미사일 발사대 첫 공개…미국에 군사력 과시",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQndLdGdzQVJoREFnck1WeGc0OHNMQnJRTWhSR2xKUTYtdXYtSTRYNW52VGNQQ0twYzlXYjVFa0gxZjdiYVRvMzM5NHZyVEpmajc3SDRrNHA3alhXNnpOR1FUNnNqRW94eG5PTlNvV00?oc=5",
+              "source": "신아일보",
+              "publishedAt": "2026-11-23T01:12:04.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 인도를 연기하고 있다.",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "주요 동맹국, 우크라이나에 패트리어트 미사일 인도 계속 연기",
+              "source": "Laodong.vn"
+            }
+          ],
+          "span": "11.24~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 이전 승인을 연기하고 있다.",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnc1cllVQ0xQUE1NTTdHa1c4ZllPU0hZVnl3UEx5ejZHWDJkQkp4eVkwcmNwb0htYUEyTHlPblZnZTZSZk9vaUJBZ0FyZkpIaHJ0SlNYMzhpVFJNZlNnSTBHLUFEM3VRYlR2TFdlUjloMU9ROWg3YzFUdC1tRGMzcXBjMlFHZVRHZ0NZeWVuUTk1a0FYY2RLMk9ZM2E?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-24T18:14:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "주요 동맹국, 우크라이나에 패트리어트 미사일 인도 계속 연기",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkJ2bVpKT0prakNvMm9XNEdld3ptQlRZNmthMGJ5LUNPUExfYjUyaHhqbVNONHExQUxxcF9KOU1PN0xLcS1LNnhWR0NvVm1HZWE1eFR5NzZNWVVYRjgzaHpTYk8xQUJQaXRFZXVTZHBnaTV2RWNyaFlVc1hya05HeUZTRmFGc0Q4RlFjTHhVWndKRjBWb3BTUGRib3ZUcUprczZVSmk3WUNtaHM?oc=5",
+              "source": "Laodong.vn",
+              "publishedAt": "2026-11-24T07:50:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 인도를 연기하고 있다.",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmEzb0lPTHdwLW5lMEYzNWVaZUkxcXBrNjk0bzlOaEl3endVREMycGEyaVFuVGkzTGFMQVZjby1lNVQ0ZkNJQU1DN1JOYVhNMnVKWW4wQmxVdjFWYUJOYV9hSmZZZmYyV2JaSnZfNlFob2MtZHJOSzROOWdSSDNsb0hNWThVUmdFakE3NA?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-24T16:48:57.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미국 국방장관은 아직 우크라이나에 패트리어트 미사일을 이전하는 것을 승인하지 않았다.",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0J3SzNnbDdsc0V2U3I0SmlidHZUR01ibldOTzB4UDY5RnV2dFVNTUZFZjZiRWp1VU9iMGFKRVB1b3RWUFc3VWhBQnM0bHJaWmUyWFNIVEVqZ0ROSmRQa2l2UjBRemVLN21lZGxIYXVrbWJaY3dkWGdiUDMzVFA3dEFJY2VweEUzb1BUck1LVDNuY2pEa190enpWYm9lbXFVeTBsckFXdkY?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-24T08:37:01.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"美 승인 지연에 우크라행 패트리엇 미사일 60기 인도 차질\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "\"美국방, 패트리엇 미사일 우크라 인도 늦춰…60기 승인 지연\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "\"美 승인 지연에 우크라행 패트리엇 미사일 60기 인도 차질\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FSkR0NnRHcGxHYTdCM2pmWGsybGtIQmE3SzN5aWRnWldaaTNPV0ppem1mcGU4bWlQek5XTFJDXzhaUWNxWWlQbEN6d0pIcEZmN2d4SFM1a3dYbGpzX2NDTNIBeEFVX3lxTE4zTmRXMjRfYWVEX1ZNQWVCUjdyQ0dLcGZBeGZzWjRqdGlkU09WV2RJWUNFQTVDQTFheEpiX2dMa2UzaWtJcW96eTdXdGpFbXYtaVhlSF9TeVBiNXZERk5ncGRSaVg3VW15SW5PbzhDUlRxV3Bzc2F3cg?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-24T08:27:13.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"美국방, 패트리엇 미사일 우크라 인도 늦춰…60기 승인 지연\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tb0txSjUzZVE2TTUyZkFQLU5CbzhTZWpKd3hYcU1mMlN6VS1uaDlUek9aVGNSazBwLWdWQ0x2WTlJWktPUjZiRlQ0RzllZ3lsUDRPbXFuOG90ZzhUSVY4ONIBYEFVX3lxTE1tb0txSjUzZVE2TTUyZkFQLU5CbzhTZWpKd3hYcU1mMlN6VS1uaDlUek9aVGNSazBwLWdWQ0x2WTlJWktPUjZiRlQ0RzllZ3lsUDRPbXFuOG90ZzhUSVY4OA?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T07:06:34.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"우크라이나 패트리엇 미사일 급한데…미 국방장관이 인도 지연\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "美 국방장관, 우크라이나 패트리엇 미사일 공급 지연…60기 승인 대기",
+              "source": "M이코노미뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "\"우크라이나 패트리엇 미사일 급한데…미 국방장관이 인도 지연\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVEdGTXhGTTdsLWZCTWtGWnlfRWZZZ21yZDNuSFBvVE5uLWRQUlpyM18yamhXRkNXaUZQLURFS1FvRTZNUENHQ0V4OXFqQVgxZzA2TTVva29yTHQzTGNoY2hYeC1lWWhzZWc?oc=5",
+              "source": "SBS 뉴스",
+              "publishedAt": "2026-11-24T08:02:47.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 국방장관, 우크라이나 패트리엇 미사일 공급 지연…60기 승인 대기",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOUGQzeGl2R25yZ2hueER3a3NKaGdFSVB3WFlWS3d4aGJHa09zSUJzNzg4Tml6eXBOekh0cXBVNlFMRHh5VUdSWXB1OHZJTFN3UHhMSUZzZ3hrZnp4UEstQ201eVJydFU?oc=5",
+              "source": "M이코노미뉴스",
+              "publishedAt": "2026-11-24T07:51:42.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "이란, 美 보란 듯 신형 미사일 발사대 공개... 혁명수비대 \"적에 굴욕\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "이란 신형 미사일 발사대 공개…혁명수비대 \"적군에 굴욕 줄 것\"",
+              "source": "m.news.sbs.co.kr"
+            }
+          ],
+          "span": "11.23",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "이란, 美 보란 듯 신형 미사일 발사대 공개... 혁명수비대 \"적에 굴욕\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSVQ3Ti1TdVRZZ2FjdVFTTlktMHVUUGpiSTE4Rm1mU3M5aUdiS3M0MlJuUUw0b2lCS1N5bFBWd1NmVy1wbnIxd3d0ZUg3X3lrc0h4Q0VGa1VMVkhSN3NnQWFJczVfYWNCYlBwWlZWSjZQWUpuNnAzZmNNbnJGaHQya1lQTFk3SURTUDVkSEVrSWpIRXUzdHB3cklNeHdxQQ?oc=5",
+              "source": "조선일보",
+              "publishedAt": "2026-11-23T05:04:49.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란 신형 미사일 발사대 공개…혁명수비대 \"적군에 굴욕 줄 것\"",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzUzRkV4NC1aMno0UVJZdmNMbldIY0FXOXlKVDgwNlBGR191V1hRUWNSV3BnYjlFeFpKdDZhWGdjem1ScTdhUGNfZFFBSk55Z1FzZENrbUlrTDd2SHI4d05RR1JuQVhqZDhZSlV5YmhGTVU2Ulg1b3JYTlRabTdVeEdnSW1SdDN5dXluOEJyV3dnOEtpa21IVGdBNFVrQklWUGtlOWNDTVF3eUw5bnc?oc=5",
+              "source": "m.news.sbs.co.kr",
+              "publishedAt": "2026-11-23T00:18:10.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "politics": {
+      "label": "정치",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "트럼프",
+          "count": 64
+        },
+        {
+          "word": "젠슨",
+          "count": 31
+        },
+        {
+          "word": "복귀",
+          "count": 29
+        },
+        {
+          "word": "엔비디아",
+          "count": 19
+        },
+        {
+          "word": "젠슨황",
+          "count": 8
+        },
+        {
+          "word": "이사회",
+          "count": 7
+        },
+        {
+          "word": "반발",
+          "count": 6
+        },
+        {
+          "word": "CEO",
+          "count": 6
+        }
+      ],
+      "items": [
+        {
+          "title": "엔비디아, 젠슨 황 CEO 복귀 결정…트럼프 대통령 환영",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "엔비디아, 젠슨 황 CEO 전격 복귀 … 트럼프, ‘내가 성사시켰다’ 주장",
+              "source": "BBC"
+            },
+            {
+              "title": "트럼프 \"엔비디아, 젠슨 황 CEO 복귀는 정확하고 적절한 결정\"(상보) |",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "트럼프 대통령, 젠슨 황 엔비디아 CEO 복귀 환영…“올바르고 타당한 결정”",
+              "source": "전자신문"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 4,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "엔비디아, 젠슨 황 CEO 전격 복귀 … 트럼프, ‘내가 성사시켰다’ 주장",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fek5wZkh2cy13N2NWU2NwSi1rNE55ZU1OaU1WUHU3aTI0R3FOY1pkaURtcE1hd1lBeEVqZUdQRlV4ZGUzYzYyTTZBWjM3Tzc0dl9reWdibUFhQjUtdU1URlR1ONIBY0FVX3lxTE9fek5wZkh2cy13N2NWU2NwSi1rNE55ZU1OaU1WUHU3aTI0R3FOY1pkaURtcE1hd1lBeEVqZUdQRlV4ZGUzYzYyTTZBWjM3Tzc0dl9reWdibUFhQjUtdU1URlR1OA?oc=5",
+              "source": "BBC",
+              "publishedAt": "2026-11-24T03:33:32.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "엔비디아, 젠슨 황 CEO 복귀 결정…트럼프 대통령 환영",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XM2lCUjhuLUxaOVBxVEJjcW8ydlFxekhxYVdoa3V6cWF1VV83aG9Za0Fmd0VxcVlLWS1ONmhTcTVGSFdrc2Vrb1VQNVl0ZEc5Qm05Si03ZmtfRkZrVm1IaXhJaWNUcGvSAWpBVV95cUxPRkZVMHhMdXJYaFVFTTVVRGFqbkZxNHhaT2JvT09mVXVYRXRNb2lCRDhHaVJvZUYxRmx1dlM4RHFWTmF1VUgxM0M2S0ZOTkh2VDFGQzctZGp5SEN2Y2RFUXVveEcwNkhfb0ZR?oc=5",
+              "source": "VOA 한국어 홈페이지",
+              "publishedAt": "2026-11-23T18:20:44.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"엔비디아, 젠슨 황 CEO 복귀는 정확하고 적절한 결정\"(상보) |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hZDZCVUlIdWxBbDFYRzYyMEZNbDZwajQyOTRGaElGQ3RiZ1hMVkN5QnowMl9LMk1MS1JCTktqVkNXMklGVkxxYjR5MHlvTE8xRm5iSWdOdmt4TEZwdW5KYzRaSnUxRVNOM0hvRnNtSklHNlp0?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-23T16:27:55.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 대통령, 젠슨 황 엔비디아 CEO 복귀 환영…“올바르고 타당한 결정”",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02R0pwWXNxazF4YnpOSXBNRk9JNEJYLXBKb2w5S3ozQVZvdFNZNWZxejNIOEw2bVg0Z2RDN2JpSGo2Z0JyX0xIOF9LOGhBdw?oc=5",
+              "source": "전자신문",
+              "publishedAt": "2026-11-23T15:08:43.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프 \"젠슨 황 복귀에 내 개입 중요…엔비디아 이사회 설득\"(종합) |",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프 \"젠슨 황 복귀, 안보위험 아냐…내가 이사회 설득\"",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "트럼프 \"엔비디아 이사회, 젠슨 황 복귀 전 정부 보증 요청\"",
+              "source": "지디넷코리아"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "트럼프 \"젠슨 황 복귀, 안보위험 아냐…내가 이사회 설득\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5Qjlnc1BrVE8wOFl1alJxZ29fUS1NNU9QQy1udVROQVN2Mk9Hem0zcUN0ZDlzcGg5OThpZ3JRakdwMW1RaE5tbV96ZE90MzkyaUg1TGltYXJ2WVllSDVKcdIBYEFVX3lxTFB5Qjlnc1BrVE8wOFl1alJxZ29fUS1NNU9QQy1udVROQVN2Mk9Hem0zcUN0ZDlzcGg5OThpZ3JRakdwMW1RaE5tbV96ZE90MzkyaUg1TGltYXJ2WVllSDVKcQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-23T20:06:21.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"젠슨 황 복귀에 내 개입 중요…엔비디아 이사회 설득\"(종합) |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mUmNXSXZnYTVTdC1NU2F5Z1N0ZU5BcjVIZVR2Z2Vic0VNZHhwQk5VN2VPMVFfbzZwNENUV1V6NEdtalhUbHB4aVIyd1dDSGRvWlhYVklwVHFVRzFDM01Tc043cHdnZjJ4N3ZHcXVzcFlCT3ly?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-23T18:52:26.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"엔비디아 이사회, 젠슨 황 복귀 전 정부 보증 요청\"",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qQ21fbWtFN1lUZmhQaGhIS0ZWRjAwRm9STW9lOVQ4cVkzZVM2el96TVFEaGZYNGhHcEJJdE4xcC1WZ0sxeFJKdER0NW1YOTBnMENlNG9B?oc=5",
+              "source": "지디넷코리아",
+              "publishedAt": "2026-11-23T16:16:50.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"엔비디아 이사회와 젠슨 황 복귀 문제 직접 논의\" |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qUHdROWcwSHFvTzhCZGtwb0xkVktrcnBCN1c5QTlNNzk5WTZ6Vl91cDB1YVhZRklxUWxqUm40aWJXNTBtZG5yTWxMZkFrSkw5Q2NKc2FoQ3ZMYUhXODkxUkd3QlRYdDNhMmNPcWpBTEdxUW9w?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-23T17:52:22.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프, 추수감사절 칠면조 사면…경제·안보 성과 강조",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프, 추수감사절 맞아 칠면조 사면… \"영원히 살게 될 것\"",
+              "source": "조선일보"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "트럼프, 추수감사절 칠면조 사면…경제·안보 성과 강조",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVG9FMXZvSjhuXzJtRUJ5QTI1bDcxeXlFdVJQaFRmUWUzREdQWGp3Q0ZKUndNR1M3N2V2d2d4bVRXTUpVWk1HVjA4cFNzX0lXVnJBb3RBemNReUYteHA5eDdGSXl2X0tmQTlJag?oc=5",
+              "source": "VOA 한국어 홈페이지",
+              "publishedAt": "2026-11-24T21:00:15.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프, 추수감사절 맞아 칠면조 사면… \"영원히 살게 될 것\"",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYl9vVmNuOWVTbWlSUGhGMExBeHpCTHZuY0VpVWV6dmhVWnpQU2hQWmtESmtFRm96a1BaSzBTOTdYMHdqaWhKZlhJdXBDQXgwNFhfRTlMY1pNNFpIRWs3M2JjVFotcEJ3U1l0Tk9kYjVuZVFDUi1icVo0SUU1b0Z2UHJ1SGs?oc=5",
+              "source": "조선일보",
+              "publishedAt": "2026-11-24T20:20:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 대통령, 추수감사절 '칠면조 사면식' 주재",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zejl6S1B6Sk1UTnRzenhVN01rZzFFdVNPYXZJWWQ2OG56MHhQc19fTl9XTjZMX0s0OEpFRzNNQkxlaUZFVklic1lrUDdaOFkz0gFTQVVfeXFMTV9kSlJqUWt6WEQyeTdXcnkzWnM1a3h2ckhmYmJiaFFYY3EybGRZeHcxcGN2QlNBMVgtM0FjUjFBeU52cHB1WGRJMzVfRTNEd0lONFE?oc=5",
+              "source": "VOA 한국어 홈페이지",
+              "publishedAt": "2026-11-24T20:44:09.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프 \"젠슨 황 사면도 선택지…의회서 진실 말해야\" |",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프 \"젠슨 황 사면도 선택지…의회서 진실 말해야\"",
+              "source": "KB Think"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "트럼프 \"젠슨 황 사면도 선택지…의회서 진실 말해야\" |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtQXVGWHJ1WlhkNWx0cHpyak5ONG5TR1dRcjlNV3hmYXFfMXBNcG9kcmNmMWpvLUp1a25ObGVPbTk4R2JQSll4MHJvdzZtMHhHWTROVGJlcjg1R0VCaTNEZ2VCTkJnc1cwVW9tYng0eHRRUnQx?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-25T01:39:26.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"젠슨 황 사면도 선택지…의회서 진실 말해야\"",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRHB2MVlBQnFlTGtOUDZuWFo2Nm9sNWpYV3pockprTmRWYUNFRVQ1UVkzUU5WbHZhYXhEb1pUZTdJZXBsY0l1ODZlTE9QU05Na2FJZ3FPTExENzFmU2h5MUFQRXlTYVV5U2NVXzZvX25WZw?oc=5",
+              "source": "KB Think",
+              "publishedAt": "2026-11-24T23:31:23.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "젤렌스키, 美 민주당 의회 출범 기다리나…\"1∼2월 새접근 모색\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mdEE4aC1xZVlkeHZtY0d0TC1MT2NUdXVlcFpTZlppeXpfd2JNWDJZaWF3QXRTRXlaM01CcWVWYkNHYXppUEdrYXg5MHNDMkdwTlFtT2tLZGtGcGZZMWc?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-25T00:01:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "젤렌스키, 美 민주당 의회 출범 기다리나…\"1∼2월 새접근 모색\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cE1DSHV1WmNBX2gwR2lVTmRIQTYzNDZOdl9kX1lIc0x3RklnY1JfU1pOX25GbC1JMjJELUxJUXRSb1JENWRLYlF0UXpwcVFhci1obTJPSkF5c0RNcXB6T9IBYEFVX3lxTE40cE1DSHV1WmNBX2gwR2lVTmRIQTYzNDZOdl9kX1lIc0x3RklnY1JfU1pOX25GbC1JMjJELUxJUXRSb1JENWRLYlF0UXpwcVFhci1obTJPSkF5c0RNcXB6Tw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T23:31:58.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프, 올해 엔비디아 주식 44차례 거래…최대 7천100만 달러 보유 추정 |",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프, 올해 엔비디아 주식 44차례 거래…최대 7천100만 달러 보유 추정",
+              "source": "KB Think"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "트럼프, 올해 엔비디아 주식 44차례 거래…최대 7천100만 달러 보유 추정 |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6cjhiMHpfc242cmRLQzBtS2ctN21yT3NiUXlRdXNYblFtQmtLWEstYzhRbmY4MHZYaW9yY1k1QVhQVFVGY0drT2NveU9sUlhMRFluQk5WaHRES3NmZEJrNzZ5VWI2ai1nT2Vid01QMWxkelJB?oc=5",
+              "source": "연합인포맥스",
+              "publishedAt": "2026-11-24T22:31:26.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프, 올해 엔비디아 주식 44차례 거래…최대 7천100만 달러 보유 추정",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xS1NIbHFoeDhmQ1ZkazUyTjhGbkNqN0M5OVlwQ3lZMF9GNzZ3YjNPT25kT3NEN1JuTnJfc1dWT3BnTUlnMEYtckY0YUxiX3Bxek05LWdEa1BNR0pjazFzVkhwRTU4ZTVsdmZKQ2lsY3ZNdw?oc=5",
+              "source": "KB Think",
+              "publishedAt": "2026-11-24T22:24:26.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

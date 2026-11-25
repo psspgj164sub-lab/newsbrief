@@ -1,0 +1,414 @@
+{
+  "month": "2026-06",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:28.365Z",
+  "articleCount": 207,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-06#t0",
+      "title": "법원, 정유미 검사장 ’강등’ 인사처분 취소 판결",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 6,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "법원, 정유미 검사 ‘강등’ 인사처분 취소 판결…“자발적 사직 유도로 보여”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQY19vRjFnOG83UUs1cUxoa08yZ2c3WjJ5NjBJZWlNM3pLQnhOUEFsR09Ndk5RYmxtQTVHWHFZS1VGU3p6R2plOEpGOXpJUDd5V0Z5NzlyT253QdIBX0FVX3lxTE9nd0tTa0VJeEFVZDZwOGl4NUJ0TU13MktYNWkzUThKRmlIOElmVWRoM0NHem9hdTZ2b2RVdks2aG1qUUdkaUJyb2xzNjJON1pBeWtOYVltN3ljT1VtNzJ3?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-06-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원, 정유미 검사장 ’강등’ 인사처분 취소 판결",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oQU5tS2VZbTAxS2VKSkEzNV8zWEFVT1hjUVIwNjdoOERReGl6c3habnR3U1FmTDctbTctSzJyX2NUSkZDNWg1SkJOM2F4VDJBc2FFQm55WFlLeER1ckpsaS0ydlZwdG8?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-06-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 “정유미 검사장 ‘사실상 강등’ 인사는 위법... 취소해야”",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORlZhaHBJcG12S0JFZTBWcUR3OXZ4dWlOMi02Y25oZ2xzQ2hFelpZRExiVzd4aFdoUEtYSnZ2M200RlhiSGt0SWV6RGkzS05QLUVGYm40bXdDS3RwWU9PWnp0dklCeHhaVjNDS1RvTVZ6VEJ5R2pIcE9HRzZlMHhzY3JMNkhmTVk?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-06-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-06#t1",
+      "title": "대전 한화에어로스페이스 폭발 사고...원인은?",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "한화에어로스페이스 폭발사고 현장 합동감식 착수···원인 규명은 시간 걸릴 듯",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSZC1QV3JKMllHMXVaMFpxTU5nanRGUm84bGVkUXFqcEV0UHdpcEhJcUxGelp5M2NneVFHYUl3MElBQzhkZU5FclFqV21lRmlIMVhSYkVvbzI0d9IBX0FVX3lxTE1pd29Qck9hZEF3TFMtcHl2b0I0U25VU2k2WnBwZVI4YWowNERLS05PZEU2MWFueno3a1FqREFzRDFnY0lzRkx2NG13RUZYaWV6X01KOXRwc28tRkhFcmR3?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-06-02T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대전 한화에어로스페이스 폭발 사고...사상자 발생",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Qb1JfRVlva3JpRzdxbWhMamVCdWFrN043MW1kc0oxemwtZmMwaUNLN0hOWlB0ZDRINVZZZW5hUVlWY1ZDZ1BXbXVkWnpLeGJMazRlUnhGQXItcnVx0gFiQVVfeXFMUEU5QjNRaXU1ZVB4d05MT0w4bTB1SVVlZFlhU09CU3ByVW1aU2U2UDlvWnNDOVB3dWI0THRQdU1qZnlLbHZNTmhUeFZoX0FObzRFWXpNNFFYSFVWNUNPS0t0Q3c?oc=5",
+          "source": "BBC",
+          "publishedAt": "2026-06-01T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대전 한화에어로스페이스 폭발사고…4명 사망·2명 중상(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xUGxSSkxCZXBoWWVha2ljQmYzYXZBUXJYWTRRNk55TjV6NXNYa3hwb3B5TGdHTmZUazZiNndWZFlGeldyLWVBMERCeDdBSHNoWEh4NmJWR3AwNGPSAWBBVV95cUxNTXhtUjl6SjA4aWoxenp3OW5SbzFtZW1zVEx0MXJndy0zempzSVpGZU5QU1hJUkNuQjRQWHhkSXRtb3FPbDNNUDIyd1dNMHU0Vk1wRmlDbzlXcXA4SGlHeHU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-06-01T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-06#t2",
+      "title": "\"당신이 이겼습니다\"…지적장애인 배려 담긴 '쉬운' 판결문",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "“당신이 소송에서 이겼습니다”...지적장애인 위한 ‘쉬운 판결문’ 쓴 법원",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHR0YTZraEw0SmFSUFZfVWJGeUUydldYQ3pvR0JyR1pYYWtpNHNTVXhlT1lJXzBSMm9XdWFYWDJCQ2dYRXhmWk5uMDVIWTBSR3R3dEFzSzVva2tXbHM2TVo3ekJSdUtReEVWYmxuUTNaVUhIYnZQWWZNNDFqMjBRUmUtUzh3LXc?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-06-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"당신이 이겼습니다\"…지적장애인 배려 담긴 '쉬운' 판결문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VbzlvZkdzMnBMejJ5WVl4emNRUWdIQ242WVhocFdNdUpqZ1pYUmpEcGEwSVdqNWlCNWI1cEdsZTNLZG1qamNzZS1qN3RPTGQ3cEFPdl92YlZCX3PSAWBBVV95cUxNOEpCYzlVUTBlLWhRX2p4NHlnd2dmeFl3OUN0VFVjaDQ5amppRFFSR1VvbUUzQzEzclVpZy0wNGFKZE41cmE5R1ZBNUJoZ0JlTXZNVWR5bWNnN1hWNEFnQzQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-06-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"당신이 이겼습니다\"...법원, 지적장애인에 '그림 판결문'으로 재판 결과 알렸다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2dEluR3FiZjZscTRCMWtaVmhjNjBxTEVmUUN2RnZKSDBtYVNfZ2FMMkU5NDRqZjlvNHY3TEdsc0FVQWYyZnphMkJWRGtLcm43ejMxeERNYXIzckY2Z2FkMFhqRXVUSm1aZ29XNURR0gFzQVVfeXFMTk93RDA0U1d2WXhuWnFKYWhMcXNsM1ViZjh0d2Zrb3ZBRXdVdmJCN0JwdnQ0Y3hGY1ZjNS1DcW9kRml4S0o2TU4xa0Zlbmt2WDYxWWJqUFpWRDdtSlhkNC1JYTdyNHFfR2xtMll0N2NiX2Y0SQ?oc=5",
+          "source": "한국일보",
+          "publishedAt": "2026-06-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-06#t3",
+      "title": "법무부, ‘대장동 항소 포기 비판’ 정유미 검사 인사 취소 판결에 항소",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "법무부, 정유미 검사장 강등 취소 1심 판결에 항소",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ya18wd2pQemhvMF9HR1VWWVVUTjF2bUtrbmhOd0UxQl9hZmtXcW1NNlR5SVdjXzU1ME12QnFUOXZJUW03TEFvanBFY24zR3JLaGtzZEFJczNYWXJOdkZHV25CbTd4MGVlSzR4WEVR0gFyQVVfeXFMTkVMSFVCY1RoRGl2STlqUFZEZEVWR2MwT3VQRWo0LTJKSFRwaXU2aWQ2cmMzTmlLZnlkN3pfVXVVMjI0eGkxejJQbm1POVJtX0ZlOHJuYk5wUzNXUk56SDJyZW41VlJwZ2R3VDBmZ25rM1dR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-06-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법무부, ‘대장동 항소 포기 비판’ 정유미 검사 인사 취소 판결에 항소",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PeHZOekdXQlViSy1MYXdKSG0xSFFXdnMyNnlFbGtLM1dVcGV4LVlreFlqSjZUX0M0dXRrRlZpeEtrbk1zRGEtSi04QlI0VXJlb08wZldnckw4Z9IBX0FVX3lxTFBFb0dZeEl2cnpWREN5aGUwSUlSQjBXeWpGVFN2cnlUdjNtaVdwUTdRbzJOMG9Vak9NSkFtM1kzWEV3TzlBY2c2NVBaVEMyU05jeGlBYkg4dUt5bVZ0bERv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-06-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'대장동 항소포기 반발' 정유미 좌천 취소 판결…\"인사재량 남용\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xa1FaNG9JSld4eExpV1M0S3ZpUzZ6TG1UMXpVcFpocEM4ZTR6NjFGME9WNE9LcHQ1d1FIakI5bUZaMW9tQ3RCRHl2ZTNKOV9nVDZiak0wS0J0RUHSAWBBVV95cUxOSEotVzVsamllR1BaTkh5elE3ZFRQYm1ZRUNwa0Y0enlrRGFrV0p4RFlHdFhmLXhQbUVPNTJCU08yd0xoUXpMTjJRNXh4VXB0c0dWRkJBQmhYYUtVZFhiUzQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-06-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-06#t4",
+      "title": "법원 \"'쯔양 돈 갈취' 변호사, 총 7천310만원 배상하라\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원 \"'쯔양 돈 갈취' 변호사, 총 7천310만원 배상하라\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hNG5GU013ZWFnelRpQ25ZNXRJYlZMQUVCbG5OR0pCVzdIYnczb0VLSEJkUDBucll2ZTdfRjhtb3lNYmFaOTFmMnlfMVdrcGxQU04yNFZXZWRqMDQ?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-06-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원,쯔양 개인정보 유출·공갈 변호사 ‘7310만원 배상’ 승소 판결",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhbEVneE90MmNiVU1kOWpPVjRCT0NxdXZ2SHBWb0FINl9pb1BtakVLanNJVXZobVdrTE1INjlRNlpaZ0dKS05yV3d4d3FxUFQ2bWowUDdRLUpOc2R4Rmx3R0dYaFQ4WG5iMHlz?oc=5",
+          "source": "뉴스데일리",
+          "publishedAt": "2026-06-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-06#t5",
+      "title": "전국 공장·창고 19만 동 화재안전 실태조사",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "전국 공장·창고 19만 동 화재안전 실태조사",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ba3NFWkJCWTBYSUxXTjBsXzJ3LTUxNTN3WVROUUFGVjYxaFQ4eDhEN0xTclVXMWlPbk15cWFvVVNUTlFhcmQ3YmtnVmFNeHVIUURKTU5nUzN6bEpPMEQydFNhd0VsYUpnWXpLUw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-06-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "잇따른 대형사고에…정부, 공장·창고 19만동 화재안전 조사",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ib1lwVmRMS0VQMUlPSHRjQTNFMGdIVXR6a2RJVjBKOUtQeUhCNmswZDBFLWc4MGplODlmY3ViZm9PbW1JUkN0cUNkOGJ3XzRuTmFjZnVwanJaN3PSAWBBVV95cUxNWkh2SmxiLWVMTU5Xb0g3aXVUWXhnVWtuNTBWQ05OT0QzSEFVUWU5Mkg5dGpKQ19uamg0QXRNSzBCaHlJOXJlVXRqcG9DblI1ZVp2RHpkMUE4eWFoUXpyenM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-06-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-06#t6",
+      "title": "SK하이닉스 청주공장 11일만 또 화재…합동감식 진행",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "SK하이닉스 청주공장 11일만 또 화재…합동감식 진행",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UdmM2MVFncnp3NDJmbnhKQ2huR1FVcmdvUVJObUk0YWVmbnVUY0g4R1hHa3VGbERaN0NUcXA1QXppRVVndWF3TmZ0S25Jc1d5Q00yN0hwVGJ6T2U4QmJNSkdIOEtKOEE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-06-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "SK하이닉스 청주공장 가스룸서 또 화재…1명 부상·4천명 대피(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3eFRtVUZUUGVicW54ZWt0dGxHUVQ4Ul9SNXpOTTJFQUd6eEFIbkZuNU9iRVljbE9CRW5tYXpWU3NVMXlHN2FrU1pDTWp4ZnRQUlJtSmtMSHlTWDDSAWBBVV95cUxQY0V1TEZ4ZVBhTmpfY291eXVNcENZLTRIMVNObkhKbEV0cVNTQmJGVkkwQ1QwZ09fS1ZNTnpKQmdBSWszU05sVFByUndVUGhnenYwTlZQRl9VNEdQeVUxbmE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-06-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-06#t7",
+      "title": "트럼프 ‘10% 글로벌 관세’ 7월까지 유지···미 항소법원, 집행 정지 기간 연장",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "트럼프 ‘10% 글로벌 관세’ 7월까지 유지···미 항소법원, 집행 정지 기간 연장",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UanZjbTRhMUZESVdHQUQ5RXdGa3dmOFd5LWhSSFBZZENXRWV1cTNvVHNVSGFiS1VSUDdIbkx3UTNpREhqdWxicEdKYUdXckhOQm5wa0d6YnIxUdIBX0FVX3lxTE82Wlg5OTV2dU5Cb2ROdVdmaDc3cGd0VjBSWGJtN3NpUERqYUZHUE5zOHpGaUdlUFZLM1BqS0IzRnlFQ1hLNlE1Y3VBRzlEcXN6TWp5Sy1RV2NFNXFjWkNv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-06-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美항소법원, 트럼프 ‘글로벌관세 10%’ 효력 유지…7월까지 부과 가능",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vc05uMEFnS29RRnJJZ3M4ZGhaWnMzS003QzNpdGRla1ljYXpCNTVjcWFueVhxUzdSSllLb1dCNFU2NHBNRFJodDFXWmpHdEhNZkNHX05n?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-06-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "판결문",
+      "count": 13
+    },
+    {
+      "word": "정유미",
+      "count": 10
+    },
+    {
+      "word": "사망",
+      "count": 9
+    },
+    {
+      "word": "취소",
+      "count": 9
+    },
+    {
+      "word": "한화에어",
+      "count": 8
+    },
+    {
+      "word": "강등",
+      "count": 8
+    },
+    {
+      "word": "폭발",
+      "count": 7
+    },
+    {
+      "word": "아냐",
+      "count": 7
+    },
+    {
+      "word": "대전",
+      "count": 6
+    },
+    {
+      "word": "폭발사고",
+      "count": 6
+    },
+    {
+      "word": "수사",
+      "count": 6
+    },
+    {
+      "word": "검사장",
+      "count": 6
+    },
+    {
+      "word": "AI",
+      "count": 6
+    },
+    {
+      "word": "공장",
+      "count": 5
+    },
+    {
+      "word": "배상",
+      "count": 5
+    },
+    {
+      "word": "부상",
+      "count": 5
+    },
+    {
+      "word": "책임",
+      "count": 5
+    },
+    {
+      "word": "인사",
+      "count": 5
+    },
+    {
+      "word": "이겼습니다",
+      "count": 5
+    },
+    {
+      "word": "지적장애인",
+      "count": 5
+    },
+    {
+      "word": "반복",
+      "count": 4
+    },
+    {
+      "word": "한화에어로스페이스",
+      "count": 4
+    },
+    {
+      "word": "발생",
+      "count": 4
+    },
+    {
+      "word": "개인정보",
+      "count": 4
+    },
+    {
+      "word": "유출",
+      "count": 4
+    },
+    {
+      "word": "피해",
+      "count": 4
+    },
+    {
+      "word": "인명피해",
+      "count": 4
+    },
+    {
+      "word": "원인",
+      "count": 4
+    },
+    {
+      "word": "교통사고",
+      "count": 4
+    },
+    {
+      "word": "공개",
+      "count": 4
+    },
+    {
+      "word": "무기계약직",
+      "count": 4
+    },
+    {
+      "word": "쉬운",
+      "count": 4
+    },
+    {
+      "word": "소송",
+      "count": 4
+    },
+    {
+      "word": "그림",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "대장동",
+      "count": 4
+    },
+    {
+      "word": "확인",
+      "count": 3
+    },
+    {
+      "word": "매년",
+      "count": 3
+    },
+    {
+      "word": "종로소방서",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "06.10",
+      "event": "법원, 정유미 검사장 ’강등’ 인사처분 취소 판결"
+    },
+    {
+      "date": "06.11",
+      "event": "법무부, ‘대장동 항소 포기 비판’ 정유미 검사 인사 취소 판결에 항소"
+    },
+    {
+      "date": "06.12",
+      "event": "전국 공장·창고 19만 동 화재안전 실태조사"
+    },
+    {
+      "date": "06.21",
+      "event": "법원 \"'쯔양 돈 갈취' 변호사, 총 7천310만원 배상하라\""
+    },
+    {
+      "date": "06.29",
+      "event": "\"당신이 이겼습니다\"…지적장애인 배려 담긴 '쉬운' 판결문"
+    }
+  ]
+}

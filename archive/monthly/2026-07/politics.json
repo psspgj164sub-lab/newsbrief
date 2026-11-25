@@ -1,0 +1,372 @@
+{
+  "month": "2026-07",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:20.396Z",
+  "articleCount": 132,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-07#t0",
+      "title": "조정식 국회의장 “현직 대통령 연임 개헌, 국민 선택”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "조정식 국회의장 “현직 대통령 연임 개헌, 국민 선택”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tRTM3Uk9VWnQ5U0pKbnRBMlhRamNhRTNKVzBsejhzcFNsSndtQjZEdkpPMXVmWW9xaUdtV3pwYnVGcVYxWHo3SWtZZXI1UG9MS3Nmc1l0V2pIM0tQUVZGbDBRNGtFNzdDX0lVTm5IVGZuT2tL?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-07-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"대통령 연임 개헌, 국민의 선택\"‥\"드디어 속내\"",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vRXo3LVNMSW9VRUpNMjFvM0RkN2pGNElINDJJQV96V3o1SUFNcXh5SHBJOW1BZ0tHNktEVVpINzI2ekQzbjRzY0Qzc1hacHE3ejlSQjFKUTVBcHdLZ1ZCSVREQ1ROa1pJYzd5UDBrQnY1MzhpTVUtRlFn0gF6QVVfeXFMUEFpWDB2NTJMNURMSVBpdUtkSHBoUExJOGFmTHBOTExfNWNqVDZfcmVIRUEybkowandqVGhjemc2SW9iNXU2Zmh6SlUyeGlHUXNIOW1GTTE5R1NCYnppb1NPeHY0Tjg0TzVVY2dROVdGdUlBYjRCdmxfSWc?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-07-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "조정식 “현직 대통령 ‘연임 개헌’, 국민 선택 문제”…야 “검은 속내 드러나”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzUnFJSE54c0xBNVEwQ2xXQzZ0YVV3bnRXMlRMSVA4dWFYOEkwc2x2aDBpakcxTVhabnRaUXBUOG4zS3lJYWRINVZwMkk5QV9HQ0lkOEg3UGM5SlU?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-07-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t1",
+      "title": "종합특검, '양평고속도로 의혹' 원희룡 압수수색",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "종합특검, '양평고속도로 의혹' 원희룡 전 장관 내달 6일 재소환",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZZ1NmdWtwcEdNUDZLaTBVdEQ0VnFaNmxMMUNKb1kwUGVzTFNRc2RXWXNxeC1xUUNLbmQ0aXNWUjRBUUJfb2FzLUIzSkRld2RRZXluZFVvZXJXZFhZc1BacmdNVmdoRTFJQy1PMktXN09mOHM0QzFr0gF3QVVfeXFMTzQzMnh0WW5IdHlpZGhaa0xXb3hpeVNJODRfVllEcW00ZThLVmNNcEdwN3E4UmV6RzRWRGFUX1NGNDFGVVIwcjBLLTdzd05hV0JoQ1QyanozZm1ZT3pWZUdBUXAzdnptb2tTTDkxZ2o4VlZEQ1Y1MUE?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-07-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "종합특검, '양평고속도로 의혹' 원희룡 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRG5SYjYxaEFMTHlTMnE0MmE2dndpakQwY1NPWmFIWEdBYzBBZ2tNeUIwYmswRmI5QTg1ZGJBN21GaV9mNXFMVXltYmRKSzNfTjJkZUdSbDdON3k2TmhHc0U3Mkpsd1B2dTg2YmJlRQ?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-07-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "종합특검, '양평고속도로 의혹' 원희룡 전 국토부 장관 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TlR5YXR2SG9QNnVkYUxZRW9UbzJ2R05jNFZDUlBmcnhyRVNGUzNQc19FQ2RFcjNGS2J2YkFuYlZYMUROVFBmNmczdUxIaFZIaDdiZExhZkJhU3hFWEMtd1U4LVZWdU5oR2dSU0gwNHAwNWlzZmlJ0gF3QVVfeXFMTm41eWpVakJqRUNsQ0Y5ZFkySFhSR2o3RzJicDNpMGtyckxGaEdlemtfZmhON2hlX0xUS0pCS0t3TWw0M3VYNU5NNEQtTElvOXE3U1VpcUNsOTFQelllZXdMU3A3YmtDRVVmOTJoZDZQb1d6VDNaRjA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-07-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t2",
+      "title": "여야, 선관위 특검 ‘국민추천위’ 구성 합의…7월 임시국회서 처리",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "여야, 선관위 특검 ‘국민추천위’ 구성 합의…7월 임시국회서 처리",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45YzVWRkxsb3hZZWxEV1RIejFpbWdXc01hZDhaWVBfdUl6dVYtbFhNX0lCUzF5ejdMX2h1aEZldnVYVXpLSDk5RllKRzBxdjU0dWZVaTBvclhQeFhvWHNjUmE3R0dneTAzU2NjaXBQYzM5RGVE?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-07-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "여야, ‘선관위 특검’ 합의…“‘국민추천위원회’ 구성해 특검 추천”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oQnc0b2FqZV9KZEg2VkVGM2l0Q2xDQ3dTZXExNDdjS1VoX1pYVjlfSk9XOTRoSzMxbVgwM2QzcGo2Uk9uZVJjT3BOWjFRZzBCb05nRi1mTzJaT0U?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-07-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t3",
+      "title": "국힘, 선관위 특검 ‘제3자 추천안’ 거부…“야당 추천·수사 범위 무제한”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국힘, 선관위 특검 ‘제3자 추천안’ 거부…“야당 추천·수사 범위 무제한”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OVmIwcC1wQXc0SHByV3pKZUxjaGRPZjcydGptTUFQZ1B2RFo4eGlSTWlhSlE3QlM4U193Y2Q0OFRMOEQzRkE0ZG41b0pUTHQ2MEFaVm80c3JlNk5idm15eHlVUnhYVnZ3X3E4c3RSQ2VCRE4w?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-07-06T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국힘, 선관위 특검 제3자 추천안 반대…\"야당 추천해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jOFZjNVk2WlJBVTB2STAwXzhxelNaenAzcVdpMEtSa0pHMDlHaS1ya1lzUXgwVVhUbXVfUWlQN2ZKRFAwZ0tWSVlQSGVMb0x2SjQ3ZXdQOE9fLVFTZkZYeDlMWjd5cUU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-07-05T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t4",
+      "title": "국회",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "국회",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90Q0ZUNTVHTGRNc2Z4ekVBS2FKMEowcTU2ZXBMcC0zaGdRaXcyRS13ZnJfb05YS3FmUWRaNW1rWFNPSWxLMExpOEZvRUc0Y1A1aDVrcmdGZDhvMnPSAWBBVV95cUxQT2kxb1BtNGRRaTF4WjVJZnZ6cXpJLTV5azMwYm1NbnJoaDNCUll1dlBfNHJZWF9fQVBOWnBBM1FlLXcxNVNwbzdXaEk1Z2xWdDM3R0lDUmhtSkpkM0Q3ajk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t5",
+      "title": "청와대, '보완수사권 폐지' 형소법 국회 통과에 \"국회 최종 판단 존중\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "청와대, '보완수사권 폐지' 형소법 국회 통과에 \"국회 최종 판단 존중\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aZGN0YnBOYklOZ0k0S3l1Y1FBQ3RXakR6b05lS0E3SHdEXzVPOTZpZFdza0hpNTJnMXJ0czBrMTZmNDJlQUVwX0psX0c2X3l2R2FtN2I2NkJod1JaU1doUVNaeG9wY0IxcXdMQzAzblBrY1pNNkVEX9IBeEFVX3lxTE1nTFRFZkowS2FvWHJOVlZQeW1RT3Rtc1FyTzVuOW5zbHBmREJyTGZkZGJNbnFUSjR0TlJjLWFrc1hOelVhalY2bU1jd3NMTUhFZm1fbXFlTnZpRTdUTk1iUTdEcXJwdEZaZU1XMncxc2hVQ19zZ2Jfdg?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t6",
+      "title": "’보완수사권 폐지’ 국회 통과…72년만 사법체계 전환",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "’보완수사권 폐지’ 국회 통과…72년만 사법체계 전환",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yZjRXcUstWnE4Q3h0WEVibWRkQVgwX05RalBQbTdKX09VaUJnSGNVLUJFZXVmSmE1LUVXTDcxWHhGY1JrR1BBTVAwNEN6Z3NzRndwWVdPRlF5YWNEX0pkV21qU3AtWVU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t7",
+      "title": "'檢보완수사권 완전 폐지' 법안, 국회 본회의 與주도 통과",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'檢보완수사권 완전 폐지' 법안, 국회 본회의 與주도 통과",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vSm9HZENjRmxPMDYzOV9aNmtXMTQ4enVQSE1qZDg0QUwyOTMzaWp4QWZPQUpxV1JZazhwYmVSSGdQMkFqYWhiQ3k2NW5SQ1hxMVZ1LVhBRV9SRTTSAWBBVV95cUxNVEdsVEI0Y0hPUjU3a0lwRjlGQ1duTEJrYzd5Tkg4UXMydTdFcEFsNXF3Zlp3TFFXdVJPbDlHMmZTYm16TFhrdk53SldYbjM4cTRQalhFeHlXeDdnbXR4QW8?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 19
+    },
+    {
+      "word": "종합특검",
+      "count": 17
+    },
+    {
+      "word": "연임",
+      "count": 10
+    },
+    {
+      "word": "통과",
+      "count": 9
+    },
+    {
+      "word": "의혹",
+      "count": 9
+    },
+    {
+      "word": "국힘",
+      "count": 8
+    },
+    {
+      "word": "선관위",
+      "count": 7
+    },
+    {
+      "word": "수사",
+      "count": 7
+    },
+    {
+      "word": "김건희",
+      "count": 7
+    },
+    {
+      "word": "국회의장",
+      "count": 6
+    },
+    {
+      "word": "국민",
+      "count": 6
+    },
+    {
+      "word": "보완수사권",
+      "count": 6
+    },
+    {
+      "word": "대상",
+      "count": 5
+    },
+    {
+      "word": "부정선거",
+      "count": 5
+    },
+    {
+      "word": "출석",
+      "count": 5
+    },
+    {
+      "word": "폐지",
+      "count": 5
+    },
+    {
+      "word": "현직",
+      "count": 5
+    },
+    {
+      "word": "원희룡",
+      "count": 5
+    },
+    {
+      "word": "소환",
+      "count": 5
+    },
+    {
+      "word": "장동혁",
+      "count": 4
+    },
+    {
+      "word": "조사",
+      "count": 4
+    },
+    {
+      "word": "관저",
+      "count": 4
+    },
+    {
+      "word": "감사",
+      "count": 4
+    },
+    {
+      "word": "대표",
+      "count": 4
+    },
+    {
+      "word": "구속영장",
+      "count": 4
+    },
+    {
+      "word": "양평고속도로",
+      "count": 4
+    },
+    {
+      "word": "몽골",
+      "count": 3
+    },
+    {
+      "word": "후반기",
+      "count": 3
+    },
+    {
+      "word": "선출",
+      "count": 3
+    },
+    {
+      "word": "반쪽",
+      "count": 3
+    },
+    {
+      "word": "당원",
+      "count": 3
+    },
+    {
+      "word": "유병호",
+      "count": 3
+    },
+    {
+      "word": "구속",
+      "count": 3
+    },
+    {
+      "word": "충돌",
+      "count": 3
+    },
+    {
+      "word": "김민석",
+      "count": 3
+    },
+    {
+      "word": "여야",
+      "count": 3
+    },
+    {
+      "word": "합의",
+      "count": 3
+    },
+    {
+      "word": "국민의힘",
+      "count": 3
+    },
+    {
+      "word": "민주당",
+      "count": 3
+    },
+    {
+      "word": "연장",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "07.02",
+      "event": "종합특검, '양평고속도로 의혹' 원희룡 압수수색"
+    },
+    {
+      "date": "07.05",
+      "event": "국힘, 선관위 특검 ‘제3자 추천안’ 거부…“야당 추천·수사 범위 무제한”"
+    },
+    {
+      "date": "07.21",
+      "event": "여야, 선관위 특검 ‘국민추천위’ 구성 합의…7월 임시국회서 처리"
+    },
+    {
+      "date": "07.29",
+      "event": "조정식 국회의장 “현직 대통령 연임 개헌, 국민 선택”"
+    },
+    {
+      "date": "07.31",
+      "event": "국회"
+    }
+  ]
+}

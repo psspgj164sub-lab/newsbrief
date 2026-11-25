@@ -1,0 +1,400 @@
+{
+  "month": "2025-02",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:17.537Z",
+  "articleCount": 220,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-02#t0",
+      "title": "탄핵 심판 마지막 변론…윤 대통령 최후 진술",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 6,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "윤석열 대통령 탄핵심판 국회 정청래 소추위원 최종의견",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TUlRFdHJjTnZxLXlRWEpRaXQzWDFDYzlxUjlrckRwR2FiRmxLdnJDc1o1XzBtelhYZUNmb1lOandMckdYQVdVSkF5UFgzSEI2eERtQnhfc3UyOVBlZFBHY1A1UFlPZmc?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-02-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "윤석열 대통령 헌재 탄핵심판 최후 진술",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pdHpaOEZNY1FPRmRxODJtMDNfLUM1RTVkMnNWbWVYNHFVeElZWFBPY1pvall4TGJNbWg0Y3RyNHNNYVEwTUZGelA3em10dC11S2Q1Y0ZLcU9pZ9IBX0FVX3lxTE9jTUlYb1l4eUhlSU5TVDdzS1h3WjVuM3kxRXNMdHByWnJuV1RJRXBhaC1xNkxMcnI4dFhFdllGUTZORldsdUZrMUtXcGpnVnd2VEFXMDc2TGRlejlXTUVZ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-02-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "윤 대통령 탄핵심판 최종 변론...무제한 최후 진술 주목",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YRHFzcFRlUjU2eW02WTBrU245TFAzRTJMRWhLcWJGMnQwYnY4c0RCLW80ckdfQjZaTVF1dGlnOV9RRGlxN1RnRDk4V0xyMnRCTC1TU0RBcHpjUFN2enc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-02-25T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t1",
+      "title": "헌재, 탄핵심판 25일 최종변론...‘윤석열 파면’ 3월 중순 결정",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "윤석열 탄핵심판 25일 최종변론…3월 초중순 선고 나올 듯",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aUjZUVGwwdlNIME1RcElrcTUxelVtTHU2X3BTeWVXZWktMjZjX0g1QjFmVTExX2FFSmMwZENWa2tESlhOcHJGWVN1eGRTQmN0OGVzeFNNTFE5Vm1LdTl6dTBTY1daR2Q2ZmtzYUdyZWpTUQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-02-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "헌재, 대통령 탄핵심판 2월25일 최종변론···‘윤석열 운명’ 3월 중순 결정될 듯",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbUhucExwUHM3YjZoaTUyZHVTZGZ0T3FJQ01kUmVhME5lMkxoM3M0SGN2YkNKTzljS24xaHZDTlRwdnYtUmxqT09kUWFnSzZfRFk4VGV4LU11Z9IBX0FVX3lxTE5FWmVNYkZzZ2lMUk5xRUhDYVVxRk1UVHlUVzg4RkR6V2VXS1A2c09ZQVZRbms5dVBqQUdwbzhid3RheDhRdG42d1RqaFlOSDdYV1pYLXZQNG1PWU9oYjJF?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-02-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "헌재, 탄핵심판 25일 최종변론...‘윤석열 파면’ 3월 중순 결정",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNR2QyRE1TUHBZaVpLMHVfTWpGVmhpN3ppX0tHMHJpTjFKRVB2OTJOalRGV1BwWG1sV1VZZUhTQTRVY1htNDRlTnJqanIxOEc3amJkd2NyeS03d9IBX0FVX3lxTE9xTjNobmIyMGktM0RHTW8tNXhhRi1yUHRWaUxzUjJoQnpyWmdGZHhtRHMyVzBzOWhPNFRzZGtoYlpUY1ZTTEd2Q2RlZzhRYnI5Y0NVRFowS0tJY1ZNeldj?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-02-20T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t2",
+      "title": "여당 실세 국회의원 아들, 주택가에서 마약 찾다 적발",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "여당 실세 국회의원 아들, 주택가에서 마약 찾다 적발",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VSmNFNTRhbExzTTFsZmtLNEZTRlNqVm12OVBLZk5RRkpRbnVDQS1ZTklySV9udGs5Tks3eW9pUWNZR1k0WDNaMk52aEZZUlhLLS1QMGxYOHBFMFB6Snc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "여당 국회의원 아들, 서울 강남 주택가서 ’던지기’ 마약 찾다 적발",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1USEl4bjA3Y21CX3VMbmUyMWREV3BXUzRwSmpWaklHdExDWGZWaXNjYnRFUVBvclBKYnJGSWVtY1FUTHo4dzhoVEV2WmhwMGR5cXRpcXNfY3pDN2NPQjdmUHJ1VDVYcTQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t3",
+      "title": "윤 대통령 탄핵심판 주요 일지",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "윤 대통령 탄핵심판 주요 일지",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hQWlwc21RTy1iVlo2ME1BQkhmYnFHYXNjc1RDS1IwX2Z6Y3lfNjdJMWhReUtyeFNqZWlsSU9JbkoyOG5MZE9KaktBZDh0Q1pmT0pXcmlJRTAyTGfSAWBBVV95cUxQdzF6R0pWUm5sUENucHJPc3U5Z1ZLa09kdExnQXRLMGVkdDdfYU41VWY4d05VNnd2aTd2WTNDM1BrbnZvRjVCclpWOGVac01KUWwzUjJlRDg3QWhzV1htems?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-02-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "윤 대통령 탄핵심판 5차 변론기일 시작",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQ0lMYnJ5X3pwOFhHQzlpcE5sVmg3RXNlNENDYzI5VERHbTNHNEd4MEZmZzQ5QUhfLWRBQlFXbkhzd1owbmJHRHN2Z3F0ZkMxZ1FxOWN5T181d9IBX0FVX3lxTE5GTHJQdnc0LWw5emQxSEQ3TVhTVGFHb1MxSTNqb2RqbXVwZEdkTHpTdVlyejFnaVlZby1BNTFTM19ObjllWlVrRVZEMV9iRl9JTFVxNmF0TW9zTUw4V3ZR?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-02-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t4",
+      "title": "707단장 \"국회 단전, 尹 지시 아냐\"…회유 논란도",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "707단장 \"국회 단전, 尹 지시 아냐\"…회유 논란도",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41WDJZYV9jNm4xR1dldGpTRGctV00zQVlDVnJDOGhBLXdrdkkwVGYyaHpqemM1WkZrTjlXcWs4ZnRUREtoeWMwZVp4dHNGZTBmVW5OcG9VUWJoSTE1U2NTdU1IUXRrQ2c?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-02-17T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김현태 707단장 \"국회 단전, 대통령 지시 아녔다\"",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwLUZsc1FIVmM4QjJ5VnQxYVNQMU4zcWpRWThaNnotWkd5WF9KWC0wX2NlWlRpUkd5cUtWRWFPQXMzZEEzSXBwZEdMUE1hbGNPLXc1MTdabHpoY2FtVU12ek5Tb1BzZEpRMldRbUJPQ1k?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-02-17T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t5",
+      "title": "대구에서 대규모 '탄핵 반대' 집회...전한길 연설",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대구에서 대규모 '탄핵 반대' 집회...전한길 연설",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10cVVrMmgtYk9HS0N5N0lPU0NybW1La2V2V05nNjMwbUw0WGFDSU1IQ3NDYnlqM3p4MHFkWmtqMWE4R1o0bVBBSEN4dEtPWmJrd0E1Q2V1dF9Pdjc0dkE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-02-08T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "빗속 부산역서 대규모 탄핵 반대 집회…尹대통령 석방 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdGEwejQ4SXl6M29pSllZQXdoMzlGMllFQk16dXNsbGg2c2pja2dlaHV2ZzZDVnozWDN1aXhMWmNQSGd2Z2dJZEt2emlXUGdKSG95NTJUdHFSY03SAWBBVV95cUxQT1R4b09qbzNYQ2hyalBrY1V6ZGpzZnA5VDN4Tld5dTVEMHM1c1BUTF9ZTmxEemVHMW9JU3hVZlZFM3V1OTh2eUNTYWNZSk4yUVhfcFh2d0dWN3EyT1R0ZzY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-02-01T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t6",
+      "title": "김현태 707단장, \"국회 봉쇄 지시 받았으나 의원 끌어내라 지시는 없었다\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김현태 707단장, \"국회 봉쇄 지시 받았으나 의원 끌어내라 지시는 없었다\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SRk0wa2tqaVRLRGl2VXNjak5LZFI1TWpvb1JfMHhITXZ2ejZEV0h1VEgyYVlMVXpKWElsQV9IMVpZZEQ4cGVzUWdLMms3UzV3MHJOazZrV0NrYVg0VDE0M1dJSXVCNWpNQzVuWTdR0gFyQVVfeXFMTUFyRWxUYWFUYzYxTXZKbEp6NHZtSHRDSzNuRUFOX2Y5NVo2Y2tQQWlpMzZ1bkUta2dtdHhtcy1oYzFxT0RCejN1RUhGWmJrLVhPZ2hoTm4xTjd5M2hQYXdLOFV6N2dHa3RkRTRCMjhBazhB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-02-06T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김현태 \"당시 임무 국회 봉쇄, 끌어내라 지시는 없어\"…尹 탄핵심판",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MMUJRRUNuUU1vTkgzZjQwX05VWU9sa2VIczFzcFo1bGhOMC1iZjd1ZWZQejZfUjgxamFPVi0yRllNRTFsV2RCYThzSjRMSEN0YWJIWC1OT3JjWWRVdnRtVjdVdU12NWM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-02-06T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t7",
+      "title": "대전서 尹탄핵 반대 대규모 집회…전국 여러곳서 맞불 집회도(종합)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "대전서 尹탄핵 반대 대규모 집회…전국 여러곳서 맞불 집회도(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBod2ViTUZNc0xEV2xvNHNVdDdqWllSSXRla2lKdlZCVXh2X2ZwOTkycmNuQldRckdhRFEwNDRFR1BNVG9INGgwYzlrQmlpY2dPejhVNVNxR3g1cWPSAWBBVV95cUxNbnRxZm5WLW4yVmUxTzlXUTFmQloyZXh0NGlYZDU0X0Jtc2NrVnE4YmNIMVd1alloMXhGMTJJTTFDZmdUbTZkVTY0ZUFDeXJCb05kaWtadEI5MjFSTU9HcFE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-02-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대구 관문 동대구역 광장서 \"尹 탄핵 반대\" 대규모 집회",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQb0xSOUpubVFkMkJpUzlKVGt3WHpaeVN1MUFKWE93RS1XWm5kLWlmOTdZSEljdmdMN1k4N1pWMWJQZ0xmZVd3eUNCeGU1M1IwQy1VMkNSbkRfTjDSAWBBVV95cUxQbTZaRTN4cWxZWnBsUHU4VHZDd21ucUx6cmd0MUtCeXozSThBNTY2bll4UVlmQWU1Zmxpc0tjWXp4MlhaOEpGOE80cHJ1S2pXdm1YcTY2clB1eElXNlItZ1g?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-02-08T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "윤석열",
+      "count": 36
+    },
+    {
+      "word": "탄핵심판",
+      "count": 35
+    },
+    {
+      "word": "대통령",
+      "count": 31
+    },
+    {
+      "word": "헌재",
+      "count": 14
+    },
+    {
+      "word": "이재명",
+      "count": 12
+    },
+    {
+      "word": "집회",
+      "count": 12
+    },
+    {
+      "word": "계엄",
+      "count": 11
+    },
+    {
+      "word": "반대",
+      "count": 10
+    },
+    {
+      "word": "지시",
+      "count": 10
+    },
+    {
+      "word": "변론",
+      "count": 10
+    },
+    {
+      "word": "찬반",
+      "count": 9
+    },
+    {
+      "word": "민주당",
+      "count": 8
+    },
+    {
+      "word": "심판",
+      "count": 7
+    },
+    {
+      "word": "인용",
+      "count": 6
+    },
+    {
+      "word": "국민의힘",
+      "count": 6
+    },
+    {
+      "word": "봉쇄",
+      "count": 6
+    },
+    {
+      "word": "의원",
+      "count": 5
+    },
+    {
+      "word": "파면",
+      "count": 5
+    },
+    {
+      "word": "전한길",
+      "count": 5
+    },
+    {
+      "word": "진술",
+      "count": 5
+    },
+    {
+      "word": "대규모",
+      "count": 5
+    },
+    {
+      "word": "권한",
+      "count": 4
+    },
+    {
+      "word": "침해",
+      "count": 4
+    },
+    {
+      "word": "국회의원",
+      "count": 4
+    },
+    {
+      "word": "최종",
+      "count": 4
+    },
+    {
+      "word": "홍장원",
+      "count": 4
+    },
+    {
+      "word": "보수",
+      "count": 4
+    },
+    {
+      "word": "서울대",
+      "count": 4
+    },
+    {
+      "word": "불가피",
+      "count": 4
+    },
+    {
+      "word": "마지막",
+      "count": 4
+    },
+    {
+      "word": "마은혁",
+      "count": 3
+    },
+    {
+      "word": "찾다",
+      "count": 3
+    },
+    {
+      "word": "없었다",
+      "count": 3
+    },
+    {
+      "word": "계엄군",
+      "count": 3
+    },
+    {
+      "word": "통과",
+      "count": 3
+    },
+    {
+      "word": "김현태",
+      "count": 3
+    },
+    {
+      "word": "끌어내라",
+      "count": 3
+    },
+    {
+      "word": "극우정당",
+      "count": 3
+    },
+    {
+      "word": "부정선거",
+      "count": 3
+    },
+    {
+      "word": "본회의",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "02.04",
+      "event": "윤 대통령 탄핵심판 주요 일지"
+    },
+    {
+      "date": "02.17",
+      "event": "707단장 \"국회 단전, 尹 지시 아냐\"…회유 논란도"
+    },
+    {
+      "date": "02.20",
+      "event": "헌재, 탄핵심판 25일 최종변론...‘윤석열 파면’ 3월 중순 결정"
+    },
+    {
+      "date": "02.25",
+      "event": "탄핵 심판 마지막 변론…윤 대통령 최후 진술"
+    },
+    {
+      "date": "02.28",
+      "event": "여당 실세 국회의원 아들, 주택가에서 마약 찾다 적발"
+    }
+  ]
+}

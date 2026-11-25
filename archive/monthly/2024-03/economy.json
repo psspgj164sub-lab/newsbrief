@@ -1,0 +1,347 @@
+{
+  "month": "2024-03",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:29.524Z",
+  "articleCount": 116,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-03#t0",
+      "title": "송복철 신임 '부산경제진흥원장' 취임",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "송복철 신임 '부산경제진흥원장' 취임",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oLTRyT0w0elRvLUQ1MmRSNFBDVVppazJYdk1fNUVRbkpPckdJZ2U5VkJZVDc3NEhmWU9YOXJZa0Fob215dnE3dmZWZ0hfd3ItaF9ZWA?oc=5",
+          "source": "부산경남대표방송 KNN 뉴스",
+          "publishedAt": "2024-03-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부산시, 신임 부산경제진흥원장에 송복철 전 경제특보 임명",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10LTFKT3dkdjgtZ2p6Z2pfN0JGZWxxVWlMTm1KVWMyVnBlMHZOcmhpTzEzTkZidEJTMzRCc2FMb3pIZ1RLM3lVekY1cTJRYlhSdUZCc05naHlxOW_SAWBBVV95cUxQM2xEcE9yVGF6YkMzekEtckx4MkdsQXd1ajBCS0xZUFlseDBMaVdBMTR6VEFhOVZaSGdHQ1dES3dHT3hXZVd6eE16Y3A0QXl3Nmg4ZG9CU1JCaHpFZ0JmSm8?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-03-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t1",
+      "title": "2028년부터 경제활동인구·취업자 줄어든다…성장 지속 '빨간불'",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2028년부터 경제활동인구·취업자 줄어든다…성장 지속 '빨간불'",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNWtyblJVb0M5eUl6QWFheE9jTkZPRHhpNWdsWE1RWmMwazkwcjl3UnlIbE50clU1OGFyYmJRMENtekdJRlpuOU9CUm55aE5DS1JkTTAyZ181YlnSAWBBVV95cUxQU3JKbnV6X2dEa0JJMFlodjNLdVRTNlJtZjB6dmJiQVNpR3VPTEFJYjlsLVhXT0M5SW5aYW9xLXJ2NzRBQm1Lcmk0YWRidnc3LWRqc3ZBb044VUlKY3B1TWQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-03-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2028년부터 경제활동인구·취업자 감소",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41aDF5S0tVOE1mMWQ2UE0xQ2dXaG5FaW1WemJldWhSamZoVzBmV3diRzRiMldDc0ZPUnpIR09aZExwcmY5NDFkc3dLM096UFhnQUFGRW8wZThCSTZCOUlhaUhENlZmVW9OUzBaaUQ3M2c?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-03-19T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t2",
+      "title": "일본은행, 17년만에 금리 인상…마이너스 금리 종료",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "일본은행, 17년만에 금리 인상…마이너스 금리 종료",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQTc3dFpDNXM2Ni13VUhyM0I2dVcwNUR5WHdzVlI5VkcwNFVtMGw0bnhVa255WkNUVzBnUzF2Z2l1TzBGUm1HLVlmUXlmX0pqRER3YnJreEhWZw?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2024-03-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "일본은행, 17년 만에 기준금리 인상…금융완화 해제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JWkt4ZkF2MFNENHN1Q1drQk5xQjBmQkVpME9zSlJDb3JmdGFKSmpyMHAtbi16VVpNdXdUSHRrVmowUWZVSEkwR01QVHhEWm9GWWhyRF8tam93QQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2024-03-19T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t3",
+      "title": "“한국 메모리칩 수출 회복세…1분기 실적 기대감”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“한국 메모리칩 수출 회복세…1분기 실적 기대감”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pYlNGMmRmTDJrdWRPUzlfLUFhcS1yUDEwSVh6WlJYZE5NaE4tbVJEdEhHekF2bDhVYmIwbW1WVUY0Ml9RWkM2eGVadVU4X1d5OThzbE84eDB0Ymc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t4",
+      "title": "환율 위험, 어떻게 방어할까?",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "환율 위험, 어떻게 방어할까?",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUNfNFlWR3dIbUhvTnFhQ0oxWHBoenE4cHoyWERSNnJXTmlFaGZjd1NrOThscG8yeE12OHVmVnZ5SUx2U05HS2F3NDFtZ2JsTUxUZkpUVXFlV214STBGendmUTBYM0lQMVU1clF0eHllQTVsMWU4TlBsUDIxZjJGRg?oc=5",
+          "source": "네이버 프리미엄콘텐츠",
+          "publishedAt": "2024-03-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t5",
+      "title": "농업인 1인당 최저 연 2%대 금리로 최대 5000만원까지 대출",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "농업인 1인당 최저 연 2%대 금리로 최대 5000만원까지 대출",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WWm9BV2FYMVc5VEhQSTdFTFROQnluS2dySFZWaFBIWGRZY3RQdDVGQ2tFRnRCNnhjTVhRWFRwSEVoR3ktZDlfaHN0bGZaMm5UTGgyV3V3?oc=5",
+          "source": "영농자재신문",
+          "publishedAt": "2024-03-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t6",
+      "title": "중전분야 10개 중소･중견기업 실적 기상도, 대체로 흐림 속에 일부 기업 '쾌청'",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "중전분야 10개 중소･중견기업 실적 기상도, 대체로 흐림 속에 일부 기업 '쾌청'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sY2J4QWZiLXlKR0lOR3VzNkdBaXFyWTYwWGpMYmlWYzRDQnR2Z2NENWhMbFNSaFJpQXVUcDVIZEc0YW5lWVhvOURTVUxHb1BkcGlhTDVCTjhYbE1aOUl1ZnlSU0pwZWVmR1F3ZNIBcEFVX3lxTE55aW5KTGx6V01VLWJfZHNveVk0ZThLQzJxVDBzYWg3dW40cFl5Qm1WcjhHTEJXUUlVOFhDMmpMU1FvV1FWTmZERGstWXpSbnpiRG1nQ0FkRWlrbEppT1pfdmg1WHN5cnFYa0ZxNkhNSFo?oc=5",
+          "source": "전기신문",
+          "publishedAt": "2024-03-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-03#t7",
+      "title": "서울경제, 친환경 버티컬 매체 '지구용' 창간",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "서울경제, 친환경 버티컬 매체 '지구용' 창간",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZS1yWWVTNUpLY3ZTc3hrb0V4TFhxVmhZX0ZFMTc4V2VYZndhMTJrUDhrQWdTcUQwMzFmMVlvd2NJZGtNM1JJSENWSS1IN01rd0ZlNXY3d1BrZjBPZ2lXUmdmMmROdw?oc=5",
+          "source": "한국기자협회",
+          "publishedAt": "2024-03-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "일본",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "우리",
+      "count": 3
+    },
+    {
+      "word": "성장",
+      "count": 3
+    },
+    {
+      "word": "인하",
+      "count": 3
+    },
+    {
+      "word": "중국",
+      "count": 3
+    },
+    {
+      "word": "신임",
+      "count": 3
+    },
+    {
+      "word": "한은",
+      "count": 3
+    },
+    {
+      "word": "가격",
+      "count": 3
+    },
+    {
+      "word": "상승",
+      "count": 3
+    },
+    {
+      "word": "보는",
+      "count": 3
+    },
+    {
+      "word": "개최",
+      "count": 3
+    },
+    {
+      "word": "AI",
+      "count": 3
+    },
+    {
+      "word": "경제자유구역",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "일본은행",
+      "count": 2
+    },
+    {
+      "word": "인상",
+      "count": 2
+    },
+    {
+      "word": "마이너스",
+      "count": 2
+    },
+    {
+      "word": "종료",
+      "count": 2
+    },
+    {
+      "word": "기조",
+      "count": 2
+    },
+    {
+      "word": "엔저",
+      "count": 2
+    },
+    {
+      "word": "중립금리",
+      "count": 2
+    },
+    {
+      "word": "소폭",
+      "count": 2
+    },
+    {
+      "word": "연준",
+      "count": 2
+    },
+    {
+      "word": "기대",
+      "count": 2
+    },
+    {
+      "word": "농협경제지주",
+      "count": 2
+    },
+    {
+      "word": "기준금리",
+      "count": 2
+    },
+    {
+      "word": "고금리",
+      "count": 2
+    },
+    {
+      "word": "영향",
+      "count": 2
+    },
+    {
+      "word": "부산경제진흥원장",
+      "count": 2
+    },
+    {
+      "word": "송복철",
+      "count": 2
+    },
+    {
+      "word": "안정",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "대책",
+      "count": 2
+    },
+    {
+      "word": "기상",
+      "count": 2
+    },
+    {
+      "word": "진짜",
+      "count": 2
+    },
+    {
+      "word": "금융완화",
+      "count": 2
+    },
+    {
+      "word": "창출",
+      "count": 2
+    },
+    {
+      "word": "점검",
+      "count": 2
+    },
+    {
+      "word": "경제활동인구",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "03.19",
+      "event": "2028년부터 경제활동인구·취업자 줄어든다…성장 지속 '빨간불'"
+    },
+    {
+      "date": "03.20",
+      "event": "송복철 신임 '부산경제진흥원장' 취임"
+    },
+    {
+      "date": "03.30",
+      "event": "환율 위험, 어떻게 방어할까?"
+    },
+    {
+      "date": "03.31",
+      "event": "“한국 메모리칩 수출 회복세…1분기 실적 기대감”"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "region": "middleEast",
+  "label": "중동",
+  "range": {
+    "from": "2026-11-19",
+    "to": "2026-11-25"
+  },
+  "updatedAt": "2026-11-25T05:39:46.440Z",
+  "ai": false,
+  "overview": "최근 1주 중동 관련 국내 언론 기사 136건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 0개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「이스라엘, 가자지구 공습…\"하마스 고위 보안관리 제거\"」(기사 4건)입니다.",
+  "stats": {
+    "articles": 136
+  },
+  "themes": {
+    "economy": {
+      "label": "경제",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "전쟁",
+          "count": 5
+        },
+        {
+          "word": "제재",
+          "count": 5
+        },
+        {
+          "word": "트럼프",
+          "count": 4
+        },
+        {
+          "word": "그림자",
+          "count": 4
+        },
+        {
+          "word": "중동전쟁",
+          "count": 4
+        },
+        {
+          "word": "세계",
+          "count": 3
+        },
+        {
+          "word": "금융망",
+          "count": 3
+        },
+        {
+          "word": "하락",
+          "count": 3
+        }
+      ],
+      "items": [
+        {
+          "title": "“뱀 머리 묻을 것“…美, 이란 ’그림자 금융망’ 30곳 제재",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "美, 이란 '그림자 금융망' 제재…\"마지막 생명줄 끊겠다\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "“뱀 머리 묻을 것“…美, 이란 ’그림자 금융망’ 30곳 제재",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BYTQxbW9qQXktOHVsR3JIbFVUMFVmbTRTMEtQZDU3RTh3LVRTRF90TDBzNWJhZ3VKREdkY0lzdFVWMFVFYzk2ODdsSjFsMThsaThqdGtuckliX0NBZmRkemlCZDZHSG8?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T06:54:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美, 이란 '그림자 금융망' 제재…\"마지막 생명줄 끊겠다\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hS3ZaMFJrNTBCLXRxaTdPeGNnNm9LN1pBUE9ha2Z6ZkE5LTVTTGtjNHM4b1h5VmNVSnA5M3JxV0V3UGZQWmpNME91bHp5bl9NVFFTNWtTN2lYTzTSAWBBVV95cUxNY0p0bmpNalJiVThxaTZyaDNaVGlXQ2JWOGIwb3RwSzctUDBDc2Q2amNsSXBjamc0MWJfZGpFWW1uS3kyOVlPRzRLZjlUSXhmN21hR2diTDhQVFR6T1pNNVE?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T06:23:21.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "마덴, 사우디 증시 약세 속 홀로 상승하며 마감 : 기업주식정보",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "마덴, 사우디 증시 약세 속 홀로 상승하며 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GbWRkQ1hhY3JBSGVFbGJSdDV5eTc3UXJZMzVpZWxqMDhqSV9Ca0FIZzlrMFNJVEpxVVcwb1d6cmZZU3hKRkstQ3dSdw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-25T03:50:08.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "방크사우디프랑시 사우디 증시서 2.02% 상승 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13WXVhaDBoMXVfVlJlcGNFQzF3NktCRUZseGdLSlVtN0phb00zVWRQejFpZWIyNG14TF9Mb2lXbDJOYnNnNWpNLW1lOA?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-25T03:45:06.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "韓·사우디 경제협력 새 가교 '샤힌'…50년 우정 넘어 공동 번영으로",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "韓·사우디 경제협력 새 가교 '샤힌'…50년 우정 넘어 공동 번영으로",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zY1JTaXBHU3B1bERDQ3MzakdJY1BpVWxwVlJWalB4RS1ROVRHc0NGaktBbDNWVVVGRXhMZEVYZGdCMkQwV0tKcF9KVGx2bXBXMlEzTUNPVnhoTG5YZzlOem9JNUxGekdZVzI1RXNR?oc=5",
+              "source": "비즈니스플러스",
+              "publishedAt": "2026-11-25T04:00:40.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "내년 경제 핵심 변수 세 가지는 \"AI·중동전쟁·美 예측 불확실성\"[이슈 인터뷰]",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "내년 경제 핵심 변수 세 가지는 \"AI·중동전쟁·美 예측 불확실성\"[이슈 인터뷰]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yRzlQT3BDblBPeC1BT2E4c1BZaERhSVh2ZzhQTFlPQzdPNE1DZks2WTlvbmdsY1lnVGNfeGE4WGRfbU0zRVhEbnZrb080VUxzWk9mY3NqTnN6akV6V01rYg?oc=5",
+              "source": "아시아경제",
+              "publishedAt": "2026-11-24T23:50:35.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "사우디 수도 '경제 심장부' 또 피격…최고층 빌딩 덮친 기습 공격",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "사우디 수도 '경제 심장부' 또 피격…최고층 빌딩 덮친 기습 공격",
+              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbWFGaVlKVmFWTENRUmtzT1N2aTVMSUxJdTQ3TEVHa3VkSXc0eGlnZEZlWGNieGpXMFVMRkFjZGluNFJMdTIyYkhTOWtGWlo2MlNWNll6VUFnNXlOZE5OXzNRWHloWjFWRTJZZjZ5QnFZOHdhaGd5U1loTjBKRzFPTjI0OFJBRkRhQlU5emQxQWZXSTVYRFN5Q2dxSVRjeXlZc000a2R0ZGd0UXppcWx6bkZpMHF0QUVMWW5nbXRXRFo5N09heGk0UERCVHZPc2FLZFR5UzRXM0FwbEg5TGRQUi1vaWhSaHZWS2ZQd3VWcVNVY0ViVnJDN3N1enl1WHNpNWo1R0l5Z2h3WDFQM09uSHBIQWlJWGFp?oc=5",
+              "source": "데일리안",
+              "publishedAt": "2026-11-24T22:30:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프, 종전 카드 꺼내나…\"이란 수뇌부 '참수작전' 검토\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "트럼프, 종전 카드 꺼내나…\"이란 수뇌부 '참수작전' 검토\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NHNYNXJYNGVqWFMwd0luRVNvUG5rMzdSVXdtTkZCRzhhNUt5b2VhVWk1Q2FCcFphaFcyWGlTTEJkWENhSm5NMEJoMzE5VjJ4Z2ZqSURhXzRTUQ?oc=5",
+              "source": "한국경제",
+              "publishedAt": "2026-11-24T21:16:55.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "war": {
+      "label": "전쟁·안보",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "트럼프",
+          "count": 19
+        },
+        {
+          "word": "공격",
+          "count": 12
+        },
+        {
+          "word": "네타냐후",
+          "count": 7
+        },
+        {
+          "word": "호르무즈",
+          "count": 7
+        },
+        {
+          "word": "새해",
+          "count": 7
+        },
+        {
+          "word": "협상",
+          "count": 7
+        },
+        {
+          "word": "이란전",
+          "count": 6
+        },
+        {
+          "word": "군사행동",
+          "count": 6
+        }
+      ],
+      "items": [
+        {
+          "title": "이스라엘, 가자지구 공습…\"하마스 고위 보안관리 제거\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "이스라엘, 가자지구 공습…팔레스타인 고위 관리 제거",
+              "source": "news.sbs.co.kr"
+            },
+            {
+              "title": "하마스 고위 보안 관리, 이스라엘 가자지구 공습으로 사망",
+              "source": "한겨레"
+            },
+            {
+              "title": "이스라엘, 가자지구 공습해 하마스 고위 보안관리 사살",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 4,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "이스라엘, 가자지구 공습…팔레스타인 고위 관리 제거",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHoyNWh6cEwzclF5VmRGcjB3aXV3bkExcWhzSXZ6ZUM0SDRlek1QMTlVR3pyX2Q5X2RKY3phUm1wTDRXTzdvN0VkSWRWSG5pY29iODdDX2tXaGZ1bmdTbHBFOG9icXlJQkNLVkMwOGNQTkJRMjNlR1NIRFhrc01fQVZXNkI2TklSLUJGTFRfUQ?oc=5",
+              "source": "news.sbs.co.kr",
+              "publishedAt": "2026-11-24T14:26:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "하마스 고위 보안 관리, 이스라엘 가자지구 공습으로 사망",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vcHBXWHdUa2V5ejFCeG94QTc2NzE2cVp6R2EzRlh1Zk1mVjROQ2hLZDMxcDNHMWV3VmZBc2ZhU09YZ2lhWjNXT19oeGpWWGx6SzBieHBwY3VMLW5wTFZhT2JMOEk5NXVLUEZmUTY0d2Zvb0E?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-24T14:14:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이스라엘, 가자지구 공습…\"하마스 고위 보안관리 제거\"",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FUUQzNnIydXZGN0tIRjR6V0lyNjU2RWFUZFd5VWFRWDZoN0huSUNGZlVIMmhpYmM4RHJ6M3l1NUZPVkVucEFDbzB3VVR1SkYtUzkxN0RYdGozem1WdXhJYjd3?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-24T14:13:23.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이스라엘, 가자지구 공습해 하마스 고위 보안관리 사살",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KUFJDNFJtdHJpUkRLLTRBcE5xNzM2Mlp3YS1KMC1Qcy1xWjNTQ0laeDBpNDdCVUZNRElwWTB2bWpEaDRJUUZJMllFU3RaVXEzX3Uxa1lPV2VFRFp2cUE2YdIBYEFVX3lxTE5KUFJDNFJtdHJpUkRLLTRBcE5xNzM2Mlp3YS1KMC1Qcy1xWjNTQ0laeDBpNDdCVUZNRElwWTB2bWpEaDRJUUZJMllFU3RaVXEzX3Uxa1lPV2VFRFp2cUE2YQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T13:00:02.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "이란, 미사일 2발 동시 발사대 첫 공개…미국에 경고",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "이란, 신형 미사일 발사대 첫 공개…미국에 군사력 과시",
+              "source": "신아일보"
+            },
+            {
+              "title": "이란, 미사일 2발 동시발사대 첫 공개…\"적에게 굴욕 줄 것\"",
+              "source": "한국경제"
+            },
+            {
+              "title": "이란, 미사일 2기 동시 발사 가능한 신형 발사대 공개",
+              "source": "YTN"
+            }
+          ],
+          "span": "11.23",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 4,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "이란, 미사일 2발 동시 발사대 첫 공개…미국에 경고",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sTkM1MHVDblNfdE0tY3BqNGhBM0pZWmY5UVNweEtGU05mOGFjTlhUM0JId0tRSmJQVWNwTHJ3Y1FfbW16VEJHa1hwSW8xQVlfNmx6N1JYeXBQX0cwY3R1RHdwdUs1V1VEU1Rr?oc=5",
+              "source": "BBS불교방송",
+              "publishedAt": "2026-11-23T02:04:13.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란, 신형 미사일 발사대 첫 공개…미국에 군사력 과시",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQndLdGdzQVJoREFnck1WeGc0OHNMQnJRTWhSR2xKUTYtdXYtSTRYNW52VGNQQ0twYzlXYjVFa0gxZjdiYVRvMzM5NHZyVEpmajc3SDRrNHA3alhXNnpOR1FUNnNqRW94eG5PTlNvV00?oc=5",
+              "source": "신아일보",
+              "publishedAt": "2026-11-23T01:12:04.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란, 미사일 2발 동시발사대 첫 공개…\"적에게 굴욕 줄 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FZkxOTGV5NlF0MmUteUVBTVA2LWFfSTU0dm4wNFNhWndOdnJZa2xvV0NHVTZka2V1N0NCanEzZV85Q280ZUNGd2ltTHdldXNlOU1ibEpWclo5UQ?oc=5",
+              "source": "한국경제",
+              "publishedAt": "2026-11-23T00:00:23.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란, 미사일 2기 동시 발사 가능한 신형 발사대 공개",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zb0dMekM1enExNzlLQzFwX0NuaDRzMTVXYXZ1OWNqdm9fY1l6WElGQWNfcW9jU19ZTy1iZTUxM1BhT0VUdXc4SGxHSGVqdWgyS3FtOVZReV9PNDhCSmc?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-22T21:27:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"네타냐후 '대이란 군사행동 불가피' 입장…시기 조율만 남아\"(종합)",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "네타냐후 “대이란 군사행동 불가피”…잇따른 전쟁 재개 ‘신호’",
+              "source": "한겨레"
+            },
+            {
+              "title": "\"네타냐후, '대이란 군사행동 불가피' 입장‥시기 조율만 남아\"",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "span": "11.19~11.21",
+          "days": 3,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "네타냐후 “대이란 군사행동 불가피”…잇따른 전쟁 재개 ‘신호’",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObnhNUUw3N2VaTzZFYm5ZeFlkZWgwLXdIcV9yZ3hZUHRrZlU5Qm1zdC1UZFlNZkd4eWFaRVRjWHhqbjh6VzFhdEZNSDBJWGhnRTdOR29sQkhfeGhLaGFndlJUV1dpd3pYR2pKSjNpNGltV3ZHMEVHZHFodVBGcngwXzVB?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-20T16:26:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"네타냐후, '대이란 군사행동 불가피' 입장‥시기 조율만 남아\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10VWNtbDdqY0p1QWdxMGI4dXoySlFzU3U0cnIzaVN1SGh5cFpDNlJ4WFg4bGVabl9ZY0hldnptNkd2RTk2aWxSd0ZIUDFaeXQtUlpLNjEyeVFrTnVYLWZmMlhsWWJuaVRLNTZOWmhJZUFteWQy0gF0QVVfeXFMTm9IYjVCYTRkQkxWQ1ROSHI4VTFzdE9QX2JxRE9weHNjWmxvTmxXT2EzRUlqOGNPZVNPc1ZoRm9rSmtDMjVsRkNJUjVpTXRjRE5WVkMzejFXcjRhVEpTUnBvSnFWUFBia09SVkFpM2NSQ0o0blE?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-19T18:58:41.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"네타냐후 '대이란 군사행동 불가피' 입장…시기 조율만 남아\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVd4NWtTRHp1b0lHcjNWRnhhekNucVhRVFpqYkRkWkktdWJGVnNEekZJb29KQXdDZzhqYjYyc1ZIYkozN2EyOFE0R19yUGFyb0ZmUVg5RURlQzTSAWBBVV95cUxPbjRTcTc2bmxVTHZPX3lrZ092cXBjZEhUU1NnUHRVZ2h5TXBYR19GTm1INTZmdFM2VFIxS3B2LXExM0ZsbjdnUHp1TGROOHBvTkVzNTg2anFBcml4SVBsQlc?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-19T17:27:57.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"네타냐후 '대이란 군사행동 불가피' 입장…시기 조율만 남아\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdXVrMnlURUY3YTBWM1FzVDl6cEtudExNODVLNF9Sb0l6bVl3Z1V2VmthQ1RvWHF5WW1CcFljUTUza3N0RXI1bWtaQ3ZYblR5cUtKaGVtWWhSSUXSAWBBVV95cUxOUlREZkNCNkU5QUI4cWV6SnN4WE1ITFN4UmVlb3A5VnZsZk9xbXBHeFdFeW1ybktxNE51RklQMzFTWVd3SExETzZQZjJLRTNEN1ljQjJaWXNmOTBrQ1NsVUM?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-19T12:11:39.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "청해부대 작전구역 확대 논란…美·이란전 '우회 파병' 공방",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "청해부대 작전구역 확대…국회 “미·이란전쟁 우회 파병 우려 불식해야”",
+              "source": "https://www.sisaworld.kr/"
+            },
+            {
+              "title": "청해부대 작전구역 확대에…국회 \"이란전 불개입 원칙 밝혀야\"",
+              "source": "한국경제"
+            }
+          ],
+          "span": "11.22~11.23",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "청해부대 작전구역 확대 논란…美·이란전 '우회 파병' 공방",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04aEVUU3dnTmRiZHJmU0p1ejNUc3lOcmxTTWZVNGpZYnhVRmpyZXFqZ0pHaWh2ZE5yQ3hNUmVQLXBpTHhGNnA1NUxOZFZGSGJzamZQQ0piS1duWkhkSk9wZW94aDQ?oc=5",
+              "source": "매일일보",
+              "publishedAt": "2026-11-23T06:10:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "청해부대 작전구역 확대…국회 “미·이란전쟁 우회 파병 우려 불식해야”",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xakVlSFNKSmZCejJ3LUhrdVhNaEo0bzJpTndIQldzbzAwNFRlbVRxV3V2VHFad2dHdWdRZ2hrY2Y3dW5FeWFJVGRaVmlSUzVlUDBkMV9ENEdPWDhmQkVPX1BQS05jWjNveUE?oc=5",
+              "source": "https://www.sisaworld.kr/",
+              "publishedAt": "2026-11-22T15:41:47.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "청해부대 작전구역 확대에…국회 \"이란전 불개입 원칙 밝혀야\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14U19ZeGJKMVM4Y2Y2YXNXblU3X0hvVHNkVG5BYU1xNW0wdURMY2Z5THRQSjJBdlVZZjluRW42akZFVExHS3lhcGtVSXhQSjRzSUlBTlZrMmNEQQ?oc=5",
+              "source": "한국경제",
+              "publishedAt": "2026-11-22T09:12:27.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "이란, 바레인 민간 산업시설 공습해 2명 부상…사우디 \"범죄적 공격\" 규탄",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "바레인 “이란 공습으로 민간인 2명 부상”… 사우디도 강력 규탄",
+              "source": "천지일보"
+            },
+            {
+              "title": "바레인 \"이란, 민간시설 공습해 2명 부상…범죄적 공격\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.22~11.23",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "이란, 바레인 민간 산업시설 공습해 2명 부상…사우디 \"범죄적 공격\" 규탄",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVd0ktalozMXpZREYwNXdCSGhzczFfV3Vrd1pUc2x5UFlpTWpiVzZhRnE2VGpoaXhReTk5UEpYcThIb0E1cVZYb0t0NFRESmVkYnlwV3gxQ190QQ?oc=5",
+              "source": "파이낸셜뉴스",
+              "publishedAt": "2026-11-22T16:30:34.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "바레인 “이란 공습으로 민간인 2명 부상”… 사우디도 강력 규탄",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tVDlIMHA5Wkp5dWJFQWMwVndfbUFuOG9UWlk4QVU0N2oxZFh5OS1nSzZRZnlsTlNQWmNncU5ZWHkxcmpycGVEZDRYMm5XV05kSkt0b3piczBfU09GUEpiU21uVHNYdnhsZ1E?oc=5",
+              "source": "천지일보",
+              "publishedAt": "2026-11-22T15:55:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "바레인 \"이란, 민간시설 공습해 2명 부상…범죄적 공격\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jWm1lSHZoZmltTGpSNGFKenhjRXpQaTBoTXpXbDVyNEVaeWpIaTBRZzJwTTZGbVB1eWZfM1lxZEFkaEdfZl9SWHJvbkhDT1pfWEZpOUpfQUgxU1HSAWBBVV95cUxPRV90aXEzaDlQd3EyRjdUSE5HVkZ0eHpRSUV2VmY4VmxtS0NfSDVmS0RTYkFkenNmeWUtMV85czBydUhKSk9GZGYxcmRqdS1DakRmZlI1Y0dSZm1URjM5UUI?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-22T12:58:38.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "이란 전쟁에 덴 미군, GM·포드 통해 드론 생산 추진",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "이란 전쟁서 '쓴맛' 본 미군, GM·포드 통해 드론 생산 추진",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "이란 전쟁에 덴 미군, GM·포드 통해 드론 생산 추진",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmdTR6VnRaVzhBczdPUEVyY3pVU1k1b0lvUDFnM3hHMEVDb1hCajJsNFFlMDhtT2lkVG83NkM0c1RrVTVvemJ1YllEbEVNZkJFejJMZkxKRkFIV091NkE?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-24T16:57:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란 전쟁서 '쓴맛' 본 미군, GM·포드 통해 드론 생산 추진",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tQ2xkSDJrR2dSeFlCb3ZHWHcwQTdkY1hWVzdCT1lUdldtVGxVVER2UC04M1ItVk9iX2c3Mzlvc29oel92dnE1bHduYWc3ZU0tSWFFTGdwNDNtM1XSAWBBVV95cUxORWlodHZXbjQ0NEZsMlUwYTNaV2YtbHBUdm1vdGItZTVycFZSWjQ4ZFVJZ3pORENGMEhucEZSNUxrN3hGNXNZZjVjT19UWXNtMEgxZGd5V2sxdzRmZGdtMmk?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T15:16:51.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "politics": {
+      "label": "정치",
+      "summary": "",
+      "keywords": [],
+      "items": []
+    }
+  }
+}

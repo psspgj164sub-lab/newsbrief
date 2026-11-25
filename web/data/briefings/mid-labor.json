@@ -1,0 +1,456 @@
+{
+  "period": "mid",
+  "periodLabel": "중기 · 최근 6개월",
+  "category": "labor",
+  "categoryLabel": "노동",
+  "range": {
+    "from": "2026-06",
+    "to": "2026-11"
+  },
+  "coverage": {
+    "monthsAvailable": 6,
+    "monthsTotal": 6
+  },
+  "updatedAt": "2026-11-25T05:39:40.197Z",
+  "trends": {
+    "months": [
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ],
+    "unit": "기사 100건당 언급",
+    "series": [
+      {
+        "word": "노동자",
+        "values": [
+          8.5,
+          8.7,
+          4.6,
+          7.4,
+          9.2,
+          2.4
+        ]
+      },
+      {
+        "word": "사망",
+        "values": [
+          6.6,
+          6.6,
+          3.5,
+          6.6,
+          4.3,
+          0
+        ]
+      },
+      {
+        "word": "교섭",
+        "values": [
+          8.5,
+          2.8,
+          3.2,
+          4.9,
+          3.7,
+          3.8
+        ]
+      },
+      {
+        "word": "타결",
+        "values": [
+          0,
+          2.1,
+          1.8,
+          0,
+          3.7,
+          13.5
+        ]
+      },
+      {
+        "word": "하청노동자",
+        "values": [
+          4.7,
+          3.5,
+          4.6,
+          4.1,
+          0,
+          2.4
+        ]
+      },
+      {
+        "word": "노동부",
+        "values": [
+          4.7,
+          0,
+          3.2,
+          3.3,
+          2.5,
+          1.7
+        ]
+      },
+      {
+        "word": "대통령",
+        "values": [
+          0,
+          2.4,
+          0,
+          0,
+          12.9,
+          0
+        ]
+      },
+      {
+        "word": "서울",
+        "values": [
+          0,
+          0,
+          1.4,
+          3.3,
+          0,
+          8.3
+        ]
+      }
+    ],
+    "rising": [
+      {
+        "word": "타결",
+        "change": 722
+      },
+      {
+        "word": "서울지하철",
+        "change": null
+      },
+      {
+        "word": "지하철",
+        "change": null
+      },
+      {
+        "word": "임단협",
+        "change": null
+      },
+      {
+        "word": "대통령",
+        "change": 428
+      },
+      {
+        "word": "철회",
+        "change": null
+      }
+    ],
+    "falling": [
+      {
+        "word": "사망",
+        "change": -68
+      },
+      {
+        "word": "인정",
+        "change": -100
+      },
+      {
+        "word": "하청노동자",
+        "change": -70
+      },
+      {
+        "word": "현대차",
+        "change": -100
+      }
+    ]
+  },
+  "stats": {
+    "articles": 1250
+  },
+  "ai": false,
+  "headline": "최근 6개월 노동: 「2027년 최저임금 1만700원 확정」",
+  "overview": "2026.06부터 2026.11까지 6개월치 노동 기사 1,250건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(2개월), 「서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행」(2개월), 「1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금」(2개월)입니다. 기간 후반으로 갈수록 타결, 서울지하철, 지하철, 임단협 언급은 늘고, 사망, 인정, 하청노동자 언급은 줄었습니다.",
+  "keyPoints": [],
+  "issues": [
+    {
+      "title": "2027년 최저임금 1만700원 확정",
+      "span": "2026.07~2026.08",
+      "monthCount": 2,
+      "articleCount": 45,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "2027년 최저임금 1만700원 확정",
+          "source": "2026.08"
+        },
+        {
+          "title": "내년 최저임금 시간당 1만700원…올해보다 3.7% 인상(종합2보)",
+          "source": "2026.07"
+        },
+        {
+          "title": "내년 최저임금 1만700원 결정…노사 모두 반발",
+          "source": "2026.07"
+        },
+        {
+          "title": "2027년 적용 최저임금 1만700원 의결",
+          "source": "2026.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "내년도 최저임금 '1만 700원'…올해보다 3.7%↑",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pVnRKcXQybjVYRlBZQzEzMWZOSzhWQjNZSGVQVWtfaFVaUXp4WjJfVDMwT1N2ZU1mWk1hYmZnb05iWUxSQVFSTS01SW1YdGR4cFFOdzM4Ujh6NEplUFZhR281Y2lSNkp2Vmc?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-08-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 최저임금 시간당 10,700원...올해보다 3.7% 오른다",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VLWNnRzM1YmZPOU52R01haGtwNmpTZ1pHWEJ2YU80SjRfcWx3ZDVlNVhLQ0xuaG1ocWtObndmb3QxNkpHV0k5b3FXZGh1N1VhckVlZnR5VUd3NlJ0SVE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-07-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "소상공인聯, 최저임금 1만700원안에 재심의 촉구… 민노총도",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbWhEaU1DdHlqcDgwVHF5NmhvLU84VXpJaFJuMWIxcG1tOUNzc1k0Ri1Rclh0Z0dYTy0ydWk5UFpYbDlvbVAySVMzcEJGMWNBSXhwN21OYk5Sbk1WM2h3MnpfOUVUSzczUi1qUHdvaFVPQ0xwYmtlRzd3MnU5Uk5QTEFkdGltUHdE?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2027년 적용 최저임금 1만700원 의결",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cGZhMlJIcXU1WGlCMXBjWF9vMFRBT2Z5bGxhdnNTMVlkSzNRV21mcGpHZlRJWkJGWHBycVNHZDNkVDJZbW9HZ0V4N29PODNSaVRUTHNjWkVTU3Utd0ljTWI0THB3WEdu?oc=5",
+          "source": "대한건설기계신문",
+          "publishedAt": "2026-07-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행",
+      "span": "2026.10~2026.11",
+      "monthCount": 2,
+      "articleCount": 19,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "서울교통공사 노사 임단협 극적 타결…서울지하철 정상 운행",
+          "source": "2026.11"
+        },
+        {
+          "title": "서울지하철 파업 직전 극적 타결…1~8호선 정상 운행",
+          "source": "2026.11"
+        },
+        {
+          "title": "경기 버스 노사 임단협 극적 타결…첫차부터 정상 운행",
+          "source": "2026.10"
+        }
+      ],
+      "articles": [
+        {
+          "title": "서울교통공사, 노사 임단협 잠정 합의… 지하철 파업 철회",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UMzJSZFVHTGxmOEIzTDhZdjlvbmxaWWJkNlhaeEVhSk1XODdMUzR5Rm1SWWdtRndlTklnUjVpZmZrZTRtWGxOWl9TSkg1aHJrdEF0SFVGOGRRVDduYUtWRUgyaw?oc=5",
+          "source": "국토일보",
+          "publishedAt": "2026-11-25T02:35:49.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 지하철 1~8호선 파업 새벽에 극적 타결, 출근길 정상 운행된 이유는? 🚇",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZUE4cWFPNW81anZuUEtzaHNuRXEwSzU2aVZScGczekNOY1B1eTE5d2VVc1FkbkprMnVhUVZIek9iRWlyODNJdXViUWtIYWM5VUNz?oc=5",
+          "source": "뉴닉",
+          "publishedAt": "2026-11-25T03:21:08.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경기 버스 노사 임단협 극적 타결…첫차부터 정상 운행",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pQ05OQ1cxc3hiMEM5YkJCNjU2YUcxLW50TDdURmd1YWE0ZHBwLUVRT19BT3ZqRllaRlhmcVpqY0xzUG85MTN5NE5oelRrUWRDaFJvVEZSYmo3ZWNvVzg0SmlLdjZSZw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금",
+      "span": "2026.08~2026.10",
+      "monthCount": 2,
+      "articleCount": 6,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금",
+          "source": "2026.10"
+        },
+        {
+          "title": "산재사망 3명 이상 기업, 영업이익 최대 5% 과징금…규모별 차등 부과 검토",
+          "source": "2026.08"
+        }
+      ],
+      "articles": [
+        {
+          "title": "1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mNzVGV0ZrdjNBYTJwOUtmaUVaeWFUVExnOTl5c2tLUVRzaHlaR1BmNkVhQkdFMVotYnlYRDBsbHNfeDY0YzFkZ3pTbDlCenRMV3lfSGpQQ3FmZUdfRFVCLTZySXZjVG0xY3ZsUA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "산재사망 3명 이상 기업, 영업이익 최대 5% 과징금…규모별 차등 부과 검토",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuVFZQSWFRTXFIbzVBWjhLQVNZbW5OdXBaOXNBMzF6c0RyWWJMWGZsMjNKNFVEV2JpTUVpZFFlVXFyZFZYdkpYZkowRl9tZDBCSFdvQldLenhSenZ5aWZicEY5U0c2WXc?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2026-08-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"",
+      "span": "2026.07~2026.08",
+      "monthCount": 2,
+      "articleCount": 6,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"",
+          "source": "2026.08"
+        },
+        {
+          "title": "HL만도 20대 하청노동자 끼임사… 10년 전과 판박이",
+          "source": "2026.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWGEyYWZpYVM4V0p3b3ZVdFZRLUNDdHAzcEUyUlV4V1VSYnVUM051TVREMHBlZVVqMzA4RVBsUXZnQWptaDFYcG8tMXMxV0tOMUpoNVBiVmdhSUpvX045N1BNZ2JqZWc?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "HL만도 20대 하청노동자 끼임사… 10년 전과 판박이",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBadWhhZUJPdUMzaFZCdEtxQTlYalRiSmhMN3NpV2xyOVVTc0ZZNEJsY21RVlFveGM4cHlTb3hBLWNKenE5VjQyU01YTlBTdzhjdUdLd1l5WnROVlF3bXZUVm5CTDJIaVMyTHVvTFhmaw?oc=5",
+          "source": "한겨레21",
+          "publishedAt": "2026-07-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "‘전남서 또’ 이주노동자 얼굴에 소화기 난사",
+      "span": "2026.06~2026.09",
+      "monthCount": 2,
+      "articleCount": 3,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "‘전남서 또’ 이주노동자 얼굴에 소화기 난사",
+          "source": "2026.09"
+        },
+        {
+          "title": "대불산단서 또 이주노동자 사망",
+          "source": "2026.06"
+        }
+      ],
+      "articles": [
+        {
+          "title": "‘전남서 또’ 이주노동자 얼굴에 소화기 난사",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uR3A2WHVMQUhBcEUtZXRuekpoNTZGRml5b0ZZY29RU1lRYndXa2lsNXYwS08xWmZuU3JhVmZoc1d5Q0o4NWVVV09BaGdHTmd3V0dKTGRLbXBqQ3V5cWxlN1hWZ3pYV0hZWDVfS2tNVUY?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-09-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대불산단서 또 이주노동자 사망",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Fa0xUNmphVUhSeFd2V25vUUxja2RCdW5wU1BSTnJ5czh0aHVJY1RubXVULXBlNDhKekVLam1BSFQ3UnlvT1BmbXZsR2lPVE10eGdVd0pzUjBuQURpUW5Md3d1bUhjekxCOFphUmJsRFE?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-06-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 30,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "'출근길 대란' 피했다‥서울지하철 노사 협상 타결",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RamU0Z2dYRGJuQ2NBaVpsbE4wVEs2QXByc0xsS1l1SXAxbXItbkd4Y2RhQWVYOWtjSEV5aFVlYkoyemI1UzBjQ2ZxaEFrM2hUbDR2SWRPZlV4TEtPNkt5M3NSVEM1VU5lTThMcTRmZWhPUmVxSlA4RNIBeEFVX3lxTE5RYXlrSlZUaExUU1BTTFplOGNPSjlMT3ZoQWVFTWhKM0JnQ1N5ZHl6MnFLOGRvUExXZnRlX1hYb1lhN0N3Y1NFQVBpaWpBSXRMbG5CYmJwQk1MM29xNzVSem04d2JyMHVIMUFBSTg5MENrUGVYemdPLQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-25T03:12:51.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 파업",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 9,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 파업",
+          "source": "2026.11"
+        },
+        {
+          "title": "서울지하철 노조, 오늘부터 준법투쟁",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "서울 지하철 ’총파업 초읽기’…노사 오늘 막판 협상",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95RzZieHl3V0VuX2Y5TUZROVV2aVN3anhSLUg4TFpqbFU4bjJ5X2RWdVo2SUVRazA4SGxkOHVVczZHY3JTaEJfZmJXOXR5Z1F4aEk1eVAwRmhhbUluYTdaazI0d2FMdXM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-24T00:45:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 지하철 노조 준법투쟁 돌입…25일 파업 예고",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JRDd1YTdNdHBDR3A3X3FiYl9tUWpEbHQwV2VPOXh2bnloeUNJRF9GT01ydndKd1B1X1hteVI2S1dreTNXWVh6QnowTFVWYnljRTFBWGZFNlBWNnowU1NPNUZtNA?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-20T09:09:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.06",
+      "event": "HD현대중공업 이주노동자들 “임금삭감 계약 강요 중단하라”"
+    },
+    {
+      "date": "2026.07",
+      "event": "내년 최저임금 시간당 1만700원…올해보다 3.7% 인상(종합2보)"
+    },
+    {
+      "date": "2026.08",
+      "event": "2027년 최저임금 1만700원 확정"
+    },
+    {
+      "date": "2026.09",
+      "event": "이주노동자 산재 사망 463명 중 78%, 50인 미만 사업장서 발생"
+    },
+    {
+      "date": "2026.10",
+      "event": "진보 야당, 이 대통령 ‘외국인 노동자’ 발언에 “무지한 망언…사과해야”"
+    },
+    {
+      "date": "2026.11",
+      "event": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다"
+    }
+  ],
+  "outlook": ""
+}

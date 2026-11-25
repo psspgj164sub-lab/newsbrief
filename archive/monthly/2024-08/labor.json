@@ -1,0 +1,400 @@
+{
+  "month": "2024-08",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:11.167Z",
+  "articleCount": 208,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-08#t0",
+      "title": "서울지노위, 서울교통공사 ‘노조 간부 32명 해고 부당’ 배경은?",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "서울지노위, 서울교통공사 ‘노조 간부 32명 해고 부당’ 배경은?",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xS3ZaQkE1Tmp6UUtkRGFZaTRzSGNkUXpUNUV3eEFlTXVFNEM3Sm10V2ViUTA5TlB2cmNrRjJiN2VGb0kxdTAzbGkzWTdVZDJkWm8tbTFnRGJRdVZTMFlsd0pOSXd4MHJRLVZyREZ6cDY?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-08-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울교통공사 노조 간부 집단해고에 서울지노위 “해고 부당하다”",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RMDFtX0RUeDNmN2NPMmFvTDkzZjF0enN6M0dIU240Q3JVTlBlVFdnVE9sTVoyNmd4UVV5UkpPdDlPd3Z1SThHTVVZNmx1SDAyMnVseHhLSE4zc21vSWozS3BWdWo3VnJQcFRsdVBsUQ?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-08-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "노동위 “서울교통공사 노조 간부 32명 해고는 부당”",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03Q1l6eF9EU0Yya29TeFVGejNwSzdBZkZpMTJvV3g0TWN5N2U3c0hTcDZzUnd1Z0NfVXRfN21NdldDUXFvczhLajBzcUZManhJZ0RyMF9yb2R3RGxtaXVRT1Z3RFI?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-08-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-08#t1",
+      "title": "내년 최저 시급 1만 30원 확정 고시…월급으론 209만 6270원",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "내년 최저임금 '1만30원' 확정 고시…월 209시간 근무 기준 209만6천270원",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jMHZUMktwajRwOWVoSEhmSk1ad2duVXNjNmVHZVVGNmt0dTVSaWNUTEU5VElRY1lucnRadFBaLWNnZmtNbW5jVWVnTWJPek1LX3NoS19rRnBFMG02?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2024-08-05T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 최저 시급 1만 30원 확정 고시…월급으론 209만 6270원",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwenlETThnOFRneVhsb1JWT3NHUkhSVXM4cU9hQjBCamRUbFBwdTdBNHNKcG9Pa2J2NEk0c0k2UGdMbEYzazYwR0VSWTN4QlFkTUhWTW05dTVPeHlMamtFekQ1Q2lyaFVBVzNmZA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-08-05T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025년도 최저임금 1만30원 확정…월급으론 209만 6270원",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzdlpvaHhaOV9qX0U4dS1DdEhVTHZaS2dwN0luTWZ2dEFBcjc4SFE3SmlFVTVXcHlHTGlvYVEzUEd6VkRNTW9fOGU5Y2tzQWZMbG5WUmZR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-08-04T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-08#t2",
+      "title": "조합원 ‘채용 강요’ 공사 방해한 건설노조 간부들 ‘유죄 확정’",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "조합원 ‘채용 강요’ 공사 방해한 건설노조 간부들 ‘유죄 확정’",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yN0pGNkJUcXpFY1lLU0xaakVBSExDWHpkN1RRSVdBUi1HM25VWTl2MkRZbm1BOFBDY2k5WUhXUGVFMTRITmVEX2RpRE1XcE5rQnJ5bmlmZFlTRDZDZ1FKQjlKdTd4bmxtbWJ1V3hyVQ?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-08-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘조합원 채용 강요’ 민주노총 건설노조 간부들, 대법서 유죄 확정",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bGtpSmRfSzhvNjZPUG45YXFuRnVWUVNfekdIWmRpSFloVk5hTzF3U0Q0MTYwN29JcFo3UmtOVlRIOTVTa0YxOXNxQk84M1RnRHlid3ViSWRqQdIBX0FVX3lxTE5GSTZsRU9JRzNXaGNVQjFZWW9KY2R0OTRXd2wyTnhiVW93M19qV1pnUEE0UEx4dU1vaXBPSnVzSDJJcnliYWItYmlxV1dTUEJraDRCUDhHZ2NpX3EzMkRv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-08-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-08#t3",
+      "title": "재건 63주년 맞은 담배인삼노조",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "재건 63주년 맞은 담배인삼노조",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YV2pWa2wtZ3FuNzBXcE1USmh1bTh1QUJucnF6cEYxV3hRVDVfUmNxZjNPM2FZS2steGhJamVEZEdXblljeWU0ZFR6UldBS05icTBXYjA0dk55SjNNSUF6Z1lmYjNpMTJwLTdIWElR?oc=5",
+          "source": "참여와혁신",
+          "publishedAt": "2024-08-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "담배인삼노조 재건 63주년 맞아",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tY3NmbDl2RGhyalZPdXFoQmpnSnJZYXBEeXJob1VYQ1lsMmdTbTRnMm4tZlpaVzYyTF8xM2VBa2pmNkxqYzVSWG1jVEsybEpEV05wS0hvN0EzV1ZEZWpmRkpwSXJwdW9tU2x1U0hNaHI?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-08-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-08#t4",
+      "title": "나경원 “외국인 근로자 최저임금 차등 적용은 합리적” 국민의힘 토론회서 주장",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "나경원 “외국인 근로자 최저임금 차등 적용은 합리적” 국민의힘 토론회서 주장",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XVkFNRFRRYVY5a1YweHZONExjdXdWSkhSVmdsWHR4Sjg4MWpPNnNEd1ZxZVRZT2toZkN2YUpOSXhNdXc3RC1memg1Z2pqZlZ4ZlVzWGQ0YjdlUdIBX0FVX3lxTE5NWlpJYkhSRnlwNHd1T1BLZFBySzhmMjJyMEQ5RVNUZVl0RkhxZENGVi1welhrYldxa2FRYk9qR0xRNFRDaXI3WTU0bHVHV2RpclBPUHBkcWR5M21zc1dB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-08-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "나경원 “외국인 근로자 최저임금 예외·차등 적용해야”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SekRCSWNhcFZHZERJNGtCNWFLSFI1M3FObDFDbjFDYkJsX3d3ZnJ4S2xHNjE5QWpja2J1cGFHMUJJSnNxMG1ZZ2E4Y0VnSndSdm9ERTQtQ2RIQzg?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-08-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-08#t5",
+      "title": "코리아넷뉴스 - 정부, 외국인 근로자 안전교육 의무화···사업장 안전 인프라도 개선 지원",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "코리아넷뉴스 - 정부, 외국인 근로자 안전교육 의무화···사업장 안전 인프라도 개선 지원",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yR0lmUnBXTlcxSkc2M2hyUVZkWjdsclRCcGY0Tnl5NjNqMXZvel9FODhrWXRwUUhzU3h0cmcwUHhEc1dQNGlrbWd2SVpidHlFR0pTRW9ZSWNoaTQ3VDBJRDhTWHlxdENuenVB?oc=5",
+          "source": "문화체육관광부 한국문화원",
+          "publishedAt": "2024-08-14T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "외국인 근로자 안전교육 의무화…비상구 개선 등에 1억 원 지원",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hUnZXdzh1Ylh5amVHV0xpV25Bc3dzb2FoeTYzZm9hblR2d1FVbmlOdEE2SzlGS0syNVp5UUtIUVN5UmRRRXkzZGpERDFpUnpydWdVSHFtc3NXcmo3MlgwVDNkak9sdzhXSTVKOA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-08-13T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-08#t6",
+      "title": "삼성전자 노조 ‘현업 복귀’···노사 갈등 장기전 예고",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "삼성전자 노조 ‘현업 복귀’···노사 갈등 장기전 예고",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14R2pZVURpYTlmem1td3E4THBIWVJmMUlLeG92VFZfSnB3akJEeldMdmEtRXpyeUdpaWVTcU44Q2Z0ckxGazR4Z3BCV2RlU0pmdGxWRy1vOUZvZkNadmpZUElHUUdVRzZzX05QS3ZiX1g0Z9IBdkFVX3lxTE5fQVFDUk9tdGlsZmI1MUVTUHE1emk2cGxyM2JtbGtDdkVRcHc2ek5hRkNvZHAxbkNfT2YxXzNEUGxrODdNV2J1azJRaWZZSklEek4zVXZoVkJxR2pZNUZUdGlGRm1Cc0RObDlwY3FzclVXUjJ3b1E?oc=5",
+          "source": "시사저널e",
+          "publishedAt": "2024-08-04T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 노사갈등 장기화 국면, 집중교섭도 결렬",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsLUpSQ01CVy1XenB2aHR0MU9uNWZDM3lpVl9FdnU5LW5rdmRZaEJNdjdKd19UTHYtbWZQejZvb3dNc3FoM3pNdzVqRFNRNDdOTC1aS2hFZjM0V1pVTnMwcEpjQmNLblFtY085cUdLbE8?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-08-01T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-08#t7",
+      "title": "삼성전자 노조, 파업 25일 만에 업무 복귀",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "삼성전자 노조, 파업 25일 만에 업무 복귀",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTZoSWF6RkwtYTZkSjF1V1BfQUE4RGgtS3padnV4eVZzaUhqRF9Bcmx5b0tEeVVjdWZxRlJVOUZfdDJOUFIwVWdoX2ZENVduQTNkM1lmWkQ3WEE2TFlpeUt0c2JvcE9wazJWSlNQcVpQcWZoNkZXQlR0aGFnOE5UUWhfOA?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2024-08-02T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 노조, 파업 25일 만에 현업 복귀… “장기 플랜으로 전환할 것”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1USXE4NWhrTnlaZjRJdFVwS0wzUVJKY2ZxZU1HQTdJZl9PbHU0Q1dFWWVaZm0waEdsb3k3d0I1V0lrd2ZjRzFmejNRVThCN3hWVTBXdV9kdVpWX0MtZEJQQ0czby1nMlhaVV9HcGVZOXZtQQ?oc=5",
+          "source": "인더스트리뉴스",
+          "publishedAt": "2024-08-02T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "외국인",
+      "count": 12
+    },
+    {
+      "word": "노동자",
+      "count": 10
+    },
+    {
+      "word": "근로자",
+      "count": 10
+    },
+    {
+      "word": "증가",
+      "count": 8
+    },
+    {
+      "word": "확정",
+      "count": 7
+    },
+    {
+      "word": "적용",
+      "count": 7
+    },
+    {
+      "word": "삼성전자",
+      "count": 6
+    },
+    {
+      "word": "총파업",
+      "count": 6
+    },
+    {
+      "word": "최대",
+      "count": 6
+    },
+    {
+      "word": "노란봉투법",
+      "count": 5
+    },
+    {
+      "word": "보건의료노조",
+      "count": 5
+    },
+    {
+      "word": "간부",
+      "count": 5
+    },
+    {
+      "word": "서울교통공사",
+      "count": 5
+    },
+    {
+      "word": "해고",
+      "count": 5
+    },
+    {
+      "word": "간호사",
+      "count": 5
+    },
+    {
+      "word": "시급",
+      "count": 5
+    },
+    {
+      "word": "역대",
+      "count": 5
+    },
+    {
+      "word": "법원",
+      "count": 4
+    },
+    {
+      "word": "민주노총",
+      "count": 4
+    },
+    {
+      "word": "복귀",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "노동시장",
+      "count": 4
+    },
+    {
+      "word": "사업장",
+      "count": 4
+    },
+    {
+      "word": "미래",
+      "count": 3
+    },
+    {
+      "word": "교섭",
+      "count": 3
+    },
+    {
+      "word": "서울지노위",
+      "count": 3
+    },
+    {
+      "word": "부당",
+      "count": 3
+    },
+    {
+      "word": "위반",
+      "count": 3
+    },
+    {
+      "word": "부당노동행위",
+      "count": 3
+    },
+    {
+      "word": "채용",
+      "count": 3
+    },
+    {
+      "word": "부당해고",
+      "count": 3
+    },
+    {
+      "word": "인정",
+      "count": 3
+    },
+    {
+      "word": "건설",
+      "count": 3
+    },
+    {
+      "word": "정리해고",
+      "count": 3
+    },
+    {
+      "word": "업무",
+      "count": 3
+    },
+    {
+      "word": "출범",
+      "count": 3
+    },
+    {
+      "word": "단협",
+      "count": 3
+    },
+    {
+      "word": "직장폐쇄",
+      "count": 3
+    },
+    {
+      "word": "지원",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "08.04",
+      "event": "내년 최저 시급 1만 30원 확정 고시…월급으론 209만 6270원"
+    },
+    {
+      "date": "08.13",
+      "event": "코리아넷뉴스 - 정부, 외국인 근로자 안전교육 의무화···사업장 안전 인프라도 개선 지원"
+    },
+    {
+      "date": "08.20",
+      "event": "서울지노위, 서울교통공사 ‘노조 간부 32명 해고 부당’ 배경은?"
+    },
+    {
+      "date": "08.21",
+      "event": "나경원 “외국인 근로자 최저임금 차등 적용은 합리적” 국민의힘 토론회서 주장"
+    },
+    {
+      "date": "08.23",
+      "event": "조합원 ‘채용 강요’ 공사 방해한 건설노조 간부들 ‘유죄 확정’"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "updatedAt": "2026-11-25T05:39:47.668Z",
+  "date": "2026-11-25",
+  "ai": false,
+  "periods": {
+    "short": {
+      "label": "단기",
+      "desc": "최근 1주"
+    },
+    "mid": {
+      "label": "중기",
+      "desc": "최근 6개월"
+    },
+    "long": {
+      "label": "장기",
+      "desc": "최근 3년"
+    }
+  },
+  "categories": {
+    "labor": {
+      "label": "노동"
+    },
+    "politics": {
+      "label": "정치"
+    },
+    "society": {
+      "label": "사회"
+    },
+    "economy": {
+      "label": "경제"
+    }
+  },
+  "regions": {
+    "northAmerica": {
+      "label": "북미"
+    },
+    "europe": {
+      "label": "유럽"
+    },
+    "russiaUkraine": {
+      "label": "러시아·우크라이나"
+    },
+    "middleEast": {
+      "label": "중동"
+    },
+    "eastAsia": {
+      "label": "동아시아"
+    },
+    "southAsia": {
+      "label": "남·동남아시아"
+    },
+    "latinAmerica": {
+      "label": "중남미"
+    },
+    "africa": {
+      "label": "아프리카"
+    }
+  },
+  "themes": {
+    "economy": {
+      "label": "경제"
+    },
+    "war": {
+      "label": "전쟁·안보"
+    },
+    "politics": {
+      "label": "정치"
+    }
+  }
+}

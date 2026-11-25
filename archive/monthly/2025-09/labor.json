@@ -1,0 +1,403 @@
+{
+  "month": "2025-09",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:13.286Z",
+  "articleCount": 198,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-09#t0",
+      "title": "성북구, 2026년 생활임금 시급 1만2,121원 확정",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 6,
+      "sourceCount": 6,
+      "articles": [
+        {
+          "title": "성북구, 2026년 생활임금 시급 1만2,121원 확정",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRaUJSN3V4TF91cVBuODlfU1A5Ymc2R1AzVG0ta3BXYUhvYmw4WHN1ajRQQ0tMcW0zRUpUbG5sT1NnSUlIMkZLSl9ITXRXRjZ6XzUyUDZUdklMTFJNMEJsYWNRZDJrLUk0ZHpF?oc=5",
+          "source": "대한행정사회신문",
+          "publishedAt": "2025-09-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울시, 2026년 생활임금 시간당 2.9% 상승한 12,121원으로 확정",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vcUw1V2c0eVlHQ29XZzRmUUtLSkg1YXpvV0tXbFQ1TjRFZ3Z0dTNnLU0xVm5Na3M5cmJtVllPQUhLYWFib0tjUnJtYXU0T05zX3k2YkU0SXBNMC1xemc?oc=5",
+          "source": "환경포커스",
+          "publishedAt": "2025-09-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울시, 2026년 생활임금 시급 12,121원 결정··월 253만 원대",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuWFBNU2p0Zl9xX3hsazZqTGFXSXF6RXBnOEdPSzBfNzROUFZ1UEVVbTJadkI3U2dONnFsLVZyNnNhYVB3LXFaUHZOeWhRbUY1S2NFZldOdWIxOUprRWQtYmI1b0tULWJvYlR5UG9B0gFyQVVfeXFMT2p6U1JPNHdlUVRlNzRWZ0Q2eFBwLVBEZU5xM1JxNXlIdHFLdjdUMzhMWjBfSEdUZmlHZjh5UC1WdFVEYkdyYjhkM3ItcEkxWHE1S0U4NVNyd0xpczB3aFBTUXVwRWk2VWdYWlFLSV9Oc05B?oc=5",
+          "source": "에이블뉴스",
+          "publishedAt": "2025-09-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-09#t1",
+      "title": "산재사망 반복 기업에 영업이익 5% 과징금 부과‧건설사 등록말소",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "‘연간 3명 이상 산재 사망’ 법인에 ‘영업이익 5%’ 과징금",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YY1pBaXZUTncyNDV1bFJMT0RCWnZnblNaQW1NLXpWRjBITnhhNFZkV0pMbGkzTjJ5UWd2UW1CRXNkbWttc045amZWaWtLZXE1VE1HS0hZTVI1d9IBX0FVX3lxTE45TmZObnBtR2sxMnJZYWlCUnM3NXFVclY5Y3dSS1dVNW9XTDE3UkxyWDVfQ2dLZlB5SndSZjlnR2VzM2lxNk42cWVMbUJaQ1d3U3B6QjNSMDhjRFBuTUNB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-09-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"산재 반복되면 문 닫아야\" 연 3명 이상 사망, 영업이익 5% 과징금",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSWE1NE8ybDlmVGhSeFY3RDV2b28teHJza0l6OWF3YUVRNHBqXzhESWh5RnhHQjZrbnNOdERjV1hLTEY2RHM5SHcxNFIwRUJVTFBZcFln?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-09-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "산재사망 반복 기업에 영업이익 5% 과징금 부과‧건설사 등록말소",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iSUFZbzZjR1ZOZU1DMW1zTmY3ajVvWUZJNWM4bHJFcnhRTjBUSTd5LWY0cTk0Y1VrZE01dUFBeXgxTl9JbTMxS01odmx2WS1RNVVieDJHM0VSendiOFprV1hsdVYtWkU?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2025-09-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-09#t2",
+      "title": "내년 ‘부산시 생활임금’ 1만 2275원으로 결정",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "내년 부산 생활임금 1만2275원···올해보다 358원 인상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nV3czZUdRVzhHQmpzWE5HY2QydHhrQUwzTTZTU3JucG0yNGFMMFhobEM1N3o0WkgzeHVZYXpCaExKWHRjY3B0NDlxcU45VWdlSy13SGRQd1FKZ9IBX0FVX3lxTE1wNkNzMkdkZ3FxbEhQVlYwc0w4R3ZnR0dIOVF1d0plUVJvMGdyNUpaQkxyVzlxLUtzN2xHbmh3X1pkUW9MMkdlYy1nRW1qMUpQVHVsMDRyUHFSUnFJTzJJ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-09-25T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 ‘부산시 생활임금’ 1만 2275원으로 결정",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lelFmOFJiQ3o2Ui1DVmV3N19FVTVHMHBDaVk1ZE05MFlRTHFLWnlBZzU1VzdaZnczdkYyeHRxQ3pNQnltclFOZC1mVzVMREZibnR1a3VFeW8wLWswUmlXbHZmY050NlZ0dEs3SkNaemluUE45?oc=5",
+          "source": "부산일보",
+          "publishedAt": "2025-09-25T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "성남시, 2026년 생활임금 1만2,520원으로 결정",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sTDE1VUYtX0hiZkdiMzdFeVozNUxIdkx5bXhWRVJTZTk3ZngyOFUtdjdwU1M3ak4yNE1RMEFKOUhUNzVXc042UEttc3Z1SW44UGtCdmxOSQ?oc=5",
+          "source": "m.snvision.newsa.kr",
+          "publishedAt": "2025-09-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-09#t3",
+      "title": "서울시교육청 내년 생활임금 1만2천570원, 3.5% 인상",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "서울시교육청 내년 생활임금 1만2천570원, 3.5% 인상",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BSFlHWjMtOTE2VUdXT01yUnpBcDFCb3BpN2V5ZFRnTXZzQ01lcUtKaW0yeV9NVUU5RGVsSERmV0dHRjdMY051U3FXb2F0RVp3dFY4ZjJ5OTd1bnl3bVZkZzQzZ1g4ejQ0SFdXbmcyMVc?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-09-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울시교육청, 2026년 생활임금 1만2570원 확정… 전국 교육청 중 최고 수준",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFTUQ2Ql9BWXRRSHlXLUtWWkI4bDcySVF1b2s0S2NFcVN3ZmYzZHVDYTVwMUNDQWhkWExpNmxEVmEzck5ncmxtT1RKbG15ZDJqakUtbERUeUtUN1BlXzQ4M29EdXowRTg?oc=5",
+          "source": "교육플러스",
+          "publishedAt": "2025-09-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-09#t4",
+      "title": "노사정, 주4.5일제 위해 머리 맞댄다…실노동시간 단축 로드맵 추진단 출범",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "노사정, 주4.5일제 위해 머리 맞댄다…실노동시간 단축 로드맵 추진단 출범",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzNUYkRJdVlnc3JIRVB1T0pIa3Y2a2xlU2ZobzQ5a1ppQVhuZHpVWW9LaFkxV3NUcTdRUUVBc2QtRHBtQ21WQW9UVjU4akp5R0hNS3FQajN2LVFPN1pTdURFWXU3clQ0TGowTFZSTmVuTV9rcktWbzltTUN5eVhWVnV3aXJ0cW4wYnFF?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2025-09-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘노동시간단축 로드맵 추진단’ 출범, 연내 로드맵 발표",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JSENFRWkzV2dfSVVOX1I2MlM4T1Z3TzI4UXExQmNKREFXWU12cEp1bVFqQUxRcXgwR0FaYngtemdQdlFHWk1LVzNrMTNMNFJPQ2hzRVhuZHUtVWp5VDdxUExKQ1BTTzZJME1lMm56N3o?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-09-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-09#t5",
+      "title": "산재 경제적 손실, 5년간 ‘170조원’",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "산재 경제적 손실, 5년간 ‘170조원’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIY2VwWEkxS2R0T3JfX1d0dzRwa3hGa1doWkxYNXNnYmxoZFBfNXRQWlNnNHY0VUFZUUZTakRSUmJwbzZ4bU9fRkdPRzVoWkhZRVNNRENKaXR3QdIBX0FVX3lxTE9NcklNUkdiLVhQVl9XeFdtaVMzSXZJaDl4eU1Wa0stTkc2WmJVSEJtei1DWlo0MGZDdmlhU3hvMjVackRHRXotVUdHTWMxd2JSd212N3BKYjd3VFlIOXFJ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-09-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"산업재해로 인한 경제손실 5년간 170조원·근로손실일수 3억일\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yenhwWTVySE9FYVVvZ28yZ1FpSFd4RHNTZE1CYjAzZVFGUDlaYjVwdDRxRzdHcFF1ZFNYZTZaV0RTcWMyMEV4cVRQdzhjUUxuWDhxZmdQSHRCWWfSAWBBVV95cUxQWHltdzNfQ3NMX3lmd1lCN2xFMGNJN3I1OHpfaFh4TjBwM28wVkE5YVlSVGN5ZWNMLWlPM0lrNHdremdTc1ZtbE5uUTlGS2dlcGxpSWNKSDlwaXJ5TDA2eDQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-09-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-09#t6",
+      "title": "유한양행, '2025 대한민국 일자리 으뜸기업' 뽑혀",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "유한양행, '2025 대한민국 일자리 으뜸기업' 뽑혀",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45R0R3RUFpRzN4T0dJOVpocGlCb2c2YzF0ellKajZheE1EcHgxT1BjZ01tM2d5SDlrYjYxZ0gtMWJoWEVTQ00zVFFVR1pPX3MwZDcxSVhIY3dYRTRIbHhGX1FUM2FOb0I4cG53?oc=5",
+          "source": "히트뉴스",
+          "publishedAt": "2025-09-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "유한양행, ‘2025 대한민국 일자리 으뜸기업’ 선정",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hbkluVzJxOGo1eFlaYnhXYXc1Q05yWTVPSnIxNGREenFsU0poOFpxOWFoel91OXpaa3V4bjlYRFRHTTJ1bmVpT1o2TXNOZ0FpRGRtRjVNdw?oc=5",
+          "source": "바이오스펙테이터",
+          "publishedAt": "2025-09-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-09#t7",
+      "title": "노동부, 외국인노동자 근무환경 개선…고용허가제 개편 추진",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "노동부, 외국인노동자 근무환경 개선…고용허가제 개편 추진",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1bVhGTWN1Y2ZDRXp1OGQ5Z1pza0NESEZGR2tURUswQjRTNzJOUExFOElsZnNtOGpTSjlSOVZiQzlYak1GUDh1V2IwaU5BQTNYWExTdG11bk5kNWgxeXVUWHY1Y21mZkE?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2025-09-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "외국인노동자 고용허가제 사업장 변경 요건 완화…근무환경 개선",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nZzE2N0pIRzN3MTlUelRhN1ZXcmNkcndvUG9sR0VWTHdHVFJGeUxxNGZzektuSGwwYXAyelktZmV2QkJ6UlRIQ3BvTGdWOElycmRZT0ZmbEFFVkdLa29DREQzYlpFMS1FRjhKSw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-09-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "노동자",
+      "count": 15
+    },
+    {
+      "word": "사망",
+      "count": 13
+    },
+    {
+      "word": "생활임금",
+      "count": 12
+    },
+    {
+      "word": "임금체불",
+      "count": 10
+    },
+    {
+      "word": "통상임금",
+      "count": 10
+    },
+    {
+      "word": "정부",
+      "count": 8
+    },
+    {
+      "word": "전국",
+      "count": 7
+    },
+    {
+      "word": "노동부",
+      "count": 7
+    },
+    {
+      "word": "기업",
+      "count": 7
+    },
+    {
+      "word": "과징금",
+      "count": 7
+    },
+    {
+      "word": "청년",
+      "count": 6
+    },
+    {
+      "word": "서울시",
+      "count": 6
+    },
+    {
+      "word": "AI",
+      "count": 6
+    },
+    {
+      "word": "예방",
+      "count": 6
+    },
+    {
+      "word": "시급",
+      "count": 5
+    },
+    {
+      "word": "사례",
+      "count": 5
+    },
+    {
+      "word": "지원",
+      "count": 5
+    },
+    {
+      "word": "고용노동부",
+      "count": 5
+    },
+    {
+      "word": "확정",
+      "count": 5
+    },
+    {
+      "word": "인상",
+      "count": 4
+    },
+    {
+      "word": "판결",
+      "count": 4
+    },
+    {
+      "word": "공개",
+      "count": 4
+    },
+    {
+      "word": "출범",
+      "count": 4
+    },
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "외국인노동자",
+      "count": 4
+    },
+    {
+      "word": "개최",
+      "count": 4
+    },
+    {
+      "word": "외국인",
+      "count": 4
+    },
+    {
+      "word": "건설사",
+      "count": 4
+    },
+    {
+      "word": "중처법",
+      "count": 4
+    },
+    {
+      "word": "사고",
+      "count": 4
+    },
+    {
+      "word": "안전",
+      "count": 4
+    },
+    {
+      "word": "산재사망",
+      "count": 4
+    },
+    {
+      "word": "총파업",
+      "count": 3
+    },
+    {
+      "word": "대응",
+      "count": 3
+    },
+    {
+      "word": "현대차",
+      "count": 3
+    },
+    {
+      "word": "노란봉투법",
+      "count": 3
+    },
+    {
+      "word": "원청",
+      "count": 3
+    },
+    {
+      "word": "단축",
+      "count": 3
+    },
+    {
+      "word": "참여",
+      "count": 3
+    },
+    {
+      "word": "맞춤형",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "09.12",
+      "event": "산재사망 반복 기업에 영업이익 5% 과징금 부과‧건설사 등록말소"
+    },
+    {
+      "date": "09.16",
+      "event": "성북구, 2026년 생활임금 시급 1만2,121원 확정"
+    },
+    {
+      "date": "09.21",
+      "event": "산재 경제적 손실, 5년간 ‘170조원’"
+    },
+    {
+      "date": "09.24",
+      "event": "내년 ‘부산시 생활임금’ 1만 2275원으로 결정"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "month": "2025-03",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:31.734Z",
+  "articleCount": 114,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-03#t0",
+      "title": "한은 \"부동산에 흘러간 대출 약 2천682조원…가계 비중이 절반\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한은 \"부동산에 흘러간 대출 약 2천682조원…가계 비중이 절반\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cXgyMlhpLVJiT0pVY2ZHV2wxbjBZMFRWV25xbUV5MGpEbW9kd2EzWDhSWDJZa25tY2w0NHhnbGpOXzV3NUV2ZE9oaUxHcWk2dDJndTFnS1E5OXPSAWBBVV95cUxQakJRTWFVX1M1OXN6MmFVVmVGNzYtU3gtTWdrTzJ2bFNmYVB6Wjh4QTFvazNzQ1VrVEVzZVBPa2FyV2lDRDZfQ2pkWEd5dDRkWWF3bjNpQU1SVWx1ZlFnUXM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-03-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“부동산 관련 대출 약 2682조원…가계 비중이 절반”",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpQjNhVlRPTTBIN0FleWZhQVBXaTJHVk4zVVU4d3pWWEFBQWE4OVAyVklpVVVlYmo5MmhVRGIxdDFWaGkzc3k5WTNkU0VCNkFaQWJFM0tsOFJMdDlZLTNybFVnSE5vYkpSWjVBREF1UdIBc0FVX3lxTE5DWVpNUk9pckJ1QkRqNnZqZHVuaWp1THFOdlMwUWFLV0R4SmZiT08wa3R6aHhnRERnRUFXUGNzQjdTaHQ0cjJMbjYtcjRVckVPUy1rYUgteEF0V2NFWTFLMnV1dmp5b0lmaXc4UTRjYnNtR28?oc=5",
+          "source": "시사저널",
+          "publishedAt": "2025-03-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t1",
+      "title": "금감원, '코스피 거래 7분 먹통' 한국거래소 검사 착수",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "금감원, '코스피 거래 7분 먹통' 한국거래소 검사 착수",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUTRDQ193REkzNHZuTXJ3X1JtblB4eGx0SzBUcHU2OXRBTmM4RVR3WmcxdVRqVEc3N21UUGw5eFpxUTcxQ0JZemp4S0RKLWVoaUctZkpn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-03-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "금감원, ’코스피 먹통’ 한국거래소 전산장애 살펴본다",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmRlNaM1JvSmt5VEVOd25RcEI3WXBtdTVtTEo5Q0Q4c0dlWFM1amdJWDF4ZTcwcENYazhxYXhpSWhkLVZIdGhOdzRtZE5PNUVudFhmdWJwQzVmdTI2aTdFVWhGa3B1cTA?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-03-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t2",
+      "title": "국가별 GDP 대비 가계부채 비율",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국가별 GDP 대비 가계부채 비율",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bEVlemJYS3JBTTRVc1lJQUFSdEFRekt6dV9ZU3JpejE0YlJhbV90SGZkOUZDeEI3MFpmb0lPMlFfQkttdmo1d1B5SDlIQlZQZEU3MG15bFFKYWpKZzl5X1gzNW9KakE?oc=5",
+          "source": "영남경제",
+          "publishedAt": "2025-03-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "’대출 공화국’ 한국, GDP 대비 가계부채 세계 2위",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kaU93S2p4LTlsQVljRWFxVlBZOTRaQkpINlJPZVhWR1BVNEc4QVozU19UUlJ0UFN6TDRXemVOSnZERE8xZGxJb0RDTVBiQ1dxM1dKZ2VhNENGV29CbkQyTXBJek1rckE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-03-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t3",
+      "title": "2024년 주택시장 점검과 2025년 전망 | KB의 생각",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2024년 상업용 부동산시장 진단과 2025년 전망",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQzBUNW1zWGtFTFRkQS0tS0hKNmwwVGk3Q19rRGlrbkZJVjAyejB1czdfc212X3ptZzVUQThsUldQTlJtY1RqYkVPTkxHdnVMTHhwd0xtWEtiOWVWUGJNMEtQeHg0clA0U1RaVHczYm1WdTQ2a1RTVjVZOWRwaHZTNjZzbFZNZ3hLVW1sM05GVGdMYjRpOVdKWC02RE9yZUZsbmRSa19oVDl4blpTUFR4aHc2UnJiTHRlR1JicW1xTmM4ekcyWXJZYnVNclJGRGEwTkF4UlFUY0FnWDZ4QXllYw?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2025-03-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2024년 주택시장 점검과 2025년 전망 | KB의 생각",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcGREalZvSnlGdXdoOTdWSjYzUE5rOXNJc3FuUDZsQTdRVXVxVG1uc1JsZzBfSlVPbEJFSC1mMjktMjlrb0E4QndGZ2RuaXRWVkZqbDlxWHMzTHZCdC02MERwdzVzSGg1VWhaTGg1TGRqV3Jlc2tOLUtGeVFXMGtnaDlWdGlJeTJYVFhETFc5bk13MkQ5UFAwd0I1S01LMU44aVV5bmtkMWxXMXdHYkVjdlpjWHpCTTFwNkhhWGdWdzEzbVVReEtFbmV3RTVWczZrU2hJVWJ0YjFjblVKTnNmZw?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2025-03-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025년 주택 전세시장 전망 | KB의 생각",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcjhSdlNEU0R6aWJkNE5iTldVV1VXQUtscmF3SVlmRnI1Z2swRldoSGR2Q3g4T29TU2RLYjZidmdDUmlUblJyenJFWDFsRUJfLVdnMjl2SDZqcS1yNGVMWWtDX0E3Tl9LUnFyTmlya1JGclotbFFSLVJWV21kTUNueElTM0R1WWFUazlha1RzRHdHNHpWMEYxVnYwM0ZuR2p0dzJ6VXFWREZHVGl2Y2RldFlmbmFibS1UWWViaC1CTHZ6WXYwV0JVTG9lN3AzS2N5WC0xcEpvTURFcE1ERm9JOQ?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2025-03-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t4",
+      "title": "관세 불확실성에 공매도까지...코스피 2,500선 붕괴",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "관세 불확실성에 공매도까지...코스피 2,500선 붕괴",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HZm93eC01am52ckFOcjJkZHZMUllZSlI1SllZbXRWV09SMW16bHdTUXZnNXpRNVNDMU9PeUFhODV3RzhJby1BT0NqTVZ6VXIzQ1BsVTQ0TTJLZG1WR2c?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-03-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "공매도 첫날 증시 '급락'...코스피 장중 2,500선 붕괴",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VVDVwMVpYMjBEaDFJdjI2eXNQWkRQTTZ0Tll4YXhZS25kcHJQclhtMy1SZ1o0OVlWeUhrZFlYTTlkNV96MFcwQUdxTEJkbUpwN2xoN2R1NTVTMmRPOGc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t5",
+      "title": "「전세사기 피해 청년」에 「부동산 중개보수·이사비」 우선 지원한다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "「전세사기 피해 청년」에 「부동산 중개보수·이사비」 우선 지원한다",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lT3BpdFdfeXhpQ3Y1cVU3U3lSb2V1MnVZLU5Eck1wSHBONDNuaWlnOHNFZXZkQmlSOURrQWdOVnRzcjNZS2hUelhjQ1dHeF9MVXAwcUEzbw?oc=5",
+          "source": "분야별 정보",
+          "publishedAt": "2025-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t6",
+      "title": "공매도 재개 첫날 코스피·코스닥 3%대 하락 마감",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "공매도 재개 첫날 코스피·코스닥 3%대 하락 마감",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFX3ItekZxVE5CZENCV0FOS0sxdE9CeWYwZUQ2SkxxZjV3WHJRcjNEdjRPcFladzJxVWdTbHoxbldNOC1CZGk1cGYzSWRQWDA1N1E3ZzR5SGxpbVh6RGNRUloyNGNnSGM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t7",
+      "title": "삼화페인트, 미래 먹거리는 부동산 개발…전문법인 설립",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "삼화페인트, 미래 먹거리는 부동산 개발…전문법인 설립",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HcWc3TXp2TFktdjllc2FYMXoxNHNzZHFmeEtDOWxNbTV6RGx5NEw2RjVSQlBXaFVJaVlXZFFmYlZyZUZ1ei02aUtFemtXakhiY1BpUGxpWURWNFc2c3lYOXFYY3RBdTZ4LXVpOU81eFRTQQ?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2025-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "투자",
+      "count": 6
+    },
+    {
+      "word": "대출",
+      "count": 6
+    },
+    {
+      "word": "미국",
+      "count": 6
+    },
+    {
+      "word": "코스닥",
+      "count": 5
+    },
+    {
+      "word": "글로벌",
+      "count": 4
+    },
+    {
+      "word": "GDP",
+      "count": 4
+    },
+    {
+      "word": "상승",
+      "count": 4
+    },
+    {
+      "word": "홈플러스",
+      "count": 4
+    },
+    {
+      "word": "하락",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "미래",
+      "count": 3
+    },
+    {
+      "word": "공화국",
+      "count": 3
+    },
+    {
+      "word": "으로",
+      "count": 3
+    },
+    {
+      "word": "가계",
+      "count": 3
+    },
+    {
+      "word": "절반",
+      "count": 3
+    },
+    {
+      "word": "금감원",
+      "count": 3
+    },
+    {
+      "word": "국내",
+      "count": 3
+    },
+    {
+      "word": "얼마나",
+      "count": 2
+    },
+    {
+      "word": "개최",
+      "count": 2
+    },
+    {
+      "word": "서울",
+      "count": 2
+    },
+    {
+      "word": "상업용",
+      "count": 2
+    },
+    {
+      "word": "부동산시장",
+      "count": 2
+    },
+    {
+      "word": "JLL",
+      "count": 2
+    },
+    {
+      "word": "해외",
+      "count": 2
+    },
+    {
+      "word": "서비스",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "윤석열",
+      "count": 2
+    },
+    {
+      "word": "공급",
+      "count": 2
+    },
+    {
+      "word": "ETF",
+      "count": 2
+    },
+    {
+      "word": "평가",
+      "count": 2
+    },
+    {
+      "word": "아파트",
+      "count": 2
+    },
+    {
+      "word": "방법",
+      "count": 2
+    },
+    {
+      "word": "기관",
+      "count": 2
+    },
+    {
+      "word": "출발",
+      "count": 2
+    },
+    {
+      "word": "상위",
+      "count": 2
+    },
+    {
+      "word": "부자",
+      "count": 2
+    },
+    {
+      "word": "동반",
+      "count": 2
+    },
+    {
+      "word": "점검",
+      "count": 2
+    },
+    {
+      "word": "한은",
+      "count": 2
+    },
+    {
+      "word": "비중",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "03.16",
+      "event": "국가별 GDP 대비 가계부채 비율"
+    },
+    {
+      "date": "03.23",
+      "event": "금감원, '코스피 거래 7분 먹통' 한국거래소 검사 착수"
+    },
+    {
+      "date": "03.27",
+      "event": "한은 \"부동산에 흘러간 대출 약 2천682조원…가계 비중이 절반\""
+    },
+    {
+      "date": "03.31",
+      "event": "관세 불확실성에 공매도까지...코스피 2,500선 붕괴"
+    }
+  ]
+}

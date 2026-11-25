@@ -1,0 +1,393 @@
+{
+  "month": "2024-12",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:31.226Z",
+  "articleCount": 232,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-12#t0",
+      "title": "환율 15년만에 1450원 돌파",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "고공행진 환율…15년9개월 만에 1480원 웃돈다 [포토]",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12cVhVVmhTVVM3T1ZBU3NUajB1cDY1ck5YTmZOdjNrMWRfZlZhWmpmY0RLWjhsX2ZCN2ZwZUk0YlVNWmFHZXRURHByVDc1UFhXSWF5YXFHaHFkZzFQSmx3eXVackV0OHRpLVo3bEkxeWtiZw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-12-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "환율 15년만에 1450원 돌파",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sM1I5QWdvWHl2STdmVFhZQ2tTV1hPWHNUQjg0aXRPMzdqX3E5ZWRDX0JKbGZ3X25FQjdHV3JINXA1Nks4anBpVGlBZHRiUThvZkl6SF9sRDNpUdIBX0FVX3lxTE5acHZITi1lZWQwZlRNZHlkRWpBdU52QTBEVWU1Uk9GT0IzYkJrRDRHd3BfajliNnB4VnBtYjNuYmd5c1didktMR3k1TXB4X1lBWmVhbUMtUWZWMVBLR2ww?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-12-19T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "원달러 환율 15년만에 1450원대…국민연금 외환스왑 확대",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NU2wzZ0RCbGY3RDF3MXRCb3ZHMThINFNUamR5a2FKX3dFNVFjQ0FTV1VKbjY3MldqamVXajhzLWpSS0g1VUFXYTQ3aEtKWkpIeG51V0FB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-12-19T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t1",
+      "title": "올해 소비자물가 2.3% 상승⋯농산물 가격 14년 만에 최고치",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "올해 소비자물가 2.3% 상승⋯농산물 가격 14년 만에 최고치",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zS3BaS1R2VjhmZEQ0cmFHdFZxSmQ1UkZwVXRCaVJRbTJGaU5HcjBmaTFjbk9wd19DNURTMlRiRHRRQ1VVN1ZiSkNQS1ViS0lndW03U3hGcTBrLXl4ZGI2SA?oc=5",
+          "source": "포커스온경제",
+          "publishedAt": "2024-12-31T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "올해 소비자물가 2.3% 상승…코로나 이후 4년 만에 최저",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFdUs2SURzRHVuVjdXbDE0ZkFielBJTmhxZUwwaTRLeDBadHp4Y1pLamQtM3phNDRsUDd6WFBCbGhnM1dWalF5T2xyeG9wT3ZuZ1hGSnU1ZHEyTmptTVk3WnUxZmlQcE13LXcwTzAyWl9FUQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t2",
+      "title": "2024년 주식시장 '상고하저'...코스피 9.6%↓, 코스닥 21.7%↓",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2024년 주식시장 '상고하저'...코스피 9.6%↓, 코스닥 21.7%↓",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nQlZrWldLZmptd1libmpZVjMtSU9ZY3haN3h6Wk14YW9CZ1Rvd3Y0QlFEXzJDOWE4NmJUUzFGa21pQWRLMVBzMHYwci0wcndTdjdVQ3kxTl9LV0lGelRr?oc=5",
+          "source": "조세일보",
+          "publishedAt": "2024-12-31T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"처참한 2024 성적표\"…1년간 코스피 9.6%·코스닥 21.7% 하락",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sQUhGbnFoaExqemJPRFpsenFSWjhka1QzcFhOQnZMRDJya2RocGlQOERIN2ROcmtfc1ZCV1dtX0ZSRHFsMjNKYkRvLUx6SW5FTzVyOGNXcHpTTGp5Qmhn?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2024-12-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t3",
+      "title": "원·달러 환율 방어선 상승…외환보유액 안전?",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "원·달러 환율 방어선 상승…외환보유액 안전?",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92cFBKak9xa2lDUTV5dXZlZE5JdUpiM3FxNnd0bWVQNzRPRG41VGJSclJQeXFmVW9idFl5Q2dqRm8wS0hKOGxKYTYxWkRnNEU2bExYSmJpeHBRSDRaMTlYTmdyWHJYems?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-12-12T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "계엄 사태에 환율 방어선 상승…\"더 밀리면 외환보유액 위태\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsSmhneHBrWS1jSUJlNVBINlVNNm5FdXFDbE1qSGVGUmJ1MXZINTdhb3hhUjNRUTV2cEhpVkhmVjRrMzNOWEdrN1FEX2ZXaDRYeHVOeU15UGhEUFXSAWBBVV95cUxNVmtGZlJnS2VveXUtTkZEOWNUSTBUOXFrYzZqUExReGppOHJTNmdKVFkwSFJqdnJuTV8wSHdKR2d4SWowS1c4bldlZEZvN3ZGdExvRWhTMXo5cm1jd1F5bnM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-12-11T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t4",
+      "title": "2025년 화장품 수출 114억달러 11.9%↑ 전망",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2025년 화장품 수출 114억달러 11.9%↑ 전망",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NYVdldzZvSnZIODAxdVRYSEhpTmxUNmtsQllFWHJTbENRZjkxbXZRbEZMaERibnlMR1Z1SU5TZzZpVFFTM05wT1hDUzd0U3d0ZHUyZGI3QUppSVpsOW5seTJVNA?oc=5",
+          "source": "CNC NEWS",
+          "publishedAt": "2024-12-10T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "보건산업 2025년에도 수출 성장세 유지...화장품 수출 114억 달러 11.9%",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PN2tGWnZraFBockhKOWRLalFCMTUzMmlkRkVEUTBuUFhzZlpKT1hENEtpa0x0RlF3SEZMMG5zR3NHX3dkRFRMTFhMRzE2WHQ5U0pNdUl5Nkszc1N4cjdfQjVLR3JIMmkzNXZHaQ?oc=5",
+          "source": "팜뉴스",
+          "publishedAt": "2024-12-10T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t5",
+      "title": "삼양식품, 식품업계 최초 '7억불 수출탑' 수상",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "삼양식품, 식품업계 최초 '7억불 수출탑' 수상",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tejVwN0I5UzljTFdGczRXd0hQTGN5Z09qa2I1c0J4aE5rd1NEMEdCTDdrU1RYRVdBMEpjZkctU0R2VmxjTmxyeFV1ZEdCaUhQUmJlcmR0dS1ZZVHSAWBBVV95cUxORHZtc2x4U005YlhEZVBoN28tTjlLbTM1REVRalJPVF9ZLTJXVXRrWmdsbE1UUzZJQ1V6VGl5bXI4R0ZQa21JeHBkN3dGUU1CeFpvV21jdkJtRWNLVmloMlA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-12-05T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼양식품, 식품업계 최초 ‘7억불 수출탑’ 수상",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MN0o3Rjlta1pEd1lVVDFKYjdrUlZOOXlDbnRiVWxZZWhLVDdvdldzXzhaclBYN2xCRjBzd2x4N1I3OURwcUhLYjg5UHJtaHQyNlY5Vl9WZy11NGFQbDFCWXZQZHNmNlM2dXhta0duVdIBc0FVX3lxTFBmdGFSMUg3SGpnc3gxMFU4aTJob1R3ODg0NmFBR01TUVRwQ3J0MjN0cENGWnpjYmhJWGs5YTFxQjJGbEE4ZmNWa1pjdjN3T2Nod1lrYmFkN2U2cXd4R1BlNGR4T1Z0bWZFUkhpTmVUazVLQTg?oc=5",
+          "source": "시사저널",
+          "publishedAt": "2024-12-05T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t6",
+      "title": "코스피 2400선 무너진 ‘2024년 코리아’…16년 만에 ‘최악’",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "코스피 2400선 무너진 ‘2024년 코리아’…16년 만에 ‘최악’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56dDNZV1JoUGhSeWlCc3hQeHZQdlpfMVkzSER6cGp0eURNcHZaejN1eGJpSno4ZW1hU3RuWmtRUkdSdW12Rml1aTZOby1xZTNDeVMtWXJXaU5HZ9IBX0FVX3lxTFBpdy12X3dQUkhtQTlBSklqN21FSnotNDNqOWVKQzVtR0p6TktUWkVzWjZVZ1NmX0NxUHd6dHhpVDJBdnhIR0I0cDFJUl9vNXlHWDZNVmoyckFadklFSklJ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-12-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2400선 내준 코스피···16년 만에 ‘최악의 성적표’로 폐장",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xamVOalFiWlNsTHBna1g4THlQQm50RllOWGZVTVdjREVpUHFVNVZnOUNMSnNHQ3d1ekpoZEc4a3Rab3FCaFN6WGkxQ2poemQ3UGRDQUFoeUFPQdIBX0FVX3lxTE9ISy1BRnZSd3dfdk1HWHlIcUF4NXA0cHlkQTluanFxY1pBWDZSV1ZyTmFPODFCY25yWDAtaXFxQ3VDV0hSWGRLek1ockNJUjdBT0EyRzJyTFpUcnp6MlZF?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-12-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t7",
+      "title": "올해 증시 폐장일 30일…새해 2일 오전 10시 개장",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "올해 증시 폐장일 30일…새해 2일 오전 10시 개장",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIMDR2M1R4WHBKUi1NdHUzN2I4eXc1MFFpWkVYLWR3VTBGSUQ4cEZnc3d3NVRQYURXN3lqNFVncUxpZU9kVmVfLVZLek4xSUtERHM2cTJJd09ZQ2_SAWBBVV95cUxOdUl5SGdXLWoxSUo2eTdzR0xJMHdVY3hFaDVGeWJFdnVKZkZpWnoxWGFSZWE1Rl9zX1NlZWdESVpUajh2azlNRlc4MUpMVUtnamRSOHVrOFV6WDhnVE44YlM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-12-17T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "올해 증시 12월 30일 폐장…내년 1월 2일 오전 10시 개장",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10LVpuMTRnMU1MUFlTTVNPcWlwVVlYaUd0Z1Q0d2ZLc1pCdk1fMzZhZ1NnR0pJRmFOUGVPaU9KbW5RbjJlaDhwWmFGV3pGc0dGUVNvd2ljaXh0X2vSAWBBVV95cUxPQUxxbG9YUTlXaEVRTTNLb01IWmt0ZG9xRTFTb1JGTWRmdy13akFFdWFTV2NFcW9TM0I4QnlwdVBoNmNfYzQwMHRDOW9mZWk3VnZxaldZdkUyY2lWdHZfOC0?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-12-17T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "계엄",
+      "count": 18
+    },
+    {
+      "word": "한국",
+      "count": 18
+    },
+    {
+      "word": "수상",
+      "count": 12
+    },
+    {
+      "word": "상승",
+      "count": 11
+    },
+    {
+      "word": "탄핵",
+      "count": 11
+    },
+    {
+      "word": "달러",
+      "count": 9
+    },
+    {
+      "word": "급락",
+      "count": 9
+    },
+    {
+      "word": "비상계엄",
+      "count": 9
+    },
+    {
+      "word": "사태",
+      "count": 8
+    },
+    {
+      "word": "글로벌",
+      "count": 8
+    },
+    {
+      "word": "국내",
+      "count": 8
+    },
+    {
+      "word": "미국",
+      "count": 7
+    },
+    {
+      "word": "하락",
+      "count": 7
+    },
+    {
+      "word": "수출탑",
+      "count": 7
+    },
+    {
+      "word": "돌파",
+      "count": 6
+    },
+    {
+      "word": "인하",
+      "count": 6
+    },
+    {
+      "word": "위기",
+      "count": 6
+    },
+    {
+      "word": "세계",
+      "count": 6
+    },
+    {
+      "word": "코스닥",
+      "count": 6
+    },
+    {
+      "word": "역대",
+      "count": 6
+    },
+    {
+      "word": "최악",
+      "count": 5
+    },
+    {
+      "word": "소비자물가",
+      "count": 5
+    },
+    {
+      "word": "연속",
+      "count": 5
+    },
+    {
+      "word": "정국",
+      "count": 5
+    },
+    {
+      "word": "시장",
+      "count": 5
+    },
+    {
+      "word": "최대",
+      "count": 5
+    },
+    {
+      "word": "투자",
+      "count": 4
+    },
+    {
+      "word": "주식",
+      "count": 4
+    },
+    {
+      "word": "기준금리",
+      "count": 4
+    },
+    {
+      "word": "영향",
+      "count": 4
+    },
+    {
+      "word": "가결",
+      "count": 4
+    },
+    {
+      "word": "새로운",
+      "count": 4
+    },
+    {
+      "word": "붕괴",
+      "count": 4
+    },
+    {
+      "word": "거래",
+      "count": 4
+    },
+    {
+      "word": "개장",
+      "count": 4
+    },
+    {
+      "word": "아파트",
+      "count": 4
+    },
+    {
+      "word": "외환보유액",
+      "count": 3
+    },
+    {
+      "word": "순환경제",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "규제",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.10",
+      "event": "2025년 화장품 수출 114억달러 11.9%↑ 전망"
+    },
+    {
+      "date": "12.11",
+      "event": "원·달러 환율 방어선 상승…외환보유액 안전?"
+    },
+    {
+      "date": "12.19",
+      "event": "환율 15년만에 1450원 돌파"
+    },
+    {
+      "date": "12.30",
+      "event": "2024년 주식시장 '상고하저'...코스피 9.6%↓, 코스닥 21.7%↓"
+    },
+    {
+      "date": "12.31",
+      "event": "올해 소비자물가 2.3% 상승⋯농산물 가격 14년 만에 최고치"
+    }
+  ]
+}

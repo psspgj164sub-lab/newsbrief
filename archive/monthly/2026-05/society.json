@@ -1,0 +1,393 @@
+{
+  "month": "2026-05",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:26.389Z",
+  "articleCount": 125,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-05#t0",
+      "title": "트럼프 '10% 글로벌 관세'도 위법 판결",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 7,
+      "sourceCount": 6,
+      "articles": [
+        {
+          "title": "트럼프 '10% 글로벌 관세'도 위법 판결",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnQnA1c09OOWoxMWI4VTdyVEMyQTFTSTJOWTJoOXNKUlMyZ3NUeU04RU5KZTI5aFRJZnU1RG1EMzVwQ2dXXzBTemtaNGF1aFZCdXpUOTZuSmVSMVRjV0t2OTlZQmlDa3RIWm9HWDZJN3ZZaTVK0gF0QVVfeXFMUC0wNkJpVHJ6VVNEMS1qdm5vc0JkT1dMV1JaSUtVRl9HNnhwSm5GSmR1bTdZVVJCUVNDWGVzaEs5MnE4OTV4LVc4aWNHU1pIeW9vNHlBQXhncmZrYkVrYXVVYS05VUlmNER0YUdRdGswY2lsTkQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-05-08T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "미 법원, 트럼프 폭주 제동…10% ‘글로벌 관세’ 위법",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PcVlLWDl6YlRmYkNCUy05bnRqUEZlcjFORHRUc0d6RmFya3JwSjF3Y2ZjZXpUc3lZdkZ5LUwwNlVVN1FTSkRRck9XbUduVnk3NzhZYkw2VW44UGxBdTdkeU0xb0hUX0VPQXFWblZBNA?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-05-08T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美무역법원 \"10% 글로벌관세 무효\"…트럼프 '대체관세'도 1심 패소(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzSElxem56Q0VKd3BQSDVBWG9oNDJXWlE0cWx4QlZvcVZuQ0xfYWpnSU9OM29HRUJ6a0ctVnFKbU1YZFBlVjRsVGs3SjNhUlhKT0ZLWUVTTHBkMFHSAWBBVV95cUxNZXBpYlE5YXRtOFE1Vl9ldFFGNFJpX3ZoRHRVOUtFOUxmVEVDYWFzM2lmOWNQaEd0WVZORzlZQXdva0M2Y2V6R1NhZ1JaVEEwcGRleElfWHNYcTFaVUtQeXI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-05-08T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t1",
+      "title": "美항소법원, ‘10% 글로벌 관세’ 무효 판결 효력 ‘일시 정지’",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "미 항소법원, ‘10% 글로벌관세 무효’ 1심 판결 집행 일시 정지",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WWUgzN2xhZzM2czg5WlZrbUdnUmlfY2RiY3o4RVh6UnRfdU5VblpsckxWQXJQSlk3S1VhUUNRSDR3WkY2MEp0SWVmbFE4Z3dudzhSeExOUGN6QdIBX0FVX3lxTE41YlpWaTlaU0RVM012MDFNUUdPREZacVlFVFB2UWlGQ0l3amRnclRCTnpjZDVqblNLRTAzbm1Zb0dJNkh3ekpHWHEtOGpxV2QwR0NrYjdyMGxrWFQwWVYw?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-05-13T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "미 항소법원, 트럼프 ‘10% 글로벌 관세’ 무효 판결 일시 정지…수입업계 불확실성 지속",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43SC15R0dIVGd0N3YtRlRPQ1VTZ3FPQXVEMW1mVjBWVGVZYl9KbHAycHpwR25MWDFiSV93RTZBbzBvRnJmeWpsd2RLZmhlM01UTnNQeEJrd2txel9xdmVwY2cxeEdjay16NWs0?oc=5",
+          "source": "해사신문",
+          "publishedAt": "2026-05-13T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美항소법원, ‘10% 글로벌 관세’ 무효 판결 효력 ‘일시 정지’",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yVlUtSklBalN6TTNPU2JsQ3NqVWFrWkxRb0FWWmxGcmZfZkthRk1vNG9BTmhsWjRqTkdwems5c1hrb3N6a3BjQTlWanNxd0dkbTg2UXVn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t2",
+      "title": "이란 “나무호 사건 우리도 의문”…“가짜 깃발 작전일수도”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이란 “나무호 사건 우리도 의문”…“가짜 깃발 작전일수도”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0eTJJbDB0MEJYQWEtWGtfYVNqcENnMU9Qa2hiNGNTcWNBeXpiTlo3d2psemNDVkQ5UlFGdDd5VnZyNUx6dk51eXpoNXlmRGhYVjhRR0JVZURBNmM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-05-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이란 \"나무호 사건 우리도 의문\"‥제3국 가능성 제기도",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83NFJFWTAtWHVJQlQ5OUxoa2JNbGlKdXZOT0lZcnJWcXpEcUVTS2dsUzBuWmw1MkZWVkhxV19VOEtZVjkxZGxLd0FOLU5nenZZUHREc1M0MWROajV3eDNZUlJWSmtpdVlxSU9FZldZM2V6NmJq0gF0QVVfeXFMT0RwR1JzSmVYYXZKeWo0Q0VxMjBKcG9PMk96bmlKMlByVnJCYjlYSHM3VGVZcjc3dGFabm1KdWU5YXRtVnZ1Y2J6UlZqYmEwMTNUYUJMczgxaTlQOE1qaHotRmVQd1YxbUpGclkwOHNCQVJaLWU?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-05-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t3",
+      "title": "법원 “(이진숙) 2인 체제 방통위의 KBS 감사 임명은 적법”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원 “(이진숙) 2인 체제 방통위의 KBS 감사 임명은 적법”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lQmdMMGkwUWFMcTlWc09Jc0cybzhJOGxQZmhDWmVCazdVa2JPYWxMYXdUQUdIT2ZZNGNhOXRqcG83d09tZ0tESW5GTTZmc1V3QXExYlh6Qk0wUdIBX0FVX3lxTFBpcUlYTjJmQzQzcWxRRU5kb20xdFhnbkRwTS1WU3JiT2kyWURuLUtVRWI3cGNTVzQ4V2IxSGVMQkRnc0lMbVFqOFNmSlNyNDJMVzlXOHhHbWVBRER1UkJB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-05-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 “방통위 ‘2인 체제’ KBS 감사 임명 의결은 적법”",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUU1JY0R0b3h5ZHVJMmtiZW1CcGFNbW9VYzBSZXowT09ReXRrQW1jMmlIYkRsSW50Wk0xSDJSZ2hBSzIzMmZCV2hSekdJMERuY1JUQVhtM1ViMUktT1dFR2pVMjg4amd4eTZpQXRqeEpMbUFxQWVxdGw4Z0JTMVRMUWVNQlNZNE0?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-05-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t4",
+      "title": "복지급여 신청 안해도 자동지급…잇단 위기가구 비극에 제도 대전환",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "복지급여 신청 안해도 자동지급…잇단 위기가구 비극에 제도 대전환",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FazJqamFXdk85TnhNbHJ0Q2dtaGVpMlFIYzc4V2w5N3M5SERRS2xpYWtaRWRpMDVxeVVTN2dlcjd4VEhDeEs0MkYzT2EyZUFiUkNWZXBTeEktaTjSAWBBVV95cUxONU83Xy1pZ3o0cXMtVGtwOUFkdzRlS2xDZmdpMGc3b2VFQzQ1VmQwVkk4b3QxbVFoZmNsb3htcTBfeWM1NWRyel9wYlFqTFNrdmtvallEVVhtOXplUU1LRzQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "복지급여 신청 안 해도 자동지급‥잇단 위기가구 비극에 제도 대전환",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tV3FQUUxTOWN4Wl92dzd1al9zUW14amZGcUlyWEdXbkg5UG1sZlplazM4eUIzMXB3M0t3N3QzTS16SjZMNGRrTzFKYTdnLUFqTEV5YjNSV2pkQTNiVWx5WnV5UUN4WGFsUWZCU0ZQd3RZeUY1c3lJ0gF3QVVfeXFMT0tGNlg3ZGVNZjBHRi1BLS1qcjZfLVJ5SG1hNnhJbjYxN3loLVNjcjlRb3BoamtYdzYtcHVzTm1TUTJzYlg1dFlWNGV6ZG04dnRadDRfY3lLQzVYVFItdFB0N2FBWWNQcm1SM3BwUWxqRlBhZ2thSFE?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t5",
+      "title": "대한축구협회, 정몽규 회장 중징계 요구 적법 판결에 항소 결정",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대한축구협회, 정몽규 회장 중징계 요구 적법 판결에 항소 결정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xM2pZTS1UTlhrWUNoMUJ0TEYwMTVmOURpM3hZbFdCYU9EMGdNcW5RaW40YXYwcjB2by1qcDlkSGRRdUtsZ2RteEo0a1dXazd0bDd1aXM5Q3NjX1HSAWBBVV95cUxOazNtbEFGZ3JMRnpkdTJJV05jU0staWpfLVlOOW0wSlFiQl9BTFBCTm9KNXgwek1oamVuNUNCa2RoN256R3JmWmxLN0oyVDhGZmx4RkpDUThmTU1zeXY0U0c?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-05-06T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "KFA, 정몽규 회장 징계 요구 적법 판결에 항소한다",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05bnd2cWJMY0lyVERWbVBYMmpJTGpzOGVUcXAyM2dvUV9DNmtuUHJ6MC15LXQ0aG83bmpOSVRaa1ZWZUwwVXdpc1FxMm45bHlh?oc=5",
+          "source": "문화일보",
+          "publishedAt": "2026-05-06T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t6",
+      "title": "판사 10명 중 7명 ‘판결문 공개’ 찬성…“법원 향한 공격 줄어들 것”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "판사 10명 중 7명 ‘판결문 공개’ 찬성…“법원 향한 공격 줄어들 것”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90X05kazAta2dCSGJUVk9qN0hVaDNHNVpLOVhITTc0WXpQRE81amkyaEFkbk1GekhMTTQ0ck51ZnMtUXgxZHEtMlpsUzFtTEhCZ2FvZGFBbkh1d9IBX0FVX3lxTE1TMWFjY29EZzdkMzBiSzBCZ2wtS0NMOHRMZ0QzcVlCS1JhNEg4WXNlYWZNWGswaHRVemdDZVlpSFVTelFka2xIVENDVS1hcWgtcDhZMXFsa2NRU0NrR2pn?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-05-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“판결문 공개로 법원 향한 공격 줄어들 것”…판사 10명 중 7명이 ‘찬성’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WVnN1cVpLLUVuVFFOZEZmRHlLRDV3MElKdUpsREUyTEdyQVl1M0RzSUFLMlFzN3dqZDgwT256cm00WHdZT080YzhORUowTG5HZndzN3hKM29fUdIBX0FVX3lxTE9sTUp1YU9VZUlLZTNwakljRVlzRXk5dDdHcTQzNDMxRkFLRENzUDNMV1VXYWdmalZmVWhRTUFmOTdvbHZ6dVNhSlJ5LTRYQTRrcnV1c0ptYWNTLU9YbmRJ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-05-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t7",
+      "title": "부하와 말다툼 뒤 쓰러져 사망, ‘업무상 재해’ 맞다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "부하와 말다툼 뒤 쓰러져 사망, ‘업무상 재해’ 맞다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxM2FWZnppdzk3a3Yxa2c3M2dXNTJoelZkZ3dRaXhmbUpSdlhNcl9pWFRBM3ZVV1UwbExuUllEYk94MFpoSlBKb1Q5MDVSS2JDLWI5eVlXbmotUENqUkJkQTJfRXFERmFRNW5kQzRR0gFyQVVfeXFMTWtsbGFCZHppcmVTU2ZIeXk4amNpSzlOOHZjbzVqdnhicTZBZXZPMlpJVlpWUkVQWWZzV1VQd0FqR2RURG5jcUN0RXBWaDR3M2NSY2I5Qy1LNnk2RlQtd214SzJZS1RZcXE3Z29Ma1RIeUpB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "판결문",
+      "count": 10
+    },
+    {
+      "word": "글로벌",
+      "count": 9
+    },
+    {
+      "word": "관세",
+      "count": 9
+    },
+    {
+      "word": "무효",
+      "count": 8
+    },
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "공개",
+      "count": 7
+    },
+    {
+      "word": "삼성전자",
+      "count": 6
+    },
+    {
+      "word": "배상",
+      "count": 6
+    },
+    {
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "위법",
+      "count": 5
+    },
+    {
+      "word": "AI",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "책임",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "회장",
+      "count": 4
+    },
+    {
+      "word": "적법",
+      "count": 4
+    },
+    {
+      "word": "피해",
+      "count": 3
+    },
+    {
+      "word": "대응",
+      "count": 3
+    },
+    {
+      "word": "우리",
+      "count": 3
+    },
+    {
+      "word": "신청",
+      "count": 3
+    },
+    {
+      "word": "잇단",
+      "count": 3
+    },
+    {
+      "word": "제도",
+      "count": 3
+    },
+    {
+      "word": "대전환",
+      "count": 3
+    },
+    {
+      "word": "ZTE",
+      "count": 3
+    },
+    {
+      "word": "항소법원",
+      "count": 3
+    },
+    {
+      "word": "일시",
+      "count": 3
+    },
+    {
+      "word": "정지",
+      "count": 3
+    },
+    {
+      "word": "목사",
+      "count": 3
+    },
+    {
+      "word": "판사",
+      "count": 3
+    },
+    {
+      "word": "징계",
+      "count": 3
+    },
+    {
+      "word": "취소",
+      "count": 3
+    },
+    {
+      "word": "인정",
+      "count": 3
+    },
+    {
+      "word": "유죄",
+      "count": 3
+    },
+    {
+      "word": "방통위",
+      "count": 3
+    },
+    {
+      "word": "KBS",
+      "count": 3
+    },
+    {
+      "word": "감사",
+      "count": 3
+    },
+    {
+      "word": "임명",
+      "count": 3
+    },
+    {
+      "word": "패소",
+      "count": 3
+    },
+    {
+      "word": "정몽규",
+      "count": 3
+    },
+    {
+      "word": "특허",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.06",
+      "event": "대한축구협회, 정몽규 회장 중징계 요구 적법 판결에 항소 결정"
+    },
+    {
+      "date": "05.08",
+      "event": "트럼프 '10% 글로벌 관세'도 위법 판결"
+    },
+    {
+      "date": "05.12",
+      "event": "美항소법원, ‘10% 글로벌 관세’ 무효 판결 효력 ‘일시 정지’"
+    },
+    {
+      "date": "05.15",
+      "event": "법원 “(이진숙) 2인 체제 방통위의 KBS 감사 임명은 적법”"
+    },
+    {
+      "date": "05.18",
+      "event": "이란 “나무호 사건 우리도 의문”…“가짜 깃발 작전일수도”"
+    }
+  ]
+}

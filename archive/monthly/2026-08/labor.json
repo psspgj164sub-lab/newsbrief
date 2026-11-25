@@ -1,0 +1,435 @@
+{
+  "month": "2026-08",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:14.924Z",
+  "articleCount": 283,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-08#t0",
+      "title": "2027년 최저임금 1만700원 확정",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 16,
+      "sourceCount": 15,
+      "articles": [
+        {
+          "title": "내년도 최저임금 '1만 700원'…올해보다 3.7%↑",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pVnRKcXQybjVYRlBZQzEzMWZOSzhWQjNZSGVQVWtfaFVaUXp4WjJfVDMwT1N2ZU1mWk1hYmZnb05iWUxSQVFSTS01SW1YdGR4cFFOdzM4Ujh6NEplUFZhR281Y2lSNkp2Vmc?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-08-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2027년 최저임금 1만700원 확정",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PM3JhU0dYWXVlVzlid1RVbFhaeWpJdXlWT1NjUmJVaG53MzFLalZQT3BxWnJua1RRbWd6RXlERFRFQ2ExZnNtbDNyNVdpbjFrNXlSZTlhMjZ0ZTVvdHlKaVJHZktTUGFIdTBVOGZYT24?oc=5",
+          "source": "소셜포커스",
+          "publishedAt": "2026-08-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 최저임금 10,700원 확정, 사장님이 지금 챙겨야 할 것은?",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxdS1SWWtlSVNwdTBueF9JRWo0NWxjMmFqYXZsVjVCd3RnbklkcmNGelRnUXV5RUJ4X2FQbkY0UWxqUjNSY1pKUU5PbTduWE4tYXpfc3NMV2U?oc=5",
+          "source": "네이버페이 머니스토리",
+          "publishedAt": "2026-08-06T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t1",
+      "title": "현대차 노조, 10년 만에 ‘전면 파업’ 예고",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 7,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "현대차 노조, 10년 만에 전면파업…전 공장 '올스톱'",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DQkFxdUVmeUFSdWNvZnhuNjdiQ2VFMXhQOVZxV3ZoOHZ0MmNvVTYzQzZIWkdWWDdzdXFGRnBSaFF5NmdFNWRoRnM4WlJYWUhXby01S0VGYjBDUUnSAWBBVV95cUxQa1RZdy1XS3JIZFlCR1pXTFpqWjIzVWZGWlhaejZ6Y2Q0ZGRqSlVJR0k0VzBxbUdRd3pPRmxqWWxybXFZa2hlSXNnMWpPOGREd0hKTDQtLS1ob1lXNnRHaDE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“상여금 50% 인상” 요구…현대차 노조, 10년 만에 전면 파업",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4bGlRdnNXUF9oR1RkTTVMdnJmcVVwajFFUmFMU01NWWVWODZpcEJxSUJBcDYwZFlvb21sYV81SlItYTIxUUZ1TGU5NGw3eEh0bmVtcER3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-08-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대차 노사, 합의 실패…10년만에 전면 파업",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JcmVQUXBYdGctNmh2dlZCRlVUMDVtVzRLZ1p5NWducUhEVnU5TzNXU09fV09FNVhSVS1xUmMtY1BkczFHRXFOUUM1U1RVbXJzYzM5X2VRUjVVRUtRY0k2OEgzSk8tbkQtSXEybkNkM3I?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-08-19T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t2",
+      "title": "현대차 노조, 내일 부분파업 유보‥임협 교섭 재개 예정",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "현대차 노조 오늘 부분파업 유보…교섭 재개",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51MHFKQW9TVUJPS0oyQTc3R0hTT3d2Mk1lRkJKYkFJbjdTS3psV0x0Rk82MUFEcDdIalp5bkZGU0Z3SnpHX3dTR21kNVVsRl9EcTQtNVZIbXlZb3o1UU0tNFJBc3l3bHM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-08-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대차 노조, “내일 부분 파업 유보, 17차 본교섭 진행”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5d2xUaUpHWE12b0E2c3JWYzA3S3dSSDFwMlppNkhlYktqaEktd0RIZXN6T0dUWmJlZ3hHQV9hMlo1aEdQc1RuZE1zaXd2RndaeWEwU2NHUklEUDg?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-08-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대차 노조, 내일 부분파업 유보‥임협 교섭 재개 예정",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EdTAyaENJSHAtcjhkb3ZFWHR5ZF9vREFfamwwRTd6ckdaMEtmaFBzRmZTQjQ3bThzUmQzdkNzWUZEUFp1NHN2X01PR0NkSDBnRlhaQ0w2d2lzSkk0UGFuYkFSSU5qd0dGTzU5LVZQUTRpWjA30gF0QVVfeXFMT21aa3hQSWJJcEN6ZW5lNk1QSTdEaUpFSUE4TnhlQ0V4aWFPcHNvWWRpdVFzUjF3UW5jN1RqdlB1a2FWOU00MGpuM3ZpWklLdjhtYUxUWnZYckFYa3laRHNtTm51b2p2WGxSa085ZmZFX2w2cmk?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t3",
+      "title": "김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWGEyYWZpYVM4V0p3b3ZVdFZRLUNDdHAzcEUyUlV4V1VSYnVUM051TVREMHBlZVVqMzA4RVBsUXZnQWptaDFYcG8tMXMxV0tOMUpoNVBiVmdhSUpvX045N1BNZ2JqZWc?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "3년 전 미국서도 끼임사… HL만도 대표, 중대재해법 위반 입건",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0TjRRY01WT2hOTnhyc0dTT21TNWpvVTZJNXZtOFFaNmJCQmp6aVdiNnpRaUwxSGpyTjF3MG5seHo1NmQtNEVBTERGVGFEOWZCOFFNYW5JdFJnN3BqdDBmRUxvYUx5Q1kyb01lTXF4UQ?oc=5",
+          "source": "한겨레21",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘20대 하청노동자 끼임사’ HL만도 대표이사 중대재해처벌법 입건",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hRjBQbVc0UUw1ZlpKZllRYjlZcGxzVlBpT3lIZ0lsR2ZQVThUa3JJT05ZcDQ4YUJZTkhwMU4wOVNoTWU5c2YxcVhtS0d0U0JaTGNsdnJiR012d9IBX0FVX3lxTE1OcUxMYjdLVE5rZjdnRHdhMkE2UzRnMHZMcmVUaDUzdjV5TlJac1FWc3R5MGR3ZkVZNEk3eC1WOXBCTmpsTW84X0NkNzkwWFhueUdxYzBYUHhYazFOUjI0?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-08-19T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t4",
+      "title": "노동부, 공공부문 200곳 ‘비정규직 노동 조건’ 집중 감독",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "노동부, 공공부문 200곳 ‘비정규직 노동 조건’ 집중 감독",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5UnBuQjNKRXhjSDhJUkNqRmJSdFEtSWN6dEhNUzhGdnJpYWpnQmlvY0dNa2VqR2JSenJpbTdHSC1mNnVWUjY4UmJfa1NtUEpyQnNHZWY0cEx4V3FRbTBydXVMN2libGdEalJ0eNIBcEFVX3lxTE1CVG9yTjVjeGZvNDhRLTdrTjI1NnBscnBMaFBFaThCdnM3R0QxVTBzZk1jMWloaG5LSjFQODZieUNyNzFsMlQxZExhRUlZYTZkbWt4ZWEwcWtyZU5iRFREMjlBRUVtbU04SGpmS1IyS1g?oc=5",
+          "source": "전기신문",
+          "publishedAt": "2026-08-18T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "노동부, 공공부문 200곳 대상 ‘비정규직 노동 조건’ 집중 감독",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmV1dPTXF1a0U2d0EzeHFkTWd1ZlEwT0t6UVBSN196UWlrNDk5amxkOHROLVBvNEtLU09wa1pBWXBGN3dUajZVbXBPWW1LaE96Y3pyZUxtdTJwSjA?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-08-18T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "노동부, 공공부문 200곳 비정규직 근로 실태 집중감독",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wcEhnLWp2dGJKNm9qTGlDZnVxS3g4Qmh1c1JDNm54eVlYa2hzTmpUYzg3TzVSRS05d0NPSGxhNzltdE56WTJsN29iWHhkZGJJakkteFpZX3JVeS1TSnQ5QTBxUFhTaEc0cTRDc29fcXZkZ3pKQjhF0gF3QVVfeXFMTjBDWlhYN0FreTlHTzlyb05FSGQtdm1OQnh2LVh5Ujd5TVdaSXp0VTJCMHdSdk9vd0ZfMnVUX243QWlFVW1HQVc4MUhqbVhyMGpuQUZNdEtvVm5YWlNyQllsMmlQNHd2UUU3TmdxVkhwOHhISndSZGc?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t5",
+      "title": "산재사망 3명 이상 기업, 영업이익 최대 5% 과징금…규모별 차등 부과 검토",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "산재사망 3명 이상 기업, 영업이익 최대 5% 과징금…규모별 차등 부과 검토",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuVFZQSWFRTXFIbzVBWjhLQVNZbW5OdXBaOXNBMzF6c0RyWWJMWGZsMjNKNFVEV2JpTUVpZFFlVXFyZFZYdkpYZkowRl9tZDBCSFdvQldLenhSenZ5aWZicEY5U0c2WXc?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2026-08-18T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "산재사망 '영업익 5%' 과징금…기업 규모별 차등 부과 검토",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pUTJfRW5sOXZVMmJBZ0dRakplcDZnWWw2eXpoQmNGSllhdWFna2paS3lqMkhNREpsWnp3QnEtVUxHWmV4V3hqZWVXWWpuWWpYbmZ0Y1c1OGItRVnSAWBBVV95cUxQUjhIcFBCNlpTcDlEVlMxTFhDSDVvR3BuejRqWDBUV0Ywa052a2tCNU1td2VMYUpVQzI4ekh5dDBhV2dsRXZZVU85NDh0TEpqNjFYVDBWajEwejkyZ3laRnU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘연 3명 이상 산재 사망’ 기업에 영업이익 5% 과징금…국회 문턱 넘을까",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GeE5oSGlCNFhmblZTVUMxZG50ZjRhY2FrbFpPZmlhM1k5cTZzV05aalRvc2l4N3FLVHlmNF9xN0ZaT2pCbnJoSFhqTUR4NTBlWkJBQzZXM0FqSzhSREVIelM0OXo?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-08-17T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t6",
+      "title": "포스코 2차 하청노동자 61명 근로자지위확인 소송 제기",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "\"2차 하청도 포스코 노동자\"···61명 집단 소송",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04YS1icEE2QTU2eUJjVFdaQ0dCX0tBS2xXZGFvZjludExGWm03ME5qTmhLZVk5VWh0cmpBNTRYbkNtSXRNSmgtVmlzaDQ?oc=5",
+          "source": "대구MBC",
+          "publishedAt": "2026-08-14T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "포스코 2차 하청노동자 61명 근로자지위확인 소송 제기",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9McUVUTXRfMkcydlBhb3laTFYxYzF5ZEFtQm9pT3EzbTdyZDRRY1dwNS0xTjZ3ZzRZYTRjUnZJU3IyN2tGbGp3TUhhYmVJOXdBODFJcXJBLVQ0bG5ydWZacUxEZFNBZFJ5RnZSX1NvZGU?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-08-13T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "포스코 사내하청 노동자 61명 근로자지위확인소송 제기",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wU1hDUDRkQ2ZmTHdBU0VpZTdzckZRYWI1SFZlVi1JRGNjbFJRVTNOSXFfOHlBRkRDV0R3SWxoM3pwOVltSmdLVXFyM3I4Wk0?oc=5",
+          "source": "뉴스민",
+          "publishedAt": "2026-08-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t7",
+      "title": "서울 시내버스 다시 파업하나…노조, 노동쟁의 조정신청",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "서울 시내버스 다시 파업하나…노조, 노동쟁의 조정신청",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JUWRyck4xN2d3cGxHT21IeGZGQkRMZm5TamJ3aWJVWnh4a0hMQmk4Z2ZKMmh6dktrdjZ6ZG93RnV1X2tseFFXZGRhM3M3c0pVS3hBNmNYTWpTdGfSAWBBVV95cUxOaW5zTTNkdnpzZnE0VW5xa2pSNGV3Qi1yWlpmT3lNMW9LNTFXRGF5QUl3WThKWHh3R2FranIxZVh1SlJscE5pNUQ2SzlDMzNhTmsxdE5qcWVXRkY2X2tKbDY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 시내버스 또 파업 위기…노조, 노동쟁의 조정 신청",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45RGxTREJQaU1lYkZDbDd0SmJnNWhyOWJxVFJNQnBmT09heXM5S1d1VkFqRXhXZkItaG10UjNrZTRUUjYyNy1zNUt5eDdoa2E3WDhJWUlzcnhzSGJPcGlTR21CRUtfbkE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-08-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "현대차",
+      "count": 20
+    },
+    {
+      "word": "하청노동자",
+      "count": 13
+    },
+    {
+      "word": "노동자",
+      "count": 13
+    },
+    {
+      "word": "확정",
+      "count": 13
+    },
+    {
+      "word": "원청",
+      "count": 12
+    },
+    {
+      "word": "포스코",
+      "count": 12
+    },
+    {
+      "word": "사망",
+      "count": 10
+    },
+    {
+      "word": "교섭",
+      "count": 9
+    },
+    {
+      "word": "노동부",
+      "count": 9
+    },
+    {
+      "word": "청년",
+      "count": 9
+    },
+    {
+      "word": "감소",
+      "count": 9
+    },
+    {
+      "word": "법원",
+      "count": 8
+    },
+    {
+      "word": "AI",
+      "count": 8
+    },
+    {
+      "word": "전면파업",
+      "count": 7
+    },
+    {
+      "word": "차별",
+      "count": 7
+    },
+    {
+      "word": "소송",
+      "count": 7
+    },
+    {
+      "word": "공공부문",
+      "count": 7
+    },
+    {
+      "word": "금속노조",
+      "count": 6
+    },
+    {
+      "word": "임협",
+      "count": 6
+    },
+    {
+      "word": "최종",
+      "count": 6
+    },
+    {
+      "word": "전면",
+      "count": 6
+    },
+    {
+      "word": "적용",
+      "count": 6
+    },
+    {
+      "word": "중대재해처벌법",
+      "count": 6
+    },
+    {
+      "word": "hl만",
+      "count": 6
+    },
+    {
+      "word": "노조법",
+      "count": 5
+    },
+    {
+      "word": "통합노조",
+      "count": 5
+    },
+    {
+      "word": "기업",
+      "count": 5
+    },
+    {
+      "word": "연장",
+      "count": 5
+    },
+    {
+      "word": "부분파업",
+      "count": 5
+    },
+    {
+      "word": "타결",
+      "count": 5
+    },
+    {
+      "word": "대표",
+      "count": 5
+    },
+    {
+      "word": "부당노동행위",
+      "count": 4
+    },
+    {
+      "word": "지원",
+      "count": 4
+    },
+    {
+      "word": "성과급",
+      "count": 4
+    },
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "시내버스",
+      "count": 4
+    },
+    {
+      "word": "원청교섭",
+      "count": 4
+    },
+    {
+      "word": "난항",
+      "count": 4
+    },
+    {
+      "word": "거부",
+      "count": 4
+    },
+    {
+      "word": "조정",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "08.03",
+      "event": "2027년 최저임금 1만700원 확정"
+    },
+    {
+      "date": "08.17",
+      "event": "산재사망 3명 이상 기업, 영업이익 최대 5% 과징금…규모별 차등 부과 검토"
+    },
+    {
+      "date": "08.18",
+      "event": "현대차 노조, 10년 만에 ‘전면 파업’ 예고"
+    },
+    {
+      "date": "08.19",
+      "event": "김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\""
+    },
+    {
+      "date": "08.23",
+      "event": "현대차 노조, 내일 부분파업 유보‥임협 교섭 재개 예정"
+    }
+  ]
+}

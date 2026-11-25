@@ -1,0 +1,407 @@
+{
+  "month": "2024-12",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:17.830Z",
+  "articleCount": 233,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-12#t0",
+      "title": "윤석열 대통령 탄핵소추안 가결",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 10,
+      "sourceCount": 9,
+      "articles": [
+        {
+          "title": "윤 대통령 탄핵소추안 가결 ‘직무정지’",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMFRSZXRfTWo5emR1YU9mSHFqaE5pUDh6VERMVHVBUElWa0l2bEt5VDZpYmJVUjdfRGNOMmxjYTRKUmZUNWcwd05ocTQ2YnhpNndDcUdzOHpfT3I5alFGQmY4MEx6c0tGcEVmSVcyMS0?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-12-15T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회, 尹대통령 탄핵안 가결…헌정사 세 번째 탄핵소추(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaZm5Kd1djMWVHYklXTDVTVVkxZ3gzd3RBdUhsYi1IS3dGSkRObkFfV1BDRHNzbW1HWktGSnd4QlJHTUhiQzVtLUVRa1E0dXhvNE9qSFdraXBpZzjSAWBBVV95cUxPV0ZoamdsU3Z1WnEtaUlTR2tuRklSNmpWV0VwNXktclJxUlVja252VWlNblM4b2hqdEVORjhCT0tCdXllRUM5MlRHWjBIZ3ZiUEVCMTdXalpEQWRkSDlfc0Q?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-12-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "윤석열 대통령 탄핵소추안 가결",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBudTV0eUV0V2lLMHoxaVpWcFRVMlNCcTVEQTg5MUhpSEloaFZibjVLbWl1TWxrMDdkU0RqSDVzVkpUNDI2TlR3UHUzSzNlZGdBWlhsb0FHTmFENnRk0gFiQVVfeXFMTkFxblZYUWhtb0Y2SlJER01xMUxCcjcyR3FJMHZnakRSYkh0LUt5TkdWZEU4THJsMXkyTHJFY3VLQ1BMSkhfX0xzZm1rTlRacXp5c0dMLWVtRDZXOWYtN1V4NXc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2024-12-14T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t1",
+      "title": "野, ‘尹 탄핵소추단’ 구성…단장에 정청래 법사위원장",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "국회, 윤 대통령 탄핵소추위원단 구성…단장에 정청래 법사위원장",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vbjJ0a1cyai1jaEt3bkg3UGQ1SS0yQWlRNlplODNPZUpSM05fbXZkMWNac0N2ZG1uYmVJRFR0cG9QWFppUjNDM0tlOFIzUmFJVHFqdno2d055b2xiU28tX1FXcXgwN3NCTkdJY1930gFyQVVfeXFMTkNCSFd5eVdSeUNqeXlpQkhXMkprSE9lSFVhY3d5TjNBY0VFSkJwMXYyQ0R0QzdXR3NoWGwwWE80c0xVTEJxSklUbk9BWHBwb0dJLThVSkFuY0NoYkFxTnZQczh1dzAzTXZzYmV0RF9nSFJB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-12-17T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "野, ‘尹 탄핵소추단’ 구성…단장에 정청래 법사위원장",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQaTlic2hxX09vMWJHT1hVZFVKNU5hVHFsbWtiLUl1eFNHMFVzcDBVS2dJSVYtNDBRNDNDall0ellTMFZUNERINDJ2LXBkdGxIdm13NkFZd2M5X3J4UEdQYXFxeEhYclRqOGJ1MEI5QnVoQ3Uxajdj0gFmQVVfeXFMTlFWRmd1TFh4TFZYWE1tQnVTUGQwTVc0Rk02RnFCZjV4WGxtRTF2N2hhaUkyVVM5ZEtyb19iUDY3cl9rdGJrMjB2VndmSnE1ZldxUXI1VzZYMjkyM0ZqLU9ISVRieUtn?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2024-12-16T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회 윤석열 탄핵소추위원단 구성 착수…정청래 “구성은 제 소관”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XRGlVTjJSYTFkeVp0MnBRRUhYeHlrVWhvbXU0Y1ltR2VibjVXREZ0OGJyampiOXg2SElpV1hpLXRlWWJYZjB3Z0J1MGlWZU1BWWo1TThtRzZ3UVM0LW1vcEZSeW1ZUDM1UlE?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-12-16T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t2",
+      "title": "윤 대통령 탄핵소추의결서, 헌법재판소에 제출",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "윤 대통령 탄핵소추의결서, 헌법재판소에 제출",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFdEgtWFVXYldheUJURm1pc1pCUExURW0tV2VweFhFSHFWc2FWaWVUSlF4QmNGQ1FpazJ1ZkRwNHVvZ0hXYjdwdkY3VkJKRDE1YUx3NEl4UmFvZ9IBX0FVX3lxTE5FUXRTemZaWjJiUF8yenFQYlhYcFIxN3J0LXJpY2RZOC0zUFdSU2ZBNUJrZVJIWTBQNWFSZjNzTTJ3WEpubFpWODlFSFFEbEJ1d1V4VVpucWlhVUp0YWhZ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-12-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "8년 만에 대통령 탄핵소추…국회 넘어 헌법재판소 심판대로",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zRzRpQU5xbEhRVHhHZU92b0VLZHZSXy1GdUFNbE9DU1pLdE5zalhxOWFRVko3Ukc0Z0lyVFhTOGx6MlhIdkhhTXhaREVTRmltRHRmZGRSM3ZSLTMxOUhmd0VYbkF0TzQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-12-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정청래 법사위원장, 헌법재판소에 탄핵소추의결서 전달",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2cEFBQjFiS0t6cF8xZFgxLXhWdmNiQXFpRk95QWFpaDhVa0p1d1NNWHJGWFdQRDRLRU9PcjNYc3NPaWRlLW1leHVNMGZCNEpZRS1qQ085bWEyTHE3QVJWakJDRDBJLW8?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-12-14T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t3",
+      "title": "북한 외화벌이 동원 IT 조직원 15명 대북 독자제재 추가",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "북한 외화벌이 동원 IT 조직원 15명 대북 독자제재 추가",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EamVGdkxSWW4weVg1V2xVN3FENEwzM2l5U0FEUG5oU1N3d1NHR2dCdTlJQ2s3aDFSa09PM0toOWY2dmYwTHU3YUZLMlk5aXFyTmRvWDhOUEFhSklqcUE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-12-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정부, 북한 IT 조직원 15명 등 대북 독자제재 추가 지정",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54aUJvXzBGcXluSUdlV0x0cmZldnpjRzV4blVJaHZDV3Z3SnM0ZXlkRlZuUDZtWDU4a08xMDg3MFF6UUYwNmU4dkx0bFJ4T2w4ckliRnFsR2RKZ9IBX0FVX3lxTE1Tb2htcVBrLXp0VTVmZ0hBd080M0dPYjU0eF9WUUwzMU1vTHhZOUxQeFNxQ2xNNnNnSzhBVzA3YzlLcWRFdTRPeGIzcXBjZzdGcU1ERG9iaG50Q3hpQjdJ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-12-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t4",
+      "title": "시리아 독재정권 붕괴가 북한에 줄 충격",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "시리아 독재정권 붕괴가 북한에 줄 충격",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwZ0dLVmxTSnR5cnA4M0E2UzdMTnBVS2ZMSWlCOGxfZnY0a0FnNHdwLVp2bkVCZ2o3X3FSQl9sYW91QXpFLVJrUmRyTWd2R2JGSm9ic3B3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-12-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "무너진 시리아 '독재 정권'…북한에 주는 의미는?",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Z0QxS2MyRDVUMUNadHRVWGtrem03U0xKWjJmZnUtTU1kcU9xZVhBUGwzRk41Vi1pV2VqLWI2LWp3ZkJqVU8yUTJCeV9Ga1c1Ry1DeEdUUTBHN1Qw0gFiQVVfeXFMT0t1XzVGYkR6YWtka081MUVUQ3h2cWdJb1lEc3RWZUVpdjNnWlFsaFUwM1V5Zk81Z0YxeWxfRVZzTGpqWTA4LUJQaXhhT1lkbzNNeWZDSTRaS0lQbzBEbEpDd3c?oc=5",
+          "source": "BBC",
+          "publishedAt": "2024-12-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t5",
+      "title": "통일부 \"북한 대남기구 거의 대부분 폐지한 것으로 추정\"(종합)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "통일부 \"북한 대남기구 거의 대부분 폐지한 것으로 추정\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QYWF2UlllUzZmZmFGVFdpV2wyU2RVSk1iUE5jcjN1b0lXSUJIcHYyZE15MmF2TFZrOWRNU0JYZkUxTHhHWWVrUXBCWVg2TlVvOG44R0d1d1FNd0HSAWBBVV95cUxPWTh2R2ZET1lLRmE1UERnNEp4TXNFaV8zYzB2bFNnbXlUZTNRSFBpMlgzX1gtc1BfTHFMbEwwb1dqNzgyQ1FQaUJDS2hSUy0tOGVENmg4YXBHY3ZYRVVoTjE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-12-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "통일부 \"북한, 대남 기구 전부 폐지한 것으로 추정\"",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xUUtWdmxhU3p3VThYZjR6N1dBYnNSeS1DVUdjdHV4aTE3anB1ZTI3bnlVNXdSTUE0bkF5d01QdmNBUHJjYndvYVZLakc5bUdKV1FRT01n?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-12-23T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t6",
+      "title": "국회의장, 탄핵소추 의결서 결재…헌재 심판 절차 시작",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국회의장, 탄핵소추 의결서 결재…헌재 심판 절차 시작",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45VW95YVJwSjJUQ1RNVUZRemgxYUlmak9NeWpBMmNmTWx3OHJ0RG5fSzdlNEQtT2YzQkZQclNHaF96RWlWM3A4WjNiUDE2ZTdyVmVLLWliRHVkd9IBX0FVX3lxTE96Z3BYanZhVm01UVJ6OFg1RFdrTEhtc052SnUzOUxJR3pmR01LeHJnaFZaQ080WTRZUXZuT2kzLUVWeWlEeGpUenpxWUZ4MzdLSTVDYnF1Y0x0RHV5WVpj?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-12-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "우의장, 탄핵소추의결서 결재…대통령실로 사본 송부",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xT3d1ZldmT1k2U3ZDOXBybFhGVEYxUVAtSVE1a0o0c0g5YVN0c1pOSk9CQXQwSGllYjFKdzdLX3ExX09lLU5jYWljeXpoRjZhNFdlandEQ1JhVkXSAWBBVV95cUxQRkEtV2hMOFBJRU1weGhBSnBSZk0yYzNEanJlMkhEcTJSNE5vMTVBZmhIUnQycDM0cmZzSUpxSXpZUTBhbUJsT1d3MlZDZHg2Y1BYajQ2S0hGZTI3d3EtVFE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-12-14T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-12#t7",
+      "title": "국무부 “북한, 국제 테러행위 반복 지원”… 8년째 테러지원국 지정 유지",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국무부 “북한, 국제 테러행위 반복 지원”… 8년째 테러지원국 지정 유지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iQlllaEoyWnhBdUFRdDhxT2llQjRHLXo1bDZJMHBlcW05MWIxQWF4eWlBVVhteWVHaWpaT08xbmhROWE4YkVHLTQwOUtVU2VV0gFTQVVfeXFMTXlQOF9nSjRCZ01pWVA2czJueml2WnVsVlRoT2dNdk1nUERUdU9TR3RtMF9IamFJTWhQUkFlZU1UVFc4VjlUOGpfRDBla2gwTmtVY00?oc=5",
+          "source": "VOA 한국어 홈페이지",
+          "publishedAt": "2024-12-13T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美국무부, 올해도 북한 테러지원국 지정 유지",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BY3FXYnJSX0EtbUZVeXFPbUt3SWE2Y19SVnRZQmVYY1N3N1pGVkl4TjY3MHQ3cm9jeFJmVk1STlFTZjd5RDVFcXlyUUIyRjd2eVJMbzhB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-12-12T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "윤석열",
+      "count": 39
+    },
+    {
+      "word": "대통령",
+      "count": 31
+    },
+    {
+      "word": "가결",
+      "count": 20
+    },
+    {
+      "word": "헌재",
+      "count": 17
+    },
+    {
+      "word": "계엄",
+      "count": 15
+    },
+    {
+      "word": "탄핵심판",
+      "count": 12
+    },
+    {
+      "word": "한국",
+      "count": 11
+    },
+    {
+      "word": "탄핵소추안",
+      "count": 11
+    },
+    {
+      "word": "탄핵소추",
+      "count": 8
+    },
+    {
+      "word": "러시아",
+      "count": 8
+    },
+    {
+      "word": "RFA",
+      "count": 8
+    },
+    {
+      "word": "자유아시아방송",
+      "count": 8
+    },
+    {
+      "word": "국민",
+      "count": 7
+    },
+    {
+      "word": "탄핵안",
+      "count": 6
+    },
+    {
+      "word": "찬성",
+      "count": 6
+    },
+    {
+      "word": "심판",
+      "count": 6
+    },
+    {
+      "word": "사유",
+      "count": 6
+    },
+    {
+      "word": "헌법재판소",
+      "count": 6
+    },
+    {
+      "word": "개최",
+      "count": 5
+    },
+    {
+      "word": "이재명",
+      "count": 5
+    },
+    {
+      "word": "정청래",
+      "count": 5
+    },
+    {
+      "word": "집회",
+      "count": 5
+    },
+    {
+      "word": "파병",
+      "count": 5
+    },
+    {
+      "word": "통과",
+      "count": 4
+    },
+    {
+      "word": "민주주의",
+      "count": 4
+    },
+    {
+      "word": "체포",
+      "count": 4
+    },
+    {
+      "word": "사태",
+      "count": 4
+    },
+    {
+      "word": "국민의힘",
+      "count": 4
+    },
+    {
+      "word": "전문가",
+      "count": 4
+    },
+    {
+      "word": "채택",
+      "count": 4
+    },
+    {
+      "word": "체제",
+      "count": 4
+    },
+    {
+      "word": "파면",
+      "count": 4
+    },
+    {
+      "word": "구성",
+      "count": 4
+    },
+    {
+      "word": "박근혜",
+      "count": 4
+    },
+    {
+      "word": "한덕수",
+      "count": 4
+    },
+    {
+      "word": "권한대행",
+      "count": 4
+    },
+    {
+      "word": "시작",
+      "count": 4
+    },
+    {
+      "word": "통일부",
+      "count": 4
+    },
+    {
+      "word": "무기",
+      "count": 4
+    },
+    {
+      "word": "제재",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.13",
+      "event": "시리아 독재정권 붕괴가 북한에 줄 충격"
+    },
+    {
+      "date": "12.14",
+      "event": "윤석열 대통령 탄핵소추안 가결"
+    },
+    {
+      "date": "12.16",
+      "event": "野, ‘尹 탄핵소추단’ 구성…단장에 정청래 법사위원장"
+    },
+    {
+      "date": "12.23",
+      "event": "통일부 \"북한 대남기구 거의 대부분 폐지한 것으로 추정\"(종합)"
+    },
+    {
+      "date": "12.26",
+      "event": "북한 외화벌이 동원 IT 조직원 15명 대북 독자제재 추가"
+    }
+  ]
+}

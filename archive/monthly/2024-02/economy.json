@@ -1,0 +1,393 @@
+{
+  "month": "2024-02",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:29.319Z",
+  "articleCount": 210,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-02#t0",
+      "title": "NH투자증권, 국내 최초 부동산 PEF 운용 개시…2천억원 규모",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "NH투자증권, 국내 최초 부동산 기관전용사모펀드 운용 개시",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GUmwzSTQ3U2h3a1g5MkFoX1k1UFhtMFJIaldlNHJ4c1dndmxXNWFYZ1hRdk9laGJsbjRkSHR6M1Z2MWZ4NldWOFlTSndrQUFI?oc=5",
+          "source": "매일경제 마켓",
+          "publishedAt": "2024-02-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "NH투자증권, 국내 최초 부동산 PEF 운용 개시…2천억원 규모",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03ek8wOV9NUkZudTU4bWRTb3A2TkY0QUlQbVNTU1BROWNVWGxxWWR6YmNYTG8wRHNRLXBuWmE4bGJyUG5OaEpfcjg5eG1zVmJ0dkM0N0xDMXNDNmhSNU41c1o2ajNqdHNueVJHWHFXWTHSAXRBVV95cUxPU1Zwdk1ucXFROTNBWTBmanNHdXp0Mkx3SDlhcGNBTGFwRXJqdWNob3BIQWJObjZNbjBGYzkyZXJ1WER1Vk1fbVpsV1liTjhEeE1ZLWNSOUdRSXB0VFEwRGN0eFBrdUlfdm1LNVJ2bi1fQ3cxTQ?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2024-02-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "NH투자증권, 국내 최초 부동산 PEF 운용 개시…2000억원 규모",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtZnI4WU04aU9ZYmNjSl9yeHJrcGtCLWZBMnVMWHBSZGt0dzN3MTk0N3RxZXctZ2FVdXpGMnRwZE1rSklGemhoU3hlVG11VEFFblZkZkpQQWZLYm92OFhDdXpRamx0d2VhRTFyVFVVRmFRZ1kza2NBSVpZUmg?oc=5",
+          "source": "한국금융신문",
+          "publishedAt": "2024-02-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-02#t1",
+      "title": "독립기념관 이사들, \"낙성대경제연구소장 이사 임명 철회 촉구\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "독립기념관 이사들, \"낙성대경제연구소장 이사 임명 철회 촉구\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDOU5oMkg2cHIyZDVTMWxJNnZkN2NPR0RVM0phRTVyelhOR0JwZjFtdG9kLTVnRXB5V0xGQlczdmM1N2p3LVF0VUhCalplWGdJNXJKQXRESThpUlpmVzdncVNkUEptYkJFUDF3azNlZ2RnYV8xQkZXZ9IBeEFVX3lxTE9uNkhNek9mZ2syTnNMdDhDcFpRV2tXMmQtWU5KZTRlSkZybGxocElJWjJkalNlN0lRdXNrMGVSdkNqMDBaUVlDbi1LaURaTGl5ZW9YV0ZXdEhRZkNDMVJTQUFYOV9zNmhiUl9OeV9FbnQ2Y2F3WjdlZA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2024-02-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘일본 식민통치 옹호’ 낙성대경제연구소장이 독립기념관 이사",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xXzZnN2k3aDR5bXctc2ljQUxKVmpWMEEzTFl5NzhyWENPU1gxV1V4WkJyX1RBV3JuMmxnZFN0d3BPanJoR1hFYzl4T1FvREFCQ20zSlkwVnpuakpHcjEwbzNIV0ItY1BQcDZLdEpfWV9MYldn?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-02-20T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-02#t2",
+      "title": "일본 1월 소비자물가 상승률 2%…20개월 만에 최저",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "일본 1월 소비자물가 상승률 2%…20개월 만에 최저",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qUEd6Q0k1ZGxJeGJHczlTMVNHV3JiQTZCVWVmakloNDJvQUpZNHdDS1FlV2R2bHhWbXNNRmZOS3JlUnh4ZVk4U3B4Y0FfajkzcjJnTlhJMHJkNlnSAWBBVV95cUxOQ1E3SldYMGpmVmdGc0czeG9VNUdWMHktVHJHX3NGRHladzNYd0w3enVEeUc4bDlrR0VVNFJ3aUlsQWQzMjlGVnl5NGJSZ2FxVFctOC1zZ3dZRERvOVVMVmM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-02-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "1월 소비자 물가 2.8%↑‥6개월 만에 2%대 둔화",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nVUR2c25rTTNfaDFoVHpxZG9iSTN5V3hLQTB6N1hnRFBTb1JVb3NGUWNiWjQzTll2eTY0X3Y1dmRfVC1jcXp1eHRCQ0dyazAzN0YtbWgwMV9ieVQxWndxaW5ia0M4MVJFY3QyWGZyZm1TbDV3Sm1V0gF3QVVfeXFMTnlXQmU4Q3JpcUYxanJMaHkzQVIyeFZVNE83RGhlbEFNUDcySmVEcGZJVjRndHlyR28xNGk0dWJfV0JEU3o1Y3BISFpwQVRCOTVHRHp3akc2bVRzNjRMR1Yza0ZSekZyMEhiM0dReFZ6b0ZFN2pYLVk?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2024-02-02T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-02#t3",
+      "title": "엔비디아 실적 폭발 … AI 반도체 '붐'",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "엔비디아 실적 폭발 … AI 반도체 '붐'",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNa0JLcDVreFJ4WkVBWl9CRmFkQmM3U2MzaExkWVNOS1NaRERiZnlxMVNoNlNLQ19iR1UwWHd2bmJRWllYeWxqQjR0ZGQ2QQ?oc=5",
+          "source": "매일경제",
+          "publishedAt": "2024-02-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "글로벌 AI·반도체주 쥐락펴락 엔비디아···실적 발표 ‘주목’",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KSDFLQXAxMDZERjJwRVZIODlQaDVGdFlYc1M1bTFKRkROU1g3UnVFSUR2TFRER0VkdDZkdmg1TTM4R0tfaU8xcERzZWE3S1JzRzV2VVc2dnZBaHUtdzRYYkpRZGpsaVFaSnhlMXJXN1o1QdIBdkFVX3lxTFBvU3FheHhjdndES3RmSWxxY2ptVGtaVDlUbjhaQVAwcExmQUdMeUpBOFRWdDAzQ0ZqcnNyaGxKSHFQcUk5NHhkZ2o0MENOQlg1RUc1MTZ4T20zUXN1bElYT1RCWEdKN1A2ZnF2TmU2RHZYdzVKY0E?oc=5",
+          "source": "시사저널e",
+          "publishedAt": "2024-02-19T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-02#t4",
+      "title": "2023년 K-소스류 역대 최대 수출 달성",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2023년 K-소스류 역대 최대 수출 달성",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtRHkxd3VOMTdNc21PMUEzSTI3Q3pmZGk1QmVOZVhoZXVSdDY5WnFUaUEybWt2c3ZvMC1IRkRVREpsdlNCVU9NRFgyemowTW4zLTVPLTRlQURLeDRkcjJDZzM1eFrSAWpBVV95cUxOeWc5UzhwTWVhUlJFM2ZqMXU4NTk4ZXFoMF9TVWxtVjdQYXFTeGdSUzdBQVQzbXNOZVZWaUgzWmcxbnZGR01QbFFtdFFQS3dzRDV0ZHNvbE56QnpkcHNLcmxEWXNVeDdZYmp3?oc=5",
+          "source": "한국관세신문",
+          "publishedAt": "2024-02-08T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "지난해 'K-소스' 역대 최대 수출...'불닭 소스' 인기",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DSzhWTklId1JzWHdFcWR3OWhaaHBlZXdCTmFnbXVGcXlsNjFaalRBSlkwNE5Ld1BzTGNmWUVYTkZnNFhMS2RIVVVwRTZPRTlfZ3pOMXA4Sm1zVGhBNmc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-02-07T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-02#t5",
+      "title": "2023년 연간 실적발표",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2023년 연간 실적발표",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10VDNIOG9jZGVzWGJRZ1ZBbXM2a1hDQUdFcVM1ZW9RcnJmUjNlT0dsTlM0TmhmLVVHUld5ZzFwaV83TVhHUjAtOGJ2VzNFN2NpMS1va0RlUnZDa0U5eTJBZWxCdW95WmIyZmVJZTJJYnRjZ9IBdkFVX3lxTFBEdjhIQzRqNGd3Z0NRNHh5TGFreDRacTU5WjE2MkhEWmNxRUtzLTRUdVgxTUlndUllUzlxSjF4UnFhRXV1enJXTWtjSUJXMjRncGoyUXFjcDZaYkJsSTJIbWJkY0NFalRmS21wdlQ0NUlVMUl2bWc?oc=5",
+          "source": "워터저널",
+          "publishedAt": "2024-02-08T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한 눈에 보는 2023년 연간 실적 발표",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBodlc5NXB2T09lSFNaMWJRbE9hQ2NXTVR5RUpPUVE3TTBPYVBaVm9ablc0bHhpUXBCMVFvdElsd0tpNU9wbDZtRQ?oc=5",
+          "source": "SK텔레콤 뉴스룸",
+          "publishedAt": "2024-02-05T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-02#t6",
+      "title": "\"3월 인하 없다\" 못 박은 미국‥한은도 일축",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"3월 인하 없다\" 못 박은 미국‥한은도 일축",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XOVB6MkJfQmFmMENhUVkwTnRJQkZnZFNpX3F1YXotOHp1YUx5NVR6dTU4dFJOUlV4YlgxeVBmRGJ5NlRVN3JTUGM5OUhyTXhKVm12MWJ2eW80TkJUUjNxazNsSEtfaDZSVGsyQUNrMzdFRUg5aFN6cDJB0gF6QVVfeXFMT2pSRzNsOUlUMkJEeDM4Tko4SVdNeDlvX2thS1NsbkpqZV9kZmtfTzRGMFhWa2pwbUljMnM4Z2ZxYUZyVF9yZEdqZ3Azb0Nsd0VoR0hlczh2OERYTDNpV0d6WkRkMkNMYkJXbUw3bVpONjVNS3hRUVZRUnc?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2024-02-02T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "파월, 기준금리 3월 인하 없다 못 박은 이유 [Y녹취록]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xNGVGX0hmdDdLOGJDNFd1UjFvWkdqX0xJQmYwVHhOUThidzNfNHdoNWc5NmR6MnVtQ3NSZlhPOVdZdms2cHFuR0tQUE55OW92cUNpbDVDd1BxSmlRN3c?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-02-01T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-02#t7",
+      "title": "코스피 2,648.30 코스닥 870.50",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "코스피 2,648.30 코스닥 870.50",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvOTZYY1U0LUZWRUdWajBIWERYc1hQNlNoTmlDUHJNb3A5Z083UFZvQmpyX1hNRG0zRFh1aS1kemNwS1VKQjFBMUs5dkhVbE5sVmZaS0RwZm1raG8?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-02-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 2,648.76 코스닥 857.60",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTM1ZrSUxBNXpReUQ1eGtQRWlSc1NXUlB3Q056b0tySzFwWlJYdXdGM3JqRjlYakl0cEVHMmFfNXJEM1AxOXdYVTZZSEJzVGJtR0hPQm8wNjV6NFk?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-02-16T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "인하",
+      "count": 10
+    },
+    {
+      "word": "일본",
+      "count": 9
+    },
+    {
+      "word": "한국",
+      "count": 7
+    },
+    {
+      "word": "한은",
+      "count": 6
+    },
+    {
+      "word": "미국",
+      "count": 6
+    },
+    {
+      "word": "역대",
+      "count": 6
+    },
+    {
+      "word": "국내",
+      "count": 6
+    },
+    {
+      "word": "위험",
+      "count": 5
+    },
+    {
+      "word": "기준금리",
+      "count": 5
+    },
+    {
+      "word": "동결",
+      "count": 5
+    },
+    {
+      "word": "최대",
+      "count": 5
+    },
+    {
+      "word": "반등",
+      "count": 5
+    },
+    {
+      "word": "밸류업",
+      "count": 5
+    },
+    {
+      "word": "소비자물가",
+      "count": 4
+    },
+    {
+      "word": "버블",
+      "count": 4
+    },
+    {
+      "word": "리스크",
+      "count": 4
+    },
+    {
+      "word": "연준",
+      "count": 4
+    },
+    {
+      "word": "대로",
+      "count": 4
+    },
+    {
+      "word": "둔화",
+      "count": 4
+    },
+    {
+      "word": "상승",
+      "count": 4
+    },
+    {
+      "word": "하락",
+      "count": 4
+    },
+    {
+      "word": "최초",
+      "count": 4
+    },
+    {
+      "word": "코스닥",
+      "count": 4
+    },
+    {
+      "word": "추가",
+      "count": 4
+    },
+    {
+      "word": "증가",
+      "count": 4
+    },
+    {
+      "word": "외국인",
+      "count": 4
+    },
+    {
+      "word": "운용",
+      "count": 4
+    },
+    {
+      "word": "투자",
+      "count": 4
+    },
+    {
+      "word": "손실",
+      "count": 4
+    },
+    {
+      "word": "해외",
+      "count": 4
+    },
+    {
+      "word": "전환",
+      "count": 3
+    },
+    {
+      "word": "AI",
+      "count": 3
+    },
+    {
+      "word": "상승률",
+      "count": 3
+    },
+    {
+      "word": "연초",
+      "count": 3
+    },
+    {
+      "word": "동향",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "시작",
+      "count": 3
+    },
+    {
+      "word": "중국",
+      "count": 3
+    },
+    {
+      "word": "보는",
+      "count": 3
+    },
+    {
+      "word": "세계",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "02.05",
+      "event": "2023년 연간 실적발표"
+    },
+    {
+      "date": "02.07",
+      "event": "2023년 K-소스류 역대 최대 수출 달성"
+    },
+    {
+      "date": "02.19",
+      "event": "엔비디아 실적 폭발 … AI 반도체 '붐'"
+    },
+    {
+      "date": "02.20",
+      "event": "독립기념관 이사들, \"낙성대경제연구소장 이사 임명 철회 촉구\""
+    },
+    {
+      "date": "02.28",
+      "event": "NH투자증권, 국내 최초 부동산 PEF 운용 개시…2천억원 규모"
+    }
+  ]
+}

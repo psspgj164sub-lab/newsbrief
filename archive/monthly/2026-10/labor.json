@@ -1,0 +1,431 @@
+{
+  "month": "2026-10",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:15.376Z",
+  "articleCount": 163,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-10#t0",
+      "title": "진보 야당, 이 대통령 ‘외국인 노동자’ 발언에 “무지한 망언…사과해야”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "이 대통령 ‘외국인 노동자 발언’ 비판 확산…“언론 탓 전에 사과 먼저”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLYzVfb0xiNl94Vk5DdW93dlJWNW94YS01Y2RvN1Vra0tyZ2JrZEZRQ2Ffa0hqa3N2SG1sLUZ0ZWRNZlJLaWsxNVVaUUtDdVU0YjJ4THJYSjdLdkFkTG9aNHp6QXgtNV8zYklndHdEczF3RTFz?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "진보정당, 李대통령 '외국인 노동자' 발언에 \"망언 사과해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TUTBTejJlanhmY0xYQzFlOGhjV21GMVMzYVJBQk16VGNSaXhwNWVvSC15cWJGbU9CRjNoR0tmRlppS3BtTmRQaUhGc0NBWGhjZGFKdnIwWGNzcUnSAWBBVV95cUxQTkZ0OUhMMmZXRkJ4Q1pfQjJnWjdFX1dMVGVnekxzempyOThNTjFINUtBRE5nY1NSN1Q3Q1IxeF9qekNwdnNnZk1NTWhmeExPeC1WcWs1NUpsc1oxenFlR3c?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "진보 야당, 이 대통령 ‘외국인 노동자’ 발언에 “무지한 망언…사과해야”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVHhFMTJSbVpUOUlIeGlwSDZzU3lyMXEycDA1OU5ZeHVwVzdpSXE5cVBHYldNLTRnLUFQcmpCTmxNbXhDRUNOQjVVZDRYblhxZFo0YkFPR1hCQnc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t1",
+      "title": "HD현대重 사내하청 이주노동자, 집단 진정…\"체불임금 8.7억\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "HD현중 사내하청 이주노동자 59명, 체불임금 진정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EQ2hsSHpPdWF4OEwtaDNaZGRyNTBCci1ESWQ5bURRVmNhY1ktaUhnR3g4SnhCMFZSY042bkVYY1ZZTU5DN0VEeHBqZXJtVzNJbmotX3lLdlFzMjDSAWBBVV95cUxNMDRDSzJONjRYQ01tM19SdWh5QVVjY0l6NTlhRmM3VlJ3dUZIRHJGaFE1YUZ6T3FXcTU1cHBYV1ROSy1tZ0luY3F5dkNwQllXYTdvYm9uMGQ5MzlDXzFhTWs?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "HD현대중공업 사내하청업체 근무 이주노동자들 체불임금 달라 집단 진정",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORTN6UWtfdnpHdjBKTzV2d252U19HMG9sSjFlNjVkR3dvNzNmaG9vcFNzRkdLdDREWUREYUFyWi1GUUlRbU8zaDZuNkZzaGx3OExLSW5faFlkZmdQVEk0dk1GZ1ZDTVM0c2h3dmRHSjZBRVZLamtFLTliT1JobDhpbjdRb3RmVWgweFpyQmNn?oc=5",
+          "source": "국제신문",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "HD현대重 사내하청 이주노동자, 집단 진정…\"체불임금 8.7억\"",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vNnJaMG9QQjM3ZWV4NlNHazdxbEMzeU45RHZSMGdMYlVtWEtYdllNOXppRUxVRmRhb1M0cEkxVnRLSDVmc3pWQ09ZajE0Q21kN0xnekM5ZVNkOUFWbEl3UmJCc3E?oc=5",
+          "source": "매일일보",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t2",
+      "title": "김포 이주노동자 사망사고…“철저한 조사·처벌 촉구”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "\"노동당국, 김포 공장 이주노동자 사망사고 철저히 조사해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92dWtoa0xfanVrNERicWxyZ3NvWldBNk95VVFITXcyT2h2YXE5dzFWd0dJTHpFNmJaRUZvdXlFYWFzV0tlanF6bFp1TDByaS1RRTc2Qy1ISlNiZFnSAWBBVV95cUxQRHNKVm56d2pYV3hSYi1ueGtBa3BoaU9DTXF5b3F2WWhDNFNka05Zd3J5aUxzdWljX2EweTBYazNaWWxfMk82YlA1N2c4UFBmYy1SS3dYTHdKWTdTWmg4T0I?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김포 이주노동자 사망사고…“철저한 조사·처벌 촉구”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZlVHVG5qVHZPYkpZQVIxR1JOTDY2R2VoYmd2SGMydTVqay1UeDkyUWRJMDVRc1RlaUgyVXRaZ1RqY2gzM1JhLVQtbmZaRTZ0cUpiY3lUY096VktUYVR3Q1J4S2M3SlAteXFlWkpwSjM?oc=5",
+          "source": "인천일보",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김포 이주노동자 사망사고, 12일째 영안실 떠나지 못한 시신",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HZHBLY1ptWGg2dzNqR0VoRVZfenplX2wxVjRnVWZpZVhwSzVVZW5Kb2hPd0dSNWpwWHNOQUotT2ZvdmxDd0FVTXJ2d0VmcFRTMXc?oc=5",
+          "source": "경인일보",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t3",
+      "title": "1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mNzVGV0ZrdjNBYTJwOUtmaUVaeWFUVExnOTl5c2tLUVRzaHlaR1BmNkVhQkdFMVotYnlYRDBsbHNfeDY0YzFkZ3pTbDlCenRMV3lfSGpQQ3FmZUdfRFVCLTZySXZjVG0xY3ZsUA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "산재사망 연 3명 이상 기업에 영업이익 5% 이내 과징금",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kSG9xN2oyWDk0QVQweUl4em5mOU9pRU5nUzdMSkJfSURpS0c5LTNYVy1oWGZFb3ZaZXZQZ1JBTUUtQVJ6cnpCZUZKWWk2cC05dm8zbFVRM1hmR0lCRUVMS283RjJ6YWM?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "산재사망 3명 이상 사업장, 영업이익 5% 과징금 부과…산안법 개정안 공포",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Idk9lNG82RHZ5cVd4eE1nTks4c203WGpVVzZYcG05VkN6R3QtOEdIcmdYTEdMNl9CRlZmN1ZvZmllRGtqcFJOSVRIek1DLWdDUVQyLU02LXFCXzZvOTU1R0lrVm5DMVlKU1BTTNIBcEFVX3lxTE10d3Rac0MzdGczRi03ek1LQzhZaFpWS3NOTm9EUHBFSnNzSkVUZ25PNzY2THBNNGNsTlUycmxZZVR0Z3J5ejdvaXBualJBendGUUh6dk0tY2NUZDk0SDA5OF9kT0JMQzBSNWVMN29JcVY?oc=5",
+          "source": "전기신문",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t4",
+      "title": "정부, 연내 동일가치노동 동일임금 로드맵 낸다…임금개편 핵심",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "(설명) 연합뉴스, \"정부, 연내 동일가치노동 동일임금 로드맵 낸다... 임금개편 핵심\" 기사 등 관련",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pUWEyeVZ2dHBIMDRvZnhoUDNyRFVSbE04VjRDTGZVU0ZRWWhFakNORDd0NDQ2dTFWUkRJdVU4T1BlMHVldl84TmtKQ0lWa05mWExScFk1RTRsMWtFVURIMGxaUFNBenBYa2pvM04xRQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-10-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "’동일가치노동 동일임금’ 로드맵 연내 발표 추진",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNdnpoVUU0Q1lHZkpfamxhN2JOVFk3VmF4V0wxYkt5ZWtLUW5YajVJSmRaR3hKQzl6eWhmZDQxN3ZWdzFBVXg2cGpYOEFaUkVGTzFGOExJN296aFFpNjNCa24wX3E0Ymc?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정부, 연내 동일가치노동 동일임금 로드맵 낸다…임금개편 핵심",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMmt3eHpjbENEWE1neDBYdXFjQTlYSThINm1aWE1oX2dpeTJiZ2otbWdRMmJQdEhrV0o0UGY3TExqNXBsbWxsQ2I1UUREQ1pFUklNekx5Mi0xNFXSAWBBVV95cUxOaFM4QlViUlBiR01tOWNYejlIdnVVMF8tSllWQlJ6V3VpWjBWb3A5elMxdG45U0lhdkZZbUdDN1VjZUpPZlotUWh5bDZSbVVkMTNvSnJtYXpvaGNxWmhMdk0?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t5",
+      "title": "경기 버스노사 오늘 최종 조정회의…결렬 시 내일 첫차부터 파업",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "경기 버스노사 오늘 최종 조정회의…결렬 시 내일 첫차부터 파업",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tVmQ1dmVCNTVVVGVSOWtJLVJCN1psYkN2LTlRSU9kRnp1bzZqNzdadjhjcl9JR0dxaEh1MWsxNXl2RzV5S0xIVDlwdUlGVlh5Z3JCeWU4OHRnZjjSAWBBVV95cUxPNFZTaDlkXzVNNmtkdGl3OXNCOGkyeDdtTVN4WDFrcWpJazJSVG9adUpad3Excmh6bkZhRURIOVVQc0VuSmk2bWhmUkVmUU5MSlVOUk12X0RmaFBqYkdjb2k?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경기 버스노사 최종 조정회의 돌입‥결렬 시 내일 첫차부터 854개 노선 파업",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zTklHQVJGVFJfQWJYQWNhc3VQOEN0NTEwT3lyN2ctajg1V3ZuY1liTzNUR0JGXzVIUjZtTWcyT0ZscFNsWV9Pd2hKRnVWNU9jMXJEY2lwM2VNM1MyNm1rYWNWWDJlUTFUQndKVDdjX29OTVFxSElN0gF3QVVfeXFMT2xqc3NjVjhwT2RNR0RvVXRCRlJuMWJCMVp4eWRSUUJzUUlSdW1sczRGNUl3akVPUnY4bHlCMWlvZG5VUmJLYjgwakwtMWZBbWJxcGZfRGE5YWZKeHk2TEhSNGVBaXVOZXdnSjNZZmFMU2RXbDBOakU?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경기 버스 노조 파업 가결‥최종 조정 결렬 시 30일 첫차부터 파업",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IanFFQ19aaEozeEVZQVRkWVJuNUMwMGFCbDhuQzkxY2NaX2t1d1JZT0VwS0dEZndtUXJBVnphcFZKdEFQNHFIdnBfYlVkdjlNTXdhVmZMY241X3hoT2Vud0hfSENUUmV3U1JHc0hLYWpuLVplcm5z0gF3QVVfeXFMT1lhZ1BRUjZ5ZkRnRUdSZFRJQk1KOVU5N3R4VUV0QmYxV01lT2d1VEo2ckdkbUMxd3RrOWt3V0I3UmdYR08waVVPRnpQYUpNcVJ1bWFhdE9BMFZsdGo3a3A3VUYxeEJWZ0ZTa0dhdDRVa2hqYUI1d2c?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t6",
+      "title": "부산교통공사 노사 단체교섭 결렬…내일 첫차부터 파업",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "부산교통공사 노사 단체교섭 결렬…노조 파업 선언",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFbVlid200dEp0akR4UFlEVHFwRjR3ZVZMUnJGZmEtS0N2TVRpUU83cFJhOVNTdWVTdzYtSUlNREoyMXMtd2Y1eWdZcVZPTzNtZ19rWGFBa1dxR3BFLWlpMWxhVFdyZE0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부산교통공사 노사 단체교섭 결렬…내일 첫차부터 파업",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vWHVpWS1vVVMwZXhjbFVZUnFLaDVLNkIwa1hvLWNlQng0N0xXVVZwSFUyQ1UwRlRiYmg4M0JJX0tuNkN4dGFvQWhLTW81Y1A2MUJpNTU2LThsMkU?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부산교통공사 노사 교섭 결렬…23일 첫차부터 파업",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BMVNJQTU3cWZWVzFROGNDUnMwejJOQXIxckZkR0syWjlCODJHeld4Uzdha1NqX2NITGhoVHlFcEhOODZtS25JcTFKcjZ3czVqdnQ4cERlSk1ScDBrM2dMbTYwa2t2b1U?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t7",
+      "title": "경기 버스 노사 임단협 극적 타결…첫차부터 정상 운행",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "경기 버스 노사 임단협 극적 타결…첫차부터 정상 운행",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pQ05OQ1cxc3hiMEM5YkJCNjU2YUcxLW50TDdURmd1YWE0ZHBwLUVRT19BT3ZqRllaRlhmcVpqY0xzUG85MTN5NE5oelRrUWRDaFJvVEZSYmo3ZWNvVzg0SmlLdjZSZw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경기 버스 노사, 극적 협상 타결…오늘 정상 운행",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3Qk9sQ2p2MXpmeVZzRVFRbUVRYUJ5azFVTmw0VGk3Q2pZN0t5ZjN5NzRMNXpDUWZZOFR4ek1ON0FmYzVna2ZLdVk2a3kxWU8zcUF6Nm8wSXB5NUgyNEhnZnZ0RVI5dFk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 21
+    },
+    {
+      "word": "발언",
+      "count": 15
+    },
+    {
+      "word": "노동자",
+      "count": 15
+    },
+    {
+      "word": "결렬",
+      "count": 11
+    },
+    {
+      "word": "경기",
+      "count": 11
+    },
+    {
+      "word": "쿠팡",
+      "count": 9
+    },
+    {
+      "word": "기사",
+      "count": 8
+    },
+    {
+      "word": "과징금",
+      "count": 8
+    },
+    {
+      "word": "외국인",
+      "count": 8
+    },
+    {
+      "word": "사망",
+      "count": 7
+    },
+    {
+      "word": "타결",
+      "count": 6
+    },
+    {
+      "word": "버스",
+      "count": 6
+    },
+    {
+      "word": "교섭",
+      "count": 6
+    },
+    {
+      "word": "첫차",
+      "count": 6
+    },
+    {
+      "word": "임단협",
+      "count": 5
+    },
+    {
+      "word": "삼성바이오",
+      "count": 5
+    },
+    {
+      "word": "정상",
+      "count": 5
+    },
+    {
+      "word": "크게",
+      "count": 5
+    },
+    {
+      "word": "도움",
+      "count": 5
+    },
+    {
+      "word": "사업장",
+      "count": 5
+    },
+    {
+      "word": "산재은폐",
+      "count": 5
+    },
+    {
+      "word": "사망사고",
+      "count": 5
+    },
+    {
+      "word": "기업",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "동일임금",
+      "count": 4
+    },
+    {
+      "word": "총파업",
+      "count": 4
+    },
+    {
+      "word": "극적",
+      "count": 4
+    },
+    {
+      "word": "운행",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "부산교통공사",
+      "count": 4
+    },
+    {
+      "word": "가결",
+      "count": 4
+    },
+    {
+      "word": "장관",
+      "count": 4
+    },
+    {
+      "word": "노동부",
+      "count": 4
+    },
+    {
+      "word": "위반",
+      "count": 4
+    },
+    {
+      "word": "외국인노동자",
+      "count": 4
+    },
+    {
+      "word": "맥락",
+      "count": 4
+    },
+    {
+      "word": "언론",
+      "count": 4
+    },
+    {
+      "word": "청와대",
+      "count": 4
+    },
+    {
+      "word": "김포",
+      "count": 4
+    },
+    {
+      "word": "불기소",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "10.16",
+      "event": "정부, 연내 동일가치노동 동일임금 로드맵 낸다…임금개편 핵심"
+    },
+    {
+      "date": "10.23",
+      "event": "경기 버스노사 오늘 최종 조정회의…결렬 시 내일 첫차부터 파업"
+    },
+    {
+      "date": "10.27",
+      "event": "김포 이주노동자 사망사고…“철저한 조사·처벌 촉구”"
+    },
+    {
+      "date": "10.28",
+      "event": "진보 야당, 이 대통령 ‘외국인 노동자’ 발언에 “무지한 망언…사과해야”"
+    }
+  ]
+}

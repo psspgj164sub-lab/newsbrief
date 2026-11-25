@@ -1,0 +1,372 @@
+{
+  "month": "2025-02",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:12.086Z",
+  "articleCount": 121,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-02#t0",
+      "title": "중대재해처벌법, 그 뒤 3년",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "중대재해처벌법, 그 뒤 3년",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwRV91Z2VnUmRZNVRvdFAwRTRXODQ4SmJjVHNSdk5rVFNsNDNvbDYxRVVZZnNIekpzRUw0SFVwXy11UTg0YmdvTU81dC1WeVBoSmFYaXAzTUFtbWYyQks1RVpTcm9ZSE5ITjZ6d1NB0gFyQVVfeXFMUEIxZDZPNzBKZENERURpVW5pTzNXc1VkR3l0S18ybUJidEIyRXR3eEhGQndaWFI5VlZtUHZLUlYtOGpCVjRLMThDZVdDTlRJdlhVOUg1Y3VuS0NqRlBfSXRiLVhObW85TTl6OHVfQVhvNjJR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-02-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "중대재해처벌법의 한계와 개선 방향",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWeGZvUHlUdU1LdjlNWW9wTmQwUnVmbGxFT2NkbEtKZHZPZXJ6amxiRXJwZUVIS1h4OXM4OEVYNDdvWVdVY0Qtc01QTW9laC1tV0NRNExkRncyZUZZcXZ3NFNFZHliNW1FOGZKckFLSmk?oc=5",
+          "source": "안전신문",
+          "publishedAt": "2025-02-10T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t1",
+      "title": "‘398억 체불’ 대유위니아 회장에 징역 4년 ‘실형’…“경영 위기로 면책 안 돼”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘398억 체불’ 대유위니아 회장에 징역 4년 ‘실형’…“경영 위기로 면책 안 돼”",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDlnbldjVk13TXgydVpoUDltTmtna3l5eHZESDZLcUNsR3AtZllSTk9zRzRWM0hZdnNEVE55TE9KZG5IaHdCZ2hhclN1T3lBTGtwYUJReHVLOGxpalQ4bUVKMTVMbGVmRXRCQ3hSOGZ2SzRnOEltcVd6YV8zbm44N09CU21mRmlJU3JqMmxR?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2025-02-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'398억 임금체불' 대유위니아그룹 회장 징역 4년",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pbVJ3ZDdqZEg1QUk4RV9IUEtLdGhpYnBCQUxZb2NSWVZyMmZNVTlTRm5HdmRjRllSQW42MklpS0doU3ZxLTJXWHFqTDZqNURuVzFWQjFMWldiVEg3Y3V5UjIwZVVyMTJlMkkxX2VXNA?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-02-19T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t2",
+      "title": "대우조선 하청노조 51일 파업, 1심 징역형 집행유예…노조 “항소할 것”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대우조선 하청노조 51일 파업, 1심 징역형 집행유예…노조 “항소할 것”",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHg4ME9ZLTJrclFOWExLQVhGem5zRTlIUGFYdUdGN0NjaERzVWh0My05Y0Y3ZGk2UWlpZWo3TTRaQ0RzS2F3UVZmNUUxYnl5T3J2MjB0R2VjM3FxZmxKTTE5eWs4WjNNcEhvUktPWktQUEdDTGtabW5Yd011ZHlfanNkZWNoLV9SQVhLZ0FR?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2025-02-21T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘51일 파업·도크 점거’ 옛 대우조선 하청 노동자들 징역형 집유 선고",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ybGFPUC1TdjdSUW5SellMbXBENG5wdVRWSlN1ejlHWFJCOVRkb0J5ckh3ZURGVGl0SlE5RkxxTGNJUTQ3TVBmc2txd1pURExLd3dVT0Q4N0oyd9IBX0FVX3lxTFBWZktJZVBod2tGMUpzQjJZZy1RenlfQ0VFeDBDbXBWYy1vZnJORE0xSFRXak13MndYTmxISVZ0X3lHTkYwLXFUay14RHFDbDVORTRLRGx3cURPT3laeUhn?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-02-19T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t3",
+      "title": "교섭 해 넘긴 현대제철·현대케피코 노동자 1만 명 파업",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "교섭 해 넘긴 현대제철·현대케피코 노동자 1만 명 파업",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ja3NuRk5iTlNrZUMxWEs3ZUdxdmpGVTRJaVlIVC1mSFZkamN3MXhoUFJ4TmV3bHJfbm5CQWlaWmM3eEtBLWJyWGFjYlpabXpZOEpSZnBrenI2TExVYzFEeTY1bUFNTmZYbFNOeVlR?oc=5",
+          "source": "참여와혁신",
+          "publishedAt": "2025-02-12T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대제철 노동자 1만명 파업 “양재동 가이드라인 분쇄”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRFBoZmpnbC1ubURWbXo2bEt6aTRUazBCLXFlRWo2MUp0QU15cmJkVjVJQzRpSko0ajBGU2UxVDFLbW1LZFpZdDlwYl9PdlBVbWNNU3JxcUhOajFrQmQ1T2tseVV1NURJVmRXNFNFOWE?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-02-11T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t4",
+      "title": "언론노조 위원장 이호찬 MBC 기자 당선",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "언론노조 위원장 이호찬 MBC 기자 당선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjellvQTc0ZVUtUWFkVlJQMHlXZlVId3hnbkItWUZyZU1VbEJVenA3eG0waWU3WHo5V1VQOEtaMHloRXNZeWNkUkVzNFdaNmFhU2c4djEtSXZ3akFER2hBR1BHdUxPWHlobWg3ZDVjcG4?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-02-07T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "차기 언론노조 위원장에 이호찬 MBC 기자 당선",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1saUVWY1JWd3k0VS1kS1VldmlPLTlXT1UwV1VBd0pTaWVDT2hJWDhQRVpLcFA2SC16S180SGFFeERMYjQ5OUFlU1lxckF6aTA3MHVmRWdjT2F2ZWU2UFVUQ1dtRQ?oc=5",
+          "source": "한국기자협회",
+          "publishedAt": "2025-02-06T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t5",
+      "title": "현대차 비정규직 파업 연대했다 20억 손배…재상고 비용 모금 진행",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "현대차 비정규직 파업 연대했다 20억 손배…재상고 비용 모금 진행",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVV1WGsyWjNVWGZsY1A0MjlJMi1FTDc5Q3ZiQi1YMlFqSGs0VHR2eGNTOV9weFo0VFlSY3gwVVZDckZfVjJpdlpKbXZTLUxMX3hYZDN1Szk1d9IBX0FVX3lxTFA4eVlzenduZm9iR1NkUnBmdFc1QlVsT3RCNExKdFZLcEVEaFNyd3g1czlXVW9ReGlvU0VNbEpfRnlKeU41VmRCZDlNQk41bTBUTi1kWU80UERscjNxYVR3?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-02-18T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대차 비정규직 파업 연대자들, ‘책임 제한’에도 20억원 배상 유지",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNm5Mb0tZRDBCS3M3MWV5OXNrLWRtVHgwQUdBNjZ1a3FYWDZuTWtxR1hMZDNMMnNUbjgtVlVVS3p2T1dtckZSandIRDY5Y1A2RVYxTER6OTFtQdIBX0FVX3lxTE5TTzlldVVDYzZleTYzU3B2OW1WTjJyMWozS1luZzd3ZVMyX282Qk5IS2pFU1I0dkhmSXZ2OU1ma0JtWE1Jc05mSHFKRWM5NEpGMU9uWVdyQ0o2VFR3cEtF?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-02-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t6",
+      "title": "법무법인 율촌 노동팀, ‘2024년 주요노동판례’ 발간",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "법무법인 율촌 노동팀, ‘2024년 주요노동판례’ 발간",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0TFVaWmxVR3FUd1VRZDZfM3Zxa1BoX0l5dWt3RzlyM2lTWHhvckxCMkZXNmQ3QUh0U0EwYmc2N3BaUEdkdHllR1VKUTNmZElXWTgtdGFNeEtTcUJnOFl5MHY5S0FuelR1VXJ2WVU0NA?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t7",
+      "title": "금융노조가 정치와 만날 때",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "금융노조가 정치와 만날 때",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BcHQzYS1pcE9pemhXSklFZmEyZE1TTGV0dTQtV3FuZERRdUNEWnRoWlZkTWtYT3B2eU1qbjluZFN5cG1odmd6eVZiT0RaWmlnRy1xZGtSTkZXMXZhaks2Qnd0SmJBN0toaWFLV0pn?oc=5",
+          "source": "참여와혁신",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "법원",
+      "count": 10
+    },
+    {
+      "word": "노동자",
+      "count": 7
+    },
+    {
+      "word": "대우조선",
+      "count": 6
+    },
+    {
+      "word": "현대제철",
+      "count": 5
+    },
+    {
+      "word": "하청노조",
+      "count": 4
+    },
+    {
+      "word": "중대재해처벌법",
+      "count": 4
+    },
+    {
+      "word": "인상",
+      "count": 4
+    },
+    {
+      "word": "노동자들",
+      "count": 4
+    },
+    {
+      "word": "현대차",
+      "count": 3
+    },
+    {
+      "word": "직장",
+      "count": 3
+    },
+    {
+      "word": "이재명",
+      "count": 3
+    },
+    {
+      "word": "발간",
+      "count": 3
+    },
+    {
+      "word": "징역",
+      "count": 3
+    },
+    {
+      "word": "통상임금",
+      "count": 3
+    },
+    {
+      "word": "보고서",
+      "count": 3
+    },
+    {
+      "word": "위원장",
+      "count": 3
+    },
+    {
+      "word": "MBC",
+      "count": 3
+    },
+    {
+      "word": "하청노동자",
+      "count": 3
+    },
+    {
+      "word": "집유",
+      "count": 3
+    },
+    {
+      "word": "한화오션",
+      "count": 3
+    },
+    {
+      "word": "반대",
+      "count": 3
+    },
+    {
+      "word": "조합원",
+      "count": 3
+    },
+    {
+      "word": "AI",
+      "count": 3
+    },
+    {
+      "word": "민주노동연구원",
+      "count": 2
+    },
+    {
+      "word": "변화",
+      "count": 2
+    },
+    {
+      "word": "행정부",
+      "count": 2
+    },
+    {
+      "word": "노동정책",
+      "count": 2
+    },
+    {
+      "word": "대응",
+      "count": 2
+    },
+    {
+      "word": "징역형",
+      "count": 2
+    },
+    {
+      "word": "집행유예",
+      "count": 2
+    },
+    {
+      "word": "노동시간",
+      "count": 2
+    },
+    {
+      "word": "공동요구안",
+      "count": 2
+    },
+    {
+      "word": "사내",
+      "count": 2
+    },
+    {
+      "word": "괴롭힘",
+      "count": 2
+    },
+    {
+      "word": "배상",
+      "count": 2
+    },
+    {
+      "word": "책임",
+      "count": 2
+    },
+    {
+      "word": "연구개발직",
+      "count": 2
+    },
+    {
+      "word": "적용",
+      "count": 2
+    },
+    {
+      "word": "근로조건",
+      "count": 2
+    },
+    {
+      "word": "민주노총",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "02.06",
+      "event": "언론노조 위원장 이호찬 MBC 기자 당선"
+    },
+    {
+      "date": "02.10",
+      "event": "중대재해처벌법, 그 뒤 3년"
+    },
+    {
+      "date": "02.11",
+      "event": "교섭 해 넘긴 현대제철·현대케피코 노동자 1만 명 파업"
+    },
+    {
+      "date": "02.13",
+      "event": "현대차 비정규직 파업 연대했다 20억 손배…재상고 비용 모금 진행"
+    },
+    {
+      "date": "02.19",
+      "event": "‘398억 체불’ 대유위니아 회장에 징역 4년 ‘실형’…“경영 위기로 면책 안 돼”"
+    }
+  ]
+}

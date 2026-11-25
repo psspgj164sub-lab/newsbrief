@@ -1,0 +1,393 @@
+{
+  "month": "2026-01",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:33.044Z",
+  "articleCount": 147,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-01#t0",
+      "title": "코스피 5,000선 돌파…증시 새 역사",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "코스피 '꿈의 5000' 넘었다…국내 증시 새 역사",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0TkdqUUdnQ3JwOS11aWN2UzdkVlpWUHZManhsUFFYWnQ3a28za19IcGVRbjUta19sRmJqTURZMER1S01qNi04YWFkM0w1WW8yM2g3YklsM3VnenMtSzdMVVo0VGZ3REltUkHSAW5BVV95cUxPZ3dlOHl2T3FWRkZNeXZNbXp5Yi1RLWp0RVlYaW5KTjhnWTU3OXNjaklBWUx5WUVQUDRVcUtySlB0eEJRbDIwTy1DbU9iY0pnekdEaU8zU1M1b3dqQ1N6LW1UenRyMXhteEUzU1lEdw?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5,000선 돌파…증시 새 역사",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xX3c0S0ljdE9DZVlwQVdhc1RVN3NCX1ZZZ25LYmhFOTFSczBoOTB0aWNhRlRPWjh6S3EyNEZiYVBSaWRqMDVIdk8xdHZRRm9PSGdlYnBLYjhHX3VfLVE1OFhhNnBPbm8?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 개장 직후 사상 첫 5,000선 돌파",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFblN2NWtjYkpoX1c1OVF5N2xEVFFYRjZWMktFRjVSb2dtSUN4RGJISHRpbnEzRFBJNDM3NENieGdtMjY3eXdwWDJ3TjFWNmhhZVpWN3RmaFIyRkFZS2p5elFnX1BHeHZ1YWRYODBxMG1fZ25F0gF0QVVfeXFMTjFWOE5ZR1ZyTUtrNktCdFRINWppZFlWNnJYYzViOU1yU1M0NW1XeUk2Qi1hQkZrV0N0a0ZlUDQ4ejgyNUdkc1JPVWQ3ZGlOcFBESEdwM0tRT2h1RFA4eHlDckZZb0ZHZEdYSkdQTTNBbEdQZUU?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t1",
+      "title": "미국, 한국 '환율 관찰 대상국'으로 재지정…환율 관찰 대상국 뜻과 그 의미는?",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "미국, 한국 '환율 관찰 대상국'으로 재지정…환율 관찰 대상국 뜻과 그 의미는?",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3V3J2U3hpdGw4cVhYSjlMMGwyNDhlWGYwaG44enk3V05TQTZwUGZoWExrNGtYVDFndUJCemVsQTFZbzdoaV9UV2JvN0xQYmVmUnZWcF93Sl9KZkxu0gFiQVVfeXFMTXhIVWNRbVR5R0NvZGhmMWNJVFZVRnpTUEdSMFRhcVZsTkJqTXo4eU82RDRZX3RsV2N0TlRGemtwaTVnamZFeHVvb0FOc2F6N2JTY2FGSU1MaHVpcEdIX1JOTnc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2026-01-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'원화 가치' 이례적 개입했던 미국...한국 환율 관찰 대상국으로 재지정 [지금이뉴스]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hNDFweGRVTi10NmR6cmpoZFVWSFd4YS1SeHcyNEY0N2dCcTRzLVBlQ2ZLRi1iTGowamdSVVZaZXpnZ09weXBRT3FJYm12d2d3SGFGX0NiUlNuQWI5RUE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-01-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t2",
+      "title": "트럼프 '약달러' 용인…환율 1420원대 '뚝'",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "트럼프 '약달러' 용인…환율 1420원대 '뚝'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MX3oydWdRSnpJcU1PZWh2Tk5uVXZSVkExWmhQa01EbV9yMWZRbnk3blVGQWJPWG1lZU5QQ1J0YjhOcVhxNkxsTmEtMTRoMmxMcHp3MlFEZ3VwQQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-01-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 ’약달러’ 발언에…환율 20원 넘게 급락",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jRmg0eUR4eElYWnNKY0phb1dzcFEzbmRwdzVRU1pmYUNaSnl6OGNLd3JjVl93YjNJN1lwNkVUVVRfMEx4VjZKZHE2T085MmMyUW44VVZtSHRwT2pZZ1B2TXhuSUFKNHM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-01-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t3",
+      "title": "'2026년 경제성장전략' 주요 지원내용 ⑤ 육아 편",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'2026년 경제성장전략' 주요 지원내용 ⑤ 육아 편",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13SDJiVWdXSXhkWldyQWN3SDY0WTlXeHJFOW9aRi1LZXc5WkFfSmhyWThHUmlnY2xtaTI0MmJDeGZJTDdvVE9oa2Y3bE40cnRvY0JKY2FGWDJST3dHc0NqY3ozU2JFc1dxQUhiQw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-01-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'2026년 경제성장전략' 주요 지원내용 ② 중·고령층 편 - 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zOW5EcGFRWVFqMzlXb0FpNjAteEZNdXRseHBvanpGWHlMUmZ4ZnpHd0VPaXZBOXpVNlF6cTdLa3ZfdUgwMlJsM0x0TmhGMGpJRXlIbEZIRVNDZEVramt1RVVaVjNOMlEwekFkT2Zn?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-01-16T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'2026년 경제성장전략' 주요 지원내용 ① 청년 편",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hdEhhS2xxNFdwMThuRXZ3bEFONm9Dal9iZm9UU0dhX1BQWEF6c0FodU4yVXdkS3ZPQldyYnlGZGFxcVI4aG5SRDB1ZkpKSnJQUHdUcVRlRWtMWEU5SXZHOVd6M0h0ZWw3cjhsbg?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-01-15T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t4",
+      "title": "환율, 한국 경제의 보이지 않는 속살 - 이슈인사이트 | 뉴스",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "환율, 한국 경제의 보이지 않는 속살 - 이슈인사이트 | 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wanBaM2c5dlFNVHJJbTloYW4wWkEwdDJZajMwMVJnR05fZGNWTktmRUJicUhERE5jbVZkYXFmdDMzN2VqNVpKVml3SzhiZjRqdTNqQm1tTVlnWlJDYWlBd1N1dGgwVWpPLUp6Z0Y1Q3k?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "환율, 한국 경제의 보이지 않는 속살",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96M0F3MmxKbXFPVFUzeVJRc00xWlhpME1MU1JDWV8wLVk1TFM5UjFhakxnSDd6enQycDM1Wk82R0ZBdVlucXBiX3gtS2NiQnVaTXQteGFGYUZqbTJQRTRjc3VUMDA4S2NTSVJsQw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t5",
+      "title": "삼성전자, 2025년 4분기 실적 발표 – 삼성전자 뉴스룸",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "삼성전자, 2025년 4분기 실적 발표 – 삼성전자 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVkRpaXRYdmh6OXAyaDg1RGxWdWUtcDFDcl9ZZi1PV3JrNDhXRjFNSTJSSnJrWW5OOGY2Z0ZfdUtVR3BGS3hIYnR5NjE0ZHNfMHVsaWllVllsWnNUWnZwSEV2dm40bkw1OEIyM0JydnVNNF8tN2szOHhLdEZOYmhCaVVWZDhLZWpKOVI5dDJKRWY1bjhLaWFYVi04ODJadEpUa2hxbE80Z1N3Wm9YMjRjSjZzekRmYUxxLWNLT2tpTVpmSzc5X05kSS1iVDNRWlBxbkE?oc=5",
+          "source": "samsung.com",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 2025년 4분기 잠정실적 발표 – 삼성전자 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVVU4Ny14YlpFYklFUjZFWnI1bTMyZUdfbGlOTjNhbFA5YVZUakt3aXVpaDZhZTFKUTFpc2RpQk42RmZ4R3RsWlI4TXg4Y1lDWmFPdmlRX3JzajZ4WnQ1TUF0WG5mOVc4bXlmcURDT3E4RS01d3lMVXZFcjYtRFNBUzU4NU0yMTN6cGVhb1JSSmowS3pxdlI2WHoyNFBuZ3JMRFZvUzdfX2J4Umt5VVp0RHFya1NCVV9LYnJaTmI2aEUxV0ZSQk40bVo0N1JTeHktZmJHTEhqbzhTdlRObUIydEFsX1ZDZkllUWc?oc=5",
+          "source": "samsung.com",
+          "publishedAt": "2026-01-08T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t6",
+      "title": "인도-선진국 경제협력 기조와 시사점 | 오늘의 세계경제 | 현안자료 | 발간물",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "인도-선진국 경제협력 기조와 시사점 | 오늘의 세계경제 | 현안자료 | 발간물",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlFBZzJpVXBteTQ2dl8tQXZHNUVvSUtoVGJGd3BkZWFQUXpPb2JVLUYtZ3ZWV3ZJT0xRbkpUVWNJNUp5V2lCWVBrWFVEUUthNmt6N202dWNuYlpYNkFmZWlYTkRhcWZQb2RzVDRUNUdDYmtoVENLMW45dXNfd0VLSUdyWFVpMm5DcDlGenRxUnhkNU9oSkE?oc=5",
+          "source": "대외경제정책연구원",
+          "publishedAt": "2026-01-16T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최근 환율 추세에 대한 분석과 시사점 | 오늘의 세계경제 | 현안자료 | 발간물",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGo1UTE2TmRDX3lmc3RjYmY3Mkx4djJJM3NIb2t3ZGhXcWdDRFNaSlpzY1FQZDN6SXhqZHJHaVJid00tWEhYWUt4b3F3NXIzUzRZbE5zb2JTU0FtRWhSRXpBdFZ5VkxnU01Va1NxTDh3LWZva1VPV2tyMzBfUTVvTzZVN2J1V0xBQjR0Zm1WM2dkTHRsUnc?oc=5",
+          "source": "대외경제정책연구원",
+          "publishedAt": "2026-01-12T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t7",
+      "title": "이 대통령 “부동산 정상화, 못 할 것 같나?…계곡 정비보다 쉬워”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "이 대통령 “부동산 정상화, 못 할 것 같나?…계곡 정비보다 쉬워”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkcVdveHlNS21QZE9nYVNaNkNQTzNhcmlNUjRBaDlkbDFjUnh5VmhZN19XemY3ZlQyNnVLUU9WRnIzWHRDdDVtWFYwNEdocDJIc2huU0ttLTVTZlk?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-01-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "달러",
+      "count": 13
+    },
+    {
+      "word": "한국",
+      "count": 10
+    },
+    {
+      "word": "동결",
+      "count": 10
+    },
+    {
+      "word": "기준금리",
+      "count": 9
+    },
+    {
+      "word": "상승",
+      "count": 7
+    },
+    {
+      "word": "한은",
+      "count": 7
+    },
+    {
+      "word": "시대",
+      "count": 6
+    },
+    {
+      "word": "정부",
+      "count": 6
+    },
+    {
+      "word": "최대",
+      "count": 6
+    },
+    {
+      "word": "투자",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "경제성장전략",
+      "count": 5
+    },
+    {
+      "word": "인하",
+      "count": 5
+    },
+    {
+      "word": "역대",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "급락",
+      "count": 5
+    },
+    {
+      "word": "AI",
+      "count": 5
+    },
+    {
+      "word": "사상",
+      "count": 5
+    },
+    {
+      "word": "글로벌",
+      "count": 4
+    },
+    {
+      "word": "미국",
+      "count": 4
+    },
+    {
+      "word": "주요",
+      "count": 4
+    },
+    {
+      "word": "인상",
+      "count": 4
+    },
+    {
+      "word": "최고치",
+      "count": 4
+    },
+    {
+      "word": "시장",
+      "count": 4
+    },
+    {
+      "word": "발언",
+      "count": 4
+    },
+    {
+      "word": "돌파",
+      "count": 4
+    },
+    {
+      "word": "역사",
+      "count": 4
+    },
+    {
+      "word": "삼성전자",
+      "count": 4
+    },
+    {
+      "word": "금리인하",
+      "count": 3
+    },
+    {
+      "word": "일본",
+      "count": 3
+    },
+    {
+      "word": "약달러",
+      "count": 3
+    },
+    {
+      "word": "관찰",
+      "count": 3
+    },
+    {
+      "word": "대상국",
+      "count": 3
+    },
+    {
+      "word": "재지정",
+      "count": 3
+    },
+    {
+      "word": "달성",
+      "count": 3
+    },
+    {
+      "word": "지원내용",
+      "count": 3
+    },
+    {
+      "word": "불안",
+      "count": 3
+    },
+    {
+      "word": "영향",
+      "count": 3
+    },
+    {
+      "word": "하락",
+      "count": 3
+    },
+    {
+      "word": "한미",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "01.15",
+      "event": "'2026년 경제성장전략' 주요 지원내용 ⑤ 육아 편"
+    },
+    {
+      "date": "01.22",
+      "event": "코스피 5,000선 돌파…증시 새 역사"
+    },
+    {
+      "date": "01.28",
+      "event": "트럼프 '약달러' 용인…환율 1420원대 '뚝'"
+    },
+    {
+      "date": "01.29",
+      "event": "환율, 한국 경제의 보이지 않는 속살 - 이슈인사이트 | 뉴스"
+    },
+    {
+      "date": "01.30",
+      "event": "미국, 한국 '환율 관찰 대상국'으로 재지정…환율 관찰 대상국 뜻과 그 의미는?"
+    }
+  ]
+}

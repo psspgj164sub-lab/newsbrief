@@ -1,0 +1,400 @@
+{
+  "month": "2025-01",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:31.204Z",
+  "articleCount": 92,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-01#t0",
+      "title": "작년 화장품 수출액 100억달러 돌파…사상 최대 실적",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "지난해 화장품 수출액 ‘사상 최대’ 실적…전년비 20.6%↑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CU0Nhc3dWUnpGaVhJN0VTNDk2SEQwdjdIbGRxUkdWLXBqeU40UnFxd0V1akNQMHRnREtXbml1UEpSWjVpRXgyckFnMTVwQ3ZlSW5ja1daQUsyamlmaHFYSFZrYmc3UFhyRGMtag?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-01-06T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "작년 화장품 수출액 100억달러 돌파…사상 최대 실적",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oVGdFWEhyem5hblZvYXh2SHdQNUltMzZuVWY4RVhWckhSU1R2Y2VPSlhNYUlYQ3RUVEx0a2d6OWw5YlBMTVAtTkNYd3VTNDNUZGlCQnZZYUtNSnPSAWBBVV95cUxNU3BCLV9vOGlPMTE5WDUydmg4Tll1WmFQaEprbi1mOEpMNElYaml1dWxBaUhRNzJ1ekhVQ2tmSWZKYmZqSE45VC1LUHdyaGlhOWdTUERRYjFzTWllSTlxNDY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-06T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국내 화장품 수출 100억 달러 돌파, 사상 최대 실적 기록…상위 10개국, 전체 수출액 77% 차지",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOd2tXcjlRMjJXTS13bjg3VE15RkFHUGRISWx2QXNuMGNQMzV2NWRkbHRqTFdZSHNhOUhHWkJ3empTQmJGSUxqanBYLVhtSmhrdHZlNUR2VHlKRngyZ21Tc0FKZ2prYXM?oc=5",
+          "source": "medicalworldnews.co.kr",
+          "publishedAt": "2025-01-06T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t1",
+      "title": "한국거래소, 코스피·코스닥 통합 지수 내일 공개",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한국거래소, 코스피·코스닥 통합 지수 내일 공개",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YeFlxaWFJQlNXdl9tbWZROFJUNXVGNnVocVVvQTNEYUN6ZGFTWkJRdk1sT1MtalZtdmVkM2tXeExRVWJiZ1lqYzBSajdkTWRrenJiODR1YTVGbkt6aDU5TTRyRXdzN1k?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-01-12T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'찐' 국내주식 지수 나온다…거래소, 코스피+코스닥 통합지수 공개",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BV2t3NVZmTkZBZDluMGxvOW9FRlBETmE1MUxsSGg3N3RFQ2JpREpxWDZta01kZUdtdTBDM1RzYTk2cVAxLVpJZGdWa0NPOHljSTh4V3ZFY3pDVzlpV0ZFMWtTVHNNdGhzR2c?oc=5",
+          "source": "비즈워치",
+          "publishedAt": "2025-01-08T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피·코스닥 통합 지수 ’KRX TMI’ 내일 공개",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0waGZLLWhwblhFWDB1dmNUOE5nb0dnc2J3cUNXT1U0R1J4RW1TMU9wNjE5WndQUnpJcnZUYXQ3THFyLVhBZDhDaTREWFRCbWNUTTQxektjNEVlLUZtZHJLZnpUNmxRaHM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-01-12T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t2",
+      "title": "JLL, “2025년 한국 상업용 부동산 시장, 점진적 개선 전망”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "JLL, “2025년 한국 상업용 부동산 시장, 점진적 개선 전망”",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDhNM3JuY2RmQWNrUHR2Sy02aDlRUDVPYV9nRTU2SjdyTjZTRkdURzZ5R3pyMGQ4VlVxaW0zZmFkbUVFTGMydlM5YTY3QlZjZ2lyOUFKMHpib2kzYVM1WFZtdmhVNGNPRXkxNk1NeHNIUUtDbGp4ajhiNEZHNll3cEV1QmNBYUxvaDBDT1NPdnI?oc=5",
+          "source": "JLL",
+          "publishedAt": "2025-01-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "JLL “올해 한국 상업용부동산 시장, 점진적 개선 전망”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGYVdKQi0zeGctV0JDcHdoZlNCUVNvSXRub3NYSWxCd2FUZUZLTEdSc1o5dUVCaEk0TVBuRnBIVWoxQXQzUXVQTnRKalpIQzUybkFYLVNUZVAtVFozQ1FvN1lTYUNWVVhad2FnOTIxWE80Zw?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2025-01-20T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t3",
+      "title": "현대자동차· 기아, 24년 친환경차 역대 최대 수출 기록 | HMG TV | 현대자동차그룹",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "현대자동차· 기아, 24년 친환경차 역대 최대 수출 기록 | HMG TV | 현대자동차그룹",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3dVNWNVZNS1ZrOEFNaTBveGJpekdOeDJMTGtERUpVQldBT1pFdERVai1yRFpZUnZUOGY5Zkk5SjhsNGprSjMwMVRseHNUaktHUWlmVmZaOVJyQjFobUgxeHRTV09nYUNrMmtwSA?oc=5",
+          "source": "Hyundai Motor Group",
+          "publishedAt": "2025-01-19T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대차·기아, 2024년 친환경차 역대 최대 수출···200만대, 500억 달러 2년 연속 초과 달성",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LTUhWZjM1aV9CUFZoSzItSDhxYkJIUFAwUVFmR2dLRmdDbVRwalRObVFzdzdGQ3B3WXBSdG4tZVIzSmJQOHFrUUpEeEpaeFF0S1J4VFppdWRtMnRwRkRXNk5CRlgwdw?oc=5",
+          "source": "이로운넷",
+          "publishedAt": "2025-01-14T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t4",
+      "title": "현대차·기아, 친환경차 수출 역대 최대…1위는 ‘투싼 하이브리드’",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "현대차·기아, 친환경차 수출 역대 최대…1위는 ‘투싼 하이브리드’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HTUpJZnpIalk2a2VMbGZUSDVmOGhDZ2FWVWVqOVZVRDJIbm9DXzhQVkJSSDM1eEg4V3laR0FJSE5uaWhkYTFQUFFUWU91ZFZPMEJZLW9hRzRoZ9IBX0FVX3lxTE9aWTcyX1g2QUdNQWF1bWNFT0kzeTN0X3R6VGlOaVFQUFNmbExyREZHYUlUUDZYckNPLXlkZDN6YjJnaktjVU1IU2lUOXJidDhwUEE0cDVIWG85WS1oTmdr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-01-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대차∙기아, 작년 친환경차 수출서 역대 최대 실적 경신",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0RmlsMjlkNjQ5a1BoVEJJem1JVHpOTVd1QWhrWDJfY3ltUTZvSWkzTHp6OGVCUUF0QWlQVTJBNkpYVU02QnduMkduOA?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2025-01-14T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t5",
+      "title": "작년 수출 6천838억달러 '역대 최대'…'44% 증가' 반도체가 견인(종합)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "작년 수출 6천838억달러 '역대 최대'…'44% 증가' 반도체가 견인(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12SzlRU1BrejNnUThUT0l3bEZlMzk0RUZZcGtmbkE5UElDOWdHZW1LNEZPUzJOckZIbUVIMjZxT20wZ3NzQWRxcjd5aWlYY2JTaXNYWEtMQ3oxZzTSAWBBVV95cUxNcVduZWhMRFNjR3ctXzhpbEQycTg2YjBJeTVsRkFXeng2UlQtekZjWTJoQ3dfZ2FQWHQyTnVuMkx6UmdPRjVSQkNndEpKQXhWT3FJMXVkUVI5Rnc3NjhXNWk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-01T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2024년 수출, 6838억달러로 ‘역대 최대’ 경신",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkl1NDVOZkpYT2gyem5MbG9SVGdzSVREVk0tbkdER1otXzZZN19iMldfeWR0NUJnWWtmYXpUNFZaM2xOaGN4NzVidHRfT1QtOTVBTjlLd1F2NzZ3NTBWVUU2Vm5uRV93MHVoSEI1SF9LTnVrSEtMZnNPSGUwN3AxalQxRjVmRGZMOWpUT3Z4Zw?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2025-01-01T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t6",
+      "title": "2024년 반도체 등 수출 역대 최대실적 달성",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2024년 반도체 등 수출 역대 최대실적 달성",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EWVRGWGp2ZUpMMldURHlFZFJIbDg0ZzB1NmFLbHlJV01MTnBmZWRvS1BGZUtXSmpqYUNTd1U0ZXFzbnJXMGhxMnVjTVN5YVVKdEZNSXotRzlNSDlhWEN4VS0yVFlQRFXSAWtBVV95cUxNM0x0VjFhZmp2UEFhX3o2SFl2cnE2U3AzRHlCMVRYaENlS3M2OWlaSUJrRGFJdDl3Rm1sZWNLaEJheTZnVnZzaUR1UFNOYTRFbUxEcmJ5Z09RdHBDMmlaYTdRRG50aEZ3aHpYUQ?oc=5",
+          "source": "인사이트에너지뉴스",
+          "publishedAt": "2025-01-01T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2024년 한국 수출 실적 ‘역대 최대’...반도체 수출은 44% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lV2w2M1pMUTVXTmRndEJHWmh2VnJ3ZDBMdWRraW1NZ0N4aU9iZ0thZjd2aGp3SXFlN3FjRDNSRzlvM2FnZXlpd2NhZUVlZ3Rp?oc=5",
+          "source": "문화일보",
+          "publishedAt": "2025-01-01T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-01#t7",
+      "title": "한미 기준금리 추이",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "한미 기준금리 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00N2Y5VG0zaGZDeldrRXFkcmMydzBaWGxURHlwNl9oUnZ6alNvdkRsbEFYQWZ2VUhlRFNiWnIwVWcwWF8zRUhOMEk0SDlYMHdLMVMtSjlBRExsQUXSAWBBVV95cUxPMXFTdVA3MFpRZlVyMEZVaFpXM0pyaFk4WDlYZmlrUm5XeGRuWlFxUlZlaGxkZ1g1WDdIRW5IX3FlYkpxdU5mbm9IOWNZaEhXcG1pNW5sSjhyVkZ6aTFpWWI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "일본 기준금리 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12MlBJZlpkUS03SmNNcFJZSklXRk5OSVhRYktaQ0FZbXN2bXhUa00xZkluY3FWNUJsVHVVX1RmektiaFR6VG1sOHpIV2Z1VlVNbXFhVHRtaEVMOXfSAWBBVV95cUxOZkpkUTUxWFdnOWFhVFhMOHF0TktFSkhkc3BELUdUcTlMRGhpekhsOVNNQzFaUkl2SmNlWEJKSW5oeUFnaDZ4cFVlaC1PRHlZdlNlVjNkTk52c1IzMHVoNmQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-24T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "역대",
+      "count": 17
+    },
+    {
+      "word": "최대",
+      "count": 15
+    },
+    {
+      "word": "달러",
+      "count": 9
+    },
+    {
+      "word": "작년",
+      "count": 9
+    },
+    {
+      "word": "코스닥",
+      "count": 7
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "경신",
+      "count": 6
+    },
+    {
+      "word": "상승",
+      "count": 4
+    },
+    {
+      "word": "공개",
+      "count": 4
+    },
+    {
+      "word": "시장",
+      "count": 4
+    },
+    {
+      "word": "사상",
+      "count": 4
+    },
+    {
+      "word": "달성",
+      "count": 4
+    },
+    {
+      "word": "최고",
+      "count": 4
+    },
+    {
+      "word": "기아",
+      "count": 4
+    },
+    {
+      "word": "친환경차",
+      "count": 4
+    },
+    {
+      "word": "인하",
+      "count": 3
+    },
+    {
+      "word": "추이",
+      "count": 3
+    },
+    {
+      "word": "국내",
+      "count": 3
+    },
+    {
+      "word": "지수",
+      "count": 3
+    },
+    {
+      "word": "개선",
+      "count": 3
+    },
+    {
+      "word": "증가",
+      "count": 3
+    },
+    {
+      "word": "화장품",
+      "count": 3
+    },
+    {
+      "word": "수출액",
+      "count": 3
+    },
+    {
+      "word": "흑자",
+      "count": 3
+    },
+    {
+      "word": "돌파",
+      "count": 3
+    },
+    {
+      "word": "현대차",
+      "count": 3
+    },
+    {
+      "word": "주요",
+      "count": 2
+    },
+    {
+      "word": "영향",
+      "count": 2
+    },
+    {
+      "word": "진짜",
+      "count": 2
+    },
+    {
+      "word": "KB",
+      "count": 2
+    },
+    {
+      "word": "생각",
+      "count": 2
+    },
+    {
+      "word": "자동차",
+      "count": 2
+    },
+    {
+      "word": "상품",
+      "count": 2
+    },
+    {
+      "word": "현대자동차그룹",
+      "count": 2
+    },
+    {
+      "word": "기준금리",
+      "count": 2
+    },
+    {
+      "word": "주가",
+      "count": 2
+    },
+    {
+      "word": "반등",
+      "count": 2
+    },
+    {
+      "word": "활성화",
+      "count": 2
+    },
+    {
+      "word": "산업",
+      "count": 2
+    },
+    {
+      "word": "투자",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "01.01",
+      "event": "작년 수출 6천838억달러 '역대 최대'…'44% 증가' 반도체가 견인(종합)"
+    },
+    {
+      "date": "01.06",
+      "event": "작년 화장품 수출액 100억달러 돌파…사상 최대 실적"
+    },
+    {
+      "date": "01.08",
+      "event": "한국거래소, 코스피·코스닥 통합 지수 내일 공개"
+    },
+    {
+      "date": "01.14",
+      "event": "현대자동차· 기아, 24년 친환경차 역대 최대 수출 기록 | HMG TV | 현대자동차그룹"
+    },
+    {
+      "date": "01.20",
+      "event": "JLL, “2025년 한국 상업용 부동산 시장, 점진적 개선 전망”"
+    }
+  ]
+}

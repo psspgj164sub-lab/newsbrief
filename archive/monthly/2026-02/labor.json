@@ -1,0 +1,197 @@
+{
+  "month": "2026-02",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:13.869Z",
+  "articleCount": 23,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-02#t0",
+      "title": "'중대재해처벌법 1호' 삼표산업 사건에서 무죄판결 선고",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'중대재해처벌법 1호' 삼표산업 사건에서 무죄판결 선고",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3Z041MEVTZW9ZZVRyV3B0WkFzTUNVcHNXa2FGMU04X0JmNExTYWZUVC1Ic0t6ajlZOGRxbER2Sy1DZUx2TXZvTXhLd190YzcyUXdJakMzZUtFRzRxNlA5bUZ5OHBob0xDMUJtVk9R0gFyQVVfeXFMTnpWR0RSQkV4UXVZYjd0b2tCR19IME1RdzhhRFRwVS03cGV4YU50UHdJWjBLQzNHN3hFOVp1UWJTYVdsdG9iMUY2aUlWb0VlMDFXdmNFTk94V0VZeDYtNThBR3psRzZYV1ZDR2pLQ2RGS1pB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-19T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'중대재해처벌법 1호' 삼표 정도원 회장 1심 무죄",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lS0x1cnBrck00dTdFM25OS0lObDNSLTlfQlBBVDNtdXZwUXU1SDNKLWlpbHlvUVZRTEdWTlVwVy1uaHUxMG9rZ0tFb0EtUEp3a1BaMFRiXzdXWm9odTVqWkRQdy1qSldUdTBKdFUxa1daOW8tbWNn0gF3QVVfeXFMUEdOUjVMMU90NncwRjlIS2dacU9rUHVRX3pzdlNkRUs0VGFqWnVncTJTNTdXX1lwTlFCTW15Y2MwSkZ2Y0M5a2oxOW5tYkFVUDFOcHFmUUJkbU9PRzZleS0wbHZYU3NlXzQtM2NuY3gwLWY5T213Y1U?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-02-10T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t1",
+      "title": "노조법 2·3조 현장 안착을 위한 고용노동부장관 중앙노동위원장 공동 브리핑",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "노조법 2·3조 현장 안착을 위한 고용노동부장관 중앙노동위원장 공동 브리핑",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ISDRJQ05ERXhxaE9yaWVDOFdvSlBDZ0tmc2J1OGt0ZEJUTlMyMFY0RXVDVkZfTFNqZTM5Rmlta0pWQ01pN2U2aDRwNlhqc1g3MUJpbjBTUUpNM3NvQlUwYkUyLUE1dmowWVRjREQwRjVqUHJfQngw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-02-27T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t2",
+      "title": "실노동시간단축을 위한 노사정 공동선언 및 로드맵 추진 과제 발표",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "실노동시간단축을 위한 노사정 공동선언 및 로드맵 추진 과제 발표",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85bDZFSnl5UExQU0Q4LUdDNlFBbk9jb3kzaHdqVFFqU2YyUlNTaE9BMHJyUEFWMmw5VjVRNzFrM05LYkFXUXMxaXJETFIzU0VrS3VtNzNuRkEtNU5FZUlpOVBYclpzdHc5UnluMHJaNWxYeVNTWnNz?oc=5",
+          "source": "고용노동부",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t3",
+      "title": "일하는 모든 사람을 위한 노동시장 전 단계 AI 전환 지원 확대",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "일하는 모든 사람을 위한 노동시장 전 단계 AI 전환 지원 확대",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jTy1aQjRKYzlXNW9adEpCQ09jMW1fbXk3bzQwNXBUZDNUTXFMRllPWXVpaFZKWTAzV1k0b05GdnVSYXZBNHZ0UGFYajdQcDdGd0k2cmVtVnBpZjZNSHNMeDJNQmJYUEZlTXdjeEQxWEhCT3BZUFg0?oc=5",
+          "source": "고용노동부",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t4",
+      "title": "원하청 상생과 대화 촉진을 위한 노동조합법 개정 및 현장 안착 지원",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "원하청 상생과 대화 촉진을 위한 노동조합법 개정 및 현장 안착 지원",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NcTJWdWM0a1k5MEpxamgtT0xHa19vLWJ5bF9ibF9pMDdjY1RyeGVnd204MEJVbTZyVWVzWlJISW5EeVpHTHpIU3JwS1VMd1BKQUFvcWpXTmpMZG5Rak1YbG9Zc2N4RFoyeGZIYXg2MEszT3pYbnBz?oc=5",
+          "source": "고용노동부",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t5",
+      "title": "임금체불 근절을 위한 제도 개선 및 감독 강화",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "임금체불 근절을 위한 제도 개선 및 감독 강화",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XcFhKX0QxTVdwbVAzNVE1dEpPTlR1bXhPRUdVZFVTZllhWllhY0RkUVV1dTV5c1kzY3VOZG9EV2NpR1FPLVdkTFNfQkVRcDBSWXo2SkpwNHVrbmxVZzlrR3Y2Vk9nMFVJdkR6eUFIWlN6WEE2VVNj?oc=5",
+          "source": "고용노동부",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t6",
+      "title": "그룹 회장, 중대재해처벌법상 경영책임자 아니다.",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "그룹 회장, 중대재해처벌법상 경영책임자 아니다.",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1QXFsa2lnNjdJQXJDOVYya3p0YW5yVWp6NXdwNkV4UUtZNVE5R2M3REVlSXlUNml1T2hzZUxXREFZLVptaGlIZ0hWWFFzWDhWMi1tbDJ4NGNEOUVmYWxHOXBhdVJIZnRlMWNhSFpn0gFyQVVfeXFMTTlBb3A1R3F0SHdwT3A4M08tMlJSRHhzODh4bld1emtQeHpzV3B2SzVWVU5yNG1jU0VhQjBmMmpHYmFRbHhpcHViQ1VibHFrT1FtZ3h5SjBZdTVpMWZDOFFYZGVIcGo3UUR0c1dad19yRkx3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t7",
+      "title": "상장회사 중대재해 발생 시 '즉시 공시' 의무화",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "상장회사 중대재해 발생 시 '즉시 공시' 의무화",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ0ZTaGRxellUOUhGc2JrbUQ5aTI0b043RndVTUhnLWZYc2FCWUtjMGJUM0FLWk42S2lybzk0bFA3THlMQk9hRTVRR05UbTVxcE9CQlVUOVF2bDBjTVFiX2l6NGtXaXBWWDU4azln0gFyQVVfeXFMTzZqcGJaaFZBSVJuWHdoeWFzcE1sT0hHTEh6dFpCNkdEbHpMM0g0anRlWkVHR2Y5am1TUVltdXgzZWFPNmRXVEI0ay1BeXNlTUJTbmR3NGZ6b3JHSjZkaWZ4ZnZoalJrcEhiNmxLQ042ZnJn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-23T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "안착",
+      "count": 2
+    },
+    {
+      "word": "삼성",
+      "count": 2
+    },
+    {
+      "word": "AI",
+      "count": 2
+    },
+    {
+      "word": "지원",
+      "count": 2
+    },
+    {
+      "word": "회장",
+      "count": 2
+    },
+    {
+      "word": "중대재해처벌법",
+      "count": 2
+    },
+    {
+      "word": "무죄",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "02.10",
+      "event": "'중대재해처벌법 1호' 삼표산업 사건에서 무죄판결 선고"
+    },
+    {
+      "date": "02.26",
+      "event": "실노동시간단축을 위한 노사정 공동선언 및 로드맵 추진 과제 발표"
+    },
+    {
+      "date": "02.27",
+      "event": "노조법 2·3조 현장 안착을 위한 고용노동부장관 중앙노동위원장 공동 브리핑"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "month": "2025-12",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:32.810Z",
+  "articleCount": 140,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-12#t0",
+      "title": "올해 코스피 75.6% 상승···G20·OECD 1위",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "올해 코스피 76% 상승... 세계 주요 30國 중 1위",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNktnbDdzV0RTbUVRUURGTlRqWXYzTmxnYWVoT0lrYmtTUDYzWDN5VVdNWUMtX2ptSlh5dHAzdWk3ZjRIRlBuc2d4RW1Mc3llYnNhOFdMb0szMWpUWmZXZXpwZjg1bFhULXNKbVdoU3ZNY3pMbEotOHh2ODBRMF90Vw?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "올해 코스피 75.6% 상승···G20·OECD 1위",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjZOVWRlZm10SGd6VGdaYWRJNFNMNFZTV2Z0emVMZE9YQWkwZmhzSktSV1paTFBLMTFpd0NXZjFzdmtORVBUUGJyamZidU52LXdfcWxTcU9JTlpxQmhOc3R0cXNqMl9ZSFBuTjFLUUFWRWFBbnRkYUp5TUJER1h4cThqNG0?oc=5",
+          "source": "Korea.net",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "올해 코스피, G20·OECD 주가 상승률 1위…고가 대형주 주도",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1V0hiNEpReldOM2Jsd0ltTmdHOUxxZk96bnk4X1NpWF9Ec0RTQktRWDBVQnkwUzdpdVBraGRsTVl6OVB2M2ktUlVNN01nc3JzNVFvMFBxVnZNQUR5alhDd21sOGJnX3JKYjhVUnhZM1c?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t1",
+      "title": "2025년 코스피 75% 상승...연간 수익률 1위 종목은?",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "코스피, 2025년 75.5% 상승률로 마감···세계 1위",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XY1hDMTVLMnJ6X3hqZ21BUEgxOWFLaEJCN1FZSWRQV2pIaEdmX0xCbEJfbng5LUFKbDlDUVBuUXZLS2d6X2o3SFI5YkQ?oc=5",
+          "source": "대구MBC",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025년 코스피 75% 상승...연간 수익률 1위 종목은?",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wVU9PbXVNOVRNUHdBazVLYzVxd3k2aHhYbGhFRW9YZUs5VjdvYWdVOTBIbVJ6OHE2aF9KRXJrMUhFeHl6OXphVXJLcTlSajNKS1o3eGw5Qm45U29VS3VOMHZxYldVOHpub1IzeNIBcEFVX3lxTE5uaVR6bk9uTlFIZkEyNGZDNEtFQXluUmozZzF1dFBBVUlNTGJSNkd1aDlRaHR5X2h1UGZrRXZkc0lOWjZvZi1CXzZCR01WU09OREEwR0lPRlpiLWZZLXlwVVZSdkJTZy04R0I1Y05Yajg?oc=5",
+          "source": "반론보도닷컴",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피·코스닥 수익률 1위 종목은?",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YdG5RUTdPeVN5S3p3NUh0RmVkdGtrMkdWeU4wYU0tanQtelRKel83M1VCc08xQVBIS2dabXRRMGpUN3pYTWFRNEVxaUhvSXRzdHJYMTRJVUdhYVFiekdrdVVONGY1SGJJeGp3MlR4eWRUd9IBdkFVX3lxTFBsOG9wOEJTQUN5ZVFRVU81cDdzc3YxNDF2bkxkTUtGNDY0VGRPSEF1aGlRUXlaMk5YZ21PMkNfRWtXTGtJYnZnbVc3NVRBQ2ZHVF9oQ19RRWtPNDV2bEJjZzVrM194Tk8yTHVGMHVIUlJvZDh6S2c?oc=5",
+          "source": "시사저널e",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t2",
+      "title": "DN오토모티브, '5억 불 수출의 탑' 수상… 역대 최대 수출 실적",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "DN오토모티브, '5억 불 수출의 탑' 수상… 역대 최대 수출 실적",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04SG5uZ083blhtekhnZFczanliVEJlY0R0R0RWNmk2al9MY3BzdkhqYURhczBaQ185U3Y0MGNVbWpMdThpcE1xZy1SZmhvNmNjUk9sYTF1Sm94SVlDMmJwalNBNUhkOGxfX2lGUVE2LVk1RkE?oc=5",
+          "source": "오늘경제",
+          "publishedAt": "2025-12-05T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "DN오토모티브, 5억불 수출 탑 수상…역대 최대 실적 달성",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTQ1Zhd0h1RlBvSUltTmhLWUV2M2RfZFhfa1pzVnYyMEhlZkV0QThPNjNOZFR4NzZjb0Vpd3kzeHNVZ1FIWGdRdkRTeUVmWTRzRzlmd3RBeUM1TFFUWEJqZlFSMWMxV1EwdXlia0luc3d1XzDSAXdBVV95cUxPZTNIZEtJNWRGYTBmY0JEdko0X3RET1RHT0tUdXRQOExNVjVPaUZXT2hsUlRVa1VpZFVzRl9Lc1ZHVXNGRkRCUTZYNjF2c3FwV2d2TU53d1NfMWFEYWVYTlBhNUl5TmlHcExHcnhRYWJ0SHBrVzgxOA?oc=5",
+          "source": "스트레이트뉴스",
+          "publishedAt": "2025-12-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "DN오토모티브, 5억불 수출의 탑 수상",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwWXlmd0JKajRpNkJPdF9PS3Q1OFJaVzYxZnRzTXo1NldXVXViYVdER0JadFEySmFzWGdOelpnSWRVclNDYjFEamNNeXFqYjRSVmtuanFn?oc=5",
+          "source": "지디넷코리아",
+          "publishedAt": "2025-12-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t3",
+      "title": "\"꼴찌에서 세계 1등으로\"‥올해 76% 역대급 상승한 코스피",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"꼴찌에서 세계 1등으로\"‥올해 76% 역대급 상승한 코스피",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vN09oZElxNWdFYUh3ZW1kel8zNnFYb0gwT2ZiQ3h6NUhfUldna0FFWGV3VjVHZ3JlNlNuM2ptM2E1ZjN3R0R6VnU1Z3djN1VGMG9xTmFteVhhc21wLWhvUHlfUUtxbFlIMDdxbmozSXJiMTgydnUyWdIBeEFVX3lxTE1RNXhNbkFRNjdWY1JYSHo0Si1ENGczRkVyb3NRVWdIMloySUM3NHB6Y0pTZlZUbHdPZDZONW5qUUZQTFItNWdmRXI1c0h2bGFONFVOTXZsS25ydl9OZnJaUllSdlN1LS0zR2VibGRRcllxLVBFMDBfYQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "[새 역사 쓴 2025 한국 증시] 올해 76% 폭등한 코스피…세계 1위 상승률",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5saGloVDkzNnhSZUxRakhZZWluQ0lXUVhxSV8wMVFLX2xCUHpCSDNRZklrVTJiY3dfcGRqcm1XUDdzclVJOUdjWm4xaWY5M0htMDIwM0pDZDNPeEp5SjUxWl9IM05BeXNISWV2dEtvMHZwUl81?oc=5",
+          "source": "대한경제",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t4",
+      "title": "2026년 유로존 경제 전망 및 관전포인트",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2026년 유로존 경제 전망 및 관전포인트",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmdDanhqd2FDZE9jelkzSndCUjJYTEJhb0F0c3MwV0pMVFUzZHg1d2NQS1NTQkpIMWVPRUR6eExzTGFHUm05WWF1OVVWT2RMcmxTT3ZxT250b2MxSXV0WVJndDZ1OU13ZnZzZ2FOSTVTbFlMNS13WW1HaHduYXZOUw?oc=5",
+          "source": "KDI 경제교육·정보센터",
+          "publishedAt": "2025-12-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2026년 국내외 경제전망",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Dc2hqVzYwVFE3UGlGMXUxQWxDaUJXUEdlRXlJNlNBbVd0SWx1WGJ3M251VU9yNE9aZS1ibXJJaXdEQ294OVFicmFQMmJLLS16QS1UN0RLWFkydTl3eHlTNW9WSDB2bTVLX3FYZHV1ZnVTQzBtbEZxMjh6V0VtQjg?oc=5",
+          "source": "PwC",
+          "publishedAt": "2025-12-03T08:27:54.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t5",
+      "title": "2025 결산 - 원/달러 환율 추이",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2025 결산 - 원/달러 환율 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DaHowN0RmWVkydmtGWUZQYmk0a3N4OXNhcXlockRsd3JYZEFxMkR2ZDRpYjNZb1ZwVUkzYXdQMTN2VGpQQThnTnZxczd0T3I0SGViaGZVVzF0Z2vSAWBBVV95cUxOZHlBTnZWZWUwcEhNM2x5dzZDTU44VTd3Mk9WMGJyaXh1LVo5VHZSM3JRQnR6OFdra3dDbUp4SjQ1Tm0zUkZqd1JLYkVOWF9RZ01qejEwWTVrMjktNTlQamE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025 결산 - 코스피 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtWkJ4VDhrZldVdG9jT3VVU1FEM0p4a1d5VUw1YjlaMTNVaUJ2Tmc1Z0I2djVMWmRPcTZ3NWpPcVRkM193UVhRUEI1WS1RMWNQdTFyaW5wVzF4R2_SAWBBVV95cUxOTmY1aFZhNDFKSExNSzdQR3lwcFRfQTFlQ0J6N3V4d2JOSzBOQlhZbzI4bXhqRS1SUUlEQm96ajZ0S3JSRjlYSXNFXzJaTzZabmp5VlhKQlVESnFnRUZqR1k?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t6",
+      "title": "2025년 12월 및 연간 소비자물가동향",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2025년 12월 및 연간 소비자물가동향",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSanZDSGhvbTgwc3pmQWJVTWJleDVCa05yY0htYXByNHF4aEFDYlR5a25RNzdFUktPTWlhRHhQZGF5dGplVmNBek9qTURmbk4yZEVKdFB6WHVZRkdhSHJHNFRTaFhlc3ZIT1BYT0dUSUZ0NG03clc0?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t7",
+      "title": "올해 물가상승률 2.1% ‘목표 달성’…새해는 ‘고환율 압박’",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "올해 물가상승률 2.1% ‘목표 달성’…새해는 ‘고환율 압박’",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pMVZJYUI3aDFGU1FWSC1sbWc5M2ZBcVVyeFJUdGdhMDBscmw5Rm0xemJTZ0ZZOVFtZWJTMTFkUXNyYzY1dXVLVDkxd3RIeklWYjJfU3NoeVBtVVRMWEptd3pkempsZjhJVnlPenF5d1Jxdw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "상승",
+      "count": 12
+    },
+    {
+      "word": "최대",
+      "count": 10
+    },
+    {
+      "word": "달러",
+      "count": 7
+    },
+    {
+      "word": "세계",
+      "count": 7
+    },
+    {
+      "word": "코스닥",
+      "count": 7
+    },
+    {
+      "word": "미국",
+      "count": 6
+    },
+    {
+      "word": "글로벌",
+      "count": 6
+    },
+    {
+      "word": "수익률",
+      "count": 6
+    },
+    {
+      "word": "역대",
+      "count": 6
+    },
+    {
+      "word": "수상",
+      "count": 6
+    },
+    {
+      "word": "집값",
+      "count": 5
+    },
+    {
+      "word": "돌파",
+      "count": 5
+    },
+    {
+      "word": "결산",
+      "count": 4
+    },
+    {
+      "word": "새해",
+      "count": 4
+    },
+    {
+      "word": "국장",
+      "count": 4
+    },
+    {
+      "word": "시대",
+      "count": 4
+    },
+    {
+      "word": "sk하이닉스",
+      "count": 4
+    },
+    {
+      "word": "상승률",
+      "count": 4
+    },
+    {
+      "word": "마감",
+      "count": 4
+    },
+    {
+      "word": "주식",
+      "count": 4
+    },
+    {
+      "word": "개선",
+      "count": 4
+    },
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "시장",
+      "count": 4
+    },
+    {
+      "word": "규제",
+      "count": 4
+    },
+    {
+      "word": "연간",
+      "count": 3
+    },
+    {
+      "word": "투자",
+      "count": 3
+    },
+    {
+      "word": "달성",
+      "count": 3
+    },
+    {
+      "word": "방어",
+      "count": 3
+    },
+    {
+      "word": "증권사",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "집중",
+      "count": 3
+    },
+    {
+      "word": "효과",
+      "count": 3
+    },
+    {
+      "word": "AI",
+      "count": 3
+    },
+    {
+      "word": "꼴찌",
+      "count": 3
+    },
+    {
+      "word": "역대급",
+      "count": 3
+    },
+    {
+      "word": "OECD",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "메모리",
+      "count": 3
+    },
+    {
+      "word": "삼성전자",
+      "count": 3
+    },
+    {
+      "word": "아파트",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.03",
+      "event": "2026년 유로존 경제 전망 및 관전포인트"
+    },
+    {
+      "date": "12.04",
+      "event": "DN오토모티브, '5억 불 수출의 탑' 수상… 역대 최대 수출 실적"
+    },
+    {
+      "date": "12.30",
+      "event": "올해 코스피 75.6% 상승···G20·OECD 1위"
+    }
+  ]
+}

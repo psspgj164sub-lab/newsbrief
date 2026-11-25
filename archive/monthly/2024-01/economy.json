@@ -1,0 +1,245 @@
+{
+  "month": "2024-01",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:29.024Z",
+  "articleCount": 42,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-01#t0",
+      "title": "삼성전자·LG전자, 2023년 4분기 잠정 실적 ‘희비교차’…왜?",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "삼성전자·LG전자, 2023년 4분기 잠정 실적 ‘희비교차’…왜?",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0bXNHUDBTcE5HWTBBdnhrZWJtMnl5dlIxbVF6T0ZDbW52ZVF2T1hQWWVwUXRZazhmbEtyQnpfdXBjelZwSGpEcjVrT3VMRXNzajNvT1lsVFdFZDF4d29mVnlHa0Ezdw?oc=5",
+          "source": "디일렉",
+          "publishedAt": "2024-01-10T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "실적시즌 개막…삼성전자·LG전자 작년 4분기 잠정실적 주목",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwYWYzR00xd2d1Y3hwQzFydlE5dEhrTnpZeFA0TVZLd18xM3hSeHY5cWY3SGJsNEM1bXVneXpPMVBhVnl4ZUg1Qm5xLVdIS1RZZENqVGJ3SEh2ZWfSAWBBVV95cUxPdGQ3alFWUjJ5MzZDWkZOd284NHF6eVJ4dklQWEU3RkdFb3F4ZkIyRGlZOFBONUc3N1lxSjdnSE5DeERiU01LcWdhRTEwaEpxZmJvVGtEeldzZzI5N0toczg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-01-07T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-01#t1",
+      "title": "삼성전자, 작년 4분기 ‘예고된 부진’…D램 ‘흑자전환’",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "삼성전자, 작년 4분기 ‘예고된 부진’…D램 ‘흑자전환’",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cmtlalRlQ3I2UUJnUzZPQ2c2VWNhNGV3UjhDTmVkQk5ULUVoTTY5cWxoOUtoOTA1a1R3T2RaZWVoZkVwZjhiSWN3M1k3aXViSERtZWM0TzdJZC1aQ1dqX1RnLXFWQQ?oc=5",
+          "source": "디일렉",
+          "publishedAt": "2024-01-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-01#t2",
+      "title": "삼성전자 4Q 반도체 적자폭 줄였지만...기대 못미친 실적",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "삼성전자 4Q 반도체 적자폭 줄였지만...기대 못미친 실적",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOZ05vZlNmaUJFTklYWmUtV1B1RzE2TUs1cFU2ajctM2V6OXNMV1o3S3REcDlaMGp1VkxoQVA3Mmh1RW5ZUEpjZ3ZGaXVyZ1BsbjNBQjZUR21pbFhu?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2024-01-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-01#t3",
+      "title": "배추 가격 된 中 배터리 셀…공급과잉 영향",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "배추 가격 된 中 배터리 셀…공급과잉 영향",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UU1ZiM1VPZGJiazlBUmtTNFRKOHNyeUNMU1BGRTdEMENRSE4xaVczMnJ3WFhlNms5SW5RT3A2X3RTYlF6cUUtT2VVLURjTUIwNDN6TTZ0NVJhQdIBWEFVX3lxTE5GZDVUT2VkUEtLSHktR3FoTWozbGJSS3FkWGRpTUNZdHZSeG5zem51MjVTMHl5bGdsRzNEUjJzNThLdzByYmZqNGlRa1ZjM0p6YjVKTEU1VnQ?oc=5",
+          "source": "아주경제",
+          "publishedAt": "2024-01-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-01#t4",
+      "title": "K뷰티 약진에···중소 화장품 수출 역대 최대 실적 냈다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "K뷰티 약진에···중소 화장품 수출 역대 최대 실적 냈다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HNk5TSEpJSHBfN0ZlVHlIYzVOVVAxNUYtZlNGNlU3UlpyNERoel9Kb2JRSURJVE9Da1J2R2EzRzQyQ1paOFdGN2N6MVlqOWFXdTNOWEw4dnNuZ9IBX0FVX3lxTFBEYkh2alUyQWJiSUJzVFFGR09MR09TY05NQ0hycFNJUVJHVldzWFlfc19FTnphTm41VlVtTnBHTjVuQWZ1eGFIalNWcVhobWtwaHVNVE1wMFlNUjUxMnFB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-01-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-01#t5",
+      "title": "삼성전자 내일 확정실적 발표…반도체 반등 강도·감산 조정 주목",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "삼성전자 내일 확정실적 발표…반도체 반등 강도·감산 조정 주목",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EbXdoeGptbERPZ21yTXBzUURIZG85YnVneVk4Vk9jdkJQcmxCZFljOGFIS1ZHV3RpcDIwaTBXTmJrcHhiUl8yZ2dGQzdUeFM2eG5SRTQ0RWFiZEhyTzYxYkE2bl8?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2024-01-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-01#t6",
+      "title": "\"반도체 장비·소재기업 실적 올 하반기 개선...2030년 반도체 시장 1조 달러\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "\"반도체 장비·소재기업 실적 올 하반기 개선...2030년 반도체 시장 1조 달러\"",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9idHZpeFFZYWtGRWhxcWFoVUIyZUdiUzJDYnFjclZVSUNQakFYRDFvbk90eWI1WDF4Y1NoZDFORXVYTElkX2loM2NDT1oxbXpXLVprS044dm43ZzdzTDRwTTc4MWx2dw?oc=5",
+          "source": "디일렉",
+          "publishedAt": "2024-01-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-01#t7",
+      "title": "시장은 왜 자꾸 금리인하를 말할까",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "시장은 왜 자꾸 금리인하를 말할까",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85X2lIXzV1LTlNV0hNOXN1ay03cko1eWQzTGI5US1JbWNPR3BRbXJlOTBfMHJlbFgtbHYwaHZGQlQxSGt3MWNwYVZlakhPenJrYnBhRnUyWGpxaVZDU05SZzh4aGhpUUE?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-01-29T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "삼성전자",
+      "count": 7
+    },
+    {
+      "word": "작년",
+      "count": 4
+    },
+    {
+      "word": "달러",
+      "count": 4
+    },
+    {
+      "word": "개선",
+      "count": 3
+    },
+    {
+      "word": "매출",
+      "count": 3
+    },
+    {
+      "word": "가격",
+      "count": 2
+    },
+    {
+      "word": "시장",
+      "count": 2
+    },
+    {
+      "word": "상승",
+      "count": 2
+    },
+    {
+      "word": "영향",
+      "count": 2
+    },
+    {
+      "word": "일본",
+      "count": 2
+    },
+    {
+      "word": "코스닥",
+      "count": 2
+    },
+    {
+      "word": "시총",
+      "count": 2
+    },
+    {
+      "word": "주가",
+      "count": 2
+    },
+    {
+      "word": "PF",
+      "count": 2
+    },
+    {
+      "word": "부진",
+      "count": 2
+    },
+    {
+      "word": "lg전자",
+      "count": 2
+    },
+    {
+      "word": "반등",
+      "count": 2
+    },
+    {
+      "word": "검은",
+      "count": 2
+    },
+    {
+      "word": "예상",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "01.07",
+      "event": "삼성전자·LG전자, 2023년 4분기 잠정 실적 ‘희비교차’…왜?"
+    },
+    {
+      "date": "01.30",
+      "event": "배추 가격 된 中 배터리 셀…공급과잉 영향"
+    },
+    {
+      "date": "01.31",
+      "event": "삼성전자, 작년 4분기 ‘예고된 부진’…D램 ‘흑자전환’"
+    }
+  ]
+}

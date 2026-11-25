@@ -1,0 +1,400 @@
+{
+  "month": "2024-09",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:16.960Z",
+  "articleCount": 222,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-09#t0",
+      "title": "북한 여자축구, FIFA U-20 월드컵서 통산 세 번째 우승",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "북한 여자축구, FIFA U-20 월드컵서 통산 세 번째 우승",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXcWUxUS15VGgwLTlsem5FSTZoakppNjJVZ2NkeXAtd01iQWd4dXUxSkE0WTI5R3ZqVE1SdHRNcTdWaE1FRmxWSUQ0TldTZm00bkFsVUpCb241a2dS0gFiQVVfeXFMUFNnalZRQXludHlBRjBqWVdaM3V5NUh0aVZILU5oV1BUUDJFb1Q1YmVROEZpeW1RX2JXU2xoQmxoNjRMSnFJQ0ZCZnNXMU5QbHVET0tZMkRMYldZUWt5U3kzQWc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2024-09-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 여자축구, 일본 꺾고 U-20 월드컵 제패…통산 세 번째 우승",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WNjd0TEExczZPYl9XVld5SnZPMjF1ZmVUT0JoZlBxZXNLMnJsTXNtblVaMkxUTUVHRm16UnF1SS04UHFLcmdMcFEzOXVObnltU3hkdzB0MTBwLTjSAWBBVV95cUxPWnVUdXV1WDdpdm95UE56eFlIOW5mcHRFWGI5MUt4UEd4eGVGNmwtek9DcmN6c25MT0cxVnZNX1piZ2lvUjc3TUtpTURGRXA4blU4Qnpfd0VHdllIVVdVVTI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-09-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 여자축구 ‘최일선’ 활약…U-20 세번째 우승",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90b2hWSTFORHJudl9tZHBza0FYcWh1eGZoOHMxWVVFMGl4Ym9Oei11cFJ0MUxfR3VVUXZtbjgxOEdnOWNqdTR0Y3pQNk1uLVY5MGRpcnh3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-09-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-09#t1",
+      "title": "2024년 9월 30일",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2024년 9월 30일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92ZmN6a0p4eWF5RDFUU0FHQnVjME91MnVlSEpFc0RiOWpaYUhPZ0MtZnd6YnNteEZFYmF0bXZKeXV6WVpFdzNleFRMMmhiT3lfRnNJRjJ1b2tma2d1Mjc1RlpTYi1yOGFYajktVTZ30gFyQVVfeXFMUEZRUGU5LXRvSHh6NEF6QmtOUjY4dnZPWWZfUkxKcFMybnZZMjgwdnhlWVh0X0JfUXpfRnZTYUF5SVR2dm0tVUl4NU45cHZSTkVyVzFHMDgxN0Z6NHllZ1NSel91eEFwTF94S29WRC1nQXNB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-09-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "KDI 북한경제리뷰 2024년 9월",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4TGZNQTA2bkRIaXZLYXBDblR3c0h0MHR6VW53WG54ODdvck9ZbHR2NWJLVzN5TkRTaG9sak5yQ21lcjJrVldpNVZoeTYydEZBNE90Zm54RUpOa2NOS3I0TTRB?oc=5",
+          "source": "KDI 한국개발연구원",
+          "publishedAt": "2024-09-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-09#t2",
+      "title": "민주당 전국장애인위원장 선거 ‘후끈’… 서미화·박재용 의원 출마",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "민주당 전국장애인위원장 선거 ‘후끈’… 서미화·박재용 의원 출마",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VcDVWNWRRLS1tTFBRMk9Kd08tYlhjZWc4ZXFhVTBrTHNOT1dWX2RVS09udURFS0p4a3dyTFlzaXV2cTQ3NU1fU09EQlVhMkk?oc=5",
+          "source": "더인디고",
+          "publishedAt": "2024-09-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서미화 의원, 더불어민주당 전국장애인위원장 선거 출마",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DOVFTZ3Q0YTFqN0xzeWhjbm9oVG43Y2dvWTVkeXR5MnEtaFd3bUtPbHprdDZyV0lSQXVRUnJDSWtzVElSYjFzQno5Ny15MWRLaHRVdFZWSDRKMXdpbFR1VE9TZUpJWnpFNDlfSk9BYw?oc=5",
+          "source": "웰페어뉴스",
+          "publishedAt": "2024-09-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-09#t3",
+      "title": "이매뉴얼 주일 미대사 “한일 관계 개선, 역내 외교 재편”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이매뉴얼 주일 미대사 “한일 관계 개선, 역내 외교 재편”",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UWnZjaUJvX1VqMG5MeWJEMmtOaXprN1IxY1NzUDF0RXR1Z2ZQSWdMVGhMTzA0UXUzX2d2UElCRUlYSXlDdGhWTlFFQnUydEw40gFTQVVfeXFMT0tkazJIM0t1OWZXa2RXbThaRUlKaDRkR20zWXpXWmJvZHBVUkxxSkpSR0luMl9aQXUwVnJZWkhOR011eENQUkFXOWhrMlpzRk96WDQ?oc=5",
+          "source": "VOA 한국어 홈페이지",
+          "publishedAt": "2024-09-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "주일 美대사 “日, 한일 관계 정상화 등 역내 외교 재편”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ZDY2T3YwbUxEc2dndUlVVWZ1U3p0cnRXY2FoR2ZQUzZ3ZVVSMWI4YWFzYXM0Rm9oUE1zYm93c0tkc0VkbnlJRG1ZSEcwcFU2MG80YkVIV3hZbll1QnhwTFNwdVYtMWRmNFE?oc=5",
+          "source": "SPN 서울평양뉴스",
+          "publishedAt": "2024-09-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-09#t4",
+      "title": "농해수위 2024년 국정감사 일정 확정",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "농해수위 2024년 국정감사 일정 확정",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0s2cC1yLXBKc3lfb1pla0wtODBvLUkwRm1IYW9tM3NWZlNUNnRlNTJTaDlvSDhyVFpnVXRFS1NRYUZ4TjVFZFMzMmN4aWZfS2x0bEtQczFQUXhLdFdkcHRrRkJ5RFY4?oc=5",
+          "source": "축산신문",
+          "publishedAt": "2024-09-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회 보건복지위원회 2024 국정감사 일정",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mTDRtaVg5bUg0dnVSQmdNZlBQUm9rX0FQNFRvdkZ6cEFnR09IbVBtV3JsX0w4UlFyUFNqUVV2Q3U5R1paOWJIWlluZkZwSU5XZFdDSWV1SjY4a3FSS3lGSXAyYnRyMXNINUxPck9B?oc=5",
+          "source": "식품저널 foodnews",
+          "publishedAt": "2024-09-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-09#t5",
+      "title": "국회 국방위, 국정감사 10월 8일부터 24일까지",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국회 국방위, 국정감사 10월 8일부터 24일까지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iVzktNmFkSUxiU1ZCWFJZbnJxQlhEQTJ2RjFvNkxIVlM4SWRLQnY2amhWRnJwMURLZDNqYVA2aTR0RzhIZEJuWWNlSXVYY0RlZTg4ZEhLRVExNGlITVZ1dS1KYUpfam1yenlVcjJZMF9nQQ?oc=5",
+          "source": "굿모닝충청",
+          "publishedAt": "2024-09-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회 교육위원회, 국정감사계획서 채택…10월 8일~24일 국감",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRjJTeWRwS0ZJemxNcmdWTmdtcHlIQzRtUkgwTUJmT25XOWEwUklBNFAzOFBZZTBaUmR4Yjh4VFUtX0FaUUZsSTJlMG0wWGpJcUp0ZHo5ZlZVU3VhVjc0NGJJVmRobHNnd1p2Z0R3SFc?oc=5",
+          "source": "로스쿨타임즈",
+          "publishedAt": "2024-09-25T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-09#t6",
+      "title": "국정원, ‘한국우주안보학회’ 우주안보 전문기관으로 지정 | 보도자료 | 소식ㆍ정보",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국정원, ‘한국우주안보학회’ 우주안보 전문기관으로 지정 | 보도자료 | 소식ㆍ정보",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rR0V0MkpoWC10Xy13R2JULXhfVllmdGlXdTd5blVLRE9aSDJNNTVwU1VqbVMzb0JEc2FZaUFodk4taFJQUEZUS1dXQnpodkpEbFVLRTRnZw?oc=5",
+          "source": "NIS 국가정보원",
+          "publishedAt": "2024-09-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국정원, '한국우주안보학회' 우주안보 전문기관 지정",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hUzdna1VOQlVtaGQ1YXlJSXJtOU1zRmUtd1VCSThKdDZVRlBOT1FHTWVNT1Nab1pKZUYxQmxnZUI4Y3QyNExwNHlfdWQtVDdETDAtVlRuNnFLS1gzajRFTmktOENtRU80OFE?oc=5",
+          "source": "SPN 서울평양뉴스",
+          "publishedAt": "2024-09-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-09#t7",
+      "title": "‘반타작’ 당하는 탈북송금 – RFA 자유아시아방송",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘반타작’ 당하는 탈북송금 – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUlqZmEzTkpScW1GOXdad193cGtMZ2x5WDFKb0R4TmU0VEpRcHpzY1g2SEJoRGJvVDBXaFlVYmtqX01UdmU4N1ZYNnlveWJKMHlUSndyRkxxa3pkSFBITGRKenZ2aC1FTlBlZV8xT1NHNzRlLWJldDIyNy1rU3RYRlBybDN2LXVsSDQ4MjFkX3MxMV9OVE9kZTEydkU0dE1CWl9EdDlQSTEwTWFCOGhHUnpwZjJsbkl6azBNT0VWWm1LakU?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2024-09-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 해외 노동자들이 선호하는 국가는? – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDByOFJiMV9fbXhNUDhYMUttS0g0a08tMGx3cHFXcHh6WEVFQlNUOFZXdWdubEdnbUpCVy10QmliUW5xMm02ZUlxd3hNWFk0cGtxcTZGUGVHYVB4b0I2XzlYQjlvY19zWDhvRGVQTXg1eWFRNWhFdl9NUkRRWlJZN3gwdnNSNGU3SDhTTko3b203ZWhScHMycElVN3pyYjJ6dW1ZNHBXeE1TRktyS05Wc2d3?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2024-09-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "외화 단속에 송금도 ‘북한 돈’으로 – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWFVsXzRrdlB2QnZFVWhkdUxkVWFUdzlXWGVqdFFYZndDSk1KU1ZSRFZCU1EyTXN1cUx2akVEUklHTHo5dUFSeUhWRVg1WkhHN3ZJQXRqM05TZ0NVQUIyYjU1bTB4c0VhTTAzSEF3OWlrblRHOWxSd2RBT2xsNklwWjIwclJRUQ?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2024-09-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 7
+    },
+    {
+      "word": "국감",
+      "count": 7
+    },
+    {
+      "word": "RFA",
+      "count": 7
+    },
+    {
+      "word": "자유아시아방송",
+      "count": 7
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "출마",
+      "count": 6
+    },
+    {
+      "word": "민주당",
+      "count": 5
+    },
+    {
+      "word": "없어",
+      "count": 5
+    },
+    {
+      "word": "이재명",
+      "count": 5
+    },
+    {
+      "word": "총리",
+      "count": 5
+    },
+    {
+      "word": "후보",
+      "count": 5
+    },
+    {
+      "word": "통일",
+      "count": 5
+    },
+    {
+      "word": "IT",
+      "count": 5
+    },
+    {
+      "word": "억류",
+      "count": 5
+    },
+    {
+      "word": "계엄",
+      "count": 4
+    },
+    {
+      "word": "의원",
+      "count": 4
+    },
+    {
+      "word": "극우",
+      "count": 4
+    },
+    {
+      "word": "축구협회",
+      "count": 4
+    },
+    {
+      "word": "자민당",
+      "count": 4
+    },
+    {
+      "word": "이슈",
+      "count": 4
+    },
+    {
+      "word": "채택",
+      "count": 4
+    },
+    {
+      "word": "확정",
+      "count": 4
+    },
+    {
+      "word": "조국",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
+    },
+    {
+      "word": "정책",
+      "count": 3
+    },
+    {
+      "word": "유지",
+      "count": 3
+    },
+    {
+      "word": "불참",
+      "count": 3
+    },
+    {
+      "word": "개원식",
+      "count": 3
+    },
+    {
+      "word": "특검법",
+      "count": 3
+    },
+    {
+      "word": "대표",
+      "count": 3
+    },
+    {
+      "word": "시작",
+      "count": 3
+    },
+    {
+      "word": "나치",
+      "count": 3
+    },
+    {
+      "word": "지방선거",
+      "count": 3
+    },
+    {
+      "word": "홍명보",
+      "count": 3
+    },
+    {
+      "word": "정몽규",
+      "count": 3
+    },
+    {
+      "word": "김건희",
+      "count": 3
+    },
+    {
+      "word": "박근혜",
+      "count": 3
+    },
+    {
+      "word": "총재",
+      "count": 3
+    },
+    {
+      "word": "한반도",
+      "count": 3
+    },
+    {
+      "word": "당선",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "09.23",
+      "event": "북한 여자축구, FIFA U-20 월드컵서 통산 세 번째 우승"
+    },
+    {
+      "date": "09.25",
+      "event": "국회 국방위, 국정감사 10월 8일부터 24일까지"
+    },
+    {
+      "date": "09.26",
+      "event": "농해수위 2024년 국정감사 일정 확정"
+    },
+    {
+      "date": "09.27",
+      "event": "이매뉴얼 주일 미대사 “한일 관계 개선, 역내 외교 재편”"
+    },
+    {
+      "date": "09.30",
+      "event": "2024년 9월 30일"
+    }
+  ]
+}

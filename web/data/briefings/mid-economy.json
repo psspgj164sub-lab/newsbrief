@@ -1,0 +1,445 @@
+{
+  "period": "mid",
+  "periodLabel": "중기 · 최근 6개월",
+  "category": "economy",
+  "categoryLabel": "경제",
+  "range": {
+    "from": "2026-06",
+    "to": "2026-11"
+  },
+  "coverage": {
+    "monthsAvailable": 6,
+    "monthsTotal": 6
+  },
+  "updatedAt": "2026-11-25T05:39:40.207Z",
+  "trends": {
+    "months": [
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ],
+    "unit": "기사 100건당 언급",
+    "series": [
+      {
+        "word": "달러",
+        "values": [
+          10.7,
+          6.6,
+          5.2,
+          12.9,
+          6.6,
+          11.2
+        ]
+      },
+      {
+        "word": "하락",
+        "values": [
+          7.1,
+          3.7,
+          10.4,
+          10.9,
+          8.6,
+          5.1
+        ]
+      },
+      {
+        "word": "급락",
+        "values": [
+          7.1,
+          8.1,
+          3.7,
+          0,
+          11.2,
+          10.2
+        ]
+      },
+      {
+        "word": "역대",
+        "values": [
+          10.7,
+          0,
+          6,
+          10.9,
+          0,
+          6.1
+        ]
+      },
+      {
+        "word": "코스닥",
+        "values": [
+          3.6,
+          6.6,
+          6,
+          5.9,
+          7.1,
+          3.7
+        ]
+      },
+      {
+        "word": "최대",
+        "values": [
+          5.4,
+          2.2,
+          3.4,
+          9.9,
+          3.6,
+          5.8
+        ]
+      },
+      {
+        "word": "AI",
+        "values": [
+          0,
+          3.7,
+          3.4,
+          4.5,
+          8.6,
+          7.5
+        ]
+      },
+      {
+        "word": "인상",
+        "values": [
+          0,
+          5.9,
+          11.2,
+          0,
+          3.6,
+          4.1
+        ]
+      }
+    ],
+    "rising": [
+      {
+        "word": "AI",
+        "change": 338
+      },
+      {
+        "word": "상승",
+        "change": null
+      },
+      {
+        "word": "한국",
+        "change": null
+      },
+      {
+        "word": "폭락",
+        "change": null
+      },
+      {
+        "word": "매도",
+        "change": 131
+      },
+      {
+        "word": "반등",
+        "change": 52
+      }
+    ],
+    "falling": [
+      {
+        "word": "발동",
+        "change": -74
+      },
+      {
+        "word": "사상",
+        "change": -100
+      },
+      {
+        "word": "기대",
+        "change": -100
+      },
+      {
+        "word": "하반기",
+        "change": -100
+      }
+    ]
+  },
+  "stats": {
+    "articles": 1153
+  },
+  "ai": false,
+  "headline": "최근 6개월 경제: 「코스피 5% 급락…매도 사이드카 발동」",
+  "overview": "2026.06부터 2026.11까지 6개월치 경제 기사 1,153건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「코스피 5% 급락…매도 사이드카 발동」(3개월), 「한은, 기준금리 연 3%로 인상...2회 연속 인상」(2개월), 「8월 수출 983억달러로 역대 3위…반도체 사상 최대」(2개월)입니다. 기간 후반으로 갈수록 AI, 상승, 한국, 폭락 언급은 늘고, 발동, 사상, 기대 언급은 줄었습니다.",
+  "keyPoints": [],
+  "issues": [
+    {
+      "title": "코스피 5% 급락…매도 사이드카 발동",
+      "span": "2026.07~2026.11",
+      "monthCount": 3,
+      "articleCount": 10,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "코스피 5% 급락…매도 사이드카 발동",
+          "source": "2026.11"
+        },
+        {
+          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+          "source": "2026.10"
+        },
+        {
+          "title": "코스피 급등에 매수 사이드카 발동",
+          "source": "2026.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaRWNRdk1DM242ZU14d3RsM2lBU0VMQXNaajJsZHhkR3VPV3dPenZ1UGd1VnI1WC1HZUFuOWdhdUpWS0lja2R0OHBqY3JOVTFYMENuc3o4UWNIRWM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T03:01:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aklpckczTUtvVmxCUko3SVVGTXNrUzhJTjhncUp2bnRyNW5uRDk3QVJnMEZfOURqUlhHb1Z5RFJveEowQWlxWW9sZmRKaWV2QWRHZFlYczRVSVBhMFZnU2RScFMydW9xa0RCUnFmQ29nUVlz0gF0QVVfeXFMTVFCM2FNQ0h5Nkp5YmJ4YUlLX0hfTXg1SW1wNExaTEdrTDRINzB5OEZ5ZlRteldFUEJSY0lHN0xTTHFwdUZxeFFYUi01V3BSWGZoYVh4dGduaV9pZ3BFY0xMNUluUEZzY3l1eFRNX1AxVTVMT20?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'매수 사이드카' 발동에도 코스피, 발목 잡힌 배경은",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kVVhycHZNeDE5eVYyT0l4eWZNZnJaVldiUS1iS296Vl9CVDE5TXU2OGZqaEE5Y1pqdlJnSldZaDgxZnBsTThTTTkyNUtqeHFMSV9xNUlpcU93TktTRmJyS0ZLcmhhRHVjRFdDcldPYU4?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-07-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
+      "span": "2026.07~2026.08",
+      "monthCount": 2,
+      "articleCount": 19,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "기준금리 3% 시대‥한은, 두 달 연속 인상",
+          "source": "2026.08"
+        },
+        {
+          "title": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
+          "source": "2026.08"
+        },
+        {
+          "title": "한국은행 기준금리 2회 연속 인상‥연 3.0%",
+          "source": "2026.08"
+        },
+        {
+          "title": "한은, 기준금리 2.75%로 0.25%p 인상",
+          "source": "2026.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "한은 두 달 연속 기준금리 인상, 연 2.75%→3%로",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVFoxckxWa3U2T05GZXRpdXVKd2pjLTR6U2h1V1dNRGhIeWtUOXZLRWpFbjY0M1BsUlFhaU0yZ0hlWHM5LXBtWUxVSS13Z3RZU2lFOVlwSWtOd9IBX0FVX3lxTE91eE9HeHp5TFJreTJzZU9EUThYbUYxcDhUTk0yXy1XNDFZR1o0VHJrX25QWmV1ZmZkb2h0UVMwWWZFVXdRUEY0YjJFNVlLVnRrSHVDRV9FemN5d3VndVdr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한은, 기준금리 연속 인상…“고물가 선제 대응”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMWEcyNEhLRVR2R3ZYckVnY1QtMlMtUW55dF90NTc2T0NCR1h5SGJ5aGNYSEtfWFlFVnJubGlOdnF3d3NNTC1PZ2ROWW9FU1hBVTZzUjRmY09rM28?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-08-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국은행 기준금리 2회 연속 인상‥연 3.0%",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRjZPYUtqRzVMNnBIZ1E5VEt1ZF9IQUdVd1NPSTZFTlpHSzBENGFaQjRGVVNEaFRKek5ZNXUybHA0WXBETW83QlJaN2VGZ084N25lbEIyNW5TbkN4anBqeUQ0RzZBTjQxS1VCU1FOdWpzUmxf0gF0QVVfeXFMTmM4Z2E0Q01EeDU4d1JSUEhoQnFERVdfYk9vdUlCaGVEQ1phYmJKbHNqLTBSMEpCOEtrTVJsYlFnOUZvUEpSM2ZtTVZSX255OFBwMFBrRHZDUFRMX3JBVmxBMDJZSlZHcmwzRVVyZllRLWdRNnQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한은, 기준금리 2.75%로 0.25%p 인상",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV01VY3dycW5IRHd6U1lRck51YzdpSWt4NWtGQnJ6ZjV5QmI2WUlJaTl2ZUE5MmpFcUExN0NoUXU2cEZSbndhTEhVSGl0Y216ZkRDTV9uejFDZkJGUmI5WDRjclZvYVk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-07-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "8월 수출 983억달러로 역대 3위…반도체 사상 최대",
+      "span": "2026.08~2026.09",
+      "monthCount": 2,
+      "articleCount": 15,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "8월 수출 983억달러로 역대 3위…반도체 사상 최대",
+          "source": "2026.09"
+        },
+        {
+          "title": "7월 수출 989억달러로 62.8％↑…역대 2위",
+          "source": "2026.08"
+        }
+      ],
+      "articles": [
+        {
+          "title": "8월 수출 983억달러로 역대 3위…반도체 사상 최대",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMmpNb25Nam1ZWFcybTBsTDBGTmg4RzZaOFhiS1dxaU9UUnpUWWxZWmtKbU04d0t2MnJsUmZLdmhzVGZ5Zk5vTWdkWVZkc05FOGNkYlk1M05malnSAWBBVV95cUxNcktsRXo3VHU2emdSM3pjQTV5ODR4VWFRSzZVRzNrYjlmWHJiVkFNTVFMT0Ffb0txSWtvazd2di1obnNzcVpRS2xiamtaTTVDRmROLXo5TnlXNHEyeUgwc2E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "7월 수출 988.9억 달러 '역대 2위'…반도체·AI 데이터센터 투자 효과에 대미 수출 급증",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFLUVjcGVSTnQ2dEs4QTd6dm9IVV9FUG5fS0NZYkZoQUEyNHIxS1ROMG44MlBJYTNINlE4RGFjUndnYXI3MVZnQ1ZrbHB2MEFvTGdCdjY4d2Jjdmp6dnpTVkdiOE02b09pbXZFR0hB0gFyQVVfeXFMTU84UFhqbWdCcDlyZ2FWZXZKdTZ3ZU1nYWNrcVBxRjNqbGtFeWIxbWNtNnpWVWNYdDA5RWNKOWFEN1F5WFVIOUpobmdxTmk1Qlhhd2IybU15aE5RaS0tcGtnaGJVR3dEOVpnWDZKQi0xa2J3?oc=5",
+          "source": "테크데일리",
+          "publishedAt": "2026-08-04T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "8월 수출도 900억달러 돌파…1조 고지 보인다",
+      "span": "2026.07~2026.09",
+      "monthCount": 2,
+      "articleCount": 4,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "8월 수출도 900억달러 돌파…1조 고지 보인다",
+          "source": "2026.09"
+        },
+        {
+          "title": "6월 수출, 사상 첫 1000억 달러 돌파…전 세계서 4번째",
+          "source": "2026.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "8월 수출도 900억달러 돌파…1조 고지 보인다",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14MkpfdnNra19aV1U2bFJHbGhDRW1hUXFGRnk1VEdvUnEwR1JzbmR0aVd3YXVUaUZqZFBueUN5Z082c0pqOUpBbXJrWTZaSGVEanVCUzd6aEYxdUVyVGV2LWwyb29QbEtaNVhSSVVpcDc5OXM?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2026-09-02T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "6월 수출, 사상 첫 1000억 달러 돌파…전 세계서 4번째",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TU2JIRVZjUDB6NHBjUjBDWG5UX3VRR29KQUhWQWV5SzNFNHN3OERFd01LVG9LYWdLQVJLa05VeEZZWnh1azhIOFhrRXhNbF9MRmp4YUZHWmtqdGk4Rm9hd1otOEIzc1I5NzN6Qw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-07-01T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+      "span": "2026.06~2026.10",
+      "monthCount": 2,
+      "articleCount": 3,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+          "source": "2026.10"
+        },
+        {
+          "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
+          "source": "2026.06"
+        }
+      ],
+      "articles": [
+        {
+          "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYS3hROUpwLWZuY1dCeUN1aUlHQVhQUktXWWVoeEMxTjEyazRhSXhMSmRsZGMxYTVEMGVzdFlfWk9yRVNiNk1sREhBalB4Q2tUbkpSZXhkdXpjMTg?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84OHRtTzhYUTlsRVlEOWZVdWxfbWJlTEo2TWlGdkttRVFlTThlYUxReXdzREZselA0UUx6QkZBakVLZjBuenFCZjVEcWxIbGVTd2JBdHNrWmdSeElBQzBNQlhaaERndTBJMEp4VlRlbWVfY0ZR0gF0QVVfeXFMTkZBRF9OR3dkcll2UkdQcU1pOWVMcEdiMlgyQ0pGMzFackZTT20zT04tR0dIZjlINlU0dzY4RHBOOU9nNjViMGcxc25TNHVVQWpoOVhBYmNOZEVfQXo3aG9KemItTHI1aWMzTm5MM2hBZUpRa0s?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-06-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 10,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "K-푸드+ 수출액 120억 달러 돌파 '역대 최고 실적'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcm12cGM3SUhvOVI2dmVnQkQ2UDM5ZzJ1ZFI1SlVKWmJnYWthQ2I0VFdhWjRSVWJvb0E4WVl2SWtaa1U0UlNEMWdfWS05Q1RuaWUtUERTU0pJRnhVQWZaOHJzVGhRRk9vZ3FyQQ?oc=5",
+          "source": "농수축산신문",
+          "publishedAt": "2026-11-22T22:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+      "span": "2026.10",
+      "monthCount": 1,
+      "articleCount": 6,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+          "source": "2026.10"
+        }
+      ],
+      "articles": [
+        {
+          "title": "’1,310원대 근접’ 원·달러 환율…명목실효환율 2년 만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93M1h6SUhDYnRsN0dpNFRkQU5hOEI1Zzc2MXVwbnlWQkdpS0dPTTJiQTlBU3pJQXRXWGlqQjFVMk1tM2RJR0NWc2U1S1VtZVJhalBKMUlZSEJoR2pkOUg4eDdkS2JMdHM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.06",
+      "event": "미국 금리 올릴까‥\"반도체 실적·환율 등 변수\""
+    },
+    {
+      "date": "2026.07",
+      "event": "한은, 기준금리 2.75%로 0.25%p 인상"
+    },
+    {
+      "date": "2026.08",
+      "event": "7월 수출 989억달러로 62.8％↑…역대 2위"
+    },
+    {
+      "date": "2026.09",
+      "event": "8월 수출 983억달러로 역대 3위…반도체 사상 최대"
+    },
+    {
+      "date": "2026.10",
+      "event": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고"
+    },
+    {
+      "date": "2026.11",
+      "event": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신"
+    }
+  ],
+  "outlook": ""
+}

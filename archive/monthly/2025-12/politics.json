@@ -1,0 +1,403 @@
+{
+  "month": "2025-12",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:19.224Z",
+  "articleCount": 180,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-12#t0",
+      "title": "KDI 북한경제리뷰 2025년 12월",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "KDI 북한경제리뷰 2025년 12월",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTTBrdlBjdVBHTGlueVRvRmlySDdBSXlXbGRDWGpHQWpyeUVta24zdXFZZXJYYURuclB3OHV2ZWVCaTE2Vnk5THJLVnpPaU1aby1ZLVF4bFh4cldjS0owLURBelg?oc=5",
+          "source": "KDI 한국개발연구원",
+          "publishedAt": "2025-12-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "KDI 북한경제리뷰 2025년 11월",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BSklFQWlYYjdKR19FbnV3UVg2Y25uYVJKWG1wQWJJUG5NUmZNcFV4bGV3dXptWXpMVFB5QTdjbzBXSDFrVXNjRjkwVVBVNlYtajd3UnZWcWpfUUYtQWxtWHVmaThQZDJCTXNF?oc=5",
+          "source": "KDI 경제교육·정보센터",
+          "publishedAt": "2025-12-11T12:29:50.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025년 12월 9일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5URmhRWFF3aUw5MTgwUUVBMnZFTjNTSmVlM2IxLXdiOHAyaTlvVkJuZ1RrRy1rYnluSGhiaFVyYVZxUmVMRThsaFlReS1XM19uYVN5Rnprd0JrLXNEaVBYdE1BZ2Z4WXppZWlTODBR0gFyQVVfeXFMTVRwSFBuVDhiUWhzQVdWSk9wQmN5anNIc0V6MEZmWXhvTjFDeHgyT0dveG0zWDQxSnJDaWF2QmRkT3BZZlVGVDk0TzI0ZGZpTnZCZWRfU3lkdjJPajQyZy1Ka2FvbW5fX0JnSGpxN1haeGlB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-12-09T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t1",
+      "title": "속보 대통령실 \"29일 0시부터 '청와대'로 명칭 변경...봉황기 게양\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "속보 대통령실 \"29일 0시부터 '청와대'로 명칭 변경...봉황기 게양\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wbld3T21sdjhEUmotWXVnbWMtZk1PV2dHdDJPNXJKa0NwY0JEdERfTXVnLUVDVF9RaEdoQ05QQ0JVM3dfQkg0VWtzaFNCNy00X2ZyZ0lGSWFtb1pGVHc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-12-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "다시 '청와대'로, 대통령실 시대 끝…29일 0시부터",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JYWh6N29JdVBFYzNVajFaRU0waDVzeVpqUU1VZXY3Zk5LbEN5dVdJS0FWM21YZ19mdjI1NkttVUxzTWRyaEtjdGxNSTFnZUZfRTc2NHUyUGx1Tk1JNW9wTHVCTXhwOHFlWHJz?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-12-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대통령실, 29일부터 명칭 다시 ‘청와대’…봉황기 0시 게양",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wSkJSX0Faa3JKQjdpYnNNbmZ4a3N1ejd6SExYN0RsVFB2NWdJYWtiaUl4M1Y4UGxnWnFUNHBGNUdrMWIweFhIMWxVYXFEYUFOX3dxWWtn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-12-23T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t2",
+      "title": "세법 개정안 국회 본회의 통과",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "’정보통신망법 개정안’ 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OYWZoaHl1elJsd25Qd0hGdGhlcV85c0VLd3JRekI5MktpalhUWkJHd3EzM3FzU0xJTmFYa09PeWc1N1Ytb2ZaaFZ6VTM2UU8zMmZrS0FEVjJhYWxMY1Q5VGJVYjZ0cUU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-12-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "전자금융거래법 개정안 국회 본회의 통과 및 공포",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00enFCSmtXdF9UNWxwQVNZOHZPR1p5dW9yTGNRV3dQekNtNk03Z1cyTE1ONTY0a28wRy1TcFVEc0pKYnpzbklrcC14Q1EzTHJyamxicUlJTDdMZWNmMzJRVWxITGJNLTBTZEx3RW5n0gFyQVVfeXFMT0tQSXlrSnRWMWtTVGtRUEkzR2dEY29wdDFlcVdEYkZDQWJtXzRtVk1kdG1xVVJWTnFFdUZPWkdTQnpoMmkyRmlqbnpaQ3h2a1RhS0VEeFR4ZmJINUp3b05RemdpSTZqRVczOTYxRG81M3N3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-12-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "세법 개정안 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UM2p2QmcwdWljZG1GZjhhV29xWHBHQ1h5RU9kcllTM3lNaWxxYmpDd291VEJ4cFhjcFVxZFA4ektaNDk1S1U1d3UxcmwzQlNZWWFZb1dLeGpaZHo0dlhYQU9vYUJ0R1ZtNTFiYVd30gFyQVVfeXFMUGhfRHRYdWVZUzU2elZZV0dreVUxd3BRZHBFcUZtRy1oUEtfYmV4WDdqNGdGVTBfdDQtdWdiNkw2MVJiak94WHdyOWxuNS1KRV9HRUd2d0RYejJXRHpWWWxtWUk4Uy1BN2s1aEI0a0FvWm93?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-12-09T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t3",
+      "title": "김건희 특검, 180일 간의 수사 종료…무엇을 남겼나",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김건희 특검, 180일 간의 수사 종료…무엇을 남겼나",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTURkTWRMVU5rSWtEQVA0Q2RKM0ZqYmVvY3ZzU1VjSUFJc1JVUmp6MmQtcXBtQnQxZ1VpeXJDWVNzaFdqZGdac3JWcG84UkZZUWM2eUJlZ2ZwVzBw0gFiQVVfeXFMT2N6WWE2VDROQWQzaGZuSDNsQkZGd2M5cHZFdUp2bXlVQ2FaWFczU1BmcGU5YVhKS0NTdHF0QUxVMEVHYnhFLU5rQVlsbUd3dTNmaW1JTnVyOFoxWVNNY09Od2c?oc=5",
+          "source": "BBC",
+          "publishedAt": "2025-12-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김건희 특검 내일 수사 종료…롤러코스터 탄 180일",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13T0tscm0wS0pyZ0FOdGxJWFduSW9DLW1lTzZZSFJZN21oZkM4TmQ5QlJVQjdRYzN5QmVycXJ6Y0RaZkxZa2NxWDVvSDlramZYcjIzUW9uQmRkRXlWSzB3WnJqdFpJX3M?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-12-27T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t4",
+      "title": "\"'남북, 통일지향 평화적 두국가 돼야' 주장에 국민 55% 공감\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"'남북, 통일지향 평화적 두국가 돼야' 주장에 국민 55% 공감\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lMWJwMWFVSGIwVml0ZnN4TnVSb01mYm9ZU1hiYzAtRE1DS091MG94dDhReEpQeGZ4QjNOQkFZTm1Hd19pRENsQVhwNDRnMFE3MVdZX3lZQ0oxd3PSAWBBVV95cUxNYUJ1WHBMZVg2Y1MzcjRLOFFaaHJlWERnOEFwdGpSbUJESzhBdGF4WGF3NW0tLVRGdmpTRDZDanJ0c215NlBjc3VscjFtUVdBa0xCNkpjRUQweVdod2dIRzk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-12-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "남북, '통일 지향 평화적 두 국가'로 전환…한반도 평화 특사 임명",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NDViWjZPZ0NPdlc1T3dzQi1Sc0UyVXVUVWEzb08xMjF6cUdUNFFqTXIyOTVNcEpHdWRKNnJfNU05c2hWRTJJaUE2b3BkcGFwX2ZfOTJ0U0RRUXdWa0lHRU1YdExOUEF0VFBnQw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-12-19T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t5",
+      "title": "지난해 북한 경제 2년 연속 3%대 성장...남북 GDP 격차 59배",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "지난해 북한 경제 2년 연속 3%대 성장...남북 GDP 격차 59배",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuOUJaYkVRVW5VbDdoZjU4UUM0cEtVLU5vNTVtdlRyckZfbkt5Ym5GWkQ3bTduV0pnLXpmcTE4QXB6azE2NTZlMXZZVjl4V05ZV3hiV09CSVcyZ2RFWnc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-12-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "작년 북한 경제 2년 연속 3%대 성장…남북한 GDP 격차 59배",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13empZc2x4NUJMeHcyeFItWXFMYjgyWE9BXzlfa0ZmYTNQVWRuOTJoQjBrVlZnT2JoZ2VOQ05mdGMzQVVOeE13ZDQzTUxBMnU0Z3p2N180em9pcWpMS1Q4cE9WSy1GQW8?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-12-23T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t6",
+      "title": "ACP 도입 변호사법 개정안, 국회 법사위 통과",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "ACP 도입 변호사법 개정안, 국회 법사위 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CS2xoSk9KdmRyNkY2M1dIeGMxdmNKLWRKbkgwbEdRbmVmTERLTHNKTnNxai03M2J5U3dJak52VTQ3aVg1Y0pWUGNfT0FUZUZMdFJMXzQwbzhjT29jWFVHYlRLc2w4MTVaeFBZWFdB0gFyQVVfeXFMUHZiNW1xMnlmdlpBTURSVFVOdW95amlRTFJJcFo2Z0xjUUxtNzJxN2dtOTFDR2hDX2dWbkJWMDRGYmR6NXVYaTRNajVCNkhwMmtCZlRXaUpuQUxLQmthanhXY3RYaTVxZFJQTjdGbGozY2Rn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-12-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교급식법 개정안 국회 법사위 통과",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUc0E4dU1vMmtjV0tkdTIwSERGODJHaElldzZ2ak1SX1VRTm9PeVJBNmtpcC1aTnRMRmtEcGZXUHZzMFU4WC1neEg5Vm5PY29pbnIzMmpjbDFmbGdzMjZ5emd3YTM3SjhlalV0cXd1T2Y?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-12-18T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t7",
+      "title": "대통령실 “북한 억류 국민 6명…남북 대화 재개로 해결 노력”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대통령실 “북한 억류 국민 6명…남북 대화 재개로 해결 노력”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oUXFKYlFidEJ1ZmN6MnRVTkxMZDgzci15U3RUaU1wY3ZnZHFwd2dCdE1zd1BPOHE5WGVaN3l2VFV3UGozYnBVNnpMdGlPTUhDcWJVUVkxbmZxekE?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-12-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대통령실 “북한에 억류된 국민 6명 파악…남북대화로 해결할 것”",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFY01zaTJIam5WdEJ5YWJxNS04bXlKTWkwZVpsb1F2RWFuTG9PZU9BNm1udGtLTWxIUFM3MW0xTDNXVUJscUY2LVFfdTRlTVFTVWR4NlBmYzRsMm1WUHpVYnhPdlVCRGtaQURr?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-12-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 15
+    },
+    {
+      "word": "통과",
+      "count": 11
+    },
+    {
+      "word": "김건희",
+      "count": 8
+    },
+    {
+      "word": "수사",
+      "count": 8
+    },
+    {
+      "word": "종료",
+      "count": 8
+    },
+    {
+      "word": "민주당",
+      "count": 7
+    },
+    {
+      "word": "통일교",
+      "count": 7
+    },
+    {
+      "word": "정부",
+      "count": 6
+    },
+    {
+      "word": "의혹",
+      "count": 5
+    },
+    {
+      "word": "청와대",
+      "count": 5
+    },
+    {
+      "word": "개정안",
+      "count": 5
+    },
+    {
+      "word": "본회의",
+      "count": 5
+    },
+    {
+      "word": "지방선거",
+      "count": 5
+    },
+    {
+      "word": "쿠팡",
+      "count": 5
+    },
+    {
+      "word": "통일부",
+      "count": 5
+    },
+    {
+      "word": "윤석열",
+      "count": 5
+    },
+    {
+      "word": "국가",
+      "count": 5
+    },
+    {
+      "word": "국민",
+      "count": 5
+    },
+    {
+      "word": "발의",
+      "count": 4
+    },
+    {
+      "word": "이혜훈",
+      "count": 4
+    },
+    {
+      "word": "계엄",
+      "count": 4
+    },
+    {
+      "word": "파면",
+      "count": 4
+    },
+    {
+      "word": "AI",
+      "count": 4
+    },
+    {
+      "word": "김건희특검",
+      "count": 4
+    },
+    {
+      "word": "경찰",
+      "count": 4
+    },
+    {
+      "word": "처리",
+      "count": 3
+    },
+    {
+      "word": "보장",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "헌정사",
+      "count": 3
+    },
+    {
+      "word": "도입",
+      "count": 3
+    },
+    {
+      "word": "입법",
+      "count": 3
+    },
+    {
+      "word": "토론회",
+      "count": 3
+    },
+    {
+      "word": "법안",
+      "count": 3
+    },
+    {
+      "word": "지원",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "공무원",
+      "count": 3
+    },
+    {
+      "word": "국회의장",
+      "count": 3
+    },
+    {
+      "word": "헌법",
+      "count": 3
+    },
+    {
+      "word": "반대",
+      "count": 3
+    },
+    {
+      "word": "폐지",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.09",
+      "event": "KDI 북한경제리뷰 2025년 12월"
+    },
+    {
+      "date": "12.19",
+      "event": "\"'남북, 통일지향 평화적 두국가 돼야' 주장에 국민 55% 공감\""
+    },
+    {
+      "date": "12.23",
+      "event": "속보 대통령실 \"29일 0시부터 '청와대'로 명칭 변경...봉황기 게양\""
+    },
+    {
+      "date": "12.27",
+      "event": "김건희 특검, 180일 간의 수사 종료…무엇을 남겼나"
+    }
+  ]
+}

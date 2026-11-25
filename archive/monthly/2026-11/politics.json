@@ -1,0 +1,438 @@
+{
+  "month": "2026-11",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:35.039Z",
+  "articleCount": 293,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-11#t0",
+      "title": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 11,
+      "sourceCount": 9,
+      "articles": [
+        {
+          "title": "'조희대 탄핵'에 법관회의 의장 \"행동 나서야\"...\"수령 모시나\" 반론도",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWXhheHFiSGxSMTN5U0xRUVdueFZqdVR2SzZVQXlaUUc1bFVscDF6ZERWUDIwbWlpRDBmY1E1RXdEckNJSG1vMF9oTkVOU0Q5RFNRN25neXRldG9XZVhnZ1B5UWpTRjZSdXR3UGRJaw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-23T09:45:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sX3NFc1dKWGl0b3B2dGV3RHVUYkI3YWsyclZ3Y1hDRDg2b3pwZXcwWl9TbzYwSU43RVpJSWMtclZqRHlHNXBSZHQycktpeklzV0tQLXpYN0lkTDZadTFTSktaX2J0aW42RUwyV0oxbHdQQQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-23T06:13:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법관대표회의 의장 \"침묵 방관 안 돼‥탄핵하면 행동 나서야\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NUXl1TjN5bS1iOFdGamRiaUxBVVE1Y2VRUkNrSE9sNi1kYjYzbmgtU2hnOG10a2xwRTNCSFlPeFpOQkU0Z1AtZm1kQWdJNlZTM0lFZGhqSERpb0dxUDhVWjM3QUlJZ0UzTUZNcGlmbldXanlaUVFyNNIBeEFVX3lxTFAxekRDcHpJUVd0UXhmbFcwMFpWVDJuN0swT05uZjQxczdWQlBYajFTYjVBeWxjdGxBMnFTZGFkaXVDRnhzaFBaOHRFeDdtM243Qkd3VjFtNmdLZ01FbEhwNVNiSHBsZFUyb0dKMEFtWDBIci1Bdmc0RA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-23T03:09:22.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t1",
+      "title": "민주유공자법, 국회 본회의 통과",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 10,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "「민주유공자법 제정안」 26년 만에 국회 본회의 통과 - 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jeV9QV2tDMGIwaHJpUjVGLURpbU5CaW5PN3pYdW15OWRnaFZNXzh2ajZWeXZlYlZwdUs5NUpNcDk1aEJ2QW9BVHUzcmtuOVhFd0NPN0t4ZC11SVRtaElZOTgwN0doekFpMy03T0RB?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-11-23T06:15:09.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주유공자법, 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XUHFGbDlvUzBESzMwZmQ5bDh2ZzRIUElWOEdKNEtMTHNXMlV3cjVGNTgzV3JIUzJjODIydUVSX0hEak40dWo1LS1ibkxwcUFVQ3U1eDZybkFJcmdUQm4yVlNOWlV4dw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-20T08:11:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주유공자법, 與 주도 국회 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBETy1ERWxrN0szMkhFaXdIT09KMmNwSlFhNzNzNk5lNnJiZkxreWprT19zMlZpN2E2SWtzRGpxdG9EQVNvdU9Ucl84Y19lUGo5cVdKRHprb2pYVkp0TnoxdmNUakltWFJkelluZHJB0gFyQVVfeXFMTlNEWDNQOE1GUnE4Xy1HYzJFR3pVcGJNZk1NODN0MmhuNC1Bd2EwRmJEaWNCNkMzNnoyenlwTFBLSHZ2dEd3Tk9ESV9sbGdYdlN2N21HRTNvbEwxVnRtdnNTSGIxbHFWcC04TGFvZVJycFBR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-11-20T07:58:12.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t2",
+      "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 7,
+      "sourceCount": 6,
+      "articles": [
+        {
+          "title": "대한변협 “대법원장 탄핵소추 추진 우려… 국회, 신중히 재고해야”",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ld1hZZGRkdXg3SWhwZS1veVNTaFFMcEx4cTl0b192Qi1lN0lNTXM4VVBiY0VrRzN4M2NRay0wX0lpdF9wUGlwemZpNHRReFk1blFmRUhVd3FFLXZYbXNYWWIwek1YUU9FazZYRVVn0gFyQVVfeXFMTXB1SHFmTkFVaEczNXlVRDBWSFJxR3FKNlc3MEVFMUpTYVhGUnQ1SHg0RWFVb05LRFExZkVvZVZlYUFUVGR1ZVFxUXNfS2FIeFkwTURZSEMyNUk3THlTNUZweUc5V2xhVUI2YUstNzVmWWRR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-11-24T03:33:10.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "변협 “민주당, 조희대 탄핵소추…신중히 재고해야”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzM3hXRk1qUl9zVkxJUi1ZZ2VlOEJlRDFyMWgzc0ZVTzVtUFRnak5RdUR5alFZdEhFNjJKXzRTV1ZhS3VZeVlVNDNpVFVJaHBKbVBMa0Vn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-24T02:56:12.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "조희대 대법원장 탄핵소추 추진에… 변협 “신중한 재고를”",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWdHhxcHRJUWkwa0lVcWtucUJPQk1KbkZUcy11WkVmSjl0dUtmVWY4TDdxeS1ENUFNdU12U0d4bFRBTExoWXZ3eGJtRV9IcnMyYThrS1dCNVFsQUpxeG9PaDVDNURJUTlESFo2YkM5WQ?oc=5",
+          "source": "법조신문",
+          "publishedAt": "2026-11-24T02:35:43.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t3",
+      "title": "외교·안보 라인 전면 교체‥동맹파에 힘 실었나?",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 6,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "외교·안보라인 전면 교체...동맹파에 힘 실리나? [시사정각]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdGwybFhoay1mZ0ZHWjh3bVZLblJDY3NwZUlDUjhvX0czV0tEMFFFbUhtYUQ5enBBYkhMdUJlZWpadVY0MDNhVEdvaXdJeXpSYWRQN0VpTi04SWdvZ0E?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-24T04:03:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "외교·안보 라인 전면 교체‥동맹파에 힘 실었나?",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HVjUtVnRaaXRVLXBZa0N5Vi1fYzdjNW96amdDUTN6VDdOV2R3MzBHZ2hhNWszQW9YSTlETThxNTk5MDBGWG1oenhfdl9DaTVlTno1ckduUVhtWjd4dnMwYTVxcFdzZFAwTnctdUVOQXVqdmdlVkV0cTJR0gF6QVVfeXFMTVp3Rll6X0FEaFBQdXQtTUtWSW1selV6QlNWdnRiNTZ4WFRfSVJIV2hySUhRX2c1UGFsek1fdzJSa2hRN29fd0ppMWUtc1BlN0JYNTJIT0ZoRHpEU1Npd0xjY0lhLW1RaG5WdFdJM3l4eFBYLTViaWM5WFE?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-23T21:29:31.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "외교안보라인 ‘자주파’ 전면 교체",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aVGloTUVsWWxjX3BBZ21fX0w0b01LaEVVOFRSNUZ2amNhLUxCNWg0N0JDWGxYeHp0Sk9HdlBtYXZPR3BvYXdrU0xRSmQ5N3ZDU0lfdjc0YVF3elNGYzc2S3dkSEN6eENhVnRwUnJPbzNFaHJxTmZF0gFmQVVfeXFMTk82VlpraHJ2b2hkZVlPUElObUE2UDJxcWExNVh4SXdvNVlRWjRJYUdRS2hnNlJTb0NBTnVxbEJpaWZQdXBmLXZGWUdvSzhUdXROMlZhYWRIQXdJTnhsWFBKM3NfZ2R3?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2026-11-23T19:30:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t4",
+      "title": "이 대통령, 외교·안보라인 전면 교체…국정원 강금실·외교 임웅순·통일 홍익표",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 5,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "李 대통령, 외교·안보라인 전면 교체…행안부 등 5개 부처 개각",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RZUR0UHlLSi1sTm1ldXpNMGFGcEg3aUFwREN6XzVvdTcwRG9GMTNtWWpOb1VGdFFZQV9wWlFySFNNSzFZNGpOMFlycHlkZ1BJWU5SclVmcGl1dw?oc=5",
+          "source": "농민신문",
+          "publishedAt": "2026-11-23T09:33:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이 대통령, 외교·안보라인 전면 교체…국정원 강금실·외교 임웅순·통일 홍익표",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44RjJXMDlrdGJ3NUI5SG51UHNwdE9RMHI5di1zZ3I2Z3N0M2VnMWFTQ0VQcmxVODY4MV8yOTVsRXFRMEpTUzVCSDdzQ0hxQ0wwRGhMWjNKNG85d9IBX0FVX3lxTE1iRDdEM0J6MTNnLThDc1E0aFU2Um1uMWVzMzdUSUF2cE5weWs2TnJEYlc0Y1B5WVF0YUxpVVB5RzRYSV96Ri1KR3d3QndFTGppYjdIR3JnZ0JRc2dXNzZJ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-23T08:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이 대통령, 대규모 개각... 국정원장에 강금실·외교 임웅순·통일 홍익표",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aV2tVV2ZwQUE3MC10eDhRc3VhaXJhRE51bmVlNl9GOEFnQWVVa1c5Sll0R3ZFREgtRHlyUTRrZ3NEODk4SjJhc1MtSURPZ3RXcHl6WHFrSmJ5Q0kwZWfSAWNBVV95cUxPY20tN2R0UTJyeUNIYUhHSzhXYkdiSHdnb1FSWWlJNnR0WUxRSjlQa2VYRXZneVhXUW5kRTRzOW1jMF84TWZVR05VOHFlYzFaOER6Z1RibzhiX192QVBqRGpMSVU?oc=5",
+          "source": "BBC",
+          "publishedAt": "2026-11-23T07:29:08.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t5",
+      "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "美, 韓 외교안보라인 교체에 \"동맹 내 긴밀한 협력 중요\"…인선엔 말 아껴",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVTFE1WWJsaWVuZE0wMFJvZm01aUdoOWNnWnVmdXhtTHl5d21NRDNla3pBZjRYNVdNcnFWUzVFZ1Vpc0JpVzh2RUlSc1NJcUhvZnVFUWZicGlZZG81UGRlaldER2RjQ2Z5YVFV?oc=5",
+          "source": "SPN 서울평양뉴스",
+          "publishedAt": "2026-11-24T23:08:06.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美, 韓 외교안보라인 교체에 \"한미동맹 긴밀 협력 중요\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2WVJRcXNTeXV4WjN5VktqNE5mYUJkVjBMNjhHaHV3bVgxZm9kRGpncExoS2F4LUhJYkFSZHZFYUNGUGdrSHI5VF9Wa1EwOTNXd25tSkthaGp2MERUWHhXUEdhdnB1X0U?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-24T20:47:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "미국, 한국 외교안보라인 교체에 “긴밀한 협력 중요성 높이 평가”",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82SFZ0TzNkNXZ6cl9OanlGNWhfUVB5dGJKczNWek1VemRhMFFhRFY5MmlPRTFhUEk1MW9YcUJVUi1QNUV4emRiemtZRUZ1UVpyZ1hQTWx1OWlqSFVjdjE2cEE3Z3FCZw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-24T17:36:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t6",
+      "title": "민주당, 조희대 탄핵 추진…“한덕수 판결은 역사적 반역”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "민주당 \"조희대 탄핵 연내 의결...한덕수 판결 내용은 제외\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45X2gyWmRDRnJVV2ViM2JfeHZRQldMeE04MHVCMDVLOHVpc05JVVBFb05lekFSbUlOczZaSkxxa0FpWVl0T2lqZ3l4TTJSRTlLZk84SWwtT1A5V1BzTE1HUTh6MzAxejdLOG5nMjdDbw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-22T04:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80eXpTSk1mR0hxTWZYMXBFODNMbHlfYlU3MlAtS21fRUhiYkM2MzRTOEg2RGhDeVVfcVRYUmZ0UzBxSXlVMF9SQXB2aXRaYmxqT3dMekx2UmJ4UGg2WnVVblgxUG1pQW8yMG5lM0w2WnFQdFJBblZydNIBeEFVX3lxTE01cVIyVTRVbXZoSDRfbE5MYV9oS1lzRWFwX3lFdzNrY3A2OWt2b2dTc3c4QXZod1l0cTFFVWNYbUEzY0FaanB1ZnZXeXFVVWM2VzJRUFNHMVdnWUZpaWgzbllWbnhMeklsdExhYW9vYXI3b1dBdC1jVA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-22T01:41:30.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주당, 조희대 탄핵 추진…“한덕수 판결은 역사적 반역”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41N09PQ280cVpQTWdwWnVmOTJVY2l4aFJtVXpzZlFQSjd6RXNEbDR5eWUxTUw3ZEtiTzRQalQ0UGV4RnFHR0tZTGJKNmVSUjc2MnpmWkt3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-19T10:51:43.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t7",
+      "title": "장동혁 “조희대 탄핵, 李 대통령 재판 재개 마중물 될 것”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "민주, 조희대 탄핵 여론전...국힘 \"재판재개 마중물\"",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeE56Y3dPSzFHcUVnTkVSZHFDclA1VXNDejVyRk5KY3NkdlNCekk4OHJpSExDelE0SnRxNXZfWlpNMG5QWXJJQ3BDSHVvaTFyVEhqbVVVMHZZU2xFQVdHRzdGXzB2dVZzOHhldTVMdy1LWnc3ZWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-23T15:27:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "장동혁 “조희대 탄핵, 李 대통령 재판 재개 마중물 될 것”",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VNmx3QkFzcU9rbFNrMXBzaXQya1l0cjE4SlM1TGdkbTYwY0MtejhfTnpPTlRIb01iZ0pVSXBqcmNEVW50M1BnM1RmaDFmQQ?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-23T01:38:01.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국민의힘 “조희대 탄핵, 대통령 재판 재개 막기 위한 ‘방탄 탄핵’”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jVS1xenJ2NGhlLTJpTkVqZmdCdHc2bTc5NXhtSy1TZnBLYjlaZkpQRTY5RTJ3M19na3FYdmFyc254SDRGOXRiS25sWFQ1X1BRR3VBOUprTWZDRWc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-23T00:29:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "조희대",
+      "count": 65
+    },
+    {
+      "word": "대통령",
+      "count": 27
+    },
+    {
+      "word": "민주당",
+      "count": 20
+    },
+    {
+      "word": "대법원장",
+      "count": 16
+    },
+    {
+      "word": "통일",
+      "count": 14
+    },
+    {
+      "word": "의장",
+      "count": 12
+    },
+    {
+      "word": "교체",
+      "count": 12
+    },
+    {
+      "word": "한덕수",
+      "count": 11
+    },
+    {
+      "word": "판결",
+      "count": 11
+    },
+    {
+      "word": "전면",
+      "count": 11
+    },
+    {
+      "word": "행동",
+      "count": 10
+    },
+    {
+      "word": "상세보기",
+      "count": 10
+    },
+    {
+      "word": "민주유공자법",
+      "count": 9
+    },
+    {
+      "word": "통과",
+      "count": 9
+    },
+    {
+      "word": "국힘",
+      "count": 9
+    },
+    {
+      "word": "나서야",
+      "count": 9
+    },
+    {
+      "word": "임웅순",
+      "count": 9
+    },
+    {
+      "word": "강금실",
+      "count": 9
+    },
+    {
+      "word": "정부",
+      "count": 8
+    },
+    {
+      "word": "정상",
+      "count": 8
+    },
+    {
+      "word": "국민의힘",
+      "count": 8
+    },
+    {
+      "word": "본회의",
+      "count": 8
+    },
+    {
+      "word": "탄핵소추",
+      "count": 8
+    },
+    {
+      "word": "트럼프",
+      "count": 8
+    },
+    {
+      "word": "개각",
+      "count": 8
+    },
+    {
+      "word": "한의사",
+      "count": 7
+    },
+    {
+      "word": "후보자",
+      "count": 7
+    },
+    {
+      "word": "사유",
+      "count": 7
+    },
+    {
+      "word": "법원",
+      "count": 7
+    },
+    {
+      "word": "라인",
+      "count": 7
+    },
+    {
+      "word": "외교활동",
+      "count": 7
+    },
+    {
+      "word": "국정원장",
+      "count": 7
+    },
+    {
+      "word": "안보라인",
+      "count": 7
+    },
+    {
+      "word": "외교안보라인",
+      "count": 7
+    },
+    {
+      "word": "반대",
+      "count": 6
+    },
+    {
+      "word": "절차",
+      "count": 6
+    },
+    {
+      "word": "국회서",
+      "count": 6
+    },
+    {
+      "word": "이재명",
+      "count": 6
+    },
+    {
+      "word": "민주",
+      "count": 6
+    },
+    {
+      "word": "제안",
+      "count": 6
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "11.19",
+      "event": "민주유공자법, 국회 본회의 통과"
+    },
+    {
+      "date": "11.22",
+      "event": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”"
+    },
+    {
+      "date": "11.23",
+      "event": "외교·안보 라인 전면 교체‥동맹파에 힘 실었나?"
+    },
+    {
+      "date": "11.25",
+      "event": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\""
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "month": "2024-10",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:11.651Z",
+  "articleCount": 124,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-10#t0",
+      "title": "20대 임금근로자 10명 중 4명은 '비정규직'...역대 최고",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "20대 비정규직 역대 최대… 청년 4명 중 1명은 '불안정 노동'",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY3AyWi1oOGRpaS1lXzctX21QMUJUM2dnNWJXb1NvME40UkNnVDBFMmU2RW45dkhqQ1BnX3dCeFpwQnRqZUdjUVI1WDNWcE1fRkxtUVVB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "20대 임금근로자 10명 중 4명은 '비정규직'...역대 최고",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhc0hRbGVxd0UzVlRsd3FfX19rclF2THdBZFZRZmhzQkh4QVJFT3FHMWh6UUJES0prNFRFNzlpSTB4Y3NaSTZZUHdZdHJVRDRENjNGd0UxUVdtSGRkdnc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "20대 10명 중 4명 비정규직 ‘역대 최고’…“고용 악화 선행 지표”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01UWw5WTVEaVNqb19hNUdhTVozMWFsVl9TVVZUdk50WEdqWkxCZ0ZrNDVobWhHNTliaG9qaVYwM0dIZHpKN0hOemRWR0d6YW5xOWxyZVN1YXFMbkxJdFpQWnhXX2NoXzNMRC01VmktR3V6QQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-10-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-10#t1",
+      "title": "비정규직 비중 38% ‘역대 2위’···정규직과 임금격차 175만원",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "비정규직 비중 38% ‘역대 2위’···정규직과 임금격차 175만원",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMnJtVEFqeU1IeWdKbnpwaGFzaXZaNWljUnUxc2hFYVZPY0w1RXZEWUZoY1ROa1RYWlkwalU0MlduWl9pNTJ1R2gzb09raFNTM19JdjdLaktDQdIBX0FVX3lxTE1YX3pYSUdveERVcXZwUGRyTG91RTlneS1zelF1b0pwdklSR3hjSzZmcmlFQXFhSWJrMGMyXzctMmlNSERuRkZVTVItajByVE5jT1dna3JjbWQxMjF5UDVr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-10-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정규직 3년만에 감소…임금근로자 비정규직 비중 38% '역대 2위'",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95Uzl4ZDZkNzk1NUZkZ2draUU2R29ZWHk0bXRCb2tnak8zR1k1d0loclFWLTl3S3VRc0o1b2pwM2FVWjhrbHZpbDBvS3FCZ2RSWGhFM0hFcVdKVFnSAWBBVV95cUxNUFd1SEN5ZVZCeVNLT3JsaGNRbkpKV2Q2R0ZUc0ZTUnozUnYyZU00NVd1NERjQ3gxek5hYlk1Z0J5UVAzeUx0QVNjank0QlY5SmhHYk9aZW9qcXF1dFR2SFc?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-10-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "비정규직 비율 38.2% ‘역대 2위’",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jalhJM2dKaUZhYXdIc1lKOWlCaVBDQkFWQ1NqUC1SMUtQYnhqTDJCbmRocG1uZ2tfcU5sS2NieS1UV2NrMGxNT2lreGhQQ1RWZzRvWXN1bnNKWDB0TDJuVmpTaDhCdDB3Ry1NXzEzdzA?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-10-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-10#t2",
+      "title": "청년 취업준비 현장 방문한 김문수 고용노동부 장관",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "청년 취업준비 현장 방문한 김문수 고용노동부 장관",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GazRqanNweTczWnFhSWVLak84dG9QUFM5UXRsQld6RHJzd3E3SUpJYjlJNlRtSWg4dDE3NXAzdXNyeW1HOVd6RmI5Y0VhVDVDY3R0WENfRXlLT1Q4Nk12U194UlNQZw?oc=5",
+          "source": "한국대학신문",
+          "publishedAt": "2024-10-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김문수 고용노동부 장관, 일하는 엄마,아빠 현장 간담회",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GeXUtaDMyNldsLUhKSFF5REtmRGF4NFBaQjJrZElMRVEtMkhJRGpTZnU3T3NfMldaZnhtQUlQbWdxZEtWZ0hkcUtWSWEycnFlSXQ5TmNVX3RYdlR2?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2024-10-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-10#t3",
+      "title": "대법 “택시기사 ‘만근일’ 초과 근로시간엔 최저임금 지급 안 해도 돼”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대법 “택시기사 ‘만근일’ 초과 근로시간엔 최저임금 지급 안 해도 돼”",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYmRHOTJqS2F4MVJ4M0Uwd3JqV1FmcThMb3hIZi1sMXlHd1pRVGtxNG4zZjJSTkhpOHIxUU5tUmc1UGRuaDhjMVBFN1FibWRBaHdBQ254d3pRVnZWVkdkUzJPU0ZsaFJkdmtKRXRfX2tKTy1LSXVCVW5qc3hFRmtBWlliQkZ4cmdDTUpYRkJScmZmbVR3dUxsMmNWaHI1SVpvQnY5dGgyeDloUHZQcEtaZzJqLXZVQkdWYjA3aFZYbjdWS0txaTVB?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-10-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대법원 “택시기사 ‘만근일’ 이상 근무시간분, 최저임금 안 줘도 돼”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LRnZicXNNOXhYdlFreGNHZFl1VXljemVhVk1PWE5HZVRoVFJ2OTFpa0pDdnBkYjhtR1RhM1lPdHhrY0c4Tk5ERlp1TGVtVXhmdFBuTHJSQUxjMENqWkJuTjZYenFQNUpIUlQ5T1lCUFg?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-10-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-10#t4",
+      "title": "대법원 “대리운전기사, 노동조합법상 근로자 맞다” 판결",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대법원 “대리운전기사, 노동조합법상 근로자 맞다” 판결",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Xdi03LVA3a0E5S3g3MzYyU05pZEItR2dxcTh6RHNnbS1VUk1HLUZXWEVxVURCQ3pzY1JaZ2RpOXR6VUlsY0dFNU5qMDJqUGtxUzdjSjhJWFBQRW55M1hER2luYjZ5M2VTUWZoTEh3SQ?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-10-08T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"대리운전 기사도 노동조합법상 노동자\"…첫 확정 판결",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d216ZEYyaWlqVVFkODRmUGJsY2pHWHh4Nml2c2JSU0toOUVBTW5NSnJVQXhnMW5vY2tDNmFBQzVRY3d1emhIOGlVTDV1UzRwc2I5MmpDV3F6aTNBcVBwdVRaQVNCME0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-10-02T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-10#t5",
+      "title": "고용허가 이주노동자인데, 새 직장 못 구해 ‘출국 조치’",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "고용허가 이주노동자인데, 새 직장 못 구해 ‘출국 조치’",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pdTd0VWdwYll4aXpWVW85Vl9JUlFJanFYUVNXc1lsUEg5cUIxNGpMQmtzOThpZFYtZ0N5VTU5U0w4dkJQY0Y0NV9jLVNKbC1IdXd0ZG56WERnVUFocFpSRXpYS2UwT3l2QUZLaFRrdHE?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-10-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-10#t6",
+      "title": "서울고용청, 16년간 해외 도피한 상습체불 사업주 구속영장 청구",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "서울고용청, 16년간 해외 도피한 상습체불 사업주 구속영장 청구",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUZIRnkxNHZFOXRxajNrQ1dVaHVuN1ZjUy1LV1ZFdTZibFdvM29RZVY0bVhobnV5TkZfOG45SUc4NER0b2g2NVFsR3A3ZmFybjBDc05TOHhPNlBOaXhCVEZEZHUwWWFFNXI4M1VhUUZJS3EzajZZWDBsclJ1TVA2dUxyeXpDTUt3eWlyWll3?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-10-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-10#t7",
+      "title": "“AI, 일자리 대체효과 제한적 … 법·제도 공백엔 대응해야”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“AI, 일자리 대체효과 제한적 … 법·제도 공백엔 대응해야”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuNGhRMkIwUHUzTTlPQU5SYzU0Nl9aQlM0cnRoaW91LTdpck5ESHpFdkFBYy1RbzVZaDdvX3hSVnBPd09YZUtaYmNZV055bHBoM2pzaWRURUNLNHhiRFY0bWgzTmRvZVBvNTdvdVlzRkU?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-10-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "노동자",
+      "count": 10
+    },
+    {
+      "word": "법원",
+      "count": 7
+    },
+    {
+      "word": "역대",
+      "count": 7
+    },
+    {
+      "word": "기업",
+      "count": 6
+    },
+    {
+      "word": "판결",
+      "count": 5
+    },
+    {
+      "word": "임금근로자",
+      "count": 5
+    },
+    {
+      "word": "한화오션",
+      "count": 4
+    },
+    {
+      "word": "대법원",
+      "count": 4
+    },
+    {
+      "word": "임금체불",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "시니어",
+      "count": 4
+    },
+    {
+      "word": "비중",
+      "count": 4
+    },
+    {
+      "word": "금속노조",
+      "count": 3
+    },
+    {
+      "word": "운영",
+      "count": 3
+    },
+    {
+      "word": "노인일자리",
+      "count": 3
+    },
+    {
+      "word": "플랫폼",
+      "count": 3
+    },
+    {
+      "word": "소송",
+      "count": 3
+    },
+    {
+      "word": "창출",
+      "count": 3
+    },
+    {
+      "word": "정규직",
+      "count": 3
+    },
+    {
+      "word": "AI",
+      "count": 3
+    },
+    {
+      "word": "청년",
+      "count": 3
+    },
+    {
+      "word": "장애인",
+      "count": 3
+    },
+    {
+      "word": "선정",
+      "count": 3
+    },
+    {
+      "word": "여성",
+      "count": 3
+    },
+    {
+      "word": "실형",
+      "count": 3
+    },
+    {
+      "word": "대표",
+      "count": 3
+    },
+    {
+      "word": "중대재해처벌법",
+      "count": 3
+    },
+    {
+      "word": "부당노동행위",
+      "count": 2
+    },
+    {
+      "word": "합의",
+      "count": 2
+    },
+    {
+      "word": "대응",
+      "count": 2
+    },
+    {
+      "word": "일본",
+      "count": 2
+    },
+    {
+      "word": "어쩌나",
+      "count": 2
+    },
+    {
+      "word": "노동조합법상",
+      "count": 2
+    },
+    {
+      "word": "근로자",
+      "count": 2
+    },
+    {
+      "word": "절차",
+      "count": 2
+    },
+    {
+      "word": "선고",
+      "count": 2
+    },
+    {
+      "word": "공무원",
+      "count": 2
+    },
+    {
+      "word": "타임오프",
+      "count": 2
+    },
+    {
+      "word": "한도",
+      "count": 2
+    },
+    {
+      "word": "의결",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "10.15",
+      "event": "대법 “택시기사 ‘만근일’ 초과 근로시간엔 최저임금 지급 안 해도 돼”"
+    },
+    {
+      "date": "10.16",
+      "event": "청년 취업준비 현장 방문한 김문수 고용노동부 장관"
+    },
+    {
+      "date": "10.22",
+      "event": "비정규직 비중 38% ‘역대 2위’···정규직과 임금격차 175만원"
+    },
+    {
+      "date": "10.27",
+      "event": "20대 임금근로자 10명 중 4명은 '비정규직'...역대 최고"
+    },
+    {
+      "date": "10.31",
+      "event": "고용허가 이주노동자인데, 새 직장 못 구해 ‘출국 조치’"
+    }
+  ]
+}

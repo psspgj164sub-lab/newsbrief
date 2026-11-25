@@ -1,0 +1,386 @@
+{
+  "month": "2026-07",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:26.794Z",
+  "articleCount": 182,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-07#t0",
+      "title": "법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 9,
+      "sourceCount": 9,
+      "articles": [
+        {
+          "title": "법원 \"최태원, 노소영에 9440억원 재산 분할\"...이자만 하루 1.3억원",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDZIUjVLNUs0TldKa3NlV0VpWVU1RE1nMG5XNGxlaDFWTHZ0b2dxSzFZcndfNnRUMEVINExBdFUzSmZzN0Rmd1hoTGhvMTVHZ2ppLXhLb1NMcFdncms2TVNuVXlRUklFWVUtQXVYQmZKNzVSc29uVXVQSndqNnVqaUI4WWRhcm8?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-07-25T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 \"최태원, 노소영에 재산분할금 9천440억원 지급\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vRGZONjRuUngtc0Q1NkJVamd1QTFIM3ViUXRhb2VfVGxzc1ZvMGNQSjRaVmswRHhtOHkzZE83YUpXb0ZNck5fMU5Pb3dqU0dHbk11UlgwckR2RVU?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-07-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 “최태원, 노소영에 재산분할금 9440억 원 현금 지급해야”",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91QXhQNkU0ZS1qS1lrZUFqZjFXS2VibDdzSWVjQTMyM0V0LWpVdkVudmNQZDNobkU5Y0dsS2JCbFNTaGVlWDFMVlE0aTFINWZOR3BBSk5zNkgxTUZVcWpwYU5qZ2FNU1pCdTN0Yl9UQQ?oc=5",
+          "source": "법조신문",
+          "publishedAt": "2026-07-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t1",
+      "title": "식약처, 조인트스템 허가 반려 취소 판결 불복 ‘항소’",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "식약처, 조인트스템 허가 반려 취소 판결 불복 ‘항소’",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNi1KSm1ESGtkdWdEc3lxa29GbHZmR05tYkdHY3BPTXFGdUdQdTFET1JyRmJWUDgwVWtYUVg3UERobjJfY2t2am80c0NpNE5OVnVOZDR6MXoyZTBOUF9ZRDFFUHIxaHcweFhEeA?oc=5",
+          "source": "데일리메디",
+          "publishedAt": "2026-07-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "식약처, 조인트스템 허가취소 1심 판결 항소",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LOERCZnJ5TWpYeGFvZzNpNVE3V2h1U21DZzJQbFFXb3c1NHBKWDFzTEtiWDYzSEo3R3dfSXlaNDBQYWE3TXd6aENad1V2YVlOM1RfOWg5cmtHN2UwSmNVc2I3M216bXdaR0JJ?oc=5",
+          "source": "히트뉴스",
+          "publishedAt": "2026-07-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t2",
+      "title": "최태원·노소영 ’세기의 재산분할’ 선고…이시각 법원",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "최태원·노소영 ’세기의 재산분할’ 선고…이시각 법원",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82dWV5S1Z6OHNjYmRtUzVpaWJXWDNnT2dsNzJldWVHc2xodWZiVzV1QWV5bkV0MW9PcXoxOFlTMTNKRm5SRzRJNmFsQU04eGVlME9GUXhtLXM2amU0Ni1xQkkxcDFIRVk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-07-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "오늘 최태원-노소영 '세기의 재산분할' 파기환송심 선고",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3ZUlFYWhudDZ6M3ExMFE0SmFQN0piTFJCVXliZDNQWXhwVGxLVzdCWml2Q0VTeDBKXy1oRTZQTEl6ZEFqQ0t3NEc0YmpLUnN5VVJXb0dYRFhIYzVzREE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-07-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t3",
+      "title": "경북 경산 아파트 관리실 방화 추정 화재로 8명 부상‥\"평소 일부 입주민-관리실 갈등\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "경북 경산 아파트 관리실 방화 추정 화재로 8명 부상‥\"평소 일부 입주민-관리실 갈등\"",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9odFNkZ0lrWTFQdzFocGI2ZUw0emlVOURYNlJGMVBEazBLSnpaMkZWUmFFX29IR09zYjBQaDFla0c4TURDcFlqQlhmSTdsM3pGMDJaYzhhdU5TUU5SR3V2eTB1cTRpSFdCczduREozRWpXOFVhQ1pF0gF3QVVfeXFMTUNOTV80VFFsaExHWUxSWUxlbldoa3UxZkNtcWRkVWUzOC0tQnQ1YzI5MWFTTFRxbnhJUXg5UGU5NGdIU25wanhxaXhlenZhNmVZV0VWYk13WUNlZUg0dTdsUDVpZEt4c256eENNZ2w1RkRKeDh0Um8?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-07-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경북 경산 아파트 관리실서 폭발·화재로 8명 부상",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtNkp4c1lqS2VOcHFOUDBZSmhKWmpFYVI4MUtQYXhYZTUtUThNd2I0V0N4Vk5mX3FkV0lkbHR0X3BIWUNuM1pmczREbE5tZEtqcGJIWXNyQ2dQUEt6anpncEFwSnBBMjk5bVMxRVJFVHM3RXZTakE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-07-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t4",
+      "title": "‘여론조사비 대납’ 오세훈 1심 벌금 1천만원…확정시 시장직 상실",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘여론조사비 대납’ 오세훈 1심 벌금 1천만원…확정시 시장직 상실",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91M24xa3dKNVB6bFBiZHNxZEVITDN5V2NaRkJuRTFTS0RCN3JkM216OC1lVWdldDJOcnBBSWI3MWstRlVLbXdCcC1UaEZRakJ1UUFLZnB2N1JDUVU?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-07-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 “오세훈, 벌금 1000만원” 선고…대법 확정시 시장직 상실",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pYjdJLTV5R2NVOEpFZHNvV19lS0EwM0h1SjU4S3hrZ1lPTHRJeFdmY0FXalMwZ3gwUURsOWg0bkg4b1FaUUJXTk5fV1JGR1lsR0FtRnVybVd2d9IBX0FVX3lxTE5JSHZVUWJCSEl5YlpkXzNvMlRkTXQyNjhYT0xSNWw2MGtuNmJ2MDV1dnM4bU1aVlFjRTcxTERkbldPQktiMDMwQmJFRkxNelJBaEJSRDRuR1hiN3MzUVQ0?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-07-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t5",
+      "title": "쿠팡 화재에 국토부, 물류시설 화재안전 제도개선TF 출범",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "쿠팡 화재에 국토부, 물류시설 화재안전 제도개선TF 출범",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9heDdqck5aZkZBQTl1c0ptYXBsa2puS1NTVS1EQmw3TmdZcUswN2lERWhaRUc4Qk5ZcXFRbDk5dm52OGk5bFhfeDRGRW80VlZSTFNaSWpzTFBUYkpnQVJSMmt1eFcxVVZkY1V3dVo4cjdLMW9R0gF0QVVfeXFMTm1RZGFBYTlHYjdhYlFPZFJ4bGJDY2RTOFNEejlPYloyMWgwcmdndmllY3p3RE9qOEVNa01IN21uZzlFWGlLVHAzVzNHQ2pnd3BQbVJzUmdmbzVzM1h1dmtFRVJEN0VhMVloWUg3MFBzYm9lbEY?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-07-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국토부, 물류시설 화재안전관리체계 전면 개선 착수",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yblhfMGlsc0VWOEVlemtTS0NOZW93Yi14b2oxWTNvbGRPeW5wbFhNUmxISFFtMHR1SGNlc0hGVXJvMGJWUGdPWm80V3U1NHFhTkdtcjBDY3YzR0xDMkh1bXNSa3prMVRrdS1nLQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-07-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t6",
+      "title": "‘인천 흉기난동’ 부실대응 경찰관들, 법원 손해배상 판결에 항소장 제출",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘인천 흉기난동’ 부실대응 경찰관들, 법원 손해배상 판결에 항소장 제출",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JNXRFZi00LVFXd2lPZUxZcW0tN1RUNDc1bEtZZE1LOHk0Z0VaNElHZVNlaVdaamJEZkNuVG4xYW1fWnZzX2o1UnRsM3lsbXRVUmFPT2R4cFhPd9IBX0FVX3lxTE4xNVpqWHFlei1OczcwUlpGZlBIMi1UaHBSdU1WOGFyZXNVcTZfS3dtRFo1R1ZrSGhFSXQxZndJX1pEX0liM1Z5ZzRualQ5NnF3UHhqWXBRVGRNVUc5OEMw?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-07-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'인천 흉기난동' 부실대응 경찰관들, 손해배상 판결에 불복(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOSVNwb0FBYVB0RzdjalYwYXo1Mkx4VmFJYmRCNVVsc1lxUWV4eXdXVWl2QlpDQndtR0dWRlJyMklLcDA5RkJIN1ZRT3Z6dmgteUZLYjZqSlg1d0XSAWBBVV95cUxNRUVGUUg1MFlweG5QMzZBY1RKWi1LZnpaM3VNQkdvdDNFS2tDM0tyaVFKSlNHcVRqVjc0VUVOeE5RU3AzNWNrdjlOZExVaEF3Q01PLThxeVB3a3k4UUlsVnc?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-07-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-07#t7",
+      "title": "인도 Z세대 시위 촉발한 의대 입시문제 유출사건 13명 구속기소",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "인도 Z세대 시위 촉발한 의대 입시문제 유출사건 13명 구속기소",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RTVRDZEkxekYzNU1vYmllc0NsMzIxVWN3MXZubUVwa09ud1RTdmNlejFBREV3RGNiNnhxanVVUWJrRGZRZnJndndrc2laRmVYeGhna2hoRFZOMFlFNUVOMWI2MkExVURYUzE5WlJPTzJmTzZz0gF0QVVfeXFMUEQ1ZTIwbTNVWkN6bDVmOU1LeFZZLTluLWFyX2VMMmg0bUZ0ckhQbnJfVVZybFZlUV9JbjRPZnFwZUF6TWk0alhjcVNPS180MUtMRlFCcFlGc1kxY0JqM19XbW40cTg4WW5YWW1LamZGNm54Ry0?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "최태원",
+      "count": 15
+    },
+    {
+      "word": "노소영",
+      "count": 14
+    },
+    {
+      "word": "지급",
+      "count": 9
+    },
+    {
+      "word": "인천",
+      "count": 7
+    },
+    {
+      "word": "수사",
+      "count": 6
+    },
+    {
+      "word": "장윤기",
+      "count": 6
+    },
+    {
+      "word": "대법",
+      "count": 6
+    },
+    {
+      "word": "경북",
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 5
+    },
+    {
+      "word": "부상",
+      "count": 5
+    },
+    {
+      "word": "피해자",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "인정",
+      "count": 5
+    },
+    {
+      "word": "항소",
+      "count": 5
+    },
+    {
+      "word": "배상",
+      "count": 5
+    },
+    {
+      "word": "오세훈",
+      "count": 5
+    },
+    {
+      "word": "경산",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "아파트",
+      "count": 4
+    },
+    {
+      "word": "쿠팡",
+      "count": 4
+    },
+    {
+      "word": "재산분할금",
+      "count": 4
+    },
+    {
+      "word": "취소",
+      "count": 4
+    },
+    {
+      "word": "위자료",
+      "count": 4
+    },
+    {
+      "word": "재산분할",
+      "count": 4
+    },
+    {
+      "word": "선고",
+      "count": 4
+    },
+    {
+      "word": "공장",
+      "count": 3
+    },
+    {
+      "word": "인명피해",
+      "count": 3
+    },
+    {
+      "word": "없어",
+      "count": 3
+    },
+    {
+      "word": "경찰관",
+      "count": 3
+    },
+    {
+      "word": "신청",
+      "count": 3
+    },
+    {
+      "word": "피해",
+      "count": 3
+    },
+    {
+      "word": "숨진",
+      "count": 3
+    },
+    {
+      "word": "지시",
+      "count": 3
+    },
+    {
+      "word": "여성",
+      "count": 3
+    },
+    {
+      "word": "에서",
+      "count": 3
+    },
+    {
+      "word": "AI",
+      "count": 3
+    },
+    {
+      "word": "의료기기",
+      "count": 3
+    },
+    {
+      "word": "식약처",
+      "count": 3
+    },
+    {
+      "word": "포함",
+      "count": 3
+    },
+    {
+      "word": "불법파견",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "07.20",
+      "event": "쿠팡 화재에 국토부, 물류시설 화재안전 제도개선TF 출범"
+    },
+    {
+      "date": "07.22",
+      "event": "‘여론조사비 대납’ 오세훈 1심 벌금 1천만원…확정시 시장직 상실"
+    },
+    {
+      "date": "07.23",
+      "event": "법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\""
+    },
+    {
+      "date": "07.24",
+      "event": "최태원·노소영 ’세기의 재산분할’ 선고…이시각 법원"
+    },
+    {
+      "date": "07.30",
+      "event": "식약처, 조인트스템 허가 반려 취소 판결 불복 ‘항소’"
+    }
+  ]
+}

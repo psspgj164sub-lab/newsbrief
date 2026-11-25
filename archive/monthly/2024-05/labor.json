@@ -1,0 +1,354 @@
+{
+  "month": "2024-05",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:10.688Z",
+  "articleCount": 200,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-05#t0",
+      "title": "삼성전자 노조, 첫 파업 선언…\"노동자 무시해\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 8,
+      "sourceCount": 7,
+      "articles": [
+        {
+          "title": "삼성전자 노조, 회사 창립 55년 만에 첫 파업 선언",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VWWdBazIyWnkzc0oyY2VHVVFPa0xORVhyTUVZX1hlVTdpN1ZDRlVjTVhKb1JxM09jMzAxb3BaVWk5Z1RTcHd6cFdoZFpBX3BPM1ZQMTVwU1l0SjZCRGpWOVFXLU9Ta09kbTEyY2tEMA?oc=5",
+          "source": "한겨레21",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 노조, 첫 파업 선언...\"6월 7일 단체 연차\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xRmxQUXlQSjFPcmRQR1FhbVlNYjB6WFdudTd5WVNxcFAzcnNhZWh0LUxOVUV3Q2JCTjdUeHNzTHN3Q3BHaVZaNDZZYjJmY0lwdFB6MzM4dm45WUlqN3c?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-05-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "위기극복 나선 삼성전자, 노조 첫 파업 선언에 '비상'",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yRDBzSC0tc19QLTVKckpPNEl3MEtGeDhPSmEwd2FsQ0s5d25wV3FqWkhSR2tMYVJKTlc3c2dLbjYtX3Y2SG9vaWplUnQ0MnZBUHBuSEE1cGJPS3PSAWBBVV95cUxOdWhYbmdSU3lGNnF5N3hlZGZkb05hV1o2Qk85Z1dTYkZ3WFBRY2Zkd25tYzl5VDBhTzFPa1JVUGhpM1NITjhRajBwT2hYSVlScExtYUdlLXBVNTJZZG1ZM2w?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-05-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t1",
+      "title": "발전 비정규직 부산서 첫 `정의로운 전환` 파업",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "발전 비정규직 부산서 첫 `정의로운 전환` 파업",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhVkQtNEZDNWhyZXRzLVp2M1VSSXVVRXFKdUd3VEFIWXhmODRmXzZpUU5CUFdQRUg5MnJsM0lGdVhmNWFyMkE4aWFFNTYzeS1JQndEQjJlOFN5SjFYMFNxR19SS3lac2hOZGp3TlF5QVdoSmVn?oc=5",
+          "source": "부산일보",
+          "publishedAt": "2024-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "사상 첫 ‘정의로운 전환’ 파업 벌이는 발전 비정규직…“물러설 곳 없어”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPczdMUEgtY094aXcxU2N2V29BYWR2SWJZczF2RjlUOXU3VG43WmVmOGpGcGNlUlZYU2lZNnh5clpZd2k4ZjBlcXk4VzQtbnU3QVNHU1ZycVpLQdIBX0FVX3lxTE5GcnU5UDhEckZocUM2cEh0bEh0ZTU1MVUxeVhFZ1BzWjh3ejdYR1NoT1FEYi11YlpSWjZyWTMtaENCZlFOWG53TTFwd09EVy1xalJlSE5HcENJcVF1MUJR?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-05-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t2",
+      "title": "'작년 산재 사망사고 가장 잦았던 달은 5월'…건설현장 집중점검",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'작년 산재 사망사고 가장 잦았던 달은 5월'…건설현장 집중점검",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ObWt6Z0hGQ1RzNW5RWXNjUjFMM3VnUzVVS2NWNTh6NzFacFJ5RG1mSUE0Q0FGMUFYZlREZ0w3bDk1aVRBalpmaFJmMzIwd0lrejZxVGJJMDdrX2PSAWBBVV95cUxPX05Ld1NfNXU3WHNRRW5nOUQ2REpfX2wxWEw5aEhhWXlFc0hzalI2aEpfTVN0UUtBSy1PU0daclBLTk11Q0JJQW5rSmZxeDdBb01rRTNwNFpHZm9LOGpfbjE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-05-08T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "지난해 산재 사망사고 가장 많았던 달은 5월",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZi10VTA2NnJTaU1GZ2ZaSktHLTRnR2tEOG9TYnZqMkRwb2x2bm9wNk9oajZWdVhwTUMzc0ZHZGQycFhFaE8zR1A3MG1mMnRqTVIwYUc4QlhoQVlNelIzMFk0aV9DMkdxUlc4QmtSNnFDb0Q3MDJ5OGlnbTBGYUE?oc=5",
+          "source": "YTN 사이언스",
+          "publishedAt": "2024-05-08T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t3",
+      "title": "미국 노동계 부흥기 맞이하나…‘조합원 수ㆍ임금상승률’ 모두 증가",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "미국 노동계 부흥기 맞이하나…‘조합원 수ㆍ임금상승률’ 모두 증가",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTRjNHFfbEE4dTAxcUNNRHVNdk5PdkNnUEtldzlaVzFwQ2ZkZmMwTHVjOEJiUldEZHNwZkYzTHh6SzlteDJxVFJ4emtDR3JQTVA5WklZSjFCUVR1enNqTURUVmNvMFN2T1UyWFlpeEdsb1dmX0tVOWtfdHZ4cVR3TnVKdkljak5WeGxSa2p3?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t4",
+      "title": "대법 “사용자, 소극적 공정대표의무만 부담”...새 법리에 손배 피한 포스코",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "대법 “사용자, 소극적 공정대표의무만 부담”...새 법리에 손배 피한 포스코",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmoweHBrYUl5S3NNdmNnRTlkSW41ZXUtOTZBY3dSSW5US0JDank3b1NoY29NVFZNSEcxbFoyU3FPVkV1SEpweF9CWFpteUZDM0huVURvbTE4N0c5REhVWWtDaUp2NFB6c0tmSmdsSThjSVNvSVpwOEUtWnc3SHVhSXdlaTNxVW1udEZBVWpn?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t5",
+      "title": "매년 똑같은 ‘공식’으로 최저임금을 정하는 나라가 있다?",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "매년 똑같은 ‘공식’으로 최저임금을 정하는 나라가 있다?",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVViYUhhbVczR0FBcE9ZX2lBOEh5SjhxejNHZi03b0QxLUpoRXRCeDNkNTNxakZhTGp5NnY5czRJMHpvMlo1blJoQ21WZWdYWFRUNXNJZXFOMzg3RWdPSjFLTkczOXd0WlBvMGZiV3pGQ2NoamlLU1JpWFY0TTFHVVJGOFFsSEh5MFFvUjNwWDY2NElQdEY2b3N4U0RQTjNmeVN6VGRkVGJ0ODh3bmJOX2wySXJtaXJ1OTJ1NURUbVVVeHJkdkJCamlsdVhydnJfNWg4QUtRbEN1MkJZc3QzZg?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t6",
+      "title": "[한용현의 노동법 새겨보기] (34) 다정한 노조가 살아남는다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "[한용현의 노동법 새겨보기] (34) 다정한 노조가 살아남는다",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hNXU4OEVlWGtoTDBaaDdFR2Y4VHo5Wk5UeDlBcEZqRjRLMlJiUWZnYnIwblN0NElsUk0ybGdYQVJ2blJfQVBEZWlMZDVTSlRjaVVZVE9qZGxjVEV5a2c?oc=5",
+          "source": "주간경향",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t7",
+      "title": "SK렌터카노조 “매각협상에 노조 참여 보장해야”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "SK렌터카노조 “매각협상에 노조 참여 보장해야”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcUJvTW9YYjdmVWR5SFBkUXRkYmRaRGJ4M2g1c0x1U3d4VWNnZHZGOWlsSkt6ZFJzZ1YyNlZjYXhWV1ZVMTJqdmRmZXhHSDFENTRZa20yUkp2VUNRTGVoRWs0ekx5NllTOUJrUXZ4dzY?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "삼성전자",
+      "count": 13
+    },
+    {
+      "word": "노동자",
+      "count": 12
+    },
+    {
+      "word": "선언",
+      "count": 11
+    },
+    {
+      "word": "사망",
+      "count": 10
+    },
+    {
+      "word": "중대재해처벌법",
+      "count": 9
+    },
+    {
+      "word": "노사협의회",
+      "count": 5
+    },
+    {
+      "word": "삼성",
+      "count": 5
+    },
+    {
+      "word": "있다",
+      "count": 5
+    },
+    {
+      "word": "금속노조",
+      "count": 5
+    },
+    {
+      "word": "적용",
+      "count": 5
+    },
+    {
+      "word": "사망자",
+      "count": 5
+    },
+    {
+      "word": "사망사고",
+      "count": 5
+    },
+    {
+      "word": "미국",
+      "count": 4
+    },
+    {
+      "word": "고용부",
+      "count": 4
+    },
+    {
+      "word": "사상",
+      "count": 4
+    },
+    {
+      "word": "노동자들",
+      "count": 4
+    },
+    {
+      "word": "괴롭힘",
+      "count": 4
+    },
+    {
+      "word": "법원",
+      "count": 4
+    },
+    {
+      "word": "사업장",
+      "count": 4
+    },
+    {
+      "word": "조선소",
+      "count": 4
+    },
+    {
+      "word": "잠수사",
+      "count": 4
+    },
+    {
+      "word": "인정",
+      "count": 4
+    },
+    {
+      "word": "조선업",
+      "count": 4
+    },
+    {
+      "word": "하청노동자",
+      "count": 4
+    },
+    {
+      "word": "사고",
+      "count": 4
+    },
+    {
+      "word": "예방",
+      "count": 4
+    },
+    {
+      "word": "조사",
+      "count": 4
+    },
+    {
+      "word": "노동시장",
+      "count": 3
+    },
+    {
+      "word": "설립",
+      "count": 3
+    },
+    {
+      "word": "가입",
+      "count": 3
+    },
+    {
+      "word": "근로자",
+      "count": 3
+    },
+    {
+      "word": "조합원",
+      "count": 3
+    },
+    {
+      "word": "증가",
+      "count": 3
+    },
+    {
+      "word": "간부",
+      "count": 3
+    },
+    {
+      "word": "포스코",
+      "count": 3
+    },
+    {
+      "word": "회사",
+      "count": 3
+    },
+    {
+      "word": "차별",
+      "count": 3
+    },
+    {
+      "word": "한국노총",
+      "count": 3
+    },
+    {
+      "word": "교섭",
+      "count": 3
+    },
+    {
+      "word": "시작",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.08",
+      "event": "'작년 산재 사망사고 가장 잦았던 달은 5월'…건설현장 집중점검"
+    },
+    {
+      "date": "05.27",
+      "event": "발전 비정규직 부산서 첫 `정의로운 전환` 파업"
+    },
+    {
+      "date": "05.28",
+      "event": "삼성전자 노조, 첫 파업 선언…\"노동자 무시해\""
+    },
+    {
+      "date": "05.31",
+      "event": "미국 노동계 부흥기 맞이하나…‘조합원 수ㆍ임금상승률’ 모두 증가"
+    }
+  ]
+}

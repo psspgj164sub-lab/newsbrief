@@ -1,0 +1,379 @@
+{
+  "period": "mid",
+  "periodLabel": "중기 · 최근 6개월",
+  "category": "politics",
+  "categoryLabel": "정치",
+  "range": {
+    "from": "2026-06",
+    "to": "2026-11"
+  },
+  "coverage": {
+    "monthsAvailable": 6,
+    "monthsTotal": 6
+  },
+  "updatedAt": "2026-11-25T05:39:40.201Z",
+  "trends": {
+    "months": [
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ],
+    "unit": "기사 100건당 언급",
+    "series": [
+      {
+        "word": "대통령",
+        "values": [
+          10.7,
+          14.4,
+          9.6,
+          5.9,
+          7,
+          9.2
+        ]
+      },
+      {
+        "word": "조희대",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          8.1,
+          22.2
+        ]
+      },
+      {
+        "word": "민주당",
+        "values": [
+          4,
+          2.3,
+          3.5,
+          0,
+          5.2,
+          6.8
+        ]
+      },
+      {
+        "word": "종합특검",
+        "values": [
+          3.1,
+          12.9,
+          5.7,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "word": "국힘",
+        "values": [
+          3.1,
+          6.1,
+          3.5,
+          3,
+          2.2,
+          3.1
+        ]
+      },
+      {
+        "word": "선관위",
+        "values": [
+          7.6,
+          5.3,
+          0,
+          3,
+          3.7,
+          0
+        ]
+      },
+      {
+        "word": "정부",
+        "values": [
+          2.7,
+          0,
+          1.7,
+          6.7,
+          2.6,
+          2.7
+        ]
+      },
+      {
+        "word": "국민",
+        "values": [
+          4,
+          4.5,
+          3.5,
+          3,
+          0,
+          0
+        ]
+      }
+    ],
+    "rising": [
+      {
+        "word": "조희대",
+        "change": null
+      },
+      {
+        "word": "대법원장",
+        "change": null
+      },
+      {
+        "word": "트럼프",
+        "change": null
+      },
+      {
+        "word": "민주당",
+        "change": 91
+      },
+      {
+        "word": "통일",
+        "change": null
+      },
+      {
+        "word": "중간선거",
+        "change": null
+      }
+    ],
+    "falling": [
+      {
+        "word": "종합특검",
+        "change": -100
+      },
+      {
+        "word": "지방선거",
+        "change": -100
+      },
+      {
+        "word": "선관위",
+        "change": -71
+      },
+      {
+        "word": "대통령",
+        "change": -35
+      }
+    ]
+  },
+  "stats": {
+    "articles": 1286
+  },
+  "ai": false,
+  "headline": "최근 6개월 정치: 「민주유공자법, 국회 본회의 통과」",
+  "overview": "2026.06부터 2026.11까지 6개월치 정치 기사 1,286건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「민주유공자법, 국회 본회의 통과」(2개월)입니다. 기간 후반으로 갈수록 조희대, 대법원장, 트럼프, 민주당 언급은 늘고, 종합특검, 지방선거, 선관위 언급은 줄었습니다.",
+  "keyPoints": [],
+  "issues": [
+    {
+      "title": "민주유공자법, 국회 본회의 통과",
+      "span": "2026.08~2026.11",
+      "monthCount": 2,
+      "articleCount": 14,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "민주유공자법, 국회 본회의 통과",
+          "source": "2026.11"
+        },
+        {
+          "title": "'이진숙 제명 촉구안' 민주 주도 국회 본회의 통과",
+          "source": "2026.08"
+        }
+      ],
+      "articles": [
+        {
+          "title": "「민주유공자법 제정안」 26년 만에 국회 본회의 통과 - 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jeV9QV2tDMGIwaHJpUjVGLURpbU5CaW5PN3pYdW15OWRnaFZNXzh2ajZWeXZlYlZwdUs5NUpNcDk1aEJ2QW9BVHUzcmtuOVhFd0NPN0t4ZC11SVRtaElZOTgwN0doekFpMy03T0RB?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-11-23T06:15:09.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'이진숙 제명 촉구안' 민주 주도 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RRC1uaWxNTEhxVUlHbWZweUF1elJwOUZlclIzc19kb3VsOWlwMGNBTElwS0dENnpxQ0NYQW41bjBQNmxJamtVb0ZPMEMxVTFiN0JjRzRMb3JucHR3VVE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-08-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "외교·안보 라인 전면 교체‥동맹파에 힘 실었나?",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 11,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "외교·안보 라인 전면 교체‥동맹파에 힘 실었나?",
+          "source": "2026.11"
+        },
+        {
+          "title": "이 대통령, 외교·안보라인 전면 교체…국정원 강금실·외교 임웅순·통일 홍익표",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "외교·안보라인 전면 교체...동맹파에 힘 실리나? [시사정각]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdGwybFhoay1mZ0ZHWjh3bVZLblJDY3NwZUlDUjhvX0czV0tEMFFFbUhtYUQ5enBBYkhMdUJlZWpadVY0MDNhVEdvaXdJeXpSYWRQN0VpTi04SWdvZ0E?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-24T04:03:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "李 대통령, 외교·안보라인 전면 교체…행안부 등 5개 부처 개각",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RZUR0UHlLSi1sTm1ldXpNMGFGcEg3aUFwREN6XzVvdTcwRG9GMTNtWWpOb1VGdFFZQV9wWlFySFNNSzFZNGpOMFlycHlkZ1BJWU5SclVmcGl1dw?oc=5",
+          "source": "농민신문",
+          "publishedAt": "2026-11-23T09:33:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 11,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "'조희대 탄핵'에 법관회의 의장 \"행동 나서야\"...\"수령 모시나\" 반론도",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWXhheHFiSGxSMTN5U0xRUVdueFZqdVR2SzZVQXlaUUc1bFVscDF6ZERWUDIwbWlpRDBmY1E1RXdEckNJSG1vMF9oTkVOU0Q5RFNRN25neXRldG9XZVhnZ1B5UWpTRjZSdXR3UGRJaw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-23T09:45:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 7,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "대한변협 “대법원장 탄핵소추 추진 우려… 국회, 신중히 재고해야”",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ld1hZZGRkdXg3SWhwZS1veVNTaFFMcEx4cTl0b192Qi1lN0lNTXM4VVBiY0VrRzN4M2NRay0wX0lpdF9wUGlwemZpNHRReFk1blFmRUhVd3FFLXZYbXNYWWIwek1YUU9FazZYRVVn0gFyQVVfeXFMTXB1SHFmTkFVaEczNXlVRDBWSFJxR3FKNlc3MEVFMUpTYVhGUnQ1SHg0RWFVb05LRFExZkVvZVZlYUFUVGR1ZVFxUXNfS2FIeFkwTURZSEMyNUk3THlTNUZweUc5V2xhVUI2YUstNzVmWWRR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-11-24T03:33:10.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "'선관위' 특검, 28일 올림픽공원서 투표지 검증",
+      "span": "2026.10",
+      "monthCount": 1,
+      "articleCount": 6,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "'선관위' 특검, 28일 올림픽공원서 투표지 검증",
+          "source": "2026.10"
+        }
+      ],
+      "articles": [
+        {
+          "title": "특검, 올림픽공원 현장 검증 돌입…“투표지 247만 장 검증”",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96SVFIc3JfOXdPdnBpaTJKS3o0Z05fc3dULUhoam5FVmFYUUtJUFA3MjhuVUg2dUNFVEh3c1hMLUdnRkd1VTIxVHRzZElIWTlwRThFMFZCQ2UwU2J4WWItcFd2dklLdw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "특검, 尹 ’내란 우두머리’ 항소심도 사형 구형",
+      "span": "2026.10",
+      "monthCount": 1,
+      "articleCount": 5,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "특검, 尹 ’내란 우두머리’ 항소심도 사형 구형",
+          "source": "2026.10"
+        }
+      ],
+      "articles": [
+        {
+          "title": "특검, 윤석열 ‘내란 우두머리’ 2심도 사형 구형…“국민이 막은 내란, 감형 이유 안돼”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kdUZNRUdvZXR1RTgzNnhqd0JkTENibXJSSTRCN1RKLVdER3NucHBkdktWeFlRWVh2Z0IyaDQtemVqQnRGX28yeGsxTG43VzVMY0pJeXpManlRZ9IBX0FVX3lxTFBzRkFQcWs1OUZTbG56cFJDaTVFb2VOYklqcXpxLS15T1AyR0JIcXk3b0tzUjg2d3luc294WUFWOUxxU3JSaHdPQXFmaExFdHFyZkVFYlUxU1B0ZEFQTzFz?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "청와대 \"국회 권한 강화 4년 중임제, 국민 수용성 높아\"",
+      "span": "2026.08",
+      "monthCount": 1,
+      "articleCount": 5,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "청와대 \"국회 권한 강화 4년 중임제, 국민 수용성 높아\"",
+          "source": "2026.08"
+        }
+      ],
+      "articles": [
+        {
+          "title": "靑 \"국회 권한 강화된 4년 중임 대통령제가 국민 수용성 높아\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Tnhac1FZU25uQ0V5cVBoM3VPQXdUNFloZUp1VDFnZ2VZM1dvUXN3aVQ3NTY3Ui1WNjhEay05Q09qLTg0TjIwd1N4QzVFZU80NnBSS1ZhdlM4YjDSAWBBVV95cUxOOVc1TVBoWjl1dnFXN3o0VTl3aHJjMFhwMlE4RkIxRENGSnNfbmxneUdiSVJtMHpTOE5pQ3Fyb2syM3J1VlhaXzI4YmVPS2xIRlcwRlNOOUMwZlpPcUV6Zjg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-14T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.06",
+      "event": "2차 종합특검 ‘尹 체포방해’ 김기현·권영진·윤상현 피의자 입건"
+    },
+    {
+      "date": "2026.07",
+      "event": "조정식 국회의장 “현직 대통령 연임 개헌, 국민 선택”"
+    },
+    {
+      "date": "2026.08",
+      "event": "청와대 \"국회 권한 강화 4년 중임제, 국민 수용성 높아\""
+    },
+    {
+      "date": "2026.09",
+      "event": "법원 “‘남북연락사무소 폭파’ 북한, 우리 정부에 446억 배상하라”"
+    },
+    {
+      "date": "2026.10",
+      "event": "'선관위' 특검, 28일 올림픽공원서 투표지 검증"
+    },
+    {
+      "date": "2026.11",
+      "event": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”"
+    }
+  ],
+  "outlook": ""
+}

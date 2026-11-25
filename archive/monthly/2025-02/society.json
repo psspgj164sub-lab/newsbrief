@@ -1,0 +1,382 @@
+{
+  "month": "2025-02",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:23.817Z",
+  "articleCount": 204,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-02#t0",
+      "title": "법원 \"형제복지원 피해자에 국가가 1억원 지급하라\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "법원, \"국가가 형제 복지원 피해자에게 1억 원 지급하라\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sRGlwV0J3Q29RV0d0cUNla1pfd2dFbmhyYVdwdV9YQnRLWHNKYlM1LTB2WGNjdC1PWXBxUHZPMUgwbXRmWWNIYkFGSU5UenZxejlrRUN1Qno2QmF0Y25JV0FlVzdvQjZhVkpnd3JB0gFyQVVfeXFMT0N0RHlkSGx6SFNnZzZmXzJvakZJZEVBalJsRUtwbjF2SlVTN0swdndqci0tTUdueXhyWlNPNmVwUUhnWHdCZm1WZlphYUhidTdiVll3RklwaklvSkdldHFXcDVMN2NYVWxYQjdTRlFWQ1RB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-02-11T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 \"형제복지원 피해자에 국가가 1억원 지급하라\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QSE5MWDFfM1JKMUFSSnZoRXZDTWdGeGFlTTRQcmU1bWQ5REE0MjVnNnpxMlVMVmROcUlJMjRjMHU5dDhuc2Q2cTZ1bk5pcHRab1Z1bVFweVVhU0nSAWBBVV95cUxPakFFNVcxeVd1SDZJYzlvZ3FxWVhhendlUVd1Zm5PMHdNYW13dTJIcFhKcTRUVjdTX0pHM3dMZnQ2N0Rjc2RLam9pT28zWTY1Tm9pZzJWalpqZExQb1JkX2E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-02-11T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 “형제복지원 피해자에 국가가 1억 원 지급하라”",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EampsWWcyYXFLWldjaFpINEc5aWFVX2RPLWVDUXhqdEkxRTE1YjdEMEJGazhIaDN1SFB6QkhGYVVSY0RsdVRkT3M4eDQxdHBZYkxuLWZpckdqU2x4WkNxUEZ0WEZldk5KbGVmTC1rSQ?oc=5",
+          "source": "법조신문",
+          "publishedAt": "2025-02-11T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t1",
+      "title": "울산 UTK 유류 탱크 화재…노동자 1명 사망",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘2명 사상’ 유류 탱크 폭발·화재 울산 UTK 합동감식",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GRVVaejYtU0JnZzZDUURGVGlnT25sVkpaMDlVLUlibkxHT1V1TFVGbkFZWkNEdlJKSV9ocTE2VDUzUEtpWVBfbjdreVNXeXZ3dkZPS21GNjh1a0dld21DblpMOVQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-02-17T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "울산 유류탱크 폭발·화재사고 중상자 1명 사망",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZkpCeEJxdm9IQlVyN1VLQXEtdW8wYzJ0SjIwY3RYTi1uWElCbG9wcFdiUkpGWXpUR1BmNkZQRUJCakY4UnJGN0ROQVh6YVFFZnI5Q3JzVWdMbVHSAWBBVV95cUxOT0pzR2xWUUc1NWVQeE1vcHgxbzVUWHhzaG1GZTVZd0x4OWtEaDk0YVNvTl9JSGxScHl4UjdjMi13b3MyUUtrT3RCSlZxd1REUHhTbnprWFBEdUxXbURlR0I?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-02-10T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "울산 UTK 유류 탱크 화재…노동자 1명 사망",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pbW16RWMwbXRoX1JWNkIyNVRFZDJZLTRhS0JrQkxraVA3SGhQYTFBa3l4TUxkLXdpYUQzMGpmRE52ZmxrNFpJQTBpa0kycmtZMlU2UEZNbGhkYW9jY0FoeXdCazU?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-02-10T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t2",
+      "title": "법원, ‘카드뮴 불법 배출’ 영풍 281억 과징금 적법 판결",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원, ‘카드뮴 불법 배출’ 영풍 281억 과징금 적법 판결",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15U3RwM1pycnkwTE9UcFlSVXMyUFlwbnVWdHQ3NXkyWVhqUlJSdVNHOWs2Rm1NYWR1UjdQNmk4YWZNZ0VtUFRaMzhMZXF3VjVzWGQ4UWZMQUFidG5MS3lnNTlRbXhqd3FXRVphWE1wQklWUdIBdkFVX3lxTFBDVDJHbzZRWWswLVRzdks4MVgxeEZjOHhfbkRad01hbTkxV0tDYzRKY1ZVOWN1eGxHdXhhY1lRVFhBMWNITlMtQTVzRElLdGZkdUIwYVlRVWN3WXBYQWpEdzQ2ME1lOFBGUHNQTERfZ1VVZlpkZXc?oc=5",
+          "source": "시사저널e",
+          "publishedAt": "2025-02-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 \"낙동강에 카드뮴 유출한 영풍, 과징금 281억 적법\" 판결",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnNMaVVDbEdIWExpWHZLcTBCTTQ0SVJVejM2dTZsU0l6clZWckpwTHY1d1VYN3lzMHI2OFlONkc2U0VmUTRUdGJUOU9meV9Pd3NvWnRFRHduaUxKNW9KdHpnam4wRHVMUkduNTJVLUp5Y1lSdHZYYU9sYW5DU0pqWTk2dlBpMnM?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2025-02-27T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t3",
+      "title": "초등학생 체험학습 사망사고 교사 ‘유죄’…교원단체 반발",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "초등학생 체험학습 사망사고 교사 ‘유죄’…교원단체 반발",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SNUtsSU9nRU5lS1RDTVdQNkRKSVc5N3UtaTB3cmlqRXhvTFctMkFQTldxMXUzMTc4M0VUdHRTWk9IMTFmLVppNjNZdVp5Z2E2cGoxZEd3VEFnLW8?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-02-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'체험학습 사망사고' 담임교사 유죄…\"교권 보호 오해 일으켜\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DU1ZoN0ljakVlcUFiSE85emhFZDZSd1BTa2xhRUtkZUJDdzdXZFRqUjJ4MTJGNzZtbW1qZmRabEJEaTQ4aUJGYzNkOVF0X29rUFp4QUxYdkNjMFXSAWBBVV95cUxPdVRwVGhZSExHVFhRYzlrMVZPdWwzaUIzSERSWmxqMUFiU2wxLU9GNDVpQldIRUNqeGVuY2VkMHVwY1ZjNllwZjVyWG5FanVmNmM0dTR6S2dDTUFCemdWNVQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-02-11T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t4",
+      "title": "법원 \"아이언메이스 다크앤다커, 넥슨 영업비밀 침해\"...85억 배상 판결",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원 \"아이언메이스 다크앤다커, 넥슨 영업비밀 침해\"...85억 배상 판결",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sTTVCbUhMLVRiaUFxQXJ6Z3A4Qi16NnMxbnJkT294MGk5ZFRiTDBfd1ZudmJua3FKM3ZrVE9EMG9yYnNULUtQSVlaUXBhMW9uR29fTUdB?oc=5",
+          "source": "지디넷코리아",
+          "publishedAt": "2025-02-13T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'다크 앤 다커'는 살았으나...법원 \"아이언메이스, 넥슨에 85억원 배상\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ibjdBdjRUS0RTYTZOaFlZNVMtUVZ4Q09IU0JMLWVHWThwOEJiYS1FU2pWYkZ0LXowSk15VTRsYUlpb2tjV3d6czRaTU9HVUJuT3ZyV0VZQTN1VU9Hd3c?oc=5",
+          "source": "인벤",
+          "publishedAt": "2025-02-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t5",
+      "title": "인구 고령화가 은행의 자산 및 부채 구조에 미치는 영향",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "인구 고령화가 은행의 자산 및 부채 구조에 미치는 영향",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NUk2bVNXTzJXUnA5QlFfYkluYnJlSDB5c2IyTjROOFlPZVZRZncyUGRCUzdxdHkyTXE3aTBuMzJJUEZBSUYzRWJRZ0ZyVnRnVjJHd2FNeDR3a0tka05hQUk3S0xzTWd1eFV3?oc=5",
+          "source": "KDI 경제교육·정보센터",
+          "publishedAt": "2025-02-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "고령화와 가계 자산 및 소비 (Ⅰ): 고령화가 가계 자산구조에 미치는 영향",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZDd6SzNzOXVQY0R6MnRnaHFNZXlGaUNSWmVGOHRCSjRhQnNVbXRERHlZZ1NUVXdFQTFrMHZCVzEzMWplbzREWXROVnVRdUJ5cmZjbG5zSVRycWdqcFAxUnRPek1NdGU2dFZv?oc=5",
+          "source": "KDI 경제교육·정보센터",
+          "publishedAt": "2025-02-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t6",
+      "title": "수의사와 동물복지",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "수의사와 동물복지",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CRUgtazhfSDJCa2hmYjdGZUVHVFNjUjJSSXZpYnJlRUNWZjZ4NE5QN1RGTXk5VHlpZUdKZ2J5UExMYzlsckx6dmphc1hYS3M?oc=5",
+          "source": "데일리벳",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-02#t7",
+      "title": "'돼지복지 표준 가이드라인 모범 이행 농가 인센티브 검토'",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'돼지복지 표준 가이드라인 모범 이행 농가 인센티브 검토'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jQzVrQUE1NmdSQkppNjU5ZUtFelZGZ0NEbXVlSzFXaF83ZkFYajFPU3BVekpXM2RJZTBNTy12MExfYTExWk4zcWI1R2N1SXk5RmZtM0ViRnFRWDYwQXhxZGt0TUg?oc=5",
+          "source": "돼지와사람",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "AI",
+      "count": 11
+    },
+    {
+      "word": "배상",
+      "count": 7
+    },
+    {
+      "word": "사망",
+      "count": 7
+    },
+    {
+      "word": "시대",
+      "count": 7
+    },
+    {
+      "word": "국가",
+      "count": 6
+    },
+    {
+      "word": "동물복지",
+      "count": 5
+    },
+    {
+      "word": "사용",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "피해자",
+      "count": 5
+    },
+    {
+      "word": "무죄",
+      "count": 5
+    },
+    {
+      "word": "유죄",
+      "count": 4
+    },
+    {
+      "word": "반발",
+      "count": 4
+    },
+    {
+      "word": "의사",
+      "count": 4
+    },
+    {
+      "word": "울산",
+      "count": 4
+    },
+    {
+      "word": "정책",
+      "count": 4
+    },
+    {
+      "word": "저출산",
+      "count": 4
+    },
+    {
+      "word": "새로운",
+      "count": 4
+    },
+    {
+      "word": "투자",
+      "count": 4
+    },
+    {
+      "word": "지원",
+      "count": 4
+    },
+    {
+      "word": "데이터",
+      "count": 4
+    },
+    {
+      "word": "한의사",
+      "count": 4
+    },
+    {
+      "word": "취소",
+      "count": 4
+    },
+    {
+      "word": "소유권",
+      "count": 4
+    },
+    {
+      "word": "소송",
+      "count": 4
+    },
+    {
+      "word": "피해",
+      "count": 3
+    },
+    {
+      "word": "체험학습",
+      "count": 3
+    },
+    {
+      "word": "책임",
+      "count": 3
+    },
+    {
+      "word": "UTK",
+      "count": 3
+    },
+    {
+      "word": "돌봄",
+      "count": 3
+    },
+    {
+      "word": "자산",
+      "count": 3
+    },
+    {
+      "word": "극복",
+      "count": 3
+    },
+    {
+      "word": "필수의료",
+      "count": 3
+    },
+    {
+      "word": "학교",
+      "count": 3
+    },
+    {
+      "word": "프로그램",
+      "count": 3
+    },
+    {
+      "word": "개최",
+      "count": 3
+    },
+    {
+      "word": "불가",
+      "count": 3
+    },
+    {
+      "word": "산재",
+      "count": 3
+    },
+    {
+      "word": "지급",
+      "count": 3
+    },
+    {
+      "word": "지급하라",
+      "count": 3
+    },
+    {
+      "word": "집행유예",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "02.10",
+      "event": "울산 UTK 유류 탱크 화재…노동자 1명 사망"
+    },
+    {
+      "date": "02.11",
+      "event": "법원 \"형제복지원 피해자에 국가가 1억원 지급하라\""
+    },
+    {
+      "date": "02.13",
+      "event": "법원 \"아이언메이스 다크앤다커, 넥슨 영업비밀 침해\"...85억 배상 판결"
+    },
+    {
+      "date": "02.27",
+      "event": "법원, ‘카드뮴 불법 배출’ 영풍 281억 과징금 적법 판결"
+    }
+  ]
+}

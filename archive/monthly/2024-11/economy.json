@@ -1,0 +1,400 @@
+{
+  "month": "2024-11",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:30.924Z",
+  "articleCount": 235,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-11#t0",
+      "title": "한은, 기준금리 0.25%P 깜짝 인하…2연속 인하는 15년 만",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "경기부터 살린다…한은 기준금리 0.25%p 깜짝 연속 인하(종합2보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZeDB0VFMxNnBLWXY3cWpHN3NBWDg3OXJ2MGUxU0ZETmhfbmZyb1VrRDBzTlY2QWdmM2dhbUpzVnRPd19nLVlGT1luTWoyRUdDTW55WTM1dW5XS2fSAWBBVV95cUxNTHBDZEppVzduZkdSemlzOGYyZnBjNDh6STBOaEkzajluQWFqb01WS2ZHSmRCdERtR01JN2hPOElhRXQ4TUdwVkoyTEZwajU4UnJ1ZnBjRWZoZkxBYXdnajg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "기준금리 0.25%p ‘깜짝 인하’…두차례 연속 내린 건 15년만",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVZWb2NTek15RDktODhGSDZ5QTlkNUVXX3MzVnlCenJ0TUJialFmTjFkSmIwaU1PMjZUZFlsNnU1dFd2b3dpTVRoVGZ6Qm05QkU1clB1N3F2UDRNejV6MFFWY21fNEZ1Qms5LXE2bHhCajhaaUhOdjhqQnNYaDBDQWFudzFMeVFfQ0FkWkRn?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "기준금리 0.25%p 깜짝 추가 인하…’경기 부양’ 방점",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14N25sdWxOOER0djNmZ01pWmNibWR1cTViS0c2TzdwOVI3cVc5ZThFVjV1SzdhdlBFZ0g4REdjSGtGc0ZLN3FXN3VybGRESjlWcHZIaDdQM3lqaVBrU0V2N2liMzRkMWs?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-11#t1",
+      "title": "거래소 찾은 이재명 \"제도 개선하면 코스피 4,000 갈 것\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "거래소 찾은 이재명 \"제도 개선하면 코스피 4,000 갈 것\"",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZzZKOFBsYmYzUk5RaUpOTVR4ck9RMHZudmxJNFNRU193RkY1d3RtQXJhaVpDMnlyQ1ZiU2FKTHY5cHJYMTdqRHZEbFJRY29RM0Y0NHFzb1VCSF90aE5wbUhIUUZfZTM0em5ja2hfQ1I?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이재명 “‘국장’ 떠나는 현실...PER 개선하면 ‘코스피 4000’ 무난”",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4d2UzNDhnaU96M1UzZnU2Sk5WeU5pYzN2ZmZmRThrWFRkSHZfQnZ2bUdyRXl3MXBuNjhxQjBISHZ5N2I3SW1OM25wTWlxZjJnTERJS3lyZUVMbWgtVm44ejln?oc=5",
+          "source": "이코노미스트",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "거래소 찾은 이재명 “연내 상법 개정… 코스피 4000 갈 수 있다”",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWEzNm02OUxFa3hnLWd6TDJyMThWQ3ZPUDZSZEpueGpmejlVQmlRZkptRVNZTmxKOHotT0MxZXVyZ1dzQV9xZzBod3MxWFJWTHhfcHd5cjNJSXRIdnUwMjB5SnViRXVMamMwV0ZIOXBOdVZKQVBpbnluRVhUMG01WUpNQ05fRmY40gGcAUFVX3lxTE04Z25mMHlaU1kxZDhOTERwQUZYejQySDlPc2hLdHFxT0hIYlV3ZnRkQWcyTXhQYjNoRVZGTVM0MDhkNTlmOU12MXdzYWhzZ2ZjZVBVbVVET0duZjhCaVIwMlYyT0hrSWpwa29FWkJuN3owX3hDTDlfTk5hcVRJQlBPQU80akdQX3VlYUgwTS1ZdTBaWC1Cbzl6WnlVYQ?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-11#t2",
+      "title": "국토부, 기재부 등 합동 「부동산 PF 제도 개선방안」",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국토부, 기재부 등 합동 「부동산 PF 제도 개선방안」",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wZ2g1b2tuSEhpdnNObTdRdkRLT29SSVJyMFh4UHh1TEMwYjNXckNmcVhsZ0Zpalo3LXF0NUx6NVYxc3VVZWNPQzFOVzYyd0wtRVZMNElKU2hPN2xXbnZBMURIcjQxbm16WlVyMWNR0gFyQVVfeXFMUGQ2cWo0WU9WWEhXRzJKb1g0cUFWQ3poWVdXOHVMVHhCcHpDa3Y3YjJGc0dtQU1ncUhrQkJLczVFaTNoMDljTHNRVDYycmJLZnRsLUZRX3B4MGIyc3ZWWGNSYjZ2QXhHajlkbG9RcnRfRGh3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부동산 PF제도 개선방안",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzampSZm80OFBpYzllRy1mMXgtd3I3ZmFqZkdweXhkSm9JRkZkOWQzNmx4Sl94TFE4UlpkUU83RVVOVXpDei1Fc1AzU1ZzZ3FJYlY1amxEbklpVUHSAWBBVV95cUxPQW1XNHVSVXVaeFF6aC14NnR5S01NWnctNGZtTUk1bjY1VXJmLW9lT050d0pmX0MwVlVKeXBrUFkwMlV2T3BvRzVDZ3pPOTliNGpBeU5DNE02V29xcFN3RXo?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-11-14T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-11#t3",
+      "title": "종합부동산세 법령 주요 개정내용",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "종합부동산세 법령 주요 개정내용",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53QUI0SlZVaXVaTkVPOUlWN0h1QmxuM2g5c1oyYnVFUGxwcWVWQUYwcjlucFdOaXRFbmpsNktLSDZDMHUzTEtyRVpLa1R1cU5wZTB4MEdiNEpGTGJ3ZjN3?oc=5",
+          "source": "한국세정신문",
+          "publishedAt": "2024-11-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "세법 개정에 따른 종합부동산세 환급 기회",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObGY3VnJQN2Z0R1RVMXJsSDVSR3VXb0swZzRCUFVURTc2SldJUVYzQTFTNjVuY1dNQUREbEFNSkdYcnF0Q3JKd2JvTWdiNmlXVlB5dW83aWI2dnBoOXYyUjdZQ3MzWHRTaWxoVjlMR2J2dndyWmNnZkJlN0dfbDN4YThhTldLb0NmNnV6V0gzY2o?oc=5",
+          "source": "Deloitte",
+          "publishedAt": "2024-11-25T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-11#t4",
+      "title": "'3억으로 100억 사업' 막는다…부동산PF 자기자본 20%로 상향 유도(종합)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'3억으로 100억 사업' 막는다…부동산PF 자기자본 20%로 상향 유도(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aeTJxZDdvbHRtbWNGdzdYZU5aMEVZXzZ2cHFiZ2JhVHYtTDdYNEtfbmZydEVtQml0RnE0aVRuaHZDNDd2RDRCUFg0VjlFejVTZUR4QUxoSFhOWW_SAWBBVV95cUxPWDZZZS1lVk5Qdnl5WU1oQU9MS1lRNHA0X0RuOUVpY2dLNk81aWVHcVVLYVZMQklULXo0YVNXTlFpZmpYN2Z0bDlpYjZoN3ZiMF9BcU1GMjFBYkRINFdCTDU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-11-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "3억으로 100억 사업하는 부동산PF 관행 없앤다… 정부, 제도 개선",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGblM4bkwzQzdwU2dETmppcnh0aUpvcmV4VElrdnJvYUgyN2doR0tmbmM5NmdsZ3FGaTZ3b1o4a2gxcmVoRHZpSFZvdW1PS0FHeTEwa3NR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-11-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-11#t5",
+      "title": "한은 “팬데믹 후 중립금리 상승…-0.2~1.3% 수준 추정”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한은 “팬데믹 후 중립금리 상승…-0.2~1.3% 수준 추정”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EWnl3VEZnWEh0WmZROWFzYjd6ZzFsTkVCTUhkUkhFei14RDRYZUhTVzFGRzBodHIxaVBWLURuVFhndlFDcnd4elVNYVBVSVdBU2liZ2VBdm1GQm8?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-11-03T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국의 중립금리 -0.2~1.3% 수준으로 추정",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhdzd3dzVRQmZhYnNvV1FJSm9vNFlubUhyd0hOOXhDWlBMT1JVR1ZOVkx2bVFVZjgwcTVIQ0NPUFBqVF9lRTFrXzhqbTdrQjFJYlllQlRHTXRMODEwQ2hZcEIzYkp3amhqcU9V?oc=5",
+          "source": "BBS불교방송",
+          "publishedAt": "2024-11-03T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-11#t6",
+      "title": "'외환시장'과 '환율' | 자녀 경제 감각 키우기 ➁",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'외환시장'과 '환율' | 자녀 경제 감각 키우기 ➁",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEhiZUsxcThDZWJVSU9JTnRMalU0ZS1Sc3hGTGFwVmpWWVM1VmFWVE0zbWswWUJzdnk3RGxZMy1OUFU1aXgwX3B3TDNZeVcyN3Y3Rm5GWWtpTC10YjBYNnVqdmhtdkFETmZ6Q0hTM25MYVVVZHN5WXN2d3ZZblg1cU9xSzNZQUFrVXFoQ2pMeWg4Q2hneGc?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2024-11-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'자금시장'과 '금리' | 자녀 경제 감각 키우기 ➀",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnFPRUpPT1dwWUJya3VKd002Sms0bFZyU2daYWtGN3ZIYlZNdlA2S0NabXF6NExIZzVUSE0yM0FQN09tRERQOFROSzVCemRzYXd3cXJIeWNWWl9Yd2tVNHFNV1IwSTZVZEZRWmZoVERDS3NXUzBmQnNUUDV2UUFTdEhHOFpNVGs?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2024-11-12T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-11#t7",
+      "title": "美, 금리 4.5∼4.75%로 0.25%p 추가 인하…한미금리차 1.5%p로(종합2보)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "美, 금리 4.5∼4.75%로 0.25%p 추가 인하…한미금리차 1.5%p로(종합2보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YZmpXR2Fhc3pBcFR4UXFUZDZkSlVielk0OC1DMVg0cU4zLXZWOWFUdHQ2eXNOZ2I0bEVFc3R1SUpTbDlTb0owdFU5RDdRYmdFbDJ4UEpwNFROSWPSAWBBVV95cUxQcmJiRkEwazhNTEREQ3EyX3B2SUdqM3ctc3A1X19DYlhmUFhUdzFYNURpbFlheC1QaTVvcUdrSHFDX2pMeWRFR0p2djVuNG9OLS1DU2FWYURMUHFKQTU1ems?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-11-08T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美연준, 기준금리 추가 인하…0.25%p 내린 4.50∼4.75%",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42NzJHWXNKMnA1ZlUxbXZfd2lPM0VsU1pnZ1AxaHBPaHJycllkdHVYNUF0c05xVEQwaGctbTVibVotRkZzeHJvRG9nWklBbWxGckpoSTNoWHBJRkHSAWBBVV95cUxNOTlkTi05VGVmbllhZmdQaTFmQnZndTZ3ZXFhcDlOS3cxMlRhbVo0MXJ3OG9TTTAwcl93QThmZmlsVTJKR2VzZnJpV1N4aC1QSmU3SHFLcWJ2eHhBejI4clY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-11-08T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "인하",
+      "count": 15
+    },
+    {
+      "word": "기준금리",
+      "count": 14
+    },
+    {
+      "word": "트럼프",
+      "count": 13
+    },
+    {
+      "word": "한은",
+      "count": 12
+    },
+    {
+      "word": "한국",
+      "count": 11
+    },
+    {
+      "word": "최대",
+      "count": 10
+    },
+    {
+      "word": "달러",
+      "count": 9
+    },
+    {
+      "word": "정부",
+      "count": 8
+    },
+    {
+      "word": "상승",
+      "count": 8
+    },
+    {
+      "word": "깜짝",
+      "count": 7
+    },
+    {
+      "word": "글로벌",
+      "count": 7
+    },
+    {
+      "word": "삼성전자",
+      "count": 7
+    },
+    {
+      "word": "시장",
+      "count": 7
+    },
+    {
+      "word": "역대",
+      "count": 7
+    },
+    {
+      "word": "미국",
+      "count": 6
+    },
+    {
+      "word": "국내",
+      "count": 6
+    },
+    {
+      "word": "세계",
+      "count": 6
+    },
+    {
+      "word": "개선",
+      "count": 6
+    },
+    {
+      "word": "연속",
+      "count": 5
+    },
+    {
+      "word": "양극화",
+      "count": 5
+    },
+    {
+      "word": "대선",
+      "count": 5
+    },
+    {
+      "word": "급등",
+      "count": 4
+    },
+    {
+      "word": "국민연금",
+      "count": 4
+    },
+    {
+      "word": "추가",
+      "count": 4
+    },
+    {
+      "word": "내린",
+      "count": 4
+    },
+    {
+      "word": "중국",
+      "count": 4
+    },
+    {
+      "word": "PF",
+      "count": 4
+    },
+    {
+      "word": "사업",
+      "count": 4
+    },
+    {
+      "word": "증가",
+      "count": 4
+    },
+    {
+      "word": "이재명",
+      "count": 4
+    },
+    {
+      "word": "부동산pf",
+      "count": 4
+    },
+    {
+      "word": "라면",
+      "count": 4
+    },
+    {
+      "word": "대응",
+      "count": 3
+    },
+    {
+      "word": "중립금리",
+      "count": 3
+    },
+    {
+      "word": "수준",
+      "count": 3
+    },
+    {
+      "word": "영향",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "해외",
+      "count": 3
+    },
+    {
+      "word": "하락",
+      "count": 3
+    },
+    {
+      "word": "경고",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "11.13",
+      "event": "'3억으로 100억 사업' 막는다…부동산PF 자기자본 20%로 상향 유도(종합)"
+    },
+    {
+      "date": "11.14",
+      "event": "국토부, 기재부 등 합동 「부동산 PF 제도 개선방안」"
+    },
+    {
+      "date": "11.25",
+      "event": "종합부동산세 법령 주요 개정내용"
+    },
+    {
+      "date": "11.27",
+      "event": "한은, 기준금리 0.25%P 깜짝 인하…2연속 인하는 15년 만"
+    },
+    {
+      "date": "11.28",
+      "event": "거래소 찾은 이재명 \"제도 개선하면 코스피 4,000 갈 것\""
+    }
+  ]
+}

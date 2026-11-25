@@ -1,0 +1,675 @@
+{
+  "region": "africa",
+  "label": "아프리카",
+  "range": {
+    "from": "2026-11-19",
+    "to": "2026-11-25"
+  },
+  "updatedAt": "2026-11-25T05:39:47.665Z",
+  "ai": false,
+  "overview": "최근 1주 아프리카 관련 국내 언론 기사 138건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「이란 \"美 봉쇄는 군사 침략…공격땐 모든 수단 동원\"」(기사 3건)입니다.",
+  "stats": {
+    "articles": 138
+  },
+  "themes": {
+    "economy": {
+      "label": "경제",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "달러",
+          "count": 8
+        },
+        {
+          "word": "수출",
+          "count": 8
+        },
+        {
+          "word": "철도",
+          "count": 4
+        },
+        {
+          "word": "중동",
+          "count": 3
+        },
+        {
+          "word": "금값",
+          "count": 3
+        },
+        {
+          "word": "상승",
+          "count": 3
+        },
+        {
+          "word": "데이터",
+          "count": 3
+        },
+        {
+          "word": "승인",
+          "count": 3
+        }
+      ],
+      "items": [
+        {
+          "title": "국토부, 철도 파업 대비 비상수송대책 점검…대체교통수단 확보 당부",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "국토부, 철도 파업 대비 비상수송 점검… “대체수단 확보”",
+              "source": "천지일보"
+            }
+          ],
+          "span": "11.19",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "국토부, 철도 파업 대비 비상수송대책 점검…대체교통수단 확보 당부",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aN1c0UVV5S2p3dHdWdHpxSGNNTkRndFBGdzZ0RU5jWmRySlNGYnMxMi05d0lJa3BiQTlrTFNBY3pJUWQyUjVnQkJiMldPWnJyMjFjTF9UOWxGZzhIcUo1a1JDS2VsNjVYNmJJ?oc=5",
+              "source": "BBS 불교방송",
+              "publishedAt": "2026-11-19T11:09:32.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "국토부, 철도 파업 대비 비상수송 점검… “대체수단 확보”",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lRFRiS29USUYxNC1UY01GWUcxbjBMTm5UX0JmOWdHSlpkbWs2Y1ZBODZKQzNQcGNfVWZiSExnd3Z3ZDR4bGZaV0sxRGdmU2Z5TmdJVC1fbnJnZG85dXFmdVNaR2VuYlZhZ1E?oc=5",
+              "source": "천지일보",
+              "publishedAt": "2026-11-19T10:34:28.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "캐피텍, 남아공 증시서 2.35% 상승 마감 : 기업주식정보",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.24~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "캐피텍, 남아공 증시서 2.35% 상승 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00TVVYb0Q4c2k4eE4zQUtKazJ5MGQzZ2k5bWdYOFpnMzlMWU5ZTTlrTzhROXNWVldveGpUUjNEVHBSa20tRGF1T0hQaw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-25T04:00:10.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "앱사그룹, 남아공 증시서 4.09% 상승 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80T3luUmJGNmg1dkhfZFR0VlJGMUZyX3FxSnNMZ3hBX3RPMzBuLTc0MTg1VFhOMmNQeDRNYWNXQllhNTF5cEl4dllsdw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-24T04:01:05.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "에티오피아 유기농 신선 시금치 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.20",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "에티오피아 유기농 신선 시금치 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CSGxjVm1YRDhxdDVpOUN0ZExLYUZhcFNyVDZ2dXlxdDh3MV9GU1FHd3VHOFpibi1oZHhOb0dISHFObnRzSWpQSDVDQ2ZwQk1KbmZJZ1laN08wbGxDcWZZcnZNZU9TejJ3SWJWUnBzY1RyQzFf?oc=5",
+              "source": "Tridge",
+              "publishedAt": "2026-11-20T08:00:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "케냐 아프리카 페리페리 핫소스 가격 및 무역 데이터 | 마켓 오버뷰 2026",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlZ3hpQkpDeHFuTWhyNFBXUkRObUZEOWNxTHNjVzl5ZmU4NFpORTZuS1VuTzRQUXhtWGdRalV0SWVkdjBSWERWYWZqWVdYNVZ4UktRc3pBWWFkeWlYZnF3VE8yaHA3aDk4cTRtM2M0d2RSakZ0b3JEYW9OVE0?oc=5",
+              "source": "Tridge",
+              "publishedAt": "2026-11-20T08:00:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "동해시, '동해페이' 시민 87.2%가 쓰는 생활 결제수단으로 안착",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "동해시, '동해페이' 시민 87.2%가 쓰는 생활 결제수단으로 안착",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OWHZKenJIU3c5ZllxQW5tSkZZNFJxUkNfWFlvSWhHWkxURlJKVElPdnhReWFuZ1BwRXFzemYtMFRTaGJIMzc4Wnh4eFp1M3pkRkoycFdhWWZNMWxkSGdpa29vVUVzTGc?oc=5",
+              "source": "www.hkilbo.kr",
+              "publishedAt": "2026-11-25T02:06:34.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "'동해페이' 시민 가입률 87%…필수 결제 수단 정착",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "'동해페이' 시민 가입률 87%…필수 결제 수단 정착",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nTnpvZ21GdUVpZW5DQ2FzWVRYYXA4UkxHR2JNaHhJUlNUNkZDU0NQc1Vvc3VZaDh0YmdVTVNjYThOc0dWZm4zR1pQdzNyOTVHdFE?oc=5",
+              "source": "매일경제 마켓",
+              "publishedAt": "2026-11-25T00:42:58.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "아프리카 데이터 패권경쟁에 韓뛰어든다…11억원 지원의 의미",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "아프리카 데이터 패권경쟁에 韓뛰어든다…11억원 지원의 의미",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUWlFxNFZMRlI3cjNxbUtrV0s1cVdJTkdOanN2Yk85T0s4d1F0dGRONDYxZ2NKMXJNQmI0dVFUVGhDNzFTZnVSUTNaWXQ4TUV3eVRrdXdRY3DSAVhBVV95cUxQVFpRcTRWTEZSN3IzcW1La1dLNXFXSU5HTmpzdmJPOU9LOHdRdHRkTjQ2MWdjSjFyTUJiNHVRVFRoQzcxU2Z1UlEzWll0OE1Fd3lUa3V3UWNw?oc=5",
+              "source": "미디어펜",
+              "publishedAt": "2026-11-25T00:04:40.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "war": {
+      "label": "전쟁·안보",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "국경",
+          "count": 7
+        },
+        {
+          "word": "드론",
+          "count": 7
+        },
+        {
+          "word": "이란",
+          "count": 6
+        },
+        {
+          "word": "우크라",
+          "count": 5
+        },
+        {
+          "word": "hd현대",
+          "count": 5
+        },
+        {
+          "word": "보훈",
+          "count": 4
+        },
+        {
+          "word": "유엔",
+          "count": 4
+        },
+        {
+          "word": "넘어",
+          "count": 4
+        }
+      ],
+      "items": [
+        {
+          "title": "이란 \"美 봉쇄는 군사 침략…공격땐 모든 수단 동원\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "이란 \"美 해상봉쇄는 군사 침략…모든 수단 동원해 맞설 것\"",
+              "source": "뉴스1"
+            },
+            {
+              "title": "이란 \"美 봉쇄는 군사 침략…공격시 혁명수비대가 답할 것\"",
+              "source": "연합뉴스 한민족센터"
+            }
+          ],
+          "span": "11.23",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "이란 \"美 해상봉쇄는 군사 침략…모든 수단 동원해 맞설 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zejN2Z0t2Z2g4OXI3Y2lwbEFOU1ByTTQ5Y3RqeFRoR0VpN2J6RldMSEFNRTVGbVVwajdTWHM4SWl5UnhfYjl0UC1BVFc3YVJRalpIc083M0lTREpiNUN6eS13?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-23T14:01:03.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란 \"美 봉쇄는 군사 침략…공격땐 모든 수단 동원\"",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDM0d1I5Q1VKckJ6Q3RqU2diMDRjb2RyVmF4UDJzNjRJaEl5clBWdExWOTBzaVlXQlFtcWpLUWJqSWZQQ2hIYmtJbm1ERmtsdmppWGV0dXZfZkdpdHVpUGdpXzlPaUxOTXdLd0dQLXhKZlZJMlFuVVhqYVBmejJ5YS1n?oc=5",
+              "source": "아시아경제",
+              "publishedAt": "2026-11-23T09:21:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란 \"美 봉쇄는 군사 침략…공격시 혁명수비대가 답할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBieW1Jclg4dGk5Y1N4MXdpQ3NDMDdHSEdPZW1HOEVGZHdlbHhEa0hZRWJCanBQbGFJNFRrMm9UeFMyT3pyUEVMQ0pRR2RCbkhkY3pvOWI4YS1kZmtfcTBxbE96ZkRfMVZMSFlSTHRHbmhvQ1U1?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-23T09:11:37.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "HD현대 ‘보훈 동맹’…에티오피아서 6·25 전사자 ‘추모의 벽’ 건립",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "HD현대, 에티오피아에 ‘추모의 벽’…국경 넘는 보훈 동행",
+              "source": "이투데이"
+            },
+            {
+              "title": "HD건설기계, 에티오피아 6·25 전사자 122명 추모의 벽 건립",
+              "source": "필드뉴스"
+            }
+          ],
+          "span": "11.19~11.21",
+          "days": 3,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "HD현대 ‘보훈 동맹’…에티오피아서 6·25 전사자 ‘추모의 벽’ 건립",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GWnNyc1NYMDkwUXBrVVFhaEJxWHlQbk5kRVVRa0Q4SDlhRm9TVlJiTjhWUVJxMWc4eTNvX1luTy1LTlFneG15a1Vld1R3TlBFbVplUXJfcDQxanhqNE1hNw?oc=5",
+              "source": "뉴스토마토",
+              "publishedAt": "2026-11-21T02:48:11.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "HD현대, 에티오피아에 ‘추모의 벽’…국경 넘는 보훈 동행",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fSndCVXF2d2RLTWR4elVoUGJ3WjRjNVl3dW9RR1BENzNxQzZRYmlCV1ExSXdIR3lYLVVqRXQ4MmNvT1o5eHE0R2FXTUM2dXJGVDR3ZQ?oc=5",
+              "source": "이투데이",
+              "publishedAt": "2026-11-20T05:39:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "HD건설기계, 에티오피아 6·25 전사자 122명 추모의 벽 건립",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRVF0YVMwT1lKbnlmeHhLbVBOcVcyM1dIQUVJV2F1ZGlidXNqZXFZMmxxVGpaLXhxbVU5SUNheUw5UXRDTlhRczc0aXBRcmVCVU1GeG55YS0wSnBVUEZGUmhPcDJtOUZP0gFsQVVfeXFMTldrRHNwT3phek9UMEoxLTJrNURqcjFGclIwVkpUWXZtMEhRd0s3QVlkWTNYNDl4XzI5STZ5c2ZZYVZlTVZvUlBHNDk4bThnR0ZpUVZhWk9DZnM2V0RUZmlEaDF4WkJNaUNzU1dU?oc=5",
+              "source": "필드뉴스",
+              "publishedAt": "2026-11-19T01:02:10.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "“국경 넘어 이어지는 감사와 예우”···HD현대의 보훈 동행",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "국경 넘어 이어지는 HD현대의 호국 정신",
+              "source": "빅터뉴스"
+            },
+            {
+              "title": "국경 넘어 이어지는 감사와 예우… HD현대, 보훈동행 앞장",
+              "source": "국토일보"
+            }
+          ],
+          "span": "11.20",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "국경 넘어 이어지는 HD현대의 호국 정신",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53YWNYWHB0bDdsSmNHR1pmUzh6dnZySDN2TG9qT0dUSlRyUlhsYWpnTXFVeFBMRDZWZGVIbFAyRVJzR2RTU055VnhLajdvLVhwUTkydldQMnotMkxLR1JpZGpncWZlcXc?oc=5",
+              "source": "빅터뉴스",
+              "publishedAt": "2026-11-20T07:28:28.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "국경 넘어 이어지는 감사와 예우… HD현대, 보훈동행 앞장",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYRHhWaUl4Yl95T3doN0JPTExHQ0lIOFNvbnVncm0wV1d0SVVFZUt6ZFFKdEF0cjBXVUdoRi1kU0hLdHBxNmFGMk5Ld0NqUEdtSGZrakFOTjJ2eWpDcjkyWFhrMA?oc=5",
+              "source": "국토일보",
+              "publishedAt": "2026-11-20T05:31:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "“국경 넘어 이어지는 감사와 예우”···HD현대의 보훈 동행",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YLWJUMVV2bWlDLVFkOXdtOWMzakRfV0d6U3U1b0F6QlZhRjF2U3RzOVBTc0szc3hEZWhCWG80V0FZZHE5alVEakpQUUNzaWJOSXRsOWFCaTcwZ2lZY2o2WnFuX0RDS1U2VWU3MHpiY2nSAXRBVV95cUxPV19OMDZJZC13UzZpMVpqWWhzZF9BU3RUVUV4cFV1ZGtCdTQ2S3VQbUNndG9YYWJwai15dnR1ek9jQU80UnNsSzAxTFFJeWFYOWNwcmJBeHpEZnAteUpFSG9FcWUxajctNEIwcjN2bXF5ZHd6bQ?oc=5",
+              "source": "이뉴스투데이",
+              "publishedAt": "2026-11-20T05:28:38.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "세계식량계획 \"2개 전쟁에 식량 지원 차질…730만 명 추가 피해 우려\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "WFP \"2개 전쟁에 식량 지원 차질, 730만명 추가 피해 우려\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "세계식량계획 \"2개 전쟁에 식량 지원 차질…730만 명 추가 피해 우려\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81SEttRnJDblJjbnpCbmc2QlpaOVZ3QmhXR0toRGdzZGREZjFxZnFHSHRhaGtsXzFEQS1NOU96WDFWdGZfRVM4X2dGNHZ1Z0NWT2dkWkhCRGVJZ2ktTHNpempKTkE2RUh4Wnc?oc=5",
+              "source": "SBS 뉴스",
+              "publishedAt": "2026-11-24T06:14:46.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "WFP \"2개 전쟁에 식량 지원 차질, 730만명 추가 피해 우려\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dDRFSlVlTWZ6QTB6T0lWYnZRWUJqVUR6WmtsME84MDlSNXYxWjBUMW1rYXRtallkMjN5Tl9DSk1VQ2JxQmlwMTdiVV9jQlBNcEtGNktIYlUtMWPSAWBBVV95cUxQZF9YS0pDRTBRa293ZjdIQTVSWklaUkltYXNLVVhEY0U0b2hvUlVoMmtVTWlnM3FQZENQZVV5R1hQV081d0tXQjV6QVg2UkpFb3dnOG55SFl5VHFQR21TM2w?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T05:59:43.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "우크라 전쟁 아프리카까지 번지나...리비아서 러 군함 드론 피격",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "리비아 정박중인 러 군함 피격…우크라, 아프리카까지 드론 날린 듯",
+              "source": "동아일보"
+            }
+          ],
+          "span": "11.23~11.24",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "우크라 전쟁 아프리카까지 번지나...리비아서 러 군함 드론 피격",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySjBmbzhyU3VkSWhhbGVlNWdWUWUwaWZmWXowRnNmTmo2cVdPejYxMC1fRE80b3RBejVwSTA5UEFUczU2ZWUtNzRQdjZHcVVnMmc?oc=5",
+              "source": "JTBC",
+              "publishedAt": "2026-11-24T06:00:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "리비아 정박중인 러 군함 피격…우크라, 아프리카까지 드론 날린 듯",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BNU9pajJiUFhzaWhXUGJrZUVmakg1OXNEN203XzBUQUd4WGdJa1ZsNDlkWVpNOGZrQlhyTU9ya1h0OXZaYUVER2lfR1B3dUhIeTk4eFoxRENBZWJnRjRNc2NRNEQzVlp6enVFS3J3eTdMdnfSAWZBVV95cUxORHZ1OHFjS0lBbDQwUmgtdmVPQ1d0aFp1NThWVk5HdXcxckRSdEVQalBBQUhZcjJiZ21HanNwVFZieVBTaFlYSE9venk4R0V3TEFUSEdPNFZoWDVBa0dnSm1tN2JObFE?oc=5",
+              "source": "동아일보",
+              "publishedAt": "2026-11-23T06:31:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
+              "source": "글로벌이코노믹"
+            }
+          ],
+          "span": "11.19",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
+              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPckpvdDVlNG03eW5MeVgzNXpFQ1laU2VpZmo5c0trOGVwZ2JkVTNBa1p4VWJqbzVnRkhJOXdiWEZKNUd5MWdua3hIMVdXMkpuVklpRXJ3TEVkXzc2RlJPS2RrWExLUVBLS0ticHJ6R0VtTzlFelp2N2ZHSWM5R09rTEo0ZWlBUXhLNkdQTzUzTEEtZjdjeDN6LXV2ZlhqRnF3azNoMVB2MjZ5THMtenB1TGp0X3ZfY3VQMi02VzZ0MWZtNmxCaVdCSkVmdlJNVGtDWlNkM1V6ZmkzTUhhLW16bHBZelVnQVBKOXNxOWQ2Qk5NUVVqUFl1dWFKTy1SZGwzZ2RCcDVkREdjeGZiSFE3RjZ1VlFZZ2pk?oc=5",
+              "source": "데일리안",
+              "publishedAt": "2026-11-19T13:00:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjVndkl4TmlTTWVHdWtuVGFzbTNWbm1XbEhfQU1rcF9BTm5uOUZpLUdqdlBKVEU2TEVaMU9FLTJ0dmlZbUlTYW8yY2ZqTm1Ec29NWjFRNTR6ano3Z0x3cjZrWGlIdDZFX0YzT19RWFQxT0NlVGdPZG83bHM2RDNXMjFYZmVrajNy?oc=5",
+              "source": "글로벌이코노믹",
+              "publishedAt": "2026-11-19T09:36:16.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "politics": {
+      "label": "정치",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "상명대",
+          "count": 4
+        },
+        {
+          "word": "전자정부",
+          "count": 3
+        },
+        {
+          "word": "마스터플랜",
+          "count": 3
+        },
+        {
+          "word": "여성",
+          "count": 3
+        },
+        {
+          "word": "조성사업",
+          "count": 2
+        },
+        {
+          "word": "이양",
+          "count": 2
+        },
+        {
+          "word": "신임장",
+          "count": 2
+        },
+        {
+          "word": "평화",
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "title": "남아공 첫 여성 부통령이자 여성 인권 증진 힘쓴 음람보-응쿠카 전 부통령 별세",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "남아공 첫 여성 부통령이자 여성 인권 증진 힘쓴 음람보-응쿠카 전 부통령 별세",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vRm5tZENJVWZYRUxrbHN1bWJFWk5fU0RScDZ6aTdTT1ZSNlpwT1l6czNValpTejJqSDROLXUzeEpBb29yMmI3dndxWEVvOHR6dXRhdXJiWFgxN0lvN3Vv0gFfQVVfeXFMT29Gbm1kQ0lVZlhFTGtsc3VtYkVaTl9TRFJwNnppN1NPVlI2WnBPWXpzM1VqWlN6MmpINE4tdTN4SkFvb3IyYjd2d3FYRW84dHp1dGF1cmJYWDE3SW83dW8?oc=5",
+              "source": "경향신문",
+              "publishedAt": "2026-11-25T02:40:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sQzF6ZUhDalcyLTdzTE02QXZRZ1VBeTlZdE50dXg2Q0FoTzRmcEpOMmdCdFVFaThLNW52NG1Yc1U3M1g3UWQtOUFfcDh5MlhWUWY3M2tYVUxRREnSAWBBVV95cUxNVU5IUG9IYk01R2FocXhiUHg0dEpBVHZLa3VRSDBLNHRKbS1ZSVRucU9jVlhGZFpsTTJJeFQ4OFNUbDE1enJjaklpYUgyNkplTzhhLTVUOTYtZlhkaGRhZkk?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T16:41:14.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "아프리카에 첫 '평화의 소녀상'…남아공 케이프타운에 건립",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "남아공 케이프타운에 아프리카 최초 '평화의 소녀상'…해외 17번째",
+              "source": "진일보 | 전남일보"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "아프리카에 첫 '평화의 소녀상'…남아공 케이프타운에 건립",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vY20ydXRqMGhWUDAzY3B5ZjJxMXNhOU9qdi1vcmRPV1lUX3JvX3l4cmhidDV1WVlDSUZHTThGcldmdHQyUWp2YVlER1JuTHFy?oc=5",
+              "source": "cpbc News",
+              "publishedAt": "2026-11-24T08:45:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남아공 케이프타운에 아프리카 최초 '평화의 소녀상'…해외 17번째",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BTlg1Y3hHc05vTlNlNGhzZlZwRGY4UWlWbVBWaWZBY0N4OF8wRE9TQkFFNktkYXYxY0J0T0JmUm5WeVJ5U3lpdTNXdHVSYWJubUQ5a3FfNnpwcW5lcXczRXdxeXUzbXdkUXFlaDk0WQ?oc=5",
+              "source": "진일보 | 전남일보",
+              "publishedAt": "2026-11-23T22:32:32.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "상명대, 나이지리아 전자정부 마스터플랜 수립 지원…1300만 달러 사업 성과",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "상명대, 나이지리아 전자정부 마스터플랜 이양",
+              "source": "핀포인트뉴스"
+            }
+          ],
+          "span": "11.19~11.20",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "상명대, 나이지리아 전자정부 마스터플랜 수립 지원…1300만 달러 사업 성과",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xb2dtR0VoRXlIdURlVDhMX0lDa1h0WXJlMkJpRjYtXzE3LTBlUm9DUXZ1U09jX05jQzdIU2dkTFhYWTQ0LUJ5NVlmNDIwS1hNS0NDRWpTeFBTVVdCbGdUdUQ0UnlnejA?oc=5",
+              "source": "교수신문",
+              "publishedAt": "2026-11-20T00:37:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "상명대, 나이지리아 전자정부 마스터플랜 이양",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DQmhNalpEWFUzbk1PRFBmX05oRXRUeEg5OG9ZQTVMVnNTNkxscGJXYmVTSVZCeVFZdzBiT0VKTlF1YllfOThYUWdlVEIxai0tTFF3NFVDbzU5Y21hSHkwdkFyTkVocDRyeEpXUTlwZVBneFnSAXdBVV95cUxOSFQtWkFqMTZKNWRHVnJRbjdkS3E4YkVNRVZOdjEzcUppekc2Mk1GejRSZmZ3N0pWTE1jSzFqa3p5Q1lyeVAwTllBdE5Bcmk3d1lYaTFndmxEQlRScWRYc3JsLTRyMjlYa1JGbnc3ZnRDUy16SjU2bw?oc=5",
+              "source": "핀포인트뉴스",
+              "publishedAt": "2026-11-19T01:26:35.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "상명대, 나이지리아 디지털정부 기반 조성사업 마무리",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "상명대, '나이지리아 디지털 거버넌스 기반환경 조성사업' 완료…'전자정부 마스터플랜 2.0' 이양",
+              "source": "전자신문"
+            }
+          ],
+          "span": "11.19",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "상명대, 나이지리아 디지털정부 기반 조성사업 마무리",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ydGl1ekFmMFNEcUxRdzJIRUdZdlRNSjdFeHg5NEdUTThUODJacUgxYUJMeXhDanEzNU00NjR4VENxZC15YldPcExIQjhsdndNOXplZ1FIcWI2TGVtMVpJT1Jqa0hQZVdoRkhJ?oc=5",
+              "source": "BBS불교방송",
+              "publishedAt": "2026-11-19T06:32:04.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "상명대, '나이지리아 디지털 거버넌스 기반환경 조성사업' 완료…'전자정부 마스터플랜 2.0' 이양",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBheHk5LXdvZ1MteEFWV3pIWE4wUkg4VmZiMnBVUTBVY1lUUXVjcWVSNjI2UXotV29wYXN3Z0ViRmZLZ1h3d1JRZGw4R3VnUQ?oc=5",
+              "source": "전자신문",
+              "publishedAt": "2026-11-19T04:15:05.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "산업기술 유출 막는다…정부, 범부처 기술보호 체계 강화",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "산업기술 유출 막는다…정부, 범부처 기술보호 체계 강화",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pZUEtSE1vY19TdVFYM0M2ckNxMVR5SUhFSUVGbnpDM2RIcjR0dWhOa2dlcFBVV2RqRE5BSDhtQU1TODF4bDFteDZUSmhqcnp6TlEyUGxkdlBVYkpZR2FYMW9JNWoxcV9CQXJWMmNETW9YQQ?oc=5",
+              "source": "에너지신문",
+              "publishedAt": "2026-11-25T00:15:03.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "남아공 거쳐 우크라전 참전하려던 짐바브웨 대학생 유죄",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "남아공 거쳐 우크라전 참전하려던 짐바브웨 대학생 유죄",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81RkE0T1Fxb0hWUHBBZUc5SDlkSmxNS1ZFaE1oaWpjVHAweHNJWm9Ia0QzQ0VsOEtmWmdHZXFDa3dQdEpneFhUc0dEM01tblhLQzZ0eWtrWGIxdjTSAWBBVV95cUxOdnlBbnBDYVk4d2NDQVMzckppbHBCbGxISHJvRWlYVm1GSDVRSHhYVFpyVXlWNFQ5MnVSeTdON2poZmVBNlVHZ29UaTVQTkFrMGU2MlRCUDlkYzBqUEdra20?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T20:15:02.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

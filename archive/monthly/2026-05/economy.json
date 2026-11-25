@@ -1,0 +1,344 @@
+{
+  "month": "2026-05",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:33.491Z",
+  "articleCount": 130,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-05#t0",
+      "title": "시총 35조에 영업익 85억? 한미반도체 ‘실적쇼크’…‘HBM 프리미엄’ 2분기가 가른다[중기+]",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "시총 35조에 영업익 85억? 한미반도체 ‘실적쇼크’…‘HBM 프리미엄’ 2분기가 가른다[중기+]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAydmVOSWhBemtmY3gwRXdGN1ZLTy1MZUNNeV9peUVCNnplb3dFZUVZczdJeTc4eS1oOTM5LUZXbVVQVFBvaXBOcnh5R05sMC0zVGRueTBR?oc=5",
+          "source": "헤럴드경제",
+          "publishedAt": "2026-05-18T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "시총 35조, 영업이익은 85억?…한미반도체 1분기 '어닝 쇼크'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83UDREOG1PMWdYWUdjSkRpekh5TnE1U3hfMjkyV1VsdWZnNkgycFpzMG5fd0YxeFpEanRXdTl4dzkwWnVQcWtBQkdiRV9ndDBwb0psVkRSaGd2Zw?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-05-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t1",
+      "title": "부동산 탈루혐의자 127명 자금형성과정 등 조사",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "부동산 탈루혐의자 127명 자금형성과정 등 조사",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KZXNpZll3WXd5T0dyT3FEQzlwMWlYTnZScVFybVllWEVNaTdBWmx2NHI0cTczYTFGZGZ2SHdxSG1HMUZQejZJTTNCWHJEWng1Z1ZKbERETk5rNHl4RXBWN3BRbS1RazUwLTlITQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-05-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대출규제 밖 현금부자, 시세차익을 노린 다주택자 등 부동산 탈세혐의자 127명 자금형성과정 철저히 검증",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwNGRUbzFPM08zbEVBeG5iZ21CTWh3ZWxqcGpWQmNrQlpvRzBrczF1ZXIwWDB6b1RMc00zSktMczNweXR3c0xPVmliMzR2UUpkX05pOUZpNVVRZnI4dURTRXl4QTI4ZUV5dHZjaw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-05-19T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t2",
+      "title": "“코스피 8000, 더 올라간다” 美 BofA가 꽂힌 ‘제2 삼전닉스’",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“코스피 8000, 더 올라간다” 美 BofA가 꽂힌 ‘제2 삼전닉스’",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xTGM5RS13Q2lLdlozaS1OTjhjblh4VDF5cjV6NEZGWkFaNGE3bEx6RlBtMGx3YjJzYlR5aW82Ry1WSUtYZkRfQ19TUUhwVmdWV0ZVZm13?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t3",
+      "title": "中 샤오펑 \"우리는 이제 피지컬 AI 기업\"…실적 부진 뒤에 숨긴 세 가지 승부수",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "中 샤오펑 \"우리는 이제 피지컬 AI 기업\"…실적 부진 뒤에 숨긴 세 가지 승부수",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSXBEY0hDaFZPd1Q0TjBqR0VJckFIbkxEVU44dklrU0x2UThTRjhRTUM4X0p3WkVKOFpxOHRDcGhzTGtCN3RNcDN5TU1JN0JOX2RZRjFWYU5ReUFvVjR0d2p5eFJtaV90X29QZUhsR0JWeFc3UjB3RzBIcTlhME1SNjAzVUk1b21m?oc=5",
+          "source": "네이버 프리미엄콘텐츠",
+          "publishedAt": "2026-05-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t4",
+      "title": "달러는 약세장, 수급은 난장판",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "달러는 약세장, 수급은 난장판",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rREcwV2hCRTQzWElzN1d1ajY3SmhwUFBLSGt1M202bjR2WlJEcTRyOWFlT05JWnhRYlBsajVudXJvc250UkhuMkh3bEZUVkpUa0Y0LWtuMXQ5MEVkeHRFbA?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2026-05-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t5",
+      "title": "“지금 뺄 때 아니다, 코스피 9000은 봐야 … 우주·로봇도 주목”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“지금 뺄 때 아니다, 코스피 9000은 봐야 … 우주·로봇도 주목”",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ySDVqSmROYjJkbmNKdXVmZFIyOThnZmRsWXA3LVJnSmZaWk9VZDVYbGMzMmRqTTJVU3V5SVNMczJvcml2eWF4bFFRc2V1NFozbHc?oc=5",
+          "source": "매일경제 마켓",
+          "publishedAt": "2026-05-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t6",
+      "title": "코스피 8,300 재돌파...\"종전 협상 기대감 등 반영\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "코스피 8,300 재돌파...\"종전 협상 기대감 등 반영\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqSlpJUFFGWUlHTkI0MVRGMnB6aXJOeHBSZTBza3lCbGlkTTFfdWNwaHNUR0tuQkVoNUVQNEpMVjYzdDVVSmg5cjFOb2JFV1BjRHRPWko3RVRlNS1hdmQ0Q19mT0pSNmRkQUtlelNEdw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-05-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t7",
+      "title": "코스피 8,476으로 또 사상 최고치‥삼성전자 시총 2천조 원 돌파",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "코스피 8,476으로 또 사상 최고치‥삼성전자 시총 2천조 원 돌파",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOW9DMWliZUtMc1pyazhlcWJHTk90MklHck5zbUY2emc3aTZ3VkpKRllIQnVULXp6UFd0b2JmS0JUMjdzd2JaTC1QNlJtYklPbjZ3RDhOZzA5SkFKVm8tMW11X25tM2hneHJOcENWZThMbURO0gF0QVVfeXFMTUJibUppTVNqV1pLbmlrRDBESW53alBvb215SkNIWW1kLUpuaF9lazBkWUE2YVROMnVDTG11TzlObjdVTEQwRVdzU28yNXdFRW9kblNfQm5wdWFWbG4xMnlGRmRLLU10R3E2Z3ZvMGo4cEEybko?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-05-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "돌파",
+      "count": 13
+    },
+    {
+      "word": "사상",
+      "count": 11
+    },
+    {
+      "word": "시대",
+      "count": 7
+    },
+    {
+      "word": "최고치",
+      "count": 6
+    },
+    {
+      "word": "AI",
+      "count": 6
+    },
+    {
+      "word": "인상",
+      "count": 5
+    },
+    {
+      "word": "상승",
+      "count": 5
+    },
+    {
+      "word": "하락",
+      "count": 5
+    },
+    {
+      "word": "장중",
+      "count": 5
+    },
+    {
+      "word": "마감",
+      "count": 5
+    },
+    {
+      "word": "변동성",
+      "count": 5
+    },
+    {
+      "word": "달러",
+      "count": 4
+    },
+    {
+      "word": "기준금리",
+      "count": 4
+    },
+    {
+      "word": "외국인",
+      "count": 4
+    },
+    {
+      "word": "코스닥",
+      "count": 4
+    },
+    {
+      "word": "경신",
+      "count": 4
+    },
+    {
+      "word": "급락",
+      "count": 4
+    },
+    {
+      "word": "삼전닉스",
+      "count": 4
+    },
+    {
+      "word": "삼성전자",
+      "count": 4
+    },
+    {
+      "word": "시총",
+      "count": 4
+    },
+    {
+      "word": "한은",
+      "count": 3
+    },
+    {
+      "word": "신호",
+      "count": 3
+    },
+    {
+      "word": "급등",
+      "count": 3
+    },
+    {
+      "word": "주식",
+      "count": 3
+    },
+    {
+      "word": "불안",
+      "count": 3
+    },
+    {
+      "word": "투자",
+      "count": 3
+    },
+    {
+      "word": "주가",
+      "count": 3
+    },
+    {
+      "word": "양극화",
+      "count": 3
+    },
+    {
+      "word": "지금",
+      "count": 3
+    },
+    {
+      "word": "꿈의",
+      "count": 3
+    },
+    {
+      "word": "간다",
+      "count": 3
+    },
+    {
+      "word": "매수",
+      "count": 3
+    },
+    {
+      "word": "여전히",
+      "count": 3
+    },
+    {
+      "word": "나왔다",
+      "count": 3
+    },
+    {
+      "word": "역대",
+      "count": 3
+    },
+    {
+      "word": "쏠림",
+      "count": 3
+    },
+    {
+      "word": "넘게",
+      "count": 3
+    },
+    {
+      "word": "붕괴",
+      "count": 3
+    },
+    {
+      "word": "한미반도체",
+      "count": 3
+    },
+    {
+      "word": "동결",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.15",
+      "event": "시총 35조에 영업익 85억? 한미반도체 ‘실적쇼크’…‘HBM 프리미엄’ 2분기가 가른다[중기+]"
+    },
+    {
+      "date": "05.19",
+      "event": "부동산 탈루혐의자 127명 자금형성과정 등 조사"
+    },
+    {
+      "date": "05.29",
+      "event": "달러는 약세장, 수급은 난장판"
+    },
+    {
+      "date": "05.30",
+      "event": "中 샤오펑 \"우리는 이제 피지컬 AI 기업\"…실적 부진 뒤에 숨긴 세 가지 승부수"
+    },
+    {
+      "date": "05.31",
+      "event": "“코스피 8000, 더 올라간다” 美 BofA가 꽂힌 ‘제2 삼전닉스’"
+    }
+  ]
+}

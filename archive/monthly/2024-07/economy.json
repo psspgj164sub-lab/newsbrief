@@ -1,0 +1,325 @@
+{
+  "month": "2024-07",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:30.342Z",
+  "articleCount": 239,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-07#t0",
+      "title": "'은행계' NH저축은행도 '부동산' 리스크에 신용등급 하락",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'은행계' NH저축은행도 '부동산' 리스크에 신용등급 하락",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SencwNjA5dUdVUjAzR28xN3YydEJhVWxfQXdJekI0aVp1dnZXQy1NdU1BQ0kzMGpRd0kzRGRxaEJZaWFmem9GR3FNa3EtaEE?oc=5",
+          "source": "톱데일리",
+          "publishedAt": "2024-07-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "OSB, '부동산' 리스크에 신용등급 '투기' 직전",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sWG5XRVQ1anp3MW5uYVpBeHlGUW5Uc01adk9JZ1NJaklvaG5iUGJYWUNxVWloMkg1Nll4Nng4azFLZHB1UG5ldkJPbzBoTWc?oc=5",
+          "source": "톱데일리",
+          "publishedAt": "2024-07-03T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t1",
+      "title": "임기 마친 김주현 금융위원장 “우리 경제 불확실성 도처에 깔려”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "임기 마친 김주현 금융위원장 “우리 경제 불확실성 도처에 깔려”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rZUZNR1NLd3ZTZ21SQzI5Z2VmU09MVUxsOFNHWkgzRjNWeGR1bFBtX1pIUjA3dzVzZ0NTOWdZYXhIMUpDM0lRMHdieXlBaGxaNGtqaUd4cGVwUVE?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t2",
+      "title": "일본 기준금리 추이",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "일본 기준금리 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUTXZUWjRjWGZfU1JBOFRfMk16dzNfYkJIeUV3MHZoc3pqdVRkZjRVNm1tQ0VjbzdHbTRCZnY0eFE0dWR5VF9VSklVM3kwYmwwQnRFZFYzMTk3U3PSAWBBVV95cUxQS2RtSkllSE1GV2xVQmRGdXpkMm5OUEZlT3c2TVl1UURCZFd4bGZGT0ZFRGkxWEFycndlbVR2RkFzejJKQmZOLU1aX04ydGRNNUE4cVJXYldkZkdJY2RuYno?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t3",
+      "title": "美 정부의 경제 제재, 보안 영역까지 확장",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "美 정부의 경제 제재, 보안 영역까지 확장",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZm9pM2ZOSEdqTmRLVlJENG1MUWZObHhGdkFncFFJTFhHdWROLUh0REJrSUJXcWZIWk5tMS1OSm1SUmxWakdkcnZfMEc2dlVCZXJSU1hwV1R3THNjMHVrY1BJRi1BZXFmbmVlbHQyc2dtUGJiLUZ4QjlkazljSkNzNHVITGFfQWVtTkJqcm41bGdLZmxINmFxMGFTZFFlRjZzOG9mN2ltakZ2T0haMDFGZEltLTZTRVkwOGg0bHVydy1wdFY4cFFrV2VkOC1KT0NiOVphenFmUjBUb1Z1dnBNMHZYSHFCdWhjTnRVcm5ObVZOMVlxdVBKeDhiWEpTTFRFMjdZRGVncFRWZHcycVVFU1VLU3hDM1NJWk84UWJPckFLdw?oc=5",
+          "source": "이글루코퍼레이션",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t4",
+      "title": "사이냅소프트, 챗GPT 기반 부동산 감정평가 분석 서비스 ‘Estate AI’ 출시",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "사이냅소프트, 챗GPT 기반 부동산 감정평가 분석 서비스 ‘Estate AI’ 출시",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94VVZ6c1NSQmhhTjhDeTU0MEhUZU1COURMbkIzUG1pQXlzRXNHcEs2Qmk4eGlwUU9QSExFb1VST2hycml4WnFFQUpKT3N2Zk9oNnFvaW1xVllMeE4zY0pfX2w3UlhqRHl3TEZJ?oc=5",
+          "source": "보안뉴스",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t5",
+      "title": "부동산 자산운용사 투자팀의 현실?!",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "부동산 자산운용사 투자팀의 현실?!",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13cVNkWFBkY0lycDdXbS1RVnZHLTdETmpzcG5EZXcta2pOSzZZSUVZc285a1JQZGhfY3YzcGU0YzVLLWk0R1BNLUZNaw?oc=5",
+          "source": "브런치",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t6",
+      "title": "서울 강서구 전세 사기 예방 위한 부동산 안심QR계약서 제작",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "서울 강서구 전세 사기 예방 위한 부동산 안심QR계약서 제작",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yU0YzMVR1aGNsOGVZbkJUYUxsWUZLSWpQUnYwaXhuQnhFRTgzM2ZKekNaU2xkOGJ0cGt0MFBmZzIxS3l6Nzk2LURBMUFEZzZPOWRrUXd2eVVnTXBwMkwyTmRhSmoxSVAwRlVxcVVjUdIBc0FVX3lxTE4yRDhNd0FrRVpENWJxaVhrX2lHT1YtTlh2ekM0X0tCV3k0R2FtQlh4WE5WUG9ha3ZySkkzMUFsMEduZ2NqazI1WlExTjRoMnB2MVVUSk40bVhoNWhsRDY1TmI4YjNNWU5nUlBIMWlDZXBLZms?oc=5",
+          "source": "세이프타임즈",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t7",
+      "title": "작년 기업실적 부진에 법인세 중간예납 대상 기업 최초 감소",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "작년 기업실적 부진에 법인세 중간예납 대상 기업 최초 감소",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU25aZ0R1dWlTQjItQzVGYmtqYjN5dVd5UlEtMmdYRW1JS3o0Z0NBV2Y5TlBKZ1dGdW1XS01nZEpkZ0FZeDNOVWpkeG1CZ1BIRE5XcXN5TjR1VnBjSkZjd0NLU3QxNnVvQUp0OUU3UDEwbzlyUkZzeFRGUnVPYmMxeVJ5VEdEZ9IBmgFBVV95cUxOY1E0UVZ2aENTODA4bk01aXB6Z01FZVNFTWx4UDk2Y3MxQmM1T2JXYS1Sa0dXTy1JTFJwRjgyOTE3OTNuWkY5MjNiUzZmTUNzR1duS2UxOWV1ZURMM1FUVkhDczhPSGlleGUzYU5ndlNKUXYwcHVyY0RkdW9EcFNGWkJzLWNRd295NHVob24xTURNenBtMGVvbFRR?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "한국",
+      "count": 13
+    },
+    {
+      "word": "중국",
+      "count": 11
+    },
+    {
+      "word": "삼성전자",
+      "count": 9
+    },
+    {
+      "word": "부동산pf",
+      "count": 8
+    },
+    {
+      "word": "하반기",
+      "count": 7
+    },
+    {
+      "word": "정부",
+      "count": 7
+    },
+    {
+      "word": "최대",
+      "count": 7
+    },
+    {
+      "word": "시장",
+      "count": 6
+    },
+    {
+      "word": "부진",
+      "count": 6
+    },
+    {
+      "word": "미국",
+      "count": 6
+    },
+    {
+      "word": "기준금리",
+      "count": 5
+    },
+    {
+      "word": "하락",
+      "count": 5
+    },
+    {
+      "word": "AI",
+      "count": 5
+    },
+    {
+      "word": "주가",
+      "count": 5
+    },
+    {
+      "word": "상반기",
+      "count": 5
+    },
+    {
+      "word": "한은",
+      "count": 4
+    },
+    {
+      "word": "어떻게",
+      "count": 4
+    },
+    {
+      "word": "북한",
+      "count": 4
+    },
+    {
+      "word": "사회연대경제",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "투자",
+      "count": 4
+    },
+    {
+      "word": "일본",
+      "count": 4
+    },
+    {
+      "word": "정책",
+      "count": 4
+    },
+    {
+      "word": "종부세",
+      "count": 4
+    },
+    {
+      "word": "역대",
+      "count": 4
+    },
+    {
+      "word": "위기",
+      "count": 4
+    },
+    {
+      "word": "주식",
+      "count": 4
+    },
+    {
+      "word": "영업익",
+      "count": 4
+    },
+    {
+      "word": "지금",
+      "count": 3
+    },
+    {
+      "word": "안정",
+      "count": 3
+    },
+    {
+      "word": "인하",
+      "count": 3
+    },
+    {
+      "word": "얼마나",
+      "count": 3
+    },
+    {
+      "word": "달러",
+      "count": 3
+    },
+    {
+      "word": "작년",
+      "count": 3
+    },
+    {
+      "word": "성장",
+      "count": 3
+    },
+    {
+      "word": "상승",
+      "count": 3
+    },
+    {
+      "word": "경제자유구역",
+      "count": 3
+    },
+    {
+      "word": "대출",
+      "count": 3
+    },
+    {
+      "word": "협력",
+      "count": 3
+    },
+    {
+      "word": "VS",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "07.03",
+      "event": "'은행계' NH저축은행도 '부동산' 리스크에 신용등급 하락"
+    },
+    {
+      "date": "07.31",
+      "event": "임기 마친 김주현 금융위원장 “우리 경제 불확실성 도처에 깔려”"
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "month": "2025-10",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:18.982Z",
+  "articleCount": 208,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-10#t0",
+      "title": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GbHMtU3ByRVUxR0p4NHRyUWRHVXhsc3FBaEtFYU0xOVNpdGo2LV9iS3VRaXdMREhKZlp6VUR3MkkwcEFKY3pmT3dLRk1NRE9JcjZzWnhncTNtSmIybDFxTF8xNklVdm5mdXhIU1dJX0Q?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-10-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주당, 혁신당 ‘조희대 탄핵소추안’ 공개에 “입장 다르다” 선긋기",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44NGt3V0MzRUVrdkNwS29vY29OVEFrSVVqQml5aTZLOTZZVnVVWHo2X0hKMGxhaUNrckhDaFFidEUzUzR0b2ZjT3pTZmx3Tkp1Rm5qWWQzMmhId9IBX0FVX3lxTE8wWWFEWWprMTdDbG0tVHNFNU8wSmlyeVhIdWZ5NHA0dW5reEtzZHItdnA5RXQySnRMN2ZBdU9oMXpGczZKYWFqTS11WXlaRnBQN1d2Q191QWlUVXpneUQ0?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-10-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "조국혁신당, 조희대 대법원장 탄핵소추안 공개",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TNEdTLTNrRzhFaGhvZXdJZ3BiVGY2anBuMVBvcHZZMDlwenZsQ2p6QnhZbFRTZl9Nd205MzBKQ0Y0R3ZKamJwN3l1b2U5ckdFaTJvbzRaU2t3TXg5RnRmTEY0NzRsWmtRZHlhMHdGVXQ5UQ?oc=5",
+          "source": "굿모닝충청",
+          "publishedAt": "2025-10-17T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t1",
+      "title": "김건희특검 새 특검보에 ‘판사 출신’ 박노수·김경호 변호사",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "김건희 특검, 수사팀 재편...새 특검보에 판사 출신 박노수·김경호 변호사",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DeUNyR0Zac1JYY1VBOHR3Q1puNkVWVWJlZ0huZWhQeGZCekw0U3NSbTJCMEhUanJPcE95RDNBS0tTTWM2TE0xTkQxdkNOdkExaEo3Q1pyZXo3WlAxMlB3TVlkYUVzYU85MDRrMnBR0gFyQVVfeXFMT1R5X2kwQmhQT19qX0dHUHFVcnB4VkhDZTc0SHZKeEFZamlpV19wSjF4amFIQ3lucEl1MUs0MndPdl9yWTFmZEppdko0dF81R0g3VGlEclpoRnp3djVYRFVaSi1YRmZuYkd3MHpoWTZpYmhn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-10-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김건희특검 새 특검보에 ‘판사 출신’ 박노수·김경호 변호사",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdndBWklpSjlzM0paZW9Bb1B6WEM4RjRnSHJCbUpZYVExQm1OQ1pZaUZwLVc1b0UyUkpKalRCbU9QQjVIYUtwUUIyR3pha3N0WHBxdERnWTFBZGs?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-10-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김건희특검 새 특검보에 박노수·김경호…검사 2명 파견해제",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YWndKR2hrVWpBb0p2UkhIN3BKNkVHM1lKTFIySHVZZzYyTm9oZlowRjJwSUpwUHJOLW1QekNXMXpOQ013UFhHNnMtU2k0S2VfOG4teFk4QTd0NG4zUXZEbk9vZ3lQVzg?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-10-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t2",
+      "title": "국회 주도 ‘사회적 대화 기구’ 출범…민주노총 26년만에 복귀",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "국회, 노사 손잡고 ‘국회 사회적 대화기구’ 출범",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUempSZl8tcDNLRnhjTDkwR1FybWhVbFoyN0Q1SGE4Z2x0b29jME5JV19BVTlEQWxXekZ0NWs2NWdsRHFBU21XbW8wT2FyUHNubnlEQnFjMnZsb3RyQVJGcmJBOVFkeThQazhiTExjZw?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2025-10-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회 주도 ‘사회적 대화 기구’ 출범…민주노총 26년만에 복귀",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XY2hlUEh0Y2FxQmEwcG9tYm9IQTVaejQ3VTVNZU1WZ1VLR1o2ZE1jRVNvZ0J1QTVudDk1d0dKQWNnQ2k0MGpCa3ZiZFFTNm9LY2dfZ1hB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-10-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주노총 26년 만에 참여 ‘국회 사회적대화기구’ 15일 출범",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YQU1pcW8zWFQwM01WN25yUE5LMmxwa3Bwb0Q4OF9raXFsWG1vOWdJaVZCWXFUcnpzd2VnbENFVzZaQzZJY2M0YlVzVlpSMWJQeTNQUHVlLU40T1A1S0kyNnFWN1I?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-10-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t3",
+      "title": "日다카이치, 첫 국회 연설서 \"韓정상과 대화해 관계강화 모색\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "日다카이치, 첫 국회 연설서 \"韓정상과 대화해 관계강화 모색\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15SXc5bVZ0QnFkSFp3a0pwakJyMmtjc2lBbzJKcXkzNHJiSlVtbXhkLUI3SVdvRlFVOU8xa2RjeEVVY01oOWpIMHFndWFCcUFYSVp2b1BrS1hZSEnSAWBBVV95cUxOWThZMmpsY2lVS2NvYmY3bTBTNURHbkdSYmhJYW03bURzRUtNN2pUNzZ5TzhvTnhIbkZRckNhSExDN0x3WHhsZV85NUY5djVhTUJXMi1ON21SdzMwQVZaRzQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-10-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "다카이치 “한국 중요한 이웃” 국회 연설…“정상 간 대화 통해 관계 강화 모색할 것”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IcFB4WlZJdGVKRnowYnR2bXRCcDRKMTNDMlRWcFF1VWZMRVcxZGFNc0RENnd3d0xBRy1Bd2tBV3dOa2ljR0FVVWFvVS1VOTE2Y3JEWXFn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-10-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t4",
+      "title": "이종섭·임성근 등 7명 구속심사...시험대 오른 특검",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이종섭·임성근 등 7명 구속심사...시험대 오른 특검",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pdlg5cU9Kbm5obDVZUjF5LUdPbnNTVjVMZndyOElhUXFPdnlQUzQyVjl4cnhYZ2oxTDhCTkFIbGo1LUhnSGk2VGlxNm41aHpDUDNHcFZqSXJleWI4a2ZGVTJHR0xMWU8zeU1pVGx0VQ?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-10-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘채상병 사건 피의자’ 이종섭·임성근 등 7명 구속기로…‘특검 수사 가늠자’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2Zm5kNGpMZ0FvYmV4Nmpmb3FqTzlScVc4SVo3QUhtOWlhQWhXV1Zma0NCbkFQT1ZLUlVoYXdLM3FpUHlsSGw3S0w1aWt0WW9fS0xkWXhHcE5HZ9IBX0FVX3lxTFBzdUtjYVEtellfYWU4NmpvengwWEx3OWk1TGxsSmVVa3UwOXZTdlIwMjRpN0JvRzBVNVdPSG02anpDWVREUHE5SU1XQXV6X0F3WTc1WkZVem5zYUNhNDFv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-10-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t5",
+      "title": "내란 특검, 노상원 전 정보사령관 '내란목적살인 예비음모' 입건",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "내란 특검, 노상원 전 정보사령관 '내란목적살인 예비음모' 입건",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wODNqMmZ1TzRLSEFQdWRMTUhnblFKU0lqb1lWSEE5bHI1Q3JQeGFFVnpBOHg3WmNlYVNXd2tRSFpzZk1ZSWJfWlNlZzY0N0phNnJFSF9LR0FGN2dIWFRKN0hCMnBNSkhaMDlhcU930gFyQVVfeXFMTzc0UElfLThXWjY0Szg1eUNFOGhfYkpaZ1pwd0prVmZvV0lSTnQwUEZBa253d0Zyb0Vma2tsZGdQYUIzX1BtWGlGX1p2ZThGaVdDS0V3QXB1RnNjYTI2QlNDWFBZM1JNMnBuekIyZXdrVEdB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-10-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내란 특검, 노상원 ‘내란목적살인 예비’ 피의자 전환",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0cWU1ZXFMZlkwMzczSzVheUZNbEQ2TENZWGZjcHhOaEVZcDdwOEJpQ0R2ZE1GaGxOYzFxbC04VkRLQXpnODhicEJJRWlycnE0b0V3aXd6Vmd1QdIBX0FVX3lxTE4ycG82WFdWTEMwZDVvcEk1Z3owd0hUXzI1V1lrVW56WWpSakV4cXFHeHgxZ19VMXFKQTRaQmJqMnhaa2JrNTJsWWc4YzNWekxsVjktNEFydnZkRi12OWRF?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-10-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t6",
+      "title": "정성호 \"국민의힘 위헌 정당 해산 청구, 결과 나오면 검토\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "정성호 \"국민의힘 위헌 정당 해산 청구, 결과 나오면 검토\"",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XSFV1T1k4T0djelhwaG5TQlQ1S0tPMzZhUkY0QjBScE5BbDUwRFdwRUZzSldMR05ZRTJadkdKRkZZc1hNMnZ3MnVNa3kwb3lBNTdoSGhR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-10-14T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정성호 “수사 결과 따라 국힘 위헌정당 해산 청구 검토 가능”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iaWczNVVVemVoZURSazRzb1hNc3lGSW5MQWpGMG9Sc0R6eGRkUWh2RzlEd2tMOC1acTBIbTNQMEdEYTh1VWxjSklJVl8tbGhnR2pxZkRLX1VvQ1RZYUpnM0ExRXRBMHlMeHhJQm5MVFI3UQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-10-14T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-10#t7",
+      "title": "마다가스카르 의회, 대통령 탄핵 의결…군 “권력 장악” 선언",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "마다가스카르 의회, 대통령 탄핵 의결…군 “권력 장악” 선언",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRk5HLTFNRjRXVER1NjQ2NlFQNmswa3NyX3BmcmlIRHcyQlZJRnhnYS15Q2F1clpzLVlxMWN5OFZVbUtzcUx0Qi1YcldlSjZOQ2VMSlBuQmlISXBCXzFOTXdPbXRnM1k4bDFmQ1lkRXVVMlE?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-10-14T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "마다가스카르 의회, 대통령 탄핵 의결",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BMlJDc2FoNFVjWDFhb2xPS3Vfc25VQ2JaaGtoTGFPMzlETS1INElJLXhNM1FfdTNXXzFWbUV5dHpuc3lNZ2tjWVdlclNmeHRHblU4eDJR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-10-14T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 14
+    },
+    {
+      "word": "국감",
+      "count": 14
+    },
+    {
+      "word": "김건희",
+      "count": 12
+    },
+    {
+      "word": "조희대",
+      "count": 9
+    },
+    {
+      "word": "공개",
+      "count": 9
+    },
+    {
+      "word": "의혹",
+      "count": 8
+    },
+    {
+      "word": "조사",
+      "count": 8
+    },
+    {
+      "word": "민중기",
+      "count": 7
+    },
+    {
+      "word": "수사",
+      "count": 6
+    },
+    {
+      "word": "내란",
+      "count": 6
+    },
+    {
+      "word": "소환",
+      "count": 6
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "국회서",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "통과",
+      "count": 5
+    },
+    {
+      "word": "김현지",
+      "count": 5
+    },
+    {
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "탄핵소추안",
+      "count": 5
+    },
+    {
+      "word": "김건희특검",
+      "count": 5
+    },
+    {
+      "word": "지지율",
+      "count": 4
+    },
+    {
+      "word": "지방선거",
+      "count": 4
+    },
+    {
+      "word": "국민",
+      "count": 4
+    },
+    {
+      "word": "대화",
+      "count": 4
+    },
+    {
+      "word": "부산",
+      "count": 4
+    },
+    {
+      "word": "구성",
+      "count": 4
+    },
+    {
+      "word": "투자",
+      "count": 4
+    },
+    {
+      "word": "권력",
+      "count": 4
+    },
+    {
+      "word": "검사",
+      "count": 4
+    },
+    {
+      "word": "추경호",
+      "count": 4
+    },
+    {
+      "word": "이종섭",
+      "count": 4
+    },
+    {
+      "word": "출범",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "개선",
+      "count": 3
+    },
+    {
+      "word": "정성호",
+      "count": 3
+    },
+    {
+      "word": "해산",
+      "count": 3
+    },
+    {
+      "word": "청구",
+      "count": 3
+    },
+    {
+      "word": "결과",
+      "count": 3
+    },
+    {
+      "word": "다카이치",
+      "count": 3
+    },
+    {
+      "word": "정상",
+      "count": 3
+    },
+    {
+      "word": "출석",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "10.15",
+      "event": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개"
+    },
+    {
+      "date": "10.20",
+      "event": "내란 특검, 노상원 전 정보사령관 '내란목적살인 예비음모' 입건"
+    },
+    {
+      "date": "10.23",
+      "event": "이종섭·임성근 등 7명 구속심사...시험대 오른 특검"
+    },
+    {
+      "date": "10.24",
+      "event": "日다카이치, 첫 국회 연설서 \"韓정상과 대화해 관계강화 모색\""
+    },
+    {
+      "date": "10.26",
+      "event": "김건희특검 새 특검보에 ‘판사 출신’ 박노수·김경호 변호사"
+    }
+  ]
+}

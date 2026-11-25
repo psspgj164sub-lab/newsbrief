@@ -1,0 +1,386 @@
+{
+  "month": "2026-05",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:20.096Z",
+  "articleCount": 135,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-05#t0",
+      "title": "이재명 한국 정부 첫 통일백서 “남북 두 국가 현실 인정”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "이재명 한국 정부 첫 통일백서 “남북 두 국가 현실 인정”",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xX1dpS1RmMmZITnQ0RHo2dUZUWjJ3MjdDaG9NazNqS21LOVJNSjFaRU5xakRteWp6eU5tSTF0dHNzMk41ZEFjZVp0LW14UWdY0gFTQVVfeXFMTkFiYlFBRHpmdmpUT2NnaHp0M21VRnlSekZkbHp3d3IwWGZldGk2WGZSNHJESjdZazV2ZkdMUi1fVUlzcnpaSy16T0Y5YkRDSXkzbWc?oc=5",
+          "source": "VOA 한국어 홈페이지",
+          "publishedAt": "2026-05-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘평화적 두 국가’ 명시한 이재명 정부 첫 통일백서…“북한 국가 인정은 아냐”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZHB1dnZ1amVYVDVBeXp5SDlNMGNQYVNGUG5wcDRqN1lEbUtEcy1UcFN1YjJSVmZPc25mdU9IcFppSXVVOE1obXNzdFBjRVhweGtweU96TE5oVlFXajB4allwb1ZiTFJHNHllTjVWakpJZGND?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-05-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘평화공존’ 앞세운 李정부 첫 통일백서…“남북, 사실상 두 국가”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbGxYX196b3FWVmVwbTNEWHRmd01nU3d5dEFKSkNKYlA4ZHpZWVZXQ0JhSG51bGViVEo1ckp3cWE0a29zQ1luU3U3dGVVckJ4UlNGS2d3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-05-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t1",
+      "title": "오늘 남북 여자 축구 대결…KBS 1TV 생중계",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "오늘 남북 여자 축구 대결…KBS 1TV 생중계",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51WDkwTkVrdlZ5TnI2UkpRTW1Sc0lCRERDYzRyejlwU3JKQkxad0JxYnZMb3RVYzFRcXQ3TGpPOC04dW01djluM0t5c2hYeFhpUXAxNGI5cjc2SGs?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-05-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "수원FC vs 내고향, 역사적인 여자축구 남북 대결…KBS 1TV 생중계",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LUFpBVHpIdWNxejd6NnJnRkp4MTJ1d29RQ3RZVzBfMFNVSlJOMWpyMjlLVldtcE1leGdyZDladHY4M2otUld0VzFEM1NvS1hLb1NBaEQ2RF91RGM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-05-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내일 ‘남북 여자축구’ 맞대결…KBS 생중계",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95UXdIWFhLd3JtSFVTM0Y2Y2ZJNHppSjFaZDRLVm9zbDk3aDhfakF5dXg1SExUblBBVTFKQ0M5R3M5Q3p5M1d6SVVaenJtVEtmelNXYkNuZThocEU?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-05-19T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t2",
+      "title": "북한 거쳐온 싱가포르 외교 “두 국가론, 현장에서 체험”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "북한 거쳐온 싱가포르 외교 “두 국가론, 현장에서 체험”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcGJjTzRrYllVVFEzVkpZTENIdWNNbHZTMUdkLXBHVGRFWFloQmd0YTlCMk1EVjdVZ2lwdUp6MGZIV2dIUjhtanNoZ25nTUlyeXNVcERrVEdaUdIBX0FVX3lxTE9QTVpzcGd1bnctdXE4OXJfMFVIS2sxbDVNaUpIRXkyUnZLNEswbVJsbU42VEtFazVDcXJ2UUtuWnJDbXdob1VnRldfblhFLWplclZLcG55ZE53WU9hYmpv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "싱가포르 외교장관, 북한 들러 “두 국가론 체험했다”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuRGp0d1o0WGdDVDF0WFBNMlFhdFJ1U2d5SGpITE5pd3c0Yk10WjlYQ241Y3hLaFBCWUk1MzExMVgzSjI5YTIyZkZTWE81WURidmE5Y2c1dWNIQdIBX0FVX3lxTFBwVTB3RnVWVE44QTNacEZTNlRNdFhhSDhkQkRiYkxlaFRiSEpaNnFSSmlBOVFkc29wWGQ4VkROS2tLR2xEdmZWTmxWbnBQNGMzNUxueTdhQWZhX05tU3FN?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-05-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t3",
+      "title": "서울서 북한 억류 한국인 선교사 석방 촉구 행사",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "서울서 북한 억류 한국인 선교사 석방 촉구 행사",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Sd0lTYU1ZSFdaZVdJSHh0QVpGSFJ4WWFUWDJySmYwU0dyeG5TNzJVTnZiSEFYYVlkSEpuX0pvUEd6aGlMNnpmNXRkRlhPSHp30gFTQVVfeXFMTU1lTUFDVkpUYnJBTnFkZnRJWmJXSE14MzVMYnowYWxXX0hUQnAyVTVEcVpJdW52b2xjcUkxNWc0cUwtc3VMcE44LWs5OU9IVDRJU1U?oc=5",
+          "source": "VOA 한국어 홈페이지",
+          "publishedAt": "2026-05-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 억류 한국인 선교사 3명, 8월 국제 인권상 수상",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3V0Z0xSWnNBSjBPODFuUlJZMHN0SDEzMWVZbTRyLTNET1czdlhKTjJ3MWxGd1NxY0ZlRjFnRUFZRlY3V1ZlZGFBZWxLeWtUVnMtaHFPZzZuemtkczVDRGRvNGVveXhCa0gydldPbzNJb1F4clBieEpoNEZLM0VrdjMwc3ZSYmdFYVYwNEJPVmNIZWVZSGpva2Y1czlOMlQ3a2hhZTk3Zk5GNGFPQ24yUEV5Qm93T1otWERTZ3hpUzdsOFFUWFhEYXpnV3NjdXNNZnNiTC1uYVotdUFOVzJUME92cHnSAecBQVVfeXFMTldabk14Xzg1UXNjZi0zLUxtMHpIbFRRNFFWVV96VkZ3Wm0yclptRnRLclNtZnQtb0ExMldHckNIcmltQ1NjU1hTWXRjWm5QcHhUNW84bXdxdWdoZ3pRLUR1cFppQnk1SlNNUGZLSjg0bFUzRThqU2tpZEpNaW05ZHF0NjFKVFdBb2hxTHRpY013LUNzQkdOQTc5bEREMkZleFBCQUFXelYtdU80dmtLN0JMSk1iQkIyWWp3NnpUYVFuZ2k3dUhzQ3ZFOGRpT0F3V2xCSExZcVpkZ3ZhQ0xZTkVzUjU4X1Aw?oc=5",
+          "source": "VOA 한국어 홈페이지",
+          "publishedAt": "2026-05-07T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t4",
+      "title": "유권자 46% “여당이 지방선거 이겨야”…33% “야당이 이겨야” [갤럽]",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "유권자 46% “여당이 지방선거 이겨야”…33% “야당이 이겨야” [갤럽]",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sNHA3b2dqSG1CNUYxRFBuLXdaajJXWGI0RURnOFRXMTFQTmJVZUplV3RfbzdBRGprUm5id0hRR2J6TlZrcFFMMVh2MlpiYXJfbkx1OFRjMFhtazBIZjhaQTB3Y3paZEVoVEZXbDFMOUdrTER1?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-05-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "줄어드는 격차…‘여당 이겨야’ 44% ‘야당 이겨야’ 33% [갤럽]",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tbmZjWFFzRVpFZWVQTUtzZUN0c3dScWk2elNrOW5XUy10RkpSeFktMFh4YVpDTVVQYjVvUWd2ZnN2MEFqN1h2X19Bb2VRcW8tOHpPM1haa2xack0xN0hwckhEMzRjQS10cW9HZ0M2aHdjbFZC?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-05-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t5",
+      "title": "'북한판 K9 자주포' 대남 배치…수도권 사정권",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'북한판 K9 자주포' 대남 배치…수도권 사정권",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GQ3ZlZWVqM0dBNlV0YjRsQVg3dHlGNlFoR242YldYWjJ6RVhabmpSNHBkZ1lvNmFxaDZLUm8wRGptU3dMMnBhMmx1dUxaSUZzcUE5NlVieEVkbXfSAWBBVV95cUxNUXFlVGRCejNOUXBSQWRmZlFGTnFJWDVGLWtqTzgwSTgyaUZpS05GckhHdzBrNTI0ZDBTa0ZvZ3BTM280cUZ0MWs4MFZ3N1k2SGdmTmVlTUFqOVUzeDdjT0E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-05-08T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'북한판 K9 자주포' 등장…수도권 겨냥 장사정포 위협 커지나",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xOUo2UmlGN2M4VnBlUnJlM3M2UlhuWkN3RUVNRDg3ZGdJMUVzNWJCc3lXZi1IclJmTF90WGV2cVhxVl83bDctV3JtMHBhb01NczBPVWw2Qk5mT0nSAWBBVV95cUxNclFvYk5qM2NicVh0TG5VYmhKRHVsN1l2SXo0bzRsWEdmQWVxNjVOR3hrazVaWjZhdHlfZUNEN2FKQmRndk5NaTZBMDFzQVhBRi1sX3hFTlQwOU5oNWFjV1c?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-05-08T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t6",
+      "title": "\"다른 선택지도 있습니다\"‥사각지대 파고든 서울 군소 후보들 하루 [국회M부스]",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "\"다른 선택지도 있습니다\"‥사각지대 파고든 서울 군소 후보들 하루 [국회M부스]",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xOUEyRV9vRXQzSlJCcUs5Zm5TWlJJRk1QX082SWRHVXFmaFpBUEdBd2ZlWmZXaVp0d3EwXzZnYTV5UGt3MDFyRmd0NHRHdG90VmtEeTNReFlmOFZna1BkMlBlaEFFN0JKU0dOTUxYdnpONmc?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-05#t7",
+      "title": "③ 역대급 강한 여당…지선 뒤 당청관계 시험대",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "③ 역대급 강한 여당…지선 뒤 당청관계 시험대",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PM1F5dE1JTEVZOXJMQTFGVXRXdXA3WUVwYlpNUmtlVkxyM01jT3Vjc25jR0ZXbFU5RWVha09McUtHclpUZDJwNlk1bzFtNUFDUUkyMUVSMFlvcnfSAWBBVV95cUxPalRQOTh1ZU12MUdfX1Y0d3h6RUJ5WlVHUUJSb2RmYXZOTHdPUEM5OEhVRkpULVp4SGk1Wi16Q2ZnZ2ZZWTZsWmRoMlVwVlh5dHp6U3V1UHM1UmxGVl9XTHg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "한국",
+      "count": 10
+    },
+    {
+      "word": "국가",
+      "count": 9
+    },
+    {
+      "word": "헌법",
+      "count": 8
+    },
+    {
+      "word": "정부",
+      "count": 6
+    },
+    {
+      "word": "국가론",
+      "count": 6
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "AI",
+      "count": 5
+    },
+    {
+      "word": "김정",
+      "count": 5
+    },
+    {
+      "word": "통일",
+      "count": 5
+    },
+    {
+      "word": "외교장관",
+      "count": 5
+    },
+    {
+      "word": "여자축구",
+      "count": 5
+    },
+    {
+      "word": "통일백서",
+      "count": 4
+    },
+    {
+      "word": "방남",
+      "count": 4
+    },
+    {
+      "word": "맞대결",
+      "count": 4
+    },
+    {
+      "word": "싱가포르",
+      "count": 4
+    },
+    {
+      "word": "대결",
+      "count": 4
+    },
+    {
+      "word": "여자",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "북한판",
+      "count": 4
+    },
+    {
+      "word": "기대",
+      "count": 3
+    },
+    {
+      "word": "현실",
+      "count": 3
+    },
+    {
+      "word": "조국",
+      "count": 3
+    },
+    {
+      "word": "개헌안",
+      "count": 3
+    },
+    {
+      "word": "무산",
+      "count": 3
+    },
+    {
+      "word": "민주당",
+      "count": 3
+    },
+    {
+      "word": "승리",
+      "count": 3
+    },
+    {
+      "word": "서울서",
+      "count": 3
+    },
+    {
+      "word": "지선",
+      "count": 3
+    },
+    {
+      "word": "지방선거",
+      "count": 3
+    },
+    {
+      "word": "조작기소",
+      "count": 3
+    },
+    {
+      "word": "국민",
+      "count": 3
+    },
+    {
+      "word": "통제",
+      "count": 3
+    },
+    {
+      "word": "아냐",
+      "count": 3
+    },
+    {
+      "word": "국정원",
+      "count": 3
+    },
+    {
+      "word": "가상자산",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "남북관계",
+      "count": 3
+    },
+    {
+      "word": "응원",
+      "count": 3
+    },
+    {
+      "word": "관계",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.08",
+      "event": "'북한판 K9 자주포' 대남 배치…수도권 사정권"
+    },
+    {
+      "date": "05.15",
+      "event": "유권자 46% “여당이 지방선거 이겨야”…33% “야당이 이겨야” [갤럽]"
+    },
+    {
+      "date": "05.18",
+      "event": "이재명 한국 정부 첫 통일백서 “남북 두 국가 현실 인정”"
+    },
+    {
+      "date": "05.19",
+      "event": "오늘 남북 여자 축구 대결…KBS 1TV 생중계"
+    },
+    {
+      "date": "05.28",
+      "event": "북한 거쳐온 싱가포르 외교 “두 국가론, 현장에서 체험”"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "period": "mid",
+  "periodLabel": "중기 · 최근 6개월",
+  "category": "society",
+  "categoryLabel": "사회",
+  "range": {
+    "from": "2026-06",
+    "to": "2026-11"
+  },
+  "coverage": {
+    "monthsAvailable": 6,
+    "monthsTotal": 6
+  },
+  "updatedAt": "2026-11-25T05:39:40.205Z",
+  "trends": {
+    "months": [
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ],
+    "unit": "기사 100건당 언급",
+    "series": [
+      {
+        "word": "사망",
+        "values": [
+          4.3,
+          2.7,
+          2.7,
+          2.4,
+          7.7,
+          2.5
+        ]
+      },
+      {
+        "word": "AI",
+        "values": [
+          2.9,
+          1.6,
+          7.3,
+          0,
+          4.2,
+          3.9
+        ]
+      },
+      {
+        "word": "수사",
+        "values": [
+          2.9,
+          3.3,
+          2,
+          2.4,
+          2.4,
+          3.9
+        ]
+      },
+      {
+        "word": "배상",
+        "values": [
+          2.4,
+          2.7,
+          0,
+          10.6,
+          0,
+          0
+        ]
+      },
+      {
+        "word": "판결문",
+        "values": [
+          6.3,
+          0,
+          0,
+          4.7,
+          0,
+          0
+        ]
+      },
+      {
+        "word": "대통령",
+        "values": [
+          0,
+          2.7,
+          0,
+          1.8,
+          2.4,
+          2.8
+        ]
+      },
+      {
+        "word": "취소",
+        "values": [
+          4.3,
+          2.2,
+          0,
+          0,
+          0,
+          2.5
+        ]
+      },
+      {
+        "word": "의혹",
+        "values": [
+          0,
+          0,
+          2,
+          3.5,
+          0,
+          2.8
+        ]
+      }
+    ],
+    "rising": [
+      {
+        "word": "한덕수",
+        "change": null
+      },
+      {
+        "word": "탄핵",
+        "change": null
+      },
+      {
+        "word": "조사",
+        "change": null
+      },
+      {
+        "word": "조희대",
+        "change": null
+      },
+      {
+        "word": "AI",
+        "change": 77
+      },
+      {
+        "word": "대통령",
+        "change": 90
+      }
+    ],
+    "falling": [
+      {
+        "word": "최태원",
+        "change": -100
+      },
+      {
+        "word": "노소영",
+        "change": -100
+      },
+      {
+        "word": "판결문",
+        "change": -100
+      },
+      {
+        "word": "배상",
+        "change": -100
+      }
+    ]
+  },
+  "stats": {
+    "articles": 1160
+  },
+  "ai": false,
+  "headline": "최근 6개월 사회: 「법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"」",
+  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,160건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 한덕수, 탄핵, 조사, 조희대 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
+  "keyPoints": [],
+  "issues": [
+    {
+      "title": "법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"",
+      "span": "2026.07",
+      "monthCount": 1,
+      "articleCount": 11,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"",
+          "source": "2026.07"
+        },
+        {
+          "title": "최태원·노소영 ’세기의 재산분할’ 선고…이시각 법원",
+          "source": "2026.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "법원 \"최태원, 노소영에 9440억원 재산 분할\"...이자만 하루 1.3억원",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDZIUjVLNUs0TldKa3NlV0VpWVU1RE1nMG5XNGxlaDFWTHZ0b2dxSzFZcndfNnRUMEVINExBdFUzSmZzN0Rmd1hoTGhvMTVHZ2ppLXhLb1NMcFdncms2TVNuVXlRUklFWVUtQXVYQmZKNzVSc29uVXVQSndqNnVqaUI4WWRhcm8?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-07-25T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최태원·노소영 ’세기의 재산분할’ 선고…이시각 법원",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82dWV5S1Z6OHNjYmRtUzVpaWJXWDNnT2dsNzJldWVHc2xodWZiVzV1QWV5bkV0MW9PcXoxOFlTMTNKRm5SRzRJNmFsQU04eGVlME9GUXhtLXM2amU0Ni1xQkkxcDFIRVk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-07-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "법원, 정유미 검사장 ’강등’ 인사처분 취소 판결",
+      "span": "2026.06",
+      "monthCount": 1,
+      "articleCount": 9,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "법원, 정유미 검사장 ’강등’ 인사처분 취소 판결",
+          "source": "2026.06"
+        },
+        {
+          "title": "법무부, ‘대장동 항소 포기 비판’ 정유미 검사 인사 취소 판결에 항소",
+          "source": "2026.06"
+        }
+      ],
+      "articles": [
+        {
+          "title": "법원, 정유미 검사 ‘강등’ 인사처분 취소 판결…“자발적 사직 유도로 보여”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQY19vRjFnOG83UUs1cUxoa08yZ2c3WjJ5NjBJZWlNM3pLQnhOUEFsR09Ndk5RYmxtQTVHWHFZS1VGU3p6R2plOEpGOXpJUDd5V0Z5NzlyT253QdIBX0FVX3lxTE9nd0tTa0VJeEFVZDZwOGl4NUJ0TU13MktYNWkzUThKRmlIOElmVWRoM0NHem9hdTZ2b2RVdks2aG1qUUdkaUJyb2xzNjJON1pBeWtOYVltN3ljT1VtNzJ3?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-06-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법무부, 정유미 검사장 강등 취소 1심 판결에 항소",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ya18wd2pQemhvMF9HR1VWWVVUTjF2bUtrbmhOd0UxQl9hZmtXcW1NNlR5SVdjXzU1ME12QnFUOXZJUW03TEFvanBFY24zR3JLaGtzZEFJczNYWXJOdkZHV25CbTd4MGVlSzR4WEVR0gFyQVVfeXFMTkVMSFVCY1RoRGl2STlqUFZEZEVWR2MwT3VQRWo0LTJKSFRwaXU2aWQ2cmMzTmlLZnlkN3pfVXVVMjI0eGkxejJQbm1POVJtX0ZlOHJuYk5wUzNXUk56SDJyZW41VlJwZ2R3VDBmZ25rM1dR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-06-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 8,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "민주 “조희대 탄핵 사유, 판결 내용 아닌 절차 위반 문제”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZ1dOSThrdlQwZFpJVTN1VzROV2ZqZno3dXRrSXUtQnV4eDRidjNTRHpRX0Q4S091QUNpQW13R0lLbHREWGdXc1NBOGR4NElma3c0ZlFmWEM5TkRPaG91RDFNTjFXM3VsSnc?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-22T23:57:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "법원 “연락사무소 폭파한 북한, 한국에 446억 배상하라”",
+      "span": "2026.09",
+      "monthCount": 1,
+      "articleCount": 7,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "법원 “연락사무소 폭파한 북한, 한국에 446억 배상하라”",
+          "source": "2026.09"
+        }
+      ],
+      "articles": [
+        {
+          "title": "\"연락사무소 폭파한 북, 446억 배상\" 법원 판결 집행은",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45dWlNbzVmNl9WM1lyWThRVlNUcjBtd0ZnMkxzODNoVHNwU2d2aWxZcnZ4eEVDbXE1MWNncHpDVkRRam5ZQkY5d0JwcTBZX0ZiOFpoVjFleTJtRTg5eEpac1p0THRPZGVETkHSAWZBVV95cUxOMTlFUEY2Vk5TdTdSTmcweVlwd2d1UkhHdUxJQ0JaR3pkeFpBTE04RFJaSmxQdmhtVkVYWE84Ni13X0lfU1ZNTFdxVGRaWjlRNW9HNVZaZjFIZXJCLV96ODAwS2FESGc?oc=5",
+          "source": "SBS 뉴스",
+          "publishedAt": "2026-09-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "공소청, ’장윤기 사건’ 부실 수사 경찰 팀장에 징역 3년 구형",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 5,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "공소청, ’장윤기 사건’ 부실 수사 경찰 팀장에 징역 3년 구형",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "‘장윤기 부실 수사’ 경찰 수사팀장, 공소청 ‘징역 3년’ 구형",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HZkpfVEZSQnJON1h2VkhqWFV2bXFtU0I3THZSNGlBWGZsRm9TVGl2eUhQbmI3d2ZudXhfc1JmZ3dBZGZOWk92XzlWeXVHelREWWM1YmtuZUpVd9IBX0FVX3lxTE5FM0ktb0xMQTZBajRZM2JRRnU2UEQzTnlsZFF6RXZWbmRPTjBpb29IWl96VkYzcy16aUU2c0tZSGhzQWdNT01mTDVVRTVmQWRXY3psa2RTT0pKMG54cUpz?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-25T05:29:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "술집서 합석 거절당하자 강제추행 의혹…현직 경찰 내사",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 4,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "술집서 합석 거절당하자 강제추행 의혹…현직 경찰 내사",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "술집에서 합석 거부당하자 강제추행한 현직 경찰 조사 중",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XalpUVDFjVjVfRWhtRmVSYmFCMEwxUGo5WXhYeVowMld3dlYwbjEwb3lNWDFaekt5RkdaTTVzZFA0QzhuYTJXWUtkTTBfdkdvNGpNSkxwb0ZJRG8?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T04:39:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
+      "span": "2026.09",
+      "monthCount": 1,
+      "articleCount": 4,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
+          "source": "2026.09"
+        }
+      ],
+      "articles": [
+        {
+          "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RRUwxVmZpaFlDMFN1emszTzlKcUl5b2VqQl85QUdSUGxGVFg3YVJGaVRfS1RhRUlzc3VwNGY0LS1WTFlua1lTV3lrZXlaYlI4eDJuSi1fWmtJRTTSAWBBVV95cUxPZlFkRXQ5Rml2ZjNFRWFuU19Ca1lDUnBZbEFpTTRxQW9hbk1adzUxbFFEQjlWbFFocUphSEhWRzk5dFltcEUtXzlJZlMzbldXTkhmREttSTQ1S0diSDF0V3E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-17T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026.06",
+      "event": "법원, 정유미 검사장 ’강등’ 인사처분 취소 판결"
+    },
+    {
+      "date": "2026.07",
+      "event": "법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\""
+    },
+    {
+      "date": "2026.08",
+      "event": "경찰, 다음 달부터 '가족 사건' 수사 못 맡는다‥'상피제' 시행"
+    },
+    {
+      "date": "2026.09",
+      "event": "법원 “연락사무소 폭파한 북한, 한국에 446억 배상하라”"
+    },
+    {
+      "date": "2026.10",
+      "event": "역삼동 건물 2곳서 동시다발 화재...19명 부상"
+    },
+    {
+      "date": "2026.11",
+      "event": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\""
+    }
+  ],
+  "outlook": ""
+}

@@ -1,0 +1,414 @@
+{
+  "month": "2026-10",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:20.876Z",
+  "articleCount": 271,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-10#t0",
+      "title": "'선관위' 특검, 28일 올림픽공원서 투표지 검증",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 6,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "특검, 올림픽공원 현장 검증 돌입…“투표지 247만 장 검증”",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96SVFIc3JfOXdPdnBpaTJKS3o0Z05fc3dULUhoam5FVmFYUUtJUFA3MjhuVUg2dUNFVEh3c1hMLUdnRkd1VTIxVHRzZElIWTlwRThFMFZCQ2UwU2J4WWItcFd2dklLdw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "선관위 특검, ‘247만표 보관’ 올림픽공원 현장검증 종료",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Q3RyX3UxN1R5c010eGZjcEJhbnEwS0tvWXA3dnBLUEVERUN6c1ZqUVJLd3ZVQzhrd3AxdFRVSHlzY0RTNno2bFJaRE9QUy1wajBlbHpPOU11dzY5dlkxbjR2amlCTlBZdF9kNC1PYlNEQQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "선관위 특검, 첫 현장검증 위해 올림픽공원 진입",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xUEhFb01MNUFUaWhTM01oUDVWb2FDUmwwTTk3YmJ2RG9aMXNDc0RFOHVoNUVkS3ZSUjdWSjVrLVl6RXRma3l6MDgwZjV0VFhKdkt1NHY3eDBUcXdab2pIa1pRWEhobkFoQUJIekduOHFYaDFELWxv0gF3QVVfeXFMT1NNbWFjQzl0cFBzQkI5Yl94YWhFY0VwOC1LSmJobGZiLUY1WHczTnpseURlQUdhRGd2LTUyWHJsVE9EWDM5VjNMOENWUmFjNjd2WnItSFpFanQ2WmdGRVVmTFdGSmZtbnhQM01NWE1Zb2MzOHp0UFk?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t1",
+      "title": "특검, 尹 ’내란 우두머리’ 항소심도 사형 구형",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "특검, 윤석열 ‘내란 우두머리’ 2심도 사형 구형…“국민이 막은 내란, 감형 이유 안돼”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kdUZNRUdvZXR1RTgzNnhqd0JkTENibXJSSTRCN1RKLVdER3NucHBkdktWeFlRWVh2Z0IyaDQtemVqQnRGX28yeGsxTG43VzVMY0pJeXpManlRZ9IBX0FVX3lxTFBzRkFQcWs1OUZTbG56cFJDaTVFb2VOYklqcXpxLS15T1AyR0JIcXk3b0tzUjg2d3luc294WUFWOUxxU3JSaHdPQXFmaExFdHFyZkVFYlUxU1B0ZEFQTzFz?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "특검, 尹 ‘내란 우두머리’ 2심서도 사형 구형",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54alBfZHprdDdISndwYU52Mkt1dm16aDFBMlJjVzF1LXJSdVNHR3RxZzU2RTJVQVBhbkZ6LXJXaWJROHZ5akFwem11aWJ2UEZTX2FKcW1yczhWbDJpR254Q1NTUW1sWG1FaWhYaENn0gFyQVVfeXFMT2w3WGU0VUZxaWNhQjhyNkJBb2lxSFYzTFhIY3F6SFdyVHVob3hEcnpLMEVVQnFSeEFUcVJUSnRCXzZldGRkdmFncGFfbDE3aW5KalhPMElrUXI0eEZ5T3ZpUnlKeHZUVUpkT3NIU3dGUDdn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "특검, 尹 ’내란 우두머리’ 항소심도 사형 구형",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80Z3BjTkxrcUlUVGtGa2NMalpueUVDMlQ2bjhwcS1MdGdZcUYyR2VhSHJqZEF2VWFyRTZsanM1UVhIZFp2azB2OGk3cUxDWU1sY1o4bjlxSkR2MW0ycVNlOVVQb3lobzA?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t2",
+      "title": "이 대통령, 우원식 전 국회의장 초청해 오찬…\"통합 강조\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "이 대통령, 우원식 전 국회의장 오찬…\"통합 강조\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01VHhIT0trYURxZG1iVkdDc3pNa2VJXzFqcTUwYWItM1JvdUlZa0oxNzJOLTlyNWt5R2tGcEV0SkQyYTE3MVJta2R3eEphUmxiMHZvQ05raFd6bTluNWpiY3RGa1kzZ00?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "우원식 전 국회의장 초청 오찬",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdWtnVWs1ZFAzdm1VYjZxNm1MNTV0NTM0NnZNVUFGY1J0WFE4a1BOa2hPYXg1Z2ZrSWlmbG9yR0JBb3NqdGZRRDg0MC1ZSzFSd0R2Tk5ua2tTUHVjZ2ZZeHZLYw?oc=5",
+          "source": "대한민국 청와대",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "李대통령, 우원식 前국회의장 靑 초청 오찬…\"통합 중요성 강조\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdjlEQ1J2T20yejlublYxa0tyN01YVmpBaGkzNXRwMjFDMFR0c0ZBRHVMOG1YVl8xZXVyNGZvUDV3ZlQycUplTTBmNXpVSGVLQ1NPbGU3Vk13dVXSAWBBVV95cUxOQmRZVnByTmFlVHFtUmcwOElWR0xKR1NVdXBTLUROMWNLbGJtSGRrckV5TWh6V3MyVTFIR1BmcWRVd3ZjYmlSZlR4Y2NkZkNvZjNGY0JVclYtd3Fmek84TnA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t3",
+      "title": "국회 모인 전국 지방의원…'지방의회법' 연내 제정 촉구",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "국회에 모인 전국 시·도의회...\"지방의회법 연내 제정하라\"",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XZEFBWE0wWkFuVFNzVmdoS2N3QmZvS0o1Z0VmcHBzak1aSGVNWjVUNWFrdWMxT0RBVFBaNENlb1ZjOFpkOGQ1RVNVbGhTMWd5YnlEdGtjZzhsUlRpTFo3bFlMNXlsQlNSZG9tQklMb2xkOGM?oc=5",
+          "source": "헤드라인제주",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회 모인 전국 지방의원…'지방의회법' 연내 제정 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sbWZTdXFuckpOS0xNODgzUklfSHllb0xpSmNjcXdzODNJcFlMaGJoZXlHNEtkc3M2OHBDcUJzT2FrSXczZnNsWUNPcHdoYUZNdkN4MDgzYzdzLWfSAWBBVV95cUxPMjhCTlIxdzZzVTZ3bXQwbTZEX045SjlfMUVvZzZaUXRWOWtfWlpaTEZoSGlUQnB5ekQ0TUdOSE9kTVdmOXFpdm1rUm5FejZ4R09uaGQwOTd2aXJqMnpWc04?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "도의회, ‘지방의회법’ 연내 제정 촉구…국회서 지방의회의원대회 열려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RRVFSV1VxdFp6bTQxYnpOUU1DMUExNTFldzFDajhvNjFlQU1yVElNTW1SemNrRHlhMmY5Z2N3OGhuT1NMSGIwS1lQbE94cXJUYWdsYXR5LWhRSE0?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2026-10-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t4",
+      "title": "한미일 외교장관 “북 완전한 비핵화 의지 재확인”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한미일 외교장관 “북 완전한 비핵화 의지 재확인”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idW5xLS1lYlAxcG9ERk1IRmxibTQ2N2FJS2g5UGMxMzFQR2NaQk1aWkVnamRhXzIwSzhIeWRva0U5Ym02aXY4c3h4VUo5THpESy01RUQ5aVZQUdIBX0FVX3lxTE4zMF9ycDZOVjlrN0hINFhneGFRejFVa3BuY1ZYRmRWTGVJY3RjcGEzQ3dULWJXdFlVdi0xSVBrc1lPbXcxRWNlMVBHU21RaEtuRXpBVDZ1TG91aHhraUVB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-10-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "미한일 외교장관, 북한 완전한 비핵화 의지 재확인",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0xzNVM4ZWo3RjNBdmNjQTNOUmxDNDA4SG1CeUlUS3pqeWNhbkdza19oSGNvRVcxTkhtdHBVdEZvSE00Z1piakpwSHNpY1EtWnJWMTBYVnlPRXJwOWhQUFhjWVdrS0NXN01SWFhQOV9UN0RpZExZVXdhQW53XzYzRlBGTlBzZFnSAYoBQVVfeXFMTkZzNzdpMFhfYUxkbDFPVTZudTlEY3RHdjBvaUo0d25VLUFwNDNMR3dzdGxGTjlJTlZ4OTFJM2RxZDRjeTV4dGlNVEowODRMYl9KZWNoYVFaM3pzWVVWczlsWmxJTExUSHFUS1NwSFFwZmJTaVJ5T3lZM2hQY2xDV3o2NTg3RzhMZFR3?oc=5",
+          "source": "VOA 한국어 홈페이지",
+          "publishedAt": "2026-10-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t5",
+      "title": "한미일 외교장관회의 30일 미국서 개최…한반도 문제 등 논의",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한미일 외교장관회의 30일 미국서 개최…한반도 문제 등 논의",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03dzBvdkZ2OWFXV1RHeWxhYV9OcFRuVkQ2alFVMjlvQjc5NzJTZ1REXzktN3BqTWVPZmstY21tSlNKZ3h0OWM2ZVBtWC1ZdlhlRDA1Ty1PbG9GUzg?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한미일 외교장관, 30일 美서 회동…한반도 논의 주목(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zblVQdlR5RnFpOW1HUU5yTzNfa1JOSm15UVNWMWNNaFhKZGJSZFVBOUdtTlFVeEh1YnRfY1FTd3BiV2hXQmNmMlBuUXJMbDZtMmhoclo3YW43cWfSAWBBVV95cUxNWVZPUzNZeUVnZDJCWTVYelluaDRWT3VlSklSQk9lcUxJeXVUeHpMYWlmN25MUVBSNEoyQ2REaW16VlZiTVZVLWtfay1RQ29ISUJ1eV9lUGhlLTRMaDdwRlM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t6",
+      "title": "진보 야당, 이 대통령 ‘외국인 노동자’ 발언에 “무지한 망언…사과해야”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "진보 야당, 이 대통령 ‘외국인 노동자’ 발언에 “무지한 망언…사과해야”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVHhFMTJSbVpUOUlIeGlwSDZzU3lyMXEycDA1OU5ZeHVwVzdpSXE5cVBHYldNLTRnLUFQcmpCTmxNbXhDRUNOQjVVZDRYblhxZFo0YkFPR1hCQnc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "진보정당, 李대통령 '외국인 노동자' 발언에 \"망언 사과해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TUTBTejJlanhmY0xYQzFlOGhjV21GMVMzYVJBQk16VGNSaXhwNWVvSC15cWJGbU9CRjNoR0tmRlppS3BtTmRQaUhGc0NBWGhjZGFKdnIwWGNzcUnSAWBBVV95cUxQTkZ0OUhMMmZXRkJ4Q1pfQjJnWjdFX1dMVGVnekxzempyOThNTjFINUtBRE5nY1NSN1Q3Q1IxeF9qekNwdnNnZk1NTWhmeExPeC1WcWs1NUpsc1oxenFlR3c?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-10#t7",
+      "title": "與안보회의 출범…\"한미동맹 무조건 믿는 고정관념에 물음표\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "與안보회의 출범…\"한미동맹 무조건 믿는 고정관념에 물음표\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xclY0TFltWVFxWU5OZGREMGxFNGF5LUhXdFZhakNsV2FhalBLLVhjMXFmODNlMDlCLUtnZ05mYVg1TUlLWloxUDk2TmhEMXIzQTlTYWdNbVR1RFnSAWBBVV95cUxNWjVtRVJCcTVnME92OUs0T3o1b3VxTVl3bEhrYktjbm5iNGpGaEQtWWJiSVBPaU9DT1B2MGh6YzZUV09TS0MtQjNPUDItYnd5Y1hvTnprRmtYWTdXZU5mVlI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "與 안보회의 출범식서 \"한미동맹 무조건 믿는 고정관념에 물음표\"",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUTJXQl9TNG1saHhsTGpRMmtVZVdKX2RwZndPWmVaYzVDdmgtMFZlZEFqSlRQS2drREdoS2huZW9SbUpkNVRzRFZTMjJ3amlZRU4wVWx6YllDTFVmT0Y5aU42cGxDVE03QWdERURaRWlBTlpJNE83UXc2ank2bVVMLWpEeUJrdw?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-10-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "조희대",
+      "count": 22
+    },
+    {
+      "word": "대통령",
+      "count": 19
+    },
+    {
+      "word": "민주당",
+      "count": 14
+    },
+    {
+      "word": "중간선거",
+      "count": 12
+    },
+    {
+      "word": "투표지",
+      "count": 11
+    },
+    {
+      "word": "트럼프",
+      "count": 10
+    },
+    {
+      "word": "선관위",
+      "count": 10
+    },
+    {
+      "word": "국조",
+      "count": 9
+    },
+    {
+      "word": "미국",
+      "count": 9
+    },
+    {
+      "word": "검증",
+      "count": 9
+    },
+    {
+      "word": "국감",
+      "count": 8
+    },
+    {
+      "word": "한국",
+      "count": 8
+    },
+    {
+      "word": "정부",
+      "count": 7
+    },
+    {
+      "word": "공방",
+      "count": 7
+    },
+    {
+      "word": "김정",
+      "count": 7
+    },
+    {
+      "word": "국정조사",
+      "count": 7
+    },
+    {
+      "word": "전쟁",
+      "count": 7
+    },
+    {
+      "word": "외교장관",
+      "count": 7
+    },
+    {
+      "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "대법원장",
+      "count": 6
+    },
+    {
+      "word": "청와대",
+      "count": 6
+    },
+    {
+      "word": "정점식",
+      "count": 6
+    },
+    {
+      "word": "사형",
+      "count": 6
+    },
+    {
+      "word": "구형",
+      "count": 6
+    },
+    {
+      "word": "올림픽공원",
+      "count": 6
+    },
+    {
+      "word": "자주포",
+      "count": 6
+    },
+    {
+      "word": "한미일",
+      "count": 6
+    },
+    {
+      "word": "통합",
+      "count": 5
+    },
+    {
+      "word": "민주",
+      "count": 5
+    },
+    {
+      "word": "국회서",
+      "count": 5
+    },
+    {
+      "word": "여야",
+      "count": 5
+    },
+    {
+      "word": "이재명",
+      "count": 5
+    },
+    {
+      "word": "지지율",
+      "count": 5
+    },
+    {
+      "word": "AI",
+      "count": 5
+    },
+    {
+      "word": "제정",
+      "count": 5
+    },
+    {
+      "word": "수사",
+      "count": 5
+    },
+    {
+      "word": "시작",
+      "count": 5
+    },
+    {
+      "word": "내란",
+      "count": 5
+    },
+    {
+      "word": "논의",
+      "count": 5
+    },
+    {
+      "word": "해킹",
+      "count": 5
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "10.26",
+      "event": "'선관위' 특검, 28일 올림픽공원서 투표지 검증"
+    },
+    {
+      "date": "10.27",
+      "event": "국회 모인 전국 지방의원…'지방의회법' 연내 제정 촉구"
+    },
+    {
+      "date": "10.29",
+      "event": "특검, 尹 ’내란 우두머리’ 항소심도 사형 구형"
+    },
+    {
+      "date": "10.30",
+      "event": "한미일 외교장관회의 30일 미국서 개최…한반도 문제 등 논의"
+    },
+    {
+      "date": "10.31",
+      "event": "한미일 외교장관 “북 완전한 비핵화 의지 재확인”"
+    }
+  ]
+}

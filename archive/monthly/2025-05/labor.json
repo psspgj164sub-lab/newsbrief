@@ -1,0 +1,403 @@
+{
+  "month": "2025-05",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:12.824Z",
+  "articleCount": 275,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-05#t0",
+      "title": "부산 시내버스 노사 협상 결렬…28일 첫차부터 파업",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 7,
+      "sourceCount": 6,
+      "articles": [
+        {
+          "title": "부산 시내버스 노사 협상 결렬…28일 첫차부터 파업",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ISHIxYWEyZWRackpxVExFYUdwNnJfYVVPdnRwQ185Vkl5dzAyR3hKY2F2OVlUbmlZZl9zdU1vMWVyWlBOVEpMRm1KajI1R01ETFZoLVo2X245bGEzZE1J?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 시내버스 노사 협상 결렬…오늘 첫차부터 파업",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYTFlWGdKVks4SDVYNm1FLW1mbWp2SVljWDJZY3hLZUFSZzJ0VmVIbHVOdWRRZE5qdjhDb1h6cUJ2dWw0Qm9DVW1DODBJNUJ2LThzbGVKd0xiMHVkNDktNHY0Zw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "창원 시내버스 노사 협상 결렬...오늘 첫차부터 파업",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBad0o4WEVtWUt5YmlVempKR3RCTEZNUUVQZVRTX2Fqd2hLSmhUQTRYLXFGMFNSaW56bDZaSWFfcFFJbmU2dEJ0WDFEQjY4Z01YMDZtRTh6cGNNUlRMUTk3SmlFbFZpT0hz?oc=5",
+          "source": "경남도민일보",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t1",
+      "title": "부산·창원 시내버스 파업 돌입…첫차부터 운행 중단",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "부산·창원 시내버스 28일 첫차부터 운행 중단…출근시간 교통대란 빚어질 듯",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQjhGdE93NEg2bXZJcWhXX0FHS0MyOWt0SVlTb3cxZmItQmFxVG1RTTM2NmZlQUJSSHFNQVpSS1lxT2pfbFh6V3kzQ2hhdkFUN3lxSEl5X2pEakM5U240MmlqclVpVTAyTWJnYXBORVV2S3RPMnlZOWZJUGlNZkVqV2w0c3F5bmltSjU1WURsWEx4UQ?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부산·창원 시내버스 파업 돌입…첫차부터 운행 중단",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXlZbGswNWc3cTFUclMwZ2s3cDFQWjhyOUo5SUI2eWZvaEpIQ2V3bW04blRhc2lJb1k0UVFTblFKcGJQVUcza3JkTlhpMHUzVFFXaDFoY0lpNlRlUmpWSnBnUUlIdC1Ba0JVLTRuRXpEWHFSazA5RlNITEVfZEU0LUU2WmhEcUVObGfSAZ4BQVVfeXFMUGo5YmMxMmtWUEZfQVRMdnRlUUY4WENzVXMzZWlHQTlvTzFNWS1BM25wOGllVC1KVVBocWtCb0FqYW0tWW5LOGxmUWlrTEhxX1J5ZzdQNXJ0SDEtVWZKY2xCaDJVUC1pRHdtWTVUNWtpMGlHU1R2dFg3Um1SUFVHMkJCMEJmc25OZk9xMkR0UkVKNjF5ZU92ak1vbC1QS0E?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부산 시내버스 노조 파업 돌입…147개 노선 운행 중단(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpSjlyOEhkMU9ULU5tTTlCOHBtTGZuMnNuVUdDazd6MjR3VE52eGFETGxTWjU2SENtVVRjdFNGRC1nbk9qV3ZHT0dYcWw1bFhJV1FhaklCME56QXPSAWBBVV95cUxPVHB3bTRWeFkxNks4MTV0TGxUMXNtaUpCbzlzNGdobHVlU1QtYlh6NDdLSWdGazJoVlUyNmpYVFc1VWJUTGh0MDMxTGVlRm91QzJVVEJGZkdkSWtmZW1FQ0Y?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t2",
+      "title": "노동부 ‘중대재해 사이렌’ 책자 발간",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "노동부 ‘중대재해 사이렌’ 책자 발간",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Md0FGM1BvU2w4V04zMENoODF2SXgtdmtaOUtqenl0RFltY0NucEhKT29NU0RfMkZacTJjVExWaHB0dmtTak5pa0txVXFRNzZVelFqa21za1lTZjRuUkZQZGRpeDlFWk9IS1hOcTNTb28?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-05-07T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "고용부, ‘2024 중대재해 사이렌’ 책자 발간",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MY2F0NEx2MnJabk1IX1J0b1k4QlBCdVVDMFBfMzg2VVBqdEFaMld3bGpudTVCQjVKNUh2X3RqcHZ5anRCZWNtU1hLeXpQSng1TlU5VTlJb0xDUFF5UmFlS2RESE56LVE?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2025-05-07T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "노동부, 중대재해 사고 사례 담은 ‘2024 중대재해 사이렌’ 발간",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PYndWck9jaU1uR2pCTjFyMktNQmlHb19CcllxaWw5RFpfRVVPZXNicDBIbS1OZzM4MmVnZzlwWWhhS1ZqQXpPaUU5UXZRQWI3WC1Gc2JQc0xvQQ?oc=5",
+          "source": "브릿지경제",
+          "publishedAt": "2025-05-07T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t3",
+      "title": "부산 시내버스 노사협상 타결…임금 10.48% 인상(종합)",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "부산 시내버스 노사협상 타결…임금 10.48% 인상(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lNmFWb3VsZTIyQjhBbGRaUEo4czN5cUtWbE1QZmNTblNlZlBGLXlZVkVLQ05JNVhSTWhZVndtcEMweUY0VElybUp5VUN0d0M0NDB4ZUxNNjJNU2PSAWBBVV95cUxQQnhRSHAycTdWT1gwR2F5X1h5ak1VQmJtLVVPMGRVeEJ2N3NZY0U4bk1zQ3V4SGYwSEdSWWFjQ0VMU0NYMXQ3QkdHQndpQnM3RWVrc1Iwb1dDR0dCZGdMakg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부산 시내버스 노사협상 타결…버스노조, 파업 철회",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90dkQ5RjVxejgyTEVEVU1CQUFKNVI1RWZEZGhfVTBWMWl0WGFldTM4S0h6cFM1bjZUWEF5QlpDeXJyTDA2RU9RcGtObzBKZjVrTnFybFpkY2p4SG5VSVZDVGJ4WlROdzQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t4",
+      "title": "부산 시내버스 노사, 파업 8시간 만에 타결 이유는",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "부산 시내버스 노사, 파업 8시간 만에 타결 이유는",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0za256NlV1UGQ1RzBYY2NIRDgteW9CeWswVDZ3S055dFZ2bm1iWWtwUXVUS3dudDZLbUpTSUw3TW5aMFg1WWJRVzU3V2sxcjJuVGgtRk1paWM5Q2PSAWBBVV95cUxQMU5ILVN2akduNkJhM0VNbHBBWHpSS3lJMm45RndnZ2hQZ2J3VFcyTXFnLXVXOFVNcXJ0Q3pidDc4N2FpVnczbEdrRnpiMU1DRHlHM0FBWVV2Ty15TEhwQTQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부산 시내버스 노사 임금인상 합의, 8시간 만에 운행 재개",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PQWFqMHh6d1hKQzdDeTRmekVqS3A3bmlfN3dkb2Rid2NRZkczMDNPNnpWaHo0X0RfNGM1Q0I4cXVFLVY5WVFCa1BjbXp3eFV2THlmUGFEUy1pUW5nY0VwcTZfaFE?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-05-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t5",
+      "title": "노인 고용 ‘OECD 1위’?…3명 중 1명 ‘단순 노무’",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "노인 고용 ‘OECD 1위’?…3명 중 1명 ‘단순 노무’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uZFhOcFJmVW84WHM3YVgya2syekNwejNUT0JjajlhYXRLSHB4N09WYmxPNkMwdVJzWDROdXpxaWpfdHAtbUF2RGUwcHM3cjNLX0NlVlBlaVhnd9IBX0FVX3lxTE1mTHBtRE5WTWtfSUtfQVZpSkZBaWxPd19ib1plNEpUSjZDOThkUVRfVUUwOWNTUjZpejRuWTBVNG5Pc3RaN3JPMFlvdFZ0T2xwOUxDN2pGWTRDQVhMZUlF?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'노인 고용률 1위'의 그림자…65세 이상 3명중 1명은 단순노무직",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rSHZwWWNhVlMzZkdKM1BUeF8yTVlZUHZXNUdrUVZEZFh5aFVoVDFwZkRlUFFwODhlck9kMGJHX2NkZzVTd1hMNXdrZ2NNV0RLbThneS1XWUpGYTDSAWBBVV95cUxQYXVMSEhLXzJUODlQc3BhNThSNWVvNG9JZDVuSWotaUw3aEZwWnRTel84RTlXcWdQUl9faGtydXZhSkw3NTVUVjgyYW04MnVqdjdjckNjUF9xLU5TdllnVU8?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t6",
+      "title": "외국인 고용허가, 외국인 근로자도 '홀서빙·택배 분류' 가능",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "외국인 고용허가, 외국인 근로자도 '홀서빙·택배 분류' 가능",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXTnYzc21Yd3MxdGZ4SDhHbHVmb0NBMkphT0tBcm55R2dQeUxjNWVUWWRmQlNqcjJfYW9sbFRGWnNVaXVUUFFaa2ZtMUVSOHJSQnlBcEc4d2w?oc=5",
+          "source": "블로그",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "고용허가제 외국인 노동자에 ‘식당 홀서빙·택배 분류’ 허용",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50RGxWZFVmc3ptMjhiejItUTMyWUFWT2N5TkszTjd4Qmk1eF9CTWU1aUFjdUl2c005ZzRZTlBKWnllWXpsbi1xTGlKaWFRQWRCWjlUN3lZTkloeUVtQmVJSldPREltVVBjSGVsOGdIR1I?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-05-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-05#t7",
+      "title": "종교계 \"SPC 노동자 사망사고에 중대재해처벌법 적용해야\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "종교계 \"SPC 노동자 사망사고에 중대재해처벌법 적용해야\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PVWJBQ2N3SERQUFlQVm9YeFFMSWFYRmdyOUx4aWdlX1lCMjNaOHVHZi1XcmNqWTFZRTJiRUlrcWdBM1NTcjdMcTZPdzlkQlBsbjU0TzlFakxybm9lQkE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-05-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "또 사망사고 SPC, 이래도 중대재해처벌법이 악법인가",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZURGems4RFlyN1l6aDFlRlczdFFYRTM5NDhfMzU5Y2M5S1A0UGlpRi1ZTld4SWIxcnh4ZjVIc2RMeDVZYTZ0MXpOSkw0ZFhjbTZNYUJxQWFWR2Y5OVFKYUxTb2FYbGYyM1E?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-05-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "시내버스",
+      "count": 31
+    },
+    {
+      "word": "부산",
+      "count": 19
+    },
+    {
+      "word": "서울",
+      "count": 14
+    },
+    {
+      "word": "근로자",
+      "count": 9
+    },
+    {
+      "word": "서울시",
+      "count": 9
+    },
+    {
+      "word": "통상임금",
+      "count": 8
+    },
+    {
+      "word": "판결",
+      "count": 8
+    },
+    {
+      "word": "적용",
+      "count": 8
+    },
+    {
+      "word": "창원",
+      "count": 7
+    },
+    {
+      "word": "첫차",
+      "count": 7
+    },
+    {
+      "word": "버스",
+      "count": 7
+    },
+    {
+      "word": "원청",
+      "count": 7
+    },
+    {
+      "word": "노동자",
+      "count": 7
+    },
+    {
+      "word": "사이렌",
+      "count": 7
+    },
+    {
+      "word": "운행",
+      "count": 6
+    },
+    {
+      "word": "협상",
+      "count": 6
+    },
+    {
+      "word": "SPC",
+      "count": 6
+    },
+    {
+      "word": "플랫폼",
+      "count": 6
+    },
+    {
+      "word": "중단",
+      "count": 6
+    },
+    {
+      "word": "노동부",
+      "count": 6
+    },
+    {
+      "word": "무죄",
+      "count": 6
+    },
+    {
+      "word": "이준석",
+      "count": 6
+    },
+    {
+      "word": "외국인",
+      "count": 6
+    },
+    {
+      "word": "청년",
+      "count": 6
+    },
+    {
+      "word": "사망사고",
+      "count": 6
+    },
+    {
+      "word": "발간",
+      "count": 6
+    },
+    {
+      "word": "제도",
+      "count": 5
+    },
+    {
+      "word": "유보",
+      "count": 5
+    },
+    {
+      "word": "결렬",
+      "count": 5
+    },
+    {
+      "word": "특고",
+      "count": 5
+    },
+    {
+      "word": "시민",
+      "count": 5
+    },
+    {
+      "word": "법원",
+      "count": 5
+    },
+    {
+      "word": "이재명",
+      "count": 5
+    },
+    {
+      "word": "원인",
+      "count": 5
+    },
+    {
+      "word": "정년",
+      "count": 5
+    },
+    {
+      "word": "지원",
+      "count": 5
+    },
+    {
+      "word": "필요",
+      "count": 5
+    },
+    {
+      "word": "고용노동부",
+      "count": 5
+    },
+    {
+      "word": "최대",
+      "count": 5
+    },
+    {
+      "word": "중대재해법",
+      "count": 5
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.07",
+      "event": "노동부 ‘중대재해 사이렌’ 책자 발간"
+    },
+    {
+      "date": "05.26",
+      "event": "부산 시내버스 노사 협상 결렬…28일 첫차부터 파업"
+    },
+    {
+      "date": "05.27",
+      "event": "노인 고용 ‘OECD 1위’?…3명 중 1명 ‘단순 노무’"
+    },
+    {
+      "date": "05.28",
+      "event": "부산·창원 시내버스 파업 돌입…첫차부터 운행 중단"
+    }
+  ]
+}

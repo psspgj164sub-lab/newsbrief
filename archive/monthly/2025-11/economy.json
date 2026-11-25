@@ -1,0 +1,372 @@
+{
+  "month": "2025-11",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:32.674Z",
+  "articleCount": 122,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-11#t0",
+      "title": "수출 실적 없어… 이름값 못하는 해외 경기비즈니스센터",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "수출 실적 없어… 이름값 못하는 해외 경기비즈니스센터",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DNlYxTzBuaEdYanRMS0ZmZkhkcWJsVDBBNnVuSnVaWVBzSkVTMkpVMUs1OU1GU1ZrbjNqcDgtbzA3VFFtZWN5MEl5ZmJhX1RPTDVTWkU4SHJ3UE0?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2025-11-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"경기비즈니스센터 운영에 수십억 원 썼는데 수출 실적은…\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZnR4ZUZpQl9RM3VfalZieF95UjRpNmw4ZEZoZjE0RUhjT180T0U0XzJERm5OdnNwQi1rWFFQX09sNWFCb0QtTHI2dXpGWDZxdnlKTGNtVk1RdnAxZ21kbldwOUZJN2lkSW1TMTNR0gFzQVVfeXFMUEtiaDJhcUszWlF4aHV1T2wtRnBxR0FPNlk2TVJsNE5Bb24xWmkyRHkwT2MwUWdxZ0lzblQxUFIybENoWElOS3lYRHZNSS1Kc3BQRUY4aVAxUGh1a0lhS1dsX2NlS0tmR1JqQWFDNHNudnhZQQ?oc=5",
+          "source": "한국일보",
+          "publishedAt": "2025-11-20T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t1",
+      "title": "엔비디아 3분기 매출 사상 최대... AI 거품론 잠재워",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "엔비디아 3분기 매출 사상 최대... AI 거품론 잠재워",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXAxWm92VnhFcmVHVlpzN1IzTFAxVGk0RzFoZlp1cG9FWW5YTmFBS0RaV1JtVHlZMkZncnEzNHU1QktQZW4zRjVqU09XVXBDNFJwcHFtTThoSDh1UFRfSzd6TEh1Mm1QdElEajkxbnpHMGxoUDltUUtTY0FCdmk2YUpaaw?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2025-11-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'AI 거품론' 잠재울까…엔비디아 이번주 실적 발표",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icTNtUXV4US1VWXBPbTZMbW1ZdmljYjd2VDB4bEs3SXdYRURRcm81aFNSd29oNDZfNjNBVXlnUHRsOVZoNjE2RDNYV3cwVUhVM1JWZVlhVldfd20yMzdWbVNZUG5Lc19nY25fZlBsQ19aQzQ?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2025-11-17T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t2",
+      "title": "한화에어로, 3분기 최대 실적에 '투자 실탄 3.7조' 추가",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한화에어로, 3분기 최대 실적에 '투자 실탄 3.7조' 추가",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1cjFMVllVdXBmQ1h0bFV5UDRpendGczE1dDZKekJPZHdQYjV0MXRCMTUyTms3Vkgwd3pTTlZTQ3BNY1FoOU9GR1RGcEViZ1Q1M3hBdVkzcWM3Ui1PdDAzbWo5YWdMUQ?oc=5",
+          "source": "디일렉",
+          "publishedAt": "2025-11-03T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한화에어로, 3분기 최대 실적 기록…영업익 79%↑",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55NnlaUlMtbjZ6RTFpSGQ5RlpIQ0lvMTNWbXNNdkRfRlVDLXZRZFRrTEJzd3N4ODVjNkpZQl9IcHNBekJyck1hQS1SV3NrdnNPc1lsV2lZZ0RmVG5tWWZzcUwxUXRweXlfY3I40gFvQVVfeXFMT1JEeS11LUhBZU41VnhpY2tZVEtqY3laYzZ1ek9kSFlRNk1fYnpLMnFpQlVlMVljazd1OG1xX3M2bWFCRWpHdzI1dVF6OUdTMWVTV0dSV0dVenNRS3JabU40VzlpRDhQNXdFbS0ybXJn?oc=5",
+          "source": "투데이신문",
+          "publishedAt": "2025-11-03T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t3",
+      "title": "부동산등 양도소득세 예정신고방법(간편신고)",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "부동산등 양도소득세 예정신고방법(간편신고)",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vMUtHTy1uUExTaGhXSDhJTTJtb0ZQMU5wa09FNV9HTVRtSmUwREVFWm1xOUxYTUI2VW9DMVpMaU5zclBNTnYzbmNCTGlUazVjQlEwS0lSRjFFRWc2UXFHazRWODNNUi0wUnJxaDhfeXpZajRqa0x6TmNLcw?oc=5",
+          "source": "국세청",
+          "publishedAt": "2025-11-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부동산등 양도소득세 예정신고방법(모두채움 단일물건)",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52SXB0MEl2Zk9mZmlFRW96TEZmbHBZLWJkUkhSNGdOTkpyTTlGbGJULXpuZ08wdE5EMFhiMEtZTmhBcXpaQnVDWFROdHJmbUtHYnU0Y3R3X1Z5SEF0SXVGWURLa2JjRFhubnVFNnRQZkpxZWxhRTNkSmlKTQ?oc=5",
+          "source": "국세청",
+          "publishedAt": "2025-11-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "부동산등 양도소득세 예정신고방법(모두채움 과세미달)",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SdFlSRnNJeUJkSVRUVmE2UjRCcW5kTWpjbWxSSjFlSGFpRkZtb1dUc0ZNV0ZCV0ZJbWdzUUV0aVFkb3BXRnhLYkhkRm5xOGVVbjd5Q01XeE5qUjNYekpDVEdLY3YwdkFzR1ZWY0ZaT1R0MDF1TUptVVJUYXg?oc=5",
+          "source": "국세청",
+          "publishedAt": "2025-11-27T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t4",
+      "title": "2025년 김 수출 실적 10억 불 달성 - 카드/한컷 | 멀티미디어",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2025년 김 수출 실적 10억 불 달성 - 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaQ3NrcjViTi1kSnZZTnJkTzFSazlFcXdPblRnN0hkNUtuSjR2aDN1T2gzMmNOUnM5V2tMSVlHaUdZck54VVVTR0hRXzhMR3RxaV8wbGFlOGJoWWU2TG84RzRzOG5heDJ2ejdIaDVR?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-11-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025년 김 수출 실적 10억 불 달성",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLbmswV0dzWlU3Z3dMOEt3MVluYnJMVGhITXVCb2pvZnlMMDQxWG1lN3FaRk5QNW5oTm9lUGNHQ0RycnZWcjkwWk9YajFwRjRuTUdYbnh2ME1RdmpYNXV4c3RoVVpfN2xHOG5IWQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-11-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t5",
+      "title": "한은 \"과도한 가계부채, 매년 민간소비 0.4% 낮춰\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "한은 \"과도한 가계부채, 매년 민간소비 0.4% 낮춰\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04UlM2am5Uc0hFSml6U2d3UjJLOWZOejBQdkFxOGJyQ0JMdzA2WjR1b0VHNVZac1pTOXJuck9NcWxaS1hUb2ZMaVo1WGs0Z0R5cFhxTUthTTRWVDJCbXNxNnVCMWx2WDFiNHZGUjRTSQ?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-11-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t6",
+      "title": "한국은행 \"부동산발 가계부채가 민간소비 위축시켜\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "한국은행 \"부동산발 가계부채가 민간소비 위축시켜\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85QWdNZngwYWgxUU1HTi0tUGxrbHpubDhHcmczTVdqWmd5OUFQWnRPQlJ3NHBFYVQ1VWhGZHJGWXI4ck1EOE1NSGcxOUJCeDRMSHpKLVF6NER6Nld1Mmh0N1ZtTEF0NG8?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-11-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t7",
+      "title": "민간 소비 발목 잡은 가계부채...10년 새 14%p 급증",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "민간 소비 발목 잡은 가계부채...10년 새 14%p 급증",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zWGw4VmRMdnUxQWhlUzlLTG16Snp2WFlaZ08tY0ZaSm1qT1UtNXNhb0xGV1BlZjNDZS1yTGdpV3ZUZjl5M0daQ0ItYWNIMmxmVVlhUGYyYzV5TlplRXNVZ3Z5UGl3ajVQYmtBMkc5d1VJdw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-11-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "최대",
+      "count": 16
+    },
+    {
+      "word": "엔비디아",
+      "count": 10
+    },
+    {
+      "word": "역대",
+      "count": 9
+    },
+    {
+      "word": "매출",
+      "count": 9
+    },
+    {
+      "word": "주가",
+      "count": 8
+    },
+    {
+      "word": "AI",
+      "count": 8
+    },
+    {
+      "word": "돌파",
+      "count": 7
+    },
+    {
+      "word": "달러",
+      "count": 6
+    },
+    {
+      "word": "사상",
+      "count": 6
+    },
+    {
+      "word": "성장",
+      "count": 6
+    },
+    {
+      "word": "개선",
+      "count": 5
+    },
+    {
+      "word": "최고",
+      "count": 5
+    },
+    {
+      "word": "거품론",
+      "count": 5
+    },
+    {
+      "word": "달성",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "상장사",
+      "count": 4
+    },
+    {
+      "word": "투자",
+      "count": 4
+    },
+    {
+      "word": "시장",
+      "count": 4
+    },
+    {
+      "word": "한은",
+      "count": 3
+    },
+    {
+      "word": "기준금리",
+      "count": 3
+    },
+    {
+      "word": "글로벌",
+      "count": 3
+    },
+    {
+      "word": "부동산등",
+      "count": 3
+    },
+    {
+      "word": "양도소득세",
+      "count": 3
+    },
+    {
+      "word": "예정신고방법",
+      "count": 3
+    },
+    {
+      "word": "상승",
+      "count": 3
+    },
+    {
+      "word": "급증",
+      "count": 3
+    },
+    {
+      "word": "해외",
+      "count": 3
+    },
+    {
+      "word": "영업이익",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "영업익",
+      "count": 3
+    },
+    {
+      "word": "창사",
+      "count": 3
+    },
+    {
+      "word": "분기",
+      "count": 3
+    },
+    {
+      "word": "sk하이닉스",
+      "count": 3
+    },
+    {
+      "word": "동결",
+      "count": 2
+    },
+    {
+      "word": "연간",
+      "count": 2
+    },
+    {
+      "word": "집값",
+      "count": 2
+    },
+    {
+      "word": "올라",
+      "count": 2
+    },
+    {
+      "word": "기업들",
+      "count": 2
+    },
+    {
+      "word": "코스닥",
+      "count": 2
+    },
+    {
+      "word": "민간소비",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "11.17",
+      "event": "엔비디아 3분기 매출 사상 최대... AI 거품론 잠재워"
+    },
+    {
+      "date": "11.20",
+      "event": "수출 실적 없어… 이름값 못하는 해외 경기비즈니스센터"
+    },
+    {
+      "date": "11.26",
+      "event": "2025년 김 수출 실적 10억 불 달성 - 카드/한컷 | 멀티미디어"
+    },
+    {
+      "date": "11.27",
+      "event": "부동산등 양도소득세 예정신고방법(간편신고)"
+    },
+    {
+      "date": "11.30",
+      "event": "한은 \"과도한 가계부채, 매년 민간소비 0.4% 낮춰\""
+    }
+  ]
+}

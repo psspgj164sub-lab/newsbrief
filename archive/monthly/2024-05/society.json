@@ -1,0 +1,379 @@
+{
+  "month": "2024-05",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:22.299Z",
+  "articleCount": 130,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-05#t0",
+      "title": "작년 서울 인구 10만명당 교통사고 사망자 1.9명…역대 최저",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "작년 서울 인구 10만명당 교통사고 사망자 1.9명…역대 최저",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YRkhrVWZoLWRJdU9ENlE1U01jYnN2Y3hTMUdnNGNpVTdzbEZ6cFNQZnBLQW5NSVdjQ2NidGl1V2Ffb0VZa2JYWnJWM0gzMmF6QzBHR2dMd05pOVXSAWBBVV95cUxNMUp4d2xDY1JmUjhKR2tPUDRiWG1mSEg5NWlHY1F2bE5HNEQ1OVVPYU9Sd0VLbEFjbHBPMlJkV0dOZEg5OUwweW94X0pKdFRSclJidEVTQndmSEdESnlNOXk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-05-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울시 교통사고 사망 53년 만에 최저... 2023년 '10만명당 1.9명",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YaVluSm1oZkdfSjR6b3lpa25nOWJCWXhOYldhX1d1VF9ZcWtIaGJlaVpvYmt6MU1tNkZIUEVqWHpNWDFZVXc2MTNOZUVJd2NKUXdQOG53?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-05-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t1",
+      "title": "'기후대응 부족은 인권침해' 유럽인권재판소 판결 논란",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'기후대응 부족은 인권침해' 유럽인권재판소 판결 논란",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtRUhVLXFmR1R4WUpzTGd3aE8tdWRWSnlrYUFaMFoySFhCMF9vRWg2RHF4a0YwSTN3NHhIaHpULWprU3Zjd2M5OHNxemtyY2lNMy1ONmJoSGN5T1YzUUpqaGpjbGt6bTN4YVpqelRrcHlsTkJtenhFWnAyd2xWZWc?oc=5",
+          "source": "YTN 사이언스",
+          "publishedAt": "2024-05-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "유럽인권재판소의 기후 변화 인권 침해 판결",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oTUJhbENjcWFfeGVzTzhrTmQ5NzE2UG1aN242Z2FMSlByVGNNLUtNY0ZsY0FtZk1adDh1WUlEaEpQb3d2LXFzZ2huV1JUMnliS2hLWEl5SVVtd29jYy0yNzZBNlRMampZTWlXb0xB0gFyQVVfeXFMUDZYNlhVYUJQbkRQYUJ6d2o3Tm9lUE41MVJoVDVVYXBVOXZ4S1F0VzNldW4waVJMX0dKZGlackI4Mlk0dzNQUkRrN2tnZ2E4Umx2WWxtV0c2TVMzc3YwbURxQUtPYXBCQ292Nnk4d2FHbUpR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-05-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t2",
+      "title": "사천소방서, 주택화재예방 자가안전관리 체크리스트 홍보",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "사천소방서, 주택화재예방 자가안전관리 체크리스트 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DUmR5R3lYYjVxSFpacXVub0Z2VnpmTks0Vl9nUzNYQXotYVk5UGR4cDFGWmFxRVdSZ2R1QjRXSFhxbkp6U3c?oc=5",
+          "source": "소방방재신문",
+          "publishedAt": "2024-05-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "의령소방서, 주택 화재 예방 위한 자가안전관리 수칙 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41ajBZd0tldHkxb0R2WWtBblo0ZWkyT1plYnlPSExlMnh6b1R2MlZkb0VJcGdWVHZMMGR6QnpGUXZ1WU1KcEE?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2024-05-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t3",
+      "title": "김해동부소방서, 봄철 공사장 화재예방 안전수칙 홍보",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김해동부소방서, 봄철 공사장 화재예방 안전수칙 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qdWctb2h0ME5PU2w1UGMyT2c0UUhPQ25lQTJGZ0JkQWVRQ2VFNXJkeXNHVHU2ZVd2NlFCb3JkVHlZVUd2emc?oc=5",
+          "source": "소방방재신문",
+          "publishedAt": "2024-05-14T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "함안소방서, 봄철 부주의로 인한 화재예방 안전수칙 홍보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WcER0enVVY29EcGVpMTZzQWRQaE44anRxVEFHTTROb3M4X09xV0NjaFRrODFrdEtLSzlJTGdHelNvQWtYa2c?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2024-05-13T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t4",
+      "title": "서천특화시장 화재 원인, ‘전기적 요인’으로 결론",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "서천특화시장 화재 원인, ‘전기적 요인’으로 결론",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YZ0JQRHAtU2JFQzJvS3l6QjdETmFnTlFDQTlrZjVkdXlHZHlHMXZTM3VGZFhEbDNXMjhkWkNqTGhSZFZoeEE?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2024-05-03T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서천특화시장 화재 원인은 전기적 요인…\"방화·실화 혐의 없어\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkcEFLNEZoNDZIcUxQSGRLcEN2R2R5b3pvbWRNbmlILTR6T25KWTlCYS1yNll6SmRDTVRlUEJDWndRZUVkUHM1Ql9GMEM5R2dGLXFtOWlxWFlaZjDSAWBBVV95cUxPU19ramVFRGNLck5icUxKQ1I4SXBVcVFZQmxMai0tV25OVlo2NS1UZlJTZU8tbzN6azBDZm9PcmczTlFKYWFoc3F2Z2xIelJudnR2YTlUanhSMU1aZVJlaWo?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-05-03T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t5",
+      "title": "“스쿨존 보행자 사고 10건 중 4건, 불법 주정차 차량 때문”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“스쿨존 보행자 사고 10건 중 4건, 불법 주정차 차량 때문”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWXpEM2pPWXNfdm9kSU83LXE2NUlRWmhrTmZKTHp0eWdhT0czTURla1pEUjFBOVozZE0zNEhnaVZwTlQybHpDY1MwcVlZVWM1R3JoRUFadWxsbWc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-05-04T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "스쿨존 사고 10건 중 4건…“불법 주정차에 의한 시야가림으로 발생”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yOHI3SVNwZ2hxWWhzREd4d0lIQ0czWmMtb1pvdllJWWZITnhjX2Z1RjNoRnF5cGRtU19vTkppbVZnQktzR2VJLXlPOEZla09vanYzT1pZOVJkbTg?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-05-03T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t6",
+      "title": "‘어린이 안전사고’ 5월 최다 발생…예방수칙은?",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘어린이 안전사고’ 5월 최다 발생…예방수칙은?",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uLTd5bFVRTG52ZnN1Umg0X3V4bXIyb0pRODJSTmhmLXhxRTFoMUJaejBjYi1GTVN4MTE2X3RtTkh5TkRJdnhCcTlGb1BzS3JkWl9XM29tSXM2ejJZRGgzN1FfNmV3THI1UUtBaQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-05-03T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘어린이 안전사고’ 5월 최다 발생…예방수칙은? - 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pSmFXQzFqcGtZMHhEQlpqTlIyRnMxZlVlNGZYNzk4b21vTHRlbGxwRk56b0d4eFQ0VXFrTnRoWnNvdVVhVERqMkN6WHUwcF96WC0zOS1Icjlsc0lzaE9hN2MwcUVOX0IxSUdrb1BR?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-05-03T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t7",
+      "title": "경찰 사건처리 빨라졌다…‘병합수사’로 검거 가능성 ↑",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "경찰 사건처리 빨라졌다…‘병합수사’로 검거 가능성 ↑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CTXUzYWtPVUFqY1ZxZUtpSF9kNS05SEMzeEpVMUVlcVJqaFlPMW9KeWJJUEliSVpYbEZLWkJucHdnSnU2eUgyeWNGcHRvVHpvWTY1ZnBEck50WDF6TmdpUk5ualdxZ3VCbGs1NA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "사망",
+      "count": 9
+    },
+    {
+      "word": "원인",
+      "count": 6
+    },
+    {
+      "word": "어린",
+      "count": 6
+    },
+    {
+      "word": "안전수칙",
+      "count": 5
+    },
+    {
+      "word": "안전사고",
+      "count": 5
+    },
+    {
+      "word": "홍보",
+      "count": 5
+    },
+    {
+      "word": "예방",
+      "count": 4
+    },
+    {
+      "word": "스쿨존",
+      "count": 3
+    },
+    {
+      "word": "보행자",
+      "count": 3
+    },
+    {
+      "word": "불법",
+      "count": 3
+    },
+    {
+      "word": "교통사고",
+      "count": 3
+    },
+    {
+      "word": "최다",
+      "count": 3
+    },
+    {
+      "word": "발생",
+      "count": 3
+    },
+    {
+      "word": "붕괴사고",
+      "count": 3
+    },
+    {
+      "word": "개인정보",
+      "count": 3
+    },
+    {
+      "word": "추정",
+      "count": 3
+    },
+    {
+      "word": "기업",
+      "count": 3
+    },
+    {
+      "word": "피해",
+      "count": 3
+    },
+    {
+      "word": "병원",
+      "count": 3
+    },
+    {
+      "word": "이송",
+      "count": 3
+    },
+    {
+      "word": "인구",
+      "count": 3
+    },
+    {
+      "word": "저출산",
+      "count": 3
+    },
+    {
+      "word": "주정차",
+      "count": 2
+    },
+    {
+      "word": "우리",
+      "count": 2
+    },
+    {
+      "word": "기후재난",
+      "count": 2
+    },
+    {
+      "word": "어떻게",
+      "count": 2
+    },
+    {
+      "word": "예방수칙",
+      "count": 2
+    },
+    {
+      "word": "살인사건",
+      "count": 2
+    },
+    {
+      "word": "책임",
+      "count": 2
+    },
+    {
+      "word": "시흥",
+      "count": 2
+    },
+    {
+      "word": "교량",
+      "count": 2
+    },
+    {
+      "word": "확보",
+      "count": 2
+    },
+    {
+      "word": "말하",
+      "count": 2
+    },
+    {
+      "word": "보는",
+      "count": 2
+    },
+    {
+      "word": "유출사건",
+      "count": 2
+    },
+    {
+      "word": "전기차",
+      "count": 2
+    },
+    {
+      "word": "서천특화시장",
+      "count": 2
+    },
+    {
+      "word": "전기적",
+      "count": 2
+    },
+    {
+      "word": "요인",
+      "count": 2
+    },
+    {
+      "word": "결론",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.03",
+      "event": "서천특화시장 화재 원인, ‘전기적 요인’으로 결론"
+    },
+    {
+      "date": "05.09",
+      "event": "'기후대응 부족은 인권침해' 유럽인권재판소 판결 논란"
+    },
+    {
+      "date": "05.13",
+      "event": "김해동부소방서, 봄철 공사장 화재예방 안전수칙 홍보"
+    },
+    {
+      "date": "05.20",
+      "event": "사천소방서, 주택화재예방 자가안전관리 체크리스트 홍보"
+    },
+    {
+      "date": "05.28",
+      "event": "작년 서울 인구 10만명당 교통사고 사망자 1.9명…역대 최저"
+    }
+  ]
+}

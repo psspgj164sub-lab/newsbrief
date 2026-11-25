@@ -1,0 +1,420 @@
+{
+  "month": "2026-11",
+  "category": "economy",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:35.183Z",
+  "articleCount": 294,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-11#t0",
+      "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 10,
+      "sourceCount": 10,
+      "articles": [
+        {
+          "title": "K-푸드+ 수출액 120억 달러 돌파 '역대 최고 실적'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcm12cGM3SUhvOVI2dmVnQkQ2UDM5ZzJ1ZFI1SlVKWmJnYWthQ2I0VFdhWjRSVWJvb0E4WVl2SWtaa1U0UlNEMWdfWS05Q1RuaWUtUERTU0pJRnhVQWZaOHJzVGhRRk9vZ3FyQQ?oc=5",
+          "source": "농수축산신문",
+          "publishedAt": "2026-11-22T22:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "수출 연 1조달러 돌파…K-푸드도 역대최고 실적",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNEtOc3F1eWk0em1HZU5IS04zYlVEbHpjVFBPNENQRUxaMS1paTB6cXRhOXNNdW5ZVHhPa0t5d1V2bVdiLWF6WGlxY3NHS3YwTTFpV3hpM2lZZw?oc=5",
+          "source": "농민신문",
+          "publishedAt": "2026-11-21T02:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "수출 1조 달러 시대…'K-푸드+' 120억 달러 돌파, 역대 최고",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMEpxdlROTTFJVEN2TkRXYXl2c0lmbHRucHNLSFBfRDRZMGVBSEliTjYxclZzbFdEQ0NuSE9qWjZ5bTNhdi04WTJycUliM2FXQ2VCb0FKZXhtNVFhT0Y5V2kweXRUazhYZXBLQQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-11-20T08:14:59.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t1",
+      "title": "코스피 5% 급락…매도 사이드카 발동",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaRWNRdk1DM242ZU14d3RsM2lBU0VMQXNaajJsZHhkR3VPV3dPenZ1UGd1VnI1WC1HZUFuOWdhdUpWS0lja2R0OHBqY3JOVTFYMENuc3o4UWNIRWM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T03:01:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFc1U2c2ZXpLbFJEVzlhNDJmSFRueWY3SkJWV1ludFloQU1pdUFCMFFtM0RzT1U5SklPSUlvaXJ6UDN4eE5CNmN4TnFnajRxSmt5X0xNRG04ZHR4RlUtOVIyNlNieTZtZmx6SElQX3hqMElJLUVVLU8zWUhRV0hBTA?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-25T00:02:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-23T06:13:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t2",
+      "title": "코스피 3%넘게 하락 마감…코스닥 2년 만에 최저",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "코스피 3%넘게 하락 마감…코스닥 2년 만에 최저",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYZTFUVXk0ZEdfbWRIYjlQeUJ1dF9QbWZzZnZPNFJXWjJqVXVuWllreDl4WFZzMWphN3FYSzlDRDk4TFhNOWNIUjJuUUlYMFRDaXJETnhCZXpFOFk?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-23T10:02:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1TXc4R2ZwODZ0ZUEzRzh2aUctU0xrNVEwdzRvclFmclhiTGh1RlpzTEM2bFYwSkluSGhGUzhpbVlqYl9jcU5HWmsyZEYyZjh2aFU5Q0NtcExoNlXSAWBBVV95cUxNV3VNdEx6VzNJdkdqSFBXLUZJMlNwZElIR2RLb2NCSXdLLTBOcWw0a2dfVGxkYkN6MkFKMGxFSUh1VHVjR21JNVhVRDVrcmt2VU50ekhwOXFhdlBfZllqRUE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-23T07:11:06.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 3%대 하락 4700선 출발",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sWWZJRVk5cDEzRjA4T01SMDBQMGFTRGZqdEpNUU0zc0drYjNjdFlTVlZBSF8xX29ER0IwT2hvUnowakhSNGl3R0xuby1fdw?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-23T00:28:52.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t3",
+      "title": "‘검은 월요일’ 코스피 2.77% 하락 출발…4,800선 붕괴",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU28xY0xwdmdZYk4tdFY3XzZDLWpKb0dHYVpHS08wRUJVUm1QOHJrSmRYanUtSHRvekRHc3JWMmxUQWhhV3pweXI1dGpYaUtIOEdHcElXbFRrNDl4M0xlSGx4VUxDMm04aTN5aTBXUTdDaDNEVlRIYm5XM2t2STNsag?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-23T07:26:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘검은 월요일’ 코스피 2.77% 하락 출발…4,800선 붕괴",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wZmZFOWpxTHVoNWFsWk9tUFZNR2hITml0bVBCQmdLU2hfODR6YnI4Vkw4eGE3Rjl3N1dEcHoxWEtxX1dtOWJqMkdZdXR1LTRQUE8yREJ0ZW84TG8?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-23T02:36:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 2.77% 하락 개장…장중 4800선 붕괴",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40VVd1QnlyTXpXbTJpb1Y0NFMxWDI3SnlEOHoyRGNTTE9MR2hrN0ZFLWVuY3JObWt2V2dQS2NSN1ZVQTNfOGxiRnZyQnI5ZVNTYUpFWW9LQWlPQdIBX0FVX3lxTE1IYkVkazByZUMyT2JLczkzbHo0TDlxQ1ZhQkQwbWEwRzZGU3lSQ1ZnRmltU0djMUtEaGNyejlNYkRMQXNyR0VqbVFadTBzS0NrVXAwUUh1YjVfbzFWR2dZ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-23T00:05:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t4",
+      "title": "두번째 증시안정대책 나오나...정부, 긴급 F4회의 소집",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55d196VXpIcXI0UUVsMnBuVkZ5bl9iUW5xQTJCYUp1QmRkZTBQYnRaV29UU3B3QzJtTGY3elNfNzVqRXAxYkhoaHpaRElXaUNMSjNlR2d6UEhXczdGYktIR3ZHLUNfUzF3UHJXMjdxa3ZxLUJ30gF0QVVfeXFMT0JKMTZ6WEQ4NjdIRG9QLTJ0a3pMMVdwLXVlMHh4Slh6UHpsak92T2FrWWF6OHBfNW1IaDM5NG9McGZNbFgyR3d4MjNlRExGbDJrc0FpSmt5ZG1VS29WdkdQVjI4X09zbkZVejFTVHgtOE9lY2E?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-22T04:39:53.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "두번째 증시안정대책 나오나...정부, 긴급 F4회의 소집",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkbzR6Vm9lNzFGLTJqYWIwOEFmNFY4RThabkxGVEFCLUlmY0JEV0VweS04bzlRMzNjYnlkcWVnRkVNNW1FMzJtSVhOUDN1YjNJQUQyY25YNnZOaVFob0Nr?oc=5",
+          "source": "스마트투데이",
+          "publishedAt": "2026-11-22T02:56:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경제부총리 오늘 ‘긴급 F4회의’ 소집…국내 증시 안정 대책 논의",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95cDVpa1J6NFAxTlRwNlYya3Y0Q1ZqQXk2MDZjcXIwU3dQeDMxVWlWTGhqd2VTNVpwLUJ3TDZtY2Z0MkZQMTBVS19ENmJBVHdEVVhjS2Q1UnpEWHM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-22T02:45:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t5",
+      "title": "AI 공포에 급락…코스피 4,700선 턱걸이",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "코스피 4700 턱걸이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuaVVyeFVzMGZoWXFfTWN1Y1QxeVNwbWZDaVNnWUtHb3ZubVlSMFlmTFhQaVhkNzl3ZkpPQkVzRlhobXVUMDR0eEwyMEZXWlR4dC1wNWFjNmwzd9IBX0FVX3lxTE14VWFwX2hueVo2Q3dGX3Z0aWJFb1V1eFJMcndnM0VkX0dTaFpxRTgyZHVFQ3Jxb0pWcERMaEs2NkREVVh1VktGWDJSZmNleGRrMDRrNEpSOFV1QWdrV2dr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-23T12:23:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "AI 공포에 급락…코스피 4,700선 턱걸이",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wam43VUVOOUl3Q3B3U1NQem11bktwMng0WDJIbHBLbVVmNW5KLVJEbmtEVUo0cFpxRWxJZncwWW5ldVA4SEJpRHVYcFVpSGhyUklHS09TLXkwQXdlWGI4SWM1d2VmWWc?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-23T11:12:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 미 AI 쇼크에 급락…4,700선 내줘",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ONzdHbEt2ajBObGE1MjFvUzJnclhQT2VWYl9yc3F4dXVBMUx3NVd0b1JaVm4xVUNlc1lsOVNMdERsY0tTOTg0Si1Zb3FTUlQ5c2dVOUh4NmotV0RqeEtHLXhId1F3R2M?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-23T01:29:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t6",
+      "title": "내일 금리인상 확신하는 단기금리…골드만삭스 등은 동결 전망 |",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "내일 금리인상 확신하는 단기금리…골드만삭스 등은 동결 전망 |",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ReWhCNk9iVURMTzZzMHp6MGZWQmZBd2NicG5obDZOd1BPUDVURDNEZDlrdGV1ZkxkbFhsR3lTSHZkbk50MHlNa2pNRVdXVi11d1E4N3F5LXFINENxZjhJVmxxWkExaDRFdXlHdnZHNG1DQTVp?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-11-25T02:07:34.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내일 금리인상 확신하는 단기금리…골드만삭스 등은 동결 전망",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FZWxEVlhqQTBaR0NValRxR0dxWGt6bkdMSTFsY1kwN1EzVUM4QndBY2N1d2JJREs1VTdiQXd0UEJnR0FuRHFxTm1aalpOdkktaF85TktmNXUtSTJjaVpoaG8tekQ1OVNDY1dRS2lQY0psdw?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2026-11-25T00:02:05.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t7",
+      "title": "한국부동산원·iM뱅크, 주거래은행 업무협약 체결",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한국부동산원·iM뱅크, 주거래은행 업무협약 체결",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hNlRGUXJzTUpxVzlackFwVWFFMDFOb1pfb00xcXFjdU5fSHFES3FaSkxjU1N6QlRTYWx5WTNRUkMxQ3BCSXQ5NElCcl9wWlNlTlgxRVN1REJrX0JkOFVxUHhyeG0?oc=5",
+          "source": "매일일보",
+          "publishedAt": "2026-11-25T01:59:24.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "iM뱅크-한국부동산원 주거래은행 협약",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXpzbENPMlFBM0l1Y3UwZjd2LXRKeWp3WFRzcG1OeFJqZWpYU3ZwSWJpRmJnVS1UT2MzX0NrdEIzd19LT1pjSE1mbmdGXzFLZThjeEhuekhvOVlqUkljX3J4RUNIUGItYVlMN2JuWE9mc1B1cmNxNUxCVXNmRk1kSGFabUxhQQ?oc=5",
+          "source": "Tbc.co.kr",
+          "publishedAt": "2026-11-25T01:38:18.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "달러",
+      "count": 33
+    },
+    {
+      "word": "급락",
+      "count": 30
+    },
+    {
+      "word": "AI",
+      "count": 22
+    },
+    {
+      "word": "돌파",
+      "count": 21
+    },
+    {
+      "word": "역대",
+      "count": 18
+    },
+    {
+      "word": "최대",
+      "count": 17
+    },
+    {
+      "word": "하락",
+      "count": 15
+    },
+    {
+      "word": "인상",
+      "count": 12
+    },
+    {
+      "word": "코스닥",
+      "count": 11
+    },
+    {
+      "word": "시대",
+      "count": 10
+    },
+    {
+      "word": "최고",
+      "count": 10
+    },
+    {
+      "word": "한은",
+      "count": 9
+    },
+    {
+      "word": "금통위",
+      "count": 9
+    },
+    {
+      "word": "폭락",
+      "count": 9
+    },
+    {
+      "word": "한국",
+      "count": 9
+    },
+    {
+      "word": "월요일",
+      "count": 9
+    },
+    {
+      "word": "매도",
+      "count": 9
+    },
+    {
+      "word": "사이드카",
+      "count": 9
+    },
+    {
+      "word": "붕괴",
+      "count": 8
+    },
+    {
+      "word": "미국",
+      "count": 8
+    },
+    {
+      "word": "외국인",
+      "count": 8
+    },
+    {
+      "word": "세계",
+      "count": 8
+    },
+    {
+      "word": "장중",
+      "count": 8
+    },
+    {
+      "word": "머니투데",
+      "count": 8
+    },
+    {
+      "word": "정부",
+      "count": 8
+    },
+    {
+      "word": "엔비디아",
+      "count": 8
+    },
+    {
+      "word": "삼성전자",
+      "count": 8
+    },
+    {
+      "word": "긴급",
+      "count": 7
+    },
+    {
+      "word": "금리인상",
+      "count": 7
+    },
+    {
+      "word": "푸드",
+      "count": 7
+    },
+    {
+      "word": "기준금리",
+      "count": 6
+    },
+    {
+      "word": "안정",
+      "count": 6
+    },
+    {
+      "word": "주가",
+      "count": 6
+    },
+    {
+      "word": "상승",
+      "count": 6
+    },
+    {
+      "word": "반등",
+      "count": 6
+    },
+    {
+      "word": "검은",
+      "count": 6
+    },
+    {
+      "word": "가동",
+      "count": 6
+    },
+    {
+      "word": "준비",
+      "count": 6
+    },
+    {
+      "word": "상장사",
+      "count": 6
+    },
+    {
+      "word": "승진",
+      "count": 6
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "11.19",
+      "event": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신"
+    },
+    {
+      "date": "11.22",
+      "event": "두번째 증시안정대책 나오나...정부, 긴급 F4회의 소집"
+    },
+    {
+      "date": "11.23",
+      "event": "코스피 5% 급락…매도 사이드카 발동"
+    }
+  ]
+}

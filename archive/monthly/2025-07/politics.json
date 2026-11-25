@@ -1,0 +1,407 @@
+{
+  "month": "2025-07",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:18.552Z",
+  "articleCount": 204,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-07#t0",
+      "title": "내란 특검, 윤석열 전 대통령 구속기소",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "내란 특검, 윤석열 전 대통령 구속기소",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Id1NkWVpGbDVfOVB5NWp2ZzctUkhhc2plYnoxR3h0a3hteGVrWkdZY0VZbXNFZlVvYm1ZR183UmdIV2tIUWdZcGloTnp5T21fSkY2R1BONktQNm10dm9keXdoaEhVaDdlYWZqUXdn0gFyQVVfeXFMTkpCNVBJR3pJbDgyOU1pc1dIdFR3ZVd4dHhENUkteGtGc041UU1xLTJrdkkzZGI5alJ0TDZyOE9fc0oyQ2M1VnV1NEp5WXRDdEc2cTdQMjJLV21MSk00RzFBbE00MWZ5U0FPM2hOMnJrNG53?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-07-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "윤석열 전 대통령 내란특검에 재구속",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wVEhNbWxMeHkyV3lUQjdzZHIwS0ZKcUVsTUpoLUIxVHFzX2s5ZGxidVNybGptZzlZNTVTSWdtTG9zNFE5NENsYkpvb2xaa2owTU5BSzZWakxYc03SAWBBVV95cUxPaFJtREs0ZEJiei1FdVJLaFI1OEFZSnZudzd2SjNkN0owWUl4WUdFdkhGaXM2dGQ3SzNONVdFTjR3eWVtZEJPZXZ4SGkyR05DVUFYd3NJQ09Mcll4V3NBWFE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-07-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내란특검, 윤석열 전 대통령 구속영장 청구",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GWHg5cTVaSmI3M1JwUzNPX2VDelM4aWhOcVl2UVJXd09yOGNtN2w1Mzc0eXhzQkVWbzV6WklOX2pwRmpPem9OSlBlc0d6ckhfd215R25Gczh3Wm5P0gFiQVVfeXFMT3VwV2xYRXlmMnRMRllVVnE2STVBRHA1ck9Da0NqVW1mSDNxdWxndGN0Q3FLdUhrdzdFSU9acTh0eEUxYmh3WFRpN3BHY0tYQUxzbGN2TnZhMGs0X3ZDWkdlLXc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2025-07-06T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t1",
+      "title": "국회에 ’계엄 해제’ 상징석 세워…“민주주의 마지막 보루“",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "국회에 '계엄 해제' 상징석 세웠다…\"민주주의 마지막 보루\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PSFhJeHYxQXB1MDl1YmdLREZCLVE2amFZaVZiUjNlZHNuMDdxMEZWZUJtUnhPNXVCcDZEenFGRTRXeUxialc0Y0oySW5aQ1NVRFpWZmpNRWZRcW_SAWBBVV95cUxPRWpuamtISjlZYWNTa3VPMkNJU2tuUzJJY2YtNXhZNzNtbWFfb2ljWVhycU5oVUhHYU5FWENGNVd5emtnQlE1eXlpUkQwMnJUVkxlbXNId1hGc3lKNDZIOTM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-07-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회, ‘계엄 해제’ 상징석 제막…“국회는 민주주의 최후 보루”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVHhReHRFUHc0dVBibXlnX2g3b0cwSF95cmhVSkRjejVySmxYdml2TFlmOGN4N2E2TWF4SVZlUjlJamZEcF9jUnVRUTI1OTJyMEZPVXN0WDRaRnc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-07-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회에 ’계엄 해제’ 상징석 세워…“민주주의 마지막 보루“",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9neWRHdHo2ZG8yQ2tTY3ItQldJbW1QajJKT1RSU2xtaEhYSzJTUkNNUGcxZ0ttbEMzbGJFb1FJZVBHdUxqdks0by05X0xrbkZKNHN1MWFJbEp1VXlsRlNmY09QdGEtUFU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-07-17T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t2",
+      "title": "계엄 선포해도 '국회 통제' 금지…계엄법 개정안 국무회의 통과",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "계엄 선포해도 '국회 통제' 금지…계엄법 개정안 국무회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQXhhQnhrUlBkNXV0OFh5MExuU3hPQ3UzSjc0Z0VfTktJNlJLSUNPX2tqV3RkUGR1V0tMaWFRdktZLXBGLW16STNaVjhKd2lXdEthSXB2LWlqRjTSAWBBVV95cUxNMWdxTktiRnlReVZ5NXFVZ2VGMFQ0b2pUaVVpaUVkdkhZN0RMMnR0NkU0MG14OERqWmtTTEhMd2QzRTU4ZVktZjNyWW5LaWJiRXlDb2ZfRHh1eVRRRm5aWWw?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-07-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "계엄 선포해도 '국회 출입 방해' 금지…이달 계엄법 개정안 시행",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mTUpMc1BfbVdCU0Vld1dnUDhXUEk0NFFfbnBKc1gyU29EZ25faDRhcHZDQVJhdWR0d19tX3lLd1BHQ3dOb3BtTmFQWXdFVWZCS0tnQ09UUzZvWVlKdTZuYWtfUGN3eWtKdW5KeQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-07-15T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'계엄시 군경 국회 출입금지' 계엄법 개정안 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NQ1l4cXRNbFp1amFTS3FsbEZqWGFmOVJKUzJXZ2VMemh6bkVBTi1yRktBdmlrdHVpNUJYSERkTHkzdTBxX3B2WnhjUnROQWVGcWlBa0pn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-07-02T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t3",
+      "title": "21대 대통령선거 선거비용···이재명 535억, 김문수 450억, 이준석 28억, 권영국 10억",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "21대 대통령선거 선거비용···이재명 535억, 김문수 450억, 이준석 28억, 권영국 10억",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVLWFTUmhSeFZKa0Qwb3lzMk5lTm03WlBoTlQtREtTaVBzLWdyUWtHZ1NGRWg2Umt0T09ULWdnTjVNSkJMYjlmUjdaV3BEVTRxb2lYb01vRlJZbWtB?oc=5",
+          "source": "한국법률일보",
+          "publishedAt": "2025-07-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이재명 535억, 이준석 28억… 대선 선거비용 정산해보니",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZS281QXpQWXVIcDdfX21ObVJGcFI4Y1lDeFVjSEVaeHRSQWU3d2stTzVEOVZUNEJvdFI4Q00xQ05nMUJwZThwSzBVV1AwTUJ0OXNWR2h4bjkyclR6TUVUWGtJUGN5a2xGd0HSAW5BVV95cUxOMFQ5RzFWQmowX3RZYTNUcUU3VUNfY3FLSHkzNGdjVWQ4cl9DVXJZU3BXWm00dHR5QmZTY0VIVUVCdWlfMjFCYnVhX0NUUUNYVl9EdG8tRnpRbWo0cDdrWU5EVmVQdGU0WmE5cURnQQ?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2025-07-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t4",
+      "title": "영국, 다음 총선부터 선거연령 18세→16세 낮추기로",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "영국, 다음 총선부터 선거연령 18세→16세 낮추기로",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXOXFZd0xhYndqU1pXMWl3TUpRTGhvVFRBdjNQNGRFUlVpcWdVQmVEZmxJOTZaOG9oQXRzbjA1emlIbEVOVlh5QldQQ0xtcE1zWVd0QVBB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-07-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "英 다음 총선부터 선거연령 18세→16세 낮추기로",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFZlhoam1ZNHl3XzktVU02VTFFWGJBd1h1Y2pQTDNGcFlSVmY2U2lUd3FhSy1oYlNNbWsycnc5enN4eGI1RGdqejh3T082T1B0WXVGbmpaR2VWMVXSAWBBVV95cUxPMThUVGp6Y2V6X3lfdnlJSHJONmYyeDNOdUg3REtHN0FXbVgwSHNWckE0Q3RUZUJQWUZGbG5kZWRJOUFrajFITVZaV21DZE1mSTNVNTdjMzJqQjdmTzhOZW8?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-07-17T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t5",
+      "title": "유상범 의원, 국회 운영위 간사 선임",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "유상범 의원, 국회 운영위 간사 선임",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEalZ0YksyaHpNbDRPNlFkbXd4OE02UlNJTVlxemhEOHBkbFVQeFUzOEY3UmFXTllJcV94OUhIa1lfY0FVSmxac3k1U2hpR1ZOR1h1TzBrVzVmeE9o?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2025-07-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이수진 의원, 국회 보건복지위 간사 선임",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GbzNUdDNwVllQbDN6RmZWMmdrbGdYZk5hYmhqVEVtVWsya2lNLXB4RC01OUtXazQyTWZPbkhfR0RZWGwyTWdMRTBZMlhidHd4THR1MFhaQlYzM3JsYVc4QkpJVFloOXVp?oc=5",
+          "source": "치의신보",
+          "publishedAt": "2025-07-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t6",
+      "title": "이 대통령 \"한미 공조 바탕으로 북한 관계 개선…대화 단절은 바보짓\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이 대통령 \"한미 공조 바탕으로 북한 관계 개선…대화 단절은 바보짓\"",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00cTBXbXNsaDNXUUVubjdoLVdiTXlTN05rMDB0OGVia1lWZ0N4MVM3UzJmYUMtRjJyal9YaDNpRWJzR3J3YTdIWjktaWtWU0lHWU9Nd05wbGpFYzJQX0tYRnpQRXBwYWZYSjJaMw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-07-03T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이 대통령 “북한과 대화 단절은 바보짓…한미공조 바탕 관계 개선”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLWWVwM2V4MmNfYXcxa1Fsa2NLeHlKdVg3Mk1DZVJSbzBsMmVsYkswajNzZ2NmNGh5SVhDUTlaTXBBbk94U2tEbWg0X2ZxSUNvd2JqUDdFS1ByVTV0Zi1pRUpGVVlua2hLYzllb2pQUFN3WmZR?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-07-03T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t7",
+      "title": "제22대 국회, 장애당사자 정치 1년 평가 – ② 남은 3년, 장애정치 실현을 위한 향후 과제",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "제22대 국회, 장애당사자 정치 1년 평가 – ② 남은 3년, 장애정치 실현을 위한 향후 과제",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zSGpXcWY2ZkdWZzdKZk9XckNrT3lsTm9VbGUtcWVFY3RMSFdhRUJOTmJNel9pVDc3SmNVMFNVcThXeHNrNDA5R09teGluRTg?oc=5",
+          "source": "더인디고",
+          "publishedAt": "2025-07-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "제22대 국회, 장애당사자 정치 1년 평가 – ① 법안은 많고, 변화는 없다…‘상징정치’의 한계 드러나",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rUHFqcWxhdmR4ckJaZU9QcDgyWmZScXlhdGxpRWJ4anQtTFR6c2FMblREdzZXRF9rYkw5OUZtY1VITXNfSHFtTFozandjNGs?oc=5",
+          "source": "더인디고",
+          "publishedAt": "2025-07-10T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 16
+    },
+    {
+      "word": "윤석열",
+      "count": 14
+    },
+    {
+      "word": "통과",
+      "count": 13
+    },
+    {
+      "word": "김건희",
+      "count": 13
+    },
+    {
+      "word": "수사",
+      "count": 11
+    },
+    {
+      "word": "일본",
+      "count": 9
+    },
+    {
+      "word": "의원",
+      "count": 8
+    },
+    {
+      "word": "내란",
+      "count": 8
+    },
+    {
+      "word": "극우",
+      "count": 7
+    },
+    {
+      "word": "참정당",
+      "count": 7
+    },
+    {
+      "word": "조사",
+      "count": 7
+    },
+    {
+      "word": "개정안",
+      "count": 6
+    },
+    {
+      "word": "계엄",
+      "count": 6
+    },
+    {
+      "word": "민주당",
+      "count": 5
+    },
+    {
+      "word": "이준석",
+      "count": 5
+    },
+    {
+      "word": "이재명",
+      "count": 5
+    },
+    {
+      "word": "후보자",
+      "count": 5
+    },
+    {
+      "word": "해산",
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "구속영장",
+      "count": 5
+    },
+    {
+      "word": "의혹",
+      "count": 5
+    },
+    {
+      "word": "압수수색",
+      "count": 5
+    },
+    {
+      "word": "정치",
+      "count": 4
+    },
+    {
+      "word": "발의",
+      "count": 4
+    },
+    {
+      "word": "계엄법",
+      "count": 4
+    },
+    {
+      "word": "해제",
+      "count": 4
+    },
+    {
+      "word": "상징석",
+      "count": 4
+    },
+    {
+      "word": "대표",
+      "count": 4
+    },
+    {
+      "word": "국민의힘",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "이시바",
+      "count": 4
+    },
+    {
+      "word": "참의원",
+      "count": 4
+    },
+    {
+      "word": "반대",
+      "count": 4
+    },
+    {
+      "word": "선거비용",
+      "count": 4
+    },
+    {
+      "word": "내란특검",
+      "count": 4
+    },
+    {
+      "word": "국민",
+      "count": 3
+    },
+    {
+      "word": "변화",
+      "count": 3
+    },
+    {
+      "word": "본회의",
+      "count": 3
+    },
+    {
+      "word": "토론회",
+      "count": 3
+    },
+    {
+      "word": "개최",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "07.02",
+      "event": "계엄 선포해도 '국회 통제' 금지…계엄법 개정안 국무회의 통과"
+    },
+    {
+      "date": "07.05",
+      "event": "내란 특검, 윤석열 전 대통령 구속기소"
+    },
+    {
+      "date": "07.09",
+      "event": "유상범 의원, 국회 운영위 간사 선임"
+    },
+    {
+      "date": "07.17",
+      "event": "국회에 ’계엄 해제’ 상징석 세워…“민주주의 마지막 보루“"
+    },
+    {
+      "date": "07.22",
+      "event": "21대 대통령선거 선거비용···이재명 535억, 김문수 450억, 이준석 28억, 권영국 10억"
+    }
+  ]
+}

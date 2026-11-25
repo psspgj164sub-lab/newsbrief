@@ -1,0 +1,407 @@
+{
+  "month": "2025-07",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:13.086Z",
+  "articleCount": 274,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-07#t0",
+      "title": "내년 최저임금 2.9% 오른 시간당 1만320원…17년만 합의로 결정(종합2보)",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 7,
+      "sourceCount": 7,
+      "articles": [
+        {
+          "title": "내년 '최저임금 시간급' 2.9%↑, 1만 320원…\"17년만에 합의\"",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54UV9abGRmdjBzbmpmSmdXV1VYVFZyQ2VMeUNPNUh6ZUo5ZkhxdFlNcy1ORTRvbkdmZzEtOV9GOGhGek1kMzFJb0tjbzNQYmcwY1ZlSXdKWkliT0VfTU55UTJUNVdSelh3WF9iNQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-07-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2026년 최저임금 1만320원…17년 만에 노사 합의로 결정(종합)",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRWZSbGlGWVJRSVBrRnZQMGhsT0ZDbk03MFUyci1SX2E1T0lqRVZZZjZDVlRYbzJVQ3llTDNjMU4wYU5rQ0dWcWpMeS03ZGhXcFM2bjJpYklZcENwemJVdkQ4ZWg4UlJvdDh4V3JnUHFEaGdqRVBsUTllQXViUUE?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2025-07-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대통령실 “최저임금 17년 만에 합의로 결정, 의미 커”",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ySHhmeUt2cjktN2VsS2FaUHBUUy03R2RaZHBETDFhQ3RGazNFZ3pCNGhtV21YM2c5eE5ha2hDdXBVTFhpem5XTTFiMC1YNXE5OTdPWjRzeFBwZG9IcXhoSDlveTZRM0tocURr?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-07-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t1",
+      "title": "‘9.2 노정합의 이행’ 합의 타결, 보건의료노조 총파업 철회",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "‘9.2 노정합의 이행’ 합의 타결, 보건의료노조 총파업 철회",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nQjRGOXN4aUxfVUhvdWZiNDJWdUtfZVlsNU1PRzVFbGVzelRlX0M0ZmF1a2FDS1JEMWI0bjliX0xocVdtbF9HWXNkcU5adlVpMndNM0QzVmVPN3h1eHRqcWFDYTFubFlFTDhib0dn?oc=5",
+          "source": "참여와혁신",
+          "publishedAt": "2025-07-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "보건의료노조-보건복지부 9.2 노정합의 이행체제 복원 합의",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MTFJ4WmV3d2ozQWJmUklncU1zbU5rQ0UzV2pZeWp5aF9jUVQ1aDFuV1dYQ013QjhVNHl0R0JQWUpDM2VTaDFXcjVhWTMxSzdBZGd4aDRlaw?oc=5",
+          "source": "보건의료노조",
+          "publishedAt": "2025-07-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "보건의료노조 ‘총파업’ 철회…“9·2 노정합의 이행 협력 약속”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SRlBreEcxTUNXc2dGX29Oa3Z1bDZDOS1CaDdVV3gxWTZBQWE0WDVRRWo5MEF3SGI4eUU0VnVBR1dZTjNjY3dTYnJsdnI0R3RNSTdXY2tTVWVhSDQ?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-07-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t2",
+      "title": "고용보험, ‘소득’ 기준으로 전면 개편된다",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "고용보험, '소득' 기반으로 전면 개편…\"취약근로자 두텁게 보호\"",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40RGU3SEtza0g4ampCeWlldndsZ2gydVVSd2twZVRrdzk1bVlKcmRLV0p4TXp1Z0hNY3dILVhRS0czVHBuVTVyRGhFb3ltWkdJUlpRSFBpVE9qaThOVHl1WE9pTzh6c1FVTk1jVg?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-07-07T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "고용보험, ‘소득’ 기준으로 전면 개편된다",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DbXNSVks3SWRYVmIyWnlZWk1HcEJMVlBnZGt4YXRORzJHYVQ5VUI3eFQ3ZWJ5Q1Bxd2RzNG9IWTBMWjFhRHFUWDdLOEhGV3BReGF5Q0FLOTdtQ1hKdUFQR2xpX0FoUkhOWUE?oc=5",
+          "source": "중기이코노미",
+          "publishedAt": "2025-07-07T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'15시간 기준' 역사속으로… 고용보험, 소득 기반으로 전면 개편",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tTG81SUlrOXA1WjdhYzJDMC1BdUpWQzd1aE9QN2JmR2NWMWNiRS14aDhtcHhnOTVpRjgxWmhKME9oTWdUWnc?oc=5",
+          "source": "Daum",
+          "publishedAt": "2025-07-07T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t3",
+      "title": "포스코이앤씨 8번 중대재해 죄다 ‘재래형 사고’",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "포스코이앤씨 8번 중대재해 죄다 ‘재래형 사고’",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5feDRuSnVsSWlqck1JcnU2YUU4WnAwWmZQMzVodzk1dnlzQWhwb2Y2UVdDMVI1UDJHVjUwYmNneXVzek5LeU54b3pHQ1F5UVBjR3Nhc2JvcEt3NFhPcUtlako5aEJpYTJfVnNFMWJEN1U?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-07-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최근 포스코이앤씨 중대재해 사망자 현황",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOTdfTkM5dTlNdG9NbW5jaTJJSFJPYUdyNmNyaUxtN1lJRXJ4NUtSUmwwMTdIZUVTMkhjTTZwdm5SVy1zcWVwdjVlM01RR1Q3MXRVUU1NdUdnV2fSAWBBVV95cUxQaFF0Z0p6eW5uamhaMmpFSjdVemRvc0QxdlYxcWNneEMwTnpfVlpIcGM4ejNUaFBwTE13Z3JzdUNNZ3hQTU9TLTI4YlJJNDFhNEcwU1R0dnAwRVdtRVhoVjE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-07-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t4",
+      "title": "쿠팡 물류센터 노동자, 8월 파업 예고",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "쿠팡 물류센터 노동자, 8월 파업 예고",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03bUxJZTVqRk1mRmVKRlZvdjc0X2ZTaF9FSEROQnZjdkdDajkwOFJ2Xy13bHAyOVJ4X2VpdmtiNWdkSWJWeXR4WmQyU1JrQnJPc0lTenJoRXgtdDVBQmRoN2xEd1UxZFByWFVMQ3owdU8?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-07-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "쿠팡 물류센터 노동자, 8월 1·15일 파업…14일은 불매운동",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EaWhZV0FHd1BYSktQQ2duY1hPVEUweU1kTEs1ZHkyWFYxU0ZUd1lsdEcwMkZRckZYU3hVUHlQT2VneXQ3dkwxUzg1NDFnOWNqOExsLXl0enZVYUU?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-07-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t5",
+      "title": "외국인 노동자 집단 괴롭힘…고용부 \"즉시 기획감독 착수\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "외국인 노동자 집단 괴롭힘…고용부 \"즉시 기획감독 착수\"",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxNTVOM2tESzhybnRZTkR5R2VCWGNXNWxPVmNZbnNSVW5KWm5yQjRLMEhiRjc5NXNaSWZSYmQzNnZOUkNzaDM2R1lFLWllNjlsMXU5Nmxub2k0cHhxTGtnUnlsTDF1TUZDTGZXdA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-07-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"너 잘못했잖아\"…도 넘은 외국인 노동자 집단 괴롭힘",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9USXpCc2FPYllhSjJqa19ySnZsVFp4RlA1SXN5VHp0QUFIZTNkSkpVLTVxWWdHZXRRZGVXQUEyRk1QYk1WakFEZWZaTmpUaWgzOWtMR3c3WHMwMUXSAWBBVV95cUxPTFNjWjhtV3lXNlNvczVfNE1pNkxtVDdFeHN4aFNlcHg0YS1wTWh2U1dTQllVSWI1ckJ4cTRaX2ZISXBaYjFleWdLOTlHZ1hqYXExUGxjbFdSeVRFaVo1V1U?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-07-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t6",
+      "title": "지게차에 이주노동자 매달고 \"잘못했다고 해\"...가혹행위 '충격'",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "지게차에 이주노동자 매달고 \"잘못했다고 해\"...가혹행위 '충격'",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wMllZcjNlcDF4S1lTSFdzNTk5QW9ZaE4tN2ZaS3I4U1FEbjBpTFVFUFBRblMtUlRKbl9EYTRoaXl1UkZIbmZwWnZ0eUJjNlBScllDYjZwWS11VU85VkE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-07-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "지게차에 묶고 \"잘못했냐\"…충격적인 이주노동자 인권유린",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kV3hFbXRKNEN3SmF0WWdlT2tBU0xSeXRyRWY2ZmpiLUR1YUxacVVGWDRiTXV1YnJQRUdLTXZYMmJwb1M0enJLNWNyYTIxcUx0UHJNSHh3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-07-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-07#t7",
+      "title": "지게차에 매달린 이주노동자…대통령 “눈 의심했다, 엄단할 것”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "지게차에 매달린 이주노동자…대통령 “눈 의심했다, 엄단할 것”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9weTRiU3JJM0k2M21wTjZqX1BaMHdFRFkzTTRXWHhrejRXRjZadk5mc09kNkFETzl2RjBGZllISnVrWUdkdXc4bU5DOUYyX1dmMlI3bGN3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-07-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이주노동자 지게차에 매달고 ’낄낄’…이 대통령 “인권 침해 엄단“",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NdlJQanJsZ0xDOWtETnFLMFpueVd2MGNlS2QtbmtSTW5Ldmczcm9uQXJYRjQzMlFqME1CM3VzVmNTZHBkSDNTN1ZBbnQ3QTl6eGdKeU1LMEpqZHN1dl9yZV9Ha1hoUjQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-07-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "노동자",
+      "count": 16
+    },
+    {
+      "word": "대통령",
+      "count": 14
+    },
+    {
+      "word": "지게차",
+      "count": 14
+    },
+    {
+      "word": "법원",
+      "count": 13
+    },
+    {
+      "word": "정부",
+      "count": 12
+    },
+    {
+      "word": "청년",
+      "count": 10
+    },
+    {
+      "word": "총파업",
+      "count": 9
+    },
+    {
+      "word": "사망",
+      "count": 9
+    },
+    {
+      "word": "인정",
+      "count": 8
+    },
+    {
+      "word": "폭염",
+      "count": 8
+    },
+    {
+      "word": "고용보험",
+      "count": 8
+    },
+    {
+      "word": "합의",
+      "count": 7
+    },
+    {
+      "word": "기업",
+      "count": 7
+    },
+    {
+      "word": "부당노동행위",
+      "count": 6
+    },
+    {
+      "word": "위반",
+      "count": 6
+    },
+    {
+      "word": "통상임금",
+      "count": 6
+    },
+    {
+      "word": "예방",
+      "count": 6
+    },
+    {
+      "word": "전면",
+      "count": 6
+    },
+    {
+      "word": "개편",
+      "count": 6
+    },
+    {
+      "word": "외국인",
+      "count": 6
+    },
+    {
+      "word": "사용자",
+      "count": 5
+    },
+    {
+      "word": "제도",
+      "count": 5
+    },
+    {
+      "word": "원청",
+      "count": 5
+    },
+    {
+      "word": "한화오션",
+      "count": 5
+    },
+    {
+      "word": "민주노총",
+      "count": 5
+    },
+    {
+      "word": "노란봉투법",
+      "count": 5
+    },
+    {
+      "word": "괴롭힘",
+      "count": 5
+    },
+    {
+      "word": "소득",
+      "count": 5
+    },
+    {
+      "word": "고용승계",
+      "count": 5
+    },
+    {
+      "word": "노동부",
+      "count": 5
+    },
+    {
+      "word": "이재명",
+      "count": 5
+    },
+    {
+      "word": "숨진",
+      "count": 5
+    },
+    {
+      "word": "보건의료노조",
+      "count": 4
+    },
+    {
+      "word": "교섭",
+      "count": 4
+    },
+    {
+      "word": "개선",
+      "count": 4
+    },
+    {
+      "word": "현대제철",
+      "count": 4
+    },
+    {
+      "word": "단체협약",
+      "count": 4
+    },
+    {
+      "word": "철회",
+      "count": 4
+    },
+    {
+      "word": "노조법",
+      "count": 4
+    },
+    {
+      "word": "대응",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "07.07",
+      "event": "고용보험, ‘소득’ 기준으로 전면 개편된다"
+    },
+    {
+      "date": "07.10",
+      "event": "내년 최저임금 2.9% 오른 시간당 1만320원…17년만 합의로 결정(종합2보)"
+    },
+    {
+      "date": "07.21",
+      "event": "‘9.2 노정합의 이행’ 합의 타결, 보건의료노조 총파업 철회"
+    },
+    {
+      "date": "07.24",
+      "event": "쿠팡 물류센터 노동자, 8월 파업 예고"
+    },
+    {
+      "date": "07.29",
+      "event": "포스코이앤씨 8번 중대재해 죄다 ‘재래형 사고’"
+    }
+  ]
+}

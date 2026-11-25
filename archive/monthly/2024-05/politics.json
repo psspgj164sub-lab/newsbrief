@@ -1,0 +1,403 @@
+{
+  "month": "2024-05",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:16.378Z",
+  "articleCount": 291,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-05#t0",
+      "title": "헌재, '유우성 보복 기소' 안동완 검사 탄핵 심판 '기각'",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "헌재, '유우성 보복 기소' 안동완 검사 탄핵 심판 '기각'",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOeDhtNFl5MHJvV3MyLVo0NDYyS01VVGtoQmlzT2tEZEZYQ21kTmhEWkt5bVh3dVZJbWl0Q0lZd0dvU3Q0eE9IeDd0QU5EbFV6a1VCWHczTGtKaTdrcDNlUktZYWNqMnlMRTRGTzFR0gFyQVVfeXFMUElkUks4ZmNDZnZCTnQtLTZkYllrMndwWVJMc1BHSmoxV0U3VmdXZzdlMWNCQkJlUVJyd001Wkd3eFlMWnZkVDlPZWd3R19xV2tMQ3VCYzVxRTdaVFNkNTl5OVptREpmZVVxVXlIdjZ0Ynln?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-05-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "헌재, '유우성 보복기소' 안동완 검사 탄핵 5대 4로 기각",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aQTFobG5PUG95WE1PbDlwRmhHZUlsSGQxZXlLMkJjOEpieS1MY1JZYXpvcDB6Mkt3bVhyTXAwUDNXVEZpVlNUUVJBenlZOEtqZVZJbXUyRGdGejNaRlhMT2xuNk1aUFZmVWdsVVNWQQ?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-05-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "사상 첫 검사 탄핵 결과는 ‘기각’···헌재, 안동완 검사 탄핵 ‘5대 4’로 갈려",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KNFVOT1cwRmFVNW52Qndldmx5N3lvdlFNb0dfTTQ0R3Rrb0IzREJUTnBCdVAza3Bab2Raa1dIV2M3TzNsbFdlR2I4YmlNbUlsOWdGUWVrc1VHQdIBX0FVX3lxTE5vdlZUUW5GRUtXcURHRzYxN0hrR093cDNNOE05M252Vm5NWTdLckZJRC1EWEV5bnhCMG50NURjMkZwSkpJTlVCQ0c4SmlmVUgwTFV0b1o3cTZ5cHE1QmlB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-05-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t1",
+      "title": "‘북핵 협상’ 한반도본부 역사 속으로…외교전략정보본부로 확대",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "'북핵협상' 접고 '정보수집' 나선 외교부...한반도평화교섭본부, 외교전략정보본부로",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGUjVpZEJMS0JIazdGWWFIQ2hxeFo1YS1kcnBzY3RpcmtOb2N4UlJjamRnWFVYTTBlY0hRNzRuTU9aMmFmWGM1RmJyMy0xVGVieHlXYlhGNzNVOGs3ZEdnMWxvWnhOdXJ4WFE?oc=5",
+          "source": "SPN 서울평양뉴스",
+          "publishedAt": "2024-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘북핵 협상’ 한반도본부 역사 속으로…외교전략정보본부로 확대",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EQlotSUw0TDc3c0hoQWhibFhwRGxVSkdnX2ZMYTJiaUVnWUxqZ0MySFRLTlh0T2lGd0RpbzdJRWtnLS1lVTFSVE1iMFlEUFFCTUlaa1dRNEk3N3hOTExzbnFtdERfZldyU1hSLVAxOWRRZ19s?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "외교부 조직개편 단행…한반도본부→외교전략정보본부로 확대",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdDVnbm1wMUdNdDRUMkRUN21rZjBPeWpURDJpTG4xU01PQ0Y3RzhJVDM1U2VneW44WXRXTDQ0aW0tb0lqSTRpQ1gwMzUtUEZMRFdSXzM4Z3pfNDTSAWBBVV95cUxNbnJkQnF0dndVVWVSbDQxMEV1M3hYQXJORzNkVzlIOFdBQmFocWJ0TmZ5N1BkRjFMMUo5MUlQOU0zWFZrZzROYXdQMF9TcVlfdzdsQmZzazdmR0lJMXZNVVU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-05-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t2",
+      "title": "추미애가 졌다… 국회의장 후보에 우원식 ‘이변’",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "추미애가 졌다… 국회의장 후보에 우원식 ‘이변’",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01ODhReXZTdzl3aGd4Yy1RMndTUlhNU1gyanVCaFE1NWxBaGxCS2N6TFBLYjVpZ1NwZl9sVWtHTWZQbWo0dW91dEZYVGJyMVFZLXVoMGppdnQ3WFpVR3lLT2k4WXhCZWRnQTJIMmlrWUtUWFNvRUhR0gFmQVVfeXFMTm9OaWxYY2RVTll0TmdSWHQyYkhqVDBBTGtGazlwcHk1Q09Wa1lYT3Y5UWdmNi1GWWZoaEZzM0pSTFFIVWR0akVrU0xHR21LSjhBVDVmSU10U29tdGFBMmRtMkNhMk1R?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2024-05-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "우원식 ‘명심’ 눌렀다…국회의장 후보 당선",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZSG5Fdy0yNDJEZ1lxNmQ1Z3U0Z2pmUW5VRVU3RWUweHdEUE1oYjVna0pnVzJuTGtQWWxhZU95aGRkY2Y4WVVUdEFTVEQ5ZUN5a25yWnNB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-05-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'명심'은 추미애라더니…민주당 국회의장 후보 우원식 선출",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vU2dYQk9ObUJDcnphTmRGZGtuVE5lRmd5NjRCR0VZZ1BYUExHN1haa0RMcHF2Ukt0TjVLQ2xGSXI0MmhhZlZBMG1XZTVqbU43bWczN3dn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-05-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t3",
+      "title": "지난해 남북교역 사상 첫 제로…4년 넘게 인적 왕래 끊겨",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "지난해 남북교역 사상 첫 제로…4년 넘게 인적 왕래 끊겨",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LWGNPOXdJeXd2ckFCdTdTanZQZjJKN096RVhTd2ZJR2lhOUpqUDROdWVPcEJBTHF1WF9oRWd3ZkxpTjZUWGJ6NzY4eFQ5aVVHbnZTM3JONllHV1HSAWBBVV95cUxOU3Bqa2hhMlY5b0VVN2JuYlhPNGtfYkhjaHVxSzM1SEY0SFZlNEdwNllYNW5lOWVpYUtJX25VYWFsZ2lpQW5QcUFqMlZfdnJveWYzU1Z1ejd4V2hhLUtXU2I?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "남북 교역액 사상 첫 ‘0’…4년 넘게 인적 왕래도 끊겨",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ZlhIcUM0UWczX2J5Q1NiOXB4aEdwcDNZRzhsRktJM3VhRmczZHQ5MEdYaXJkUEdsenJSRVNEMDB1SjBjRzR0MVE1aGNtUjQ0blZzTVR2NE9JR2M?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-05-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t4",
+      "title": "제22대 국회 개원했지만...",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "제22대 국회 개원했지만...",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84bi1GQ2J5YUZIeFFyb3ptbkhYbC1VdWs5V0hxSzhpMDU0bEZpam9pMVJ5T1Frc2FYYkVhTkRwOTdFZUVacTFmNEtOUEU1OF8tT3VWaWdrbGdHeld1NDZNV2J3?oc=5",
+          "source": "돼지와사람",
+          "publishedAt": "2024-05-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "22대 국회 개원, 야당 ‘세력 과시’",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Gc05scm5VdnhNd0JvemVWeHBzTHRsMm9Pd1R1alNBYXdpQ18yNndDb056ckhlclNWc0NmSUlXUndWcnJsNngzbHlka3FNcGhJeEtpdUJSNkFTZnpESzZRSWg2NWU3LU1JT2FMNTRmNFU?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-05-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t5",
+      "title": "제22대 국회 개원, 6월5일 '전반기 의장단 선출' 첫 본회의",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "제22대 국회 개원, 6월5일 '전반기 의장단 선출' 첫 본회의",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51RmhPYzdaNE1ScnNOYXlDempZaExVTzFBdzRybG5ac3VLZERYc2wtcGJPT3hiMmhybDdoclAybnhIdnBhaHBkLUd1azBJLVhmSFBVbE42M1JrZkZDM25aUWNRamJFVXhESnkydjAwcTJWQnc?oc=5",
+          "source": "비즈니스포스트",
+          "publishedAt": "2024-05-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "22대 국회 오늘 개원…내달 5일 '의장단 선출' 첫 본회의",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qQVFDYjV0cHBQRnV5VnRPS0pfclJ1eFhOZk9CSmp3ZGZfRU4wajRjOFhRekQxRHo0SmY3aFRGY3pHa0xzRUx5WFRMLVBmbzhmNGNuTVhyN0xDS1nSAWBBVV95cUxNTDV1WnBiTDhqdVRXRnpSd1RUc2tlalE1MWhWSjF0bjR2TjM3NU42cjQwblJjM19tYmpiSDRhZlJZWTBKYmI4VEVuY0Q5NGhrRXp5VnBpZDY4TlAzYlFNdl8?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-05-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t6",
+      "title": "김태흠 \"특검 찬성하는 안철수, 당 떠나라…그게 책임있는 모습\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "김태흠 \"특검 찬성하는 안철수, 당 떠나라…그게 책임있는 모습\"",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOZkNIdGpFUjVvYU9pUndldldjbUJLRHhxYk9mNno2b2hqMjBXQm1oWlBBY1F3MFM1QVZ4UzBzWTd4a09JdU5fUnNqZkNCSWU2cjVMU05n?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2024-05-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김태흠, ‘채 상병 특검’ 찬성하는 안철수 등 “당 떠나라”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56YU1oU3BoWl92Qk5pWDRYZ0JkblBOQ2VRU0Q3LTRfcDRIZ3c1UWREXzBtYmFBMzUwN0NpQXN5d1k4d1hhZTFBTTE3blFQeTJGYjR1OEJFMGpqaDVyY2pJVG15M0lUZjRjN3fSAW5BVV95cUxQZ3ExeDh4dEtWY2hTUWtscjd6NnJNbV9rUi1rbS1rempZNnZwdHV2OVBTZ3lWTDUxeHJvektlOVY1WWkwdmlBZ0VqSVFxODNLWmdUV3Y2UHUxbGVDemt6dW1qWW5CYlpXZ3NvRW1fdw?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2024-05-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-05#t7",
+      "title": "트럼프 선거운동 영상서 나치 '제3제국' 연상 표현 논란",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "트럼프 선거운동 영상서 나치 '제3제국' 연상 표현 논란",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NOXBhaGI5RXhpTk5FVXprNEEzeUR5Ui00Y1JmWDJ6NjA1U3JfblZBSDZXRmFPR1liWnNUWVZ6UVdKblVnSllIUlppRmFsTUl5ZGhPckl1ekVwcHfSAWBBVV95cUxPM3VYSXk1NG1Fd2xfT0RqdTdPc3k5ZmplUTJ4bFFiZmhRdk83SmRDeDlNWF9Od2djelp4MjFfUkMzWTFiS2h5Z1dHU1JKeWI1WVhGcHJuRHBER3U1VldkWUI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-05-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 선거운동 영상서 나치 ’제3제국’ 연상 표현 논란",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwaEJtVUNFVG5NeHBJU0RxVEJzMjFCUnZNS3FCYmhGRzgwZUtiUFVrZVZuUTFodlhnemFvVnZTSHVvcUVFZnlmU3FrOU1ZbHpYRmFTWGRZNjk2TE5LY3Y5azV5NFY2TVE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-05-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "국회의장",
+      "count": 19
+    },
+    {
+      "word": "채상병",
+      "count": 16
+    },
+    {
+      "word": "대통령",
+      "count": 14
+    },
+    {
+      "word": "검사",
+      "count": 12
+    },
+    {
+      "word": "우원식",
+      "count": 11
+    },
+    {
+      "word": "후보",
+      "count": 10
+    },
+    {
+      "word": "기각",
+      "count": 10
+    },
+    {
+      "word": "거부권",
+      "count": 9
+    },
+    {
+      "word": "이재명",
+      "count": 9
+    },
+    {
+      "word": "의원",
+      "count": 8
+    },
+    {
+      "word": "수사",
+      "count": 8
+    },
+    {
+      "word": "거부",
+      "count": 7
+    },
+    {
+      "word": "특검법",
+      "count": 7
+    },
+    {
+      "word": "법안",
+      "count": 7
+    },
+    {
+      "word": "민주당",
+      "count": 7
+    },
+    {
+      "word": "당선",
+      "count": 6
+    },
+    {
+      "word": "개원",
+      "count": 6
+    },
+    {
+      "word": "대표",
+      "count": 6
+    },
+    {
+      "word": "국가",
+      "count": 6
+    },
+    {
+      "word": "안동완",
+      "count": 6
+    },
+    {
+      "word": "RFA",
+      "count": 6
+    },
+    {
+      "word": "자유아시아방송",
+      "count": 6
+    },
+    {
+      "word": "앞두고",
+      "count": 5
+    },
+    {
+      "word": "당선인",
+      "count": 5
+    },
+    {
+      "word": "민주",
+      "count": 5
+    },
+    {
+      "word": "선출",
+      "count": 5
+    },
+    {
+      "word": "정치",
+      "count": 5
+    },
+    {
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "국민의힘",
+      "count": 5
+    },
+    {
+      "word": "이정섭",
+      "count": 5
+    },
+    {
+      "word": "발사",
+      "count": 5
+    },
+    {
+      "word": "김정",
+      "count": 5
+    },
+    {
+      "word": "법사위",
+      "count": 4
+    },
+    {
+      "word": "정의당",
+      "count": 4
+    },
+    {
+      "word": "추미애",
+      "count": 4
+    },
+    {
+      "word": "아닌",
+      "count": 4
+    },
+    {
+      "word": "발의",
+      "count": 4
+    },
+    {
+      "word": "통과",
+      "count": 4
+    },
+    {
+      "word": "나치",
+      "count": 4
+    },
+    {
+      "word": "찬성",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "05.16",
+      "event": "추미애가 졌다… 국회의장 후보에 우원식 ‘이변’"
+    },
+    {
+      "date": "05.27",
+      "event": "‘북핵 협상’ 한반도본부 역사 속으로…외교전략정보본부로 확대"
+    },
+    {
+      "date": "05.30",
+      "event": "헌재, '유우성 보복 기소' 안동완 검사 탄핵 심판 '기각'"
+    },
+    {
+      "date": "05.31",
+      "event": "지난해 남북교역 사상 첫 제로…4년 넘게 인적 왕래 끊겨"
+    }
+  ]
+}

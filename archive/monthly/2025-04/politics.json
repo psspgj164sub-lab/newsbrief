@@ -1,0 +1,414 @@
+{
+  "month": "2025-04",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:18.004Z",
+  "articleCount": 204,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-04#t0",
+      "title": "윤석열 대통령 탄핵심판 선고 결과 - 쟁점별(종합)",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "윤석열 대통령 탄핵심판 헌법재판소 선고 요지 전문",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVGtpRVpZMG1PS0g2OV9aQnFQRTU1XzVOQ0liSVJvM3BHVl9lUUMzTmM1TW50WjVpQmVsQTk5U2ZkZ1FhQl9BblZKeTcxYUZheFZXeFpKbnhEZTBtRVNZYWZCTnliWlZuTWh3SGFTRlJQR1Vqbk1ldTJzanVETHpGd2tjRnV0aEpRRF8w?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2025-04-04T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "윤석열 대통령 탄핵심판 선고 결과 - 쟁점별(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSFVQMGNmWGdNclB3V2VJMkttMmw2LUg1amNLRTBfMDU3Qko0X2E5SXZXZjBqLTl5R0NuVVlpbGkzY0MyY3k5YUZFRUNMbG5DcFlsdmpwRlhNenfSAWBBVV95cUxNUGQwbGJDZjEzNU9UQk1aaXJPS2VFZVBXZS1DYlNRdVVYOTE4QzFoVmg1Nk5zalQyOGNqNE5hZXI5NDZwT2tIbHpWb3E3T0VsSTlYZFNybGNockJmMHRUMF8?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-04-04T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "윤석열 탄핵 심판: 방청객 눈으로 본 대통령 탄핵 심판 선고 어떨까?",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FM1U1LXZlQW5jMFBGRnZvd19qOHRJUmtHNF8zZklNVjR6WnRPT2FTSE1vbl9UcUhaUGJkNnRqQ3dZODRDS1p1eTZTR0hzVmpGZC1UbjZhVHVRMFhm0gFiQVVfeXFMTmZncFNjLXJsRkhDTTdURkZLbFhmaXN4Uk5CU2R6ZC1HZTR1RGM4aHBQTFdEUldoZWVFYVRiTG5uZmFXUEpJZW1KVUJzWWpyd25HSlhhVUtiOXlRVVNSVFVXdkE?oc=5",
+          "source": "BBC",
+          "publishedAt": "2025-04-03T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t1",
+      "title": "한국, 시리아와 외교관계 수립...191개 유엔 회원국과 수교",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "191개 유엔회원국과 수교 완결, 외교관계 대기록 세우다",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hbzV6ZVJoRDRuWFh3WFJFWXpYbW1QdmlUWFFCUlIzbWozaUltM0dhQU55cl94eUhRdmZlQVcyR3VvRjV3Vk90dFkxUjVIb3o2LW1BaUgyVWlDd01OQWdkdC1GWE51Z2V6U3ZaSA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-04-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국, 시리아와 외교관계 수립...191개 유엔 회원국과 수교",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BMmhWZWJjeVdEWGNyZXI0a25JRm4wRmt1eTJNRmRpZF9TNW9ZZWNRWlgtbWZpdms5RmlfV3V6SnMySFFSUHFiU282WmRBbWcxM2FsbklCQVBIdTMxVkE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-04-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국, 시리아와 외교관계 수립…유엔 191개 회원국과 수교 완결",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PVVlXRmd1S2p1SDZHTzNacE1idHkzdFZDd1lvXzVfb0ppdl9KMG9HaEJJZVMwS2M2RTh1R1NyR0FKdlE0TDZpcGdxWlZnWEdzX3R2LXpkc2JZdUg4dVZkWTZQQ21xQ0dtT29oMg?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-04-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t2",
+      "title": "북한, 5천t급 신형 구축함 과시…김정은 \"원양함대 건설\"(종합4보)",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "북한, 5천t급 신형 구축함 과시…김정은 \"원양함대 건설\"(종합4보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UdTFfdGdkZG1Ob0tMd0NtOEhURTlTTVlUV1Zudm9feHlWd3pCSTdycE52T2lSZmJFN1hJSHlsalpGWnU3ZjdiaUs2aXdvT2tUT1lWQ21YcGdXVnfSAWBBVV95cUxOaWlDVjhtRndGX3dfQW1GcGlXSXo1aU02cmIweUZQd1g5ajJFYVZsa0lLN1FUd0hBM1BnYnpNaklwT3RCZDgwVE1JR2h1QzV2R0xjWW1ZT21pYWlrMkk3U20?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-04-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 5천t급 신형 구축함 진수식, 김정은 “원양함대 건설” 해군력 강화 박차",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jYm9ZelJpNWt6X2VITUFCcXllR2dvWGZVNUo0TzN1ZXIwMXRsMHhUZ1ZfSkRLLVZ3el9UanEwTW9GVmczc2FIMmdjY3R3aEJCNlRsTE1zV3JRM0kzSXZUWldfeDVyalU5WnNFN2tiLS1iV0Ry?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-04-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t3",
+      "title": "헌재, '한덕수 대행 탄핵 정족수' 국민의힘 제기 권한쟁의심판 각하",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "헌재, '한덕수 대행 탄핵 정족수' 국민의힘 제기 권한쟁의심판 각하",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hd1kwcXlxYkx6YzByVjJ6RHhudkdRRk5rMUFsQUlEeV9QZUtGSGE2MGttLUFwLTlfUWdPUGhjQ1ZBUGFOVGFQVVZEQnkwLVIwSDRlTkdXMzRMMnBrMFIyNnJrU0w3RUhNUTZPTmpB0gFyQVVfeXFMUEFyVlB4cld2SkMxT29UT0xBdWV0Z01uaWVJeXdJVnEyS1lhd2Z3bDg3THI1bGFfbXJsaTZISGtBSVg1YVN4QmkwWUM3cEc5bFh0Q1NBUlBGQXY0Y0JHN3RKeThySU1acFRjbEJERWpEbHJB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-04-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "헌재, ‘대통령 권한대행 탄핵 정족수’ 與권한쟁의심판 각하",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14S3NHeENXZEdQRXoxLVhrYXdPNDc0a3o0OEdFWlhiaDZIVTBOdjNZM01kTEIxOEhSMmx1Sm5xeWlpcTVPcFk2Ql94dUEzSHZuN0R3dktn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t4",
+      "title": "“이재명, 대선 전 개헌 동의”... 정대철 헌정회장",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "“이재명, 대선 전 개헌 동의”... 정대철 헌정회장",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeFhfQTlkTGdvOE53TWpSX0doX1dTbGNtMGs0cUxSaWp5N0NHTHZ1TUdYRkEwNkFYNUNOaFRrNWpucmVIVGZhOC13cllYcTNnR3U2bzBMWDZKbWttb1VUUG0xT0QwVEwtVEHSAW5BVV95cUxPVXFCUVpHd3AyWGdJWHpvamlfUVdJclZYdmk5UktHaTBmTDNRSHJDTDFPWGdvS21aa3BJZDMzVkUyckhHeFpxVmxzYVZXQzFrVXRYb1ZNVFZSYk5HV0pqdzBrUFkxRkN4WThFNFpRZw?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2025-04-07T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정대철 헌정회장 “이재명 대표, 대선 전 개헌 준비 돼 있어”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiUVFLSzlfc0dtV0RydUhYeGFCYmxwVDBndW1LZlFyTW5KNFpNM0xpbG80Rm10dEJPWmFRUlgzTFFQdFJ6OXkzdGxMaDFHR1JvSENEZGxWMzNqVFU?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-04-06T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t5",
+      "title": "윤석열 대통령 파면... 헌법재판관 8인 만장일치 선고",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "윤석열 대통령 파면... 헌법재판관 8인 만장일치 선고",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUnVCSExoNW5XMGszRUhzcG9lYktCd1NfenMzVE9tdzAyMHFTd3FRODZ1Z2kyUzNwdVlPRG9CQml2MGlVU2J3OWh1aWR3WDhUX1VpWjVJcE54MGlmZ08tMA?oc=5",
+          "source": "한국기자협회",
+          "publishedAt": "2025-04-04T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'재판관 전원일치' 윤석열 전 대통령 파면…\"헌법수호 책무 저버려\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yYllfZG1DWEl0UHRTeEM3eUxxaEYyNkVjRUJrc0lpeUJKNF9UcWphMXBTUG9CRUctOXVZdjRZdVFqem9wNE1fNlVsNW1xQXYtb1pFWklpRHF2TG94QzdadXJZelptc1U5M0QzYXpR0gFyQVVfeXFMTXdKazB6d25oTExrQXJqcGVGZjRkZUlEcFJwTXVsVWs1dS1SeVJNdVYzcm04R0NUb1ZGMGh2MkdyRkNLQlI0N3JsVWtQdkRpMW5DSksxWXJVVVFrOUNwUDlGczlZaGVUZzdzSmlvamN1cG53?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-04-04T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t6",
+      "title": "남북한의 문화를 경험할 수 있는 곳 - 전체 | 카드/한컷 | 멀티미디어",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "제21대 대통령선거 주요 선거일정 - 전체 | 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LNlhEdFBWYUEtWGlfM3duclBuQlJvRmNMRGczZzZTSXRxR01mR0tvUzZPRXNjdktIZC1mTE5lMzdZRW0ydkgwUWh0VmNBWlJ6WDZ1RmFPV0xLV2ZXb3I1VzItUkxicDRjSFVnVmRn?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-04-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "남북한의 문화를 경험할 수 있는 곳 - 전체 | 카드/한컷 | 멀티미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42dC1TUnR6YXlCQlpJcWxlaXRRTTVySlRmSnEwc3R6MkdXelVUMEk3cVpoTVBDUllndUsxeGV0d2Ztb3d5b09qRTlrYmIzRzFpZDNVOHEyaVhCWWpGMFY2bVZWcU9WdC1maHZhTFhR?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "남북한의 문화를 경험할 수 있는 곳",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tUHkwVHNHaTdjQi1peEpnNWVZa2tTT0ljLTEyaS1BZzFteWtjck5nSEVGbFU5LTRoajltSGRvLWpuMTZ3UTVQSk54WnpQZnl6Z3Z4T0oyRkNEaUtROHJTdG5rZmRuSTZkVlFvYw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t7",
+      "title": "‘인민반장’ 사양합니다 – RFA 자유아시아방송",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘인민반장’ 사양합니다 – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb25seGFESk5VV3puX05lWVo4enRia3hacVJPeGQ4S0VKZXRKRnhIazlOZVVVNGU3U0JjVEJJbFdXUmxMa3I5QkxPNXdtMGwyUDVqR1FuY0gtd01QLWxDUlhOczA3VUNTNEZGbW56Y21lUDhMOVNndXYtNFRlMTVoUTVqUVVVUjFsZnZJb3o1YWR4ekZkamc?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2025-04-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘라선관광’ 교포 “북 가이드, 한국선물에 ‘안 됩니다’” – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHE2LUJvbG5Dblh3TW9yV0JGa0RURTJOTHZvalZxT3dVQWRBOHFiV3NWX1cwZUxmcjZZMnctYXNjN1ZUWEktcktHN2ktbVZsSDNMMHhXeWg1S211QmNrcVB5UjJsalVtdGEtRWxXTmE5TVdzaC1Vb051LXdMZzAySnhRSkNvcDY1TWVN?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 은행 저금의 ‘뜻밖의’ 용도 – RFA 자유아시아방송",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHMzdUdFR3IyOHJQUmhKbnVxNzRSdVRiblpFejIzZjhaajl6dl94R0FWbWxudWk4ZXBqT2RSXzZnUGdKMjNLd213eG5QSGdQamhSamdVMHRMS1BhcHhjVFpmOWpqaU5aNVR0aEtwOTA1ZmhxNUp0eDhpYzNnTUZxcEVhRWYxWXM3QWdvZXlXR1E?oc=5",
+          "source": "Radio Free Asia",
+          "publishedAt": "2025-04-08T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "윤석열",
+      "count": 33
+    },
+    {
+      "word": "대통령",
+      "count": 30
+    },
+    {
+      "word": "헌재",
+      "count": 14
+    },
+    {
+      "word": "파면",
+      "count": 13
+    },
+    {
+      "word": "한국",
+      "count": 13
+    },
+    {
+      "word": "탄핵심판",
+      "count": 11
+    },
+    {
+      "word": "선고",
+      "count": 11
+    },
+    {
+      "word": "대선",
+      "count": 10
+    },
+    {
+      "word": "트럼프",
+      "count": 8
+    },
+    {
+      "word": "RFA",
+      "count": 8
+    },
+    {
+      "word": "자유아시아방송",
+      "count": 7
+    },
+    {
+      "word": "이재명",
+      "count": 6
+    },
+    {
+      "word": "국가",
+      "count": 6
+    },
+    {
+      "word": "김정",
+      "count": 6
+    },
+    {
+      "word": "시리아",
+      "count": 5
+    },
+    {
+      "word": "수교",
+      "count": 5
+    },
+    {
+      "word": "판단",
+      "count": 4
+    },
+    {
+      "word": "시대",
+      "count": 4
+    },
+    {
+      "word": "결과",
+      "count": 4
+    },
+    {
+      "word": "계엄",
+      "count": 4
+    },
+    {
+      "word": "국민",
+      "count": 4
+    },
+    {
+      "word": "반대",
+      "count": 4
+    },
+    {
+      "word": "필요",
+      "count": 4
+    },
+    {
+      "word": "미국",
+      "count": 4
+    },
+    {
+      "word": "북한인권",
+      "count": 4
+    },
+    {
+      "word": "러시아",
+      "count": 4
+    },
+    {
+      "word": "파병",
+      "count": 4
+    },
+    {
+      "word": "북한서",
+      "count": 4
+    },
+    {
+      "word": "신형",
+      "count": 4
+    },
+    {
+      "word": "세종",
+      "count": 3
+    },
+    {
+      "word": "헌법재판소",
+      "count": 3
+    },
+    {
+      "word": "선거운동",
+      "count": 3
+    },
+    {
+      "word": "탄핵소추안",
+      "count": 3
+    },
+    {
+      "word": "안내",
+      "count": 3
+    },
+    {
+      "word": "주요",
+      "count": 3
+    },
+    {
+      "word": "카드",
+      "count": 3
+    },
+    {
+      "word": "한컷",
+      "count": 3
+    },
+    {
+      "word": "멀티미디어",
+      "count": 3
+    },
+    {
+      "word": "전원일치",
+      "count": 3
+    },
+    {
+      "word": "인정",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "04.04",
+      "event": "윤석열 대통령 파면... 헌법재판관 8인 만장일치 선고"
+    },
+    {
+      "date": "04.06",
+      "event": "“이재명, 대선 전 개헌 동의”... 정대철 헌정회장"
+    },
+    {
+      "date": "04.09",
+      "event": "헌재, '한덕수 대행 탄핵 정족수' 국민의힘 제기 권한쟁의심판 각하"
+    },
+    {
+      "date": "04.11",
+      "event": "한국, 시리아와 외교관계 수립...191개 유엔 회원국과 수교"
+    },
+    {
+      "date": "04.26",
+      "event": "북한, 5천t급 신형 구축함 과시…김정은 \"원양함대 건설\"(종합4보)"
+    }
+  ]
+}

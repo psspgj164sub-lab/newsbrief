@@ -1,0 +1,361 @@
+{
+  "month": "2024-06",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:22.195Z",
+  "articleCount": 129,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-06#t0",
+      "title": "대법원, ‘가습기 살균제’ 국가배상 책임 첫 인정 판결 확정",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "가습기살균제 사태 국가 배상책임 인정 판결 최종확정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDSWl2TGVQYmpGODQtTFhJNTZQOTJTa0lsU3dteU1qRjgtNlNJSm83WkpZQkFlRklvWGZzWUY0RjBsaS1NT0hIRzFrdkZSZHV4WnhSS2JEMnNxYzTSAWBBVV95cUxQSjFnaXRGRW9Jd1JaMkg5MERBeHdlUWEwSXVKNW0tWHE2MzVDSlBWMTZkc2VPRXFpb1BsR2E1czNTTkxyaHE3R1M5bktqelBEenVFMTBwWWRTazltcDJFcXU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-06-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대법원, ‘가습기 살균제’ 국가배상 책임 첫 인정 판결 확정",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwZmJXTkhDZUhfNHhyZi1OTVpCLXFPV2huVUJNbEo2UnhTX1hJY2djMzhoZVpadWNIXzBIRmJBZW9wYUI3UWpIOHRXbGlOR096ZUxCa1BmdkUyUdIBX0FVX3lxTFBSZ1NyNm5tdkMzVGw5NTcxRXpoZDczbER1ZzVhRW16bVdEbGNUdmZCVmhzdDhWVmVVOXVVOHlNQkFXQUVqZjcwSEdLRDN2Mk5IZTFVUTZmOTcxSGVkbGpR?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-06-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "가습기살균제 피해 ‘국가 배상책임’ 대법서 확정",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MbDVLRGNQLUE3MHlmbF93U0R1T3cyS1NYb3JtX28zU1ZhVUczVFdKOWVVX0NYYnhJTXRoLThjZTNqaldHUERFeV9oam1wWEcyeHNJaE9vdmtXTXpuVXVSbE1ZLWM4TG9xRlEzZXpyVFBJdw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-06-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t1",
+      "title": "'재판 불출석 패소' 권경애 변호사…법원 \"의뢰인에게 5천만 원 배상\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "'재판 불출석 패소' 권경애 변호사…법원 \"의뢰인에게 5천만 원 배상\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WQ2N0dURTVEE3cF9ITklIcGVfOFV0eVRmaDJZaV9DemoyYWdDQWd4czNwNkhobG00VXM4LVdpNk1hd3VSZnhmYlpITzF4clRhbGRQU2lKaGk2SXRDcmFicXpHS2NQNWkybHFTazJ30gFyQVVfeXFMTnpGOWFxSTFVbWlPMTVVMTNCM2NvOTVaX041Y3k5ZXlwWHliSzNHQklSdFNmRDRVbXowQ3JLcUhyaE9JNThLbXJJMk56WXVLMlFmYm1DdFdBU3AybjRVTjU0SmhxMENDZnZhMHIxRHhTRjB3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-06-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원, 학폭 소송 ‘불출석 패소’ 권경애에 “5천만원 배상하라”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81SUlCMWFXMzl2Rlk3cGZJUkpBamsxUnBjUkRZd1JRS1ZMcEUzUnhrZmppYmRMVjVtczRQNTNSMXhJV0FFLUJQZGg1VEdWNThfUmRrcm5hWWpTUUNpblo1VWtfQUMyRkVXWVctNmFLQzZnQQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-06-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 “‘학폭 재판’ 불출석 권경애 변호사, 유족에게 5000만원 배상하라”",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tUQy1SN1VBOTVTMjhFTnRnOXpxX1d5ODUxY2xCWTQ0NlRrYnN2MmlReVlUal9tQV9oQ2tFTHRueWFvWHdHQXRFUmZFdjJqYjg3YmxoRU4tRFFKTTVqcmNuTWljdVlaZ1U5QTF5bFZINmhEanMxNmxfNUtYWWNYMnMwUDY1eDQ?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2024-06-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t2",
+      "title": "프리랜서 아나운서, 법원에서 정규직 판결 받은 이유는?",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "프리랜서 아나운서, 법원에서 정규직 판결 받은 이유는?",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pRDNrRllEemlwVjZqZEFCS3VRVWRNcDBvX05pOF91dDNOdVRtekVtOW9UenVJRnlybWJnREdoSzNIeG1wdTRmR3JXd1BWRXNESHh5OU15ZjhadzdlUlE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-06-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘프리랜서’ 아나운서, 정규직 판결 나왔다",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SZjJjSVhKSEhwWmZxU1RrZmJvTVBIZXpyWHFPZlZnaXJJMEpFWVBwMWNHa2xqbDVMdEhkZG9GdGtxMzNxT094YlAwb3ZlR2lHeVd3RlE5S2N4QnQ4d3lReUliUWM1NkY5b3FfQlgzSW0?oc=5",
+          "source": "미디어오늘",
+          "publishedAt": "2024-06-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t3",
+      "title": "화성 ‘아리셀 공장 화재’…재난지역 제외 가능성",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "화성 ‘아리셀 공장 화재’…재난지역 제외 가능성",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCTUZlY09FUURFMkR5bG16SGlFWm1CeVRzT2ZrT01WbHV1aUlYdC1FMFlOQnVaemFOY1gxM0tCRVV4RF9hSEJHRkowVGhjUjNCNVJLS1FmMXhHdjQ?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2024-06-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t4",
+      "title": "테슬라 화재 사고, 해외에선 어땠을까?",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "테슬라 화재 사고, 해외에선 어땠을까?",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TazdONUVmUVVURzNoYTZJOTIyZ3FiYUFrQUR2NkV3ZnRNM0E3MTlKNG1fdXJva2phX0hmTnpVRzI4T3RNN0NvZEZqNG8wUWZLV3E0U3Z3cW0yRUVwUEFRM2ZRTUVoWVhoYVE?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-06-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t5",
+      "title": "[2023년 분야별 중요판례분석] (12) 보험법 - 최병문 변호사(법무법인 지평)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "[2023년 분야별 중요판례분석] (12) 보험법 - 최병문 변호사(법무법인 지평)",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iN21iU0I0MWs1WS13c1VuOTVLVTZ2YTdXYUxNYnF1ZzVwSF9hRXBFTjBHMU9XekJON0VlRmVwRDhkX1hoTVhUTnNYeDRxdmdlc2ZpamlqaDBNUm1SWXhUbk1JTUhJNkV1dmtuRG130gFyQVVfeXFMT3gzTWJxaW5HSEQyeU1KZ0NVNi1YbUVHb3p2eHBmblFDR0R2QW03Rml3ZVk4TmRnTW85RlAwazhSUU1lMFBjN1VMWDJiSXo4MEZ6SDhqU2RTeDV4OGxqS1o5Zk5PLUlhZXV2WlpwbngxRUNB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-06-29T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t6",
+      "title": "독일서 수소충전소 폭발사고 발생…운영 개시 일주일만",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "독일서 수소충전소 폭발사고 발생…운영 개시 일주일만",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5STHJ3SUFXMEtwZm1JWm81ZjdLb2JuazUybTlQV3VxYndWLUxaYjlhMHRWUkVzT19tUVpvejVsVU1YLW9mczIxcEVPa1FQVEZEa1pWWk4wU2lBT2M2OHVyOWUwX0Jldw?oc=5",
+          "source": "월간수소경제",
+          "publishedAt": "2024-06-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t7",
+      "title": "② 급격한 저출산·고령화에 재정적으로 지속 불가능",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "② 급격한 저출산·고령화에 재정적으로 지속 불가능",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nTWNEbEIybHJCQzVhZ09WSzlqbVhWWTlNZFJzaV80YTV6OG1INk1aY2tPczZBU0tlQi1KRFNWZXp5T2U5eHlidFUxQ0diQXdKUWV0UWNEM19hVWvSAWBBVV95cUxNdnpZSmxiN1F6cHdVSG1UeDZva0lpRklMb1p0RFdpYXYwRkhjbmx5SHNocGY5VEJqT0s1ZGNUZGZ5dVJmdk5LN3ZMdUtqNjhPYzdISVRZZy1ZM3UwNFNNb1o?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-06-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "화성",
+      "count": 12
+    },
+    {
+      "word": "공장",
+      "count": 9
+    },
+    {
+      "word": "인정",
+      "count": 7
+    },
+    {
+      "word": "변호사",
+      "count": 7
+    },
+    {
+      "word": "아리셀",
+      "count": 6
+    },
+    {
+      "word": "피해",
+      "count": 6
+    },
+    {
+      "word": "판결문",
+      "count": 5
+    },
+    {
+      "word": "정당",
+      "count": 5
+    },
+    {
+      "word": "재판",
+      "count": 5
+    },
+    {
+      "word": "권경애",
+      "count": 5
+    },
+    {
+      "word": "리튬전지",
+      "count": 4
+    },
+    {
+      "word": "AI",
+      "count": 4
+    },
+    {
+      "word": "대법원",
+      "count": 4
+    },
+    {
+      "word": "해고",
+      "count": 4
+    },
+    {
+      "word": "배상",
+      "count": 4
+    },
+    {
+      "word": "리튬",
+      "count": 3
+    },
+    {
+      "word": "폭발",
+      "count": 3
+    },
+    {
+      "word": "무죄",
+      "count": 3
+    },
+    {
+      "word": "확정",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "저출산",
+      "count": 3
+    },
+    {
+      "word": "거부",
+      "count": 3
+    },
+    {
+      "word": "배상책임",
+      "count": 3
+    },
+    {
+      "word": "위법",
+      "count": 3
+    },
+    {
+      "word": "불출석",
+      "count": 3
+    },
+    {
+      "word": "유족",
+      "count": 3
+    },
+    {
+      "word": "의사",
+      "count": 3
+    },
+    {
+      "word": "이화영",
+      "count": 3
+    },
+    {
+      "word": "소송",
+      "count": 3
+    },
+    {
+      "word": "대형",
+      "count": 2
+    },
+    {
+      "word": "내부",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "원인",
+      "count": 2
+    },
+    {
+      "word": "배터리",
+      "count": 2
+    },
+    {
+      "word": "최악",
+      "count": 2
+    },
+    {
+      "word": "숨진",
+      "count": 2
+    },
+    {
+      "word": "집행유예",
+      "count": 2
+    },
+    {
+      "word": "사망자",
+      "count": 2
+    },
+    {
+      "word": "외국인",
+      "count": 2
+    },
+    {
+      "word": "사상",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "06.11",
+      "event": "'재판 불출석 패소' 권경애 변호사…법원 \"의뢰인에게 5천만 원 배상\""
+    },
+    {
+      "date": "06.26",
+      "event": "프리랜서 아나운서, 법원에서 정규직 판결 받은 이유는?"
+    },
+    {
+      "date": "06.28",
+      "event": "대법원, ‘가습기 살균제’ 국가배상 책임 첫 인정 판결 확정"
+    },
+    {
+      "date": "06.29",
+      "event": "화성 ‘아리셀 공장 화재’…재난지역 제외 가능성"
+    }
+  ]
+}

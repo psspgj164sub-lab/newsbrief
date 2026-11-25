@@ -1,0 +1,400 @@
+{
+  "month": "2025-11",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:13.559Z",
+  "articleCount": 182,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-11#t0",
+      "title": "서울교통공사노조 다음달 12일 파업 예고",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "서울지하철 제1노조, 다음 달 12일 총파업 예고",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94VzNwWTFOMXJMa09QZVFfUG9BMDJVVmNfMFI1SGJHdV92WVNJMHZOQWpZMkZpSDlhSzFpdWhMa0RLaFdkNGNMcXIxeTh0MEtZZkNGVHNIY3MwYlFlTWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-11-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울지하철 노조, 내달 12일 총파업 예고…내달 1일부터 준법운행 돌입",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12MmxQMlJ1bjBmZDNjNDhtVGt4dmh0bU03ZTRxa2s5NmdHT2swTWc2NUFXYjZyeTNCYzkyRFM5ZTk4bjBKeWw1aG4xQkFoRjMzTXlKT1dn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-11-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울교통공사노조 다음달 12일 파업 예고",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6WDRlR3lSZGRqOE8yUEx6QTN0ODhaaGtNUzE4VlpmVFFrRUlvWEdIcEtuTGJjQ29CM2xTb3JsajlZZ0NCY29QT0FBYUxvSVltT0Y0ajBBdm1YNzR1ekJMNGIxRElVOHVHSFItQi1FdjY?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-11-25T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t1",
+      "title": "교육당국, 학교 비정규직 노동자 파업 예고에 “대체식·돌봄 제공”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "급식·돌봄 비정규직 노동자 오늘 파업…교육당국 “대체식·돌봄 제공”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiTWxPclJtN2Y1cnhhUmxCRXB5UmhYSWlnWkd3MnNLRzlOcE5PNWlmM2c2VU9uNl9qdWc5Z0M2WE55WEh6a0tYT3JnMFd1R3hESUsxSUNpcXhIQdIBX0FVX3lxTE9ZT2RtNUNTbU9aNG5xLUVtODNzcjZ2ZmVOWW9tTmV6em5oVGR2WEQ3Z1ZfUndEc1JjUmdtSE1ILTNaWnE2UnNmRElVR2drT2JLQjVTbzBsZ29ObklXLU9F?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-11-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "교육당국, 학교 비정규직 노동자 파업 예고에 “대체식·돌봄 제공”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OalB4RUtSYkVULVl0SlEtbkdzeWZJMFFaWG91RmNhTC1tdUR4OEtTZ0VXektvMW1SaEVNazBXa2diakx4RmZOZWk3QlJ0ZWMxaEMwbnQzTE5uVjQ?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-11-19T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "전국학교비정규직노동조합 인천지부, 총파업 예고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1NkQybXc1d1JHc1JuWkZvQTZoM0NhODZ6QTJyekpGX2VXLThnMmZUOG40NndLbHVmb1JDOFdkWXFVaWFUVUNKb3ZQRi1KOG5peWprbWhEN1JKVEU?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2025-11-11T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t2",
+      "title": "서울지하철 노조 내일부터 ‘준법운행’…“출퇴근길 지연 없도록 대비”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "서울지하철 노조 내일부터 ‘준법운행’…“출퇴근길 지연 없도록 대비”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbVFKTndFakRzZFpsTm9HeURUem1ERUdGM3BiczBTQ19NUE00cEdBci13c3BweEhfNThqQkNRWmt2ZzE5ZEk2UFVQa1JfTmtFaElNcHEwVFljUdIBX0FVX3lxTE50M2hvcjgyRzZrbkhTZmhPVTBHbUJ0MmkyT3QzTkgtT1BtYzhwdnJJMElXdlh1MHRTTnRNdm0zVnVsWjkyZlVNT1loQ3RlWU13cmFTaVBLdWY0THlLUS1J?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-11-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "출퇴근길 '지하철 대란' 오나…1~8호선 내일부터 준법 운행",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQNEtCZ09zTzVGNGNLNkhudEhiQm1kTjFNTGdIQk1ZOUVRVjZUX3ZYRm5IYXo1STBkdWJGMVNYblNWWVpXc2N3cGY1QjdJelFBRXBkcTZ3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-11-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t3",
+      "title": "현대제철 당진공장 2심서 불파 범위 ‘축소’…판단 가른 요인은?",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "현대제철 당진공장 2심서 불파 범위 ‘축소’…판단 가른 요인은?",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9helNhTVVJdUNZbTFoclBPaWhQaFltVFN0dG1ObV9zbC1rQVUzeE1fZXpXMmRVYnhIMGw3dFNhaW96QlhoZTd4Mm5LQXhQY2xTdlhpUzZSd0RZUlNpRi11YWQxU1JQU2ZkMWZXdm1SNA?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2025-11-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대제철 당진공장 불법파견, 2심서 범위 축소",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKM1NxNHFtZHkwQWZzcmliN2l0c0hIUXFWNW12Nm5EMGhGRzlZbnRaWnBpV0hnanFaZnRaNE0zQTBFNEtoend3UDd4YlJNeklPUktienNaRFM2STdKRDlyMHBsanAwUHRZcHBqZlp4ZUg?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-11-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t4",
+      "title": "하청노동자 단체교섭 무력화하는 노조법 시행령 개정안 폐기하라",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "하청노동자 단체교섭 무력화하는 노조법 시행령 개정안 폐기하라",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hNS0wU1BnNW5xMUVaeW9OMXVQS2RqNlExTlVSNWVGYl9Obk9ndUZtaUd6MDFieG55bjQwQnNkSGpDWkU2OTZCR1hEaHU?oc=5",
+          "source": "민주노총",
+          "publishedAt": "2025-11-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주노총 \"하청노동자 교섭권 무력화하는 노란봉투법 시행령 반대\"",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CZ1hOMWJMUGs1VkhvTFBudzZMd2dweU81S3hxRktPT0J5OFZkMFJDcEJxUE54NXpXZ2oyZmgxTGlhMm1vMnZnckJoUERlM3N6N0g2em9jVEFEQ0tyTURCYm9aYUFlNmlNSFZEdlF4TkY?oc=5",
+          "source": "인천투데이",
+          "publishedAt": "2025-11-06T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t5",
+      "title": "취업해도 불안정…임금근로 청년 32% 비정규직, 21년만에 최고",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "취업해도 불안정…임금근로 청년 32% 비정규직, 21년만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1idXlGdjZtZTZwTnhHb0t6ZzV0OTNhVjZrb0Z1b3Facm1uaGxnLUhmdHNCRzc2MmZvZElvQi1KUUFJbmNaWDRSVGtJZEV5d1hnTTN5N010R3JESXM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-11-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "20·30대 임금근로자 32%가 비정규직, 21년만에 최고",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhZWNHcVlUQi00TDkxaHo4V3lJN001cmVWWUtGQ0JSZzZQbThKSm5UaW8zSHpzcWlZRUF5X0pOa2RvaFRfaGJZcE1GZWVHbXEtTFBPMkpKVURUaE9iZy1HMTBGQlZmQS1XNk82enR5eUxpRFVD?oc=5",
+          "source": "부산일보",
+          "publishedAt": "2025-11-23T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t6",
+      "title": "민주노총 대구교통공사노조 20년 만에 파업···부족 인력 확충 촉구",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "민주노총 대구교통공사노조 20년 만에 파업···부족 인력 확충 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14NWtIUW9rbWswaUU1dG5UQ25RTjFWa1QtTnBSdFRHMkY1cWVwN0Jhb0ZhNzlxT29rbUlvcDI3Y19EQjJ4bk04d0tCQU40Uzg?oc=5",
+          "source": "뉴스민",
+          "publishedAt": "2025-11-21T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대구교통공사노조, 정원 확대 요구하며 20년 만 파업",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Zk5uVjZQR1FJWEF3Y3Rfc3M3dWlOZW1MNzdOMmpLTERoVktjU3lzRXNoOFNHZGhUckRvaGFVMFhfbDBYREhBaVdsN01ha3YwU1Z2dFozdng3TUFvbTZXa0FTQ0J5ZzhCckpwQUpR?oc=5",
+          "source": "참여와혁신",
+          "publishedAt": "2025-11-21T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-11#t7",
+      "title": "대구 지하철 20년 만에 파업…\"출근길 대란은 없어\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대구 지하철 20년 만에 파업…\"출근길 대란은 없어\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1scDJORjdpU1lKUVJKTG9QejVHMWFLd2x0OVFYanBoMFY4T2YzM3F2bHhOTkNQR2FWeXp4MWEtb3JwcU01T0xzdFllaVRQbjNRN2JLNThLcmdLOGvSAWBBVV95cUxOSUF0WVRjd0pOaEVMREJKaUpaOEN2Q0xPUFBtcDBsTWRFY1RxNXBSSGJvZE1OZFg4R0tvYnI5V21qd1FQd2dOdkpjemVFVUg3VW1paDRqZk1JSkFPRldjRHc?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-11-21T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "20년만에 파업에 돌입한 대구지하철 노동자들",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JTnE5SDV0cTU0X2k1MHRDTENrcVV1aXR2ZmhNSXNMc0tOdHBQWU5HX3hQRE85RXFiVURjWEhHTnh1ODRyMDd6ZkY5Nk9KVGFtdWZxRktGZlJpdFBMZkdVNzNVU1MyQjV2MHRpa3VR0gFyQVVfeXFMTUdYaTYxeC13TWVVWlY1OGxEaXF0M1FPeG42VEZsS3NKWTNZZmRnUEhGWEtnTG9IV2VqaDczZHkwVzVqYXVubDl6Q3NQcjJNcDFqZzBqc3BTQUttYzFHeHVVV1ZNemJJYUR2bktrTUhqanZB?oc=5",
+          "source": "노동과세계",
+          "publishedAt": "2025-11-21T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "법원",
+      "count": 11
+    },
+    {
+      "word": "총파업",
+      "count": 10
+    },
+    {
+      "word": "노동자",
+      "count": 9
+    },
+    {
+      "word": "민주노총",
+      "count": 7
+    },
+    {
+      "word": "서울지하철",
+      "count": 7
+    },
+    {
+      "word": "하청노동자",
+      "count": 7
+    },
+    {
+      "word": "정부",
+      "count": 7
+    },
+    {
+      "word": "인력",
+      "count": 6
+    },
+    {
+      "word": "노란봉투법",
+      "count": 6
+    },
+    {
+      "word": "급식",
+      "count": 6
+    },
+    {
+      "word": "학교",
+      "count": 6
+    },
+    {
+      "word": "교섭",
+      "count": 5
+    },
+    {
+      "word": "기업",
+      "count": 5
+    },
+    {
+      "word": "시행령",
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 5
+    },
+    {
+      "word": "산재사망",
+      "count": 5
+    },
+    {
+      "word": "사망자",
+      "count": 5
+    },
+    {
+      "word": "창립",
+      "count": 4
+    },
+    {
+      "word": "지하철",
+      "count": 4
+    },
+    {
+      "word": "판단",
+      "count": 4
+    },
+    {
+      "word": "노조법",
+      "count": 4
+    },
+    {
+      "word": "돌봄",
+      "count": 4
+    },
+    {
+      "word": "불법파견",
+      "count": 4
+    },
+    {
+      "word": "사업장",
+      "count": 4
+    },
+    {
+      "word": "늘었다",
+      "count": 4
+    },
+    {
+      "word": "포스코",
+      "count": 4
+    },
+    {
+      "word": "현대제철",
+      "count": 4
+    },
+    {
+      "word": "폭행",
+      "count": 4
+    },
+    {
+      "word": "외국인",
+      "count": 4
+    },
+    {
+      "word": "적발",
+      "count": 4
+    },
+    {
+      "word": "근로자",
+      "count": 3
+    },
+    {
+      "word": "기념",
+      "count": 3
+    },
+    {
+      "word": "토론회",
+      "count": 3
+    },
+    {
+      "word": "kt노조",
+      "count": 3
+    },
+    {
+      "word": "조합원",
+      "count": 3
+    },
+    {
+      "word": "시대",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "시내버스",
+      "count": 3
+    },
+    {
+      "word": "합의",
+      "count": 3
+    },
+    {
+      "word": "과로사",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "11.11",
+      "event": "교육당국, 학교 비정규직 노동자 파업 예고에 “대체식·돌봄 제공”"
+    },
+    {
+      "date": "11.23",
+      "event": "취업해도 불안정…임금근로 청년 32% 비정규직, 21년만에 최고"
+    },
+    {
+      "date": "11.25",
+      "event": "서울교통공사노조 다음달 12일 파업 예고"
+    },
+    {
+      "date": "11.26",
+      "event": "현대제철 당진공장 2심서 불파 범위 ‘축소’…판단 가른 요인은?"
+    },
+    {
+      "date": "11.30",
+      "event": "서울지하철 노조 내일부터 ‘준법운행’…“출퇴근길 지연 없도록 대비”"
+    }
+  ]
+}

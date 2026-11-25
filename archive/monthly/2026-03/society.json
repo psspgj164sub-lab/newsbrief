@@ -1,0 +1,386 @@
+{
+  "month": "2026-03",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:25.904Z",
+  "articleCount": 200,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-03#t0",
+      "title": "[집중취재① /대전 안전공업 화재] 대전 안전공업 화재로 14명 사망, 60명 부상(종합)",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "[집중취재① /대전 안전공업 화재] 대전 안전공업 화재로 14명 사망, 60명 부상(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yTVpNNG5jX2sxX3Q5NWcySnZYeHpua09HSE9MdnA2OF81Q3d2VEpsX1RTc2s2Wjg4VWJBUzdZMzlGNkJWY2c?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2026-03-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "14명 사망 ‘대전 안전공업 화재’ 합동분향소 설치",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSHJNb0tNOUxzdmM5OWZQeGd5MVV4bzc2TlFCWWJubDJsVlJkQmZYTEV0LWE4a0p5Snc3bmtISnQ1SmtqOFB5T2gxSXZIT3lqWG93UzlMa2FMdzA?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-03-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t1",
+      "title": "대전 자동차 부품 공장 화재 마지막 실종자 3명 사망 상태로 발견",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대전 자동차 부품 공장 화재 마지막 실종자 3명 사망 상태로 발견",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mQ2N1b0ZMMDhOYkpmS0hidGxsNExXSEZ0YzltSnNPQVc2cXNYSXZ3TkdiMnJSTUxXeUNuMzZvMEh4ZDctNkE?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2026-03-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대전 자동차 부품 공장 화재로 11명 사망, 부상 59명",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1rWXRSUVpYRDFsUlB3dWcwRzUwRWcyZTF2cWh0WENjc25nT0pKaDJWb01HWjNuV0phcW1DMmlmMWM5ZXBHUHc?oc=5",
+          "source": "소방방재신문",
+          "publishedAt": "2026-03-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t2",
+      "title": "\"물도 못 뿌리고\" 공장 내부 나트륨 200㎏에 화재 진압 난항",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"물도 못 뿌리고\" 공장 내부 나트륨 200㎏에 화재 진압 난항",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yQWVjMjdxc2ZtVWpwSlZJdUszY1R4SkVaRmFwSWQ0OTFuLWVOZVFVaU44UjVHZkJVVWdIeHdQZVljUWpILVVBZlVhR215VGtVcFFxTDV3ODRJUHfSAWBBVV95cUxQZHpINFc2LUs3TlpBZm42b3V4U0JySkN5bGFSb3J4MHdaWXliRjNlNGxKOTRSaU5XQndyaEVncUxoN2tmQkpHQ3RRTFBrSlFsTnUwSWZic0gwX3pzS09FbnY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-03-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“물도 제대로 못 뿌려”…나트륨에 화재 진압 난항",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HWHpqYVUweS1Uak1UR0k2dFZ3OUs5blZrVnF0RHNOa09UanJQbm5ZNllVXzUyYnJWTllWNTgzMTk3MXRscEdLdlBxVngwNjkxaDN2NnZzMEN1M00?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-03-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t3",
+      "title": "대전 자동차 부품 제조공장 화재… 중상 35, 경상 15명",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대전 자동차 부품 제조공장 화재… 중상 35, 경상 15명",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zenAwSWY0eUVBTjFTRVZtRlJpWnNONXZPdklMNDdZbmZveTA0RUk1WWZQV280TUNWNFJobnBfMUJYUlp5OGc?oc=5",
+          "source": "소방방재신문",
+          "publishedAt": "2026-03-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대전 자동차 부품 제조공장 화재… 중ㆍ경상 55명, 연락 두절 14명(2보)",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9iQ01tNEkwaWdyNTFlRVk0dG5Rd1VJNjFrRlFfM3pkdnRQZnNJSmRCaTFudEk0VDY1OVgtbzBKaU16d3ZWOFE?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2026-03-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t4",
+      "title": "법원, 尹 내란 1심 판결문 홈페이지 공개",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원, 尹 내란 1심 판결문 홈페이지 공개",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2YWx4R25LVFE4UVFBU0I2WTBNdVRZNzFZTHpQcE5BT3RWbERIYk0wRG1VN25kTFQzdEl6T0RlaERITzBJTnlpMjgxakQ2NVMzZjhWNmE2NFp1VEJ0WnZRU2JXUVd2MkE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-03-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울중앙지법, '무기징역' 尹 내란우두머리 1심 판결문 홈페이지 공개",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92Q285N2R4cE5TWjhyOGk4TW1oTW1YVC0wUkpHZkJ1Z2tsUVp0NjJYd1RXVWxha3NaMkhQTTR5c1FLZEFXVkFEbGN4cmROV3JwUkV6cThyazZlM1VvUjAzM1p4OGRNamRjWVc5azNjRVYyc3FLTmI00gF3QVVfeXFMTnJ2TlJxSnRMdWZfVjFybzRQd1pyRzhoN2gtMi10NGE0U3lJQnNSdFVFd1VUSk5TMkgtYmlpS3JzOFpjTy1PU3lXOWNCWjJjOGhZWG5EbGFBR3lBUXFaWVZiblMzVEM0QWFVbmRWQWFJQ2c4THNsWmc?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-03-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t5",
+      "title": "도쿄고등법원 “옛 통일교 해산 명령 정당”…청산 절차 돌입",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "도쿄고등법원 “옛 통일교 해산 명령 정당”…청산 절차 돌입",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGJXbWlXTk9uZzdBUGw2OHZSbzluR0hCR2ZpMVJIdi13c3pKN3JZMFlpYVMzRXdmZDlmS0ZzdHBNRDluRC04eHZQTXdzZXlKNkVxSG1CSU05WjJFc3JXNlFrN3RwMUNUbnhSU3BuRDlzeUphSnI3NkVqak0ycVBVMmJR?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-03-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "일본 고등법원도 “옛 통일교 해산 명령 필요”···청산 절차 시작",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLN3kxbFk3LUEyLWZtVE1sSTlLZjdLRVJVZmc1N0NxNVJ5X21nZDQ1V2xweS02YUtvam9HNlhjZ2VZZXVLNXc2dU02bm9yYVdTWld1bV9YbVhmUdIBX0FVX3lxTE9WUWRMZmVjZEZEVHJzUzdiblcxQU9ZaUpWd3Nwa3pzNEd3czJ4a2J5M3kyR0o0TWdILVhWUVdleFp5S21ScGhkVTJXdHFSX0dDLWZQMVdlYnluUUQ0enEw?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-03-04T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t6",
+      "title": "'코치 폭행 혐의' 김종민 감독 약식기소…배구연맹 \"법원 판결 따를 것\" - 머니투데이",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'코치 폭행 혐의' 김종민 감독 약식기소…배구연맹 \"법원 판결 따를 것\" - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwTlZZdGZNMzhrZ1BXS1RKY2ZKTmJWWi1GSTA3b3B2cGV1Y0tOVFlGYk5XMkJCQXBUM1BXaDdwUHN4clB2Q2laQ200THUyZHdvSDJaTDdWZ3lUbXY5YnRxcVZHSnEyNW9kaEdJ0gFwQVVfeXFMTmFrTDFSUnN5UUY2d2VpSmRmMVoyaW1lc2k5ZWQzYkNHZWxwT09iUjFrQmM0Vkk0V3JJUVRzemVkcjU0bFVKZlJRX2lDbFI0WlVwcUY2d1pJWi1LeHZPX0xGVFBsRjYxLVRWclJJYWotTw?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "2026-03-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "검찰, 김종민 도로공사 감독 약식기소…배구연맹 \"법원 판결 따라 상벌위 개최\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbXpfTzlIb2FHWGV3S2hkdGszekxwZ3dLNU55RnRVVElXUUt4b3lsem4wQTBvcFg0QW5UaXVBVm9QZl9rd3VoU3BYYWowd3AyS3plQ1NsR1cwMkdyS2tMa9IBeEFVX3lxTE1JbG5HZlVsQ2t0ZTNZR3V3WW1GUHhyV3U3blhxdkpCcjBWNGJnZGU1Qml1c2FMRVhfLTBUNURRT1NVOHdtT29NenBLZDIzNktlM0d1NUpmR1ktVEUzQzlNLWZFN2JjX3NmQnZfM2lEMFcwWHhhU0NlNQ?oc=5",
+          "source": "뉴시스",
+          "publishedAt": "2026-03-03T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-03#t7",
+      "title": "재판소원 도입: 헌법재판소법 일부개정법률안의 주요 내용",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "재판소원 도입: 헌법재판소법 일부개정법률안의 주요 내용",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50RjI2LWRCbE9uY3k2emU3VURJMW1ZcWhFTWk1amVtZi05aWxoUVVJX2YzUmVUZjlOVVJ6dkZoaThzQjJESTBSVTNKYllFXzVkcVJwQUhaQzdXNGdpMzlnYklZWHF2MW5rU3BBY0lR0gFyQVVfeXFMUEpsUklkOUxHMUFoMEhJcGtOMkVqVTNoYkdoMDBFQmFKNnNma1pPTER2dVpuWEFWa1liWUU2NERxczhiUDJvNm1kM3VLaWxzbXExMUhrTTVSb09Fa2ZMNHJIX1F2SG4xa1ZfN2gyVm5fY2Rn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "재판소원을 도입하는 내용의 헌법재판소법 일부개정법률안이 국회를 통과하였습니다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12aUozaEE2bThxa1JEVE9Sdm5SLTFxUEVyS21ZUkx3Tng4Nl9TTko4ZGZCT3dXNmdLMnNnaER6Y05hQ0RiX011WnVnUkhJQ2NoclpYVFJQUUhndlhHbUdVRUtvTl9Gb0V5XzVGU2xn0gFyQVVfeXFMTlItVnNNSzRuUzRaSGtUa1JldnZWb1BETUVHMlBTeS1NRG5PNFpLVGpLUVhwX3BqV2ZUbnZ6T3NLQy1CcDBlRmU1QnhhYmxtVThCN1FWam1SRUxXeml6MTd2S1l0RmZGXzR1dXNrWnlmZGNB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-03-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대전",
+      "count": 27
+    },
+    {
+      "word": "재판소원",
+      "count": 19
+    },
+    {
+      "word": "사망",
+      "count": 14
+    },
+    {
+      "word": "공장",
+      "count": 14
+    },
+    {
+      "word": "안전공업",
+      "count": 11
+    },
+    {
+      "word": "AI",
+      "count": 9
+    },
+    {
+      "word": "인정",
+      "count": 7
+    },
+    {
+      "word": "피해자",
+      "count": 7
+    },
+    {
+      "word": "참사",
+      "count": 6
+    },
+    {
+      "word": "원인",
+      "count": 6
+    },
+    {
+      "word": "가능",
+      "count": 6
+    },
+    {
+      "word": "미국",
+      "count": 5
+    },
+    {
+      "word": "책임",
+      "count": 5
+    },
+    {
+      "word": "판결문",
+      "count": 5
+    },
+    {
+      "word": "취소",
+      "count": 5
+    },
+    {
+      "word": "시행",
+      "count": 5
+    },
+    {
+      "word": "독일",
+      "count": 5
+    },
+    {
+      "word": "실종자",
+      "count": 4
+    },
+    {
+      "word": "지원",
+      "count": 4
+    },
+    {
+      "word": "설치",
+      "count": 4
+    },
+    {
+      "word": "전면",
+      "count": 4
+    },
+    {
+      "word": "자동차",
+      "count": 4
+    },
+    {
+      "word": "부품",
+      "count": 4
+    },
+    {
+      "word": "대책",
+      "count": 4
+    },
+    {
+      "word": "아리셀",
+      "count": 4
+    },
+    {
+      "word": "위험",
+      "count": 4
+    },
+    {
+      "word": "영덕",
+      "count": 4
+    },
+    {
+      "word": "돈사",
+      "count": 3
+    },
+    {
+      "word": "나트륨",
+      "count": 3
+    },
+    {
+      "word": "개편",
+      "count": 3
+    },
+    {
+      "word": "수사",
+      "count": 3
+    },
+    {
+      "word": "인재",
+      "count": 3
+    },
+    {
+      "word": "부상",
+      "count": 3
+    },
+    {
+      "word": "마지막",
+      "count": 3
+    },
+    {
+      "word": "봄철",
+      "count": 3
+    },
+    {
+      "word": "발생",
+      "count": 3
+    },
+    {
+      "word": "안전",
+      "count": 3
+    },
+    {
+      "word": "주의",
+      "count": 3
+    },
+    {
+      "word": "인명피해",
+      "count": 3
+    },
+    {
+      "word": "숨진",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "03.04",
+      "event": "도쿄고등법원 “옛 통일교 해산 명령 정당”…청산 절차 돌입"
+    },
+    {
+      "date": "03.18",
+      "event": "법원, 尹 내란 1심 판결문 홈페이지 공개"
+    },
+    {
+      "date": "03.20",
+      "event": "\"물도 못 뿌리고\" 공장 내부 나트륨 200㎏에 화재 진압 난항"
+    },
+    {
+      "date": "03.21",
+      "event": "대전 자동차 부품 공장 화재 마지막 실종자 3명 사망 상태로 발견"
+    },
+    {
+      "date": "03.22",
+      "event": "[집중취재① /대전 안전공업 화재] 대전 안전공업 화재로 14명 사망, 60명 부상(종합)"
+    }
+  ]
+}

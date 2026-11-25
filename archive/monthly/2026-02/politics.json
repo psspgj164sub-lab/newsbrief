@@ -1,0 +1,407 @@
+{
+  "month": "2026-02",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:19.662Z",
+  "articleCount": 212,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-02#t0",
+      "title": "'대법관 증원법' 국회 본회의 통과",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "'대법관 증원법' 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBZThydDNUMGNUUDFaTE1tNU5GUHlIckRacHpVcnVWQ1lfcjNnU2pFaW1qNmpTT2dPaVZBMV9NZWtmTV9tUXlqZFVnMnJPcHBzZjlOdW92ejZTa2ZoZjJFRF9QMHpXZEgzYVBQd3RB0gFyQVVfeXFMTndfTHhQSzNoOVNLVmNzNU9CVWdSSjcwVmxtTFdqZ2hsMXhzejRYNll6YUp6Z0oyZXRYUktnY2RENzlXczBJNmFOOG94OWEtZXdCRGpsMnh2WU96czVzVndGODBQU2djUDJlOXRDWWJNWnpR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'대법관 증원' 여당 주도로 국회 본회의 통과‥'사법개혁 3법' 입법 마무리",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13dHdyeTgtQXBuVXg4QV9nTzFSYVNWb1RnanRSX0xwbkt2YmNTUUtzQ2FSRDQxN2NYb3AydkJQOWpBZC1CakV1TDQzOG0xbzRGVU92VEtOcU5MdHJWOVlWRFVDcUYzbzUxVjRvb3ZObDA2UDZZd0k5RdIBeEFVX3lxTE5SZ2hDaWF0M0dhVmxPd3FTOHdjWkFGZUZ3NlJpc3lfN21QVld1SEVhU0hMSlpwekVNdlNvY3hqeEtSWmtTSkE1MnMzMnBTSkNTVjJ4TVBOcmVQenlxXzZvRVRDaXJqRkFxMTMyZzNfMndaaWJxMm5HNg?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-02-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "반려동물산업 육성지원법 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mUHp2Q2E1UGFGOE9QSmxyR0RHV19TWTRzdzc2R0xlNXJNWHh3dlVFN1RGdEhHN1dfcVJzTUNia05lRUgyNjl3eGY5LVcwWVVMcE83ZDFlZ0k?oc=5",
+          "source": "데일리벳",
+          "publishedAt": "2026-02-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t1",
+      "title": "국정원 “북한 김주애, 후계 내정 단계 판단”…4대 세습으로 가나",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "김주애 '후계 내정 단계'...북한, 4대 세습 속도 이유는?",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByU2NqSWtfdndzQkpoTUNPY3FxN1VNMGlDRGQwd0JjeFRnLTRaeUZaUVFrYTRxa3ZKbXo3MUNIOWMxN1JjUkpmakdsblNzVFk2ZDJkZ2lvdlp5cXE0MHc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-02-13T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국정원 “북한 김주애, 후계 내정 단계 판단”…4대 세습으로 가나",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MWjJTSDhIMHIxbGVET1g4eXpZUnpRNF9EYmRsNEJ6UG1DVUlOd0hKWFcwZHJJTkFDY2dQeUJLQTM3QjlSZ2V0eXY5M3k1Zmc1QkNGZWdGY1JBUdIBX0FVX3lxTE0xWEVOT09kRXMzSVBMYVp0QXRDWE4zT1JBMXBaUW9JUlpkajliZGYtMGp1NmF6QUdxeVU5enAxYmFreUdxbG10U2NRb1JlTG81MGd4WllLVC1GRm92YzJN?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-02-12T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국정원 '김주애, 후계 내정 단계…역할 강화돼'",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80eTBTQ1JUbDUtZW9hSzJ3N1FmN3BVWGtjR1BkSmh6c01FQVBoUlFiUU0wajlOaERXcE93VWdyTVczM2NVTTR3eGF1ODB2dW5EWVJvcUVjTGpDYWRa0gFiQVVfeXFMT0hqdGNmTkViQWNxWGEwS1RTNzgwR3VQNHU5b09FbUlXRnZESlBDaTdRUmx5TGlyYXdMTGVOTEZVbURJZVl5dHZDQ1hlLXZLM0RlT2NUaVZHczZFSTA4RWd1cEE?oc=5",
+          "source": "BBC",
+          "publishedAt": "2026-02-12T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t2",
+      "title": "개인정보 보호법 개정안 국회 본회의 통과",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 4,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "'재판소원 도입' 헌법재판소법 개정안 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xRHJtQ3RVeHpuTU5fUlAxZlVWa2ZPTnhvY1A3eGRUdDJ5dmstYjRjakMtNzNRTWpLeTRHaUZfT3I3R1ZvejFFUFlrR1U0b2pSMlVhUFIybzNQUzJISVRtUkRneGxRZGZORFJqNUVB0gFyQVVfeXFMTmpKc2dENVhBQWg5MkdqR0tPNXBYU29jYmwxLUJGUWJfbTVWZjFwUmthMzBadTBsLUpvUERVQTlPSVl4eGh5aVp0UDNhLURoSTR4czlGZU8zSEtIclRvNGdBdXpRQlJuQmdTQUtITUpEbmJ3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'법왜곡죄 신설' 형법 개정안 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bjZYRmpUVW5CQ0lvZmtxUWktZnpySXpPYTQwTGNnY1FFeldGMVlScFRMdTkzVC16d0oxc01ob2NWY0dNQTRGQWQzNXRkSkZkNlJEeW5XSUlVQXdJS0REUm5nZ2NNRHhUUnl5RGJ30gFyQVVfeXFMUDZrMjBST3h1QzVEcEZaa3p1OVI4bGIyWFJoZG9QVWRTNTljVnZOQjdEaU91dzdJVzdITDVsV2kxTlVHOHJ2YWVxdUNKZV9CUmRJN3h5YkJOUXRoc3hrcnQzUzNhQW05RGZTd25LM25PNmRn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "개인정보 보호법 개정안 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TejFObUJTYTJiMTdpTVhXamlVMVdEME52aWZTWm40eURIUllYcEV1NlhHV0FlRmFGaVRzNzFVeWNaZ3VraVJZZFdVTnNobEladW92a3hoMF9wQjRRQk05dGpKMFFQalFWU0RIRlVn0gFyQVVfeXFMT3FIVEt5OVJNWDkzNTJxVmJOZmgxdVdnRmNURVdIZTRPc29weHJvZFN2c0NLM2p5MWswZURkdHd1VVhscmI5eEZMXzBWMmxHc2xGNGh4QWQtWnpza1VDUmNVSmtmbG1aQ0tkNGl4Z0dFTldR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t3",
+      "title": "‘14명→26명’ 대법관 증원법 여권 주도 국회 통과…사법체계 큰 변화",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘14명→26명’ 대법관 증원법 여권 주도 국회 통과…사법체계 큰 변화",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mM09BTW9ocnpzMmpNZjZDdjVpcHdIdTd5S25WVzNtSENXV2pwM2pGS01zbzQ1N04zSDlYTkNsb3lMT2tja0tMTG5FZ0cxMjlTekpnN0pMb19ocFU?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-02-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'대법관 14→26명'법안, 與주도 국회 통과…사법 3법 마무리",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41aEQ0UVhwX2o2R1VKWDdZNUwzRGRiUUZ0bVMxVEVtS1lfZlp5ZGFfTzN5c1d3NkMtYVdJVzF3Q3FTWlBuRENCTktkMmVTMGtfN3ZCNjJSdGp1R03SAWBBVV95cUxOdkJIRnRCOW5sOXoyMjQtNlQ0VGFPa3lNOV9jNFNTZWV2Q3R6U1hPOWFlNWlUYkl5Z0pDNHRfdmNPaW5zTUhRTzlEOHd0cGRjS0pNd01GalVpb2hocEUzY0Q?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-02-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t4",
+      "title": "‘자사주 소각 의무화’ 상법 개정안, 국회 통과",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘자사주 소각 의무화’ 상법 개정안, 국회 통과",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tNUsyamtlV095eHhoVFhaSUdWLTRyUmIzanBMMWNpYVg4b1dNM2U5blFOdGV3WDJla3NJZkVhYXBHdnUzZGYyamlFMGhnUDdDR243QnJVa1hhRzdBczhzYS03eE0wdndmNUZN?oc=5",
+          "source": "문화체육관광부 한국문화원",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "자사주 소각 의무화에 관한 상법 개정안 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DY1dRYVJpcXVFMThOLTgxT3pxdzNJdGZtdUZZTU51SjlxNVMzNlZuOHBHQ1hlSThSQUNQNVQzVDEzM2VZMjN2OVRmUFM3M05iY1FSSk5SN0xXdjl4YXRoZFF2RXV6U1hzX1Q2Qk130gFyQVVfeXFMTUhlSXJrWVYxN1JWZlNGSG1DNGJybmV3b0djcWdsTnJlcGxwb2VGcjFlMDhONWd0MTdoRFlhZEJKVUlZU205Q3pjLUwzdGpJZnNpMElaV294TWJXVm9Yb2ZqTzlpOW1EYk0wbGJnblhBWjlB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t5",
+      "title": "2차 종합특검 공식 출범…\"성역 없는 수사\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2차 종합특검 공식 출범…\"성역 없는 수사\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcFJHM0o0T1RxaUx5VUNKaXJHQ1R3eE95Wk5JZTBHbWo3ekpZdU1BVTRlN1FXNkdVVDJWQ3FhRHc3RkczSVVsOXZZMUdVNmFVUjdDQ2JIQjVsNlhRN1N6a2d6a3pULWs?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-02-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'2차 종합특검' 수사 개시‥\"성역 없이 수사\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YX0pNVFJSb01JQ01pb0lRM0c0bk5MYlliMnJRN1RCM0xVRkYyYTI2MU5lUnFMbGlhRmwwSEg3RTJNemNvYjdGaEtZMThnQnh2a0tLekhZVnRpaEZpN3RwWFpXRllmRG0xWExKVDZZaWRZVF84MlVzb9IBeEFVX3lxTE53NFNQeHhpS2wyMW1WdlY5STh1d1BFdUxSZ2Q2dmNhWjZGaU14MExzNWRnSUIwUjQ4Y0dWTm5janN2QWdKWHZsMlo3ZnJHdXV3Zlllb3hMRWo5akhFS1lvZ2VId1RmZ1U1Wnp2N3hQaVpCVml5NEo0aQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-02-25T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t6",
+      "title": "'1억 공천헌금' 강선우 체포동의안, 국회 본회의 가결",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'1억 공천헌금' 강선우 체포동의안, 국회 본회의 가결",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xX29uSHhJZTQ2ZFFNY1BRSTgtTDhxNnh4VVV1RHR0emRzTWhnanplMllDTTZEVFJPbHUycjc5UjNFUDhfTHlwck9VSGtTamFaVHpjZXVoM0RTc1nSAWBBVV95cUxPSGJVMnVock9tUlFUX3lmWDNvV3ZONU9oaU43S2Y5UUxnd09UUDJGWlAxOXZfOWpmQ2ZDQ0wzV3V2Qm16S3R0bG5pMjRjZUF4QmVicFdWYjJydDZBbVJqQnA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-02-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘공천헌금 1억’ 혐의 강선우 체포동의안 국회 통과",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHbDEzQUpzTkR1Y0ZPT0kzMFJqb3pLR3FUbDBMOFl0M2NCOGJrMDVrSzlreWp2TkRyN1VPUFhJcWRzMlVya1YyX1cwd09HV1B2bnFpOVRQZE9VNmc3cC1QTWRwclpzUXVUMGpKMFdualkzMm11?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-02-24T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t7",
+      "title": "'이재명 정부의 한반도 평화공존 정책' 쟁점과 과제 - 정책뉴스 | 뉴스",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'이재명 정부의 한반도 평화공존 정책' 쟁점과 과제 - 정책뉴스 | 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WSVpqaXJmem1sclpRZVgzOXd3NVV0aUhTakdHazdvOE9mSk5YeXIwTzJacEoyQzFOckM0RjZxOTd5Y1VLVTdQRjBaQ3J3WmsxR3Vhc0Q3OXZCYW1ZSkU5LUxrdzlXaGd6bmZZeg?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-02-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"남북 신뢰 구축, 리스크 해소\"...'이재명 정부의 한반도 평화공존 정책' 발간",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BNHZfQVBDaWtKamZMeEpuR01fS3JSSFFyYmRyMlhOcnZjZlp3N1dyRk83VkFCLXpkREZtVEE3Y184Tm1ucHdVYkx1YzZJdXpZSzhDb2c4bllyeUlUMGJYR3ZTVks4UEo3enFR?oc=5",
+          "source": "SPN 서울평양뉴스",
+          "publishedAt": "2026-02-03T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "통과",
+      "count": 27
+    },
+    {
+      "word": "대통령",
+      "count": 17
+    },
+    {
+      "word": "본회의",
+      "count": 15
+    },
+    {
+      "word": "당대회",
+      "count": 13
+    },
+    {
+      "word": "개정안",
+      "count": 10
+    },
+    {
+      "word": "민주당",
+      "count": 8
+    },
+    {
+      "word": "무인기",
+      "count": 8
+    },
+    {
+      "word": "김정",
+      "count": 8
+    },
+    {
+      "word": "트럼프",
+      "count": 6
+    },
+    {
+      "word": "관세",
+      "count": 6
+    },
+    {
+      "word": "지방선거",
+      "count": 5
+    },
+    {
+      "word": "윤석열",
+      "count": 5
+    },
+    {
+      "word": "대법관",
+      "count": 5
+    },
+    {
+      "word": "종합특검",
+      "count": 5
+    },
+    {
+      "word": "김주애",
+      "count": 5
+    },
+    {
+      "word": "정당지지도",
+      "count": 4
+    },
+    {
+      "word": "국민의힘",
+      "count": 4
+    },
+    {
+      "word": "이재명",
+      "count": 4
+    },
+    {
+      "word": "의원",
+      "count": 4
+    },
+    {
+      "word": "도입",
+      "count": 4
+    },
+    {
+      "word": "추천",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "대표",
+      "count": 4
+    },
+    {
+      "word": "계엄",
+      "count": 4
+    },
+    {
+      "word": "투입",
+      "count": 4
+    },
+    {
+      "word": "민간인",
+      "count": 4
+    },
+    {
+      "word": "논의",
+      "count": 4
+    },
+    {
+      "word": "개최",
+      "count": 4
+    },
+    {
+      "word": "협력",
+      "count": 4
+    },
+    {
+      "word": "AI",
+      "count": 4
+    },
+    {
+      "word": "후계",
+      "count": 4
+    },
+    {
+      "word": "대미",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "총리",
+      "count": 3
+    },
+    {
+      "word": "봉쇄조항",
+      "count": 3
+    },
+    {
+      "word": "입법",
+      "count": 3
+    },
+    {
+      "word": "재판소원",
+      "count": 3
+    },
+    {
+      "word": "법사위",
+      "count": 3
+    },
+    {
+      "word": "압승",
+      "count": 3
+    },
+    {
+      "word": "내란",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "02.02",
+      "event": "'대법관 증원법' 국회 본회의 통과"
+    },
+    {
+      "date": "02.12",
+      "event": "국정원 “북한 김주애, 후계 내정 단계 판단”…4대 세습으로 가나"
+    },
+    {
+      "date": "02.25",
+      "event": "2차 종합특검 공식 출범…\"성역 없는 수사\""
+    },
+    {
+      "date": "02.26",
+      "event": "‘자사주 소각 의무화’ 상법 개정안, 국회 통과"
+    },
+    {
+      "date": "02.28",
+      "event": "‘14명→26명’ 대법관 증원법 여권 주도 국회 통과…사법체계 큰 변화"
+    }
+  ]
+}

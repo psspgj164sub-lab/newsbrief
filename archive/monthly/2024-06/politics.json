@@ -1,0 +1,386 @@
+{
+  "month": "2024-06",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:16.395Z",
+  "articleCount": 169,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-06#t0",
+      "title": "도쿄도지사 선거 게시판에 ‘독도는 일본땅’ 포스터 도배",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 6,
+      "sourceCount": 6,
+      "articles": [
+        {
+          "title": "日 도쿄도지사 선거 게시판에 도배된 \"독도는 일본 땅\" 포스터…",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jOV9SdUdDOC16VGpDd3F5ckREMkg5MmoyMzRuY2xkNW04d29QZHNHbS04dlV4Z1RrUjdlbVNNSU8tei01ci1BMVdUbDhkdmVBT3pFMkxyYkQ1ZEx1ekQ0b2VDbFFVbms5M1E0?oc=5",
+          "source": "세계한인신문",
+          "publishedAt": "2024-06-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "도쿄도지사 선거 게시판에 ‘독도는 일본땅’ 포스터 도배",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yaG5TODdjZ3ppbE15dVlNRkdxNDZialZCT1dTZk1uMEE2SE9kYWl3V1MxYjdFNkV3OHlmTVpabEo5Z1FDZFEyMkhkR1dLLUpaaUdvcG0yVnZCN00?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-06-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "도쿄도지사 선거 게시판에 ’독도는 일본 땅’ 포스터 도배",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GX1Z5dWNRa2h2cFBqaUJGRkxDVG1lU0RvT1hSX1RwN2VQTjV2T2hkeXV3NWdVUlFTRnpGcDZwTjFrZlJSMHllbmZWZWZUR2VSM09TeHFSMXk4eE1uTzhxamFPcW5sNm8?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-06-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t1",
+      "title": "2024년 유럽의회 선거 결과: 의미와 전망",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2024년 유럽의회 선거 결과: 의미와 전망",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtenAzNTZwX1NIaXRZS28yVVFndWNNV1Z5eklyYmw1TXZ0T2RtTV9hZmJZSjVjSVdRUWxPYVJiNjAxUk1PYW1nVG1tYW1NM2dkbEpmNTJINzFKZ2FlS2tJbF9VRl9yV2hUcjFudg?oc=5",
+          "source": "대학지성 In&Out",
+          "publishedAt": "2024-06-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "① 2024년 유럽의회 선거 결과 ‘극우’ 약진…EU 기후정책 향방은?",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90ZVBIN0lJcXJ1UGp0UGVPZG1nWTZEdjJFaHRKYkhpZ0lJY0EzMWtlOHVGZUtESS1Rb1R6c04ycXdDaENHU3c?oc=5",
+          "source": "그리니엄",
+          "publishedAt": "2024-06-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t2",
+      "title": "22대 국회 전반기 원 구성 완료…여당 몫 7개 상임위원장 선출",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "22대 국회 전반기 원 구성 완료…여당 몫 7개 상임위원장 선출",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04dmtIYnRSMmRwMTBscnlDQXFmdXVmTWh1Tm5oM3NMb0QxM21hanFRNFVXLS0zT0dLaFZfZTVhZ18tOWlmOEg3aTVpci1KTFU0WjlHZzlSOE9NRzA?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2024-06-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "22대 국회 개원 28일 만에 원구성 완료…여당 몫 부의장·상임위원장 선출",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmZ29keFJGdnZoYXZiWmlEVHFrMjJFR21jclBPblhiU2d3TVhOSFR0NmhQNmdPRnRYbWJvMFdJTmlNVDA2b0lRMnhXb08xd0cxazNJMllMTlZBS0JFMmduOUdGcGJURUI1ZlhQb19n0gFyQVVfeXFMTlZLdTF0NktobDBuU0ZVR3hBZmFLYksxWXJVVHpndUZUeXJxbG5UM20tajlxTzhZak1PeDYwYXZYb3oxczRObWhONDN2YkYzZFZUMnVTWldYNVZIR0dnVUtSeTNNQ2ozLXZLTkw4RXk0bnR3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-06-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t3",
+      "title": "법주사 중앙종회의원 보궐선거에 석중 스님 당선",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법주사 중앙종회의원 보궐선거에 석중 스님 당선",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LUkRfdGczRndCdzB3eGpPX3lwcjY5NHMyT0pwLUcxaXZiWC1HUzg2cnVpZm82U1hiQnlIWHBIZlZuVWdCdzhhVG1XZWczZEJUNFJmLXFfeWFxR2MzTlpkUEJSUThiMHNt?oc=5",
+          "source": "법보신문",
+          "publishedAt": "2024-06-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법주사 중앙종회의원 보궐선거 석중 스님 당선",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KRkFVQXZKc2pWaEhvYWN1R2dDd201endXMF9jTkRJWnNCVE1jVEhXN1FXXzByUjV2d3hKSE5NOWk4T24wT0VJLTlwMkRGUklZWU5UZ3hGQWY2aXJ5Yk45UUJXMmdoZ2_SAWtBVV95cUxPVGRUWnVxTmxJQ1FlWFgwVXdWMDA1bFFoRTJIU2otRC10c0JpVmpmTHJYemxYV09mb1ZmSU5jbGZIczA3cXRiNlVIUFNZWV9kdHBkek4ycXVmbWdPT3ZCWUJxazl1bnBnVmxqRQ?oc=5",
+          "source": "BTN불교TV",
+          "publishedAt": "2024-06-25T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t4",
+      "title": "한동훈 “채상병 특검법 국힘이 발의…특검은 제3자 추천으로”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한동훈 “채상병 특검법 국힘이 발의…특검은 제3자 추천으로”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oMGhNU0djRU1WRENfYkJ5ZExwdENtOGxpbTNYRjdoSTQ2eDdYNVR0Vm1nOHlIcXV4ZFQySXhhNmNOV3pWVGJ5S2ZNRzN3S1QzUkFYTThhR1FGaFNkSEEzbEZqS3dEOEw2Mm9MbmE2SXVzOWUz?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-06-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한동훈 \"제3자 추천 채상병 특검 발의\"...나경원 \"순진한 발상\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kSlgxNmZTU2ZMVmlRX2FITzdIdDdiVy0wQUVDcmVQOWJIc05LN29fb1d3X2xYN3V5aURCc0pLRmQyZjl2NVI0WThOWm5yeTNadWhlbUFtT3pkcWtRLWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-06-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t5",
+      "title": "22대 국회 전반기 국회의장에 우원식 선출..여당 표결 불참",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "22대 국회 전반기 국회의장에 우원식 선출..여당 표결 불참",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TbEJYbnVIeVUtX0luMWwwTnBZdkpnQm9Rd0dSRUNWQUhqQ2tfV3dvVmN6VzI5YlZtdFdtbjAyTXNjaF84bTI1dFVaVlNtaUxDME9WUHhIOUtQYmpidzRBLUJnTi1qOXVYZFJDM05n0gFyQVVfeXFMTmJJQXRkaldzVXRJa1hmWm9nbmp0cC0zZTV5UTY4TDhoT3kwRWlkZHBDMzlpVEMxcjFyeUhWaWF5ZmR1ckl5WXBPaEQ2aU5tTlNVN3NFdXBISWVyck9zYW80NGRGaGxyTzZxSFRnaGxpak1B?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-06-05T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "22대 전반기 국회의장에 우원식…국힘은 표결 불참",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54UjlRYVRxckZaYTNxTUx4ZlpVZWNyM0pYOE9faFRlOTBoV1NDZmxSV2R4cEp4bXh0RW5zeE9yS2treWVCSkdsRjZ4OTM0bmE5ckpXSW96cGN6T2RmUU95RV9mejBhSUJFYVRHcm5veEoybzU5?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-06-05T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t6",
+      "title": "유럽의회 선거…‘자국 우선주의’ 극우 정당 13석 증가 예상",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "유럽의회 선거…‘자국 우선주의’ 극우 정당 13석 증가 예상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jVGR2VHI4YnhlMVBacmdwSkNRZVNJN0VGbWFIRGFhMGtoR0stdktmcC1ZQmFMZ3BqYXNRTzBDNHNpZUFYcW9WY3ZFakdvcUJCXzVHa1BsRnNPd9IBX0FVX3lxTE01WkNENWJSaThQVVlSQWVxQWc4WVRBaThFUG51Z1NMTEdFejVBdnJLY3haeTBrVzJNdXItMUVYSXlLTHhzS0E1bTRwS1JLd1hqSXY2MV9fMlFfRDcxQmc0?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-06-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "유럽의회 선거, 중도우파 EPP 1위 지켰지만···극우 정당 13석 증가 예측",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DbGRMWkVKVUJyNHZaWHE1dVN2VTRYb05PeG51ODlmWTQzd2pad2xlU25qRGF2UmRJR2FuNkhmTjF3WWdyNW1DVExQakc2dVdyajdtSUZ0RkFyQdIBX0FVX3lxTFBfQ1NpSDQtTU9lZHRkd1JVQktfaTg3cWd2Mk5xR2x4ZVcwNlU1M2t6NVpuQk9ObWY5cHV0cTlFN3FMNG9KcVJiOUZvaUEwTkEySW1ZQnVReEtRUEhUZ2xR?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-06-10T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-06#t7",
+      "title": "‘배신의 정치’ 대물림한 윤-한, 그 끝에서 탄핵문 열릴까 [논썰]",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "‘배신의 정치’ 대물림한 윤-한, 그 끝에서 탄핵문 열릴까 [논썰]",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBETGJoX3B2TjdEZEd4UDRHMmd4Vzd3UmNoM3VoRlRBNVhoMi1pbHpUcE9fZTY1NHVlNU4zSWhtTlRadWZ6SlktejNxRUdHendPZTZrNHdoT3hSTWJXcTRiclJyMTVSSENEd1pDNGtUVXJ4U0hM?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-06-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "한동훈",
+      "count": 10
+    },
+    {
+      "word": "유럽의회",
+      "count": 7
+    },
+    {
+      "word": "풍선",
+      "count": 7
+    },
+    {
+      "word": "민주당",
+      "count": 6
+    },
+    {
+      "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "대통령",
+      "count": 6
+    },
+    {
+      "word": "도쿄도지사",
+      "count": 6
+    },
+    {
+      "word": "게시판",
+      "count": 6
+    },
+    {
+      "word": "독도",
+      "count": 6
+    },
+    {
+      "word": "일본",
+      "count": 6
+    },
+    {
+      "word": "포스터",
+      "count": 6
+    },
+    {
+      "word": "선출",
+      "count": 5
+    },
+    {
+      "word": "의원",
+      "count": 5
+    },
+    {
+      "word": "총선",
+      "count": 5
+    },
+    {
+      "word": "푸틴",
+      "count": 5
+    },
+    {
+      "word": "채상병",
+      "count": 5
+    },
+    {
+      "word": "극우",
+      "count": 5
+    },
+    {
+      "word": "발의",
+      "count": 5
+    },
+    {
+      "word": "당선",
+      "count": 5
+    },
+    {
+      "word": "오물",
+      "count": 5
+    },
+    {
+      "word": "전반기",
+      "count": 4
+    },
+    {
+      "word": "거부",
+      "count": 4
+    },
+    {
+      "word": "국회의장",
+      "count": 4
+    },
+    {
+      "word": "우원식",
+      "count": 4
+    },
+    {
+      "word": "국민의힘",
+      "count": 4
+    },
+    {
+      "word": "특검법",
+      "count": 4
+    },
+    {
+      "word": "이재명",
+      "count": 4
+    },
+    {
+      "word": "청원",
+      "count": 4
+    },
+    {
+      "word": "도배",
+      "count": 4
+    },
+    {
+      "word": "결과",
+      "count": 4
+    },
+    {
+      "word": "의혹",
+      "count": 4
+    },
+    {
+      "word": "오물풍선",
+      "count": 4
+    },
+    {
+      "word": "상임위원장",
+      "count": 3
+    },
+    {
+      "word": "영향",
+      "count": 3
+    },
+    {
+      "word": "불참",
+      "count": 3
+    },
+    {
+      "word": "후보자",
+      "count": 3
+    },
+    {
+      "word": "정청래",
+      "count": 3
+    },
+    {
+      "word": "EU",
+      "count": 3
+    },
+    {
+      "word": "유럽",
+      "count": 3
+    },
+    {
+      "word": "대표",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "06.11",
+      "event": "2024년 유럽의회 선거 결과: 의미와 전망"
+    },
+    {
+      "date": "06.21",
+      "event": "도쿄도지사 선거 게시판에 ‘독도는 일본땅’ 포스터 도배"
+    },
+    {
+      "date": "06.23",
+      "event": "한동훈 “채상병 특검법 국힘이 발의…특검은 제3자 추천으로”"
+    },
+    {
+      "date": "06.25",
+      "event": "법주사 중앙종회의원 보궐선거에 석중 스님 당선"
+    },
+    {
+      "date": "06.27",
+      "event": "22대 국회 전반기 원 구성 완료…여당 몫 7개 상임위원장 선출"
+    }
+  ]
+}

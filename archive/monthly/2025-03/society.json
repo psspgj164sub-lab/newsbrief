@@ -1,0 +1,358 @@
+{
+  "month": "2025-03",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:23.986Z",
+  "articleCount": 129,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-03#t0",
+      "title": "한국소방안전원 경기북부, 소방안전관리자 등 실무교육",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한국소방안전원 경기북부, 소방안전관리자 등 실무교육",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BZzVSdEdBazJ4dU9WRjI2MlFZM3oyYmV5bmswcXJIRFhYSXVKS3RLUVRTS3hnYjY0UTU3M0xqUlMxbEdZaHc?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2025-03-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국소방안전원 서울동부, 소방안전관리자 주말 실무교육",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40U1YwaHlIRGdlRXlZemt2Z3pURUZsN05sc1ZTaDZwQW0wN1U1bG85aERxVXE4cjA0U1BIbExRSjFqZGMtdnc?oc=5",
+          "source": "소방방재신문",
+          "publishedAt": "2025-03-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t1",
+      "title": "고령화를 시대의 부채가 아니라 기회로!",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "고령화를 시대의 부채가 아니라 기회로!",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WWEtDc25FU09kZTAyeGQwY0Rrd3l0OHRzTUNPNTZhVDdyMU1Ib0VTMVlyVGUtU3lELWVwMllCZmVxRFNFQllxSmNrS3dMZ0lXcEdSSGU3eC1hZ3lfazRyWjBtZnBIbmdwM1Brc2RVSEdsSUnSAXdBVV95cUxNYnJCUlM3MHdLVzQ5MUNYNHRQbUgyUGRDMXYxMlFIUGRjazBFUUlTVVVibzBrREpSTjk1NzJUTHhZeGJndjdfZnJGWFZ6NVUxOF9qR3FaSTd4ejFjQVJaVkdjZ2s0dmtHT01DbzBKYW1odVZZdVZzMA?oc=5",
+          "source": "소셜임팩트뉴스",
+          "publishedAt": "2025-03-14T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "고령화를 시대의 부채가 아니라 기회로! ②",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42WmNLRUdYNmNwUEhsaDB3YjZFc2dNeVU2cXhRdVVVb2trOTQzUENUTTlYaG5zMTFpYjg5Uml5Rnh4RktQZkh0WkxTYWs3b2tMU2MwQnVzVWhQX284N1Z3ZnJwdWdCQ29q?oc=5",
+          "source": "라이프인",
+          "publishedAt": "2025-03-13T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t2",
+      "title": "OECD \"저출산 한국, 향후 60년간 인구 절반 감소 우려\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "OECD \"저출산 한국, 향후 60년간 인구 절반 감소 우려\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBY3Q4RC0tN21PT2ZJTlNGTjZkQW1nVWdRWkhtXzh6TnJrcF9tZGY5a194U0pVRUZTN1A0RzBQR1RSR1lleGVDYm0yTUZoVm9xTVVXMFhxaTNwT0HSAWBBVV95cUxQd0YwTHIxU1loWWRWcEJxRC1yNHBNa0N1b29tb3Zvakw0YXgwRWtTRDhGaUJRQjFXblVHMENJVTBUcFhNOHZtYVhwUjNacjRnRmJHUU1ZVV9tZVRiSG0wcUI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-03-05T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "OECD “한국, 저출생으로 향후 60년간 인구 절반 감소 우려”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOa0ltVzV0Y0NNNnpMNlFqV0JQUjR1RzhhT2RBdU5BaXltQ3hhZ1RvdGJSc3k0RjY2dnJFdDZya0V4d2pUOERpdllwTnZhRGlnQ1VQS3BUVzBZZ9IBX0FVX3lxTE16M1JtbDZ5ZU50TUhUd3ZOSFFiUXpkUUo2eFJ4QWxUbFNGaS0zeVAwSmJZbEI3YmhLck81N3NuWjRoVGxMT1lFWTExZWJueEN0NW9JWXZoOFBQZzgxZkdV?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-03-05T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t3",
+      "title": "고령화에…치매 내년 100만",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "고령화에…치매 내년 100만",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iNFZtX2xVV0p2azBLeTJmUFBJNXJPVEk5YzZFbEVtNG5FWGtKT0kwTy1aNjdCRW5yMTk2Q0xUcGJULXgwVE42bllUUGVjR3dOd0xoN1NB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-03-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "고령화 탄 치매, 내년 환자 100만 돌파…가족 절반 \"돌봄 부담\"",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrZ1FpUFNpbWJYVnZSeVNfZDgzdjRKN1pFOThBbEExNFpsUk10b2hseERnR1VQbUhUcEpjdHRIOEUxRm45cVctSTVnUVBwa3p0YnBPZzNn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-03-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t4",
+      "title": "129 복지 상담 모바일앱, 11년만에 개편… 수어‧채팅‧챗봇 쉽게 이용",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "129 복지 상담 모바일앱, 11년만에 개편… 수어‧채팅‧챗봇 쉽게 이용",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80M3FmWkk3WUprNU9Qd0R4QUVJM2JNYlFhTGJqWEhNbURXUllSbmVRT3o2cXU1YUhaVlRVUGtJVHhGMk9wUzQyWWtaaWxCUTQ?oc=5",
+          "source": "더인디고",
+          "publishedAt": "2025-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t5",
+      "title": "관상동맥 내 쇄석술 등 4건 신의료기술평가 인정",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "관상동맥 내 쇄석술 등 4건 신의료기술평가 인정",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MM29PcHd0R1l1NkRrbXRyblFMZG5KVUJiT2ExZkdLV3A2YVhkd1M1QnNKSFVFOFRlRnAxV05QbW1lRTJITlZsbHBFWmpXUlRDaURzZFE5SFFIT0NJU3lqT2xVd2NXaDFtREE?oc=5",
+          "source": "의학신문",
+          "publishedAt": "2025-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t6",
+      "title": "“치료받으러 태국으로?” 의료관광 강자로 자리 잡은 태국",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“치료받으러 태국으로?” 의료관광 강자로 자리 잡은 태국",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LUy1fSXNyUUlaekpMeEI1ZmZsU2hSUl83MlFtV0N4eFQtVndUYlI2bG9tRWYwWHVxdEZyNmRnbV9VVGc4S3RxME9leHI4NW5iZDNzaGZaRGRPdw?oc=5",
+          "source": "한국미래일보",
+          "publishedAt": "2025-03-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-03#t7",
+      "title": "“천사 같다고요?”…사회복지 업무, ‘선의’ 아니라 ‘노동’입니다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "“천사 같다고요?”…사회복지 업무, ‘선의’ 아니라 ‘노동’입니다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VWXBkZXBuX0xWbGFZVmFTMVBaMGRSMlBpMkZIVDFfZFFLalJ3UFA2RTFfdGxDdXRtaEYzZVVlQmVFM3ZXMWxmTHY1Q28yRlhxQk5wVGMwT1ZlUdIBX0FVX3lxTE1qMFFZTm83UVJLQlNyWkx5X1RESVFXb3JoQzRfcTB0OUd3dXdLUWN5SjhEM2ZZc3NVbnlVWm1UamRoSllUOVZCa2ZUVHZEQkNhYzRjd1k3QUZpa3BZaU1r?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-03-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "정부",
+      "count": 6
+    },
+    {
+      "word": "사망",
+      "count": 5
+    },
+    {
+      "word": "환자",
+      "count": 5
+    },
+    {
+      "word": "저출산",
+      "count": 5
+    },
+    {
+      "word": "시대",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "절반",
+      "count": 4
+    },
+    {
+      "word": "아니라",
+      "count": 4
+    },
+    {
+      "word": "운영",
+      "count": 3
+    },
+    {
+      "word": "수사",
+      "count": 3
+    },
+    {
+      "word": "치매",
+      "count": 3
+    },
+    {
+      "word": "감소",
+      "count": 3
+    },
+    {
+      "word": "기업",
+      "count": 3
+    },
+    {
+      "word": "사회복지",
+      "count": 3
+    },
+    {
+      "word": "기대",
+      "count": 3
+    },
+    {
+      "word": "분야",
+      "count": 3
+    },
+    {
+      "word": "AI",
+      "count": 3
+    },
+    {
+      "word": "변화",
+      "count": 3
+    },
+    {
+      "word": "의사",
+      "count": 3
+    },
+    {
+      "word": "초고령사회",
+      "count": 2
+    },
+    {
+      "word": "연금",
+      "count": 2
+    },
+    {
+      "word": "복지예산",
+      "count": 2
+    },
+    {
+      "word": "돌파",
+      "count": 2
+    },
+    {
+      "word": "복지포인트",
+      "count": 2
+    },
+    {
+      "word": "대법원",
+      "count": 2
+    },
+    {
+      "word": "현실",
+      "count": 2
+    },
+    {
+      "word": "않는",
+      "count": 2
+    },
+    {
+      "word": "정책",
+      "count": 2
+    },
+    {
+      "word": "투입",
+      "count": 2
+    },
+    {
+      "word": "긴급복지",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "노인",
+      "count": 2
+    },
+    {
+      "word": "돌봄",
+      "count": 2
+    },
+    {
+      "word": "의료사고",
+      "count": 2
+    },
+    {
+      "word": "인공지능",
+      "count": 2
+    },
+    {
+      "word": "한계",
+      "count": 2
+    },
+    {
+      "word": "OECD",
+      "count": 2
+    },
+    {
+      "word": "향후",
+      "count": 2
+    },
+    {
+      "word": "인구",
+      "count": 2
+    },
+    {
+      "word": "필요한",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "03.05",
+      "event": "OECD \"저출산 한국, 향후 60년간 인구 절반 감소 우려\""
+    },
+    {
+      "date": "03.12",
+      "event": "고령화에…치매 내년 100만"
+    },
+    {
+      "date": "03.13",
+      "event": "고령화를 시대의 부채가 아니라 기회로!"
+    },
+    {
+      "date": "03.28",
+      "event": "한국소방안전원 경기북부, 소방안전관리자 등 실무교육"
+    },
+    {
+      "date": "03.31",
+      "event": "129 복지 상담 모바일앱, 11년만에 개편… 수어‧채팅‧챗봇 쉽게 이용"
+    }
+  ]
+}

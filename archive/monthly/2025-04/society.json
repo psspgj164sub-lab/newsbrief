@@ -1,0 +1,386 @@
+{
+  "month": "2025-04",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:24.509Z",
+  "articleCount": 194,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-04#t0",
+      "title": "남편과 외도 의심 상대의 대화를 우연히 엿듣고 녹음한 아내의 행위는 통비법 위반이 아니다!",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "남편과 외도 의심 상대의 대화를 우연히 엿듣고 녹음한 아내의 행위는 통비법 위반이 아니다!",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82MlRpLTRnZzZqTkZTd1EzX0ZHMHFSSDFNZ0RQc1o3bzBkTjVlYWlHRnZiZTZwcTFRS0NGUDhvZ0JRUU1uemFaYVJCQm1iNFRMbWRsMk9mbzlUVXk1eFEta05LbnZNYl9oQlpzTUtabw?oc=5",
+          "source": "법조신문",
+          "publishedAt": "2025-04-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "우연히 엿듣고 녹음한 통화 청취해도 통비법 위반 아니다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tcUtRaU1tOHR1X1U1dnFXTkpiSldldy1JSU1wdFBYYVZ2d1FhRnVQczdKMFlfNWxnNE4wTWx3YkxwX3hzSmkyOTc0dE03Z3JQcnUySmNSbU5ic09qV0phZE1QVExiSFQycG9MTE5n0gFyQVVfeXFMTzctMER4dVpKWEVrak1CWUQ5dFJzbzByOTNjbFB3cHdtZTVtR1pKdTcxSEJuV3dwaVd3NFJod3U5MUNVc2xHb29KR1dxVWFtbW9NNEpsRmg1ZF9KS3hpTVpUb0ZBX21zSUZKWUNvOHhVZ0FB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t1",
+      "title": "서울 봉천동 21층 아파트서 화재…1명 사망, 최소 7명 부상",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "서울 봉천동 21층 아파트서 화재…1명 사망, 최소 7명 부상",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90dmR0aE8xUU5EZ3N0YWhmcGRJei1jbTZlbm1kMWVvbWkwaXRjRzFTT0dOTUZzSnpKdVBqdVJQdHZmUk9jVlNNUkxQdHgxWE8zQ3BiYVBZbDh1WmJ5X2pydmxKbk1wUjBLUE85d19FNE05QQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-04-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 봉천동 21층 아파트 화재 “60대男 방화 추정”",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXV3ZUdjZZYnhYcDhsSHBBallaTDB2Z2htcFl5M19Lc1pPVmxyX0tXR2JSMndwNUV0TV9LY3hlZmtmMi03Z3JJdWhZektYeEpi?oc=5",
+          "source": "문화일보",
+          "publishedAt": "2025-04-21T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t2",
+      "title": "법원, '동학개미 멘토' 존리 전 대표 금융위 중징계 취소 판결",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원, '동학개미 멘토' 존리 전 대표 금융위 중징계 취소 판결",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rX1doWFhaUlMzTjRPcEhqeFZ4WmhoeHUzWkhLSkwyT3dfQnQxaTQ4RnpQdjFfeFRBMFZrRjhDSVRxVVJWX0NvVmpkdUNaUzZEWWNSbEtB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2025-04-19T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 \"존리 전 메리츠자산운용 대표 금융위 중징계 취소\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16UUpQa25jRU9Nd2NiUDJwZFN2R2JGSGFjOGlTdUxSZUJWY2VUYW9Ra3Vhd2xqSzZ2cnlQOGlRbnVCUUdIWE5ZdGxycUlwUks5VWhsLUFXZG5HSGvSAWBBVV95cUxNaDVvNWVGTDFLM190Y291eEFqNFFXeVdPNzRQZ0lQUk9XS3NTa1RLV3VSdzZsb19DOGQyUHJKQ3M3Sk5fR2VIcjl1bGJzTFRNUHV0dU1HUEhxaEdrdHA3Z3g?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-04-18T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t3",
+      "title": "경찰 사격 훈련중 총기 사고, 20대 순경 사망",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "경찰 사격 훈련중 총기 사고, 20대 순경 사망",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LZXpmeEpfZlRCQ3lVNHhoV002bmpTeXFRNmJBWk15MHhBYmxtWWg4aElwWE5RZm81LTI1OVNNUFZCVXhxNkkzVldxdVZHSVlBZTZfLQ?oc=5",
+          "source": "부산경남대표방송 KNN 뉴스",
+          "publishedAt": "2025-04-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰 사격훈련 중 총기 오발 사고…20대 순경 사망",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wWGpuR2hOOE4yWEZJUm5MTlM2RG0yUFFmdmdZTnpvTnk5bnVNQ3A0RkNwVWVpWTZuYW5XcEZjRDNCcmVON3ZfX0FaTW44eVppUkZ0SEtvcU5yYkE?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2025-04-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t4",
+      "title": "한국 사회복지지출, GDP의 15%… OECD 38개국 중 34위",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "한국 사회복지지출, GDP의 15%… OECD 38개국 중 34위",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNOWtGN1ZrNkFNWDBveWp1OUZmSERmMjk5U3MybXBkTUVSRG9mUVVQM21WcGhYbmhYbGFTd3RJSGlZTG1RMFh3RTlEeDZvdkE?oc=5",
+          "source": "더인디고",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국 사회복지 지출, GDP의 15%…OECD 하위권",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93ZGFWeElNSDlpd0w3NUREaFJsMTAxY2JWWjUzTm0tUUFDZzBUUktwRGkxWE1WV1BVSklpLXZQWWozaFZtNW9Zc0wyX1hCRXprbUZ2LWpKVTRYVGVXSFJHYmREenpVdw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t5",
+      "title": "6명 사망 ‘부산 반얀트리 화재’ 시공사 대표 등 6명 구속 기소",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "6명 사망 ‘부산 반얀트리 화재’ 시공사 대표 등 6명 구속 기소",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tcTQ3VWNBUmVfYVZsNks5TklvOS1IOXJNQ00tdGJkQUY2ckZiUTJjbEFEaHdmLWNjZ2duZlRkZ3ZZeWxSUnpQR2NmZVR3Y01Oa2I5LUNzcmt4QdIBX0FVX3lxTE5jeURlWkVES09WZGNOZXZ6MUd0MzhHTVI4YS1TeTY1OUd2Y0p0SnExeW9kTnZxcVpnemcxbVNrUkFFRzNGZW5ibFFPY2ZxMzFMSnRTdmRLRUducGdwcDJR?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-04-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘작업자 6명 사망’ 부산 반얀트리 화재 “용접 불티가 원인”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVW9mbllFSGlPZ1EzcDFYWVZ2OVlYblVBZ1pQWnpqY1pmbXBYQlFuWXpPdEx2X3NaZ3pZdjVWZmpIZjhzREJpNG1SbGI2NFM4cmdQZTluQ2Nwd9IBX0FVX3lxTE5wbWRUQ0VCQ2xmdDNUODdNbER0R1AwYTBqTjNHTU0yeVRqZU1xRmUtSWg4V3I3UkN2VXh1bzQ4TFNtRjZwSDJOa1NkY2VqenJNYnN3ODVfS2o1d2d4dzVv?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-04-07T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t6",
+      "title": "일본 상대 국내법원 '위안부 피해 배상' 승소 판결 일지",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "일본 상대 국내법원 '위안부 피해 배상' 승소 판결 일지",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhdVc0OXFiNzRObnNWdFpGMkVfS19DOFFuUmd0dlRSeUU3QjVMUUlXRDNGeDRyY3k2TzdDVzhlUmd3dUswQjVCOFV6LTNOLUhkazY1Y0pTeWZoczjSAWBBVV95cUxNMDMxRHQwUUI2bXVTcGQ3U1ZsdThVcEpvYnFGQVZwRFZ1Mm9lZ0ZTaEdLd1RqZEJCSF9MODBWLWV2QU1JUzRoSW5XYzRDU2hpZ0ZkMlVKWDlQUHlPelBYVWQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-04-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"위안부 피해 배상하라\"…국내 법원 세 번째 승소 판결",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OMTZmdHFyblZXRnpsOHEzZGhkUXhicm5ybFRMYjV2N1EzanZhNmhCc0JHUjRsX2dlNEdSeFE1bm5GX2JBbmVucUVmamFnXzZncVdnaFFFMFpSU2fSAWBBVV95cUxOUFlCcXFYMm9rREtlYzcwODc2STkyYlRmS1k4WUVJNTE2UEZrczJ5SUd4cUZCSUpRdTNhMHdrSFZJdGlSdl9XY1ItV1FoTHZHSjRaa0tqWlhWLWhZYVlsNlY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-04-25T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-04#t7",
+      "title": "건설업종 사망사고 증가…추락·붕괴, 화재 예방 집중점검",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "건설업종 사망사고 증가…추락·붕괴, 화재 예방 집중점검",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMVd3a0FsTTZJcWdLVmhrN3JwZjlzVzZmbXpUeXFzY0Q3TnJyZXEzbGxYYVl2WkcxVWg2R1d4RU5HdEprQURKWXk2bUFDaG9iemloVndIV1NrSEszcFFfdUtZQVIxTUo4MmY4dA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "건설업종 사망사고 증가…추락·붕괴, 화재 예방 집중점검 - 키워드 뉴스 | 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yS1dzYkJJNU0yWEV5N1p1NVZZVkRLX1N6Wnk5S3Y2UFRZcGV3eDk5TGtvRW5tWXkxWkNEekFuQm1xYU05TUx3aXUyUWlZcGRNUzdYTFo0RFBnV0xzejRndGlsUkVkaWFwelpmSmR3MzlUQQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-04-09T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "사망",
+      "count": 7
+    },
+    {
+      "word": "AI",
+      "count": 7
+    },
+    {
+      "word": "전기차",
+      "count": 6
+    },
+    {
+      "word": "사망사고",
+      "count": 6
+    },
+    {
+      "word": "위반",
+      "count": 6
+    },
+    {
+      "word": "아파트",
+      "count": 5
+    },
+    {
+      "word": "반얀트리",
+      "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "예방",
+      "count": 5
+    },
+    {
+      "word": "해고",
+      "count": 5
+    },
+    {
+      "word": "봉천동",
+      "count": 4
+    },
+    {
+      "word": "부산",
+      "count": 4
+    },
+    {
+      "word": "판사",
+      "count": 4
+    },
+    {
+      "word": "구속",
+      "count": 4
+    },
+    {
+      "word": "피해",
+      "count": 4
+    },
+    {
+      "word": "인정",
+      "count": 4
+    },
+    {
+      "word": "대법원",
+      "count": 4
+    },
+    {
+      "word": "재판",
+      "count": 4
+    },
+    {
+      "word": "아니다",
+      "count": 4
+    },
+    {
+      "word": "횡령",
+      "count": 4
+    },
+    {
+      "word": "숨져",
+      "count": 3
+    },
+    {
+      "word": "산불",
+      "count": 3
+    },
+    {
+      "word": "대응",
+      "count": 3
+    },
+    {
+      "word": "사상",
+      "count": 3
+    },
+    {
+      "word": "분석",
+      "count": 3
+    },
+    {
+      "word": "이재명",
+      "count": 3
+    },
+    {
+      "word": "방화",
+      "count": 3
+    },
+    {
+      "word": "추정",
+      "count": 3
+    },
+    {
+      "word": "원인",
+      "count": 3
+    },
+    {
+      "word": "신고",
+      "count": 3
+    },
+    {
+      "word": "규모",
+      "count": 3
+    },
+    {
+      "word": "소방차",
+      "count": 3
+    },
+    {
+      "word": "어려워",
+      "count": 3
+    },
+    {
+      "word": "추락",
+      "count": 3
+    },
+    {
+      "word": "붕괴",
+      "count": 3
+    },
+    {
+      "word": "책임",
+      "count": 3
+    },
+    {
+      "word": "대표",
+      "count": 3
+    },
+    {
+      "word": "일본",
+      "count": 3
+    },
+    {
+      "word": "국가",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "04.07",
+      "event": "6명 사망 ‘부산 반얀트리 화재’ 시공사 대표 등 6명 구속 기소"
+    },
+    {
+      "date": "04.09",
+      "event": "남편과 외도 의심 상대의 대화를 우연히 엿듣고 녹음한 아내의 행위는 통비법 위반이 아니다!"
+    },
+    {
+      "date": "04.16",
+      "event": "경찰 사격 훈련중 총기 사고, 20대 순경 사망"
+    },
+    {
+      "date": "04.18",
+      "event": "법원, '동학개미 멘토' 존리 전 대표 금융위 중징계 취소 판결"
+    },
+    {
+      "date": "04.21",
+      "event": "서울 봉천동 21층 아파트서 화재…1명 사망, 최소 7명 부상"
+    }
+  ]
+}

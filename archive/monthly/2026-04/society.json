@@ -1,0 +1,386 @@
+{
+  "month": "2026-04",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:29.800Z",
+  "articleCount": 194,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-04#t0",
+      "title": "‘서부지법 난동’ 가담자들 유죄 확정",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘서부지법 난동’ 가담자들 유죄 확정",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MeUxyTm52ZU5YUDBkd01nUnlONHJLbndLYkxUZmhMal9MNWZTOVI1blcwWW4yQ3pNRDVoZE1HRWhwT245WTZiSWZMWHVTZ2JxNjlTYTRHMHJ0V0NaYTVvYkQwZjRZNlJ2ODQ3WVl30gFyQVVfeXFMUFBES3ZXWnNtRTR2QldwZl9fTlFaMHByd0gxclFKNTh3V09LSkltWWdoNkNRcDRNdWRDbXJkWnZnYTlOVGNLUC1pWE1YR0szVTM4bGxNOWJVcDdWRjFob1diV1BBRkFRMWtoQm5ISzNUNlFR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-04-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서부지법 난동 가담자 18명 유죄 확정…대법 “원심, 법리 오해 없다”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3bUJ6YVRsUGczVzg1N1dNNXlNSTJpbGJXSEwxWC1XZmhfUWJzZng2R2JMaHd5aEJQSnA1dWI4NjBxTVhkTHNLUG9uQ0pwRXRjdGZBYUNjdWdXVnc?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-04-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t1",
+      "title": "넷플릭스, 국내 법인세 불복 소송 승소...\"세금 687억 원 취소\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "넷플릭스, 국내 법인세 불복 소송 승소...\"세금 687억 원 취소\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TcUlMSFdFZktXeFlaVUJKbmZKZ1lGNWt4bXJHRmZ6NVFJaldqTFJfcFhWajJjWHQ2TmdfYzRpSHphYlNMT0l5c3E1R1FjMk03d2cwTEl1V056bGt1X3NEM0VDanRqdnFZVUpsVEttc09YZW0zN2V2dUNUM1g2b0E?oc=5",
+          "source": "YTN 사이언스",
+          "publishedAt": "2026-04-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법인세 불복, 넷플릭스 ‘승소’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xZk55NVp4NXNmTVhRX2lmeWRVWGlsbXg5Nl9xWGtTbGc4VVMyUzVTWlhnUTdaamVDems0UlgxbHRhTXRzbXFjOW1uejd6OFZCUmlBbXZFMllVd9IBX0FVX3lxTFBtc3plQTNoMjVwcTdiYWI4RGlSUlh0WFdiQ0tjdGpNQUgySF9VVzFnS203YjAxY0lPRUlsQ0NGNW5lb0NidU5lV3llcW9PeEh3cTk1eTFBRFp5YUpFMlBn?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-04-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t2",
+      "title": "보건복지행정타운 임직원·상인회 “기관 이전 반대”",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "보건복지행정타운 임직원·상인회 “기관 이전 반대”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqTzFfR0VxbHJsMUZGWmlQclYtSWlQSEg0bGRtVy1DcmdUX2kwM2hzOC1TQVBRd2tDWG5PbUN5N25FaWdPNWF0bnY0c1doZWFQd1lpV3pVbW9JazdjRGJPekJBb3dYRXBfcUd3Q0ljQk0?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-04-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“보건복지행정타운 입주기관 지방이전 반대”",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB0YkZ1X19feExtYlk2NmV5dkY0MWwtQzRhV3hqUnp1Vks0VWp2eUszY0UwVFNMLUZ6WlQyWTBzTGpZaVE?oc=5",
+          "source": "디지털광진",
+          "publishedAt": "2026-04-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t3",
+      "title": "연명의료 유보·중단 환자, 50만명 넘어…절반 이상이 가족 결정",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "연명의료 유보·중단 환자, 50만명 넘어…절반 이상이 가족 결정",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaNDBRazJiYTRETjJtWl9hWFNnU1VkVjBJODZBWEUzS0gyTmlzSUlkS3VsamRFV2Eyd0hVTmVvTlRLZE9idi1JX3FkX3ppVTVjdUxiaFViUW5kQ0ZzQnBaOUVYQWdkYlpwVEZPWjh4VkJ2clZjRkHSAWZBVV95cUxPMm5oZzFUQ0UzQ3I3a01rY0YzYmFZSTRETHFMaDVhVjZ6UzUwc004cTR6QThhUUtITE4xREp0RDl6RFZjLTNaMHdPQzFhNlNnT3Y0TkJyYnNYUkwtYmF6TDlUQkZ0aGc?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2026-04-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘연명의료’ 유보·중단 50만건 넘어…44%는 가족 아닌 ‘자기 결정’",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84QTVhRXFEbUZVaExtR3FzS3VzZF94ZTJDS2U0M29oRGhmanEwVjNwY2lSSXRfM25IWG9BaVhKUXd0OE9OQkRyOWxzeGNjNDlYWkJ3eWlsZzBFNnFNR0l1b0t4aklKUQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-04-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t4",
+      "title": "K-의료 '퀀텀 점프'…외국인 환자 200만 돌파",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "K-의료 '퀀텀 점프'…외국인 환자 200만 돌파",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlZ2xXYUZmVUpRemxBOVhyRUZ1bGJrdkVOdG55MnJtajI4MWFXWTFQVXNkZ2JGN2Y2VEtBODN5ZFhXZGZiWlpOUHp1dlR2eXNOYTRfNURDU2R0b184dllhREpUWEtYWktydmc?oc=5",
+          "source": "의학신문",
+          "publishedAt": "2026-04-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "외국인 환자 200만명 K의료 찾았다…역대 최대",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTG13UGNsUjNTNzJOWE0zVC1zdjdOaFgxQ0ptSzFlY2RYeEFzVGZWR2JYd2swY19KWENpSXJOSDkyRVZ4WmdUdDlhMlNBRjZPazBjY2dQcjR0OVBhOWdhNnNIWE45YUdVZUpyTUZ1czdyX2NnQ1E1ZjJ4aEFiVU0xNmpNbTZEUEXSAZsBQVVfeXFMTVJ5ZjRaaWtBU1hmU2hpUWdMOUp3WmJqNEZzOVFfMmFsMVRxNFB5dGNXQUhXR1dRRkZzVnIyNjBPbjd0Q19MUFFrdFJXNC1mUWItM2JrVEpVbUt3ZTF0TFZKWmd1RnR0UEo5TTA4azNGdWpESTl0WkxBaUU0aUprMkdpZzNIYVI2Rno0M3lOeF9Dcl81WTAzRzJXUG8?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2026-04-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t5",
+      "title": "법원 “삼성 ’급식 몰아주기’ 2천억원대 공정위 과징금 취소“",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원 “삼성 ’급식 몰아주기’ 2천억원대 공정위 과징금 취소“",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XNkF6R2VHMWNmdXBCRVNMNGhvXzRIMG50c01kZHFQcnZKMzlxSllYQ1RXZFpmQ0dEWFFZc2VDbXI3Y3A0bVVlZTJXOGUwYjd3eTBsakdNQVRzRV9qd3l1Zjh3X0Nya2M?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-04-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"삼성 급식 몰아주기 2000억대 과징금 취소\"",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rZG1DX0c1SkpMcnB3MG1DSEdTOTN3bG9MZjVfNW1UdVBOcU9BUkpmUEhiMU1VSmJZNTdaS0hOVklKY1VSNmN1S0JFZE1mY3VsaXZFdnFVLW9IZw?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-04-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t6",
+      "title": "미국 항소법원, 텍사스 교실 ‘십계명 게시’ 허용 판결",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "미국 항소법원, 텍사스 교실 ‘십계명 게시’ 허용 판결",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0RUFEVjVfVEZ5eHM2eGFvZmtHZm9WVkJzZWpMOS1fZWFncFRhaGJRTzFXdkVzeTdrQWttckR3NHBma2R1UGc?oc=5",
+          "source": "Daum",
+          "publishedAt": "2026-04-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美항소법원, 텍사스 교실 '십계명 게시' 허용…시민단체 반발",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwczlhYlozS2VHMGJCNFdhSVl3bFNhal9IdGpOR3JXSUs5dEs2MzA3ZTgydGV5MUt6Z2VzMFhjZmFaSEhBZmtsNnp4T1RpdVZUcFdMMUVKVFBKTTDSAWBBVV95cUxOQ3V6MkFIanVjNTZzdDdKUUo0clRwQXJLdkQ0WWJrcGYxaGExamFENGg1NHlfVHNCUmtqd2RVSWZQZW0tVGtXbnl0TGZMMnZLY0pNY01uT2t2eU9uVnZrc1U?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-04-22T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t7",
+      "title": "EBS 신동호 사장 임명 취소 판결, 방미통위 항소 포기로 확정",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "EBS 신동호 사장 임명 취소 판결, 방미통위 항소 포기로 확정",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWJERVRlTTVGMVZNZlJLelJaYUVKTFRKbnhOQ05RQVFhME10VFliaElyb3hweHF1UHI5QWpuUk9VbkdVdklsWXFCVGFGU3VwZDhjbnc2cEVXWkY5bVFxcHZoS0lfZnp4YkVGRy1JNmVQc3JIRDRibjRsRE5sN3dseENJdVNNbnc?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-04-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'EBS 신동호 사장 임명취소' 법원 판결 확정…방미통위 항소포기",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UTEZtRi1MLU9IUE5QWVVjd19kLWxpZGRLY3dkSlBVTXJzcG9JckdhbDV5RWhzUUR3ZEdHR2pFc3VndWtxT2c3OXJicEFJTGIxdU5hX3B1Y0ZERjjSAWBBVV95cUxPUTFWM3pJX1d5aVkzcmpkUUhNYV9KS1VkXzRtcWVRRlRjazNhWUJuV3Zvb2RfUGdhOUs1T1I1QVAtUkFNbDl6aGRyU3hzVmVqUVktelRIeG02dEJLU3ZIeE8?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-04-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "AI",
+      "count": 14
+    },
+    {
+      "word": "배상",
+      "count": 9
+    },
+    {
+      "word": "시대",
+      "count": 7
+    },
+    {
+      "word": "환자",
+      "count": 7
+    },
+    {
+      "word": "취소",
+      "count": 7
+    },
+    {
+      "word": "소송",
+      "count": 6
+    },
+    {
+      "word": "확정",
+      "count": 6
+    },
+    {
+      "word": "필요",
+      "count": 5
+    },
+    {
+      "word": "나왔다",
+      "count": 5
+    },
+    {
+      "word": "변호사",
+      "count": 5
+    },
+    {
+      "word": "전환",
+      "count": 5
+    },
+    {
+      "word": "법인세",
+      "count": 5
+    },
+    {
+      "word": "대법원",
+      "count": 5
+    },
+    {
+      "word": "첨단재생의료",
+      "count": 4
+    },
+    {
+      "word": "의료기기",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "미래",
+      "count": 4
+    },
+    {
+      "word": "장애인",
+      "count": 4
+    },
+    {
+      "word": "국회",
+      "count": 4
+    },
+    {
+      "word": "없다",
+      "count": 4
+    },
+    {
+      "word": "정몽규",
+      "count": 4
+    },
+    {
+      "word": "정당",
+      "count": 4
+    },
+    {
+      "word": "성차별",
+      "count": 4
+    },
+    {
+      "word": "판결문",
+      "count": 4
+    },
+    {
+      "word": "재판소원",
+      "count": 4
+    },
+    {
+      "word": "징역",
+      "count": 4
+    },
+    {
+      "word": "승소",
+      "count": 4
+    },
+    {
+      "word": "저출산",
+      "count": 3
+    },
+    {
+      "word": "논의",
+      "count": 3
+    },
+    {
+      "word": "구조",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "개편",
+      "count": 3
+    },
+    {
+      "word": "초고령화",
+      "count": 3
+    },
+    {
+      "word": "실시간",
+      "count": 3
+    },
+    {
+      "word": "승인",
+      "count": 3
+    },
+    {
+      "word": "생성형",
+      "count": 3
+    },
+    {
+      "word": "중과실",
+      "count": 3
+    },
+    {
+      "word": "의료데이터",
+      "count": 3
+    },
+    {
+      "word": "붕괴",
+      "count": 3
+    },
+    {
+      "word": "활용",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "04.23",
+      "event": "법원 “삼성 ’급식 몰아주기’ 2천억원대 공정위 과징금 취소“"
+    },
+    {
+      "date": "04.24",
+      "event": "보건복지행정타운 임직원·상인회 “기관 이전 반대”"
+    },
+    {
+      "date": "04.26",
+      "event": "연명의료 유보·중단 환자, 50만명 넘어…절반 이상이 가족 결정"
+    },
+    {
+      "date": "04.28",
+      "event": "넷플릭스, 국내 법인세 불복 소송 승소...\"세금 687억 원 취소\""
+    },
+    {
+      "date": "04.30",
+      "event": "‘서부지법 난동’ 가담자들 유죄 확정"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "month": "2026-02",
+  "category": "society",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:25.976Z",
+  "articleCount": 292,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-02#t0",
+      "title": "美1심법원, 테슬라 '자율주행' 사망사고 배상액 3천500억원 확정",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "미 법원, 테슬라 ‘자율주행’ 사망사고에 “3천5백억 원 배상”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wcGcweXh4SDdiV3BrOFFLcVpoYUxpdWF6ckM0WlloRHB2MDR6MzFidndFUHRlQ2VCUzFHNGVKMTRabEw1X1NjbDF2al9FZmxmRjRqbDV5ZXpwckE?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-02-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "美1심법원, 테슬라 '자율주행' 사망사고 배상액 3천500억원 확정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nWnFmdHo0Smx6MDdxdXk4b1ZFNk5SZ3NCamxHbTY2aDJDQ3Q4RUtIVGRFYlotYzB4TS1RM281TlVUVTl4R2ZrU2M2bUwxazhpajRvbWNWMDMzcDTSAWBBVV95cUxNSkQwbHB3ZEVtS19FZHVWYUVrejBGR09haEYxWXlQVUpnWkVXakxyMnRLd201UnIxX2FrVGZrWXlYTmRESGxqcGJkX0RDSGtoU1czX0d0MEh3c2huT251Sjk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-02-21T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "미 1심 법원, 테슬라 ‘자율주행’ 사망에 3500억원 배상 판결",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFYwM3g5STZRNmEzNkY1Y3J2NGhoVTVjRGk0bkhPN3BNUnExWkl6SFc5OVgzVlE5U3E2d081R2RVcXdMUTdCZFQwNXJkVXNxdzBQdkhjY0JmSnk0SGozcWlqc00zaVl6TTVHc3hlWW1CNTVZd0RpZklTRnQtT3hvWldR?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-02-21T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t1",
+      "title": "미 연방대법원, 트럼프 '상호관세' 위법 판결",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "미 연방대법원, 트럼프 '상호관세' 위법 판결",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZV2UwNnlfeW5oN0xXMy14bU1VMEVIVXI3aVVLTFBxNEF3S3Q3LTEzZGlQVnI2bDBQNkJiREt1Sko5MmFISGhCUUFGbHJVOVN6ZnVJVXg0VXpIbzh3RWtqd2hwa0pZOHhCV19IZzJB0gFyQVVfeXFMT0RBdHRsb1labUZyTlppSF9fZGFWWjJLRnZQbjZoWW00ME1talJFWXd0NnJJc2M3cHlKcHp3bWRodlk1Q1JJZzJ0RE9td2pTeHV0X3lWZU80bHNtaWVmcDNyck5VaUZUOF9oU3QyeFJPbldn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-21T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 '전 세계에 10% 관세', 미국 대법원 상호관세 위법 판결에 새 관세로 대응",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIOENsQW9IMnYzZEswU2RMYjRSVmNBSm12R0FWaGZ5eFNUS0NQdXJXSlFnVEZnSmRJemJ3ZlVjLU5xQXRQYktsUmV4T0ViY3JuX042X19EaVBkaktW0gFiQVVfeXFMTy1GSHRVWTVJU0tMUVprV214N1BRV0tmOUctV0FMTkdFbzQ0Sm11ZG5fRE0yWi15RkdRSmZKa3QzY3d3cEVjbjZkRDEySlQ5YUg4R1ZyNkl6TU0zemgwTUQ1dWc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2026-02-21T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 2기 출범부터 美대법원 상호관세 위법 판결까지",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NQ2tOOWtMLU91cS1BZXlPOG5WNmRhcEk2bTgyN0duSV9icnNwRmlTUk9zanI0SFlLVDZuRGRKSEhjcGdWd3hfVVI5RGJaUjBuOFc4YVNWNkQxd1XSAWBBVV95cUxNLTNpc2lJRG4tbDVmTmZ3OVZuU1VnQTA5SHJRc05yeDV6TkhwcTVUOHExMnJoaV83REZENXg1aGQwVXBLMlNydEFRTi1uLWJLZV80NjMzczg1bC1mX1NkaGk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-02-21T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t2",
+      "title": "SPC삼립 시화공장 화재 8시간 만에 완진…3명 경상(종합3보)",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "경기도 시흥 SPC 삼립 공장 화재 8시간만 완진, 3명 부상",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zY25qN05NSXRRSWJyWUtVU0d2YklObTRkYjd1QUFCQWxfWk1PMzdSNzdXay13YjVsLUJMekRVOXNTWlJjS0E?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2026-02-04T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "SPC삼립 시화공장 화재 8시간 만에 완진…3명 경상(종합3보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QMXJmbUlPS0FGUGtMV01iY3dxQXZRenBKd1FKMlFRaEhJOW5KNm5ubXIwTnotN3lpWVdkRWRVR1VzY09JSWx6eTd6YzZnVjVGc0pmS1cyZ1FHTFXSAWBBVV95cUxOaERJUVF1LVhDQzd3U2N1MU04N2wtRFB2Q3ZKbTZsSDZSd0tGRk9GNnl0dDhwNjE2cUdBVC1haV9JLTFCbUZ4bGVGTXl2a2tzMXcxUjhPLWFuLU9uZjJKaTg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-02-03T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "시흥 SPC 삼립 시화공장 화재 6시간 만에 초진···노동자 3명 경상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTNFMmNSUmNsTXU2MFFfcDdZYTN3T1VLQUtlMnRvUmctcXdNV0NJM191NzR3U3c3SkFYb19YeEVHSGNUVTYxdXNiQW5fQmZWeExrTVRNeV96d9IBX0FVX3lxTE9hUlc3V3ZJVVVWclNvMDRhTTFZSVRWWDY1OXVqQ0E1VnZFblg0V0lOMHpWam9CSnhZcHFKYmdzaElyZUQ4QnM3RFJyZExsU05RcjVlSVl6akJUdGNybzBz?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-02-03T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t3",
+      "title": "이사 오자마자…은마아파트 화재로 10대 딸 사망 外",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이사 오자마자…은마아파트 화재로 10대 딸 사망 外",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50dS1STWRtYnMzYko5WmhYZFBhYUpzY3ZtRTNWdXZyM1Zzb1BlcFhDbkUzeFM4Nk1ZY2NsVDNfUWNmRXNGaTNlWjc5eE1OS1lyUVZuYkIzWGJKbS02bzFuWUJFOGZjTzQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-02-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 은마아파트 화재로 1명 사망·3명 부상",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hVDJNMGxGQVdHblJxMno1Rno5cVVBMjdpZ0lmbUF0bVdyRVNrT190dHd4VEdhTWNQcXl3a245Z2duZFI5alFqQjJNQWQyMEhyNFFPRGVTQVB3MlpVSWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-02-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이사 일주일 만에…은마아파트 화재 10대 딸 사망",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13SnNWNmVjdWJaU2JGYk94SE5uUjhfeTg3S0hiR25nMUNKdDA3a2ZnSnJycUVNelZhYURBZU03N1hreDhlOURhWWE1QjAtSmIzSVZHNzNBckVscmRHb040WTF1MHRDZ2s?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-02-24T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t4",
+      "title": "쿠팡 정보통신망 침해사고 조사 결과",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "쿠팡 침해사고 민관합동조사단 조사결과",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53OTV0dGZBZGNuLXpYMXlXa1JTa3ZKNXBhMEVnZW14UXJvT09vUXVsMDktQjZweE5PZGZrS1hXT0F1eUdTc1gyRDh1SGx6R1l0S1ZVYnNGSWRKT095TFREcWFtMG8xOS12NkxCbg?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-02-11T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정보통신망 침해사고 및 개인정보 유출 관련 규제 동향",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JY2VWeDhZNFcxbEM4M3hIeFNCN2plZGJtUDl1LXFQQ0ZPWThoVi1QRks2eXdjbS1tQVFucmpZdXREaWhwR19Gc1QyNENNSU51bEU2TGpadExsbHVrN2hVOHVSNVNKX284WlhoYXBn0gFyQVVfeXFMTjR3WFo5LV9xQ2Z5WC1KdWQwbE1Jem9KSTNscDl2LVpZbzVFNGZwVF9VUVgwUnFxSWVOVXM5NUIxWFVtSVlvb1Vnalg3b3d6RXJBYmxhT2VLNmlZMFczR25XaHRPeVk1dDNVTHVVU016cTFB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-02-06T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "쿠팡 정보통신망 침해사고 조사 결과",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sRXctaXoyem9BQ3FsT0pTUUZyazFGWEVNT09QOGVWeU9fTzl4NkF4ZVc2NUNWTUdXbXg1bmpiVUYtUFp5d3RJRWpfYjUxYU81M1dFTE1oQlhXdTJlUzFYWmRzbjd1ZGp6MzdRNQ?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-02-11T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t5",
+      "title": "\"AI시대 교육, 어떻게 생각하는가 중요\" KAIST, 교육 재설계 워크숍",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"AI시대 교육, 어떻게 생각하는가 중요\" KAIST, 교육 재설계 워크숍",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRHpIU1pwTnhHb0ZtN1JtTk14TXFtRWR5WWkyN213RnNQNVJnSVI4a2FxQjh3MVByZ2ZJNzRVbG5TblpqNEdNNzhtMS1vNzdWeTdPSDNJY1hWRjh4T2gwTUZBX2VZZzFOcWc?oc=5",
+          "source": "헬로디디",
+          "publishedAt": "2026-02-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "KAIST, ‘AI 시대 대학교육 재설계 워크숍’ 유튜브 생중계",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zYXBQR1V1aDVJN0lnYmJKNTAxbWpVUElLMmVrNWg4MTZFNEU5T2dMQnR1VmhLa096dlRpZkZQTFR1THFZcDhmZEVoeTRWLUhoMU1UdTJGVmZIeUJiaWhheUZFQkQteFphUGc?oc=5",
+          "source": "AI타임스",
+          "publishedAt": "2026-02-23T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t6",
+      "title": "“레미콘운송차주는 노조법상 근로자” 법원 판결 속속",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "“레미콘운송차주는 노조법상 근로자” 법원 판결 속속",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45RlFyYUNxdFY1WmdLM0l0NFkwUW93b2tCNS1IQ1dUeHc4MHZjc21uWWJrM2w0Q3F5WFcyUlZTanRMTmRpdlAxZks1d3VaZjlLZlJuaUE1WU1KOER6MElfT05hRlRwUk1wTTl6S1ZfQno?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2026-02-23T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원, ‘레미콘 운송차주’ 노조법상 근로자성 인정",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDNsdXN4N25LNjAzU3JYdGtoUGhkODNKWU8yaE5PU3hPZXVtbEh6ZEZpclBLaThtLXBNRm90RDc1SXhScEtqdXl5YmZKM09zZjIyQk0xdnU0TjJwTDdFM2RVbl83OE9CZ1FFZEFBTXhSMjRyT2lwM0dZYWFCSF9UVEp2Vk03cGJDUkJ6S3RB?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2026-02-19T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-02#t7",
+      "title": "법원 \"'부산 돌려차기 사건' 부실수사\" 피해자에 국가배상 판결",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "법원 \"'부산 돌려차기 사건' 부실수사\" 피해자에 국가배상 판결",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5haHBxYk1OMUpzRklLWGlEUjRnX205bFZzNXAtRVR6MGhlOU0xUnFiVGR1X0xtMkxEV3dhSGNYS3BaQXZTTUdHeW9LUmwwMTRVa0FtUHh1UzRUSmZXczloR1p5bmtvTlRDblRndEhzaXpyMjN5czVn0gF3QVVfeXFMT0FJME9Za1Fhd05BZGRiaVVHOWVzY0F6T2pPWlUzcXV4QWRzMTRVaFpYUFZ0VFpxX2diaGdZT3VHWnFxU0FJX3JaaEdNYjBHX1R5N3NIdkFoVzcwdGd4SDhKVFR6bWZnMm9DaGxWYVhYZXdFdWNDbVk?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-02-13T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "법원 \"'부산 돌려차기' 사건 부실수사\"…피해자에 국가배상 판결",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40TXhjRzhxbEFKb1JZd0I0UUg2bG9vdGt5d0xhSWNTNnV2enhmX29Lb2ZjZFZxbTVodVI0dkJOM2dFTkxvT1ZTVUxmdFd4VEZCTUVOd1ZqalJWbWvSAWBBVV95cUxNUnU0cFFXX3dLSENvd2lpYlZac1ZnUnZsd3dJUTNBUFh1TXZHYkxCM09HcmFDcWpoNDhIYTB2dWRsNTBEdXQxcy1xWmJOcjFNS1BweWtUNk5kTWl3UXZKdlc?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-02-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "AI",
+      "count": 16
+    },
+    {
+      "word": "사망",
+      "count": 9
+    },
+    {
+      "word": "경기",
+      "count": 7
+    },
+    {
+      "word": "배상",
+      "count": 7
+    },
+    {
+      "word": "무죄",
+      "count": 7
+    },
+    {
+      "word": "개최",
+      "count": 7
+    },
+    {
+      "word": "지급",
+      "count": 7
+    },
+    {
+      "word": "판결문",
+      "count": 7
+    },
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "취소",
+      "count": 7
+    },
+    {
+      "word": "도입",
+      "count": 6
+    },
+    {
+      "word": "관세",
+      "count": 6
+    },
+    {
+      "word": "대법원",
+      "count": 6
+    },
+    {
+      "word": "테슬라",
+      "count": 5
+    },
+    {
+      "word": "지원",
+      "count": 5
+    },
+    {
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "노동자",
+      "count": 5
+    },
+    {
+      "word": "의사",
+      "count": 5
+    },
+    {
+      "word": "초고령화",
+      "count": 5
+    },
+    {
+      "word": "필수의료",
+      "count": 5
+    },
+    {
+      "word": "통과",
+      "count": 5
+    },
+    {
+      "word": "위법",
+      "count": 5
+    },
+    {
+      "word": "재판",
+      "count": 5
+    },
+    {
+      "word": "재판소원",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "연휴",
+      "count": 4
+    },
+    {
+      "word": "자율주행",
+      "count": 4
+    },
+    {
+      "word": "사망사고",
+      "count": 4
+    },
+    {
+      "word": "확정",
+      "count": 4
+    },
+    {
+      "word": "예방",
+      "count": 4
+    },
+    {
+      "word": "홍보",
+      "count": 4
+    },
+    {
+      "word": "아파트",
+      "count": 4
+    },
+    {
+      "word": "대응",
+      "count": 4
+    },
+    {
+      "word": "spc삼립",
+      "count": 4
+    },
+    {
+      "word": "시화공장",
+      "count": 4
+    },
+    {
+      "word": "이사",
+      "count": 4
+    },
+    {
+      "word": "은마아파트",
+      "count": 4
+    },
+    {
+      "word": "부산",
+      "count": 4
+    },
+    {
+      "word": "환자",
+      "count": 4
+    },
+    {
+      "word": "관리",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "02.03",
+      "event": "SPC삼립 시화공장 화재 8시간 만에 완진…3명 경상(종합3보)"
+    },
+    {
+      "date": "02.06",
+      "event": "쿠팡 정보통신망 침해사고 조사 결과"
+    },
+    {
+      "date": "02.21",
+      "event": "美1심법원, 테슬라 '자율주행' 사망사고 배상액 3천500억원 확정"
+    },
+    {
+      "date": "02.23",
+      "event": "\"AI시대 교육, 어떻게 생각하는가 중요\" KAIST, 교육 재설계 워크숍"
+    },
+    {
+      "date": "02.24",
+      "event": "이사 오자마자…은마아파트 화재로 10대 딸 사망 外"
+    }
+  ]
+}

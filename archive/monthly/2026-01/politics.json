@@ -1,0 +1,428 @@
+{
+  "month": "2026-01",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:19.518Z",
+  "articleCount": 296,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-01#t0",
+      "title": "내란특검, 윤석열 전 대통령에 사형 구형",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "특검, 윤석열 전 대통령 사형 구형 논고문 - 2",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2TEdjem1qQ19CV0QzMzJ0Rmt0WThkajZIN0NnTHNWMFJMZk5hUmM3c3Yxb1pqemh3Y0NUOVM3VGRlckR0UV9ySmlwSVhWblJYTDlFS0NvQUZGdEptUklFMlNuRVdDRk0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-01-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "특검, 윤석열에 사형 구형",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fUjJxMVVTcDc2cmdnSUVqWlRJUkVmXzBpZ1VDX3lYTm5rM1VNVWF2MUFJR2dqYmduM28wMjRFS0lMbWtlMl83Rm9WTVBLWTdZT0JNUTMxYm9pbVhVU0JicUlZVTlEcjFsY2dtSVRn0gFyQVVfeXFMTnA2OG9zT1NGd3lWb1BIdThlUUVtLUhPbldRdE9jbzZaZEJWUGRaRGp4NWw2SlQwS3h4TlpxOTNVdDR0c1ZEanFYVEJkYnQ3N1dKN0ZFcHlCNjBwYThkV2ZfY1EzS29fUG9uT0t3dlBfLVhn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-01-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "속보 내란 특검, 윤석열 전 대통령에 사형 구형",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56Y3gxZTJ5OW11YWxkYWZEVkFISDBOaVp2cEhhRGtjU296d25uWTJ1WXlOa2VXU1l3Vmg1QnBSYnNwZl91ME5FZ1FoZEltWkhXQ0FpSU9qcWhkTnlsNUE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t1",
+      "title": "트럼프 “한국 차·상호관세 25%로 인상…한국 국회가 합의이행 안해”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "트럼프 “한국 차·상호관세 25%로 인상…한국 국회가 합의이행 안해”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HM2REcFhxS3hfTjNYWU5lR3J5dE5IV2tyVjRYVVpTem9Jc0VpOGpiQU42UEduODF5TUhoU01lVlF6UTBQUW5nQXRGdC1fWXRQT0dYc0xrMFRXaUU?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-01-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"한국 국회 때문\"…트럼프, 상호관세 다시 25%로↑",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbWlBanhnVXNwQnB3UDRMY2pYZTU3czl3YklGa3E3U0dyQlBwbVRxc2xKSm9FNlFIOEZuN29uZzR1RFROV0ZfcllVd3I5RkVqLTkxSlhfS0dxVkppbzFFV2U1cVd0dkk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-01-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 \"한국 관세 15→25% 인상…국회가 무역합의 비준 안해\"",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45eW5ZdWQ5OFpsemdJMmhKcEZOWjgteVdvSW9Va1dUVk1WaV9ZWldvRG1PbXhKeHp6WldHaEVBQjRQbnZDR2cwMFlJU19BOXVvckdRbFJB?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-01-26T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t2",
+      "title": "북한 ‘평양외교대학’ 설립…외교관 양성 전문기관 추정",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "북한 ’평양외교대학’ 존재 확인…외교관 양성 전문기관인 듯",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydzZOVVNmY2ZxN1RBS2IxMXFicVJVZnY3QzVzeG5xNm5vYm0zcURhcTFad3FNS3JpcDRyamk3SUpXUXhlUHFBckd4cF9VWXVpZU5SSm5USWJweV8wQ3hySmdLLWhKVUE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-01-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북한 ‘평양외교대학’ 설립…외교관 양성 전문기관 추정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGcXUybzFrVTBwN0o5eHcwcFQxUkZnel9YS21NS2FmRzg0d2Q1Z01VS2RtWGJZcER4QnNTMmg1WTJNakkzb2kwOTEzRDdTS1c5dEdMOXphcWNTSk0?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-01-25T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "北 '평양외교대학' 설립 확인…외교관 양성 전문기관 추정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYRlRmdVlmMTZJQTVHajE0Ql9fbkZkZXlsUUpZU21wTHZJX3ZTMVJMbS1wNUN6eW13eVJDTlc3WS14SnVnd19qWnNBUVU2S0tfdTVvZEpRLUl4NnfSAWBBVV95cUxOQmRjbEFWX25MclhLcjNVSTdQWTZmbkdxb0xUNm9iWHk0VV92TEZEQ2w2cUNvaDl1YlpPTm53bXMzanlqTFRsaE5UbDdKSlpDQl9kVHlZYWM4dk5XOHVnY1c?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-01-23T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t3",
+      "title": "트럼프 \"가장 강력한 군대 증명...\"중간선거 지면 탄핵소추 당할 것",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "트럼프 “11월 중간선거 지면 탄핵당할 수도 있다”",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FcHNMeUlHd3lNNERFYkpidVN6TGtrZms4NTc4UjhjSF9IR2F5RHNaWTFFUG1tZWdmdXcyVGRncXkwV0JZYVBTdFlpb2ZLM0ZwV0pJTl9uYjZkYmJ4cFE1dXFkaE9xUTVYSzIyZGNUaGxJZUnSAWZBVV95cUxOOTFPYURvUkVXaURtSUlJMjZPaXc4LWpmT29XWF85WUFORjUyamhkNk50YnVTVFBjLWhEYmZqb0dRRWN1WUtxelBPOGhwdmZLeDhLRGV4QlMxU0E4UUZOT0daVG43UUE?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2026-01-07T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 \"가장 강력한 군대 증명...\"중간선거 지면 탄핵소추 당할 것",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43THQyYjdScmdqT3ZBY2E3cE1QNFFWOFc0STZsbWxWVXhpZ0JSUlgycktvLXU5Wmx0NHRpVG5OOUdjcDl6THBxcGp4bmdkQ0FmTVJkTk01NFdQQkJtaGc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-01-07T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "트럼프 “중간선거 꼭 이겨야, 지면 탄핵소추당할것”…공화당 의원들에 당부",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfOFhONTBWM1FIVVh3NlJ3LVVlalBSLWtUMWkyRTc0cHZIMmxxSy1iZmZMdFZBMlBDZmhSUE81XzVJc01tYU44enJoYlFhYU1xY2o5OXpqcWZWQdIBX0FVX3lxTE1xT0h6TV9uQm9hYkwzSnhRcmhZdENzaHljTExaY2NMdEV5RU9RZFhtLTRjZnNQd0VKZU5tUU9fMGRXQjRpV0RfRHA4YmZnWHcyVWZ2M1NfVnNOQTZIQ2w4?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-01-07T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t4",
+      "title": "특검, '내란 우두머리' 혐의 윤석열에 사형 구형",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 4,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "특검, '내란 우두머리 혐의' 윤석열 사형 구형",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81NTF2UExuS3hOd0pwaUI4eVVDNk9WNlU1WDVuZ0xaTTVuYTBWTkw3dURhT0taeG5xejZYU1pUUkVPNkNkdG1vQTdRMWkwYkl3aEpUS3Rka2RCOUlnSDJaa1k1d0pJWFVMNzBncHBVQzRfTXFUaDRNbjVB0gF6QVVfeXFMUHlnU2x4RFEwWDFZQTFNQ04yMjBpY2lSTUNCaklRZXNaaDJlamxJMU1ZbFhMSUQtcnJ0S1J3VURKNHk0QVBFNmxQUzRKeTY1RVVEYjJBeXM1eDBvaDFCa056ckJIa0J2b1k5aTVGaVBkcFpLSjZxcmNDUEE?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-01-14T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "특검, '내란 우두머리' 혐의 윤석열에 사형 구형",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DRWRyczliNmYtdmFsb25SMEhueDFDd3JpdFI4R01HeWg2RE1jbk05UjJETUluelZQQXk5cExueENuelVWV1dmS2tZNlYySUlPQktvMlhpTS1JcVdv0gFiQVVfeXFMTnNFa196UjhvYXhGN0tybFk4amI3M1VmZVBUeXk2M05jZGVDMkcwdjBTQnlqeW5WVWdwNFVZelhMdFRrZElSbTNLbzgtU0dlN2tzODM3TEM3RUNuUWxCcXJDVXc?oc=5",
+          "source": "BBC",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'내란'특검, 내란 우두머리 혐의 윤석열에 사형 구형",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NREgxR1V5Rk5SZElidDhELTBrZU83U0MybHJJVl9FN3Q2SHFVbnd5QnBlTWlFM0J2UmpxLVM5WkUzTWI3YUlQSjNvTWQ3U3pJNU5lMHdCT1BEVzcwdjN0TGpNdU45MW9tRmVfVXdiSTI1cUNtU3lr0gF3QVVfeXFMTlY2TDhhbVVHYjdpVzdqd25DbXhBSDBha2dyR3JRaW1kM2RjMFpkRnRDN2tWWmpSZVBGVlpfcVRSbVFuZUdDSUpzNmFrbUhNSjJ2ckFIaElBR014Y0p1STUyS092WmFuUWh0czlUSFdvWnh0cGtrT2c?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-01-13T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t5",
+      "title": "정당 지지도 더불어민주당 41% 국민의힘 24%···무당층 26%",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "이재명 대통령 지지율 60%···정당 지지도는 민주당 44%·국민의힘 25%",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94SEpPdmdQYWZ0VGl4WHFQQzc0anhkZFFTOTdEbEotNTh5SnJXcXlYaldKZnQwOE5qQ0k1YWV5SXBpRUV3d2JNWWZWSl8?oc=5",
+          "source": "대구MBC",
+          "publishedAt": "2026-01-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정당 지지도 더불어민주당 41% 국민의힘 24%···무당층 26%",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1acC01WUY0YWExcmZXd1RSX1dKSGp4SnNnazkwRU5qa1V0RmttcngzdGI3MTVXTzhuR1ZCZnlwMTNRWGVfYWdEcy1fQmxTRS0yZDNHR1JPLU9WVFdTekpyaEtSaTlpLUxNbDNYM3BwSmg?oc=5",
+          "source": "인천투데이",
+          "publishedAt": "2026-01-16T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정당지지도 더불어민주당 39% 국민의힘 23%···태도 유보 30%",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13cmRCUXdkNldqcTNyTXNrMlljMFN4eDdJZ2Q0OE1oWjIwOGRsUF9rdFdHUkRaQTZKUjFIVnlYczdvZVFZZ0dMV2FOajNjb2U4eVR0cFk4WTZUYVB0ZU1mVmU0bThONnQyZmsxYW1iZ0Q?oc=5",
+          "source": "인천투데이",
+          "publishedAt": "2026-01-08T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t6",
+      "title": "제헌절, 18년 만에 공휴일로 복귀…국회 본회의 통과",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "제헌절, 18년 만에 공휴일로 복귀…국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCRXlwU204cHNzUUNuN1Nnc2I5akpkdnNDcEJ1QUkyejV1UUZ2SVRlWk5xZ2lLUnVOelFWVXJmM3pjenR6UFFISUdpSU5Yb3RMSXAxdXNR?oc=5",
+          "source": "news.knn.co.kr",
+          "publishedAt": "2026-01-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "제헌절, 올해부터 다시 공휴일 지정...국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TNVg3bXh6TFNtNWRCa2N6NXRIV0JqMGJKczN3Z1BRbHI5R216TTdSb1hvd3RhMzhrdXFnUmgtSDVDY2ZnaGsycU1mYlVLa0Y2ZmRVSUxfVTU0cUdxeUE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-01#t7",
+      "title": "ACP 도입 변호사법 개정안, 국회 본회의 통과",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "ACP 도입 변호사법 개정안, 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OTVYS2U5a0RoVTJtdmw3VXIzekhkLVFIMDZYQ0NQclNtWWR4YVF6OWtybmhVX3ROYzc5bk5YYWo3TklUcXVwVllxa3hSNkVuUTc3bnM1dGFfTVRlUW5zcXBfWGVLdzZPTEZJWDNB0gFyQVVfeXFMTWtuSFRMbzZrT19hVXR5bnhLRExBYS0xSnZPZ2JzNDBGeHFPTm90WGdLUEctR0dMd1JsX21pcXRaNzJGNG85bGRYa09DLVp0RmVEZ0h4VFlIOW5NNFJTems2SnBGYTNNQzBmVmVvMUtsblhR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "과거사법 개정안 국회 본회의 통과… 오는 2월, 3기 진화위 출범한다",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tS21pWTJYTzZLNEdZbnlBTXR6ZDZUbkRId25pWlFWNWg5dXFfamVTbXd1cDhJMHhKRTVMQzJ2OUEyYXlaUlYzbmxEYmd1VkVrZXl1OUxZclpnTzZsYzNpZG4wc0VuSG1a?oc=5",
+          "source": "비마이너",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 20
+    },
+    {
+      "word": "한국",
+      "count": 19
+    },
+    {
+      "word": "트럼프",
+      "count": 16
+    },
+    {
+      "word": "구형",
+      "count": 13
+    },
+    {
+      "word": "민주당",
+      "count": 12
+    },
+    {
+      "word": "윤석열",
+      "count": 12
+    },
+    {
+      "word": "사형",
+      "count": 12
+    },
+    {
+      "word": "무인기",
+      "count": 12
+    },
+    {
+      "word": "국민의힘",
+      "count": 11
+    },
+    {
+      "word": "지방선거",
+      "count": 11
+    },
+    {
+      "word": "정부",
+      "count": 11
+    },
+    {
+      "word": "통과",
+      "count": 10
+    },
+    {
+      "word": "의혹",
+      "count": 10
+    },
+    {
+      "word": "중간선거",
+      "count": 9
+    },
+    {
+      "word": "본회의",
+      "count": 8
+    },
+    {
+      "word": "미국",
+      "count": 8
+    },
+    {
+      "word": "후보",
+      "count": 7
+    },
+    {
+      "word": "내란",
+      "count": 7
+    },
+    {
+      "word": "과제",
+      "count": 6
+    },
+    {
+      "word": "입법",
+      "count": 6
+    },
+    {
+      "word": "VS",
+      "count": 6
+    },
+    {
+      "word": "이재명",
+      "count": 6
+    },
+    {
+      "word": "보궐선거",
+      "count": 5
+    },
+    {
+      "word": "우원식",
+      "count": 5
+    },
+    {
+      "word": "위헌",
+      "count": 5
+    },
+    {
+      "word": "국회의장",
+      "count": 5
+    },
+    {
+      "word": "인상",
+      "count": 5
+    },
+    {
+      "word": "정상회담",
+      "count": 5
+    },
+    {
+      "word": "수사",
+      "count": 5
+    },
+    {
+      "word": "내란특검",
+      "count": 5
+    },
+    {
+      "word": "혐의",
+      "count": 5
+    },
+    {
+      "word": "중국",
+      "count": 5
+    },
+    {
+      "word": "억제",
+      "count": 5
+    },
+    {
+      "word": "침투",
+      "count": 5
+    },
+    {
+      "word": "느려",
+      "count": 4
+    },
+    {
+      "word": "다카이치",
+      "count": 4
+    },
+    {
+      "word": "해산",
+      "count": 4
+    },
+    {
+      "word": "헌재",
+      "count": 4
+    },
+    {
+      "word": "비례대표",
+      "count": 4
+    },
+    {
+      "word": "의석",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "01.08",
+      "event": "정당 지지도 더불어민주당 41% 국민의힘 24%···무당층 26%"
+    },
+    {
+      "date": "01.09",
+      "event": "특검, '내란 우두머리' 혐의 윤석열에 사형 구형"
+    },
+    {
+      "date": "01.13",
+      "event": "내란특검, 윤석열 전 대통령에 사형 구형"
+    },
+    {
+      "date": "01.23",
+      "event": "북한 ‘평양외교대학’ 설립…외교관 양성 전문기관 추정"
+    },
+    {
+      "date": "01.26",
+      "event": "트럼프 “한국 차·상호관세 25%로 인상…한국 국회가 합의이행 안해”"
+    }
+  ]
+}

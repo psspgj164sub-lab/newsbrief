@@ -1,0 +1,947 @@
+{
+  "period": "long",
+  "periodLabel": "장기 · 최근 3년",
+  "category": "economy",
+  "categoryLabel": "경제",
+  "range": {
+    "from": "2023-12",
+    "to": "2026-11"
+  },
+  "coverage": {
+    "monthsAvailable": 36,
+    "monthsTotal": 36
+  },
+  "updatedAt": "2026-11-25T05:39:40.313Z",
+  "trends": {
+    "months": [
+      "2023-12",
+      "2024-01",
+      "2024-02",
+      "2024-03",
+      "2024-04",
+      "2024-05",
+      "2024-06",
+      "2024-07",
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2024-12",
+      "2025-01",
+      "2025-02",
+      "2025-03",
+      "2025-04",
+      "2025-05",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ],
+    "unit": "기사 100건당 언급",
+    "series": [
+      {
+        "word": "최대",
+        "values": [
+          3.4,
+          0,
+          2.4,
+          2.6,
+          4.1,
+          4.8,
+          2,
+          2.9,
+          5,
+          0,
+          3.7,
+          4.3,
+          2.2,
+          16.3,
+          3.7,
+          0,
+          0,
+          2.5,
+          0,
+          5.3,
+          2.8,
+          2.7,
+          6,
+          13.1,
+          7.1,
+          4.1,
+          6.4,
+          11.4,
+          3.1,
+          0,
+          5.4,
+          2.2,
+          3.4,
+          9.9,
+          3.6,
+          5.8
+        ]
+      },
+      {
+        "word": "달러",
+        "values": [
+          1.3,
+          9.5,
+          0,
+          0,
+          8.1,
+          3,
+          1.5,
+          1.3,
+          2.1,
+          1.3,
+          1.4,
+          3.8,
+          3.9,
+          9.8,
+          0,
+          0,
+          0,
+          2.5,
+          0,
+          0,
+          2,
+          5.3,
+          4,
+          4.9,
+          5,
+          8.8,
+          4.3,
+          8.9,
+          2.6,
+          3.1,
+          10.7,
+          6.6,
+          5.2,
+          12.9,
+          6.6,
+          11.2
+        ]
+      },
+      {
+        "word": "역대",
+        "values": [
+          1.7,
+          0,
+          2.9,
+          0,
+          0,
+          1.8,
+          0,
+          1.7,
+          2.1,
+          1.7,
+          3.2,
+          3,
+          2.6,
+          18.5,
+          1.8,
+          0,
+          0,
+          0,
+          4.8,
+          4.3,
+          0,
+          1.5,
+          12,
+          7.4,
+          4.3,
+          3.4,
+          4.3,
+          8.1,
+          4.8,
+          2.3,
+          10.7,
+          0,
+          6,
+          10.9,
+          0,
+          6.1
+        ]
+      },
+      {
+        "word": "상승",
+        "values": [
+          1.3,
+          4.8,
+          1.9,
+          2.6,
+          2.7,
+          0,
+          0,
+          1.3,
+          0,
+          0,
+          2.7,
+          3.4,
+          4.7,
+          4.3,
+          0,
+          3.5,
+          4.1,
+          0,
+          3.6,
+          3.2,
+          3.3,
+          2.7,
+          0,
+          2.5,
+          8.6,
+          4.8,
+          6.4,
+          4.8,
+          3.9,
+          3.8,
+          0,
+          0,
+          4.5,
+          6.4,
+          7.1,
+          2
+        ]
+      },
+      {
+        "word": "한국",
+        "values": [
+          2.9,
+          0,
+          3.3,
+          3.4,
+          4.1,
+          3,
+          5.1,
+          5.4,
+          2.1,
+          2.1,
+          3.2,
+          4.7,
+          7.8,
+          6.5,
+          4.9,
+          0,
+          0,
+          2.5,
+          2.4,
+          2.7,
+          2.8,
+          3.4,
+          0,
+          3.3,
+          2.1,
+          6.8,
+          0,
+          2.2,
+          3.9,
+          0,
+          0,
+          0,
+          1.9,
+          3,
+          2.5,
+          3.1
+        ]
+      },
+      {
+        "word": "돌파",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          2.7,
+          0,
+          1.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.6,
+          3.3,
+          0,
+          0,
+          0,
+          0,
+          6,
+          2.1,
+          2,
+          2.7,
+          12,
+          5.7,
+          3.6,
+          2.7,
+          6.4,
+          4.8,
+          6.1,
+          10,
+          3.6,
+          2.9,
+          0,
+          7.9,
+          0,
+          7.1
+        ]
+      },
+      {
+        "word": "삼성전자",
+        "values": [
+          0,
+          16.7,
+          0,
+          0,
+          6.1,
+          0,
+          0,
+          3.8,
+          0,
+          1.7,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          4.1,
+          0,
+          0,
+          4.8,
+          0,
+          1.9,
+          16,
+          0,
+          2.1,
+          2.7,
+          0,
+          1.8,
+          2.6,
+          3.1,
+          0,
+          3.7,
+          2.6,
+          0,
+          3,
+          2.7
+        ]
+      },
+      {
+        "word": "하락",
+        "values": [
+          0,
+          0,
+          1.9,
+          0,
+          0,
+          0,
+          0,
+          2.1,
+          0,
+          0,
+          2.3,
+          1.3,
+          3,
+          0,
+          0,
+          3.5,
+          4.1,
+          0,
+          2.4,
+          0,
+          0,
+          2.3,
+          0,
+          0,
+          0,
+          2,
+          0,
+          4.1,
+          2.6,
+          3.8,
+          7.1,
+          3.7,
+          10.4,
+          10.9,
+          8.6,
+          5.1
+        ]
+      }
+    ],
+    "rising": [
+      {
+        "word": "달러",
+        "change": 159
+      },
+      {
+        "word": "급락",
+        "change": null
+      },
+      {
+        "word": "돌파",
+        "change": 1208
+      },
+      {
+        "word": "하락",
+        "change": 674
+      },
+      {
+        "word": "역대",
+        "change": 239
+      },
+      {
+        "word": "마감",
+        "change": null
+      }
+    ],
+    "falling": [
+      {
+        "word": "인하",
+        "change": -90
+      },
+      {
+        "word": "일본",
+        "change": -92
+      },
+      {
+        "word": "한국",
+        "change": -35
+      },
+      {
+        "word": "시장",
+        "change": -52
+      }
+    ]
+  },
+  "stats": {
+    "articles": 6070
+  },
+  "ai": false,
+  "headline": "최근 3년 경제: 「삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸」",
+  "overview": "2023.12부터 2026.11까지 36개월치 경제 기사 6,070건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸」(7개월), 「한은, 기준금리 연 3%로 인상...2회 연속 인상」(5개월), 「2024년 물류기업 경영실적 분석」(5개월)입니다. 기간 후반으로 갈수록 달러, 급락, 돌파, 하락 언급은 늘고, 인하, 일본, 한국 언급은 줄었습니다.",
+  "keyPoints": [],
+  "issues": [
+    {
+      "title": "삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸",
+      "span": "2024.01~2026.07",
+      "monthCount": 7,
+      "articleCount": 16,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "삼성전자, 2026년 2분기 실적 발표 – 삼성전자 뉴스룸",
+          "source": "2026.07"
+        },
+        {
+          "title": "삼성전자, 2026년 1분기 실적 발표 – 삼성전자 뉴스룸",
+          "source": "2026.04"
+        },
+        {
+          "title": "삼성전자, 2025년 4분기 실적 발표 – 삼성전자 뉴스룸",
+          "source": "2026.01"
+        },
+        {
+          "title": "삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸",
+          "source": "2025.10"
+        }
+      ],
+      "articles": [
+        {
+          "title": "삼성전자, 2026년 2분기 실적 발표 – 삼성전자 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNE00NjdET2dBLWZ6cUZKMzFjaGNMMTV2R2E1cTJ0NmFhbDdrZHNwOUpQeE9nVy1UdVBuVDhVT1J2TFY3aGU5em5xS0F1VmpPQndLT1djWXZxcERWQmZTOUg5LWExemVpUTNDZFJIRk1nNGN5Z2h3TXZVc0ljNzFyR1FQVjJDUUhtZlJRU2ZHVFZvWEVENmhycm8ybWUtN1ZyRFlJUk5qSzhfRTY3bjA4cV9OanhrbG9ESEZpSjN6ZnFFaUhOREgyTDNCREdkdkJfc3c?oc=5",
+          "source": "samsung.com",
+          "publishedAt": "2026-07-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 2026년 1분기 실적 발표 – 삼성전자 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcDF4WmxoZkJzRlNQN2lZRXFHdlNFdGRVNEozcHBJcWo1al9fR1pySG1VZS0wOVU5Z2FpLWJ6NElkdTkzTWliczBaREhKaUFVZnlfV3VMZGZhM2swTXExSVdsRFRDaHFnY1J3Tzk0MHpxQ3JFUDNaOTgxaVZZbzFDa0NzWVJwOWVybGxUNDAwcW9GUU84dGttV21FX3pkcFYySnV4TXhMZE9HTEd0anZuQUl1aDA3Z0J3VUdBWG5mcVdKRkE2OWZ4bWVHYmtHZFhzZGc?oc=5",
+          "source": "samsung.com",
+          "publishedAt": "2026-04-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 2025년 4분기 실적 발표 – 삼성전자 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVkRpaXRYdmh6OXAyaDg1RGxWdWUtcDFDcl9ZZi1PV3JrNDhXRjFNSTJSSnJrWW5OOGY2Z0ZfdUtVR3BGS3hIYnR5NjE0ZHNfMHVsaWllVllsWnNUWnZwSEV2dm40bkw1OEIyM0JydnVNNF8tN2szOHhLdEZOYmhCaVVWZDhLZWpKOVI5dDJKRWY1bjhLaWFYVi04ODJadEpUa2hxbE80Z1N3Wm9YMjRjSjZzekRmYUxxLWNLT2tpTVpmSzc5X05kSS1iVDNRWlBxbkE?oc=5",
+          "source": "samsung.com",
+          "publishedAt": "2026-01-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 2025년 3분기 실적 발표 – 삼성전자 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3I5U3NLZm1BTG1RWFplS3FWZGwzRlBhaDRXd2o2MlJXX2o1WE1qd1NncjFEaWF2MGRDbUQ1bHlrdF8wbG1uX29iSUQzMlg1UlN6YlVGaHlVb0VwUGl2dGJzdjFDV1BKMlNsQTFXbE5iT0xzUEo4REhSSGlCVmM0TjE5Mk5GbG1aWkIya0V5UTVJVnB4bDZ0VXlOOENzeVl0RHpyX1AwcGRSUDJfQzhuWHpQRHpvV09GWE1NZW1sVE5raUJIc2FEckt5SWY3bnd4bUE?oc=5",
+          "source": "samsung.com",
+          "publishedAt": "2025-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 2025년 2분기 실적발표 컨퍼런스콜 전문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XVDNneFg1Q09aaEVfTnpsSVNMeE4tSEViYmtLa3FPX2FsXzhiTVZRQ3VNdC1CS1dUNFF5RzlQaGg3bkRWV19SazdPbjhUaDVhcDRQX2RIU1FDTHJYNkpjQllWZEFMdw?oc=5",
+          "source": "디일렉",
+          "publishedAt": "2025-07-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 2025년 1분기 실적 발표 – 삼성전자 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTU1EcnRxUHlnWl9ESzVUZUpPRFhFVGxLWEtKcXJIbzA2VXJnNVRBYTZpemd3UzVET0Z6S0pES0x4RElqRngtcFlWM1pERWlZNFI2WHpfLU1NV0VlR3J0bVlRblVkSWxVdnNDcjhoQ29xN3AwekMyNTZuNWNmd3FKUVQxMHRrN0RtdDNQRkRyZWEydm5RQ1VXWlF6dk1Kc3RNdjdvSGd5eHQ1YmNRWWI1U1A4MlZFR0h4U0ZSMEh0cFRiUGxXU1hXaUZOS0hWTjNyVGc?oc=5",
+          "source": "samsung.com",
+          "publishedAt": "2025-04-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
+      "span": "2024.10~2026.08",
+      "monthCount": 5,
+      "articleCount": 32,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "기준금리 3% 시대‥한은, 두 달 연속 인상",
+          "source": "2026.08"
+        },
+        {
+          "title": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
+          "source": "2026.08"
+        },
+        {
+          "title": "한국은행 기준금리 2회 연속 인상‥연 3.0%",
+          "source": "2026.08"
+        },
+        {
+          "title": "한은, 기준금리 2.75%로 0.25%p 인상",
+          "source": "2026.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "한은 두 달 연속 기준금리 인상, 연 2.75%→3%로",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVFoxckxWa3U2T05GZXRpdXVKd2pjLTR6U2h1V1dNRGhIeWtUOXZLRWpFbjY0M1BsUlFhaU0yZ0hlWHM5LXBtWUxVSS13Z3RZU2lFOVlwSWtOd9IBX0FVX3lxTE91eE9HeHp5TFJreTJzZU9EUThYbUYxcDhUTk0yXy1XNDFZR1o0VHJrX25QWmV1ZmZkb2h0UVMwWWZFVXdRUEY0YjJFNVlLVnRrSHVDRV9FemN5d3VndVdr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한은, 기준금리 연속 인상…“고물가 선제 대응”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMWEcyNEhLRVR2R3ZYckVnY1QtMlMtUW55dF90NTc2T0NCR1h5SGJ5aGNYSEtfWFlFVnJubGlOdnF3d3NNTC1PZ2ROWW9FU1hBVTZzUjRmY09rM28?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-08-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국은행 기준금리 2회 연속 인상‥연 3.0%",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRjZPYUtqRzVMNnBIZ1E5VEt1ZF9IQUdVd1NPSTZFTlpHSzBENGFaQjRGVVNEaFRKek5ZNXUybHA0WXBETW83QlJaN2VGZ084N25lbEIyNW5TbkN4anBqeUQ0RzZBTjQxS1VCU1FOdWpzUmxf0gF0QVVfeXFMTmM4Z2E0Q01EeDU4d1JSUEhoQnFERVdfYk9vdUlCaGVEQ1phYmJKbHNqLTBSMEpCOEtrTVJsYlFnOUZvUEpSM2ZtTVZSX255OFBwMFBrRHZDUFRMX3JBVmxBMDJZSlZHcmwzRVVyZllRLWdRNnQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한은, 기준금리 2.75%로 0.25%p 인상",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV01VY3dycW5IRHd6U1lRck51YzdpSWt4NWtGQnJ6ZjV5QmI2WUlJaTl2ZUE5MmpFcUExN0NoUXU2cEZSbndhTEhVSGl0Y216ZkRDTV9uejFDZkJGUmI5WDRjclZvYVk?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-07-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "기준금리 2.50% 동결, 한국은행은 왜 '멈춤'을 택했을까?",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12Y01xa09oZXc1YjlJX3FFcDdhclhjb18xdzV0enhnVm5tWlgzMGdUSzU4UFU3OVRjUVhxRk1xRlNEMTFhUHZrOUlHVTRUWngxQWtUNTZhWUZldw?oc=5",
+          "source": "네이버페이 머니스토리",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경기부터 살린다…한은 기준금리 0.25%p 깜짝 연속 인하(종합2보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZeDB0VFMxNnBLWXY3cWpHN3NBWDg3OXJ2MGUxU0ZETmhfbmZyb1VrRDBzTlY2QWdmM2dhbUpzVnRPd19nLVlGT1luTWoyRUdDTW55WTM1dW5XS2fSAWBBVV95cUxNTHBDZEppVzduZkdSemlzOGYyZnBjNDh6STBOaEkzajluQWFqb01WS2ZHSmRCdERtR01JN2hPOElhRXQ4TUdwVkoyTEZwajU4UnJ1ZnBjRWZoZkxBYXdnajg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "2024년 물류기업 경영실적 분석",
+      "span": "2024.05~2025.08",
+      "monthCount": 5,
+      "articleCount": 17,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "분석/ 2025년 상반기 해사기업 경영실적-조선",
+          "source": "2025.08"
+        },
+        {
+          "title": "2024년 물류기업 경영실적 분석",
+          "source": "2025.05"
+        },
+        {
+          "title": "국내 100대 기업의 2024년 실적 분석",
+          "source": "2025.04"
+        },
+        {
+          "title": "분석/ 2024년 해사기업 경영실적 –외항해운 5개사",
+          "source": "2025.02"
+        }
+      ],
+      "articles": [
+        {
+          "title": "분석/ 2025년 상반기 해사기업 경영실적-항만하역",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OaE5NZFlWSEZ6YmtYTlBYU3dfZlZaWXdLTjFHZGUwRjdUVFROLTUzRm81Q3Z0bmFzNzJCcGFDN1dXUjlSQ1RfaFFIbndqZmRMRnUwRU8tVms4eHRFdXFGT1pxNjg1WE84T2VYRVJqUUpRMkRWVDJ4aVV3?oc=5",
+          "source": "해양한국",
+          "publishedAt": "2025-08-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2024년 화장품·뷰티 기업 406곳 경영실적 분석",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54TE1oNV93WTNaSmY5Q3dyU2lFczZCYlVBSmVhRlBqYVNnWG5JRHc0TEx3akJzcDdkMDljUkowd2RLa1dXSDJkUUQ0c2JnQVRJWXhTbzJ6RHZxbDhvNGh5UzZzRQ?oc=5",
+          "source": "코스모닝",
+          "publishedAt": "2025-05-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국내 100대 기업의 2024년 실적 분석",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nUmMxcUh2UDZUYnJybFhRY0VCT3kxTXRSRDV1SVZFV2EzYXZmUGdqLUxGdXFqVEx1ZmlldjhGOVdPSDBwdTBLX2Q5aXlZNkplNjBTMlJ1bFcyXzhvVm53?oc=5",
+          "source": "CEONEWS",
+          "publishedAt": "2025-04-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "분석/2024년 해사기업 경영 실적 – 조선기업 7개사",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Nk1iOWpSd3J2UmdoYU5Tbkg4VXNaSjJIZmwyN21xbkpSaDZsaXgxVjFmWVJSYTd4cnM4TTIxS1dYb19SdVNzbnVxQ3BEeTVlczVudXBJQWlZRTB1TUdlZ2NUNUpveWNWc1RUYlV5Q0RQUm9FWWlKTVZB?oc=5",
+          "source": "해양한국",
+          "publishedAt": "2025-02-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "분석/ 2023년 해사기업 경영 실적 – 조선기업 10사",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVzFycVM4Z1l4RzEyWnZ1SHJjLUlvcXEwRURoSllCZy1SS2EwOVdNeFVmREZlNEtRZ3hTTzdfWEN2cXI2VllmSkQxdm42R2xjZmFTWkktRUQ4a0F0eWVpelRPRXJpX1k1Mm4wOUhBN294WDdHZkhBVE9R?oc=5",
+          "source": "해양한국",
+          "publishedAt": "2024-05-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "Part 3. 2023년 주요 물류기업 사업별 실적 분석",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xVV9reGVyUFhxaFR3WERFZEcteTYtdXdjOFFvRUV5Rm8xX0RMMHI4cVI1c2J0WWtPbWV2WkY5V2dEeXRJYnU4QVlfcmdfZ2tCRGJjZ1pNODhidFJoV0xUc3ZvaVh6U3dBbGZJ?oc=5",
+          "source": "물류신문",
+          "publishedAt": "2024-05-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "코스피 5% 급락…매도 사이드카 발동",
+      "span": "2026.03~2026.11",
+      "monthCount": 4,
+      "articleCount": 13,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "코스피 5% 급락…매도 사이드카 발동",
+          "source": "2026.11"
+        },
+        {
+          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+          "source": "2026.10"
+        },
+        {
+          "title": "코스피 급등에 매수 사이드카 발동",
+          "source": "2026.07"
+        },
+        {
+          "title": "코스피·코스닥 10% 이상 급등‥매수사이드카 발동",
+          "source": "2026.03"
+        }
+      ],
+      "articles": [
+        {
+          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaRWNRdk1DM242ZU14d3RsM2lBU0VMQXNaajJsZHhkR3VPV3dPenZ1UGd1VnI1WC1HZUFuOWdhdUpWS0lja2R0OHBqY3JOVTFYMENuc3o4UWNIRWM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T03:01:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aklpckczTUtvVmxCUko3SVVGTXNrUzhJTjhncUp2bnRyNW5uRDk3QVJnMEZfOURqUlhHb1Z5RFJveEowQWlxWW9sZmRKaWV2QWRHZFlYczRVSVBhMFZnU2RScFMydW9xa0RCUnFmQ29nUVlz0gF0QVVfeXFMTVFCM2FNQ0h5Nkp5YmJ4YUlLX0hfTXg1SW1wNExaTEdrTDRINzB5OEZ5ZlRteldFUEJSY0lHN0xTTHFwdUZxeFFYUi01V3BSWGZoYVh4dGduaV9pZ3BFY0xMNUluUEZzY3l1eFRNX1AxVTVMT20?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'매수 사이드카' 발동에도 코스피, 발목 잡힌 배경은",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kVVhycHZNeDE5eVYyT0l4eWZNZnJaVldiUS1iS296Vl9CVDE5TXU2OGZqaEE5Y1pqdlJnSldZaDgxZnBsTThTTTkyNUtqeHFMSV9xNUlpcU93TktTRmJyS0ZLcmhhRHVjRFdDcldPYU4?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-07-22T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 5% 급등에 매수사이드카 발동",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vVUh4Q202WFVIQkxPRzlZLW0wSk5uODRBLTVYVzhaaUJmUTZ4WXJ0Sm9zaG5BRGpLV3ZhZGVJX1I3TzgxVkxXWTZ0c195SWxWeUVGTjlxeUN1Z9IBX0FVX3lxTE12M3J1cGdXd0N1WFFFa19NcTVnQnBhTUx3Y0F4ZXBGVklxUFNaemVPUjZOcGQycmVsZ25kNHdSNEEzNVMySkx3SG1yb1pZZklrZVN2TkQtUTM4am9rQUpr?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-03-10T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "기준금리 변동 추이",
+      "span": "2024.07~2025.08",
+      "monthCount": 4,
+      "articleCount": 6,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "기준금리 변동 추이",
+          "source": "2025.08"
+        },
+        {
+          "title": "한미 기준금리 추이",
+          "source": "2025.07"
+        },
+        {
+          "title": "한미 기준금리 추이",
+          "source": "2025.01"
+        },
+        {
+          "title": "일본 기준금리 추이",
+          "source": "2024.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "기준금리 변동 추이",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85UURiWTUxUTFtMDhFdy0wcGVtVm9iU3pHU1NZR1R4MHBTSENzTHdMUjQ0cGV6b2dYcWRXUERuMlh4bmFvNnFMRktSSQ?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2025-08-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한미 기준금리 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54bGlqdVBlOGY4bEUwV1BIOXhrX3QzWE1CeWc3UUtXX0pIdl81Z1drX0ZTMDF0QWRPTl9DNmR0ZHk2M0FwaE1pREQ1WUhxcFpMMk1OQjlxX0pqRUnSAWBBVV95cUxNd0NkZ01hRlZ6TnJ3SldyZ2ZDRVZ1RVZFNzJmblNGNFlaODhweVRlYnRva29SRWhnUmIxOGtmTlRjTi1TanhYUm5qUnpRUkVDMlFUX01UWnRTeldvdUJjNVM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-07-31T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한미 기준금리 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00N2Y5VG0zaGZDeldrRXFkcmMydzBaWGxURHlwNl9oUnZ6alNvdkRsbEFYQWZ2VUhlRFNiWnIwVWcwWF8zRUhOMEk0SDlYMHdLMVMtSjlBRExsQUXSAWBBVV95cUxPMXFTdVA3MFpRZlVyMEZVaFpXM0pyaFk4WDlYZmlrUm5XeGRuWlFxUlZlaGxkZ1g1WDdIRW5IX3FlYkpxdU5mbm9IOWNZaEhXcG1pNW5sSjhyVkZ6aTFpWWI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-01-30T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "일본 기준금리 추이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUTXZUWjRjWGZfU1JBOFRfMk16dzNfYkJIeUV3MHZoc3pqdVRkZjRVNm1tQ0VjbzdHbTRCZnY0eFE0dWR5VF9VSklVM3kwYmwwQnRFZFYzMTk3U3PSAWBBVV95cUxQS2RtSkllSE1GV2xVQmRGdXpkMm5OUEZlT3c2TVl1UURCZFd4bGZGT0ZFRGkxWEFycndlbVR2RkFzejJKQmZOLU1aX04ydGRNNUE4cVJXYldkZkdJY2RuYno?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-07-31T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "원·달러 환율 두달 만에 1400원 돌파···어디까지 가나",
+      "span": "2024.04~2025.09",
+      "monthCount": 3,
+      "articleCount": 8,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "원·달러 환율 두달 만에 1400원 돌파···어디까지 가나",
+          "source": "2025.09"
+        },
+        {
+          "title": "환율 15년만에 1450원 돌파",
+          "source": "2024.12"
+        },
+        {
+          "title": "원·달러 환율 1,400원 터치…외환당국 구두 개입",
+          "source": "2024.04"
+        }
+      ],
+      "articles": [
+        {
+          "title": "원 달러 환율 1410원 '급등'…어디까지 치솟나?",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6VWxTR01TeWw1Ujh0cXd0d0hTaEZWQjNEcU51N2JxVEJTRzBNU1VBRXRrVTlldUhGZXZPN3E0c3RwM1MybG0yOWZyNVdjdkZSRVhj0gFYQVVfeXFMUFdFaU5wbjZzakkxOXpZYjNLTF94S2EwMERmWjY0RjRUbHBpQWRlUUs4SmEycUxfU3dYNDFnUzgydVd4VU9sX2VUaDlHb0tKbTduWTJQWkF0Yw?oc=5",
+          "source": "SBS Biz",
+          "publishedAt": "2025-09-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "고공행진 환율…15년9개월 만에 1480원 웃돈다 [포토]",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12cVhVVmhTVVM3T1ZBU3NUajB1cDY1ck5YTmZOdjNrMWRfZlZhWmpmY0RLWjhsX2ZCN2ZwZUk0YlVNWmFHZXRURHByVDc1UFhXSWF5YXFHaHFkZzFQSmx3eXVackV0OHRpLVo3bEkxeWtiZw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-12-27T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "원·달러 환율 1,400원 터치…외환당국 구두 개입",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1T1FKOWgzNFcxR0pCamw3bWlnZkNqcnliUkdqdmVxS1Rmb1dYTDUxNXNsWm1ZNFV4Nl9wSUl1NXhHV3ZmVGZzRi1fX0NCUlJUc3k2YXpYcEtnTU1fSmw5U3VNblpUbTQ?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2024-04-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "작년 화장품 수출액 100억달러 돌파…사상 최대 실적",
+      "span": "2025.01~2026.09",
+      "monthCount": 3,
+      "articleCount": 7,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "8월 수출도 900억달러 돌파…1조 고지 보인다",
+          "source": "2026.09"
+        },
+        {
+          "title": "6월 수출, 사상 첫 1000억 달러 돌파…전 세계서 4번째",
+          "source": "2026.07"
+        },
+        {
+          "title": "작년 화장품 수출액 100억달러 돌파…사상 최대 실적",
+          "source": "2025.01"
+        }
+      ],
+      "articles": [
+        {
+          "title": "8월 수출도 900억달러 돌파…1조 고지 보인다",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14MkpfdnNra19aV1U2bFJHbGhDRW1hUXFGRnk1VEdvUnEwR1JzbmR0aVd3YXVUaUZqZFBueUN5Z082c0pqOUpBbXJrWTZaSGVEanVCUzd6aEYxdUVyVGV2LWwyb29QbEtaNVhSSVVpcDc5OXM?oc=5",
+          "source": "마켓인",
+          "publishedAt": "2026-09-02T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "6월 수출, 사상 첫 1000억 달러 돌파…전 세계서 4번째",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TU2JIRVZjUDB6NHBjUjBDWG5UX3VRR29KQUhWQWV5SzNFNHN3OERFd01LVG9LYWdLQVJLa05VeEZZWnh1azhIOFhrRXhNbF9MRmp4YUZHWmtqdGk4Rm9hd1otOEIzc1I5NzN6Qw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2026-07-01T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "지난해 화장품 수출액 ‘사상 최대’ 실적…전년비 20.6%↑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CU0Nhc3dWUnpGaVhJN0VTNDk2SEQwdjdIbGRxUkdWLXBqeU40UnFxd0V1akNQMHRnREtXbml1UEpSWjVpRXgyckFnMTVwQ3ZlSW5ja1daQUsyamlmaHFYSFZrYmc3UFhyRGMtag?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2025-01-06T08:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "2024년 상반기 KB 상업용 부동산시장 리뷰",
+      "span": "2024.06~2025.09",
+      "monthCount": 3,
+      "articleCount": 7,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "상업용부동산 시장 진단 및 전망",
+          "source": "2025.09"
+        },
+        {
+          "title": "JLL, “2025년 한국 상업용 부동산 시장, 점진적 개선 전망”",
+          "source": "2025.01"
+        },
+        {
+          "title": "2024년 상반기 KB 상업용 부동산시장 리뷰",
+          "source": "2024.06"
+        }
+      ],
+      "articles": [
+        {
+          "title": "상업용부동산 시장 진단 및 전망",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkM0UzQ0RicUNJb20xUXhNZ0drTkYwQUlrSEdyUUlhQ1JhMGtWUHVuQUpwYXZQR3lvWENQelJRS0ZUUkt5eEJNSEIyc3AtNWNzUldYUWg1dmN4VkxiVS1xQTUtd1FySF9TYndn?oc=5",
+          "source": "KDI 경제교육·정보센터",
+          "publishedAt": "2025-09-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "JLL, “2025년 한국 상업용 부동산 시장, 점진적 개선 전망”",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDhNM3JuY2RmQWNrUHR2Sy02aDlRUDVPYV9nRTU2SjdyTjZTRkdURzZ5R3pyMGQ4VlVxaW0zZmFkbUVFTGMydlM5YTY3QlZjZ2lyOUFKMHpib2kzYVM1WFZtdmhVNGNPRXkxNk1NeHNIUUtDbGp4ajhiNEZHNll3cEV1QmNBYUxvaDBDT1NPdnI?oc=5",
+          "source": "JLL",
+          "publishedAt": "2025-01-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2024년 상반기 KB 상업용 부동산시장 리뷰",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUNXODl4eGZDYnRIWHE5UXpmSDBnZllPcUlUOVFtck9zUW5nOUxPTGYweEZMbkZMVnRZZzN1TWxCQkpacXd4bjN1cm9rbmgwUkZ0WFJNQkMxdnNCbHRFcWxSbl9XZXQ3ckxxWkozNHkzVUNMYnJnVkxkbE8xQ0tjYnFTdWNzZUZNNldtTFdtT2lVcEVaYTJvQ2o3QjJhVHRuVW1sc2tJYnZIZllfTVVQdU4xN0tPOXNBVGpydzNBRFQ5enFScGE1cDdwMmVYWjFzOVZJTU81bk5hNy00SEpobw?oc=5",
+          "source": "KB Think",
+          "publishedAt": "2024-06-04T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2023.12",
+      "event": "비더스킨, 제60회 무역의 날 ‘삼백만불 수출의 탑’ 수상"
+    },
+    {
+      "date": "2024.05",
+      "event": "분석/2023년 해사기업 경영실적- 외항해운 100개사"
+    },
+    {
+      "date": "2024.06",
+      "event": "한국 의식주 물가, OECD 평균의 1.6배…사과·티셔츠 OECD 1위"
+    },
+    {
+      "date": "2024.10",
+      "event": "한은 기준금리 0.25%p 인하…3년2개월만에 방향전환"
+    },
+    {
+      "date": "2025.02",
+      "event": "분석/ 2024년 해사기업 경영실적 –외항해운 5개사"
+    },
+    {
+      "date": "2025.05",
+      "event": "2024년 물류기업 경영실적 분석"
+    },
+    {
+      "date": "2025.07",
+      "event": "삼성전자 2025년 2분기 실적발표 컨퍼런스콜 전문"
+    },
+    {
+      "date": "2025.10",
+      "event": "삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸"
+    },
+    {
+      "date": "2025.12",
+      "event": "올해 코스피 75.6% 상승···G20·OECD 1위"
+    },
+    {
+      "date": "2026.03",
+      "event": "환율 1,530원마저 돌파…금융위기 이후 최고"
+    },
+    {
+      "date": "2026.08",
+      "event": "7월 수출 989억달러로 62.8％↑…역대 2위"
+    },
+    {
+      "date": "2026.11",
+      "event": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신"
+    }
+  ],
+  "outlook": ""
+}

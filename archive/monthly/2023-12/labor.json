@@ -1,0 +1,407 @@
+{
+  "month": "2023-12",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:09.611Z",
+  "articleCount": 275,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2023-12#t0",
+      "title": "‘중대재해처벌법 계기’ 故김용균 사건…“원청업체 무죄”",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "중대재해처벌법 마중물 된 고 김용균씨 사건, 원청 무죄 확정",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnlaMlZtcHVWcGd0Q0tWS1ZXX1NPTjU5cTU3SU53TmVETjl6WEpyTVBQNEEzVlZYVGd1YjQ0ekdmcWc3emZPbzBJa2x2djROWmtvSG84WFRPMm5CZldPT0tyaTNFaEVzcUFrRUNibWNLZWVVT0paekFQc3daMjJ4c3dyclZLQUNPcE1vZTVIQTRNTVhnRVpFVlZ0RDJMTTJ4N1ZSaVIzMURVcW5hVHlid295WUxNRkp5d3l5cmctRQ?oc=5",
+          "source": "한겨레21",
+          "publishedAt": "2023-12-08T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘중대재해처벌법 계기’ 故김용균 사건…“원청업체 무죄”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92MUV1bGY5Vm1VSm15SlpZWXdZZFRucDdLYnp6VWZWYk1QWE9pajVnMDFHNXRVOEVxTlFBaHN3Z005SnpuU0RWd2FmWG1FVGFVeEhVZk94Q3lNd1k?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2023-12-07T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘중대재해처벌법’ 초석 놓은 김용균 사망 사건 오늘 대법 선고",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSUdmOGM2amREOFBYQ0U0cnhqaXl5WjJibmFMbHZ3d1BpbHYyMDViVTBEVWVXdGJPcmtZdkw1czVRNjFHaDRlQUNYcm82TEpONHczOTFfUDF0UdIBX0FVX3lxTE9Kem80eXdOaV83cURjQUhSNE1EcURaZFVRWjd2VUI5TVhOM1ZqT3VBVkZwUDA2MEZUMUc5aG1PUnlReFM4TkF3SjdVUjZ2T1hBbG5Xc0tCcTN1eElNNExB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2023-12-07T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t1",
+      "title": "'중대재해처벌법 위반' 원청회사 대표, 첫 실형 확정",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "'중대재해처벌법 위반' 원청회사 대표, 첫 실형 확정",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RUdibU5MQlQtM2l3ZjRZWjh4YmVOaVZPdmVHalRKN09aRUN4TzdacjlmcndLVVVPR3dQOEx0MXdJVjE0clVBdjdYQlRFUmxGMWt1ZFpSMWxOcXltUVlqUFdFbmFrZDFJRGVOTS1n0gFyQVVfeXFMTWcxNGtEM2FJeXVaU0tPRW1JcGw3ZVhteHBVbWxKUXJVVHVOdHRVYjVBRF9DUkd0MklTcmR4czlqZG5OMTlnSnBMMTJiY19yc0NFVnVUNkphb1Y1WU9lQUFrcTFFOUd2aS12LXBmWi1jOFRn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2023-12-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대법원, 원청 대표 첫 '중대재해처벌법 실형' 확정",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wWmJyQ09QSENGQkVYb1FvRDNsVVpLS0U1Uzl4YXREbXNzN0ViaTktM3FoeEtXMVdGWW1iNkVkM0JvSzF5dHFqUHpnVTlFN01GeHBIUXhfR3VkeEhjU3c?oc=5",
+          "source": "YTN",
+          "publishedAt": "2023-12-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "원청업체 대표 '중대재해처벌법 첫 실형' 확정",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vc2ttc0I1T1NNNk5HaXdLYy1mVktFVGVkc25kMlNjUXlkVEFUVk1KZy1hN2NRLXk1c3ZXQzJSVmJQZkJYcmRoWGNmMURYTnRhYWVQUVBycGFwc3BQWHFXVHIwOUtIS2pGREY2a04wWFJNSl8td2JlNtIBeEFVX3lxTE4yTzE1U3FaYUhfdWJtTXBpS3ZheGdjS25XQldsR1dLTlVvOU11bGkxdjZESWVfd2h4SHpNSDlCNDB3SGttZE5KWnYtNGdwT2tabDJpWWt1SGVSODdBQUVvX19tbEpmd1RCREk2cXd3Qm8ySERSc09ldw?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2023-12-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t2",
+      "title": "중대재해처벌법 첫 대법 판결, 한국제강 대표 ‘징역 1년’ 확정",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "중대재해처벌법 첫 대법 판결, 한국제강 대표 ‘징역 1년’ 확정",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43TUhnR0VxWEVvMUU5QTNjLTNBRENsdlFoVGVaMlllU1pZbkx6ZVJrT2d6Z1lyOXhBTGRRR0lHdG15OE1RTThkb1NpLXprUWJzT2xja2h4b0pRaHF3d2gxQnVFbV9zZXNubjZ5NWZhYzY?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2023-12-29T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘중대재해법 위반’ 대법원 첫 판단…한국제강 원청 대표 징역 1년 확정",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZT2FiOVA1SUdYVWRlUnViT2JNdUE3d1M3R2xRdTJ3OEtrcU84UGREY1lOSlFXRlBXcjFpcVZvOTBkYVRnNnYwTzRETHRrMVh3V0xKVEFnLVJiQ3NkNXFpRHVaR2hmTF85bm9ENFJXYWxRQQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2023-12-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘중대재해 첫 대법원 판결’ 한국제강 대표 실형 확정",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04bU9HQWZYR3p2X2RtRTdnTzUtWkYyeXBYNVA1OEVCZEYxNTRYdXlFUVY0dWVMM2pQeGtla0N4b2FFaVlycEhydlFUUXZ3ajlnN2czUDBPbWRGb18wN3JvRDA4NDI2ZFh4MHgxZml0WEY?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2023-12-28T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t3",
+      "title": "대법원 \"주 52시간 준수 여부, 1주간 근로시간 기준\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대법원 \"주 52시간 준수 여부, 1주간 근로시간 기준\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zNVZoc3BTMG5kS3E1ZHAxaV9zRk1mMGFjVGV6RWpRM29SZkJkQlZ6QndtdWVQRnU5eHdSWWRqcmwxRlNwWXdlTl9uS3FZaTRMRm1BU1hNVnZNQkVMRFBPNmpRNzJKcnZKaWJoV2J30gFyQVVfeXFMTk5MSFVaNEFzNmxvX3IwU0VQbEhncVhwZ0NKcU5GYnR6NUlNZ25YbEljMGtKTVR6akJBb2ZPOHBXVmVGRndqRVZmQnBESXVLUTZ1a2RZSnhrYkZqWExZTTYxWG5jZTRxbTRNNDlPNkVab2Z3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2023-12-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대법 \"주 52시간, 하루당 초과분 아닌 1주간 근로시간 기준\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xNmF1NmpoVW9ENjJvS0tOOXNNYUR5YkcxbUlmLXZBYlFQeHNLcV9WZGNwZjc2SEZ2OE5xTHExVzcwVlg4RnBEV1UyYlhBSGt4TGl6ZHdqeUJPTHfSAWBBVV95cUxPeU5RcmdFZUVVU0huNTA4TTNNbUNWbzN1dmZLQ3BjMlJUTGdxeE4yUHNhdTllNGIxU2tfVzFpVlFqUm04Z1FLcDdYN3kxTFp2Uy1FTWh3R18yMWRsbGdYclk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-25T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t4",
+      "title": "LH 울산 아파트 공사장서 60대 하청노동자 추락해 숨져",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "LH 울산 아파트 공사장서 60대 하청노동자 추락해 숨져",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUHVZOWJtV0xERUJVVGZ4aUFYUnB1ckRvc0Z5eUJpdDJ6c01OclE5bHFJdl9vSmVZdUF4bktaaFN5clFoblB5cEhLZWh2cEFrLXNMQmZ1U2tOUDk4TDhCdzhubE0?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2023-12-26T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "현대제철 당진공장서 50대 하청 노동자 추락해 숨져",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PS01sQ2JGU1RuTWowc1lGaUl5TE9mMUw1WlE2dE4tQW5XRHFmWkhidlk0WUZwanl1STl1QWlXT3BMbGMtQkN5QlhjNU5ycFFJTk9kcUt5WE1JZ083ZGY4RnB1RlVBYkFLSXJCUVpVSEkyajlDaVowQ9IBeEFVX3lxTE5qTUs5VlB6ZE5obUhhT0R1WTg5YzlVN0pURzEzd3RVYms4ZjNjTlRBZkxxUEJqbFJ4QXNuOE1MZE56WGgzT0FBQ1Jhd3hxaTl2cEFIS1hBX3dfUk1neEZmLWNSWllrV013bTBLTzlXTXcxbTJoNEp4Yw?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2023-12-06T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t5",
+      "title": "내년부터 학교·유치원 방과후 강사도 산재보험 적용",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "내년부터 학교·유치원 방과후 강사도 산재보험 적용",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UOHdCam1ycjF5OGJQelZ3X0ZJOW9FbmhzLUlfWHkzLVlPbGhLM0xOU3cxd1RXdTRFdWo3UDJrWDBRZk4xSmIzTF9rNzd5VjZGeXlOX0NHZWpuLXVkd1d0anN4UDJDOWM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2023-12-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교·유치원 방과후 강사도 산재보험 적용 받는다",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0pGUHBVTDRHcXdtSW42STJZdDZ1cFdfV21UdkpxV1REYWNqMXVwRWp0M3dHalRUa0sxXy1vSlN1dFZPYWJtdjE1RGNreDVXOTVqNkg2akw0dGpERlJ4Snp3MTY4STh3VkV1LWZWSnhrRGlnUlY2UVpQUEI3dEVpeXBRWk94VkFadDRYR3JR?oc=5",
+          "source": "국제신문",
+          "publishedAt": "2023-12-24T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t6",
+      "title": "2023년 이민자체류실태 및 고용조사 결과",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2023년 이민자체류실태 및 고용조사 결과",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KSy1ocEVOYnlYVWNydG9qZThSa3A5bkVJZHZFSlkxVDJpVFc5NnRNamN0SXZkZ0t2aDdsT3dLRHc5X2xZRm13MWR5LUpMUVRJSWtTSHdwekx1RVBWdzRINWw4MkNxMUprT19FcENrRDNEWkRqNGpB?oc=5",
+          "source": "대한민국 정책브리핑",
+          "publishedAt": "2023-12-18T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "통계청, 2023년 이민자체류실태및고용조사 결과",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kb2FBVVVPdC16RmJmSG5YNHItRlVCdUU1XzlWc2YwTFEyOC02X1UzenczNzJQdk1OVVdBR3dicGh1UnpJYWtsaDJzUGFRb1NFQ29iZGRYTnlrb0tNN0puR3ZUQzBEX0RpNEpz?oc=5",
+          "source": "세계한인신문",
+          "publishedAt": "2023-12-18T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2023-12#t7",
+      "title": "“국민 89%는 의대 정원 확대 찬성…86% 파업 반대”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "“국민 89%는 의대 정원 확대 찬성…86% 파업 반대”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mZGpFOE5wWFBzeGY4bHRJbUdJaW9vTmdGQ1pHYzZRNHBSdU1saUxxR3I5SWgtdUVZYXlYVk5LVDZMMGpIWUxOZHhZWmdENFlmUEpzVw?oc=5",
+          "source": "DongA Science",
+          "publishedAt": "2023-12-17T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "의사에 등돌린 여론…\"국민 89% 의대증원 찬성…86% 파업 안돼\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhYUtySTE1Ylc5YnNTZEMtOVk4SlRjc25PQkNxTDRrdjlxeEs3MkJIQ3lLMHBkRWl1amJIa25EQVFiRGRnLUJVdkFHRlpTSmFEZU1lSExUZnNRUlXSAWBBVV95cUxNaDMzM3BwaUJDRm9nNWQySTFweUtzYTJqall4ZzUyOERKQkR1Q0VhczRRUU05N093VFNadWxCeENaaXlyZTNEUWpzYm9LR2RaRXN0V2FxSXRRZ0pNWEp0YlQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2023-12-17T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "중대재해처벌법",
+      "count": 16
+    },
+    {
+      "word": "중대재해법",
+      "count": 13
+    },
+    {
+      "word": "노동자",
+      "count": 12
+    },
+    {
+      "word": "대법",
+      "count": 10
+    },
+    {
+      "word": "확정",
+      "count": 9
+    },
+    {
+      "word": "판결",
+      "count": 8
+    },
+    {
+      "word": "정부",
+      "count": 8
+    },
+    {
+      "word": "대법원",
+      "count": 8
+    },
+    {
+      "word": "대표",
+      "count": 8
+    },
+    {
+      "word": "위험",
+      "count": 7
+    },
+    {
+      "word": "당선",
+      "count": 7
+    },
+    {
+      "word": "위반",
+      "count": 7
+    },
+    {
+      "word": "임금체불",
+      "count": 7
+    },
+    {
+      "word": "원청",
+      "count": 7
+    },
+    {
+      "word": "김용균",
+      "count": 7
+    },
+    {
+      "word": "사망",
+      "count": 7
+    },
+    {
+      "word": "조사",
+      "count": 7
+    },
+    {
+      "word": "하청노동자",
+      "count": 6
+    },
+    {
+      "word": "외국인",
+      "count": 6
+    },
+    {
+      "word": "장애인",
+      "count": 6
+    },
+    {
+      "word": "서울시",
+      "count": 5
+    },
+    {
+      "word": "수준",
+      "count": 5
+    },
+    {
+      "word": "격차",
+      "count": 5
+    },
+    {
+      "word": "무죄",
+      "count": 5
+    },
+    {
+      "word": "없다",
+      "count": 5
+    },
+    {
+      "word": "해고",
+      "count": 5
+    },
+    {
+      "word": "사업장",
+      "count": 5
+    },
+    {
+      "word": "실형",
+      "count": 5
+    },
+    {
+      "word": "사건",
+      "count": 5
+    },
+    {
+      "word": "가입",
+      "count": 4
+    },
+    {
+      "word": "반대",
+      "count": 4
+    },
+    {
+      "word": "감정노동",
+      "count": 4
+    },
+    {
+      "word": "위원장",
+      "count": 4
+    },
+    {
+      "word": "후보",
+      "count": 4
+    },
+    {
+      "word": "회사",
+      "count": 4
+    },
+    {
+      "word": "위기",
+      "count": 4
+    },
+    {
+      "word": "근로자",
+      "count": 4
+    },
+    {
+      "word": "노동부",
+      "count": 4
+    },
+    {
+      "word": "기업",
+      "count": 4
+    },
+    {
+      "word": "직원",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.06",
+      "event": "LH 울산 아파트 공사장서 60대 하청노동자 추락해 숨져"
+    },
+    {
+      "date": "12.07",
+      "event": "‘중대재해처벌법 계기’ 故김용균 사건…“원청업체 무죄”"
+    },
+    {
+      "date": "12.24",
+      "event": "내년부터 학교·유치원 방과후 강사도 산재보험 적용"
+    },
+    {
+      "date": "12.25",
+      "event": "대법원 \"주 52시간 준수 여부, 1주간 근로시간 기준\""
+    },
+    {
+      "date": "12.28",
+      "event": "'중대재해처벌법 위반' 원청회사 대표, 첫 실형 확정"
+    }
+  ]
+}

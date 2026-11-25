@@ -1,0 +1,435 @@
+{
+  "month": "2026-08",
+  "category": "politics",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:21.828Z",
+  "articleCount": 230,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-08#t0",
+      "title": "청와대 \"국회 권한 강화 4년 중임제, 국민 수용성 높아\"",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "靑 \"국회 권한 강화된 4년 중임 대통령제가 국민 수용성 높아\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Tnhac1FZU25uQ0V5cVBoM3VPQXdUNFloZUp1VDFnZ2VZM1dvUXN3aVQ3NTY3Ui1WNjhEay05Q09qLTg0TjIwd1N4QzVFZU80NnBSS1ZhdlM4YjDSAWBBVV95cUxOOVc1TVBoWjl1dnFXN3o0VTl3aHJjMFhwMlE4RkIxRENGSnNfbmxneUdiSVJtMHpTOE5pQ3Fyb2syM3J1VlhaXzI4YmVPS2xIRlcwRlNOOUMwZlpPcUV6Zjg?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-14T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "청와대 \"국회 권한 강화 4년 중임 대통령제, 국민수용성 높아\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BOXNOdWwxOElBSmduQ0x3Q0t0eFB0ZG15WWNTZnhxTFBCS0ZISE1wTXc0MzBYa0YyVGJQVkp3U1NEYlpGNVZmU1NlYXNMLU1od0FrRWhOZ2V2b01EUHc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-08-14T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "靑 \"국회 권한 강화된 4년 중임제가 국민 수용성 높아\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BZjVhcHk1VVluVTR5US1KWGw2YU9aVzRWRnljTDBCbFdkS1VYWUJ5ci1JMFF0X0VVeEZWTXItazQ3cm5uam5XYVU0eGQ5TXZZV2xDSklCRHd5Q0pwblIwWF90dU1rbXM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-08-14T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t1",
+      "title": "李대통령, 전현직 국회부의장 등 국힘 의원들과 골프 회동",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
+      "articles": [
+        {
+          "title": "이 대통령, 전·현직 국회부의장 등 국민의힘 의원들과 골프 회동…필드 위 ‘협치’ 나섰나",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpT1VnOHhkSlpVcjRQTi1fdlg1MmM4dGRSTWZ5cTZUdWdneDVIY3k1ZnJTTUQ2bWZlaE9DQ2YzQjVQRFhxNEUtVnRrWXAwV1hOTXF6QXI3dWU1QdIBX0FVX3lxTE1pbWdIeWwzTllBUmppT3JzTGM4MDJxUGxYWTNHbTkwOS1TX2VST19rRWNkTGx0THhIQnNoQV9CZFAtXzg5VlI1bGNiUWRQZkJiLS1tOEUwcUp2WE9OWGZn?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-08-13T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "李대통령, 전현직 국회부의장 등 국힘 의원들과 골프 회동",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZa2FfVl82MmppZTQwMEFSajNPaEZ1NVY1N0hnem9MQ0R6UFdtSC1RRExwcEg4d0h6djkzbnl3eXlnM0VNRnlSakxaUXE3a0tpaGt4TmI1Qm0yeVXSAWBBVV95cUxNVExNaHNXUWhkckR5LTU2NHBtbmVud1djS1p3VzNTdERHQUNPdk0tdENJbEQwUnhsQVV6TzRNZDkyYXlsdklfamFWazBFRzl0MHpMaWswLVNzUTVEdUUtYXI?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-13T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이 대통령, 전·현직 ’야당 국회부의장’과 골프 회동…TK 통합 논의한 듯",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUGJFeE01bnNobVJUbFJPSUV1YUVUZ0NnQkFOX0I4VjgzSF9lLWRmQVk1SFJ5NkNwYk9ZMWQ5SWVxa2xJMlRwWnlQcXR2cjhvTHYwY0kwZ0xUSzVMQ1I2Q2s4bkUycHM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-08-13T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t2",
+      "title": "'이진숙 제명 촉구안' 민주 주도 국회 본회의 통과",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "'이진숙 제명 촉구안' 민주 주도 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RRC1uaWxNTEhxVUlHbWZweUF1elJwOUZlclIzc19kb3VsOWlwMGNBTElwS0dENnpxQ0NYQW41bjBQNmxJamtVb0ZPMEMxVTFiN0JjRzRMb3JucHR3VVE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-08-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IN2twVGFEMFhHNEI3cHFHdGZvcU5IQ1RqU1JFZ3cwVlV5eUJma1dlY2FPeDZ4R2lqeDl6T1cxVGx0MVhsekFlUl9KRFIyb3N1MDdzcFNNeDFHREVpMmxBZVZRMDVwcHFGeGg5Wllza2Vyal9iUllDaNIBeEFVX3lxTE9PQm4xMVhxVUZySTc3TGdzd1YxcWE5dnAyc29Oell1NmNKaGNhVUhiVXEyRVhFd3JWVFJoRTlQN1pUcDRvdUNzSjNpU0dZclNvSXJGbGcwNDZOaDBPNUFnYnV0NGdvLVNSSmI5aTRVZ1VaLWdON21zcA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘5·18 포럼 논란’ 이진숙 의원 제명 촉구 결의안, 국회 본회의 통과 [지금뉴스]",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2S2xEWllMS1JEZmFaYzZrdl91SnQzMkVtTUVMWXZhQXZXempLcEZLWGRtWTVxMFVRZGk2dU8xZUkyYmZRVmU2X25BSlhEUlZvUlcxUHgzdlJ5cVU?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-08-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t3",
+      "title": "국회, 패스트트랙 심사 단축법안 가결‥최장 330일→90일",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "패스트트랙 단축법, 與주도 국회 통과…심사기한 330일→90일로(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQUx6czR5WW1aMWs2YTIxQVVUdWM0M25lMWtvZFZsdEF2NjdTVElGM1d4UXBxaXJHTmgzejBKUmxHTnNOcUxhTEgtZGg5VHRaeTVxRnlZQ1VERk3SAWBBVV95cUxNc2NqR0g4Sk1VaDBaM0VPS29IVFp3M0xkekJZOHIybnNNV2VFX2JveGVQVmt4dFdOeTEtVFUzbVpsOE9wejlibGVQalpRNEpHTnJtQ3pnNXdxX3pmOFdfeWY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국회, 패스트트랙 심사 단축법안 가결‥최장 330일→90일",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMzk4T2ZJVHlHdzVGVGp6dzRnUk5WYjdLRVEtdTA1MHVKVW4zbElyR2FXdXVMQ2kyMEdMSDg5UmVDOU1QVVM1N1ZUZHpvR1M3VjdTMHZJUTRKOG5vNW1kLU5INHZpRm9Ldk85VlBMTm41dzNHQi1JQdIBeEFVX3lxTFB1QmEwWVp3T1VpZHk3VTlITGtleVFqcF9neGNaVmpKWjlTcFB0WWRlOTVvaHdQc0dHNzVuVkJPbWZuaXhCaWZ3dlF5MVlmd0FxVzNJSVhVNjlOZnpOZzBYQUZWV01GUzhlbXBtSlBfd1l6TDVKMlliZQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘패스트트랙 기간 최장 330일→90일 단축’ 국회법 개정안, 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXazZnQS1BcFRmbFBYbU0temh3WGtadUwza28xOUZkQVNZQmEwTWZ6ZTRzVE1hNVNJMEllRWJKX08tYU5GRERjOVRIbEFXWlhnTF9GOG13Yi1aU28?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t4",
+      "title": "2026년 8월 27일",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 5,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "2026년 8월 27일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIeXkxSFRvVDBXcHQzTWxDaFVzWlhPaHpuSDRQUDBYVmpTazZkdS1rWWRuYjhiWDNOdjVnVWlwYVM5T0ZhTl9fYTMtS3ZJRFdqZ0IxejVxSjRsX1FHZmdoYnMyLUNHRVVwcGpMTG5B0gFyQVVfeXFMTUZ6RmpaaXMwaTViOTQ5MFBiTi1FRGtxOVkzZGVGZ2JSY1kxYTVyaXl2Y1ZVSk9UN0NlZGxROU1nX1VybmgteGFiN1ZZYUtlSGJUdWhnY2lEQlVoNDFyMnhtS0lEeHN4TFREbDVrMV9EakJn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2026년 8월 25일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qcDhnU2Z3WGVlbWxsODJZU3duNUxuMlhjb2dZOHBXY2R1T3NkUjZVdWRpeUpNRjBRNW5qRVdxamxiNkg1c0UwSm1GcklHaVRTeEZKUDBtdmJxTWQ3d2otRjhPY2I1aVBXY2h1N3p30gFyQVVfeXFMTzlEZjdzT1lNVGZpdGZodmM4dE80WFdINDBHc2Y1azlpYktsVDY0V0hmNTBXRUY3YmljLXNPQ3FUN0ZKeHRvZDFXcTRXVXVJZVdsNFFKVXBZMDFybmF4bWlvb0QyQVg5SEFfMldJdkpOVkpR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-08-25T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2026년 8월 24일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LNFZERE5rTzR3dlZjcGZERUJsamNUQzRnR2NnSTU2X1JYaUpYSHdIdWx4YkNSODZ3RW0tMzFyNmZxVmdVOEoycVllRkhIc0w2Z0xCcEhHRjBZX1pMZDdqc1l6MGZGZ00zd3dXNFlB0gFyQVVfeXFMTTJqZHEzV2pPNzhBZFM5a0xocVI5X2pmZVpjVndQcmUwMjJrSDNHV3VJRGdSbWNIWW05bEhDQmNiZmNGYXMxN1lyWFBOUXl6YTVYNUR6UXkyUFhNVC1GdjMwODFObmdBMnd4OEFCeWpiRnhB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-08-24T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t5",
+      "title": "‘국회 봉쇄’ 김현태 전 단장, 징역 12년 법정구속…“내란 고의 인정”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘국회 봉쇄’ 김현태 전 단장, 징역 12년…“국헌문란 목적·내란 고의 인정”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Mm40cTlTVlU5SU04MGozREdJYi03TkZxX1ZiM1lTMWtlWnNTOXFYbTN5R21Yb3ltbzB2bnY0MkVPY3JVNW56RzF5LS15TlFwSFZTUWNPNTI0cG8?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'국회 침투' 김현태 전 707특임단장, 1심 '징역 12년' 법정구속",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkWXA5b0lNODU0Y0FMN25haVRWQkRmTm53YVhjMEZ3TEZJa2l5WVRqS2xaeFExWV9SSnVtazl4NU4zX3hrQV9qeFNuUUNzZU5NNGxsU1VobnNEQW01aWpFblVoaGZFZlJQWUtRVXRaRWszTUVnY01R0gF3QVVfeXFMUHhZR2gyY3QwN181VjlIVDVwZjdBdGZ5bXU1UGxHNmVoQmR1MUNNdG5HZW11dGljQkdSeXJhMzQ1Y19mYXdTSm51T05ReW5NMFhjODlsLVpuWldUYU16cE9JYWpyLXRCZ3I1bWdoeVhOMzFtc1ozWGs?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘국회 봉쇄’ 김현태 전 단장, 징역 12년 법정구속…“내란 고의 인정”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wMTE3bmhpNld5SWVELUwyRHUxVU1nQ1VNc1YyV29jNjlieFdIaE42QnhFOFhkUlZrYWt3RTZwbVdrUDhwajVvS0xjdHdSUU8xY05wcVJjdnQzb0U?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t6",
+      "title": "180일 수사 마친 종합특검, 尹·김건희 등 58명 기소(종합)",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "2차 종합특검, 180일 수사 종료‥윤석열·김건희 등 58명 기소",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83dlg1VzJWbjNxRko5aXctZVVac3V1LVRGZUx0cnVUYkJ3bGQxLUdoVnNhSlpjZ3hZdEFCZk1iMVRuZ1lmVHQ2ejV6N0JQY2xaRUxNZkpUZTBWU0NCV1NvMWsxWWJYMl91emRMSUtSMEo3N0twenE00gF3QVVfeXFMT3VVUFU5NVNqc2JOeVI4cFpPSHFLdGY2T1BrYWhoem1leng5Y2F5bGJnbm5pQjFSTlNKWHhrREw1RXlKOTYxX19BYkNGclhBRkF2a3h5VjhaNlJnM3R2OENGX2gwck9RN0FZZnRkMFdTZW5CQk5DTkE?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-24T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "180일 수사 마친 종합특검, 尹·김건희 등 58명 기소(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KMHF3cWpiaW8zYkJFNHFRQ1JxMno5ZFBlekpuUnFjR2ZXeEVuYzBLajV0NXFQTUhvTDRzcmhhSTYtYWZIZy1EUmNZeE9nT3ctVG4yam1NdGlDaUHSAWBBVV95cUxOclhXUjRrcTQtWVNxcExYclNyTDlDcjdqQ2lybS1UelVLblNod3BnQVBnZnZrWlVOZDRQSHM3b0tBUjVLNlZGT0w4dnluOXlRSWNVckJuSGhHd09XQUV3Nkk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-08-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "역대 최장 180일 수사 마친 종합특검, 58명 기소‥한계 지적도",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CQ3Z0VFdlVk9UUHAyUGMtUG82cF9ocTRaSGEzb2dJcG50YlpNTGN6V3I2d0UzT3FFaFFiXzlhZi1zWTFmZ3RnLUV6WmRMN0pJNnpLcFFmQUVnN0ZDdUg1S0tDT2ZweXhRcGd0TGtKVUF4QjgycVhj0gF3QVVfeXFMT1NhdTFxa2RnRG1Pam5FNTVaVjhndWh6eE9EbEhqOXFrSEtiWlduZjdYY21BT1JJUHhfNG85SzV5d2hMeXFjbmxPZ1FXUWFjTDZJWUJQbkwxYTA2Q2E3ZG9NYm42YjBNOUxINHlZRDlucFZNN3FCekU?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-08#t7",
+      "title": "국힘 \"동맹에는 패싱, 북한에는 조롱당해…안보 무능·무책임\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국힘 \"동맹에는 패싱, 북한에는 조롱당해…안보 무능·무책임\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jM3Q5QmJtZzJYRzdYYlhudmMyX20xd3FDZ2d0Znp0WWZYTXVxMzhkbTh4MkM2LUNHTlJZYzEtRkMwNFRTdTBSNDRTcUJCbVJKay1ZaER6Y21KdGRlQjNLWDE5ZjhJRXM?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-08-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "국힘 \"이재명 정부, 동맹에는 패싱·북한에는 조롱 당해‥안보 무능 심판할 것\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4WU9KM1plZGw4UTAyTHdoeDd4NDZGei1vbUJEVGtJWkZoOThScjdMQ2JCVWRGWUZibmxzaVk0bTZrNktVQ21CaWFvdzRHMVV3LXU4anJrLXNCcGpOdkFaQXVVQllielhuVE5MWHdubmpZN0FUblA2MtIBeEFVX3lxTE43eWM0WjFPbV9vWWl6VnJ5UGFkaXpaR1J0NTBOcVU3REJWaVYyaTVFc1NOdDFIbXNfODVvR2NhSzZZVHZkNUEyaXZRQ0UwRVQ4cHFtSVY1XzhmMUVkejRiV3dpNklWdy1FSEtvUTR0S0hDTnI2SG9WRQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-08-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "대통령",
+      "count": 22
+    },
+    {
+      "word": "종합특검",
+      "count": 13
+    },
+    {
+      "word": "미사일",
+      "count": 13
+    },
+    {
+      "word": "통과",
+      "count": 11
+    },
+    {
+      "word": "이진숙",
+      "count": 10
+    },
+    {
+      "word": "정기국회",
+      "count": 9
+    },
+    {
+      "word": "논의",
+      "count": 9
+    },
+    {
+      "word": "발사",
+      "count": 9
+    },
+    {
+      "word": "국민",
+      "count": 8
+    },
+    {
+      "word": "내란",
+      "count": 8
+    },
+    {
+      "word": "민주당",
+      "count": 8
+    },
+    {
+      "word": "국힘",
+      "count": 8
+    },
+    {
+      "word": "의원",
+      "count": 7
+    },
+    {
+      "word": "기소",
+      "count": 7
+    },
+    {
+      "word": "왕이",
+      "count": 7
+    },
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "상세보기",
+      "count": 7
+    },
+    {
+      "word": "제안",
+      "count": 6
+    },
+    {
+      "word": "김민석",
+      "count": 6
+    },
+    {
+      "word": "본회의",
+      "count": 6
+    },
+    {
+      "word": "국민의힘",
+      "count": 6
+    },
+    {
+      "word": "수사",
+      "count": 6
+    },
+    {
+      "word": "중국",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "권한",
+      "count": 5
+    },
+    {
+      "word": "높아",
+      "count": 5
+    },
+    {
+      "word": "입법",
+      "count": 5
+    },
+    {
+      "word": "의혹",
+      "count": 5
+    },
+    {
+      "word": "외교부장",
+      "count": 5
+    },
+    {
+      "word": "대한민국",
+      "count": 5
+    },
+    {
+      "word": "전쟁",
+      "count": 4
+    },
+    {
+      "word": "중임",
+      "count": 4
+    },
+    {
+      "word": "수용성",
+      "count": 4
+    },
+    {
+      "word": "토론회",
+      "count": 4
+    },
+    {
+      "word": "징역",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "용혜인",
+      "count": 4
+    },
+    {
+      "word": "입장",
+      "count": 4
+    },
+    {
+      "word": "국회부의장",
+      "count": 4
+    },
+    {
+      "word": "골프",
+      "count": 4
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "08.13",
+      "event": "2026년 8월 27일"
+    },
+    {
+      "date": "08.14",
+      "event": "청와대 \"국회 권한 강화 4년 중임제, 국민 수용성 높아\""
+    },
+    {
+      "date": "08.20",
+      "event": "국회, 패스트트랙 심사 단축법안 가결‥최장 330일→90일"
+    },
+    {
+      "date": "08.25",
+      "event": "'이진숙 제명 촉구안' 민주 주도 국회 본회의 통과"
+    },
+    {
+      "date": "08.27",
+      "event": "‘국회 봉쇄’ 김현태 전 단장, 징역 12년 법정구속…“내란 고의 인정”"
+    }
+  ]
+}

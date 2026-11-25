@@ -1,0 +1,389 @@
+{
+  "month": "2025-12",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:13.567Z",
+  "articleCount": 78,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2025-12#t0",
+      "title": "서울지하철 9호선 오늘 막판 교섭…결렬시 내일 파업 돌입",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "서울지하철 9호선 파업 철회…1~8호선은 막판교섭",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Kb0hPQkwzUndjWnZOQTBaVTFKVWlMQVplVXN5VTlHVktfUXczWmJTOVpyZkNvV0RvWEhZZnZmWUpRdXhiOXV2MkRuQTZ2NktRQ3lyQ09IdklZZw?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-12-11T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울지하철 9호선 오늘 막판 교섭…결렬시 내일 파업 돌입",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTVdwRm5DUkVaQ2ltWkRJM0YxNzljUlNJZUs5a051WVpmVmJDODFHUjFnSUlkaGNwV2pLZ3VxX2R0V0RuVGppSF9pbWFtTWw0cHlESUFSTnNzSlEzanVNTXhHTk94MlU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2025-12-10T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내일 서울지하철 9호선이 파업하는 이유 [왜냐면]",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OU0RZZzRySnlocldxNGZ4dUY4MzRjS2E0bVR3RVRfdWNOdjVGWlZ4WnZVYjJOYmd5V1lBMUtaeU85c21hSi10bmg0dTVUOWFPSFlGOC1OTzVHbWNCQUhXdlN5MjVLc2c?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-12-10T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t1",
+      "title": "철도노조 23일 총파업하나…성과급 정상화 논의 '파열음'(종합)",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "철도노조, 내일부터 총파업 예고...\"성과급 정상화\" 요구",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyRjZTU0dCX2dpTmFodDk3S2Q1ZTIzbm5oVHJvbkZzdFF5eXFGLXpjZmdSOWhFNlNKNjF2WTMtcEFDNHNEY1NlbFhicElpYzY1ZW9SOXVPUHI5VFVjTmc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-12-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 \"성과급 정상화 약속 불이행…23일 첫차부터 파업\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYV2dyVEs1Z0xGdW9ZSklMaUhEOUlDRmgxdUxQckJqU0JwdWpvMlRSRTBZaXc2QktCNi11UjAxaE9uQmhfMVBEcDNFeTdJRDBJMGp6VEt3WnZRZGvSAWBBVV95cUxNZE1YRzhJYXhEQUdKRW9tVlRlTk5qeklMM3k2WDFZMDdQOTVGakJ5OGMtY1FTOHNienNhU1RUcmpKbFF1SjJMTElUQVhQNG5nT3BaWWhpN0hsZXJQbWtnWXE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-12-19T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 23일 총파업하나…성과급 정상화 논의 '파열음'(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jbjlpd0JGMU9jMHMzTEcxSGRvTk13YW42Qm1MbHFMcURJcDJqT2l4Uk1wRmoySDhfd2dvRVM2THVSSUtJcTV3WlgwMmpWMzd1bGNfMElZOU1tV2fSAWBBVV95cUxQbVoxemw0WWFhUUdMZm9TVENLNzZIeWZ2aTZhTnpaTWRsTzNZbkhfTGJhOWtSUzQxakFfamlXbEw4a1ZTQnBlWlhrYkdja3JvZW16aFNLLUFfRUJTcmRMTVE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-12-18T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t2",
+      "title": "국토부, 24시간 철도파업 비상대책본부 가동…\"불편 최소화\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "국토부, 24시간 철도파업 비상대책본부 가동…\"불편 최소화\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YdlNPUGR0djlXdFh3T2NJSUJJX0JvbV8xUGV0QzdmWFRqMlZud05OYTYyejlLeU9DWmJjcENWRDY3amwxdVh1UFNHRG5FTHE3NVJOeHJuM2I2WU3SAWBBVV95cUxQNE9iRTR6QlAyc2V0QWRLOHlFME9rQ3Rvd2l5Tjktb2RNSlVJc2tqNVYycW15ekRrZ2lUWVFLWDUyNWU1M2NjLTFyajUyWHJKM2ZmYlkyRGhhMldVZGhlMlE?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-12-22T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도파업 하루 앞, 국토부 비상대책본부 가동…“대체인력 집중 투입”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41WHlNNnpEakxsWVpqVXlJVmVCNHlxREt4akxBTDdfVHl4UmtIMkpnQ1ItMEVJTGVId2gwcl80R2h0NDg2RmpsellMcFB1YTV5R2FyM29sMDNjS2lMTDZPTmFUUkc5R1hBcXlOT05MOXQyZw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-12-10T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t3",
+      "title": "지하철 파업 '초읽기'...서울시, 비상수송대책 가동",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "지하철 파업 '초읽기'...서울시, 비상수송대책 가동",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUVEdxU1EzYlEtX09LcURxdDVVZVdDdC12WDBuT0tfMTFidnhucTdCYTBoT09vSjZtZlUyZ0xybkpCeHpoRDF0WS16OEwwcW9mVlQ4d25hWUtNSTg2aGNVVndLUEdWdGdWMF9xT1dINA?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-12-10T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울 철도·지하철 파업대비 비상수송대책…\"모든 수송력 동원\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WZmNrX1FGMmplWlF5MFVHc0VVay1EcEE2VHltd3QyREJ4Q2ZVcjVESnl1RXF1VndYTlQ4N01URWltSExEc3RCQWJCYlVwc0c2Snp0cjNqUUFBajTSAWBBVV95cUxQYWZKcm5xVWV4S0VOSk1DbFpzczJGUnVlUGNYdDI0b3Z6SDhZeGdQZG4yRlFkU3MwOVJrOTlCQ3pfRl8wYTl1OXFVZlF2TUp6bV8tbkh5SDJFdjV3LXRQZWM?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-12-10T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t4",
+      "title": "서울지하철 파업 'D-1'...노사 막판 교섭 돌입",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "서울지하철 파업 'D-1'...노사 막판 교섭 돌입",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhUDVFUXRJVV9XdWNfSmFlbUNrckdzZGZuYXBPWDdENWItWnJNMGZyNFVsMGpqZjMyUFhoVlJUOUhVYmh1cXJGLTdjOUdPVGNPdUFoNHhucnBVTE5iSGc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-12-11T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "서울지하철 파업 'D-1'...노사 막판 교섭 '정회'",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TdUJIeTJjNHZWOEhCWmc0YVp0ZzlXWDFQNHNKcEQ5dlpLNDRjUnFXUndhX2Nsb1I3bkFDOXMwMjF5eDdMTHoxb0hjYXFQOUlUWkxKUUtfbjZYRkJNZ3c?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-12-11T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "지하철 파업 'D-1'...잠시 뒤 노사 막판 교섭",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EOE5XdnFGa3JBU0VSc0tHZUZJYjMtaHdCdV8wQlVIOEd5dWI1eTY3N0NNNTRIM3g1WVVnNHl5S1EyYmJDVXFlVzBwMElScmF4UkpWdkRJdmluM2F2UXc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2025-12-11T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t5",
+      "title": "초단시간 노동의 증가 요인과 정책 제언",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "초단시간 노동의 증가 요인과 정책 제언",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydmZyN2pNVVEzQU1QZTZNSC1jZ2luOFpnRy1yak1Gem9yNWxtZ2J3cnhMLVpJWVg2bzQwc3pka211VHBlb0RoOTJqTXRJUnEwS2pDOW5UbmFqVmJoT1lfWFVwNA?oc=5",
+          "source": "KDI 한국개발연구원",
+          "publishedAt": "2025-12-24T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "단시간 노동의 증가요인과 정책 제언",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wMHc3X3ZPOUtlamRRV3FhYzZ4RnNZbUNzV1p2dlJpMURrSk1oQWxIdzNlSkNjYXAxX0ItVWFFQ0lYYVVZYWJCcVNPVmNxdkMzcTg3aWhZN0FVRVMwU3JUWlRPMEE?oc=5",
+          "source": "KDI 한국개발연구원",
+          "publishedAt": "2025-12-24T05:41:28.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t6",
+      "title": "노동부, 쿠팡 ‘산재 은폐’ 의혹 조사 나선다",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "노동부, 쿠팡 ‘산재 은폐’ 의혹 조사 나선다",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuc3JmdXFfSTE3eFZmWUV1M2RjTlVZbVRNaGJDM1JtZGRVd1dMU0cxM3ZJMFZVdHFWaWozbmVHQU5HamJBYnd3VXZ0RkNhUlhOcjNaRWRxSF9fQ0tNNVBfWnpJTGc?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2025-12-31T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2025-12#t7",
+      "title": "쿠팡 3사, 5년간 산재 1만6938건··· 현대차 ‘2배’ 넘어",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 1,
+      "sourceCount": 1,
+      "articles": [
+        {
+          "title": "쿠팡 3사, 5년간 산재 1만6938건··· 현대차 ‘2배’ 넘어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UV3lMQzBNaV9MLVByTjZONk5pV0tfaXhsenFpVkxKYV9VNUFmdzBVRklwWjlKcUN2TEN3OHhVZmZ4UUdrczMwb3B2dEhrTURsaXYzVHE5M3FTRUg1OXMzbmdENzg3QnRCNS1fUXc5OGE?oc=5",
+          "source": "인천투데이",
+          "publishedAt": "2025-12-30T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "철도노조",
+      "count": 14
+    },
+    {
+      "word": "총파업",
+      "count": 12
+    },
+    {
+      "word": "코레일",
+      "count": 9
+    },
+    {
+      "word": "쿠팡",
+      "count": 8
+    },
+    {
+      "word": "성과급",
+      "count": 7
+    },
+    {
+      "word": "지하철",
+      "count": 6
+    },
+    {
+      "word": "서울지하철",
+      "count": 6
+    },
+    {
+      "word": "교섭",
+      "count": 6
+    },
+    {
+      "word": "노동자",
+      "count": 6
+    },
+    {
+      "word": "정상화",
+      "count": 5
+    },
+    {
+      "word": "막판",
+      "count": 5
+    },
+    {
+      "word": "은폐",
+      "count": 5
+    },
+    {
+      "word": "비상수송대책",
+      "count": 4
+    },
+    {
+      "word": "가동",
+      "count": 4
+    },
+    {
+      "word": "철도",
+      "count": 4
+    },
+    {
+      "word": "정책",
+      "count": 3
+    },
+    {
+      "word": "철도파업",
+      "count": 3
+    },
+    {
+      "word": "운행",
+      "count": 3
+    },
+    {
+      "word": "결렬",
+      "count": 3
+    },
+    {
+      "word": "안전",
+      "count": 3
+    },
+    {
+      "word": "사망",
+      "count": 3
+    },
+    {
+      "word": "증가",
+      "count": 2
+    },
+    {
+      "word": "노동의",
+      "count": 2
+    },
+    {
+      "word": "제언",
+      "count": 2
+    },
+    {
+      "word": "서울시",
+      "count": 2
+    },
+    {
+      "word": "모든",
+      "count": 2
+    },
+    {
+      "word": "인천시",
+      "count": 2
+    },
+    {
+      "word": "감축",
+      "count": 2
+    },
+    {
+      "word": "일부",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "논의",
+      "count": 2
+    },
+    {
+      "word": "개정",
+      "count": 2
+    },
+    {
+      "word": "노동조합법",
+      "count": 2
+    },
+    {
+      "word": "약속",
+      "count": 2
+    },
+    {
+      "word": "앞두고",
+      "count": 2
+    },
+    {
+      "word": "협상",
+      "count": 2
+    },
+    {
+      "word": "수도권",
+      "count": 2
+    },
+    {
+      "word": "개최",
+      "count": 2
+    },
+    {
+      "word": "국토부",
+      "count": 2
+    },
+    {
+      "word": "비상대책본부",
+      "count": 2
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "12.10",
+      "event": "서울지하철 9호선 오늘 막판 교섭…결렬시 내일 파업 돌입"
+    },
+    {
+      "date": "12.11",
+      "event": "서울지하철 파업 'D-1'...노사 막판 교섭 돌입"
+    },
+    {
+      "date": "12.18",
+      "event": "철도노조 23일 총파업하나…성과급 정상화 논의 '파열음'(종합)"
+    },
+    {
+      "date": "12.24",
+      "event": "초단시간 노동의 증가 요인과 정책 제언"
+    }
+  ]
+}

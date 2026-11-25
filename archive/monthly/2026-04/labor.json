@@ -1,0 +1,403 @@
+{
+  "month": "2026-04",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:14.324Z",
+  "articleCount": 180,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2026-04#t0",
+      "title": "“1년 미만 계약 금지·공정수당 최대 248만 원”…공공부문 비정규직 처우 대수술",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "공공부문 비정규직 공정수당 지급 1년 미만 근로자에 수당 최대 10%",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWC1TSkEwdW1kdUNmengwcHNHTngtRmNTRUM4aEF6TDRkUXU5LTEwSE8yNGtZMXdZOHVhRnFvX01zam83aTJQOURZLUhfMnpJOFZWYzNZWkt4RllFcW1OemJrcmNhWVBTTE5uWkZDa2FzT0NKS1FWOHgxaXpPSk85S0I0MXoxUjVaX1MxdUdaMndKd3V1U1FaTGphNWFCYlhJSExKdHBjZzZiMm80Y1BBWEVkNUQtLWRBZmtGTldxTUk2eFJEZlpZ?oc=5",
+          "source": "K-공감",
+          "publishedAt": "2026-04-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“1년 미만 계약 금지·공정수당 최대 248만 원”…공공부문 비정규직 처우 대수술",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mRUxnYUZoSnBNUWo0WlRlZ3E2T0hjVFlFSEc2aVJDSFBhcUk1aFRmWG5LbjQzcUFyaDRQYnF5eFlXQkp3eldKMUhqc2lhcThVMTNiWmhXZndCZTgzRUZISUtUdGljaXZvYVE?oc=5",
+          "source": "미디어생활",
+          "publishedAt": "2026-04-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"공공 비정규직, 1년 미만 계약 금지·공정수당 지급\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zc0lJeWVSMVV2aWJ6MFFZNnFlVTZjQVpTczd5aVNENW1uVlJrYW11YlBKRWd0WFVqRzZEdDU4R3AyTnJfTmxnTjBxNVhOX0FyVG1NT2czQm01Q1dVZUE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-04-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t1",
+      "title": "총파업 코앞인데…삼성전자 노조위원장은 해외로 휴가",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "총파업 예고한 삼성전자 노조위원장, 동남아 휴가 떠났다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWdNYm4ya19scXg1WGxCb2RIaVJYYmQwZXJyZ004cmxEa3BxY0ZzektFWG02RzZ1Y25ocTJlOWhsYndSYWhHV01rY01SWF9UNEFYWkhremhzZXo4RUVRb1I4T1F6MFRJNkFRcWxuOU1OUUsxT0Z4UmdEOEc1MlZuZ2dn?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-04-29T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "총파업 코앞인데…삼성전자 노조위원장은 해외로 휴가",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jdnFGZkRkREZJM0FrbXpyNlhzN0Z6NE5ubURfQ0U4MkJxU2tRYTBZdjdiRUN0MlFScDUyVjZPdXgwQUxReEtWUmFESHFZZnU0VFFfR3M4eXFOVjDSAWBBVV95cUxORjNFb0RlMHFtbm03NlBnWWwtT0VaTy1pRi03dDFvZnNsM3BKc3k3S0xpRVJrdm9KOGpOTzJXTHdNa19VNl8yYTlBSlNxelZUeE54XzZBTmtiUnhKaEF3MFY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-04-28T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "총파업 앞두고…삼성전자 노조 위원장 ‘해외 휴가’·회사는 ‘근태 관리 중단’",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YZTN3ZEtYdmpiRWViaUVRcmhMOEZVQVN3eE9qVTBicGMwMEx6bTlTbEdOSVRSUDNQRWJzTWNKWkJRUGtZcUI1UkowM0FXN1VwNnZhQVBzVllUZnc?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-04-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t2",
+      "title": "삼성전자 노조 \"성과급 상한 폐지...4만 명 참석\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "삼성전자 노조 \"성과급 상한 폐지...4만 명 참석\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TOVdJUVZlT2xfUEVNYlNfZ1g4SHk5VUtjSHhJcjBGMU1aNG5KRXBrWVNPUkhyWUFkNjBJbTZiaFZzc3lLc1VkLUJPa0NXZWltQXU4VER0QUJoZ1h0Q0E?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-04-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"성과급 상한폐지\" 4만명 모인 삼성전자 노조, 성과급 분배 놓고 진통 지속",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ed1cxQW1vbVVNRXBFRmtSbXNRTHoxZTY0MVNfS2dLbTEzVGFJbVVTc2plWGF5MUNJUzRDSTVtU1N4VVVWZ25LcFNMY1ZwQjdIcjhBWmZPQUlHTDRoZXJvMHI4bWhsTTlhVmZNZks2UC1GZw?oc=5",
+          "source": "인더스트리뉴스",
+          "publishedAt": "2026-04-23T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 노조 4만명 집회…\"성과급 상한제 폐지하라\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNR0lJbS13cEEwS3M2QzQ1b0gtYkVua2l2TllTdS05aDV3NHdsZDl5MUtvVTNwVDF4QmJDbFFIclBXZXQtMVVROTB6Q0p6OG13WUozYTdyb0paMUHSAWBBVV95cUxQNUFBOGZfVjQxVE55RnlkWEctbVZMOFhEcEgzTk03UEgwcmcyeUVGcC1vNEg1V09WV3BuY0c2YURYSVNCeWNHWVo4M2JWNHBkT25DWkRWOG5kM2daNlVzN2E?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-04-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t3",
+      "title": "비정규직 임금, 정규직의 65% 수준…격차 10년 만에 최대",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "비정규직 임금, 정규직의 65% 수준…격차 10년 만에 최대",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtSEc4NUZkRGhjMFBYdjBCLWhadEFYS2hSRVNmbVkzcV9CUkJwdUFBVmp4LVplLTByUTMwWmREZFdaSzhfQV8zVVlveGttV0FFY0hDeGFR?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-04-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "비정규직 시급, 정규직의 65% 수준‥격차 10년 만에 최대",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJbFlVcV84NlZYR3pqR043c2l6S2hlVUFvc0o5NnNUekVrLTJWem15SFUzWG5xMFZhTkZ4SFd6b2dnUUMyMVRScm83NmlPWmJXRGg2SkZfRWthN0F2RzA0Y1JTNGNfNW45T1BRLWNYSFdTNmdYc2Qw0gF3QVVfeXFMT3R3VFdRSGp5V1dwMndMVzhaXzVVbndSZmgwVXhxWjliWEtKVGtkc3NmVDFSSS11eGo0T0ttMTZMazBkUXNBenR6eDg3bUNjSUxWY0NnTnUtcFBDZFd5cFRpRlBnd25XY1d0cU9PS3hoSGh6M0tOLWM?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-04-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t4",
+      "title": "정규직 100만원 받을 때 비정규직 65만원…임금 격차 10년 전으로",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "정규직 100만원 받을 때 비정규직 65만원…임금 격차 10년 전으로",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXhWWHozbDhJb0s1cTBwb1hHMno0TTVlTTB4RHBFZjRSbFJXYlNYSjBGX3pmYjVydlVoVkZURXJBZFBvbE1VckFwQko2QzNSUGNrcl9hbVZuSmtidHMtQWtaWHNzM1lMZmNLT3oxQ0g0dF9vSnBrNmxCeW5HODZLM0RB?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-04-30T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정규직 100만원 벌 때, 비정규직 65만원…임금격차 1년 전보다↑",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fM3cxZWE4ejZwb0JFd3YydXE1UU5MTHJONWFlVGxxSmo2WmN5VVVWNFExd0tmVVNmZUgyS3hXXzltcE1KZHhFWHRBMjhseV9FS09GN2FuYU12NHhxdUtyYWY3Qkg?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-04-30T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t5",
+      "title": "\"삼성전자 파업, 수십조 피해 넘어 공급망 회복 불가 훼손\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"삼성전자 파업, 수십조 피해 넘어 공급망 회복 불가 훼손\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FRFVGOFRJbjR0REZvMFZIa09nVXhzUnJTZDFTWUR3b0RRRW1xb200VTR4YmJZTjFQb3N6ODNLSm5tX2lzdlBoc0VBMzIyc0xiSzhpcUNReXNQbU3SAWBBVV95cUxPWG9iWmk5em5nLUc2NU5iVmstLTZiaFZIMWhWd1ZfTFJTdWlxRDhQV1dqY3p1c3hDZi1Wb0JFS1RQb1hidVFzR0dqZXgzZTF1aVhxaEZmcUxkbzYwWk8zNzU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-04-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 파업, 수십조 손실이 끝? “회복 불가 훼손” 섬뜩 경고",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UdTBDanNyc1BwcUt5STRtNmw5Rm1YNUJPUXFJTXpfQllQbFFsR1ZTOXN2SmJIVV9Zemk2LUlVVnZGS0NRNkpjbnBReDJQRTVaYTFxS2l3?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-04-25T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t6",
+      "title": "\"더 이상 죽이지 말라\"‥노동절 앞두고 이주노동자 집회·행진",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"더 이상 죽이지 말라\"‥노동절 앞두고 이주노동자 집회·행진",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54d3RFMXNpVG8wb0tscnJfQ28tZlhuOXotek5FWVJBS2ZWVkpGTm9CWGJsYnYtQTlaaDZUR2R1ZDJqb1JRUGRFNmNVVUwzamx4NUlGUDYteV95WkdKRk03Vm9fRDJ5ZXBvSUU0VWdjUUNhRHBVTUFv0gF3QVVfeXFMTXMtZGtLdGsyUnBETGNrVzJkN2ZQd19hemUxdnFiWW41ZDJ1M05Qa1c0SjEzZHVSM29PZWVfS19rSWg4VnhkNE10bHRocDhZNHhXM0l5Vnp5ME4zbG0yOG1OaTkzanF6SWVBcFpNNy00U2hMQ084LTA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-04-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "에어건 등 폭력에 노출된 이주노동자들···노동절 앞두고 “더 이상 죽이지 말라”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1taWFHcXMzR3hVVWlxZVRGZnNVbm9qN1pTTE4wV3ZXSFVvRVJKUHJBQlJDQkw2X2hGRDRMN3UzenVaZUZ0a1M1RmxEQkxRRDB3WE4tQkVPeGVCUdIBX0FVX3lxTE9GRldFZ21pWkZ3WXhwUkhYZ3oxQUxWR25jZUhxWlBvczhoMjVpTE1VWmkyTGtaaDROYkxLUEJGT3JRN1VZTXlkSTl3eDdmMklqdVVhVmNaRno4Yjhoai1B?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-04-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-04#t7",
+      "title": "노동절에도 못 쉬는 이주노동자…\"노동권 보장하라\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "노동절에도 못 쉬는 이주노동자…\"노동권 보장하라\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RX3hLcl9STk5nbGxYbmVSa0dWVTVWX0JJeGlvY3VuelVnbG5ObzRuZ1J1dnBFaTNEU1FBMTB5UWczZFlFN1I1SFNBQU52b0RqdGo0a2hGX1ViT01nVHlpNVl1QmtieU0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-04-26T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"우린 노동절에도 못 쉬어\"…서울 도심서 이주노동자 집회·행진",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QUVM1WVdNZUNOeFlGalpINDIxUkN4emRzR2hmM2xDOW1adlQzZW1iU1U5NUpHbk5ncDBzMXhYS2kwYWM5Z3N6MVJZXzVkaTNORnR6U0ZKZEw5cGvSAWBBVV95cUxPcnpDSHNONEttckRadEJyV1FlRy1hdjhwanVGYkotMnRQem55OTFtTnBJcnlhNnBZZjY4WEZ6WXI4QWVKOERCb0lhYTNTbTh2TDRHVDNIWUJVMmF5eDltaC0?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-04-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "삼성전자",
+      "count": 33
+    },
+    {
+      "word": "성과급",
+      "count": 19
+    },
+    {
+      "word": "집회",
+      "count": 11
+    },
+    {
+      "word": "노동자",
+      "count": 9
+    },
+    {
+      "word": "총파업",
+      "count": 9
+    },
+    {
+      "word": "공정수당",
+      "count": 9
+    },
+    {
+      "word": "넘어",
+      "count": 8
+    },
+    {
+      "word": "근로자",
+      "count": 7
+    },
+    {
+      "word": "대통령",
+      "count": 7
+    },
+    {
+      "word": "최대",
+      "count": 7
+    },
+    {
+      "word": "공공부문",
+      "count": 7
+    },
+    {
+      "word": "원청교섭",
+      "count": 6
+    },
+    {
+      "word": "노동절",
+      "count": 6
+    },
+    {
+      "word": "정규직",
+      "count": 6
+    },
+    {
+      "word": "사망",
+      "count": 6
+    },
+    {
+      "word": "인정",
+      "count": 5
+    },
+    {
+      "word": "책임",
+      "count": 5
+    },
+    {
+      "word": "미만",
+      "count": 5
+    },
+    {
+      "word": "위험",
+      "count": 5
+    },
+    {
+      "word": "가장",
+      "count": 4
+    },
+    {
+      "word": "CU",
+      "count": 4
+    },
+    {
+      "word": "휴가",
+      "count": 4
+    },
+    {
+      "word": "원청",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
+    },
+    {
+      "word": "지급",
+      "count": 4
+    },
+    {
+      "word": "하청노동자",
+      "count": 4
+    },
+    {
+      "word": "외주화",
+      "count": 4
+    },
+    {
+      "word": "여전",
+      "count": 4
+    },
+    {
+      "word": "죽이지",
+      "count": 4
+    },
+    {
+      "word": "외국인",
+      "count": 4
+    },
+    {
+      "word": "신뢰",
+      "count": 3
+    },
+    {
+      "word": "사측",
+      "count": 3
+    },
+    {
+      "word": "쟁취",
+      "count": 3
+    },
+    {
+      "word": "노란봉투법",
+      "count": 3
+    },
+    {
+      "word": "교섭",
+      "count": 3
+    },
+    {
+      "word": "고용노동부",
+      "count": 3
+    },
+    {
+      "word": "해외",
+      "count": 3
+    },
+    {
+      "word": "리스크",
+      "count": 3
+    },
+    {
+      "word": "이재용",
+      "count": 3
+    },
+    {
+      "word": "대상",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "04.23",
+      "event": "삼성전자 노조 \"성과급 상한 폐지...4만 명 참석\""
+    },
+    {
+      "date": "04.25",
+      "event": "\"삼성전자 파업, 수십조 피해 넘어 공급망 회복 불가 훼손\""
+    },
+    {
+      "date": "04.28",
+      "event": "“1년 미만 계약 금지·공정수당 최대 248만 원”…공공부문 비정규직 처우 대수술"
+    },
+    {
+      "date": "04.30",
+      "event": "비정규직 임금, 정규직의 65% 수준…격차 10년 만에 최대"
+    }
+  ]
+}

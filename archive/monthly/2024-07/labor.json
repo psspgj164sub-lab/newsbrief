@@ -1,0 +1,400 @@
+{
+  "month": "2024-07",
+  "category": "labor",
+  "ai": false,
+  "builtAt": "2026-11-25T05:39:11.141Z",
+  "articleCount": 269,
+  "summary": "",
+  "topics": [
+    {
+      "ref": "2024-07#t0",
+      "title": "2025년 최저임금 10,030원",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 5,
+      "sourceCount": 5,
+      "articles": [
+        {
+          "title": "2025년 최저임금 10,030원",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QTDZiMF9pdTg3aF82ZGVkTWUxQ0NLOUpjOEp1c1ZQQ2ZKdnB1Y0hnYmNnajN6X2wzRkJvdnoxODRWejRjRTlmcmVlM2FkMnBoUTluVHZGYngxM2g5TWc?oc=5",
+          "source": "뉴닉",
+          "publishedAt": "2024-07-21T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025년 최저임금 1만30원! 최저월급·연봉은 얼마?",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQX29Xc2RwUWNIYUxMTkVzaDlreDBFMW8waC11R0JEQ094TkdHZm9pQ000YVBCc2prc0RvNEQwTFFITGpVY1RsWWxVdHl1Q0Q0ZEZUNHpBdHN5d3h0TWVrUWx0V043U1ItZGF2VFU3cTUyZVEwWnE2V29LT2o5Skp2eXJjTnV4aFpJTmN4UWF2ejZqTjZxYm1TZ21DSjRmV1ozV1Q2c05JdGdKYWtzUkFZNFBqMlNRamo1Nlh0Xy1ZejFrVGdHaEZiM1o0S2xBbDc5aXVxWjdCVVVibVpkOWJncEM3aUpyeWNaZ3J6RUl3QVJROXI1NU0yaUl5S25fcmVzelY2d0ZBbXctQkhmZ2xubnlQa3MyalBwN21SUDI2ekRacnhsVWdRZVVsUQ?oc=5",
+          "source": "잡플래닛",
+          "publishedAt": "2024-07-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "2025년 최저임금 시급 '1만 30원', 월급 '209만 6270원'",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nUG85M2lBWHlWR09LakhsbVFiNFlrY2FhYm9uT212UE1KMkx1TGdpWVJWcWFnN0cwSm1zOTZCMjhmckJfY3JHTkhfNGdLel9GTnNmYmhwOHMxUE5tSDlyek9UTkNCSlR1OElDaEJB0gFyQVVfeXFMTkZKRzhnd3M0Zm5pSzg4WkllTnJSRC1PUjNObEZpYkh1X01GZTlSelJKd0twOExCRnlxa05jaHJVcGxQSGtFWEhsN2NKYjRHbWpwSlhjUVNlTlIwd0lWU2s1X0huenpqZTJSckRNYWZCenZ3?oc=5",
+          "source": "에이블뉴스",
+          "publishedAt": "2024-07-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t1",
+      "title": "내년 최저임금 1.7% 올려 시간당 1만30원",
+      "summary": "",
+      "importance": 5,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "내년도 최저임금 시간당 1만30원··올해보다 170원↑",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ySHc5M09lOERqOC1fOTk3ZXRsVmIyVkU1V1lma3RvbUhaZ0FIQ0c1Y2Q5c1VybE02bTBpU2lBRmhlUmtkUlJDMzYzOXN4by1TY0dRZXk1VkhxSnJXRURUODFqZUQ5aG9ZZEE?oc=5",
+          "source": "미디어생활",
+          "publishedAt": "2024-07-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최저임금 170원 올려 1만30원…노동계 “실질임금 삭감”",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ZXJHcDZLdVotNnk3TGp1SHFsSmRUZVlSTW5STnh4Nm03QUo1ZVd6OEFoSFM4WGtMczgyTVN3WE13OTAwd09xUTBkbEFLYXU5U3o0Y3dVRnF6M3JubHRCczFsOWQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2024-07-12T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 최저임금 1.7% 올려 시간당 1만30원",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjZ1TFZDMHFlZmhOck9kZS1jT25sM1ZlZzNuMHFtZkNVTUYtVjNEMGY4aG9tN0xPZldobDB3MlVGRVZsMEdKWWM0RjhQbHZ4Y01CM3VmOGp2VmhIVVV5cFpQdjMzaVFtUjRtYzZxd0NiMTBvUXp0R3R6RWo4X0RTOHRn?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2024-07-12T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t2",
+      "title": "\"국내 일자리 12%인 314만 개, AI 기술로 대체 가능성...고소득·고학력일수록 가능성↑\"",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "\"국내 일자리 12%인 314만 개, AI 기술로 대체 가능성...고소득·고학력일수록 가능성↑\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hRGdWb1RoY3p3a2t6NDRlcGFOYWdJTHg3ZlBWbVU1NFpiMVFNSEJIN01WeXFuTExWelFZVzRCTnFBQWRFWVBvZnpSNHpoaElhOUhHakVjai1TVmVuX3I2Z2M5Z2J4WXc?oc=5",
+          "source": "대학지성 In&Out",
+          "publishedAt": "2024-07-27T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"AI로 일자리 341만개 대체…고소득·고학력일수록 가능성↑\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4aFVVOTdVNTlHNzhrcHhFaVV0cDdRTGo0YlFjbWl4UXk3dlIwV29fTUZoRWc3TWpqN0pxTGZYSTlfd3ZBT1ZvV2tkaGw5UFZRbUdLSE9fVXlveDDSAWBBVV95cUxQa1liWE5NREVKeTNRY28zUmpOYjZRd3ZQMjg4dTRhcktodjdLc2NHNDZKU3VfSTZPMFlSRUpQYjlrcjFqRk1zSGdGX19nOEZqZ2xvR2IwOWJBYUpZNHJ5WFo?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-07-15T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t3",
+      "title": "연구실안전법상 의무 이행과 중대재해처벌법",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "연구실안전법상 의무 이행과 중대재해처벌법",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uOUJIMnkxSl9HWEVGaVRfVXJ4T2RpRlRUYjFXWksyVDNNZzcwYkRlaWROUTVuYUNyUi01dlMwNmU1dnRwY0JrYmJOZTBjblV3TXhVTXByX3QxSTdfeGZNb2hlZnUtbW8?oc=5",
+          "source": "안전저널",
+          "publishedAt": "2024-07-25T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "중대재해처벌법상 의무이행의 범위 : 기업이 알아야 할 것들",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnRldFNsT1hkdjRHYWVUZ1gtM0ZuWkZSUTRIQk12V01KTWRiUVdaTGtWU002WW5DWXRnOS02SnA2ZGFqQXVnLXdZcXJmY2M1QUhERHRMMThzLVI3bEtjSENLRE9vT2JJenRzYnlqYy1oV094NDVWWHRyNEQzOXVxSmpmcm5vM0dMSWxlTjV3?oc=5",
+          "source": "월간노동법률",
+          "publishedAt": "2024-07-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t4",
+      "title": "“일자리 90%, 6년뒤 AI로 대체 가능”",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "“일자리 90%, 6년뒤 AI로 대체 가능”",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kU2FuR1h0cUQ4Z1oxWGJkZFVLeFlPNUY1UFE1Q01rS3JYU1o4cXhwZ3NIZUxBaTVrX0ctdGdaNDQ4Wl9vYTVGLTJhb3RiUjFGd1h2V2RTX1ZtWTRrMF9zUVk2Tm5KSm1ZTkpxRUpMYjhHZVFEaXfSAWZBVV95cUxQblhzV1BUYlhQNWJNX096ZkNOY1NBQ3oyQm5XS2YtcnlwZTFqZ0VZdU1zS0ZhZWItM3NkdUlkQUxFQkI2bXZ0NXl3dWlFYjljczliSTRkeWNlc2tlU0VJUnBteTQ2OFE?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2024-07-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"국내 일자리 341만개, AI로 대체 가능\"",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3NwX2pXS2FkandUbU1qb3JXNkhsZkFlMmtHVE1MNzR4d0tnTkZ2cVhHaUM1TXVkb0JkalIwbThweVlRalNGa1NkYkxyN2Y4WHRPczdCeEZSTzRGTmlhNjZFdjg0Vlh4RXhTMUtFejBrVFd2bi16VTl5bmJRd28xOEtZdDZRNFY3WWVrQ0NR?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2024-07-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t5",
+      "title": "'19년 5개월 야간 교대근무' 간호사 유방암 산재 승인돼",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "'19년 5개월 야간 교대근무' 간호사 유방암 산재 승인돼",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54T1F6LUhEVW1MVTVSUGNxYnVGVXBOcmt4V09PUkI1a2ZqbXVyb05aUUYyMXNQZkNfVGtmbGRacnJJRmFvTkN5SFEwdC1rRUlFaTMzQXRLNlFlT1HSAWBBVV95cUxOdnhySElwR3BaRnRCZjhrSVlJQm5XVmVSSjYycTBDai10SWNHRVg3NXdvRklHUGlpWWlZZy1mMFhPRGllQ2wydnd0VEdKMkJiM0xlY0ItSk56SG1aMTJtS1Q?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2024-07-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "19년 야간 교대근무 간호사 유방암 ‘산재 인정’",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04OHllR0lDV2xad0VweG43dWNJci1TZWU4dmVNcUVpbGVuWWpMTlJhQkVUV3FyOG9FczM5Tjc3UHEtZEU4OHExRnAxLVZpaXZDeG1NUDNUYWtFcG00Y2RHVlM1YXluSnZJSnliai05eS0?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2024-07-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t6",
+      "title": "대만·美·日과 반도체 전쟁 중… 삼성전자 노조는 무기한 파업",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대만·美·日과 반도체 전쟁 중… 삼성전자 노조는 무기한 파업",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWhJWUlsM1ZLNU84MWRQdHRvcjNpZmVDaTlWTEVOT2pKU3k2ZWEtaXVZQVhNdzRSSW9mX2ZQRnFWdjJZcUV1Q0o5cDA5NmpTTExMWTI0RHZkaU9XWXRScWt6UVpOZ0RhT2xFVV9FTEJ3dl9kWVdfQkZybDhYNzctanJPRQ?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2024-07-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자 노조, 오늘부터 '무기한 파업' 선언",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OWEtYODdyaHByZTVQdm5TY1dneHFMOWxOWnlHRlRudzRfeFQ0WDduZXRScTJRdGlWQlJoOUktb3UybkVIMUpYXzhNY1dhUjdDN2NZNTROYzA0d2IwbWhqdVlycUpucEdEbTBLTUJsdw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-07-10T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2024-07#t7",
+      "title": "대법원 \"집단 해고된 아사히글라스 하청 근로자들 직접 고용해야\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "대법원 \"집단 해고된 아사히글라스 하청 근로자들 직접 고용해야\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtV1lyQTZyMUE5N2RLZEtlT0M3RXY0bFZqLXVfbWpVTXh0NDlOSEstbm51M19ZRU5VeTFxTjR5UUwwQ1R6Nzd5NndEcG9YZ0FBWjh0cGxMdjhrSnBVN1ZkVlRIRUYwWmNDWGZfUkZ30gFyQVVfeXFMTUF1Q2NYOUItU2dIZ3VGcl9ObVJwaC1OQlF1dnRpekpaSFB4OGFTZ2YzS2E4UUpNdzV3MzByc0Vpa3U4QVZGNzgtc2UzUUQzME5DSktyeG0wOVZ3QzNpMGxhWXd0bF9DU091azRwVFI1NWxR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2024-07-11T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'문자 해고' 아사히글라스...대법원 \"하청 해고 노동자 직접 고용하라\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yNjZ3RmhRbjlLTGZTaVktRXVaWFFfZUtlQXByUkQxVlA4YUpxUWtRWm1ZSS1PdlcyaEppRktwdVUzTW5DcnY5b28tZjR0ZGRHc0JHZlczaklTemdGOWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2024-07-11T07:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "word": "노동자",
+      "count": 17
+    },
+    {
+      "word": "삼성전자",
+      "count": 11
+    },
+    {
+      "word": "AI",
+      "count": 10
+    },
+    {
+      "word": "시대",
+      "count": 9
+    },
+    {
+      "word": "대법",
+      "count": 9
+    },
+    {
+      "word": "인정",
+      "count": 9
+    },
+    {
+      "word": "노동자들",
+      "count": 8
+    },
+    {
+      "word": "불법파견",
+      "count": 8
+    },
+    {
+      "word": "쿠팡",
+      "count": 8
+    },
+    {
+      "word": "근로자",
+      "count": 7
+    },
+    {
+      "word": "외국인",
+      "count": 7
+    },
+    {
+      "word": "현대차",
+      "count": 6
+    },
+    {
+      "word": "아닌",
+      "count": 6
+    },
+    {
+      "word": "아리셀",
+      "count": 6
+    },
+    {
+      "word": "산재보험",
+      "count": 6
+    },
+    {
+      "word": "위험",
+      "count": 6
+    },
+    {
+      "word": "아사히글라스",
+      "count": 5
+    },
+    {
+      "word": "반도체",
+      "count": 5
+    },
+    {
+      "word": "인상",
+      "count": 5
+    },
+    {
+      "word": "가능",
+      "count": 5
+    },
+    {
+      "word": "대체",
+      "count": 5
+    },
+    {
+      "word": "중대재해법",
+      "count": 5
+    },
+    {
+      "word": "총파업",
+      "count": 4
+    },
+    {
+      "word": "하청업체",
+      "count": 4
+    },
+    {
+      "word": "위반",
+      "count": 4
+    },
+    {
+      "word": "업무",
+      "count": 4
+    },
+    {
+      "word": "법원",
+      "count": 4
+    },
+    {
+      "word": "수준",
+      "count": 4
+    },
+    {
+      "word": "가입",
+      "count": 4
+    },
+    {
+      "word": "강제노동",
+      "count": 4
+    },
+    {
+      "word": "노동계",
+      "count": 4
+    },
+    {
+      "word": "참사",
+      "count": 4
+    },
+    {
+      "word": "장애인",
+      "count": 4
+    },
+    {
+      "word": "차등",
+      "count": 4
+    },
+    {
+      "word": "고용보험",
+      "count": 4
+    },
+    {
+      "word": "도입",
+      "count": 4
+    },
+    {
+      "word": "대법원",
+      "count": 4
+    },
+    {
+      "word": "직접",
+      "count": 4
+    },
+    {
+      "word": "변화",
+      "count": 3
+    },
+    {
+      "word": "참여",
+      "count": 3
+    }
+  ],
+  "keyEvents": [
+    {
+      "date": "07.09",
+      "event": "2025년 최저임금 10,030원"
+    },
+    {
+      "date": "07.11",
+      "event": "연구실안전법상 의무 이행과 중대재해처벌법"
+    },
+    {
+      "date": "07.12",
+      "event": "내년 최저임금 1.7% 올려 시간당 1만30원"
+    },
+    {
+      "date": "07.15",
+      "event": "\"국내 일자리 12%인 314만 개, AI 기술로 대체 가능성...고소득·고학력일수록 가능성↑\""
+    },
+    {
+      "date": "07.16",
+      "event": "“일자리 90%, 6년뒤 AI로 대체 가능”"
+    }
+  ]
+}
