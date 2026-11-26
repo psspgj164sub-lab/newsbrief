@@ -2,8 +2,8 @@
   "month": "2026-11",
   "category": "society",
   "ai": false,
-  "builtAt": "2026-11-26T05:05:16.571Z",
-  "articleCount": 296,
+  "builtAt": "2026-11-26T21:16:58.930Z",
+  "articleCount": 297,
   "summary": "",
   "topics": [
     {
@@ -11,8 +11,8 @@
       "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
       "summary": "",
       "importance": 5,
-      "articleCount": 7,
-      "sourceCount": 5,
+      "articleCount": 8,
+      "sourceCount": 6,
       "articles": [
         {
           "title": "민주 “조희대 탄핵 사유, 판결 내용 아닌 절차 위반 문제”",
@@ -39,48 +39,79 @@
     },
     {
       "ref": "2026-11#t1",
-      "title": "교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+      "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
       "summary": "",
       "importance": 5,
-      "articleCount": 7,
-      "sourceCount": 5,
+      "articleCount": 4,
+      "sourceCount": 4,
       "articles": [
         {
-          "title": "교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPaXNpNTRDZEtEOHB5WUpsQkVnRkhwVWlQLWxocEtRSUFZNnp6LVNiZWV5QU0ybTBLalBsNFlBaHptT0xhaUFfSWU5SnJDdXdWMXh1VzFoQmVoODDSAWBBVV95cUxOaEdVMGpYb1BRcmVXa3FLMzFNc0hOal8waTFScURiMmRUOXhyMklaOHF6Uk4xc2pIaTZTVG16MUQ4V3hVeGxrdGxobEJnWEhIU1pFbWowYktkZGwwb2RIelA?oc=5",
+          "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOanV0YVZsWkQ0cmtvQVBVVWFxZVd2SWtPYktObDZrTl82ZjJiSTJFdnlUMDF5NDJ1eUQtVnRrMTFMbDB0YXFaNWoyMGZnbmhEZVBuLWh2dFBtYTVUbURSeTNJNTdvSllBWDdyNXhkaFZUdnNuYVVBT1BGR2Y1VDRCQnl6Zk0yT2pGcEJ0SkJ4V3Y?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-26T10:19:50.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, 'AI 커닝' 세무사 수석 구속영장 신청…범죄 중대성 고려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15UnN3c0tTMnZjeFpCS0xOZEd3NDlLbmhMeXl6MWZtTjJMY3lfQkJkbF8tdjJ4MmFDWE5zYnEyN1lmSXEzRXVUMWFqSmhOaHB3Zk12c3FqdEZYR2fSAWBBVV95cUxObUp0QjR6THh2dmJwUV90b280cGljX2w2Z2JvcjNOVlluelRQLTBuTWFGdkp6MFZNYVphbHZUdUtzMFFjNnItdnF2Q2FsNFNVclhqNExpWWpwa19iYmRUMFQ?oc=5",
           "source": "연합뉴스",
-          "publishedAt": "2026-11-19T02:24:06.000Z",
+          "publishedAt": "2026-11-26T10:19:08.000Z",
           "kind": "news"
         },
         {
-          "title": "교육차관 \"위급재난문자로 부정행위 22명 적발…첨단기기 사용은 아냐\"",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94T0I3V1pMaE0zN0VjbDloZnRoYVMxOWdrR0lGNklUVnlHeGtPMGgwd080ZFphSklrcXZhWmNiWkUtM2RhZ1dnUWhCcUZkSXd0U0VYZXdycWFuekJSQktxTmtEN0VIcTA?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-19T02:07:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "교육부 \"수능 위급 재난문자 발송으로 22개 스마트폰 적발\"",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxeWZjdGhOWGRNZWU0NklXQmVJdFlmZl9qek1Uck9fb2xPd2pBNTdEZkJHcnEydWtLcjR4aUpDM21Jb3lzOENBYUFoZVNNV1pxQm53Yg?oc=5",
-          "source": "JTBC",
-          "publishedAt": "2026-11-19T02:06:00.000Z",
+          "title": "경찰, 'AI 부정행위' 세무사에 사전 구속영장 신청‥\"시험 공정성 훼손\"",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jOTZhdWhUc2lGclNydWlydzFxNXRWY3huUzNZVE1kV2ZoSGVXaUYxYnN6S2xiSnNydUZDalRUU3VuWnZHckItUkF0ZHNWb1dwN1pNWTE0aU43Yl9UR0VHX3p0YTdZWGZDOXQwc29WMFYzQmUyR2xN0gF3QVVfeXFMUHQxVE5uNGUzSFlhdnh3b0tUcUoxT21jb3Z4cGhDNDlRcXp2RU56d2RoTUVUOFVYZzhBWlJWdEhvYXFXQWZnQlA3QzBKVDk4NXRHTVJOYTljd2NYRjNXa2NvSE1sYk5Gcll5V2kyOHVsTTg5TjBkN0k?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T10:14:03.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t2",
-      "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
+      "title": "경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
       "summary": "",
       "importance": 4,
-      "articleCount": 4,
-      "sourceCount": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
       "articles": [
         {
-          "title": "법원, 김수현 소속사에 쿠쿠 모델료 8억여원 반환 판결 : 연예",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02SHRvUTNGa0tBU1NiekNiNUVqd0dpNnV1Q1BQX3E3YklhaFFjcnR6ZlhHWGJxdm8xM2k2RXVxV1BPTEdLbVItaDVxdw?oc=5",
-          "source": "재경일보",
-          "publishedAt": "2026-11-22T01:41:09.000Z",
+          "title": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMkFXQ1hzQTh2MVpsQWZKV0dLakpHRDlaRnlxZTI3VDNtazVkcEdYMldmZnRITFo3d25FdmJTemVUOEhTYnZqTWRHRWw5cTY3Wkdld1h4T1BJdVNnMVllb2NHR2xZdWhEbWliU0gzX056MHdULUhB0gF3QVVfeXFMT2lMbmUxMmVYdWNiUzBZN0xwdzNWZkhoNHZ0MU1sU0VCdS11a0I1bHpqeGlZZVZqbnlrZWxsbzlfVnU1aGViSVNZTldrT0lIQnJyMDF0QktzQmx3RlA4OUM3YmF4MlE0RVBWN09DQXNTS2pGMVM4ZE0?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T02:33:31.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04b1dtdU1tMmR3TXJiMEdBMmc2UzUySy10cmlrVTYtSnRyYUktQi1LY1AxOW96ZVhTQW1tSzNSVm80bmpxWHg5WE9zRkR4MjlhSkVJNlRfdWhoUdIBX0FVX3lxTFBGcEptbTRZYzQ3c3ZUZUdlNVFrYzEyRnRCUkhqRVZ0dUpodWN6ZmxwUTdBNkl2NU11NFFkSi1rZlAtOGE4U2FtbmlUR19Dcmk3NlpUNmVvUnhGekNCSjZR?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-26T02:11:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, ‘리트 만점자’ 주거지·수능시험지 보관 고등학교 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tZER3RmJiRXBEQXNvdzNIVmY2RUJrYXdDRi1mcnJWVGF2X1hNMUlidGFkZUhaYVVRRFlPRjhPbTIxUlBQSFgwV002V1V3SktwNDVQSGFocVdTUmlsamtZQ21GUHJVUQ?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T02:06:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t3",
+      "title": "법원 “김수현 소속사, 쿠쿠에 8억7508만원 배상해야”…1심 판결",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "법원 “김수현 소속사, 쿠쿠에 8억7508만원 배상해야”…1심 판결",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tM1JwdG5fMEpKZDFoR2huQ0l2MWItRVVPbDlXei0tRDlsb2NlM3pXS2pMWU1ZaHFHbTJnY1BKamxXU19BcTNfSmNJd3FXckhKVDR5cw?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2026-11-23T08:00:00.000Z",
           "kind": "news"
         },
         {
@@ -91,144 +122,113 @@
           "kind": "news"
         },
         {
-          "title": "\"신뢰 파탄\"…김수현 소속사 '모델료 8억 반환' 판결 나왔다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUVRiWDBRdkdqZVNzX0tQRFEwZTRuVDBPbnlhc0xzV0dDWXJVcVNEel9aUk9MVWtOZmF5YndYbkZLa0dqNzB4WWlvZ3p4d3cwVGhmU3Fob1otUQ?oc=5",
-          "source": "한국경제",
-          "publishedAt": "2026-11-20T10:37:20.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t3",
-      "title": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결",
-      "summary": "",
-      "importance": 4,
-      "articleCount": 3,
-      "sourceCount": 3,
-      "articles": [
-        {
-          "title": "유엔 법원, 미얀마에 사상 첫 '제노사이드' 유죄 판결… 이스라엘도 단죄되나",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NTXN1M1JnSHNJNXVmYk5fMkZxSC1pS3otbkJwQ09IaHEycDdCczlSbVpYVWJTXzI0bDRWajBWczdNa29CeHN6d19uamVQNG1RcmhYd2RiZUdjWlE1NG13bUZrWEFacXRlVkg0Q3Vn0gFzQVVfeXFMTUxTTTJIVmtqUF8ycGpreVRSNF90Y0ZfVU9nM2VvNUVCLVRMUDJRS2g4MUw2S3NtZ3lFd3B0c3pzVHVaa1EzMVAwaFdMSVpFQldGNC1VSV9kQ05KV3dtQ2hMQ2YtRjdrdXQtOVBfdjFnbnpYOA?oc=5",
-          "source": "한국일보",
-          "publishedAt": "2026-11-20T05:20:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeU5KV3ktZUt6UXdlRzRGQktEemptSnBjZUhXN0FmVjc2WXRwcjZjZVNVUjJSSkN5ak9iMThKcUcwR1ZLcjFxc3ZhbGE4a3ZXTEhRVGtvRlNPQjRuSVk2TTZneTdvaGtNZTEtV2JsZnpULWh0SzFvQjdBNGkxOTJtZ2l6ZVZ4b2dZQndjOHgwMnZxTU1CWWViSzRaVUF1Z9IBsgFBVV95cUxPVW1BUXdvbEpadnpyWG9HTDZ1S3ZPT01EYlQ4N0lsVmg3enBKaW5DbTM5SUduZUJ1RllIWlh2YTJGSmRrYzlqM2pvY182d2J5X0RfSnRDYzh0aG9FVEJrMFRMV1EtQ1pqQkVqeTNpQ1JvVjdVb1NrQnlhaXRJZU1lS2RwT2pYRFc0Qk4yM1hJUkNCSXV0MXpTQjV6WlFoXzViam1hNGRyNzJ2eGNMVnphcVRB?oc=5",
-          "source": "Chosunbiz",
-          "publishedAt": "2026-11-19T22:34:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "\"미얀마, 로힝야족 집단학살\"…유엔 최고법원 첫 국가 책임 판결 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3bHBITTFuRlFSLVN4b2s2LW1ITXhuWDRnV0dEMGMtbGJfM3BnQVRzdzBsSVUwa0IxR0YtbC0xaUlaSUpCejR5VlNnUHRLaXphdXNIYURoamVVWW5kdUNHNWJjTWhUcFNO0gFuQVVfeXFMTmRmNGY1MFAtZkZYcElDWmhKelAtalFycXRtSjFhTm81WHRpaGhZYzVWQkxBUk4wX1ZWNDlMdWtfbTdUQzBWZ2JVb1psTDdSRlVoNGk3SzczSWJ0WnpsM19TaUR0TUxnR3h3MGM0eEE?oc=5",
-          "source": "머니투데이",
-          "publishedAt": "2026-11-19T12:46:52.000Z",
+          "title": "“김수현 소속사, 쿠쿠에 8억7500만원 배상”…법원 판결 나왔다",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Xb0pNS3poQmhlUmMtbnNBV1ZLdGNZQkQzWFh4SW1xcnlUNElfQkVuUXdFMWZhVEk5YzZoQ3ctdkk5UGZhdmcyWDRGU3hRaWZib1hPYw?oc=5",
+          "source": "매일경제",
+          "publishedAt": "2026-11-20T08:37:31.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t4",
-      "title": "이 대통령 \"수능 중 재난문자로 방해 시 그만큼 시간 연장 검토\"",
+      "title": "'만취 음주 운전' 고경표, 경찰 조사…울먹이며 \"무책임한 모습 죄송\"",
       "summary": "",
       "importance": 3,
       "articleCount": 3,
-      "sourceCount": 3,
+      "sourceCount": 2,
       "articles": [
         {
-          "title": "이 대통령 “수능 중 재난문자로 방해받으면 시간 연장 검토”",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbUhId3JVbER6TEtuSGtMcklvWHozS2xxajBoZXM5ZDk0bzZiRHN5dHRKMGcxRG1qMUpnRzROQjZ2ZTlCc0FrR0J6bklhX1Y4MzRFZFBLMTA3ZzhJMW1pb2tSNWg1cm02QmJBd1QwMlRLNklr?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-18T05:18:00.000Z",
+          "title": "'만취 음주 운전' 고경표, 경찰 조사…울먹이며 \"무책임한 모습 죄송\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JdVFSeTdjWU9MS2pFV2RhRWgtOVpWdXFZZkMyanViaEhhLWNlT0EyMWhSUklTWmRlYzM0RnJaOTVXNEhxRUw3Q21yT3B0bFkzTkdXR2t5cmpPYUNXcEE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-24T01:01:00.000Z",
           "kind": "news"
         },
         {
-          "title": "이 대통령 \"수능 중 재난문자로 방해 시 그만큼 시간 연장 검토\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMZWhZaFA0eDQ5bTBzck84aXhWdkxnLVN4SHV2dHpIMWpOd1N5MTIxNVdJNjZFcHFfZ0lzb0ZBdVpCYWtXQmp5QXVfVWhiRzVDSTl3ajg3X3lUaDQ2eUNtaEhHQkZldkJma1E3ZEotNWhvT0F4Ul9HMdIBeEFVX3lxTE5xVjlXSm8tanc3enR6d0IzdkxPaFBuZHRSQm9IYVoyRHdxcW1jWjZTZkRVV0JGVG9MVFhtc1RyQWVERXJZMTNKVzhDMk9LdlFQcGxxQllQZUlfdF9QeXJ3YWtYWkIwMi1HT2preldGdkFGLUQ0QXpyYw?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-17T23:41:52.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "李대통령 \"수능中 재난문자로 시험방해시 그만큼 시간연장 검토\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwd2hhNFZuWlJURGtCMmhKc2tQMWdSemV6ZW1PR3k3dzR1TVY1T2toMUtJMy1CVnpkdVd4VTVXRkliNGh3QTg4UzB0ZDk2ZDB4ZU5VWjRPb2NUc2_SAWBBVV95cUxPNXJSU0JiY28xS2RsVWRmempjTEJocWs2ZDRlLWd5SUFIVldYVExOS2xMMzVqV184OU1Za0FvYmg4U3VhNEJiMU0xT3FsTGZYdE9OVGVmbGxJMWZycHI2OGQ?oc=5",
+          "title": "경찰, 음주운전 고경표 1시간40분 조사…울먹이며 \"정말 죄송\"(종합2보)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQXdTMjFqSzFFNHllUDBfVjVLQzQyelRVaXRMb0w0QjY3LUYyNVFhQ3ZGMjJEWExILVZBZGMwMV9fRWdRTkc4QVN1TVJuR3hOSUpOUzREWWdIdmvSAWBBVV95cUxPdnBXYi1ZQzRMWVRYVm94YmY5VExDU2xmX2tjYzBoM3NHZ0FKeHlGaDlCME1LU0hYZkMyTXhEVWZJZTZab0R1Rmlkc3dGMlBqRUpYcVBPQXBKM05yZ2tHNXQ?oc=5",
           "source": "연합뉴스",
-          "publishedAt": "2026-11-17T23:30:44.000Z",
+          "publishedAt": "2026-11-23T12:08:57.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'음주운전' 고경표 첫 경찰 소환조사...\"무책임한 모습\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwSmdJYnBra0dkUkVNRm04dDYwN0hReFBJZzRERUxyY2JUN2d0VW9pYWdTeDRVdGZuQm91eGs4RmtYbW9TVXVkR2JMR1lpMUw5NDlvbnIxMUxnMmx2Zmc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-23T11:02:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t5",
-      "title": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
+      "title": "보건의료데이터 가이드라인 전면 개정",
       "summary": "",
       "importance": 3,
       "articleCount": 2,
       "sourceCount": 2,
       "articles": [
         {
-          "title": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMkFXQ1hzQTh2MVpsQWZKV0dLakpHRDlaRnlxZTI3VDNtazVkcEdYMldmZnRITFo3d25FdmJTemVUOEhTYnZqTWRHRWw5cTY3Wkdld1h4T1BJdVNnMVllb2NHR2xZdWhEbWliU0gzX056MHdULUhB0gF3QVVfeXFMT2lMbmUxMmVYdWNiUzBZN0xwdzNWZkhoNHZ0MU1sU0VCdS11a0I1bHpqeGlZZVZqbnlrZWxsbzlfVnU1aGViSVNZTldrT0lIQnJyMDF0QktzQmx3RlA4OUM3YmF4MlE0RVBWN09DQXNTS2pGMVM4ZE0?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T02:33:31.000Z",
+          "title": "보건의료데이터 가이드라인 전면 개정",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51dU1XY3VzX3gwRjhOb3RObmFzNHBRQXFhcWRndUJQNDN6YmJWQVdNNFNReVZTNWNtb1V3QV93SUFhZFV2YjdRY05wQ0FBUF9NRmpPQ0FfYXdMb2poUWdTOVpLNVVBbVFTRUE?oc=5",
+          "source": "병원신문",
+          "publishedAt": "2026-11-26T12:22:51.000Z",
           "kind": "news"
         },
         {
-          "title": "경찰, ‘리트 만점자’ 집·수능시험지 보관 고등학교 압수수색",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tZER3RmJiRXBEQXNvdzNIVmY2RUJrYXdDRi1mcnJWVGF2X1hNMUlidGFkZUhaYVVRRFlPRjhPbTIxUlBQSFgwV002V1V3SktwNDVQSGFocVdTUmlsamtZQ21GUHJVUQ?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T02:06:00.000Z",
+          "title": "AI 시대, 의료데이터 더 안전하고 쉽게 활용 「보건의료데이터 활용 가이드라인」 전부개정",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xbmVIOVg4N005elZldVRjU3h0bTVQNjRWODQ4OUFRcjVPZFQxd1h4UHp3ZDFqYVRmaFc3djkwZHJ6Rk9zd1F0WTNPMG9FNUc2UFpRMlgzb3JVMUNYZV9DdGxWZlloNXd3ZEpEMUsyYnFJX1JFaUpMeVVPWXRxdw?oc=5",
+          "source": "BRIC",
+          "publishedAt": "2026-11-26T04:45:08.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t6",
-      "title": "영등포소방서, 단독주택 화재 안전조치… 주민이 ‘보이는 소화기’로 진화",
+      "title": "태국 방콕서 정유공장 폭발·화재…7명 부상",
       "summary": "",
       "importance": 3,
       "articleCount": 2,
       "sourceCount": 2,
       "articles": [
         {
-          "title": "영등포소방서, 단독주택 화재 안전조치… 주민이 ‘보이는 소화기’로 진화",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE55ejg4amN6UEYybmcwdkdOYkVHYm5qc1FHQU4xbHIzcmhFbVhBWGNfYUZPclBJdFBBUFU5NHBsNERSUmZ6?oc=5",
-          "source": "소방방재신문",
-          "publishedAt": "2026-11-25T09:06:00.000Z",
+          "title": "태국 방콕서 정유공장 폭발·화재…7명 부상",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBUHNmWjRwQ05fdnZKUmtMb3hVYjFvZDkyWmlETUJBblpWeXRTQlFLanZBN0o4TjZ2SEVfT2J5NTdoWjRYWkpRTDk0LW82NHlEd3A3S3dTRnlIalI2VGN5ODFGSy1QQU0?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-26T10:34:00.000Z",
           "kind": "news"
         },
         {
-          "title": "둔산소방서, 아파트 단지 화재 안전조치… 목격자가 소화기로 진화",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBROHRaUnp4X3U1VXZGTDBDMGllZnp3azVaS1g0MGp6M2JKMEZ3b1ZlT0c5eTQtS1ByU1BHUGtiR2xoTXYzX2c?oc=5",
-          "source": "FPN-소방방재신문",
-          "publishedAt": "2026-11-02T08:00:00.000Z",
+          "title": "태국 방콕 정유공장 폭발·화재…7명 부상·주민 대피",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ackJGZnRobGVPZjU0eTV0V1dMaFJxX2hERHljbjlfYm14cUROd1lEazQzUXhRYmlPWlhkVURUVm5jVktjVXQ2MVdWRmRaU1I4REZBVlJxMUJidXM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T10:27:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t7",
-      "title": "‘2026년 전국사회복지나눔 유공자 시상식’ 성료… 168명 포상",
+      "title": "인천 남동구 공장 화재로 근로자 1명 사망",
       "summary": "",
       "importance": 3,
       "articleCount": 2,
       "sourceCount": 2,
       "articles": [
         {
-          "title": "‘2026년 전국사회복지나눔 유공자 시상식’ 성료… 168명 포상",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkS1V1ampDekNTSVNzVjdrT2NRQk5rWE9yVjZqMjl1cnBWVkJDUE5uaVUxWDdBdXB2X0phcjBUWVoyckQ4bmk0emEwakYtRGFKOWVpZDFoVnBMeWJSczZCQ1VYU3gyY0pyc0RaXw?oc=5",
-          "source": "복지타임즈",
-          "publishedAt": "2026-11-25T08:33:36.000Z",
+          "title": "인천 남동구 공장 화재로 근로자 1명 사망",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxaF92cmNaNG5OV2Q0WEw4eEg4MDRlbTA3OWdSTTU5amEwazJLQnR4YnpDVC1lblQ4QXdVTnAtT0FRbWNU?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2026-11-26T09:05:00.000Z",
           "kind": "news"
         },
         {
-          "title": "보이지 않는 곳의 헌신이 빚은 복지 안전망…‘2026 전국사회복지나눔 유공자 시상식’ 개최",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leVV5U2t3am4xS1paY0hzc1NKeU5faHZ1ZmsyZ1VXX3hCOEhHaTBLajhTRjc1OWJaMDJxTk9XMXl4ZmRieURhYl9ITktOSkJSV2YxdEw3b0RZX1pLQ2RrQ0lHQUJaYS01ZW5DV1hVQ3BJWUHSAXNBVV95cUxNZXlVeVNrd2puMUtaWmNIc3NTSnlOX2h2dWZrMmdVV194QjhIR2kwS2o4U0Y3NTliWjAycU5PVzF5eGZkYnlEYWJfSE5LTkpCUldmMXRMN29EWV9aS0Nka0NJR0FCWmEtNWVuQ1dYVUNwSVlB?oc=5",
-          "source": "시사저널",
-          "publishedAt": "2026-11-25T08:21:43.000Z",
+          "title": "인천 남동구 화재 공장 3층서 신원 미상 사망자 1명 발견",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yaGNvTDdCei12TXhKUVBpcFJ2RFJLdVp0Z1RoVjEtWXFZT1JmQVJIQ3l0Q3Y2di0ycTdGbjNacXc1YXRHcWxSMTF3dWdoeDJwenVucm1EbHRsWU5VdmdpRGowdFFYNkxnS21rV0M0Nm8?oc=5",
+          "source": "인천투데이",
+          "publishedAt": "2026-11-26T07:47:00.000Z",
           "kind": "news"
         }
       ]
@@ -236,123 +236,135 @@
   ],
   "keywords": [
     {
-      "word": "수능",
-      "count": 22
-    },
-    {
       "word": "탄핵",
-      "count": 17
-    },
-    {
-      "word": "재난문자",
-      "count": 16
+      "count": 18
     },
     {
       "word": "한덕수",
-      "count": 16
-    },
-    {
-      "word": "적발",
-      "count": 13
-    },
-    {
-      "word": "조희대",
-      "count": 13
-    },
-    {
-      "word": "부정행위",
-      "count": 11
-    },
-    {
-      "word": "위급재난문자",
-      "count": 10
+      "count": 18
     },
     {
       "word": "AI",
-      "count": 10
+      "count": 16
     },
     {
-      "word": "발송",
-      "count": 9
+      "word": "조희대",
+      "count": 14
     },
     {
       "word": "리트",
-      "count": 9
+      "count": 11
     },
     {
-      "word": "겨울철",
-      "count": 8
-    },
-    {
-      "word": "만점자",
-      "count": 8
-    },
-    {
-      "word": "개최",
-      "count": 8
-    },
-    {
-      "word": "절차",
-      "count": 8
+      "word": "인천",
+      "count": 11
     },
     {
       "word": "사망",
-      "count": 7
+      "count": 10
     },
     {
-      "word": "멀티미디어",
-      "count": 6
+      "word": "만점자",
+      "count": 9
     },
     {
-      "word": "대통령",
-      "count": 6
+      "word": "부정행위",
+      "count": 9
     },
     {
-      "word": "교육장관",
-      "count": 6
-    },
-    {
-      "word": "취소",
-      "count": 6
-    },
-    {
-      "word": "무죄",
-      "count": 6
-    },
-    {
-      "word": "사유",
-      "count": 6
-    },
-    {
-      "word": "김수현",
-      "count": 6
-    },
-    {
-      "word": "예방",
-      "count": 5
-    },
-    {
-      "word": "교통사고",
-      "count": 5
-    },
-    {
-      "word": "스마트폰",
-      "count": 5
-    },
-    {
-      "word": "지연",
-      "count": 5
+      "word": "신청",
+      "count": 9
     },
     {
       "word": "수사",
-      "count": 5
+      "count": 9
     },
     {
-      "word": "책임",
-      "count": 5
+      "word": "수능",
+      "count": 8
+    },
+    {
+      "word": "공장",
+      "count": 7
+    },
+    {
+      "word": "조사",
+      "count": 7
+    },
+    {
+      "word": "의혹",
+      "count": 7
+    },
+    {
+      "word": "절차",
+      "count": 7
+    },
+    {
+      "word": "취소",
+      "count": 7
+    },
+    {
+      "word": "사유",
+      "count": 7
+    },
+    {
+      "word": "김수현",
+      "count": 7
+    },
+    {
+      "word": "이진우",
+      "count": 6
+    },
+    {
+      "word": "구속영장",
+      "count": 6
+    },
+    {
+      "word": "세무사",
+      "count": 6
+    },
+    {
+      "word": "대응",
+      "count": 6
     },
     {
       "word": "쿠쿠",
+      "count": 6
+    },
+    {
+      "word": "안전",
+      "count": 5
+    },
+    {
+      "word": "발견",
+      "count": 5
+    },
+    {
+      "word": "중단",
+      "count": 5
+    },
+    {
+      "word": "수석",
+      "count": 5
+    },
+    {
+      "word": "적발",
+      "count": 5
+    },
+    {
+      "word": "교육장관",
+      "count": 5
+    },
+    {
+      "word": "개최",
+      "count": 5
+    },
+    {
+      "word": "내용",
+      "count": 5
+    },
+    {
+      "word": "무죄",
       "count": 5
     },
     {
@@ -360,62 +372,46 @@
       "count": 5
     },
     {
-      "word": "전국",
+      "word": "소속사",
+      "count": 5
+    },
+    {
+      "word": "압수수색",
       "count": 4
     },
     {
-      "word": "무효",
+      "word": "남동구",
       "count": 4
     },
     {
-      "word": "정부",
+      "word": "진화",
       "count": 4
     },
     {
-      "word": "화재예방",
+      "word": "예방",
       "count": 4
     },
     {
-      "word": "대응",
-      "count": 4
-    },
-    {
-      "word": "함께",
-      "count": 4
-    },
-    {
-      "word": "복지급여",
-      "count": 4
-    },
-    {
-      "word": "최교진",
-      "count": 4
-    },
-    {
-      "word": "반환",
+      "word": "남동산단",
       "count": 4
     }
   ],
   "keyEvents": [
     {
-      "date": "11.18",
-      "event": "교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\""
-    },
-    {
-      "date": "11.19",
-      "event": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결"
-    },
-    {
       "date": "11.20",
-      "event": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결"
+      "event": "법원 “김수현 소속사, 쿠쿠에 8억7508만원 배상해야”…1심 판결"
     },
     {
       "date": "11.22",
       "event": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\""
     },
     {
+      "date": "11.23",
+      "event": "'만취 음주 운전' 고경표, 경찰 조사…울먹이며 \"무책임한 모습 죄송\""
+    },
+    {
       "date": "11.26",
-      "event": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서"
+      "event": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청"
     }
   ]
 }

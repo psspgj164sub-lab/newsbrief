@@ -2,14 +2,14 @@
   "region": "europe",
   "label": "유럽",
   "range": {
-    "from": "2026-11-20",
-    "to": "2026-11-26"
+    "from": "2026-11-21",
+    "to": "2026-11-27"
   },
-  "updatedAt": "2026-11-26T05:05:21.752Z",
+  "updatedAt": "2026-11-26T21:17:03.935Z",
   "ai": false,
-  "overview": "최근 1주 유럽 관련 국내 언론 기사 254건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 경제 분야의 「美 USTR “한국, 일본, EU 등 관세 15% 상한 유지”」(기사 12건)입니다.",
+  "overview": "최근 1주 유럽 관련 국내 언론 기사 226건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 경제 분야의 「美 USTR “한국, 일본, EU 등 관세 15% 상한 유지”」(기사 12건)입니다.",
   "stats": {
-    "articles": 254
+    "articles": 226
   },
   "themes": {
     "economy": {
@@ -18,23 +18,23 @@
       "keywords": [
         {
           "word": "한국",
-          "count": 22
+          "count": 23
         },
         {
           "word": "상한",
-          "count": 20
-        },
-        {
-          "word": "유지",
-          "count": 18
+          "count": 23
         },
         {
           "word": "과잉생산",
-          "count": 12
+          "count": 19
+        },
+        {
+          "word": "유지",
+          "count": 19
         },
         {
           "word": "일본",
-          "count": 12
+          "count": 13
         },
         {
           "word": "USTR",
@@ -42,10 +42,10 @@
         },
         {
           "word": "중국",
-          "count": 10
+          "count": 11
         },
         {
-          "word": "하락",
+          "word": "반발",
           "count": 9
         }
       ],
@@ -60,7 +60,7 @@
               "source": "세계일보"
             },
             {
-              "title": "美 USTR “韓, 日,EU 등 관세 15% 상한 유지”",
+              "title": "美 USTR “韓, 日, EU 관세 15% 상한 유지”",
               "source": "전자신문"
             },
             {
@@ -82,7 +82,7 @@
               "kind": "news"
             },
             {
-              "title": "美 USTR “韓, 日,EU 등 관세 15% 상한 유지”",
+              "title": "美 USTR “韓, 日, EU 관세 15% 상한 유지”",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PdXFFYVZtR1Z4SXM5cWRob19SNXB6aTRMRHRGMjBmODVvNTQzam1uVTNwSEFucTJkMTNZZkJtOE5pMnRSTE4wR3BlWG81UQ?oc=5",
               "source": "전자신문",
               "publishedAt": "2026-11-25T13:53:00.000Z",
@@ -103,10 +103,10 @@
               "kind": "news"
             },
             {
-              "title": "美, 한국·EU·일본 상대 관세 15% 상한 유지",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yV2RSalZQd2ppMzBXR3phc3hMQ3R2M3RrR3hnVUVzNVhqejFPSG9WR0ZYcmVDNWxuTGRmdDFsSVRmT2xvdkZJcERUQXRrWXRYVzdYZFc2QVc?oc=5",
-              "source": "국민일보",
-              "publishedAt": "2026-11-25T13:28:01.000Z",
+              "title": "속보 미 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxeHRSOV93dGdzUV9PbWVOY2otSm81SG9mdzliSTRFVWhleDctMzNRRTN0Q3FCVkpxLTNRUy1Ldkx4QmVsZzJ2YXZpMDJuY25Ed204dXdsaFQwX002cUE?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-25T13:35:00.000Z",
               "kind": "news"
             },
             {
@@ -119,13 +119,67 @@
           ]
         },
         {
+          "title": "트럼프, 한국·중국·EU 등 14개 경제권에 신규 관세 추진…“제조업 과잉생산 대응”",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "美, 과잉생산 이유로 韓·中·日·EU 등 14개 경제권에 신규 관세 추진",
+              "source": "더구루"
+            },
+            {
+              "title": "美, 한국·중국·EU 등 14개국에 '과잉생산' 신규 관세 예고",
+              "source": "글로벌이코노믹"
+            },
+            {
+              "title": "美, 한국·중국·EU 등 14개 경제권에 신규 관세 추진…韓 15% 상한 유지 전망",
+              "source": "뉴스핌"
+            }
+          ],
+          "span": "11.25~11.26",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 4,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "트럼프, 한국·중국·EU 등 14개 경제권에 신규 관세 추진…“제조업 과잉생산 대응”",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPM090SDBDSnZtRXJERklrODcxdkI1RjNjLUozZEE3bFdTVmZQeWZpeENZcGdmN0FFcU02U0dzU29MOTBTQUViS0pxV1I0NEZUVGFUbWxqOFZ5VUppUHQw?oc=5",
+              "source": "헬로티",
+              "publishedAt": "2026-11-26T07:18:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美, 과잉생산 이유로 韓·中·日·EU 등 14개 경제권에 신규 관세 추진",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MbWVaSkhyV0VMYTV3Um10cmNFVTBnU0ZaeFhEWEZlVzBSWVVpU2NYYVMzYzBLM1g3VHVfYWhxcUh1aDlCdW95M2paSWNodUVnaTF5QlhmdVZIQWFpU2c?oc=5",
+              "source": "더구루",
+              "publishedAt": "2026-11-25T23:50:07.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美, 한국·중국·EU 등 14개국에 '과잉생산' 신규 관세 예고",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWttRmNEVFJIQmtyajBROEh6TkQwQzdrb2g0OXd0QXotWE00VElzUUo3QWIySVBtM3JieTFkSDZNSVg5MkVveWEyZThqNTVpZTB1ZUNhbDdDYnJ6SVA1NHppSXRoa01iSlEzdnYtQXhSeDdXNzBMZnNrYzlyTUtoeDBna2xtUTg?oc=5",
+              "source": "글로벌이코노믹",
+              "publishedAt": "2026-11-25T13:33:24.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美, 한국·중국·EU 등 14개 경제권에 신규 관세 추진…韓 15% 상한 유지 전망",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9acThfUlpGTmJScGM4NFh4U3ZqWEluREVRaWtBU3czaENRN2xHUVZRcnN1VGdOUFkzRmFOcERXdXBIYlBwdG5mTE1vR0lfd2FUbWNSdFJ4YXozTkMy?oc=5",
+              "source": "뉴스핌",
+              "publishedAt": "2026-11-25T13:30:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
           "title": "EU, 새 美관세에 \"유럽, 과잉생산 원천 아냐…15% 상한 준수돼야\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "트럼프 새 관세에… EU \"유럽은 과잉생산에 취약, 15% 상한 준수해야\"",
-              "source": "한국일보"
+              "title": "EU, 새 美관세에 반발…\"유럽 과잉생산에 취약, 15% 상한 준수해야\"",
+              "source": "뉴시스"
             },
             {
               "title": "EU, 미국 ‘과잉생산 관세’ 반발…15% 상한 준수 촉구",
@@ -143,10 +197,10 @@
           "articleCount": 4,
           "articles": [
             {
-              "title": "트럼프 새 관세에… EU \"유럽은 과잉생산에 취약, 15% 상한 준수해야\"",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyTHhJbVZta3ppYUhrVHlRTll5QzNBbm5sYzJwVG1CekZQWkFmUElFNGpnZHJvMkUtbVdxenVuRnJKbTR5WmstNHhDOE5CVjd1ZEl0aFZUT2hGNHFJOGJtbDFzNFpGcTBPS3ctSjJB?oc=5",
-              "source": "한국일보",
-              "publishedAt": "2026-11-26T00:00:00.000Z",
+              "title": "EU, 새 美관세에 반발…\"유럽 과잉생산에 취약, 15% 상한 준수해야\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sc0FwMS1hdnQwa09nUzctd1BrRTY2b1NKX3Q2cnhvcHJhUVNMLXgwdnpYUkwyTFFYcVd0M1FTZW9LMXB6eTllOTdieGhvOGhnanNkc0FiY3ZfM0ZFdnlsaNIBeEFVX3lxTE8zenpacHlzMXR0Z1pSVl9RaV9lR21vZ2pDZXd6ZEs3OEpaZTdSSlRCNnNXS29iZnNNM3dQbU1mRk9yZXNNX2xDRXBUMGhvbXp3b1ZXaDNHeEE5eVRpdGlzWWxNdkRrbFMzYVVkelBmYlVBVU5XQWluVw?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-26T01:36:56.000Z",
               "kind": "news"
             },
             {
@@ -158,14 +212,14 @@
             },
             {
               "title": "EU, 새 미 관세에 \"유럽, 과잉생산 원천 아냐‥15% 상한 준수돼야\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQSFJ5VlU1Nkt0LVdpblYxRXY5LVlYUHdxUEE0VkNOcjFrVnRqdEFRZktweDd6bFhFX184Z2J5SXU2ZnlucjBzSG12SGdBSXJzdXd4LV9UazI5ODIzeTNqR2Rab0VhX25XUGJYNElhNTFiOEw30gF0QVVfeXFMUFBIUnlWVTU2S3QtV2luVjFFdjktWVhQd3FQQTRWQ05yMWtWdGp0QVFmS3B4N3psWEVfXzhnYnlJdTZmeW5yMHNIbXZIZ0FJcnN1d3gtX1RrMjk4MjN5M2pHZFpvRWFfbldQYlg0SWE1MWI4TDc?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdUtVZVphREgxcWViSExydkdINmhKRkZ2VDNQeWlhNC1WY1FDeF9fdnl2WHJac1lWQ21xZmsyeXczRFB3QXdKNnFDRGNjaUNwY2tSREtnclFpQnR1UnJWWE02MkxfN0lLYXI5dHZFdm01NnRj?oc=5",
               "source": "MBC 뉴스",
               "publishedAt": "2026-11-25T17:01:10.000Z",
               "kind": "news"
             },
             {
               "title": "EU, 새 美관세에 \"유럽, 과잉생산 원천 아냐…15% 상한 준수돼야\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2Yk1xME5odTdjVnptZzhlTEhRdVBPdDU4ZktpUG44NGhHSDZHU3hFbS1ldVBiUHJDcGRSNlhOWUsta1FRMjFmYXNtLVhISXF3S1NKNU1paWNhdC1PNmlRadIBYEFVX3lxTFA2Yk1xME5odTdjVnptZzhlTEhRdVBPdDU4ZktpUG44NGhHSDZHU3hFbS1ldVBiUHJDcGRSNlhOWUsta1FRMjFmYXNtLVhISXF3S1NKNU1paWNhdC1PNmlRaQ?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fWnV3ekZiMEFwaUJNclEzcjlKcWJpV09KVVhHWlNmbDNnXzJ5QS1mVkpyNFFGZkQ2Nm9LcDdqdTZQVnU1aVU1SFQ0UEg3TUQ4MHVhcUFPRGZkVDTSAWBBVV95cUxQNmJNcTBOaHU3Y1Z6bWc4ZUxIUXVQT3Q1OGZLaVBuODRoR0g2R1N4RW0tZXVQYlByQ3BkUjZYTllLLWtRUTIxZmFzbS1YSElxd0tTSjVNaWljYXQtTzZpUWk?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-25T16:11:34.000Z",
               "kind": "news"
@@ -173,52 +227,67 @@
           ]
         },
         {
-          "title": "美, 과잉생산 이유로 韓·中·日·EU 등 14개 경제권에 신규 관세 추진",
+          "title": "美 과잉생산 관세 예고…EU·스위스 반발 속 韓 안도",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "美, 한국·중국·EU 등 14개 경제권에 신규 관세 추진…韓 15% 상한 유지 전망",
-              "source": "뉴스핌"
-            }
-          ],
-          "span": "11.25~11.26",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "美, 과잉생산 이유로 韓·中·日·EU 등 14개 경제권에 신규 관세 추진",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MbWVaSkhyV0VMYTV3Um10cmNFVTBnU0ZaeFhEWEZlVzBSWVVpU2NYYVMzYzBLM1g3VHVfYWhxcUh1aDlCdW95M2paSWNodUVnaTF5QlhmdVZIQWFpU2c?oc=5",
-              "source": "더구루",
-              "publishedAt": "2026-11-25T23:50:07.000Z",
-              "kind": "news"
+              "title": "美 ‘과잉생산 관세’에 각국 희비…韓 안도·EU 반발",
+              "source": "https://www.sisaworld.kr/"
             },
             {
-              "title": "美, 한국·중국·EU 등 14개 경제권에 신규 관세 추진…韓 15% 상한 유지 전망",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9acThfUlpGTmJScGM4NFh4U3ZqWEluREVRaWtBU3czaENRN2xHUVZRcnN1VGdOUFkzRmFOcERXdXBIYlBwdG5mTE1vR0lfd2FUbWNSdFJ4YXozTkMy?oc=5",
-              "source": "뉴스핌",
-              "publishedAt": "2026-11-25T13:30:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "뉴욕 증시, AI 매도세·관세 우려에 급락세...엔비디아 8% 넘게 하락",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "뉴욕증시, AI 매도세·관세 우려에 하락 출발 |",
-              "source": "연합인포맥스"
+              "title": "美 과잉생산 관세 예고...중국 최대 40% 가능, EU 반발",
+              "source": "M이코노미뉴스"
             }
           ],
           "span": "11.26",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "美 ‘과잉생산 관세’에 각국 희비…韓 안도·EU 반발",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HbVdTelQ4WUtYWkZUeWd4eWp0WlNsUldGcmp2Y1FUN0oxMmNvUmp6cGVsUDNxWWVrbTNLS0UwaWJHMmxOdjBmNTlyTVpwYy13TEtjbG9yOXltbHM5RmJvbll3Z01kWFh2M1E?oc=5",
+              "source": "https://www.sisaworld.kr/",
+              "publishedAt": "2026-11-26T08:45:57.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 과잉생산 관세 예고...중국 최대 40% 가능, EU 반발",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SmgzdXp1TzB4Z3ptbjBaNXJsQ1FjT0gtTmpGOWdSWU9BM2JtNHBpR1JFY3FDd1pGVmYxaEpORU5mQm1BU0RQOGloYmhDSF92c0F3UnNQSUVaVlluLXRFaEczOEVmaXc?oc=5",
+              "source": "M이코노미뉴스",
+              "publishedAt": "2026-11-26T06:27:56.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 과잉생산 관세 예고…EU·스위스 반발 속 韓 안도",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVEpPMUUzWnJRbi02cDVsVjVJZFZ6VGpmNURSamViQVVRUnlqRldNOWRDaEp6SmlfczlHa1lOZ1JGY2cxZG5YazVvenhLUVIxVlNXTjJGRE1DakphcTZCZWUwZEJBcmozal9VZ9IBcEFVX3lxTFAzUzRPS1NnS1RmMmVFaE5vbEFZVlM1YXN5YzY5X3J1cmx5UE1CanllZ2tPRm16VVZnLWJzelZycWFGdExwQkc3UEsxOHZIVXZNQnBQWUFJSlBaMDVwOHhvTFBJNU9xWGpGSjBnMlk1LVo?oc=5",
+              "source": "데일리굿뉴스",
+              "publishedAt": "2026-11-26T02:31:02.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "뉴욕증시, AI 매도세·관세 우려에 하락 출발 |",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "뉴욕 증시, AI 매도세·관세 우려에 급락세...엔비디아 8% 넘게 하락",
+              "source": "YTN"
+            },
+            {
+              "title": "뉴욕증시, AI 매도세·관세 우려에 하락 출발",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25~11.26",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
           "articles": [
             {
               "title": "뉴욕 증시, AI 매도세·관세 우려에 급락세...엔비디아 8% 넘게 하락",
@@ -233,64 +302,44 @@
               "source": "연합인포맥스",
               "publishedAt": "2026-11-25T15:01:33.000Z",
               "kind": "news"
+            },
+            {
+              "title": "뉴욕증시, AI 매도세·관세 우려에 하락 출발",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MS1hfNXNpS24zTi05YkdldmtEYmpGMHBlSmhsaVBWY2JpeVJEcmRLeWRlM0hIeEN0bkVRelJ6aDl5bV9QQkVWdW0tLTNGN0tPNkxPV2R3V0JIdEFJb2dBcNIBYEFVX3lxTE9MS1hfNXNpS24zTi05YkdldmtEYmpGMHBlSmhsaVBWY2JpeVJEcmRLeWRlM0hIeEN0bkVRelJ6aDl5bV9QQkVWdW0tLTNGN0tPNkxPV2R3V0JIdEFJb2dBcA?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T14:55:56.000Z",
+              "kind": "news"
             }
           ]
         },
         {
-          "title": "유럽증시, 엔비디아·앤스로픽 약세 영향 하락 마감",
+          "title": "유럽증시, 미 금리 인상·관세 재부각 영향 하락 마감",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "유럽증시, 엔비디아·앤스로픽 약세 영향으로 일제히 하락… 기술주 2.81% 떨어져",
+              "title": "유럽증시, 미 금리 인상·관세 재부각에 1% 하락… 은행·기술주 동반 약세",
               "source": "뉴스핌"
             }
           ],
-          "span": "11.25",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "유럽증시, 엔비디아·앤스로픽 약세 영향 하락 마감",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fN3pSNHl6ZDdlVXU2ZVBZem5mQm8wZW1XcTJlTE43cHZMTk94dU9VTTg1VTltSC11QzRYYXJBWXBIMG5kM3pnbjNqVTFWenF0TTViQ0Z3ZjQzcE5EX3RfTDh4c2NNR3NzY2xucA?oc=5",
+              "title": "유럽증시, 미 금리 인상·관세 재부각 영향 하락 마감",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85elBBOGVrQzdyUEJpS3hyTDdaSkNXZ1djNHlIa2JIWkVnRF9jWUtreUtwalV1WWx3MVpwX0hnOThTR3NMTXRrd2FGWUNncHl1U1BSWEh2MjNPZ1Q0TGZIVjVMQkFEdFVrZDQ4Zg?oc=5",
               "source": "한국증권신문",
-              "publishedAt": "2026-11-25T00:54:16.000Z",
+              "publishedAt": "2026-11-25T22:47:27.000Z",
               "kind": "news"
             },
             {
-              "title": "유럽증시, 엔비디아·앤스로픽 약세 영향으로 일제히 하락… 기술주 2.81% 떨어져",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51aHplZTlQVlJCLWxPaERvdTY5ckN2eDNaWDdnSG1SRmEzRlN3dnRSNFlRUTFSejJBYlV4RHdoR1NBR2p2YnRoMl8yU1lsTFljSFdsYkZSNVlnY2Vo?oc=5",
+              "title": "유럽증시, 미 금리 인상·관세 재부각에 1% 하락… 은행·기술주 동반 약세",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vVUJzZk9pQ1l1aWZMRU9FWHpJUGNXMFJvVFRGdF9YSm1ReTcxZnB2TmdPUUxjd2NKUEJBUGpKYnBPZGlxV3dtNG9GeUVJUXJ6VjJ4MXNNSkhyYmlq?oc=5",
               "source": "뉴스핌",
-              "publishedAt": "2026-11-24T17:59:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "뉴욕증시, AI 투자·추가 긴축 우려에 '혼조'…나스닥 0.62%↓",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25~11.26",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "뉴욕증시, AI 투자·추가 긴축 우려에 '혼조'…나스닥 0.62%↓",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDODF0dERDcjdxRnpYSzVyWlVCWG5rQUZQa2NOSDhpU3Z1RVNIMElweXQtNnU1ZmIzbXl4ZFhkdGFIb0NJYUM0cUZ6Y1Y5TFhRSlo1SHFlVWRTYjhtbk90Yw?oc=5",
-              "source": "프라임경제",
-              "publishedAt": "2026-11-25T23:34:47.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "뉴욕증시, AI株 차익실현·추가 관세 우려에 '혼조'…나스닥 1.48%↓",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hTlRCRWx3b21FVXBmTE9LeloxUTdvU3pMWjBPYVc4WWF0WUNGZy1uVHZDYW8tc05rZEFkdy05MGpWT2FUczF0c1hta0VzdTB5UXJhNy1WSHZxNHo5VE1ORQ?oc=5",
-              "source": "프라임경제",
-              "publishedAt": "2026-11-24T23:21:40.000Z",
+              "publishedAt": "2026-11-25T18:14:00.000Z",
               "kind": "news"
             }
           ]
@@ -302,170 +351,113 @@
       "summary": "",
       "keywords": [
         {
-          "word": "우크라이나",
-          "count": 13
-        },
-        {
-          "word": "우크라",
-          "count": 10
-        },
-        {
-          "word": "러시아",
-          "count": 8
-        },
-        {
-          "word": "폴란드",
-          "count": 7
-        },
-        {
           "word": "푸틴",
-          "count": 6
-        },
-        {
-          "word": "트럼프",
           "count": 5
         },
         {
-          "word": "발트해",
+          "word": "우크라",
           "count": 4
         },
         {
-          "word": "드론",
-          "count": 4
+          "word": "확산",
+          "count": 3
+        },
+        {
+          "word": "폴란드",
+          "count": 3
+        },
+        {
+          "word": "트럼프",
+          "count": 3
+        },
+        {
+          "word": "우크라이나",
+          "count": 3
+        },
+        {
+          "word": "러시아",
+          "count": 2
+        },
+        {
+          "word": "발트해",
+          "count": 2
         }
       ],
       "items": [
         {
-          "title": "폴란드에 러 미사일·드론 추정체 3개 추락…유럽 “의도적 도발” 규탄",
+          "title": "중국 국방장관, 이탈리아·영국 잇따라 방문…군사 교류 확대 논의",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "러 미사일·드론 3대 폴란드에 추락…유럽 11개국 군사훈련 중 '의도적 도발'",
-              "source": "SBS Biz"
-            },
-            {
-              "title": "폴란드 \"러 미사일 영공 넘어와 추락…의도적 도발\"(종합)",
-              "source": "연합뉴스 한민족센터"
+              "title": "中국방장관, 이탈리아·영국 방문…유럽과 군사 교류 확대",
+              "source": "한국경제TV"
             }
           ],
-          "span": "11.20~11.22",
-          "days": 3,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "러 미사일·드론 3대 폴란드에 추락…유럽 11개국 군사훈련 중 '의도적 도발'",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HdG0wQ0ozTHpSenVoTTh6VjItOTg3cERMMWM2NnRYVmJkei1LbjR5c2h0bW5ERlZKdlZYdUJxajZma2oxZW81Q1lrRHZIMzZxejlr0gFYQVVfeXFMTlpSRjJ4MlF2UXZEc1ZqRWxPZ3VEd0Z6OTFRNXhpbjNWdWl5d1RlNVlUdGJ4ZE91NnF1MjVsTEdBanItZkVMWmF4dmxEc2J2NVJ4ZVFCcFZMNw?oc=5",
-              "source": "SBS Biz",
-              "publishedAt": "2026-11-22T08:32:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "폴란드에 러 미사일·드론 추정체 3개 추락…유럽 “의도적 도발” 규탄",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxbzJxMndxVE56Znkxd2VKTHdua0xyVy0wblZ1MWdIUUFrVnhWT1d3MnpyZ0hZd1hCVW5oaFRGLTRIcktNbFJHa054NTdKRmZoVnNYN0dxV1FXQ0c5b0Z0THhPYUxnZDYzalFFNlNmdEJPVTTSAWZBVV95cUxQWnMxUzVBeW9UXzZkNjhuaGxadzlLOHdHYmNZUUR2NEhMTm95T2JsbmhjNTVaWUszTEZUSllKUXhva2VBZEFCa2tpOHltMW5xS19ndXhNUnU3UFJlcTEwamVIRFBDTHc?oc=5",
-              "source": "동아일보",
-              "publishedAt": "2026-11-20T21:57:19.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "폴란드 \"러 미사일 영공 넘어와 추락…의도적 도발\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11VWhjanNINDg4T2gzaTRSMmM2OFRKWldsUEV3RWhna0dqN1dGODllT1pEVU9kU2JLNmxMb3NfV19yenBYM0hvRWtaWVpFUUVramo0R0t6UHBVeHQ2X0JPSUZ1bmJtakhDcTE0NmM3MTFYZ2FB?oc=5",
-              "source": "연합뉴스 한민족센터",
-              "publishedAt": "2026-11-20T12:23:09.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "독일 총리 \"2008년 우크라 나토 가입 불허 실수, 전쟁 막았을 것\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "독일 총리의 뒤늦은 인정…“우크라 나토 가입했다면 전쟁 막았을 것” : 국제",
-              "source": "재경일보"
-            }
-          ],
-          "span": "11.24",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "독일 총리 \"2008년 우크라 나토 가입 불허 실수, 전쟁 막았을 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcEhMY204Y2FYQVlDZmdfZ2tmd2pmZGh2ZHdvS014ZXhfWG81MlVaT2IxYWdmSE5qYVBaV2Zuamd2WDhjUVhzTHBJMGRIblE2OUQtQkpHeTVTUQ?oc=5",
-              "source": "파이낸셜뉴스",
-              "publishedAt": "2026-11-23T23:17:18.000Z",
+              "title": "중국 국방장관, 이탈리아·영국 잇따라 방문…군사 교류 확대 논의",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVjZVbWswSkxIXy1pTENYeW02QjAxejNVa1YwdEk3clRoVFQwV0ctdHNZTDdVVWEzUjdJdzNrSXkySHA2RUcxSmtMTTdwSXphaWhBZnpod1hRNjdhRklYUnVNQVd2dVBSNUs2bU5TRk0?oc=5",
+              "source": "데일리방산",
+              "publishedAt": "2026-11-26T08:44:09.000Z",
               "kind": "news"
             },
             {
-              "title": "독일 총리의 뒤늦은 인정…“우크라 나토 가입했다면 전쟁 막았을 것” : 국제",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LZlYwZmREY25zLWp5dlduMEkxTHNuM1ppTWw4SVA1SVpuNnNnVThXMFVrR0xoNVJMX1hhWjJQbThFZTBFSmI3OUVEaw?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-23T17:11:00.000Z",
+              "title": "中국방장관, 이탈리아·영국 방문…유럽과 군사 교류 확대",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjFYd1NXY2UxMlhxcWtlSTZDclBwTTNYb2ZxNFNKbnJjcmhodzgtalVSb1ZNZnhuNW1rSDlkSnZ4SFZYU0xRNTdnNUtVcXBiNTRuTnRlbU5vT1NWTmpwdDhDOXVOMlZMUXZobWMycExNUHZROElHaXlCcWRZMS1lUg?oc=5",
+              "source": "한국경제TV",
+              "publishedAt": "2026-11-26T08:38:00.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "EU, 북한 핵무기 포기 촉구…북러 군사협력 규탄",
+          "title": "트럼프 “푸틴에 유럽 전역 군사 공격 중단 요청…합의 가능성 크다”",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.20~11.26",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "EU, 북한 핵무기 포기 촉구…북러 군사협력 규탄",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1RxWkpOZXQ1b0oyZVIzblAxMHdEWV9ZUW03T3Y4ZFpTbHMxMFpuT1dTbWpKck9xaG9wUHJZYU16RGhCOXdBLUtnakVZTTdYZm1WdkFvYTVXTFM1c3hHRmprRkxHbi1UWWZfNjVVeWFUOGt2MkZHVzF1OXpDNHV3aDByQmYxa29Bd1lhRE9Scy1KcmU0a1hzdE9hSGxUQdIBoAFBVV95cUxQMWpKY1VuZjNudVpXX0x5ZXp1cFBLMlJETFl1eEY0R3ZJNVhyR1czVTZ1aFl6S2lTMHZJTzZDMzJxNkhQMG15R0NSajJjTXNEQm1uNFctelJsMXpfZVU1YU1JUW1kc0VZOE1ZRnlweE9PbFZfZy15Q05SR1JIWk1mSjEzTzVMV1FwZ1E5TnVHMHJES1hXYkhIeWd6LW8ybk1a?oc=5",
-              "source": "VOA 한국어 홈페이지",
-              "publishedAt": "2026-11-25T18:31:37.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "EU, 북한 핵 활동 확대 규탄...대러 군사협력 비판",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42WEdvMkt5OUFOQVNyckp5QWZWZzFyNGtaNnhtdndIT1czbERkaWZPMTV1ZkQyUW83TFJoakE4eU4yTm1sTVgzWGNYN2x5X0xHV2VGdzlNak9HUzRUY215dGtYMXhEUTdoOU44YjFGb25CczAtRlBXTtIBe0FVX3lxTE0wTTJTMHFabVM3SWtpTmVXd01CSHF5WFIydnJsdE5UdEZGbzhYSjBqUXlZY1k4NlFsUzdEbXV5LTRiRldxdVFIVjYyS3VEeXloNDNtUUlEdDEzUzNkYnNzVzJsZ1o0SEstaUFzdFp2RGhLWVNyMDVzSXZsdw?oc=5",
-              "source": "VOA 한국어 홈페이지",
-              "publishedAt": "2026-11-19T18:34:44.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "英·佛·獨 등 11개 유럽국가 병력 약 2800명, 폴란드서 우크라 재건 임무 훈련중",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.20",
+          "span": "11.27",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
-          "articleCount": 2,
+          "articleCount": 1,
           "articles": [
             {
-              "title": "英·佛·獨 등 11개 유럽국가 병력 약 2800명, 폴란드서 우크라 재건 임무 훈련중",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nOG5RTnRLX0NVVHpwejNlVXFNNHhHS3NqdHN5eWhTaTJvYnhBT1RWOVA3WUNfREo3bW1kaW4tQXc0cFdEZzJDQXNTQ1g0dEd5bUh4T3pUaXpqb0N3M0pIY9IBeEFVX3lxTFAtMGthRVEwMXhTX0M0QWhocjF4cDhOT3dWN19HX0J2U2VWSEFtZENhV3FMeUQ3U3RRYnU0aGlKOGk5Y2pKQlFvUDR3TjFvbWFLUzVQTTduajQ1RS1ON1N2bW4wbHlfb0dhYmhZdmZ5MUx1QUU2M2tBWA?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-20T09:12:33.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "유럽 11국 2800 병력, 폴란드서 우크라 재건 배치 위해 훈련중",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03R1RwS2JvcnA2SDZ1eFJKTTlPSm9veDdHVmNwVV9pTWM4dTZYUWcwYWZ5amRwOHc0YkRKTG5WWklqRDAtNlVHVUE2NmNsVDV6aHJXeldaUVBsZzBUUkRTUQ?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-20T09:12:03.000Z",
+              "title": "트럼프 “푸틴에 유럽 전역 군사 공격 중단 요청…합의 가능성 크다”",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVlVelZ6RkExRzZVOTctRksxenl0bDBVWE5nU01CWTNjS21nRFVrLWd0cnFna3g5N3VTR0RJZlE4X0JjR19pSkN2Z09DNnAxNmJqUk9oMWNhMGlUYWJYVDRqY1l1bGY1NDluTHV3SUh5U3Npc0pscDNaWUV5VWcza0g5aGYzRHA1UTc0clpTVVFlZi1qeEtDUXVaN0V3Z9IBsgFBVV95cUxNdUFKZ0hZTWVRVExxeDcxSWt0VEtoRWg3TVc0a1ZZeVZlZldtd0NJS0ZESUxCV0x5UmZuNWtVc2lYLXZBVldFSDdDa00tcm12bi0wdHNTT2dodU4wZG12SGdTdjVYZmxMaldoV0Y5SG9hRDZjSlFDclZXSE14b1NUcUdmc0JibFNVUXlBSnBNSEU3Zjk0cnh6NGVjRmg0LWQtNkppdVJrNVpVNDdram93cHR3?oc=5",
+              "source": "Chosunbiz",
+              "publishedAt": "2026-11-26T16:43:00.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "프랑스 대선 출마 유도 영웅 리네르 \"우크라전 우리 전쟁 아냐\"",
+          "title": "트럼프, 푸틴에 \"유럽에 대한 모든 군사적 공격 철회\" 촉구",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "트럼프, 푸틴에 \"유럽에 대한 모든 군사적 공격 철회\" 촉구",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Xc2pLUHZabHpNWl9GUzlsQVJWekFINExXWlFQMlNFWnZsdXVoTTNMVFg0emhrLTRLSnB2LUlRcjVQOHZHUHlaWmFSdi1YTHJ0dENNU1ExazNlUlY4YS1xaWloRnpoWDJIX3VOSll3?oc=5",
+              "source": "국제뉴스",
+              "publishedAt": "2026-11-26T15:29:52.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "韓 잠수함에 맞서는 佛 ‘1000㎞ 미사일’…그리스의 선택은 [밀리터리+]",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
@@ -476,10 +468,10 @@
           "articleCount": 1,
           "articles": [
             {
-              "title": "프랑스 대선 출마 유도 영웅 리네르 \"우크라전 우리 전쟁 아냐\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WX1NzOVpqWURRTkhqampOa0M5OHpob01LZTZZSkRBWHBUUDV3Q1ZHN3BDLVNJMHA4WmJLSHU1cUdjOThhZkhMLXpxSk43Qi1LTHdOZkdSa3RsTHlwLXBDdtIBeEFVX3lxTE0tZkk5dFdVajllZDNhdzl6TkF5QTMxVVN2d3o2LTA3LUxNc2p2ODFJa3U4Nm9NQWhJZ1F4M3dUSnBGU1UyWGhXenVHZF9MQXVxNHdlZ2Vad3lCaS1lUVJvMklac3VqakZRRVpfUmNSV1djZ0N5UjNrcw?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-26T03:13:05.000Z",
+              "title": "韓 잠수함에 맞서는 佛 ‘1000㎞ 미사일’…그리스의 선택은 [밀리터리+]",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0YlBhQjgxVGI4UG1uOF9FVE8xNzhaZ3p5LVJCcDVXbW8xMkZ4emJhbm1TZ2xoSHNiZzNlQ1RNMzNSdVJObVA3WVduOU5aX2dzY25vRjlQMEdPdmh1RnJiRmIxZllRanJYZTdPNzhNcm8?oc=5",
+              "source": "나우뉴스",
+              "publishedAt": "2026-11-26T10:30:00.000Z",
               "kind": "news"
             }
           ]
@@ -503,6 +495,26 @@
               "kind": "news"
             }
           ]
+        },
+        {
+          "title": "EU, 북한 핵무기 포기 촉구…북러 군사협력 규탄",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "EU, 북한 핵무기 포기 촉구…북러 군사협력 규탄",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1RxWkpOZXQ1b0oyZVIzblAxMHdEWV9ZUW03T3Y4ZFpTbHMxMFpuT1dTbWpKck9xaG9wUHJZYU16RGhCOXdBLUtnakVZTTdYZm1WdkFvYTVXTFM1c3hHRmprRkxHbi1UWWZfNjVVeWFUOGt2MkZHVzF1OXpDNHV3aDByQmYxa29Bd1lhRE9Scy1KcmU0a1hzdE9hSGxUQdIBoAFBVV95cUxQMWpKY1VuZjNudVpXX0x5ZXp1cFBLMlJETFl1eEY0R3ZJNVhyR1czVTZ1aFl6S2lTMHZJTzZDMzJxNkhQMG15R0NSajJjTXNEQm1uNFctelJsMXpfZVU1YU1JUW1kc0VZOE1ZRnlweE9PbFZfZy15Q05SR1JIWk1mSjEzTzVMV1FwZ1E5TnVHMHJES1hXYkhIeWd6LW8ybk1a?oc=5",
+              "source": "VOA 한국어 홈페이지",
+              "publishedAt": "2026-11-25T18:31:37.000Z",
+              "kind": "news"
+            }
+          ]
         }
       ]
     },
@@ -511,20 +523,12 @@
       "summary": "",
       "keywords": [
         {
-          "word": "재가입",
-          "count": 12
-        },
-        {
           "word": "우크라",
-          "count": 11
+          "count": 14
         },
         {
-          "word": "나토",
+          "word": "재가입",
           "count": 9
-        },
-        {
-          "word": "가입",
-          "count": 8
         },
         {
           "word": "전기차",
@@ -532,15 +536,23 @@
         },
         {
           "word": "브렉시트",
-          "count": 7
+          "count": 6
         },
         {
-          "word": "실수",
-          "count": 7
+          "word": "재정",
+          "count": 6
         },
         {
-          "word": "슈뢰더",
-          "count": 7
+          "word": "메이",
+          "count": 5
+        },
+        {
+          "word": "반발",
+          "count": 5
+        },
+        {
+          "word": "애플",
+          "count": 5
         }
       ],
       "items": [
@@ -550,31 +562,20 @@
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "독일 총리 뒤늦은 후회…\"18년 전 우크라 나토 가입 막은 건 실수\"",
-              "source": "데일리안"
-            },
-            {
               "title": "독일 총리 \"2008년 우크라 나토 가입 막은 건 실수…러와 협상은 준비돼\"",
               "source": "아시아경제"
             },
             {
-              "title": "독일 총리 \"2008년 우크라 나토 가입 불허 실수, 전쟁 막았을 것\"",
-              "source": "파이낸셜뉴스"
+              "title": "독일 총리 \"2008년 우크라 나토 가입 막은 건 실수\"(종합)",
+              "source": "연합뉴스"
             }
           ],
           "span": "11.24",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 6,
-          "articleCount": 6,
+          "sourceCount": 3,
+          "articleCount": 3,
           "articles": [
-            {
-              "title": "독일 총리 뒤늦은 후회…\"18년 전 우크라 나토 가입 막은 건 실수\"",
-              "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMHNaTVgwblBiN3FRVC1hZnJ2SF8ySWRNajhkazVoWWR0dmN3QzZESl9RdDNQaTlCWTZNYW1GcGNvdUwtMkducEhrNzhQX3JMZFluTEdoZ0ZyTnctdjhMVmVaaElDaERGM1NNV3RkU0FaVWJHNEVWNzdOcDBZMWxkY09CRWlFVUJYUEZxYXpoOEF0SjJDVFVoeHRMNGJNakZpQmtRbDVOblFUblN1bHVIS3ZIZkRLNHduYVZEXzYyY2V3NWpTVk85VDE5MU1SZ2hpclZZdm5pSkdhWm9LLXNVVU9MMXNPeVQzWDd6MXNpZDYzZmM4RDZDUkxqME91eEpzLU40?oc=5",
-              "source": "데일리안",
-              "publishedAt": "2026-11-24T02:00:00.000Z",
-              "kind": "news"
-            },
             {
               "title": "독일 총리 \"2008년 우크라 나토 가입 막은 건 실수…러와 협상은 준비돼\"",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02SGR6b1Q3QTdBaktpWk9WRXhHZ0dyZVV2SlQ3V3Z5YXhkcHliLW1pb3Q4czBHckkyejJ2X05YdEdSWjAtSU1qMWJ3aV9meFB1OVNWR3dXdGFjSUtZZGRaZA?oc=5",
@@ -583,24 +584,10 @@
               "kind": "news"
             },
             {
-              "title": "독일 총리 \"2008년 우크라 나토 가입 불허 실수, 전쟁 막았을 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcEhMY204Y2FYQVlDZmdfZ2tmd2pmZGh2ZHdvS014ZXhfWG81MlVaT2IxYWdmSE5qYVBaV2Zuamd2WDhjUVhzTHBJMGRIblE2OUQtQkpHeTVTUQ?oc=5",
-              "source": "파이낸셜뉴스",
-              "publishedAt": "2026-11-23T23:17:18.000Z",
-              "kind": "news"
-            },
-            {
               "title": "독일 총리 \"2008년 우크라 나토 가입 막은 건 실수\"",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0czItMVN1bzkwUERQM2E5TzgteGRMd0pGcE9LLW10WU1Oc25acm1aNFh3WHRHUTdlRXVlelkzWlN3UUozTkZXYXNfWHpmSExZOTAxd0NRbVZLdE9LdXc?oc=5",
               "source": "YTN",
               "publishedAt": "2026-11-23T20:32:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "독일 총리 2008년 우크라이나 나토 가입 막은 건 실수",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43YkVRVGpya3p1X1hLN1dyc25XT0ZtaEZqVUZMOHBSdnVGcndHOE9UdGc5bnZDRmJjOUg4dVpZVTFhYkctN25ndVNwY2ZYZ3VUTUpj0gFYQVVfeXFMTjlDQkFSQ21JZzdkTEVUYWl0SVlTV3BOZzRJOXYyeW4xMHNVV19HNnZlV1NKNWtKMUNDVExvd1kwU25Zd1N1d1Y1V1FtYm1tdGp2VXhXT2FaRw?oc=5",
-              "source": "SBS Biz",
-              "publishedAt": "2026-11-23T19:17:00.000Z",
               "kind": "news"
             },
             {
@@ -613,171 +600,91 @@
           ]
         },
         {
-          "title": "슈뢰더 전 독일 총리 부부, 예천 삼강서 전통문화 체험",
+          "title": "EU 정상들, 우크라 지원안·7년 장기예산 놓고 격론 돌입",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "슈뢰더 전 독일 총리 부부, 예천 삼강 방문",
-              "source": "LG헬로비전"
-            },
-            {
-              "title": "슈뢰더 전 독일 총리 부부, 예천 삼강마을서 전통문화 체험",
-              "source": "경북매일"
-            },
-            {
-              "title": "예천 삼강주막 찾은 슈뢰더 전 독일 총리 \"한국의 멋 원더풀\"",
-              "source": "OhmyNews"
+              "title": "EU 정상들, 우크라 지원·7년치 장기예산 놓고 격론 돌입",
+              "source": "연합뉴스TV"
             }
           ],
-          "span": "11.23~11.24",
+          "span": "11.26~11.27",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 5,
-          "articleCount": 5,
-          "articles": [
-            {
-              "title": "슈뢰더 전 독일 총리 부부, 예천 삼강 방문",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vYkcxb1ZGLWp4SXRnYmUwaHgxMkdyZmh6b3BNVjExYlg1RUpnZG1sNWswX2VJVWNVRkhyWUhFcHdEeWFsd0ItX1JQZWd0SXhnZ1p6eS13VzFDNW52REVRLUNJWC1NczlPQ0E4Nks3aFNQSklkOWfSAXZBVV95cUxPb2JHMW9WRi1qeEl0Z2JlMGh4MTJHcmZoem9wTVYxMWJYNUVKZ2RtbDVrMF9lSVVjVUZIcllIRXB3RHlhbHdCLV9SUGVndEl4Z2daenktd1cxQzVudkRFUS1DSVgtTXM5T0NBODZLN2hTUEpJZDln?oc=5",
-              "source": "LG헬로비전",
-              "publishedAt": "2026-11-24T06:31:52.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "슈뢰더 전 독일 총리 부부, 예천 삼강마을서 전통문화 체험",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3cmdQelpHRGtHeElGTENlSTBNX19fVi1jb1BOOC1vbElwVm1vWC1ONFVjMnZxeDlPalZ1ZTlRUzdCbTd3ZUkwemlnX2Q4RHVUMm9vLWFHZ3Z0QQ?oc=5",
-              "source": "경북매일",
-              "publishedAt": "2026-11-24T02:04:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "예천 삼강주막 찾은 슈뢰더 전 독일 총리 \"한국의 멋 원더풀\"",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXQm1TQ25iNEVRakR1QzBGSVdsRjl5ak0wRGdzODFCSm9ZM0cwbkRHbUhHdWI1T09SMldPTkFmM3JhYzRjSlBrQmtlbG8wVGFJZ2JHTGRLOHAzN3RBQ2RBUW83Qm93WDRSZFMtak5aYlJRZmUyWmFZ?oc=5",
-              "source": "OhmyNews",
-              "publishedAt": "2026-11-23T07:31:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "슈뢰더 전 독일 총리 부부, 예천 삼강서 전통문화 체험",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZXlRUEpiRS1zZmhfdUgxUDZjSE9RckQtYVJCSnprUjJXVC1YUUx2c2Jkc1YyZkxvRmpWeDU0aWtRMl8tR1lqQUZyRXUtUU9KdmU2aDByRThNcXZNTzdVMHZjWUhXQQ?oc=5",
-              "source": "데일리대구경북뉴스",
-              "publishedAt": "2026-11-23T06:45:06.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "슈뢰더 전 독일 총리 부부, 예천 삼강서 한옥·주막 체험",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85VFVEeDkwZ2w1ei1jdkVPSVpWOW5kMm9jdUFqMmdEMjRqV3hKWEhCMVh6X193OXYxWWluQ0FVMlU5ZDZRWmdZblBCZ0JzcWVBVG1rX2NjYnhlVXZzZklXa1QxalhyRTJvcGV5ZDh5aDJYVk1fZUp0SdIBeEFVX3lxTE85VFVEeDkwZ2w1ei1jdkVPSVpWOW5kMm9jdUFqMmdEMjRqV3hKWEhCMVh6X193OXYxWWluQ0FVMlU5ZDZRWmdZblBCZ0JzcWVBVG1rX2NjYnhlVXZzZklXa1QxalhyRTJvcGV5ZDh5aDJYVk1fZUp0SQ?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-23T04:53:01.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "“EU 전기차 우대 대상서 韓·日 빠질 듯”",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "EU 역내 전기차 우대에 한·일 빠질 듯",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "EU, 전기차 우대 대상에서 한국·일본 제외",
-              "source": "뉴스핌"
-            },
-            {
-              "title": "EU 역내 전기차 우대에 韓日 빠질듯…日서 초기대응 부재 비판론",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.24",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 4,
+          "sourceCount": 2,
           "articleCount": 4,
           "articles": [
             {
-              "title": "“EU 전기차 우대 대상서 韓·日 빠질 듯”",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fc1JBaXpWYlE2YXVIV2ZremZFYnJEWVNVdVhkTEZ1a3Vaem9jOXp1dTNhVERoWW9fNGRNZUdJN2xyeU1TMzVhc3FLTHZYVDdBZUVoczZkNlbSAVRBVV95cUxPSHVrWWI3cVhjVGpUbTdJTlFLQThGcGQxb1JpSFltVGhIbUJyemVUbmx1REFzTEExckpjSk84a0ZtQU4tZDZ0ZVJCZDhkOWRTZ2cyZGM?oc=5",
-              "source": "세계일보",
-              "publishedAt": "2026-11-24T09:17:57.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "EU 역내 전기차 우대에 한·일 빠질 듯",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BekNaU1hHbWFUSDl0d04wLXZqRUZDTEd1ZzhKWlJnMDhtQUFKZENGcXAtMW1jcVVSbkhKTEUxWmtRamI4LTF2LTRTMHRaY20yUmtVNnFTaVZKMGdNa3JEeDFWaUc2eEVDWWptZmlBQVhUaDkt0gF0QVVfeXFMT2hhb3U4VjlZbWQ3T1FIaUxSX0JPY29OYmE2MThYN3JOVUJnOERXeEpRRmlVRDhQNWhsbDlTTXUtN2dkY3BDYVVLN0NPWVBob3lLb00yWm5hYkNlOEhvOHRRRi1NMndHYkZDTjdYNUxaX1ZHcFo?oc=5",
-              "source": "MBC 뉴스",
-              "publishedAt": "2026-11-24T02:22:30.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "EU, 전기차 우대 대상에서 한국·일본 제외",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yMWhtZDJjeVZGYjdDNGMyRE1IMXlHMmU2RE1ueEJNN0FPcF9mXzltbWJEYXlYd1BUT2VVN3REbnRvUDVJd3p5WWN3TUlqbWVZTU14ZVFVU3N2bE1N?oc=5",
-              "source": "뉴스핌",
-              "publishedAt": "2026-11-24T02:05:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "EU 역내 전기차 우대에 韓日 빠질듯…日서 초기대응 부재 비판론",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81RmdQQkZYMUV5azFxYWFtZ1RvcEszZjhseVVNWGh3QmFiU2hWUG5BOWpvejFhZG82c1RzcjBLdkZjd3h3ekNoVW5VamZwODlfUnpvZ2FUUDJjd0HSAWBBVV95cUxNMnROaDdaOFBuekE5c2N0R05kcEFWOWV5VkJKNDdXcjNfaml1RzBOZlEtWlFXLUM4bnB3UkVoQU1vTkNkOEJvR0o0TTNQYjN1ekpTR0FvS2NtQWdCbmxLZzE?oc=5",
+              "title": "르펜에 발목 잡힐라…EU, 우크라 지원안·7년 예산 놓고 격론(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BdjFoOENTMFRQWnN6TlpNNnNFcTFCclFDOXFLT01EUEdwWk1na0o1UEEtbWxUZXVpbjZzamM4LWpTR3JxaUlQMzlsaG5yaTR3Z2ZPSTkxWDNJOWdybzFUUdIBYEFVX3lxTE1BdjFoOENTMFRQWnN6TlpNNnNFcTFCclFDOXFLT01EUEdwWk1na0o1UEEtbWxUZXVpbjZzamM4LWpTR3JxaUlQMzlsaG5yaTR3Z2ZPSTkxWDNJOWdybzFUUQ?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-24T01:37:42.000Z",
+              "publishedAt": "2026-11-26T19:26:47.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "EU 정상들, 우크라 지원·7년치 장기예산 놓고 격론 돌입",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45cFpuMGdXZHFhcjBSX3JvWjYyRkVJZnNmM3dIajJCWnFFc0J3YTNjTEg3VWJQaldJVmdMZTVhemIzd24zRlREYkdRc3Y2d0FkZVM0cm1wTjZ2ODl2UW81QkN4dFU3SUE?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-26T12:40:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "르펜에 발목 잡힐라…EU, 우크라 지원안·7년 예산 격론 돌입(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oOGRkWUVGWkJXVHVNS2xEUlo3dDlETFNxT2dlWmpoTFNiTjFsQ1VBNTNWVkR5VzFJcmk4aXhzRzlQeDA2bTJSR2ZGQXVFcmptQXM3aG9JcGlvNGs5MWdnatIBYEFVX3lxTE5oOGRkWUVGWkJXVHVNS2xEUlo3dDlETFNxT2dlWmpoTFNiTjFsQ1VBNTNWVkR5VzFJcmk4aXhzRzlQeDA2bTJSR2ZGQXVFcmptQXM3aG9JcGlvNGs5MWdnag?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T17:51:16.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "EU 정상들, 우크라 지원안·7년 장기예산 놓고 격론 돌입",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZmpQN3pDRndvQmpLd2tSTWQxYXI2cThaSk51OUJyOGI2Qmp0bzI2MThtSlM1NGM5TURyNjA3UEQzXy15MVkxUUI5OEhpZlNuZFJrdERYN1hjeG5NQjN2NdIBYEFVX3lxTFBNZmpQN3pDRndvQmpLd2tSTWQxYXI2cThaSk51OUJyOGI2Qmp0bzI2MThtSlM1NGM5TURyNjA3UEQzXy15MVkxUUI5OEhpZlNuZFJrdERYN1hjeG5NQjN2NQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T12:28:25.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "버넘 영국 총리 \"국민투표 없이 EU 재가입 생각할 수 없어\"(종합)",
+          "title": "영국·EU 무역합의에 ‘패라지 조항’…10년 내 파기시 비용 물어야",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "버넘 英총리 “국민투표 없는 EU 재가입 생각할 수 없어”",
-              "source": "www.dt.co.kr"
-            },
-            {
-              "title": "영국, 브렉시트 논쟁 계속···버넘 총리 “국민 투표 없이 EU 재가입은 없어”",
-              "source": "경향신문"
+              "title": "영국·EU 무역합의에 '패라지 조항'…10년 내 파기시 비용 물어야",
+              "source": "연합뉴스"
             }
           ],
-          "span": "11.24",
+          "span": "11.27",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
-              "title": "버넘 英총리 “국민투표 없는 EU 재가입 생각할 수 없어”",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jbzVvMWhaS2QwS0d3U3VUVzFMQ1dyM01JRnBteXdsa1RjeEJmbTZhMFJPRlV1VXdKX2pheGFTTk1tYTg2TWIzWjB1UFhTdw?oc=5",
-              "source": "www.dt.co.kr",
-              "publishedAt": "2026-11-24T09:11:10.000Z",
+              "title": "영국·EU 무역합의에 ‘패라지 조항’…10년 내 파기시 비용 물어야",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSDFQc0p4TlJIUDVxQ3JrZlQ3NGFkbGdnWkp5bjBSZXl6Q3U0YVlqa1pEb3c3YzdqeFM2TGlncG9iREROWGVFcHZHVmc5a21nUHdGRTdOZlNyYzA?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-26T19:03:00.000Z",
               "kind": "news"
             },
             {
-              "title": "영국, 브렉시트 논쟁 계속···버넘 총리 “국민 투표 없이 EU 재가입은 없어”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sR0VOOW91aEJlWkVLRGg1eFRfVzBqZktZYjNYQTJxT09MbUh0N2hoTXhZMFhZa1lJQUhWMi1fY0ExOFV4SG5yeU8xQkVQbGIydHZ4X0lsVW5td9IBX0FVX3lxTE8yN0ZaRnhkUlZIZ3pyODY0OFBYMXRHbTl4aHJpaVpMbTBMdlZFXzFoNWxjUVg1T00wUVVITnpqRExzUUxJUUJ5TTFrOUdQenVMZkZZSEFaTWtjZFBiVXZz?oc=5",
-              "source": "경향신문",
-              "publishedAt": "2026-11-24T08:13:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "버넘 영국 총리 \"국민투표 없이 EU 재가입 생각할 수 없어\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoWHBkMHlzOGJmdklDZFBkNG52Z05sdWZjQ3dvVnFjTUhYOVVSbFFoV2szaXZHc2lBdVMtZ1ZIQjBIOXlibU90aG02SkxVRzdFX2JTZ0tYeHNzeFHSAWBBVV95cUxPRzBoN3BxNXNwRWZxeC1HQmxJZFFuSkN0cDRGZHZhNUlVdFlMR3NpSHE0dlRPdGZBUnVKSmhHY2NUR3d2WUcxMFJCX1hSR3otWi1OTlg5dnpBOXZocEhsYlg?oc=5",
+              "title": "영국·EU 무역합의에 '패라지 조항'…10년 내 파기시 비용 물어야",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QUDE4M1RabHBQLVdBZHc3WEo1UjZHVmt2UjV1YWhLTTZCdUMyUDdRUHFtUmlNeTZsbDhSNFpfMDdHejYzOGVmcWVtenNYRzlDblRqTGJsLUxscnVSTGtsatIBYEFVX3lxTE1QUDE4M1RabHBQLVdBZHc3WEo1UjZHVmt2UjV1YWhLTTZCdUMyUDdRUHFtUmlNeTZsbDhSNFpfMDdHejYzOGVmcWVtenNYRzlDblRqTGJsLUxscnVSTGtsag?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-24T00:23:47.000Z",
+              "publishedAt": "2026-11-26T17:47:16.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "프랑스 대선 출마 유도 영웅 리네르 \"우크라전 우리 전쟁 아냐\"",
+          "title": "이지호 전남미술관장 프랑스 문화예술공로훈장 ‘오피시에’ 받아",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "프랑스 대선 후보 테디 리네르, 우크라이나 전쟁은 ‘우리 전쟁이 아니다’",
-              "source": "Mezha.net"
+              "title": "이지호 전남미술관장, 프랑스정부 문화예술공로훈장 ‘오피시에’ 수훈",
+              "source": "컬처램프"
             }
           ],
           "span": "11.25~11.26",
@@ -787,49 +694,81 @@
           "articleCount": 2,
           "articles": [
             {
-              "title": "프랑스 대선 출마 유도 영웅 리네르 \"우크라전 우리 전쟁 아냐\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WX1NzOVpqWURRTkhqampOa0M5OHpob01LZTZZSkRBWHBUUDV3Q1ZHN3BDLVNJMHA4WmJLSHU1cUdjOThhZkhMLXpxSk43Qi1LTHdOZkdSa3RsTHlwLXBDdtIBeEFVX3lxTE0tZkk5dFdVajllZDNhdzl6TkF5QTMxVVN2d3o2LTA3LUxNc2p2ODFJa3U4Nm9NQWhJZ1F4M3dUSnBGU1UyWGhXenVHZF9MQXVxNHdlZ2Vad3lCaS1lUVJvMklac3VqakZRRVpfUmNSV1djZ0N5UjNrcw?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-26T03:13:05.000Z",
+              "title": "이지호 전남미술관장 프랑스 문화예술공로훈장 ‘오피시에’ 받아",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tTFRVV21BX29aN2stcnBFWU93cEhfR2g0YWFVZ1pKdGI2WUhIc3Vva2dPZlJSREVPNTh4WlQ3SDJoMkRUVGtJSXgwNmphRHZzeXJ1Y2JWX0FaT296T0g0SWtGTmwtYW9kTldlRVdCdHg5UQ?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-26T07:02:00.000Z",
               "kind": "news"
             },
             {
-              "title": "프랑스 대선 후보 테디 리네르, 우크라이나 전쟁은 ‘우리 전쟁이 아니다’",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTUzX3NQdEVPc3Fwa0M3VW45QkhSNjBYZXpMMk9Ia2t4Q0lSWnFPUHVjTWhJaFVBQU40LUx5N3hldVVCOC16RUtjcnNPeXYtQlhickhJbmRfREJaTEJhclB5NUJGS0VhUWZmcmwxQ21NQXZqd2Z3cjBzTzF0TDJUeDV3RjVVX3R6MHRvbDg1ZWJtWHlKVUJRZ3BON2FJVk5XOEZPbg?oc=5",
-              "source": "Mezha.net",
-              "publishedAt": "2026-11-25T09:55:00.000Z",
+              "title": "이지호 전남미술관장, 프랑스정부 문화예술공로훈장 ‘오피시에’ 수훈",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12eUhvUTFRY1NVZHQ3TF9tLVVNNXExUXRuZGVSVXVzMG0ybXAxaXdOOWotQkdrekotMGhPRTQwYWdTdEFGQ0I2aTUxSUdJQzFvaUZhR3ppSEx2YW5OMDJJN2pXQmhZV2JCdFBB0gFvQVVfeXFMTjZWdkdwN2pHdVA3dzB6T3c3VE5VZWJBRWs2TGE0azU1MHUyWnFzaFUyLWdPVUJrU1FXby1DQWhtekVNVUNla0dsWEhfczZhamlCRElhX1pqQnhTWUh1ck1jaEdGTzRaeDZRQllLTS1J?oc=5",
+              "source": "컬처램프",
+              "publishedAt": "2026-11-25T14:36:10.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "유럽의회, '필수의약품법' 본회의 가결…항생제·인슐린 역내 생산 본격 확대",
+          "title": "‘친러’ 슈뢰더 전 독일 총리, 러시아 기업 취업 두 달 만에 ‘실직’ 위기",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "유럽의회, 필수의약품법 가결…항생제·인슐린 역내 생산 늘린다",
-              "source": "뉴시스"
+              "title": "'친러' 슈뢰더 전 독일 총리, EU 제재에 실직 위기",
+              "source": "연합뉴스"
             }
           ],
-          "span": "11.26",
+          "span": "11.25",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "유럽의회, '필수의약품법' 본회의 가결…항생제·인슐린 역내 생산 본격 확대",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02MlhNRy00dm93TXVSZF9hWm02UXFsOTlEUkpvNGRrSzFRMVNLTFpXZ3l3NTRQdGZEaS1GY3dLUElnSjRHLS04VTZVenduUjVWd2lmWE1pU3JqcjZHakhYNXprSUIta3JSTlBRbA?oc=5",
-              "source": "와이드경제",
-              "publishedAt": "2026-11-26T02:39:49.000Z",
+              "title": "‘친러’ 슈뢰더 전 독일 총리, 러시아 기업 취업 두 달 만에 ‘실직’ 위기",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DQkhuVUFFTmRlRU56ekF6aFNnNXZfTml5V0JJMUJ3dnNLUkl2aVVuM3I1LVdFaldVZDBxQnBCSWF2NHVPTmtzTy1mbG1sa09Ha3dtVldn?oc=5",
+              "source": "헤럴드경제",
+              "publishedAt": "2026-11-25T10:16:53.000Z",
               "kind": "news"
             },
             {
-              "title": "유럽의회, 필수의약품법 가결…항생제·인슐린 역내 생산 늘린다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYWJFVkhpMkxhaFhmWkFkdTVUb195T20yRXVCanFqX2dWaEN0WWdJV09XYnB1T3ROdlFrNTBNOGh2R2JlR3JIaFlMNDRZRWtVZmFQdEh5dlVVV1hpbFlDSNIBeEFVX3lxTFBTZ2dYTUEtdWhTVHNTNnV3SXU0ZGx3MVFhRkIyckw3RGEyRF9lY0R1LTlDLWRER05wZVlsWWkzamNuMmJ6Z3hreWs5NVg4b3RHQzJ5d3lmMVdBVUZYQWtQaDdxVzZTYjczM1lOMk1DYlQyengtekYwZg?oc=5",
+              "title": "'친러' 슈뢰더 전 독일 총리, EU 제재에 실직 위기",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1enFDRF9jZGs2S05oRkhFNDJ5a2hycnJxQjRYaUFyR3BkNGszTVYtOWhzczBiXzRVSWctZFF3TmlrTUROWWJSbVVLc3ZuOVVCOGM4LWVSTS0xaTjSAWBBVV95cUxNNloxMWo5XzlHdUN4MWZybF90Q2p1emtCcWJ4U2l1MDVVS01vZFRkZzk4a2FyX3FGcWxKV1NUa3M2U3pCWDRnYzR4VlVqUVd1bTU2VzFzd0stbXFzSnJFd0M?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T09:36:05.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "佛 사르코지 부부 이번엔 증인 매수 의혹…내년 재판 회부",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "佛 사르코지, 이번엔 증인 매수 의혹…부인 브루니도 재판행",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "佛 사르코지 부부 이번엔 증인 매수 의혹…내년 재판 회부",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KZDlVUEktcmpCWFBJQlNzUEhaQk1WUkNTV05HcE41REp5NExBMGFqWWtJbTdIV3hmVW5FYl92OHNOSEhUVU53TzlsTzJZcGtYOXRtRU5pX1Awd1ZjM3U2ZUp6anFteGRqcm9XSjB1cW9ZSU9kQjlpYdIBeEFVX3lxTE1KZDlVUEktcmpCWFBJQlNzUEhaQk1WUkNTV05HcE41REp5NExBMGFqWWtJbTdIV3hmVW5FYl92OHNOSEhUVU53TzlsTzJZcGtYOXRtRU5pX1Awd1ZjM3U2ZUp6anFteGRqcm9XSjB1cW9ZSU9kQjlpYQ?oc=5",
               "source": "뉴시스",
-              "publishedAt": "2026-11-26T02:23:48.000Z",
+              "publishedAt": "2026-11-25T06:30:55.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "佛 사르코지, 이번엔 증인 매수 의혹…부인 브루니도 재판행",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FQUhrNTdxZVhTaTB5ZU01WjBoeEhQRWxzWTEzYjhWMW9vb0pMSDdmc2hpaWtqV25VcVdlLU1jN0RCaXJCaDBOeDl4R09qSTJ3UFh3bkoyZm9UNk9Wc0NSQ9IBYEFVX3lxTE9FQUhrNTdxZVhTaTB5ZU01WjBoeEhQRWxzWTEzYjhWMW9vb0pMSDdmc2hpaWtqV25VcVdlLU1jN0RCaXJCaDBOeDl4R09qSTJ3UFh3bkoyZm9UNk9Wc0NSQw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T01:52:51.000Z",
               "kind": "news"
             }
           ]

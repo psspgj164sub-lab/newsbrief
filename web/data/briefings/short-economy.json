@@ -4,76 +4,76 @@
   "category": "economy",
   "categoryLabel": "경제",
   "range": {
-    "from": "2026-11-20",
-    "to": "2026-11-26"
+    "from": "2026-11-21",
+    "to": "2026-11-27"
   },
-  "updatedAt": "2026-11-26T05:05:19.844Z",
+  "updatedAt": "2026-11-26T21:17:01.804Z",
   "ai": false,
-  "headline": "한은, 기준금리 3.25%로 인상…내년 경제성장률 4.1% 전망",
-  "overview": "최근 1주 경제 분야 기사 338건(123개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「한은, 기준금리 3.25%로 인상…내년 경제성장률 4.1% 전망」(기사 24건·매체 20곳), 「한은, 기준금리 석 달 만에 인상...연 3%→3.25%로」(기사 9건·매체 7곳), 「반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상(종합)」(기사 5건·매체 5곳)입니다. 자주 등장한 키워드는 인상, 기준금리, 한은, 급락, 수상입니다.",
+  "headline": "한은, 기준금리 연 3.25%로 인상",
+  "overview": "최근 1주 경제 분야 기사 302건(112개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「한은, 기준금리 연 3.25%로 인상」(기사 23건·매체 16곳), 「삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사」(기사 6건·매체 6곳), 「한국은행, 기준금리 0.25%포인트 인상…연 3.25%」(기사 4건·매체 4곳)입니다. 자주 등장한 키워드는 인상, 기준금리, 한은, 급락, AI입니다.",
   "keyPoints": [],
   "keywords": [
     {
       "word": "인상",
-      "count": 62
+      "count": 65
     },
     {
       "word": "기준금리",
-      "count": 49
+      "count": 48
     },
     {
       "word": "한은",
-      "count": 43
+      "count": 37
     },
     {
       "word": "급락",
-      "count": 27
-    },
-    {
-      "word": "수상",
-      "count": 15
+      "count": 23
     },
     {
       "word": "AI",
-      "count": 15
+      "count": 17
     },
     {
       "word": "성장률",
-      "count": 15
+      "count": 17
     },
     {
       "word": "상승",
-      "count": 14
+      "count": 16
     },
     {
       "word": "머니투데",
       "count": 14
     },
     {
-      "word": "역대",
-      "count": 14
-    },
-    {
-      "word": "돌파",
-      "count": 12
+      "word": "상향",
+      "count": 11
     },
     {
       "word": "금통위",
-      "count": 12
+      "count": 11
     },
     {
-      "word": "폭락",
-      "count": 12
+      "word": "삼성전자",
+      "count": 11
     },
     {
-      "word": "최대",
-      "count": 12
+      "word": "역대",
+      "count": 11
+    },
+    {
+      "word": "달러",
+      "count": 10
+    },
+    {
+      "word": "추가",
+      "count": 10
     }
   ],
   "rising": [
     {
       "word": "인상",
-      "change": 799
+      "change": 1035
     },
     {
       "word": "기준금리",
@@ -81,7 +81,7 @@
     },
     {
       "word": "한은",
-      "change": 1819
+      "change": 1197
     },
     {
       "word": "성장률",
@@ -92,204 +92,75 @@
       "change": null
     },
     {
-      "word": "반납",
+      "word": "회복",
       "change": null
     }
   ],
   "issues": [
     {
-      "title": "한은, 기준금리 3.25%로 인상…내년 경제성장률 4.1% 전망",
+      "title": "한은, 기준금리 연 3.25%로 인상",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "한은, 기준금리 연 3.25%로 올려…내년 성장률 4.1% 전망",
-          "source": "KBS 뉴스"
+          "title": "기준금리 연 3.25%로 인상...내년 초도 금리 오를까?",
+          "source": "YTN"
         },
         {
-          "title": "한은, 기준금리 3.25%로 인상‥\"내년 성장률 4.1%\"",
-          "source": "MBC 뉴스"
+          "title": "기준금리 3.25%로…긴축 박차",
+          "source": "비즈워치"
         },
         {
-          "title": "금통위, 기준금리 3.25%로 인상…\"가파른 성장 속 수요 압력 우려\"",
-          "source": "연합인포맥스"
-        }
-      ],
-      "span": "11.26",
-      "days": 1,
-      "hasPress": true,
-      "sourceCount": 20,
-      "articleCount": 24,
-      "articles": [
-        {
-          "title": "한은, 기준금리 3.25%로 인상…내년 경제성장률 4.1% 전망",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UcXJsUHRwTUE4NHhOZS1seWh1aFhXSFVXR0l0WnhscHVDNkVWZDd1aExiRmRKNXZGYnIydlV4dXpBUHNZRzU2dHdraVNSSU5HSWtqUkF5V1BJZE10TmRWRGdXcGYxUQ?oc=5",
-          "source": "열린뉴스통신",
-          "publishedAt": "2026-11-26T02:50:21.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "한은, 기준금리 연 3.25%로 올려…내년 성장률 4.1% 전망",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JLVBlS3d4eDdHZEdkU1lGWW41ejVyMEs1bVVDazhPLTRyNldRRUk0Y1E1Q01wUDBaNHlmRm5JeU9DZkdlaFk0a0E1N3JSZWJVWHYwd3NUanpNd00?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T03:25:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한은, 기준금리 3.25%로 인상‥\"내년 성장률 4.1%\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Wmt0OF8wQnFoWnlYQ1kzVTlGTUJyN0lUQzc0OEd4VVYyVnUzX0Zyb1l6bFFXWUZfZHNyaEs3cW1ndmtoSndsZFJoQkhvSFJ1c2ZmOHo4aVp0TGdzYXJYRnN0bzVlWWlJTjlScjYtckZDV081UTNVNtIBeEFVX3lxTE4tVVFiRjZfYmxtRHdMWHd2b0dRLU9OUnA5emFVWDJUOEVzb1JyV1dFYXdySHJBd0VqMUVuVDRjd3l4VGpUOVkxR0Rxc3ZHZE14NWMxUkc1b1k0TGh1TEVTOEo1cHB2Z2lZenZtUUQtTGpkTndTdTFZcg?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T03:04:11.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "금통위, 기준금리 3.25%로 인상…\"가파른 성장 속 수요 압력 우려\"",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLUlF6TUF2WVJUUU9YMTBwcGhLNnRQTURWSHFnSnVPRWFPb09rdXN1MWF5T2lnaS1NQ3J5ODNBMzFzQWVOanhyRkRwcXJsc014M2NjeWpnZm02dWp5Y2xicnF0NFI0OHpKNDNTWHJ4aGjSAXRBVV95cUxOM1hTbk9US2RQZVhoTGI0Znk2aFJLT2p6azBWLUIyX0ZoeFBXY194amZBbWFpYWRzbFA1SjJGZFVWMHB2a3NhS092endTd0RjVnNqWlc3QnU3bVRlcnZVRzRiS3ZYY0FTZmdxM2RNMFN0YXlzRQ?oc=5",
-          "source": "연합인포맥스",
-          "publishedAt": "2026-11-26T02:50:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "기준금리 연 3.25%로 인상...\"내년 성장률 4.1%\"",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HOWF1Wkt5WDRnRlEtaHRqWmRNTUxwZFFMUFR0OVl2NVlsQi1VbmxUNGlUWlp5RE9lblhFU1ZjODRyOVhReVBLS0VWM01IU0xZY2t1Vmt0LTFjNmwyeEE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-26T02:32:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한은, 연내 마지막 금통위서 기준금리 3.25%로 인상…올해 세 번째",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UTG1XY09EaXRhaVY4UTZqWGNEMWVEdU5YUUNDOFE3VUVaWWwwOUE3djZBZXZscUt1UjFacVZHcVZUNmRQU3hTY2l4RjB3djA2Zzl4MDNROV81TTdaeTZCWVpkc9IBY0FVX3lxTE1UTG1XY09EaXRhaVY4UTZqWGNEMWVEdU5YUUNDOFE3VUVaWWwwOUE3djZBZXZscUt1UjFacVZHcVZUNmRQU3hTY2l4RjB3djA2Zzl4MDNROV81TTdaeTZCWVpkcw?oc=5",
-          "source": "토큰포스트",
-          "publishedAt": "2026-11-26T01:54:07.000Z",
-          "kind": "press"
-        }
-      ]
-    },
-    {
-      "title": "한은, 기준금리 석 달 만에 인상...연 3%→3.25%로",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "기준금리 연 3.25%로 인상…2명 동결 소수의견",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "한은, 기준금리 0.25%p 인상…2년 만에 연 3.25%",
-          "source": "한겨레"
-        },
-        {
-          "title": "한국은행, 기준금리 0.25%포인트 인상…연 3.25%",
-          "source": "BBS불교방송"
+          "title": "기준금리 연 3.25%로 인상...내년 경제성장률 전망치 4.1%",
+          "source": "YTN 사이언스"
         }
       ],
       "span": "11.26",
       "days": 1,
       "hasPress": false,
-      "sourceCount": 7,
-      "articleCount": 9,
+      "sourceCount": 16,
+      "articleCount": 23,
       "articles": [
         {
-          "title": "기준금리 연 3.25%로 인상…2명 동결 소수의견",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52STJWRkFhSUh5aUhZNUU0amtoTVJOeW40aXJOSGtvTGZ0b1FISFpSbzU4VXI5MWxlQUJuSzU4eFRBUmw4NTEwNVJabm83VVZJTnZRYU9VUnkxbWtObG9ORFF2Zk5BNjg?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-26T02:37:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한은, 기준금리 0.25%p 인상…2년 만에 연 3.25%",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kaWJkTjM5bmJlYUh1RFVHbWdhSTdLOVRLY2oxTDZhNFE0QTJMTzlLV0VoSGVpRmg3NVZoYUR2dWVra0VIdnEtakJTUFR1N0IwbzBETlBNNXRMMTlRYUlmUFcyb2xsVGJXMWhjbWVDM09tZw?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-26T02:10:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한국은행, 기준금리 0.25%포인트 인상…연 3.25%",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EOEl4LXd0QUZGMWNvWlRhSzBNVk1HelU1WFl2ZzBQZmxQcW1OUS1fa2JucEEtU2JhZGFCbXpHLVgwZ0VaUHpzRVlVNGZPdmhtS0wyXzhxcDZVbV9Wd2toX3pCNkFuYmFOQ2R3?oc=5",
-          "source": "BBS불교방송",
-          "publishedAt": "2026-11-26T01:23:55.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "속보 한은, 기준금리 석 달 만에 인상...연 3%→3.25%로",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByejRxVTZjYWhqVjg1NHNWZGZvcHM5bjZYZG9JSHFfWjk1V05ZUXRwT21CRE9kbUpGam5MTHBPUzNCTG1ucVBjNWlRR0dYdUxKWXhDOGt5dF8xSzhlVkE?oc=5",
+          "title": "기준금리 연 3.25%로 인상...내년 초도 금리 오를까?",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GSEJvTHIyMnpqblM0NnV3dTUyY0xkV0poOG80ZzlhOGZwNXZadXAxVE5XejhWczF2ZGY1WlJkZVdnLWFhbkFNNWgyOEtGeHM4bndLTWxBWnhIbC1IMlE?oc=5",
           "source": "YTN",
-          "publishedAt": "2026-11-26T00:52:00.000Z",
+          "publishedAt": "2026-11-26T13:06:00.000Z",
           "kind": "news"
         },
         {
-          "title": "한은 기준금리 연 3%→3.25% 인상…다시 긴축 박차 가한다",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYdnFnalE1WGVnc3llMlp1X282clpWS19jWmJmQjdEeC1sZzRoUjdSRXh3cWNvd3kwWmxjS293MWlTNTdQU0V0N0Q5NGZLV2F6NTNLS2RR?oc=5",
-          "source": "중앙일보",
-          "publishedAt": "2026-11-26T00:50:23.000Z",
+          "title": "한은, 기준금리 연 3.25%로 인상",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zcjBEYWhmSllGcXVSeHJ6ZWdUc3BKWFdFb21BS3BNcW16MDNzWE8xa2xCWUlvbldCSzZObDJLZWtnSTFUVllERFFKUENsX19sdHpreUJwbVYwdTA?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2026-11-26T08:35:08.000Z",
           "kind": "news"
         },
         {
-          "title": "한국은행, 기준금리 연 3.25%…25bp 인상 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZXFzeUlTa0NFM2tyQkNQdmxRUGtEa3h4QktFakY3NWVzblhRSGZDUnVha0tKdUlmbjc4UmNzcDNOSE5SaHlmQk9jQU56S2NDNjlxSmlWRlRSUVB4QmowcnZBdzZ4cEllNnA40gFwQVVfeXFMUEpqQWJ5cTIwZzBDOFpQRmhTV1VyU2JJeE5rNmpwSE9sNEdUdEloS3c3RXNqWnBvTld4R09IWEFuLXVBQVhJazBPR3cwVnFPblBOZ2V3c1lDM25KLTFXc29HanVWcmpWQ1MxYk5EYnBqTg?oc=5",
-          "source": "머니투데이",
-          "publishedAt": "2026-11-26T00:50:22.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상(종합)",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "반도체 호황과 높은 물가 상승률에 한국은행 기준금리 연 3→3.25% 인상",
-          "source": "시사뉴스"
-        },
-        {
-          "title": "한국은행, 기준금리 3.25%로 인상…반도체 호황·물가 상승 압력 반영",
-          "source": "싱글리스트"
-        },
-        {
-          "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
-          "source": "JTBC"
-        }
-      ],
-      "span": "11.26",
-      "days": 1,
-      "hasPress": true,
-      "sourceCount": 5,
-      "articleCount": 5,
-      "articles": [
-        {
-          "title": "반도체 호황과 높은 물가 상승률에 한국은행 기준금리 연 3→3.25% 인상",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYUlZGM0lpUDJvSERBRWVLdjFMaVpvZWRpUi1HT0hqVzdLMm9JcXBBVUozOWpnZlEtcHRPRXh4RTN6aVhURVhRT3Bxa3E0NE9GLThFOC1QV1gwWGhSWTZNXzJCSQ?oc=5",
-          "source": "시사뉴스",
-          "publishedAt": "2026-11-26T04:15:12.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "한국은행, 기준금리 3.25%로 인상…반도체 호황·물가 상승 압력 반영",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yRGVFZ2o2Qmt6aEhOVXNGd3ZySXpkd2hwdE9nY3c1RFZRTWVuXzZmaTM5a2xDeGdHdng3VVo4X3pic2swTGViRU11V1lZbk9WdTVGMS1kYWxwTTFUVUVZZUZCdzhQZw?oc=5",
-          "source": "싱글리스트",
-          "publishedAt": "2026-11-26T00:53:56.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyVjQ5a2pZQkZiQnFEQTRnVFRjVkxkVVVjNVNSZHhfdEdxcWZpOE94Q01tbGxTaS1EMzhLQmE4cWRUUTJfN1JVV3V0bk5sVTM1SkotTTR5cnk1dEHSAWBBVV95cUxPc21aSGtsRkhCWk5qcUN0V1o3SUFxNXFhRTlHMjVtMkdUVG1CZENjdHRqcFk2UXRBNkdIUjVWYWFXU0l0S3ZUYWw1eHpFVWZHMGFIM0NtZXJJN2FpTzUtcV8?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-26T00:52:12.000Z",
+          "title": "기준금리 3.25%로…긴축 박차",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82ZjVKak9UcXdwcnNEcTR4eE0xZXZJaUhzV0RDOFNzYU05ODM1bUxtOGxXRWhlWXBCLUxZMl8zeUJJb3RESG1lOG9BSDlpZ09uaUJXYjlELWREUnNJVkFmcEktX1EzN0JwOW1r?oc=5",
+          "source": "비즈워치",
+          "publishedAt": "2026-11-26T08:04:03.000Z",
           "kind": "news"
         },
         {
-          "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUFNCano5WTdBb3BLRGpEUjNJMTl1RF80Y2poMGRfS1pvRjNUUjUyeHFfUTRzWUhhRDNIdzVxT1A2S09WQVprdFFYb3BmMFRULXNRRA?oc=5",
-          "source": "JTBC",
-          "publishedAt": "2026-11-26T00:51:00.000Z",
+          "title": "기준금리 연 3.25%로 인상...내년 경제성장률 전망치 4.1%",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uemVkQkRsX29Oak1NQTd3TldNRUh6QzdKU2NIbVBQcDRnemR6Z1hXNzAtLTRTcmVGZ3l3bkZVd25CUlZEWGtJSTRWSTIxNWRrbHBJRDBzeEJ1Tm5fbFpWYy1KY1FZeTEwWkNfbktjZEhZdGxLSmZaU19zMk16LXc?oc=5",
+          "source": "YTN 사이언스",
+          "publishedAt": "2026-11-26T07:01:16.000Z",
           "kind": "news"
         },
         {
-          "title": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLZ25HNi0zU2lJbGpkel8zUFhUWnRJLWFSMkZ4Y1phZjd4b2VyRlZENkRxMXJ6ZnRMSHNiVTJCTTNuNzU0SHViZWdEcUtxWEkyc2MzMXE3TkIyZw?oc=5",
-          "source": "한국경제",
-          "publishedAt": "2026-11-26T00:50:19.000Z",
+          "title": "숨 고르기 끝낸 한은, 기준금리 3.25%로···긴축의 상단이 높아졌다",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrZ2I0R0xMQ3Y1UzFYNzR2NVZhaGVIOGlPT3Y2NGFwS0VkME9GVkhsOTR5STY5QlVkeEhuRVdQU2xlSVZpRUtmdjIxQ0RwLTVHWTBwc1ZualhFdzhYbUxIY05UUDVYc0Z4OHdYdDV1dENjUTdXVWfSAXZBVV95cUxQa2diNEdMTEN2NVMxWDc0djVWYWhlSDhpT092NjRhcEtFZDBPRlZIbDk0eUk2OUJVZHhIbkVXUFNsZUlWaUVLZnYyMUNEcC01R1kwcHNWbmpYRXc4WG1MSGNOVFA1WHNGeDh3WHQ1dXRDY1E3V1Vn?oc=5",
+          "source": "시사저널e",
+          "publishedAt": "2026-11-26T06:52:16.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한은, 기준금리 연 3.25%로 올려…내년 성장률 4.1% 전망",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wT08zREVoVS0zRFdOb1BXZ3NaakNsemRGd3JkdEg1c1lic2lEd0lQeGlMZVRlODhTMFV3WXcybjN5RU1fazJRRkxVOE0wcnY5bTFPUzhQZjlNbUk?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T05:16:00.000Z",
           "kind": "news"
         }
       ]
@@ -304,19 +175,19 @@
           "source": "폴리뉴스 Polinews"
         },
         {
-          "title": "삼성전자, 반도체 실적 부사장 3명 사장 승진",
-          "source": "퍼블릭뉴스통신"
+          "title": "삼성전자, 사장단 인사... 반도체 실적 주도 리더 전면에 등장",
+          "source": "뉴스브라이트"
         },
         {
-          "title": "“반도체 실적 주역 사장 승진·전면 배치”..삼성전자, 2027년 정기 사장단 인사 단행",
-          "source": "데일리카"
+          "title": "삼성전자, 반도체 실적 부사장 3명 사장 승진",
+          "source": "퍼블릭뉴스통신"
         }
       ],
       "span": "11.20~11.25",
       "days": 2,
       "hasPress": false,
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 6,
+      "articleCount": 6,
       "articles": [
         {
           "title": "삼성전자 인사, 반도체 실적 주역들 전면에…성과 확대 뒷받침",
@@ -330,6 +201,13 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhaTY4Q3lVQnBHeU1MUkZXV3pIeldKYmJIaHNzU3FXWWZKY1k0c3FLb1p5Z2Y0bUhySEdvT001RU9MM3ljWE16YlQxRHdyazdZWWc?oc=5",
           "source": "노컷뉴스",
           "publishedAt": "2026-11-20T10:09:36.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "삼성전자, 사장단 인사... 반도체 실적 주도 리더 전면에 등장",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaTVViRnBsQXNnZU8zd0p0RHRVOGU1SmNCRnRzRURQWmk3MTZ3bFNNemI4OU84VGpFcndvbVBKMnB0TU0xMGdrWGw1R0stRm4yb1Q1MGlXYi03ckV6Um5XZWVoTTFUdG5yN29tVg?oc=5",
+          "source": "뉴스브라이트",
+          "publishedAt": "2026-11-20T09:57:33.000Z",
           "kind": "news"
         },
         {
@@ -356,17 +234,71 @@
       ]
     },
     {
-      "title": "18년 만에… 증시안정펀드 가동 준비",
+      "title": "한국은행, 기준금리 0.25%포인트 인상…연 3.25%",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "'검은 월요일' 될까‥증시안정펀드 가동 준비",
-          "source": "MBC 뉴스"
+          "title": "반도체 호황과 높은 물가 상승률에 한국은행 기준금리 연 3→3.25% 인상",
+          "source": "시사뉴스"
         },
+        {
+          "title": "‘물가 상승부터 잡는다’... 한국은행 기준금리 3.25%로 인상",
+          "source": "충남일보"
+        },
+        {
+          "title": "한국은행, 기준금리 연 3.25%…25bp 인상 - 머니투데이",
+          "source": "머니투데이"
+        }
+      ],
+      "span": "11.26",
+      "days": 1,
+      "hasPress": true,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "반도체 호황과 높은 물가 상승률에 한국은행 기준금리 연 3→3.25% 인상",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYUlZGM0lpUDJvSERBRWVLdjFMaVpvZWRpUi1HT0hqVzdLMm9JcXBBVUozOWpnZlEtcHRPRXh4RTN6aVhURVhRT3Bxa3E0NE9GLThFOC1QV1gwWGhSWTZNXzJCSQ?oc=5",
+          "source": "시사뉴스",
+          "publishedAt": "2026-11-26T04:15:12.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "‘물가 상승부터 잡는다’... 한국은행 기준금리 3.25%로 인상",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1ZVRtVUVJbkwzVnRrb1FaU0tkckNJQ290YmZFYjRuVTVXWmJTM0duMmlQZXlLd2NRVWRfeDB0bVhDVVMwT2F6NjdOU2lnMHZmS002a3BOZkpOcGlFVWtKT2VZa3BZNFBJRmZLQUcwTkhQM28?oc=5",
+          "source": "충남일보",
+          "publishedAt": "2026-11-26T03:40:38.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "한국은행, 기준금리 0.25%포인트 인상…연 3.25%",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EOEl4LXd0QUZGMWNvWlRhSzBNVk1HelU1WFl2ZzBQZmxQcW1OUS1fa2JucEEtU2JhZGFCbXpHLVgwZ0VaUHpzRVlVNGZPdmhtS0wyXzhxcDZVbV9Wd2toX3pCNkFuYmFOQ2R3?oc=5",
+          "source": "BBS불교방송",
+          "publishedAt": "2026-11-26T01:23:55.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한국은행, 기준금리 연 3.25%…25bp 인상 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZXFzeUlTa0NFM2tyQkNQdmxRUGtEa3h4QktFakY3NWVzblhRSGZDUnVha0tKdUlmbjc4UmNzcDNOSE5SaHlmQk9jQU56S2NDNjlxSmlWRlRSUVB4QmowcnZBdzZ4cEllNnA40gFwQVVfeXFMUEpqQWJ5cTIwZzBDOFpQRmhTV1VyU2JJeE5rNmpwSE9sNEdUdEloS3c3RXNqWnBvTld4R09IWEFuLXVBQVhJazBPR3cwVnFPblBOZ2V3c1lDM25KLTFXc29HanVWcmpWQ1MxYk5EYnBqTg?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "2026-11-26T00:50:22.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "'검은 월요일' 될까‥증시안정펀드 가동 준비",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
         {
           "title": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비",
           "source": "주간조선"
+        },
+        {
+          "title": "증시안정펀드 가동 준비... 2008년 금융위기 후 처음",
+          "source": "조선일보"
         },
         {
           "title": "‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
@@ -377,20 +309,13 @@
       "days": 2,
       "hasPress": false,
       "sourceCount": 4,
-      "articleCount": 6,
+      "articleCount": 5,
       "articles": [
         {
           "title": "'검은 월요일' 될까‥증시안정펀드 가동 준비",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Kb3FCbUxBOXlnUDRtNklrT1k2ZHluTnRGM0VRMmlTOU10d2ZBWFFKaERNb1h0MEhaZkRzUTh0cklIM0R1V3NyZGxIYXVzVms5Wjd1VGpPb095U3hDMVViTTlNaERHMGRLVHM0R0ZIaGoyRWg5RG9seUNB0gF6QVVfeXFMUHFtMUdXRVBRQm5XWDFOQ0p5MlNpZS1zX0xaTHZ1QlNaSWNXTEJQZUgtSGVWbFFlcDN0ZjZTc0Y0ckRkbkl5SnY5NlBxanR4SVhlc1hJekdlb1ppSEdQcnRmUjktM1JPQ2dwS2xGR3A1ZUdMeGRpNi1WU0E?oc=5",
           "source": "MBC 뉴스",
           "publishedAt": "2026-11-22T21:04:35.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "18년 만에… 증시안정펀드 가동 준비",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXNQTFo1ZU1vOHlTSDNEdjFLdDZBeTdRUGtzbVVpYl9Yekw1LXVjMkpzSUZnRzFuLXBZcUNmcFBWNGNTU01oUkJucVZMZzdBbll5a09yS3ZUSFVPOFFVTTlUMG9kN1M5cXdIdDlyQlJrWnNqeVdINDh3c29lNWx4ay1uQ3FTNERtVFpr?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-22T16:00:12.000Z",
           "kind": "news"
         },
         {
@@ -401,13 +326,6 @@
           "kind": "news"
         },
         {
-          "title": "‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fc1M4OFVFVGFySHNLSll3RzNzRUlzeGtyRGlpYVdkSjEtcmREMVlkQ0JFdnlmVVFaM0diTE41TVh6OUt6dEdJMjI0aTBydXVyV2VNWW95SnZNd9IBX0FVX3lxTE9POW0xaFpfbm1uYzQ2Mzltbkxna2hYd3d4TGhfR1prZGpBTE1WeElHaG1aZjBVOTd6aVFaUzFiQkstT2gzSng2LWptWHFrR3dRSEFuYXpWNGVkZEV2QUc4?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-22T09:21:00.000Z",
-          "kind": "news"
-        },
-        {
           "title": "증시안정펀드 가동 준비... 2008년 금융위기 후 처음",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjBPTG5NSy1VTkI3cmUzc3g3UlhaRzlhc1UxelFsQXg4R28wdktMWkw0Wmc2WjIxekdWOWVqWTRHaUtSQk9yMzZDZjJPTHZFWG9KNU1LdVNFbEVSNTBFSFExZ0FIcV9pS1NjakI2bERaazhPZ0FRajBWSDZ4SklzZ2hoYXpzSGc2UjVlSWdB?oc=5",
           "source": "조선일보",
@@ -415,10 +333,110 @@
           "kind": "news"
         },
         {
+          "title": "‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fc1M4OFVFVGFySHNLSll3RzNzRUlzeGtyRGlpYVdkSjEtcmREMVlkQ0JFdnlmVVFaM0diTE41TVh6OUt6dEdJMjI0aTBydXVyV2VNWW95SnZNd9IBX0FVX3lxTE9POW0xaFpfbm1uYzQ2Mzltbkxna2hYd3d4TGhfR1prZGpBTE1WeElHaG1aZjBVOTd6aVFaUzFiQkstT2gzSng2LWptWHFrR3dRSEFuYXpWNGVkZEV2QUc4?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-22T09:21:00.000Z",
+          "kind": "news"
+        },
+        {
           "title": "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DRkNyQmdrYUtGWWtrbEQtLW1qMk5vTXF0MFNQQVpRSzN1b00wcm1aZDVmbzdtNDdpRTBneWRqTzdnZnJyRzBRZldkNWZDSDZva0t2MFluRHljb19OcTZSNUJSckR5U1JDUFg3eGlCenI3TDUyTnFHQtIBeEFVX3lxTE1qS0NmaGMzOUFrTXM4Wk4tdWxzdXVQTDJNTzlPMHlwWlVYd19DbTlWQlVrWm5RVVhZelk2bHE2NEtXUmxUbjNOd3EtQng4OS1UZFZJWmlGdlNWRGNSS0tHTVhaSkplRXJJVGgxa2JlNTdBRmh6cmwydQ?oc=5",
           "source": "MBC 뉴스",
           "publishedAt": "2026-11-22T11:04:48.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "한은, 기준금리 3.25%로 올려…올해 세 번째 인상",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "기준금리 3.25%로 올린 한은, 이번엔 왜 인상을 택했을까?",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "한은, 기준금리 3.25%로 인상…올해만 세 번째 긴축",
+          "source": "주간조선"
+        }
+      ],
+      "span": "11.26",
+      "days": 1,
+      "hasPress": true,
+      "sourceCount": 3,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "기준금리 3.25%로 올린 한은, 이번엔 왜 인상을 택했을까?",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZWUV5SkJHSUhQUk5qVUUtQ1NlbVAyTXA1ZFJUdW5HbjQyNkRveTBvNVNYMWl2X3h5eVFzYlVxd2xoT2dxS0E5b3h3MFhhWHpTTXc?oc=5",
+          "source": "네이버페이 머니스토리",
+          "publishedAt": "2026-11-26T08:15:17.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "한은, 기준금리 3.25%로 올려…올해 세 번째 인상",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IZEVsalhmNDFZREpaQUdrcVc4YjBmTGVIS3hGaVJpS2E1TUhoYUxkWWU1R0RJeUEweDlSNjBRaEJIY0dwRmlXSzFoLWg3UEx5VHFJN2ZsUTR5alZQXzB5cmxWdXhGV3ZSWFh5eXhVaw?oc=5",
+          "source": "경북일보",
+          "publishedAt": "2026-11-26T10:50:42.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "한은, 기준금리 3.25%로 인상…올해만 세 번째 긴축",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ub1FvdEVIdXFwb29LQTVFVkFXMFdQUy1MaTNaV3VrdjdOQXlHcUJPdjhfYUZCMUc5S0FrU3lEQXdHZlZ5OGJhNjFJUjV4NmZlU0NVWXQ3OXZVdWtjTDFxYzhmdzM3WTd5UjNv?oc=5",
+          "source": "주간조선",
+          "publishedAt": "2026-11-26T01:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상(종합)",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
+          "source": "JTBC"
+        },
+        {
+          "title": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상",
+          "source": "한국경제"
+        }
+      ],
+      "span": "11.26",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 3,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "반도체 호황·물가 부담에…한은, 기준금리 인상",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heGJEMkZ2bEdjbTIyVHg2Y29zSzNnSXdOM2lwNjVCd2lBc2xOOWVwTUQtenV1TmYwMm1nVTFwNVpKZnhCZ0RsRjRPYkg5RF9LTlhPWFJJSy1CbDJlMkIzSNIBYEFVX3lxTE1heGJEMkZ2bEdjbTIyVHg2Y29zSzNnSXdOM2lwNjVCd2lBc2xOOWVwTUQtenV1TmYwMm1nVTFwNVpKZnhCZ0RsRjRPYkg5RF9LTlhPWFJJSy1CbDJlMkIzSA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-26T04:14:16.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUFNCano5WTdBb3BLRGpEUjNJMTl1RF80Y2poMGRfS1pvRjNUUjUyeHFfUTRzWUhhRDNIdzVxT1A2S09WQVprdFFYb3BmMFRULXNRRA?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2026-11-26T00:51:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLZ25HNi0zU2lJbGpkel8zUFhUWnRJLWFSMkZ4Y1phZjd4b2VyRlZENkRxMXJ6ZnRMSHNiVTJCTTNuNzU0SHViZWdEcUtxWEkyc2MzMXE3TkIyZw?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-11-26T00:50:19.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyVjQ5a2pZQkZiQnFEQTRnVFRjVkxkVVVjNVNSZHhfdEdxcWZpOE94Q01tbGxTaS1EMzhLQmE4cWRUUTJfN1JVV3V0bk5sVTM1SkotTTR5cnk1dEHSAWBBVV95cUxPc21aSGtsRkhCWk5qcUN0V1o3SUFxNXFhRTlHMjVtMkdUVG1CZENjdHRqcFk2UXRBNkdIUjVWYWFXU0l0S3ZUYWw1eHpFVWZHMGFIM0NtZXJJN2FpTzUtcV8?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-26T00:52:12.000Z",
           "kind": "news"
         }
       ]
@@ -435,17 +453,13 @@
         {
           "title": "코스피 1% 오른 4,745.10 개장…코스닥도 1.2%↑",
           "source": "KBS 뉴스"
-        },
-        {
-          "title": "코스피, 1.01% 상승한 4,745.10에 출발",
-          "source": "연합인포맥스"
         }
       ],
       "span": "11.26",
       "days": 1,
       "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "articles": [
         {
           "title": "6% 폭락 딛고 반등···코스피 1% 오른 4745 출발 |",
@@ -465,166 +479,104 @@
           "title": "코스피, 1.01% 오른 4745.1 출발...코스닥도 1%대 상승",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUTdPb3JUQWhIbEMyZXBEMXNzQVZyU2FGSGJ6R3MxVXpQRzN0YXpSUlBCb3ZZMnFIa3Qxdmlmb3lpOUViQ3l5WU9UVDNJbFVVTFl5MVB4aVhUWnFaMVlxOEVZVXZNMkZVZ0F5NlplbzloWmdyVkE4R3RCS25iMWJmcA?oc=5",
           "source": "조선일보",
-          "publishedAt": "2026-11-26T00:03:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피, 1.01% 상승한 4,745.10에 출발",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PS1FkblJqZWFSbWoyNlc4VTQwdDFJUmd0dV80MFF0Wlp0anUwMDlBX2pJRXBQSm9MZFIzTWpHUDZFcmRnQlFYal9ueGlNYnNaOGJfbU80dGNvWFo5Q0NlaDJXZ0VoN0ZfQWhWRHhnNkzSAXRBVV95cUxOQ0ZpN2M5eGVrN2pfZEV0Ujg5WGFnSGFSV1VvMmZiRzB6NTNxdmZaOGY1OEw5SGFqTGJHVE9yV0tSVURWa1YxUTVwWW1jNkMtZzBYbEVZNnJVTUZ2VVgyZk1hTzlhUzVnNHVDdDRLUExaWDBDVg?oc=5",
-          "source": "연합인포맥스",
-          "publishedAt": "2026-11-26T00:01:19.000Z",
+          "publishedAt": "2026-11-26T00:07:12.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "미국 10월 PCE 물가 3.8%↑…예상 웃돌아 ‘12월 금리 인상’ 굳히기",
+      "title": "한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "美 PCE 물가 3.8%↑…12월 금리인상 무게",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "미국 10월 PCE 물가 3.8% 상승-금리인상 굳어져",
-          "source": "포커스온경제"
-        },
-        {
-          "title": "미 10월 개인소비지출 물가 3.8%↑‥12월 금리인상 전망 굳어져",
-          "source": "MBC 뉴스"
+          "title": "韓銀, 석 달 만에 금리 3.25%로 인상…내년 성장률 4.1%",
+          "source": "티제이비"
         }
       ],
-      "span": "11.25~11.26",
+      "span": "11.26~11.27",
       "days": 2,
       "hasPress": false,
-      "sourceCount": 4,
+      "sourceCount": 2,
       "articleCount": 4,
       "articles": [
         {
-          "title": "美 PCE 물가 3.8%↑…12월 금리인상 무게",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80cWF6YnhVcldZV1NCSHB1eUJsS2hOLUg4UEIyNXAzTWtYTEVHWXRERTVpa0tPSUp6NDVOcW1sLUtiR0M3MlIwQXQ1LW82U1k5dUNkYkpZemtrcU5vZ25vYXRTOXdEeEU?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T23:26:00.000Z",
+          "title": "한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZ2p6M1Z3UG8zZUdySkhLS3MwVHZRYXQ3RWxlVXk1dGE2X3RoUzZ2aTI2Q3lvQmgxSVFEb3lvS1prdDdFSVMxOC1uNFRwOWp0ekhwQWk3VTgtQ0Q5cml0dWlMUjJEazVDTF9R0gFwQVVfeXFMUHRwWlc4cHRISExFLVlYdlMwd21rTmxYZGQwblRWWE40VUpGZ1N3ZjJUb1BPZ0FVbVhBUjdrSU1SdFJzSG1GVDRyS2RoN2lKZzgwT3hEb2x0cjRyNnRMUHZLZmVzOS1SQjhTODdtU19vMQ?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "2026-11-26T19:00:00.000Z",
           "kind": "news"
         },
         {
-          "title": "미국 10월 PCE 물가 3.8% 상승-금리인상 굳어져",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QzBwY0EteWhyRUx1SVVIMnZhaFA0RjJqMXBDT2I2X1dWYlJTeWs4QzRFVXZjWnRLeS10NGlMUEFQeGF2aVlWNGhUMzRKYTBGd1pnUGVCME53bHplb0pV?oc=5",
-          "source": "포커스온경제",
-          "publishedAt": "2026-11-25T20:24:49.000Z",
+          "title": "韓銀, 석 달 만에 금리 3.25%로 인상…내년 성장률 4.1%",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54RUU3c1VrUlhOOXQ3bzEycmFvczk2VFE4T1dtQWRfeXpQRlpPNXoyS2xJOUVGU0lsMnVOZm9NNVRqV09LN3p3aGpldmJMRGdfOVlOdGswR3FmSXph?oc=5",
+          "source": "티제이비",
+          "publishedAt": "2026-11-26T01:43:51.000Z",
           "kind": "news"
         },
         {
-          "title": "미 10월 개인소비지출 물가 3.8%↑‥12월 금리인상 전망 굳어져",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ES0pSZ1hWcDJhTUkxU3JCUEZONHNHQUMzNUZYRWFMTEo1UjhTR2xwVE02UnppUmgzMEN1QURyVjNhbGdZRHo0STN1NkdBYzY3Z0ZxYzd3ODM5VS1melVoNjZIUjlUMlNQcExZQXMxNVFDODJq0gF0QVVfeXFMTmI1YnpzbkNQMFdlTHNYc0NEaG9ZVG4yMEx2WGdXRmRTY2o2Q05GQ1FjUlFnQjFrX2R3T25fS2pPdnFhNjhZSWFuemhHbjkyZXBtUnQ3cXpwN2tLTVVKa3czeG1yZjJ3ZnRFWU5SRXlJY0JBaHM?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-25T15:11:38.000Z",
+          "title": "한은 \"내년 韓경제, 4.1% 성장 전망\"…기준금리 연 3.25%로 올렸다 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zYW5hQlJlaFJRRGVzVk5oSXVtanl6YjNONWg0X1Q3M1AyZERvYlpCU2d1dVMxTHJSQzZKYWhOWktYVkhFaTgtSHBjME9SRXpRU0xuaENRNWgtS01SbkVvMTJFYXRLT0Fxa25N0gFwQVVfeXFMUEJtZkFDWVZMdkx2WW5ndlhOV0VPU01DckU1WmpxY2huUXFEb2haQjMxbGF1UHI4bE1lcnlXWjlWR2x2eG9lNmFRLVc4WncyRFZyTlRjVlg5a1RUZ3lNd2tOZURGdXZoLWs5MkVTR0E0Zw?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "2026-11-26T18:29:07.000Z",
           "kind": "news"
         },
         {
-          "title": "미국 10월 PCE 물가 3.8%↑…예상 웃돌아 ‘12월 금리 인상’ 굳히기",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZNkY0bGhkeW55NnpmRHFLUk5MOU5uckNLcnVHQ2xhSzlLTmREbDI0WGN4MVlZZEJMZ29tRTFhWm0wdWxkeWdrSDBRZElSVWpWRDFUazhfa205ZUk?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T14:04:00.000Z",
+          "title": "한은, 기준금리 3.25%로 또 인상...올 하반기에만 3번째 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50TkptZzViaHRRa3pIc0E4Y01WUVpzRGRNWkFFU0N0NlpfVFBxR3hscGN3dmpIeGpwS25ZQ0FvNGt2cERJenl6a090TlVzTlRHMHRmeUxZdmx0b0luUGcxQjd6XzdYX3hWblI00gFwQVVfeXFMTnBMTFF3SWNMbktQcTRqU2w5R2xMUG90S0RqUGtrUDgxbEtubzJ3LUVpRzZQTVRhRk9iSjJVVXpLRnBXbEdTYlliOV9GZnhDdlZfS3plQ1ViU0psQVh3OG1fT1JDLU9YUUFQYldERjl3Zg?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "2026-11-26T01:01:29.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "美, 한국 등 14개 경제주체에 '과잉생산 관세' 예고",
+      "title": "저가 매수에 코스피 4,700선 회복…4,711.21 마감",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "미 무역대표부, 14개 경제주체에 과잉생산 관세‥\"한국 15% 상한 유지\"",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "美, 한국 등 14개 경제주체에 ’과잉생산 관세’ 예고",
-          "source": "연합뉴스TV"
+          "title": "코스피 보합권 마감…4,700선 회복",
+          "source": "KBS 뉴스"
         }
       ],
-      "span": "11.25",
+      "span": "11.26",
       "days": 1,
       "hasPress": false,
-      "sourceCount": 3,
+      "sourceCount": 2,
       "articleCount": 3,
       "articles": [
         {
-          "title": "미 무역대표부, 14개 경제주체에 과잉생산 관세‥\"한국 15% 상한 유지\"",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yaWVUMkk1cDVTTWVlbS0tZHZpOGFvSGc1MTA0anZ2ZjlYUHdSZlJuMFo1M3BqU0FHT2dzRjBHWVEwMHNvNnpwT2gtYlcwOUdkUGtoeG1uRmNyZ1dvT1BUZlBDdUdzejNTanFicnNvLUJyM1pr0gF0QVVfeXFMTkYtbnVtd3VVdW5OMnBtOGdPeVVHZWkyYzFfVGFBOTdIbm96T3RMWVUyOTRUZWw4MmsxSUc2NVBNeUdpREFWUzZpOWVaM0hiYVJaa01ad1Itc1JEendPLU03aFNRMmFoX1N6ZTBhZ2hnM084S1o?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-25T13:20:58.000Z",
+          "title": "저가 매수에 코스피 4,700선 회복…4,711.21 마감",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pTFl0S2ZFbFZCNmN3SWdxS2VfNkR3c1BaTENXQ0gwWC1CY0ItdHdTalVhdnlsQkxMLTdYZ25PNjFsNFlueG9SenZnSWJPS0xpMkg0bTFIZXdtQmdaWFhHV1lScDQtRmJMazdZcWFEOXc?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-11-26T07:07:39.000Z",
           "kind": "news"
         },
         {
-          "title": "美, 한국 등 14개 경제주체에 '과잉생산 관세' 예고",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nNGU0VkVIR0daU1c3aUVrY2FCV19CY1JOcmpTTUR3WWlTVlFFdGNQYnJrbF9xT0pnN3pFQVlUQ0VUYjJ6QlZlQUdoenNzV243NERodnNFMkQ1UQ?oc=5",
-          "source": "한국경제",
-          "publishedAt": "2026-11-25T13:20:09.000Z",
+          "title": "코스피 보합권 마감…4,700선 회복",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mOGZzOFNWYkNJaTB3NUxOU05ET3N6MlgxbXBBLXFhMDAwd1o0dHZYRmhOa0dveTlId3FGNk1PUlJzSzU3d2xLcEN5ZmRhV25RR1FHaC1vOG5pNXc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T06:46:00.000Z",
           "kind": "news"
         },
         {
-          "title": "美, 한국 등 14개 경제주체에 ’과잉생산 관세’ 예고",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rVG42VFZKXzZ2N2tobVd3SDVPb0FEMUkycTZ0Wks1TG1rLWRqUUdvQzd5WW5mSWZGSFlBRU45b1VRVnE5ZE5kd0VrZkRWakppTGlFSF8zNVpxcllIZk9lLWl3UEJmWjQ?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T13:20:00.000Z",
+          "title": "코스피, 저가 매수세 유입에 1%대 상승…4,700선 회복",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wcVhXWGc1eGFkRmtXS3VCeXNFR1dPZUszc2hSTVFZazZlSExxY2o0eTZnUEp2Zy1LLUlxdGtRTFpnTlkzVkRDYVhETUtDbUVpeXNJdkNta0M2V1h4THVXWEhPMzlkMW4yOHpOdUhZRUg?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-11-26T00:19:32.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
+      "title": "남서울대 이미정 교수, ‘제61회 대한민국디자인전람회’ 산업통상부장관상 수상",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "수출 연 1조달러 돌파…K-푸드도 역대최고 실적",
-          "source": "농민신문"
-        },
-        {
-          "title": "K-푸드+ 수출 122억 9천만 달러…역대 최고 실적",
-          "source": "BBS불교방송"
-        }
-      ],
-      "span": "11.19~11.21",
-      "days": 2,
-      "hasPress": false,
-      "sourceCount": 3,
-      "articleCount": 3,
-      "articles": [
-        {
-          "title": "수출 연 1조달러 돌파…K-푸드도 역대최고 실적",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNEtOc3F1eWk0em1HZU5IS04zYlVEbHpjVFBPNENQRUxaMS1paTB6cXRhOXNNdW5ZVHhPa0t5d1V2bVdiLWF6WGlxY3NHS3YwTTFpV3hpM2lZZw?oc=5",
-          "source": "농민신문",
-          "publishedAt": "2026-11-21T02:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XTmF2Q21xZmEzd05iZHZkQjJIV1FuRk1YcENWWWg4V2tyOVFYXzBRaUpmcnB3N1pRZFF5Vmx4QWpPbzRGVGdsX29FX3k5TGxjaGVubTNiNG0zX0lnSHNGQ01SRnZ1eTg?oc=5",
-          "source": "한국식품의약신문",
-          "publishedAt": "2026-11-19T08:18:11.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "K-푸드+ 수출 122억 9천만 달러…역대 최고 실적",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmaGdSVldUWTBXM0V5czhMdEJZdUdYSFRrRkJFZHkwMDFCXzE1YjNRaG5xX3Z6RU1mYzlCSVdER3BqMVVMR05GUFF5VmpWdTNpb1FabDZFQWl6UEJmaExCVFNtUTVwQkVEVnRj?oc=5",
-          "source": "BBS불교방송",
-          "publishedAt": "2026-11-19T06:49:16.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "충남반도체마이스터고, 산업통상부 장관상 수상",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "SKT, AI 돌봄 서비스로 산업통상부 장관상 수상",
-          "source": "팝콘뉴스"
+          "title": "남서울대학교 이미정 교수, 제61회 대한민국디자인전람회서 산업통상부장관상 수상",
+          "source": "충남일보"
         }
       ],
       "span": "11.24~11.26",
@@ -634,17 +586,17 @@
       "articleCount": 2,
       "articles": [
         {
-          "title": "충남반도체마이스터고, 산업통상부 장관상 수상",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaRW4yRXN3ODR5a0ttNElDTU9JWE5VSHNKX2c1Ni1kanJPLTAta3lsVkV1Ty01VE1nNTE0anhQUUszdjFXemFfUDJEQTJHYUo2QU1GX0FiZFp4VE5tcXZPa3FHRl9oUUs4ckI2UWJpNVA?oc=5",
-          "source": "충청일보",
-          "publishedAt": "2026-11-26T02:33:16.000Z",
+          "title": "남서울대 이미정 교수, ‘제61회 대한민국디자인전람회’ 산업통상부장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Hekp4Umg1VlJxS19WYU5NOGFzd3U1ajZDRHlhaFNnMnJwWlM4S3Q5YktWckliTGtOdmFOeE9MNk5RMFdxUjdRQnZhZks3cHI1MmJSMGluRXFzM3RhLWM3eGYzTUhoaFpRakhMVg?oc=5",
+          "source": "충청뉴스",
+          "publishedAt": "2026-11-26T06:23:01.000Z",
           "kind": "press"
         },
         {
-          "title": "SKT, AI 돌봄 서비스로 산업통상부 장관상 수상",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aXJIWWhEaHVLVnQ1NFkyWGxxcy1yRW1SR1RtZHhQOEJHSWZnNkRsdjhOTGhFMkh4czhXUklxUGVpb0VCZFY2X3hIQUtNNzBnS2MySHo1TncyZUItMmZZbUtfNF94M2Nodk1DUEZn0gFyQVVfeXFMTzF5bllYaEhfd0tvNXNEOFRFdlFTc3VsMURvT2FsSEd4VEgzUnptay1wVlpMUEJ0R002UDFQdDBSWXR0TlJDQ0FQZDR4UWt5Q215QWZOdkhxUXpXZXJOSjZWRUpSR0wyaVVaVXVVV3BBWjhR?oc=5",
-          "source": "팝콘뉴스",
-          "publishedAt": "2026-11-24T08:00:27.000Z",
+          "title": "남서울대학교 이미정 교수, 제61회 대한민국디자인전람회서 산업통상부장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNFZRNG5Dd0lfSzkwRnBtNHh2QjRWd1k3UFFxY2t1QnlJREZ1NENSbGx4Unpoa01iY3BOOWtNeUk3SWZoWlA1ZGxaQ2pPekVuc2pJekREOGZNNGc2Y2RBVk9oaEdJdHZGcGRkRV8xYnU5Ukk?oc=5",
+          "source": "충남일보",
+          "publishedAt": "2026-11-24T08:00:00.000Z",
           "kind": "press"
         }
       ]
@@ -652,32 +604,66 @@
   ],
   "timeline": [
     {
-      "date": "11.19",
-      "event": "K-푸드+ 수출 120억 달러 돌파…역대 최고 실적 경신"
-    },
-    {
       "date": "11.20",
       "event": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사"
     },
     {
       "date": "11.22",
-      "event": "18년 만에… 증시안정펀드 가동 준비"
+      "event": "'검은 월요일' 될까‥증시안정펀드 가동 준비"
     },
     {
       "date": "11.24",
-      "event": "충남반도체마이스터고, 산업통상부 장관상 수상"
-    },
-    {
-      "date": "11.25",
-      "event": "미국 10월 PCE 물가 3.8%↑…예상 웃돌아 ‘12월 금리 인상’ 굳히기"
+      "event": "남서울대 이미정 교수, ‘제61회 대한민국디자인전람회’ 산업통상부장관상 수상"
     },
     {
       "date": "11.26",
-      "event": "한은, 기준금리 3.25%로 인상…내년 경제성장률 4.1% 전망"
+      "event": "한은, 기준금리 연 3.25%로 인상"
     }
   ],
   "outlook": "",
   "press": [
+    {
+      "title": "(보도설명자료) 친환경차 개별소비세 감면을 재정(예산) 지원방식으로 전환하여 국내 친환경차 생태계 육성을 적극 지원하겠습니다.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vTlFsLVVOa3hWdEZhYUNKQVQ5ZTVmVkRNU0hacTJtVUtYdHd2M3ZaUnlKZkxTamFIOFFpTVVWT3gtLWlLc29QcTFHQTJKQ0tQVlEwZjJCRDJMeGgwdzNUbmpCcGZjbnVBOUg5b1lIcw?oc=5",
+      "source": "대한민국 정책브리핑",
+      "publishedAt": "2026-11-26T12:56:32.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "한국은행, 내년 경제성장률 전망치 2.9→4.1%로 올려...올해는 3.9%...경상수지 흑자 5400억 달러",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wRHR2OUIyeTJvNkxpUWtVTlBBb0lwTHF2Y3hMUm1LRzRPRkxGWVhKNGxZZ1dqbjVLbllaVkFHN3B0V1hoX0Z4NUl6dDBTbV80VWpUYk10MkdaTlBaX0NUSXVYcw?oc=5",
+      "source": "시사뉴스",
+      "publishedAt": "2026-11-26T09:08:39.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "기준금리 3.25%로 올린 한은, 이번엔 왜 인상을 택했을까?",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZWUV5SkJHSUhQUk5qVUUtQ1NlbVAyTXA1ZFJUdW5HbjQyNkRveTBvNVNYMWl2X3h5eVFzYlVxd2xoT2dxS0E5b3h3MFhhWHpTTXc?oc=5",
+      "source": "네이버페이 머니스토리",
+      "publishedAt": "2026-11-26T08:15:17.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "증평군, 이재영 증평군수, 국토교통부 방문해 AI 콤팩트시티 지원 요청 외 (11월26일 종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHaEFrTXNCcTZiSWQ4Vm9fQmZZX3V5S29wUjFTOHVWQy1ETXhyTGN0eElfdFZ2T3RxVW1KTUdFN3FqR01jeW4xdlZOWnlzeE5OenJnWE9LZUNqSm5VVU9SUjRn?oc=5",
+      "source": "충북데일리",
+      "publishedAt": "2026-11-26T06:57:47.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "동국대 의생명공학과 김진식 교수, 산업통상부장관 표창 수상",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWUlFsRnFRYm9ZZkRkVWZySFdDZldpeHdmTUdVY0NGdlVHR2lYMTBQd0xzMmNJbzc4WUxjQURxcnVPSlpoeGp6bEVVZFhqbkMwQkhJbU50YzNBUDJ4ckxLb2pZR3g?oc=5",
+      "source": "매일일보",
+      "publishedAt": "2026-11-26T06:46:58.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "남서울대 이미정 교수, ‘제61회 대한민국디자인전람회’ 산업통상부장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Hekp4Umg1VlJxS19WYU5NOGFzd3U1ajZDRHlhaFNnMnJwWlM4S3Q5YktWckliTGtOdmFOeE9MNk5RMFdxUjdRQnZhZks3cHI1MmJSMGluRXFzM3RhLWM3eGYzTUhoaFpRakhMVg?oc=5",
+      "source": "충청뉴스",
+      "publishedAt": "2026-11-26T06:23:01.000Z",
+      "kind": "press"
+    },
     {
       "title": "반도체 호황과 높은 물가 상승률에 한국은행 기준금리 연 3→3.25% 인상",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYUlZGM0lpUDJvSERBRWVLdjFMaVpvZWRpUi1HT0hqVzdLMm9JcXBBVUozOWpnZlEtcHRPRXh4RTN6aVhURVhRT3Bxa3E0NE9GLThFOC1QV1gwWGhSWTZNXzJCSQ?oc=5",
@@ -700,31 +686,10 @@
       "kind": "press"
     },
     {
-      "title": "기준금리 3.25%로 올린 한은, 이번엔 왜 인상을 택했을까?",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTnBqN2ZqVVRoY0VTbEdrZUtueGI0VEZZOFpHbzBFRjZ0MGFSQ1hHZFRaVzFEOHlFMmtZTEozdmlpT0g5aGFuNE1wdE9GQ3Z2VFNNSDJkNTNaZw?oc=5",
-      "source": "네이버페이 머니스토리",
-      "publishedAt": "2026-11-26T03:16:42.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "금융위, 보험 판매수수료 한도 강화…2027년 2월부터 사업비 공시 확대",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OcW1JeE5GT3lUMnR4RjJscVlTSXVQZ1h3S18wTTRHcUZiV2hONlFLUkMwV0RodHVpdnlvMEdQbm81blM3SlB0STZRYlUxRDdOU05ZUmEwaFpTVVF6NkY2SUx3N0JSSGVG?oc=5",
-      "source": "키즈맘",
-      "publishedAt": "2026-11-26T03:13:20.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "한은, 기준금리 3.25%로 인상…내년 경제성장률 4.1% 전망",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UcXJsUHRwTUE4NHhOZS1seWh1aFhXSFVXR0l0WnhscHVDNkVWZDd1aExiRmRKNXZGYnIydlV4dXpBUHNZRzU2dHdraVNSSU5HSWtqUkF5V1BJZE10TmRWRGdXcGYxUQ?oc=5",
-      "source": "열린뉴스통신",
-      "publishedAt": "2026-11-26T02:50:21.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "산업통상부: 미국이 베트남에 제안한 추가 관세가 인하될 수 있다.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHlKbWpKT3NWamhHZHpyeHZsdVI4VWkzRE1qcTJ1bjhjMTFRek5DYTlPYi1vQ29IUnNtc0M4bFBfSDlsVXYyNTREbDJFS3pZUnZXTFkwUXRGYlFhQWlrUWtNNkRnMGZkc29BOEUxV3hBNmxsSnFxOGNCQ2dLMjBYLWJZcmJhVFB5R3IzOEE2MGRKRDVpVjNZ?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-26T02:38:38.000Z",
+      "title": "‘물가 상승부터 잡는다’... 한국은행 기준금리 3.25%로 인상",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1ZVRtVUVJbkwzVnRrb1FaU0tkckNJQ290YmZFYjRuVTVXWmJTM0duMmlQZXlLd2NRVWRfeDB0bVhDVVMwT2F6NjdOU2lnMHZmS002a3BOZkpOcGlFVWtKT2VZa3BZNFBJRmZLQUcwTkhQM28?oc=5",
+      "source": "충남일보",
+      "publishedAt": "2026-11-26T03:40:38.000Z",
       "kind": "press"
     },
     {
@@ -735,36 +700,15 @@
       "kind": "press"
     },
     {
-      "title": "한은, 연내 마지막 금통위서 기준금리 3.25%로 인상…올해 세 번째",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UTG1XY09EaXRhaVY4UTZqWGNEMWVEdU5YUUNDOFE3VUVaWWwwOUE3djZBZXZscUt1UjFacVZHcVZUNmRQU3hTY2l4RjB3djA2Zzl4MDNROV81TTdaeTZCWVpkc9IBY0FVX3lxTE1UTG1XY09EaXRhaVY4UTZqWGNEMWVEdU5YUUNDOFE3VUVaWWwwOUE3djZBZXZscUt1UjFacVZHcVZUNmRQU3hTY2l4RjB3djA2Zzl4MDNROV81TTdaeTZCWVpkcw?oc=5",
-      "source": "토큰포스트",
-      "publishedAt": "2026-11-26T01:54:07.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "평균 연 10% 목표 공동대출 추진…연체채권 실적 공개",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qM3o4U050NWYxVUtjelFXcnNoQ2dDZUg2NG00Ukh6YzZOSlRiaEdoWjI1Z3lOeFYzVmZnSHM1QUh3MXRRa1c2VDNST1lQbVlQckNMYVJKTjFCaDjSAVtBVV95cUxNajN6OFNOdDVmMVVLY3pRV3JzaENnQ2VINjRtNFJIemM2TkpUYmhHaFoyNWd5TnhWM1ZmZ0hzNUFIdzF0UWtXNlQzUk9ZUG1ZUHJDTGFSSk4xQmg4?oc=5",
-      "source": "토큰포스트",
-      "publishedAt": "2026-11-26T01:49:04.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "한국은행, 기준금리 3.25%로 인상…반도체 호황·물가 상승 압력 반영",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yRGVFZ2o2Qmt6aEhOVXNGd3ZySXpkd2hwdE9nY3c1RFZRTWVuXzZmaTM5a2xDeGdHdng3VVo4X3pic2swTGViRU11V1lZbk9WdTVGMS1kYWxwTTFUVUVZZUZCdzhQZw?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-26T00:53:56.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "베일 벗은 디지털자산법, 코인 투자자에게 달라지는 것[엠블록레터]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42WnRlQTlrcEFuY1Ywd0k4ZmFxS3I4YkdXTFQyeHRHQW9WSThWMExrcXpoVmFXdGtJNW9mTjFUT3JmWk1CVHZ4dldDT2UycktqbEE?oc=5",
-      "source": "매일경제 마켓",
-      "publishedAt": "2026-11-25T23:48:47.000Z",
+      "title": "2027년 재정경제부 예산안 및 기금운용계획안 - 카드/한컷 | 멀티미디어",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlMxVVlWclEwMzBHTE5tS0F0QzZ4VVBfaU44Y1VYVFVVOXUyM1hqYXpIeUc0OUNGeWd4djdocDAzSGc0SDRYNDRPS29Cd0ZhdDNEeU1LbmxfdV9UMkc1NVk2QjNoTU1wY3ZXcnJOaW9rRV9nRnhxd1FoNUFVbHl2TnRaOHFIQXZkbHpV?oc=5",
+      "source": "대한민국 정책브리핑",
+      "publishedAt": "2026-11-25T17:46:54.000Z",
       "kind": "press"
     }
   ],
   "stats": {
-    "articles": 338,
-    "sources": 123
+    "articles": 302,
+    "sources": 112
   }
 }

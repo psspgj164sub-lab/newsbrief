@@ -2,14 +2,14 @@
   "region": "latinAmerica",
   "label": "중남미",
   "range": {
-    "from": "2026-11-20",
-    "to": "2026-11-26"
+    "from": "2026-11-21",
+    "to": "2026-11-27"
   },
-  "updatedAt": "2026-11-26T05:05:24.937Z",
+  "updatedAt": "2026-11-26T21:17:07.618Z",
   "ai": false,
-  "overview": "최근 1주 중남미 관련 국내 언론 기사 143건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「이코노미석 21시간 타고 APEC 간 멕시코 대통령」(기사 10건)입니다.",
+  "overview": "최근 1주 중남미 관련 국내 언론 기사 172건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「헬기 기관총 '다다다'…'현상금 67억' 멕시코 마약왕 체포 작전」(기사 6건)입니다.",
   "stats": {
-    "articles": 143
+    "articles": 172
   },
   "themes": {
     "economy": {
@@ -17,35 +17,35 @@
       "summary": "",
       "keywords": [
         {
+          "word": "항공기",
+          "count": 8
+        },
+        {
           "word": "미국",
           "count": 8
         },
         {
-          "word": "항공기",
+          "word": "통계",
           "count": 6
+        },
+        {
+          "word": "상승",
+          "count": 5
         },
         {
           "word": "재정",
           "count": 5
         },
         {
-          "word": "마감",
-          "count": 5
-        },
-        {
-          "word": "기업주식정보",
-          "count": 5
-        },
-        {
-          "word": "상승",
-          "count": 4
-        },
-        {
-          "word": "강세",
-          "count": 4
-        },
-        {
           "word": "룰라",
+          "count": 4
+        },
+        {
+          "word": "EU",
+          "count": 4
+        },
+        {
+          "word": "중국",
           "count": 4
         }
       ],
@@ -89,6 +89,38 @@
               "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tTmVDLUFfNkxzR0pGWkxNMlo1UW5QYzNqcktsa3Q3VS1PYzZVaUFaZmg4THZLUVVnZzFLcVVINGlmTV9GWjFxTGZBNWFHUUFmelRqV1dmZDhUenpNSXhrY3EwQl92WUVWVnA5TEwxUGdfdw?oc=5",
               "source": "에너지데일리",
               "publishedAt": "2026-11-25T06:14:38.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "브라질, 美 추가 관세 추진에 강력 반발…\"굴복하지 않을 것\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "브라질, 美 추가 관세 추진에 강력 반발…\"굴복하지 않을 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IRDM1ZWdDMFN1bFdJeExQazdNZG9meFRNUGtRYjN2eFBvUFpRQ3lZUWYxX2s0azJDOWJtdzBtNXFrSUVfdWdEcWRNck9aMmVTYXdRa3BTS05BSzdzNEZQWQ?oc=5",
+              "source": "아시아경제",
+              "publishedAt": "2026-11-26T05:26:14.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "브라질, 美 항공기·설탕 추가 관세 예고에 강력 반발",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MaGhvMkxtS3NzRzVIU04ySTJBVGhKdDFfZ3hJVTltQndzRUktQkhLNzlpdVp6QUV0ejM5SFNRakM1c09aUTdUZ1BFeFliSnlQMmFjUEs4ZEpIZzjSAWBBVV95cUxQUXo0M0pwMkpUa2J0YTZhcF9rZnpkQWQ5Z3c0a1ZueGhLMnJwdmtlb3JDaW1ybUpTZnpiNFlGcHdrNk5BMnh3dE12LWxMbVVlaWdsQWxldF9ZOFZtQmlaQzA?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T23:56:26.000Z",
               "kind": "news"
             }
           ]
@@ -190,33 +222,6 @@
           ]
         },
         {
-          "title": "인두스트리아스페뇰레스, 멕시코 증시 상승세 속 급등 : 기업주식정보",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.24~11.26",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "인두스트리아스페뇰레스, 멕시코 증시 상승세 속 급등 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvcTVoUjlDR3NtWXZ1eXBlZXZvSE4xQ29lVWdrS0RPV0pWSnhlWnlpU1ZUNVlqQ3EzS1ZaNzVKYnJVSGtZMEh4cVQ1aw?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-26T04:17:06.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "인두스트리아스페뇰레스, 멕시코 증시 상승세 속 강세 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zLWZENkFvbnk1X3lKdWtRTEpSNnBVX2wxMzNuZlZtRU9oTC0yTVNwQzJFbjJLdzdSdzBCU1FLaXcxY0FRYVNTLTRXNA?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-24T04:13:06.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
           "title": "그루포멕시코, 멕시코 증시 하락세에 187.57 페소 마감 : 기업주식정보",
           "summary": "",
           "whyItMatters": "",
@@ -251,35 +256,35 @@
       "keywords": [
         {
           "word": "체포",
-          "count": 8
+          "count": 12
         },
         {
           "word": "마약왕",
-          "count": 5
+          "count": 10
         },
         {
           "word": "미국",
-          "count": 4
+          "count": 7
         },
         {
           "word": "현상금",
-          "count": 4
+          "count": 7
         },
         {
-          "word": "군사협력",
-          "count": 3
-        },
-        {
-          "word": "두목",
-          "count": 3
+          "word": "FBI",
+          "count": 6
         },
         {
           "word": "멕시코군",
-          "count": 3
+          "count": 6
+        },
+        {
+          "word": "트럼프",
+          "count": 5
         },
         {
           "word": "카르텔",
-          "count": 3
+          "count": 5
         }
       ],
       "items": [
@@ -295,13 +300,17 @@
             {
               "title": "'FBI 현상금 67억 원' 멕시코 마약왕 체포...트럼프 \"마약 카르텔 지배 막을 것\"",
               "source": "YTN"
+            },
+            {
+              "title": "멕시코군, ‘FBI 현상금 67억원’ 마약 카르텔 두목 검거",
+              "source": "Chosunbiz"
             }
           ],
           "span": "11.22~11.24",
           "days": 3,
           "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 5,
+          "sourceCount": 4,
+          "articleCount": 6,
           "articles": [
             {
               "title": "헬기 기관총 '다다다'…멕시코 마약왕 체포 작전",
@@ -322,6 +331,13 @@
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wNFlUV0lKV1Zoa1VuWG5KbFZxMWRYbVc5N2F1TExvVVVkNmpIYlc2YXVWWkM5NFh1U2wzcTZ4a2txU3F3bXRhU1J3TlpCYkRaWE15NkdWcWNOd0JmOHc?oc=5",
               "source": "YTN",
               "publishedAt": "2026-11-22T00:08:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "멕시코군, ‘FBI 현상금 67억원’ 마약 카르텔 두목 검거",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEVfckJHOEU5RkRGVGF5V1lubF9Hb1psdEdnMnpNODhZdkdHcVdCNnhfbUFRMHd1SHljSEVwVUwzNE16Vi1lVk5nNHRjMWFCTzV2OFpoME1jTDZvc3lYcWJ5M3BNc1pIbWdjR0tST04zbE5La1dEZGM0RnZYRVhrLWZBbWhHeWxRVXJKN184V2F3OURLSFY4TmRYYVM0UdIBsgFBVV95cUxOT0VybDNwZm44djlWSF9CZkFicTQ4M01YUllEdFdvaVBuLWswOUdxT0xHaGZ0YkJpU3hNVlZBVmV4ai1yOHZ5bUtIRmtmaU1KZXl5NkRGaGRHaFU2WWdLTk5HVVY5Mk5qdkMweks5LW85eFZ4c3RUNmcwa0tYWXdzYWdoNlV4dmNScnhKbWhGbE41eGhXUGpjRnFTUE1jd3YwWFkxcTY4eDZPUWc4cHU2d1lR?oc=5",
+              "source": "Chosunbiz",
+              "publishedAt": "2026-11-21T22:31:00.000Z",
               "kind": "news"
             },
             {
@@ -346,25 +362,29 @@
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "30만달러 후원자에 원유사업 특혜 의혹…밴스, 상원 조사 직면",
-              "source": "노컷뉴스"
+              "title": "미 상원, 밴스 '정치 후원자에 원유 사업 특혜' 의혹 조사",
+              "source": "news.sbs.co.kr"
             },
             {
               "title": "밴스, 정치 후원자에 베네수엘라 원유 사업 특혜 의혹…美상원 조사 착수",
               "source": "헤럴드경제"
+            },
+            {
+              "title": "美상원, 밴스 부통령 석유사업 특혜 의혹 조사…\"거액 후원자에 일감 몰아줘\"",
+              "source": "데일리안"
             }
           ],
           "span": "11.24",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
+          "sourceCount": 4,
+          "articleCount": 4,
           "articles": [
             {
-              "title": "30만달러 후원자에 원유사업 특혜 의혹…밴스, 상원 조사 직면",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFVQOW5XYnZGdnc2YjA1SzVZWHl6dWg5eWgzSmlmdU1MTmc2SFZyUXVkMUxwNFA0bzhvTVRWLW51LUgtS0lKS2Z1c2N0RFRtVWZxQnAxZmlZcHBzOHFtSFk1R0pqSW1Ob0Z5U25zYUxaWVNyM1YwSDlsNE93LVpNbzRWdWNkUVFuV0d1RE1VdEU2ZHZqSHBTWUtwSEY2cUVNZDNITVBZYw?oc=5",
-              "source": "노컷뉴스",
-              "publishedAt": "2026-11-24T07:02:55.000Z",
+              "title": "미 상원, 밴스 '정치 후원자에 원유 사업 특혜' 의혹 조사",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KRThtcm9URkxLb2VBdFNhSzR4SkkzbjJXenZLYXJrdjIwOFV0SXZVMUJUM3ZZSF9uM0plNm1mc2FoOGNHclJoZEYtR1hHaHlmU0NGbWQ3b0hSSWxGcWY5bDJMOGtoZw?oc=5",
+              "source": "news.sbs.co.kr",
+              "publishedAt": "2026-11-24T06:24:00.000Z",
               "kind": "news"
             },
             {
@@ -380,6 +400,13 @@
               "source": "연합뉴스",
               "publishedAt": "2026-11-24T06:03:15.000Z",
               "kind": "news"
+            },
+            {
+              "title": "美상원, 밴스 부통령 석유사업 특혜 의혹 조사…\"거액 후원자에 일감 몰아줘\"",
+              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRElUREZZa3lSOUpvREFxRFRMV1NrU2NxWmM5LTEwQVI3aU5XSVRXVE9SYlpXRkpMZEpkTUtWZW9CQkFiaWtOdWRrXzNsaEJrVXJXdkp0cFc4TWNEeUdxSDVfcjhwVGhJd1M3dlZrQlJVc19tRHdvMmtoT1JRUG5VNGFrWDVOc3RnT3ZzcmlWeDF0WHEybThGVkNEZklRQ0hybXhEUllxa2E4enMwTXFuMzVob29VS2lWRDBUaFNoUVhKaVMybVFfQm9MTjVQM0EtMlBqcVFEV2NoVllQUW8teTZiMnZGTHg5QklNSWt1M2dmQ2ZjN3lMR0RCZVRqRC1aSWRjWUcxXzBvdVJLdUtFNjhOb0J2RC1t?oc=5",
+              "source": "데일리안",
+              "publishedAt": "2026-11-24T00:26:00.000Z",
+              "kind": "news"
             }
           ]
         },
@@ -387,18 +414,30 @@
           "title": "멕시코군, 美 10대 지명수배자 명단 오른 카르텔 두목 검거",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [],
+          "headlines": [
+            {
+              "title": "멕시코군, 美 FBI 10대 지명수배자 ‘카르텔 킹핀’ 검거…현상금 67억원",
+              "source": "뉴시스"
+            }
+          ],
           "span": "11.22",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 2,
+          "sourceCount": 2,
+          "articleCount": 3,
           "articles": [
             {
               "title": "멕시코군, 美 10대 지명수배자 명단 오른 카르텔 두목 검거",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVUhkRXBoZFN2ZlNQeFN6QWt0TzVxeDh1UjZja1lsN0tqTTZiTEozaUNDUlUwLXpoRkt4OEpzeFhPM1FtbTV4akVNS2VFaFJKWENLSjFtRnpsUmdlWEVQMtIBYEFVX3lxTE9OVUhkRXBoZFN2ZlNQeFN6QWt0TzVxeDh1UjZja1lsN0tqTTZiTEozaUNDUlUwLXpoRkt4OEpzeFhPM1FtbTV4akVNS2VFaFJKWENLSjFtRnpsUmdlWEVQMg?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-22T05:07:30.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "멕시코군, 美 FBI 10대 지명수배자 ‘카르텔 킹핀’ 검거…현상금 67억원",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VVTNtZDBNa1lsT1pRLUVSQTdKMnVEcGZ0X1F4YWtQbHZFeUJXamxRck5CVDBVQlVOeEVkMHAzQTNrdHM5UU9Td1RSdjc4d1RyR3JRYzhSa25tSVRtVFBtedIBeEFVX3lxTE4yOWUyNHhuQmt5NWZ6N0pDOGM4LUMwUElYd1hUa1poUDJ4QlBPY1lzYnRQcGMwVnNFRm1hUlpDYmc4WngzTkY3YWtBYnlpTDlWc2tlWDBsa2RJN2Y3UThSbDFDWGNVc3JOdzRRWEwtZEhPaHpqSWhWcw?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-22T02:53:10.000Z",
               "kind": "news"
             },
             {
@@ -411,61 +450,80 @@
           ]
         },
         {
-          "title": "헤그세스, 새 미국-베네수엘라 군사합의 서명 - VOA",
+          "title": "‘FBI가 쫓던 멕시코 마약왕’ 총격전 속에 체포",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
+          "headlines": [
             {
-              "title": "헤그세스, 새 미국-베네수엘라 군사합의 서명 - VOA",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jcUl3dHdBQnc1bUZKZEhmN0pyVFJNelhkUlp6eGVUYzFXVXk2TmFrYS01ZDFfM19KV2lBQldJNVZLN0VZSVloRWtoTTc1bHRmRC1UcWxn0gFWQVVfeXFMTWNxSXd0d0FCdzVtRkpkSGY3SnJUUk16WGRSWnp4ZVRjMVdVeTZOYWthLTVkMV8zX0pXaUFCV0k1Vks3RVlJWWhFa2hNNzVsdGZELVRxbGc?oc=5",
-              "source": "VOA - Voice of America English News",
-              "publishedAt": "2026-11-25T19:04:27.000Z",
-              "kind": "news"
+              "title": "멕시코, FBI 수배 마약왕 체포.",
+              "source": "Vietnam.vn"
             }
-          ]
-        },
-        {
-          "title": "미국과 베네수엘라 간의 새로운 군사 협정을 \"해독\"해 봅시다",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
+          ],
+          "span": "11.22",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
-              "title": "미국과 베네수엘라 간의 새로운 군사 협정을 \"해독\"해 봅시다",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQi1WUVF0WDJqbllVc2ZtZVk3V3ZNUFhlMTJXdlViV1E0Y1U4dEljc2Y5YjhaMzFJTDFkb3J6LU02Z2dMZXRDNTNVb1ZOVTdNUUxWaE04Uk9ieFVjUl9wNm5aMXlpUlV1eHBFZUpRa21uY2FaOHplZmJKOXpTZTZRbXQ2aw?oc=5",
+              "title": "‘FBI가 쫓던 멕시코 마약왕’ 총격전 속에 체포",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82RDVtaURmWEpUWnNoVGNkS1RSdWxuZ2NNNTBYZzFKSmpldGpjblVLb3I0cmhsTTBzQkZ2aWd4TlhIdEc3MmJNZVhmYVZXbW5XVzFBR0E3eDNrWGJvdGxkMFlKVkNmUVI5OEE?oc=5",
+              "source": "천지일보",
+              "publishedAt": "2026-11-22T05:42:29.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "멕시코, FBI 수배 마약왕 체포.",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODlQZlVRSF9qRF9VeHlwTGxCOTM5VHZRd2JhUjVsVi1PVUd4REctYVB1Y01sS1FGNU9zMURjbHJGeXBvNHhVSEc1ZExFOUU5cDZiUnFmZWd6Vlhhck1xczRIUEk2OUN3dXA3QVY3RjhFVUVFVFBkOUltYnRqWHhHRnVn?oc=5",
               "source": "Vietnam.vn",
-              "publishedAt": "2026-11-25T04:02:45.000Z",
+              "publishedAt": "2026-11-22T05:29:54.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "BYD의 브라질 공습…리튬에서 완성차까지",
+          "title": "아르헨티나는 베트남의 발전 성과와 국제적 위상을 높이 평가했다.",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.25",
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "아르헨티나는 베트남의 발전 성과와 국제적 위상을 높이 평가했다.",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUwyNUtxR2dkRXV6MTQwVmd6ZTloTkFxZm5kSWdCb0d5aUpfcTVNMmdPWVc1bW1UTTFSRkZWLXR0V1ZRRW8zVWg2YVo3Y3hneFNwal9icVFOQTEtbFpBOTBhY0EzV3VBNURmRFdLRXE3WU5aSEg2SkJLNHVWcGRRd2RsWDJiUFJUbWhnMzF0TTVlM182YkxFX2Fxa2JmMlFyTkJF?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-24T05:33:33.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "아르헨티나 언론은 베트남의 발전 성과를 높이 평가한다.",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUlZTURHZ0U4R0tYVnN2NHVKbndkX0VWdnp0NEFQVy1Td0VMS1c4Z25BYVg0SGRoTTlqUWlPSVNka015Wi15aU1IT0xZQk1YN2VoZm9YUFcwdXkyZ2d0cllWQ1dJc052X2RGelVfMEhiVlNGT1pSczVEOG9MazJGOVlockEtMHZTSjVwTUxjOHpLWnZmN1VPUzlodUZRV2dkSjM0?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-24T03:40:14.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "전쟁은 아직 끝나지 않았다.",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.27",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
           "articleCount": 1,
           "articles": [
             {
-              "title": "BYD의 브라질 공습…리튬에서 완성차까지",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14OVBBRG1GR1VqZXd1QnRQOGVnakZLRWlyei1ELWhLWGM4VjNpRHZxZkRTbmIxVEFMekFnSW9xYlM3UVEyc3BvTmpwTFJqc2d4RVlGcjNkYzZQZE5rZFJtSmVQU1ZqVlBlWWc?oc=5",
-              "source": "OBC 뉴스",
-              "publishedAt": "2026-11-25T01:17:14.000Z",
+              "title": "전쟁은 아직 끝나지 않았다.",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjYUEzZHRLNWhEb1lWYlBTalViMkhGYkxsV3BoSFQ4Z3o0VU45YWZ0U3BmZ1g0MGdGOGxrdlRsaTFtZy1yamNTZG5VVGxNX0NXb0o3TXM2eW5LMW1NU2c?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-26T19:33:41.000Z",
               "kind": "news"
             }
           ]
@@ -477,24 +535,28 @@
       "summary": "",
       "keywords": [
         {
-          "word": "타고",
-          "count": 12
-        },
-        {
-          "word": "이코노미석",
-          "count": 9
+          "word": "관세",
+          "count": 8
         },
         {
           "word": "룰라",
           "count": 7
         },
         {
-          "word": "APEC",
-          "count": 7
+          "word": "타고",
+          "count": 6
         },
         {
-          "word": "이코노미",
-          "count": 6
+          "word": "전용기",
+          "count": 5
+        },
+        {
+          "word": "이코노미석",
+          "count": 5
+        },
+        {
+          "word": "항공기",
+          "count": 5
         },
         {
           "word": "채무",
@@ -503,15 +565,11 @@
         {
           "word": "구조조정",
           "count": 4
-        },
-        {
-          "word": "취임식",
-          "count": 4
         }
       ],
       "items": [
         {
-          "title": "이코노미석 21시간 타고 APEC 간 멕시코 대통령",
+          "title": "\"세금 낭비 막자\"…21시간 이코노미 타고 중국 온 멕시코 대통령",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
@@ -524,15 +582,15 @@
               "source": "한겨레"
             },
             {
-              "title": "\"세금 낭비 막자\"…21시간 이코노미 타고 중국 온 멕시코 대통령",
-              "source": "한국경제"
+              "title": "멕시코 대통령 셰인바움, 21시간 이코노미석 타고 APEC 정상회의 참석 : 왜 전용기 안 탔을까?",
+              "source": "허프포스트코리아"
             }
           ],
-          "span": "11.19~11.21",
-          "days": 3,
+          "span": "11.20~11.21",
+          "days": 2,
           "hasPress": false,
-          "sourceCount": 10,
-          "articleCount": 10,
+          "sourceCount": 5,
+          "articleCount": 5,
           "articles": [
             {
               "title": "다들 전용기로 왔는데…21시간 ‘이코노미석’ 타고 온 멕시코 대통령에게 생긴 일",
@@ -556,24 +614,17 @@
               "kind": "news"
             },
             {
-              "title": "이코노미석 21시간 타고 APEC 간 멕시코 대통령",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fZDVOTTBiUGpzT2xvc0xDN0hjQ2ZMOFZ0NmVxTkdrTUs4TnlPd21ndWRmT21pdjljbTVySmFCWXRBSUhJLVgwUDBiWVJiV0lkUTl6LU1qYUlfSmdDTHc1dFVzWlRxTHM3eTFrbmF6eGo4RXPSAWZBVV95cUxOZ2I2S0Mxc1NIOGl1RVBnNEdETVctRHNpNDJjQzZNZFFjX0d1N1RlbW9YZWtVNFd5aWVnaktuNHZUYW1ObkRBYXhYZWgyR3pDc2o2amlkTTd0MTgzRl9abm05V2p3bXc?oc=5",
-              "source": "동아일보",
-              "publishedAt": "2026-11-19T19:30:00.000Z",
+              "title": "멕시코 대통령 셰인바움, 21시간 이코노미석 타고 APEC 정상회의 참석 : 왜 전용기 안 탔을까?",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wazM5dTl3a1BYclJTVFBMTEIxVTJMUk1xR0RNQWc3dU5oeVc1SVpCbGJtQm5YSm9SU3U0ZGxlLUNIU1pvOTFuOW92Y3hWVGpvam9sc2R3aw?oc=5",
+              "source": "허프포스트코리아",
+              "publishedAt": "2026-11-20T05:12:53.000Z",
               "kind": "news"
             },
             {
               "title": "민간 항공기 이코노미석 21시간 타고 APEC 참석한 멕시코 대통령",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqNHUwalFxZjRtOUdjUzFDTEUwNkVZeVVHN2twYVEyeHFjaEQ5Nlk4QXhQSnlIOENJUzBuN2ljQjhqazNNaEluTURsNUZfWE80VEE?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSE4zc0wyVWtJNjBKNG05bFJoVTRVUUM2MExtVDctSE5lWVpmc0NKSFJFZy1oOVA2b2YybXVhelNCN0swRC1YMVFwTVI5d1RJWXFZRQ?oc=5",
               "source": "JTBC",
-              "publishedAt": "2026-11-19T16:44:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "21시간 이코노미석 타고 APEC 참석…멕시코 대통령 소탈 행보 화제",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OWFZ3UUJpallIX1NOeVJONlZRS0N4c3BnMkthTWI5ZVkxOExGMDlsdUFiWk4tNmhYWE9zdjBaMl9qWmQyc1hFX1NMWHBYaEpGNmw2bVhKMHNVZ1U?oc=5",
-              "source": "경기일보",
-              "publishedAt": "2026-11-19T13:53:13.000Z",
+              "publishedAt": "2026-11-20T04:55:38.000Z",
               "kind": "news"
             }
           ]
@@ -714,28 +765,33 @@
           ]
         },
         {
-          "title": "'긴축 재정' 전용기도 팔아치웠다...이코노미 타고 온 대통령에 '환호' [자막뉴스]",
+          "title": "식약처 \"멕시코산 수산물 수입할 때 현지 정부 위생증명서 내야\"",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [],
-          "span": "11.21~11.22",
-          "days": 2,
+          "headlines": [
+            {
+              "title": "식약처, 멕시코산 수산물 수입절차 강화…정부 등록시설에서만 수입",
+              "source": "뉴스1"
+            }
+          ],
+          "span": "11.20",
+          "days": 1,
           "hasPress": false,
-          "sourceCount": 1,
+          "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "'긴축 재정' 전용기도 팔아치웠다...이코노미 타고 온 대통령에 '환호' [자막뉴스]",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tUFpONHVxRnNiVzBrdzl1Q1Y3VjNVeEdIeDBPN0FhbW02eDNHRDBiRHI5YWpRUWtNRHQ5RzRfN2pqLXVWUXJYcVp2YmdvVWhzanlaZ19xalF3QjJkZ3c?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-22T01:23:00.000Z",
+              "title": "식약처 \"멕시코산 수산물 수입할 때 현지 정부 위생증명서 내야\"",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSDlQZmowNVpGX2owWllJOVdQdS1Tc09ibUlQaThBMVZYMGRtcGpOdlZ0NElhZ3BPNm5iMUV5NTJ0U1pEZ2Y3c1RkTXBJbUl6T0w2dl9aRlNMeGFEWHVCYW92QVdkajR1Sl9MNllR?oc=5",
+              "source": "간호사신문",
+              "publishedAt": "2026-11-20T01:27:11.000Z",
               "kind": "news"
             },
             {
-              "title": "대통령이 이코노미석에 20시간을?...긴축 재정에 전용기도 팔았다",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDd3JZOUt0S3I4cUhrWkR5amlVVG9wTWhEbl9Jcm1nNmxya0VPNl9PVWppYlN6a0s0RlhCN3ZTUTZJRnU0UWJ3NTFJekZmVkI5TmdDRU84MUZpNUw1aUE?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-20T15:25:00.000Z",
+              "title": "식약처, 멕시코산 수산물 수입절차 강화…정부 등록시설에서만 수입",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oa2JQSzQwUDNtOWhJaHk0cmJoeWVYZXg2c1RnZGJkMFBNdENHRXhQOWYtYzlKV1RJbWt2UjFnVXF6ZTZXNldYUm42RDFOYVpPUDFpd1hLSndnZG9feGtlSg?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-19T23:53:55.000Z",
               "kind": "news"
             }
           ]

@@ -2,37 +2,37 @@
   "month": "2026-11",
   "category": "politics",
   "ai": false,
-  "builtAt": "2026-11-26T05:05:16.037Z",
-  "articleCount": 291,
+  "builtAt": "2026-11-26T21:16:58.418Z",
+  "articleCount": 287,
   "summary": "",
   "topics": [
     {
       "ref": "2026-11#t0",
-      "title": "민주유공자법, 국회 본회의 통과",
+      "title": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”",
       "summary": "",
       "importance": 5,
-      "articleCount": 9,
-      "sourceCount": 4,
+      "articleCount": 6,
+      "sourceCount": 6,
       "articles": [
         {
-          "title": "민주유공자법 국회 통과...\"감격\" vs \"운동권특혜법\"",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaXNFTTBLRnhLRUg5TlVLNUFrY3I5U3IyeVZxbFVuNEJBNjZEVzI3Ylc2ZEx1OElsVnQxdTBEU3p3UnJaZmtGa19ESVctcjhtd1JlWTh3N3dzTl96eWNiMVlCc2Z3ZW56YjBIOTBsNA?oc=5",
+          "title": "'조희대 탄핵'에 법관회의 의장 \"행동 나서야\"...\"수령 모시나\" 반론도",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWXhheHFiSGxSMTN5U0xRUVdueFZqdVR2SzZVQXlaUUc1bFVscDF6ZERWUDIwbWlpRDBmY1E1RXdEckNJSG1vMF9oTkVOU0Q5RFNRN25neXRldG9XZVhnZ1B5UWpTRjZSdXR3UGRJaw?oc=5",
           "source": "YTN",
-          "publishedAt": "2026-11-20T11:42:00.000Z",
+          "publishedAt": "2026-11-23T09:45:00.000Z",
           "kind": "news"
         },
         {
-          "title": "민주유공자법, 국회 본회의 통과",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XUHFGbDlvUzBESzMwZmQ5bDh2ZzRIUElWOEdKNEtMTHNXMlV3cjVGNTgzV3JIUzJjODIydUVSX0hEak40dWo1LS1ibkxwcUFVQ3U1eDZybkFJcmdUQm4yVlNOWlV4dw?oc=5",
+          "title": "전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sX3NFc1dKWGl0b3B2dGV3RHVUYkI3YWsyclZ3Y1hDRDg2b3pwZXcwWl9TbzYwSU43RVpJSWMtclZqRHlHNXBSZHQycktpeklzV0tQLXpYN0lkTDZadTFTSktaX2J0aW42RUwyV0oxbHdQQQ?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-23T06:13:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“조희대 탄핵 도 넘어…법관 행동 나서야”",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVDNDd2VHdFp5eTNJNXJZMFFEWktXdDdLTDlaSVN1MThQOUNsUlBnT3lWb2tWNzhqaFNVRnV1ZlY5b0JoRGhTVG1NaXV3TkJ1dndIeXphUDRscFNSMGxGMldTSE8yS1pxZHFZ?oc=5",
           "source": "KBS 뉴스",
-          "publishedAt": "2026-11-20T08:11:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "민주유공자법, 與 주도 국회 통과",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBETy1ERWxrN0szMkhFaXdIT09KMmNwSlFhNzNzNk5lNnJiZkxreWprT19zMlZpN2E2SWtzRGpxdG9EQVNvdU9Ucl84Y19lUGo5cVdKRHprb2pYVkp0TnoxdmNUakltWFJkelluZHJB0gFyQVVfeXFMTlNEWDNQOE1GUnE4Xy1HYzJFR3pVcGJNZk1NODN0MmhuNC1Bd2EwRmJEaWNCNkMzNnoyenlwTFBLSHZ2dEd3Tk9ESV9sbGdYdlN2N21HRTNvbEwxVnRtdnNTSGIxbHFWcC04TGFvZVJycFBR?oc=5",
-          "source": "법률신문",
-          "publishedAt": "2026-11-20T07:58:12.000Z",
+          "publishedAt": "2026-11-23T03:29:00.000Z",
           "kind": "news"
         }
       ]
@@ -70,62 +70,62 @@
     },
     {
       "ref": "2026-11#t2",
-      "title": "“조희대 탄핵 찬성” 34%, “반대” 44% [NBS]",
+      "title": "민주유공자법, 국회 본회의 통과",
       "summary": "",
       "importance": 4,
-      "articleCount": 5,
-      "sourceCount": 5,
+      "articleCount": 7,
+      "sourceCount": 3,
       "articles": [
         {
-          "title": "‘대법원장 탄핵 추진’ ‘반대’ 44％, ‘찬성’ 34％[NBS]",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkxKTC1ocXJKR2tfbVhmZ2ExbUdLNDE5WlA4dmk3QkJUMjk5T3c4a01QUmVzRzQ5S3k0QWtheVdfeUVXLUhTTmJES3BFc2dBSGczT1p0OW5UNmQzTTF6SjVuejg1RVZCNzhQSndPMTZsLUpVaXNpb2VZcG9lOG5wLXJlR2dIRFdkN3l3dUpQMTBMeWs?oc=5",
-          "source": "국제신문",
-          "publishedAt": "2026-11-26T03:00:00.000Z",
+          "title": "민주유공자법 국회 통과...\"감격\" vs \"운동권특혜법\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlMDYyMFpTODNrSDdFOE40cVNCcmR4eU9uTldwR2F4RFVCYWFKXzhZUWR6WFZ5LXZFemJQS1Fwb0UyOUltZnNxNlZqTzdwTVB1QjF6Wmg4aFF1YTFiRlE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-20T11:42:00.000Z",
           "kind": "news"
         },
         {
-          "title": "조희대 탄핵 찬성 34% - 반대 44%",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HM1hxUXlvampBeV9wNW00emRmQ2hEMU1GNjVqZDJRQ2pkM002RjhOYzFXSzRHUjk0WUJnNDM3RllqSEhUMWhJU0lZdXVxZFg3Q25jQWpXSmtmY2lQYmRzaVdJd0NJZFRMN3k3THZiSEx4ZThlMUJB?oc=5",
-          "source": "OhmyNews",
-          "publishedAt": "2026-11-26T02:37:00.000Z",
+          "title": "민주유공자법, 국회 본회의 통과",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XUHFGbDlvUzBESzMwZmQ5bDh2ZzRIUElWOEdKNEtMTHNXMlV3cjVGNTgzV3JIUzJjODIydUVSX0hEak40dWo1LS1ibkxwcUFVQ3U1eDZybkFJcmdUQm4yVlNOWlV4dw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-20T08:11:00.000Z",
           "kind": "news"
         },
         {
-          "title": "“조희대 탄핵 찬성” 34%, “반대” 44% [NBS]",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OWUdSODBQZVF2U0ZBX3U4YkVsNWZCc1RTLXdIMmdOU0xjTTNMOGl1MGIxaVdDVmxTcDlWbHpDUExRZnBEVk5SSVRyWU5udl9XYzJTa2h5UEhPNHZWRnZZQlIxdHBLZTBBUzNIZGF4enBlUEJC?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-26T02:33:00.000Z",
+          "title": "민주유공자법, 與 주도 국회 통과",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBETy1ERWxrN0szMkhFaXdIT09KMmNwSlFhNzNzNk5lNnJiZkxreWprT19zMlZpN2E2SWtzRGpxdG9EQVNvdU9Ucl84Y19lUGo5cVdKRHprb2pYVkp0TnoxdmNUakltWFJkelluZHJB0gFyQVVfeXFMTlNEWDNQOE1GUnE4Xy1HYzJFR3pVcGJNZk1NODN0MmhuNC1Bd2EwRmJEaWNCNkMzNnoyenlwTFBLSHZ2dEd3Tk9ESV9sbGdYdlN2N21HRTNvbEwxVnRtdnNTSGIxbHFWcC04TGFvZVJycFBR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-11-20T07:58:12.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t3",
-      "title": "창원지법 전체 판사회의 \"법관 탄핵은 헌법 훼손\"…일선 법원 첫 반발",
+      "title": "민주당, 조희대 대법원장 탄핵 추진",
       "summary": "",
       "importance": 4,
       "articleCount": 5,
       "sourceCount": 4,
       "articles": [
         {
-          "title": "창원지법 판사회의 “법관 탄핵 추진은 헌법가치 훼손”",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lUnpKVU90SnNkbW5xRko2QTk4VFlRWjdQMTZWNFJlNTZ3OWkyOWhHLVdhYkRqaWlrSkRzMmkyMmFRSWxreEZfb3ZHM2tuYzZubFAtTUotcFQ3RlBCSmRCOGFEUzhGZjRqNGZWYzlwM1RnUQ?oc=5",
+          "title": "최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zM2pVcVFpaTc3TV8yV2NpOUZ5ZWFOQTVrZ2VoU2ItZ0lWUWtXQzM5Vm5yaVI4ekNaaEQyZHZFVnJGQVFtR0d5eFBVZzRVMUw5cllFc3R5WW5FZkk?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2026-11-25T09:23:22.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Oc0pCMkV1ejJHVE9OYXhTY3RBZ2V6OXExYWZfRy1lQWFhY0hXbWM2UEtqUXhiSnpET1kyOFYtUWlMcUNKbGdPajFySU1HZnZnbFE4RGRhQTR2VVRMaEtJck9Vd2ZYdl8wZFY0VU9uX3Y2ZWtp?oc=5",
           "source": "한겨레",
-          "publishedAt": "2026-11-26T04:27:00.000Z",
+          "publishedAt": "2026-11-20T15:14:00.000Z",
           "kind": "news"
         },
         {
-          "title": "창원지법 전체 판사회의 \"법관 탄핵은 헌법 훼손\"…일선 법원 첫 반발",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCRU9EY3RKaGpwbTJfVC1WYndFWVZVaEgzMDB4bDdIUFBfci0wVU5UMmhoSVdKVHZIRjBILU9BY1JiRHZZSFJiMndjQWRRN0VvQTZBOVpXb1Y2QnNRQ2hoci1keGE?oc=5",
-          "source": "매일일보",
-          "publishedAt": "2026-11-26T00:04:54.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "\"탄핵은 헌법훼손\" 일선 법원 첫 반발",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0E2WC14T0FVTTdSeHNSWU81blFDTzRPWFFDYS1LMGczQ1k2azVTLTNFeHQ3c3pNWHlVMkhwSHgwZ20zSkVKcUM2SnNkYnU3LVhUZG9DVURWUkx5X0lFMHRyZGR3WUdtdE1oM0ZmUXpfWVZVODAyUEhCemgycG9ZMXRVX2t6RG8?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-25T15:56:00.000Z",
+          "title": "與, '조희대 대법원장 탄핵' 당론 채택",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vd1Zyb2hzN3pqMHdmUjVKYkVlTjJ1TkFLakFaQjR3UnRrUWtKeEcycUdpMHB1Q3ZjZktRN1V4dVQwTmc4ZDhtcHprTFY4UHRVQjFsbWNfTmd3cmvSAWBBVV95cUxNZmZNWkFzR2ZBcU5OOGs0QjE1dU1zY01rT3Z2SXlUemJZY1lJOEwzbGh1SWxXMWJJSTRLMkY4YkJUZnVVdC1vcG80M2E2OEYwSDRtX2JzSjVyVDdJQlQxcjk?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-20T05:25:02.000Z",
           "kind": "news"
         }
       ]
@@ -139,10 +139,10 @@
       "sourceCount": 4,
       "articles": [
         {
-          "title": "李 대통령, 외교·안보라인 전면 교체…행안부 등 5개 부처 개각",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RZUR0UHlLSi1sTm1ldXpNMGFGcEg3aUFwREN6XzVvdTcwRG9GMTNtWWpOb1VGdFFZQV9wWlFySFNNSzFZNGpOMFlycHlkZ1BJWU5SclVmcGl1dw?oc=5",
-          "source": "농민신문",
-          "publishedAt": "2026-11-23T09:33:00.000Z",
+          "title": "국정원장에 강금실 지명…외교·안보라인 전면 개편",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ba2E2ejdjSEVDWkJ4S1ZxS3o1RERhMFpva0RTd21KT2RRaWswWEFmWlVvNko0MGFTWEhLV2R0R1c1cFpWN3FYMWd0QndiV3lXVi1vRXpCVHFtZ3NESE14Q0NaMkhqWlE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-23T08:48:00.000Z",
           "kind": "news"
         },
         {
@@ -163,55 +163,79 @@
     },
     {
       "ref": "2026-11#t5",
-      "title": "정성호 “조희대 탄핵 후과 여당이 져야···충분히 설득하고 명분 쌓아야”",
+      "title": "창원지법 판사회의 \"재판 이유로 법관 탄핵 시도 깊은 우려\"",
       "summary": "",
       "importance": 3,
       "articleCount": 4,
       "sourceCount": 4,
       "articles": [
         {
-          "title": "정성호 \"조희대 탄핵 시 후과는 여당이 책임져야\" 우려",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKZTZQRG9Vc0t3ckpzZnRqemVyZTJyVzZyX3N1Q08xckxITmh2MDkwenExVGo5UjR3RkZSS2wtSnVsaElUN0ZxVEJJZlpOdUdxNDdINE8tMVR0N0JRX3JXUDY0Rms0MU9rcDBSUUVadkVmSmk5cEpsdNIBeEFVX3lxTFBtcHhLLW1nZU1ldUsxYUFvSXRrSFQ1c29nRVpKRDRmTmtsb0ZlaVlIblVselVGY0lmbVdNZ0gzdjZmX2xOWktPUTNWc3cxa3FyWXBaREdmdlRIb1hCN1NaN0tpRkVnMF9VSDdHYVlGQXZ6ekRseWZWVQ?oc=5",
+          "title": "“재판 이유로 탄핵, 헌법 가치 훼손”…판사들 나서나",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tMk5NOWVJLTA3MmRWZ2RUWXo3R1ZmaU9UNlFHcEUtVGtWUVkwc0szSmNyMS1CLWlKZzVRMXJZYnJ1c2MtMlRnSnlKVDIwTUIyal9sNk02aXp3akk?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-25T21:18:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "창원지법 “재판을 이유로 법관 탄핵… 헌법 가치 훼손”",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOVlpNmtoNkxkdEMySkV4bjREakhkNlZJUFFZNExGWndPTWowUHBhVkp4WGVRWjhRU0RZUkc1R0RCVTVQT1FZcDE2QmM2amlQeFpvMHZLckQ3ck51YVhkUXlOUlZ6OGZOM0FvcGVB0gFyQVVfeXFMTUdFTWwySFQ5ZEtxRnVoSmNaN3U1eUlzcjBkMFFyZzNWRW45T3pncXdhSnVJYW1iaEc3WEF6XzhvOTNzN2xUdUZxTU5tOGltUmhsRWFpdGlqcC1pb3hWTjE2bXMtdXoyc2U2UHg4RnczQzlR?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-11-25T09:19:37.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "창원지법 판사회의 \"재판 이유로 법관 탄핵 시도 깊은 우려\"",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpS3VxcVYxeG1BS29mZ2JuQWlwcnFZYnRTb3VXNGRnOHZ3UWxXakZmQ3A5d2thcGhiR0Y2TTJQUjFpelBjYS1VdDY2NDlXYy12MC1jb3lHTHAwakZJSmdnSEZvMTFvaWhvYmlPQmpyU3dyM2dnYlFB0gF3QVVfeXFMTWdzZnpsWWZCRVNzT1QwNlpfdEFlUUd6WVROQzFUTFM2Sl8ybFJ0c0hHYk9IWTRha2EzdFI3QkpxYXd4cmdwOUI0bm05WkJRdDd6Qmc5bVRFcjZKbklDTzY5NVZVUnpHcjBjZ2NCUFhjMy0zV0NtOU0?oc=5",
           "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T02:15:02.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "정성호 \"조희대 탄핵시 후과…국민 설득하고 명분 더 쌓아야\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhd0ZHQm9KbjA5RTN2RXd3WVNsWUppQ3htdV8wOVZhX0JvaDlVSGdYLXpEZHVKSkFRVFF4ckQtUlBsRzRyMzF4NDJOMmxtWXhYcy16SkxOYXN3aHPSAWBBVV95cUxPa0VaaVVfQXptWEpyQUt5My1NNGpCdEg3OW1WLTVVbmRrRlJqZUkyUkJsbGxTZGY4ZDNLVFNPdDVGS0RvejdYeWtCcklRVzhXcld4N2poQk5pTHdUSjBZVGY?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-26T01:29:07.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "정성호 \"조희대 탄핵, 후과에 대한 책임은 여당이 져야\"",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRW9RTUJPVnh2OEx1OUlNT0d1MXZkVlpLcFVIR1NWQ2x2bWZBT3VHRzd1clZ1MzE0dVdhbUdpTWVnaW8tX19SaEtvb3RMY3hSRG9KY2pWME1XM3k3dW1rSXJhWFJaZ0FLaUJ1XzdjOVRNYjhjSzVKMWlRR2J1QVJxcTd3SnRpanBlRVkwaE9TV3o?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-26T01:01:00.000Z",
+          "publishedAt": "2026-11-25T08:16:58.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t6",
-      "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
+      "title": "북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”",
       "summary": "",
       "importance": 3,
-      "articleCount": 4,
-      "sourceCount": 4,
+      "articleCount": 3,
+      "sourceCount": 3,
       "articles": [
         {
-          "title": "美, 韓 외교안보라인 교체에 \"긴밀 협력 중요\"",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CY3YxQkxzeWdMaGh0YkE4ZmRSVFhBd3B4ZU56VWR0TUpTdlg1YkR3SVVqYlhlV2ExRVRNc2w2QXFRQkpoc3B1eDlMaWhPdTYxT2xvbzBvblFEeWdkZVQwYkRMaElBOFE?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T01:12:00.000Z",
+          "title": "북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfR1JNZ1BSbzl2bW54TGpSdHFKbDM0QkR6ZjM5elU3dVpKUXk2ZXp1X08tdV9iT0FzMXYwZ1ZQVFRhMTByUXoxRU1LajVFd0x4MGxLWUhpVEJreUx2SE4xTXZwMzNVdw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T12:14:04.000Z",
           "kind": "news"
         },
         {
-          "title": "美, 韓 외교안보라인 교체에 \"동맹 내 긴밀한 협력 중요\"…인선엔 말 아껴",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVTFE1WWJsaWVuZE0wMFJvZm01aUdoOWNnWnVmdXhtTHl5d21NRDNla3pBZjRYNVdNcnFWUzVFZ1Vpc0JpVzh2RUlSc1NJcUhvZnVFUWZicGlZZG81UGRlaldER2RjQ2Z5YVFV?oc=5",
-          "source": "SPN 서울평양뉴스",
-          "publishedAt": "2026-11-24T23:08:06.000Z",
+          "title": "스위스 “북한의 평양 외교사무소 폐쇄 결정 유감”",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sNENxaXo0SzVYdEktU1M2aVVsS05RUnJISHBERlFmZTBfTTdwME05cVcwX0RDa2pyRDF0TWROR1g0cFM1U0hRTVcyREVLRlcw0gFTQVVfeXFMUDA0bUVZRmNacjFLT210Z0xOU3NxYUhBYWdoOURqOGhaNWdmcVlkRUlFVmpUNjNRZVd1LThJV0xpVlBEb0wwbndTbUcxaE11LURwaTA?oc=5",
+          "source": "VOA 한국어 홈페이지",
+          "publishedAt": "2026-11-25T16:29:20.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "북, 스위스 평양 주재 외교사무소 폐쇄…대북제재 철회 않자 ‘맞불’",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TnJubTU1aGM1QWFWc1VvTE0wQTREUlJxZDg0MHc5anpkbFRqdzh1d1ByMV9EWTk3cGdsTHNhRE1WZXBxRUdqYlc4SG8zR0RqUWhKbXNyRktkUEx0Sy1heGNvbUc0S3VGT2xVcTBjUjZaMGN6?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-25T06:15:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t7",
+      "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "美, 韓 외교안보라인 교체에 \"한미동맹 긴밀 협력 중요\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2WVJRcXNTeXV4WjN5VktqNE5mYUJkVjBMNjhHaHV3bVgxZm9kRGpncExoS2F4LUhJYkFSZHZFYUNGUGdrSHI5VF9Wa1EwOTNXd25tSkthaGp2MERUWHhXUEdhdnB1X0U?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-24T20:47:00.000Z",
           "kind": "news"
         },
         {
@@ -220,36 +244,12 @@
           "source": "KBS 뉴스",
           "publishedAt": "2026-11-24T17:36:00.000Z",
           "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t7",
-      "title": "한동훈 “조희대 탄핵 인용되면 의원직 사퇴···서영교도 걸어라”",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 3,
-      "sourceCount": 3,
-      "articles": [
-        {
-          "title": "한동훈 \"조희대 탄핵, 인용되면 의원직 사퇴... 與 서영교·박선원도 직 걸어라\"",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0pGTno1NDlaQXZZbEp6djlrcXRPWEhlREdpUENOOWRPVWFsLUhqMFI3ZTRPX0N4UWpVVE1rN0lJazhuTDFWcmthUmNuNDJ1VUluZFRjdzJiX0pWUmt3NHBCekNSNW9MQ0Eyd1hMWEVaOXBhbWhRZHVlekh1d1pfbDZFUlRPdw?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-25T00:49:55.000Z",
-          "kind": "news"
         },
         {
-          "title": "한동훈 “조희대 탄핵 인용되면 난 사퇴…서영교, 의원직 걸어라 ”",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vOHpMblJZQ0xIUVlwMjYzaVJkZWFuRHUxYWJkU0RUYUVJdk9jaTZUYVpZNUhMVG0tSWlMcEFHLVVyWURMdkJxUGlFZ3lsNTdXNEVPbEFR?oc=5",
-          "source": "중앙일보",
-          "publishedAt": "2026-11-25T00:10:47.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "한동훈 “조희대 탄핵 인용되면 의원직 사퇴···서영교도 걸어라”",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xZUw0YVp4WVBYR0dtWGFYeDJNZDlKczFRWk9IQmpXaXM0aUdzU3JsNlVNaHRkYlppSWl2YzBuN1NTTHRTeWpaYWdKblJsQ005MzVwazBWRG14M0FRVHc?oc=5",
-          "source": "주간경향",
-          "publishedAt": "2026-11-24T23:23:00.000Z",
+          "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KcXV2UFFDOElQZklPZzE1Q0xNUUwxcVlYOW9hMllFbC1wTEo4N1hHaF9oX0ZEenYxSmVGRkdxMk45SXd5b0RjeUxiaUdtMFNlWjR4dTRBekJqTDTSAWBBVV95cUxONUxkUEw5a0JmWGVfTjhKYm13cEF1ZXRIR3dDU1lrcWJWZjl5RDRPX2tIbHRBSzJCcFRqNzF1Rk0wbkMtWkRkMUZVTUlFM1lva2FqTHFUZEJ3SVd1YW9aelQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-24T17:33:15.000Z",
           "kind": "news"
         }
       ]
@@ -258,82 +258,62 @@
   "keywords": [
     {
       "word": "조희대",
-      "count": 60
+      "count": 58
     },
     {
       "word": "대통령",
-      "count": 20
+      "count": 22
     },
     {
       "word": "민주당",
+      "count": 19
+    },
+    {
+      "word": "대법원장",
       "count": 14
     },
     {
-      "word": "반대",
-      "count": 13
-    },
-    {
-      "word": "교체",
-      "count": 13
-    },
-    {
       "word": "통일",
-      "count": 13
-    },
-    {
-      "word": "국힘",
-      "count": 11
-    },
-    {
-      "word": "전면",
-      "count": 11
+      "count": 14
     },
     {
       "word": "강금실",
       "count": 11
     },
     {
-      "word": "민주유공자법",
+      "word": "교체",
+      "count": 11
+    },
+    {
+      "word": "국민의힘",
       "count": 10
     },
     {
-      "word": "대법원장",
+      "word": "반대",
       "count": 10
     },
     {
-      "word": "반발",
+      "word": "국힘",
       "count": 10
     },
     {
-      "word": "트럼프",
+      "word": "임웅순",
       "count": 10
     },
     {
-      "word": "법원",
+      "word": "전면",
       "count": 10
     },
     {
-      "word": "통과",
-      "count": 9
+      "word": "스위스",
+      "count": 10
     },
     {
       "word": "후보자",
       "count": 9
     },
     {
-      "word": "김민석",
-      "count": 9
-    },
-    {
-      "word": "연대",
-      "count": 9
-    },
-    {
-      "word": "개각",
-      "count": 9
-    },
-    {
-      "word": "스위스",
+      "word": "홍익표",
       "count": 9
     },
     {
@@ -341,7 +321,15 @@
       "count": 8
     },
     {
-      "word": "본회의",
+      "word": "연대",
+      "count": 8
+    },
+    {
+      "word": "제안",
+      "count": 8
+    },
+    {
+      "word": "법관",
       "count": 8
     },
     {
@@ -349,11 +337,7 @@
       "count": 8
     },
     {
-      "word": "임웅순",
-      "count": 8
-    },
-    {
-      "word": "상세보기",
+      "word": "개각",
       "count": 8
     },
     {
@@ -361,35 +345,31 @@
       "count": 8
     },
     {
-      "word": "안보라인",
-      "count": 8
+      "word": "민주유공자법",
+      "count": 7
+    },
+    {
+      "word": "통과",
+      "count": 7
     },
     {
       "word": "정상",
       "count": 7
     },
     {
-      "word": "한덕수",
+      "word": "트럼프",
       "count": 7
     },
     {
-      "word": "판결",
+      "word": "재판",
       "count": 7
     },
     {
-      "word": "외교안보",
+      "word": "상세보기",
       "count": 7
     },
     {
-      "word": "국정원장",
-      "count": 7
-    },
-    {
-      "word": "외교안보라인",
-      "count": 7
-    },
-    {
-      "word": "국민의힘",
+      "word": "한의사",
       "count": 6
     },
     {
@@ -397,24 +377,44 @@
       "count": 6
     },
     {
-      "word": "제안",
+      "word": "행동",
       "count": 6
     },
     {
-      "word": "사유",
+      "word": "나서야",
       "count": 6
     },
     {
-      "word": "판사들",
+      "word": "외교장관",
       "count": 6
     },
     {
-      "word": "창원지법",
+      "word": "국정원장",
       "count": 6
     },
     {
-      "word": "법관",
+      "word": "외교안보라인",
       "count": 6
+    },
+    {
+      "word": "안보라인",
+      "count": 6
+    },
+    {
+      "word": "지지율",
+      "count": 5
+    },
+    {
+      "word": "탄핵소추",
+      "count": 5
+    },
+    {
+      "word": "본회의",
+      "count": 5
+    },
+    {
+      "word": "반발",
+      "count": 5
     }
   ],
   "keyEvents": [
@@ -423,16 +423,16 @@
       "event": "민주유공자법, 국회 본회의 통과"
     },
     {
+      "date": "11.22",
+      "event": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”"
+    },
+    {
       "date": "11.23",
       "event": "외교·안보 라인 전면 교체‥동맹파에 힘 실었나?"
     },
     {
       "date": "11.25",
-      "event": "“조희대 탄핵 찬성” 34%, “반대” 44% [NBS]"
-    },
-    {
-      "date": "11.26",
-      "event": "정성호 “조희대 탄핵 후과 여당이 져야···충분히 설득하고 명분 쌓아야”"
+      "event": "창원지법 판사회의 \"재판 이유로 법관 탄핵 시도 깊은 우려\""
     }
   ]
 }

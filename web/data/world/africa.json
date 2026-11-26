@@ -2,14 +2,14 @@
   "region": "africa",
   "label": "아프리카",
   "range": {
-    "from": "2026-11-20",
-    "to": "2026-11-26"
+    "from": "2026-11-21",
+    "to": "2026-11-27"
   },
-  "updatedAt": "2026-11-26T05:05:25.002Z",
+  "updatedAt": "2026-11-26T21:17:07.389Z",
   "ai": false,
-  "overview": "최근 1주 아프리카 관련 국내 언론 기사 103건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「이란 \"美 봉쇄는 군사 침략…공격땐 모든 수단 동원\"」(기사 3건)입니다.",
+  "overview": "최근 1주 아프리카 관련 국내 언론 기사 124건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「참전용사 후손과 약속 지켰다… 유엔기념공원에 에티오피아 기념비 건립」(기사 9건)입니다.",
   "stats": {
-    "articles": 103
+    "articles": 124
   },
   "themes": {
     "economy": {
@@ -18,10 +18,14 @@
       "keywords": [
         {
           "word": "수출",
-          "count": 8
+          "count": 10
         },
         {
-          "word": "달러",
+          "word": "다변화",
+          "count": 5
+        },
+        {
+          "word": "코트라",
           "count": 5
         },
         {
@@ -29,43 +33,93 @@
           "count": 4
         },
         {
-          "word": "승인",
+          "word": "마감",
           "count": 4
         },
         {
-          "word": "철도",
+          "word": "기업주식정보",
           "count": 4
         },
         {
-          "word": "다변화",
+          "word": "글로벌",
           "count": 3
         },
         {
-          "word": "상승",
-          "count": 3
-        },
-        {
-          "word": "가격",
+          "word": "의존",
           "count": 3
         }
       ],
       "items": [
         {
-          "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
+          "title": "남부발전, 에티오피아 6·25 참전기념비 건립 후원",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력",
-              "source": "내외뉴스통신"
+              "title": "'6·25 참전' 에티오피아 기념비 부산에 세웠다",
+              "source": "매일경제"
+            },
+            {
+              "title": "남부발전, 에티오피아 참전 75주년 맞아 기념비 건립 후원",
+              "source": "핀포인트뉴스"
+            }
+          ],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "'6·25 참전' 에티오피아 기념비 부산에 세웠다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iRHVSdWpXNW4tSFRRZFFMaDREZUFTMmd4bWI1QThJVnBUb2ZzTjlnbC1xb19MUVRSYkJFd3dEYWd1SEZhajA1R1F2eTNnLUhVZG1hc0hn?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-26T08:22:03.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남부발전, 에티오피아 6·25 참전기념비 건립 후원",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcTJoWkxlZXpZQUFuM0FCbDRFYndqaTYxc0YyRFQwVzN2S0FyRkVrOENpYjd6VE5uVFBFbTJyVnVUOTZHNV81SWJCaGktX042SnoxUHRZNEE0OHBQUW81LVlHbkRaNC1NMEFyUkp3cXlBOVJKWDgzZlJORHVzUDgxYdIBgAFBVV95cUxOcTJoWkxlZXpZQUFuM0FCbDRFYndqaTYxc0YyRFQwVzN2S0FyRkVrOENpYjd6VE5uVFBFbTJyVnVUOTZHNV81SWJCaGktX042SnoxUHRZNEE0OHBQUW81LVlHbkRaNC1NMEFyUkp3cXlBOVJKWDgzZlJORHVzUDgxYQ?oc=5",
+              "source": "뉴데일리 경제",
+              "publishedAt": "2026-11-26T07:08:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남부발전, 에티오피아 참전 75주년 맞아 기념비 건립 후원",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KV25udVplemhPTVZEbExSVGRiNHFhQ2ZiRG9EeUlKN0tjUHVjbEJQUF9IQnBxOFFGRkN3bHRJX01VdW85VTlMVHBBVTJ5QjFmaTBJN1VFanRFdWE2MTBZSm5LSV8xT1JfS2FEQ2I5Y09ibVXSAXdBVV95cUxPVWJsNzJ6dWt0WGpTX0YzaERuMTkxZEdhNjdRa0x3bkNpMUV1VFNkY1BiZGRPOUtOUTUzNkdKTjVKTUdnNjhyZl9IQXBwZlQ2bjBFT1VVeWc0ejI3dWNLNGdPRHRnUXZqeVJJb09uRFE0dkhId2dScw?oc=5",
+              "source": "핀포인트뉴스",
+              "publishedAt": "2026-11-26T07:07:22.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "남아공, AGOA 배제 앞두고 수출 다변화… 미국 의존도 낮춘다",
+              "source": "뉴스아이이에스"
+            },
+            {
+              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
+              "source": "신화망"
             }
           ],
           "span": "11.25~11.26",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
+          "sourceCount": 3,
+          "articleCount": 3,
           "articles": [
+            {
+              "title": "남아공, AGOA 배제 앞두고 수출 다변화… 미국 의존도 낮춘다",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jN1NVWDJHUVhMMnNkVnNPRHdUVnNUeDAyZ25yemNnYWtaZXhpdnRVS2NXVXpvOElrY3dJQW8ycDhXRFh0XzFPVl9DUzRpVzF2TTk2WVhhRTJhU2lmNHpLRFhkNG1tcUVvbk1oUlNR0gFyQVVfeXFMTjhyd0pCTGZTbVZQZkpFQkxVeml2djl4cWZGeUJXb0dRTVFMbUtCeVFabF8zakpDZW0wTWJnTmttVVpWWXlFb2VYZ3NJa1RhdVJ2Qlo3ZmZrRHJfbmFLQjBzRVQ3QzBNc3BrRW81ME1BLVFR?oc=5",
+              "source": "뉴스아이이에스",
+              "publishedAt": "2026-11-26T04:58:01.000Z",
+              "kind": "news"
+            },
             {
               "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTmV0bk9fYXlDalBFWUV0a2dBeE51SlphbkRVb2ZpUnBkU0I2THdNbWU5YWg5YUpmV1FiVDBXbzktQmRBbWZLTUQ4em1nWFVNLXptQUlkZGc3ZkFyeENmRF9hWDMtbjB5c2FjNVRHdHBJWS1iemc?oc=5",
@@ -83,33 +137,99 @@
           ]
         },
         {
-          "title": "국토부, 철도 파업 대비 비상수송대책 점검…대체교통수단 확보 당부",
+          "title": "산업부·코트라, 아프리카 7개국서 2억7000만 달러 수출·수주 상담",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "국토부, 철도 파업 대비 비상수송 점검… “대체수단 확보”",
-              "source": "천지일보"
+              "title": "K-뷰티부터 발전설비까지…코트라,아프리카 7개국서 2.7억달러 수출상담",
+              "source": "이데일리"
             }
           ],
-          "span": "11.19",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "국토부, 철도 파업 대비 비상수송대책 점검…대체교통수단 확보 당부",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aN1c0UVV5S2p3dHdWdHpxSGNNTkRndFBGdzZ0RU5jWmRySlNGYnMxMi05d0lJa3BiQTlrTFNBY3pJUWQyUjVnQkJiMldPWnJyMjFjTF9UOWxGZzhIcUo1a1JDS2VsNjVYNmJJ?oc=5",
-              "source": "BBS 불교방송",
-              "publishedAt": "2026-11-19T11:09:32.000Z",
+              "title": "산업부·코트라, 아프리카 7개국서 2억7000만 달러 수출·수주 상담",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmNlJUQm02TVMtVnQtU3lwcG1xQTNsRWNXc0ZzVXF2NHExTEZLRWtjWVFjUzNLVVZIZV9RckJZUWFPYUNoUElyUVRUbzlJWjI4MXhRb3c2aEJMZlVzX1RxOHNfSW5YMEt2Z0RBQV80THpPVDBad0NFS2ZR?oc=5",
+              "source": "로이슈",
+              "publishedAt": "2026-11-26T09:10:17.000Z",
               "kind": "news"
             },
             {
-              "title": "국토부, 철도 파업 대비 비상수송 점검… “대체수단 확보”",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lRFRiS29USUYxNC1UY01GWUcxbjBMTm5UX0JmOWdHSlpkbWs2Y1ZBODZKQzNQcGNfVWZiSExnd3Z3ZDR4bGZaV0sxRGdmU2Z5TmdJVC1fbnJnZG85dXFmdVNaR2VuYlZhZ1E?oc=5",
-              "source": "천지일보",
-              "publishedAt": "2026-11-19T10:34:28.000Z",
+              "title": "K-뷰티부터 발전설비까지…코트라,아프리카 7개국서 2.7억달러 수출상담",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakNSTjVTWV9xMlgwandfX2lWUU1zMERiOWg4TnFITG9wVGc0ZXJlXzZwLWZ5amo3MjBTMGlhLW42YzlxNWRhNldFTHBJZnBYdzBzUHk5dWVMbThxUzRKSnFyWml6QzZ2U1N0Rk5oZGdfMUpjUlp0dGJmNVpmeHRHSg?oc=5",
+              "source": "이데일리",
+              "publishedAt": "2026-11-26T02:00:04.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "정부, 16억 아프리카와 경제협력 박차…“글로벌 사우스 거점 확보”",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "글로벌 사우스 핵심 거점 아프리카, 경제 협력 박차",
+              "source": "일간대한뉴스"
+            }
+          ],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "정부, 16억 아프리카와 경제협력 박차…“글로벌 사우스 거점 확보”",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZR3o2SHUzMnZmcV9MdGVneUNkOFpGVFZoMDVfX1RwakpjcWRxdklXZEtMTkZBcU9wNjFob0htMExjVk5JVVRJYjlZSmx2QQ?oc=5",
+              "source": "www.dt.co.kr",
+              "publishedAt": "2026-11-26T04:51:58.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "글로벌 사우스 핵심 거점 아프리카, 경제 협력 박차",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hRFJDWXVTMTVXT1l5OVdBdUoxWjRlRFJxRkg0VzhXa0ladjNYQi1KbnFydEsxVG9MdGxhcmJ2UlpkeV9waEpXYTVKbXREY0xzaDdXVEhCOFFXaVZtTTNRWko5OEZURTg?oc=5",
+              "source": "일간대한뉴스",
+              "publishedAt": "2026-11-26T02:50:42.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "캐피텍, 남아공 증시서 2.35% 상승 마감 : 기업주식정보",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.21~11.25",
+          "days": 3,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "캐피텍, 남아공 증시서 2.35% 상승 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00TVVYb0Q4c2k4eE4zQUtKazJ5MGQzZ2k5bWdYOFpnMzlMWU5ZTTlrTzhROXNWVldveGpUUjNEVHBSa20tRGF1T0hQaw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-25T04:00:10.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "앱사그룹, 남아공 증시서 4.09% 상승 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80T3luUmJGNmg1dkhfZFR0VlJGMUZyX3FxSnNMZ3hBX3RPMzBuLTc0MTg1VFhOMmNQeDRNYWNXQllhNTF5cEl4dllsdw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-24T04:01:05.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "앵글로골드아샨티 남아공 증시서 2.59% 하락 마감 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sX2VJYmdHRTh1dm1vbURkZnJyczVUYU53bHZ2NG9Jajdrekxtbl9hVk52enU0VG9PazQ0TFlQNWxja1BXZGxQdFlhNA?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-21T04:15:08.000Z",
               "kind": "news"
             }
           ]
@@ -147,73 +267,6 @@
               "kind": "news"
             }
           ]
-        },
-        {
-          "title": "캐피텍, 남아공 증시서 2.35% 상승 마감 : 기업주식정보",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.24~11.25",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "캐피텍, 남아공 증시서 2.35% 상승 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00TVVYb0Q4c2k4eE4zQUtKazJ5MGQzZ2k5bWdYOFpnMzlMWU5ZTTlrTzhROXNWVldveGpUUjNEVHBSa20tRGF1T0hQaw?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-25T04:00:10.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "앱사그룹, 남아공 증시서 4.09% 상승 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80T3luUmJGNmg1dkhfZFR0VlJGMUZyX3FxSnNMZ3hBX3RPMzBuLTc0MTg1VFhOMmNQeDRNYWNXQllhNTF5cEl4dllsdw?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-24T04:01:05.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "남아공 골드필즈, 5만6392센트에 거래 마감하며 4.55% 하락 : 기업주식정보",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "남아공 골드필즈, 5만6392센트에 거래 마감하며 4.55% 하락 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiYXN1MXBWS0U2aUtJSzA4bFVoMUtUVjR3c2ZnRjJyMmVOa3paek1WZW9PdnZ2RkRDY3h3Yk5MNmRZRVBnc1BRelpxaw?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-26T04:11:07.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "경제시대 구분지표로서의 ‘생산수단’",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "경제시대 구분지표로서의 ‘생산수단’",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15UkpRb2s1dDR2aGRvdTY5aHV6ZUV1V0pGN3l3Y2VJRGZNdnNIOTl4cFJMdGFSS1E3aGtZWk5iZDVUaDVEZWVMS0RMOHNsZEZ4eEtsdnJDZnkzTFhGdzB1bjZwUjlBdXBjRGxCetIBbEFVX3lxTE15UkpRb2s1dDR2aGRvdTY5aHV6ZUV1V0pGN3l3Y2VJRGZNdnNIOTl4cFJMdGFSS1E3aGtZWk5iZDVUaDVEZWVMS0RMOHNsZEZ4eEtsdnJDZnkzTFhGdzB1bjZwUjlBdXBjRGxCeg?oc=5",
-              "source": "엔지오프레스",
-              "publishedAt": "2026-11-26T03:36:01.000Z",
-              "kind": "news"
-            }
-          ]
         }
       ]
     },
@@ -222,39 +275,175 @@
       "summary": "",
       "keywords": [
         {
-          "word": "우크라",
-          "count": 5
+          "word": "기념비",
+          "count": 11
+        },
+        {
+          "word": "건립",
+          "count": 9
         },
         {
           "word": "드론",
-          "count": 5
+          "count": 7
         },
         {
-          "word": "이란",
-          "count": 4
+          "word": "유엔기념공원",
+          "count": 7
         },
         {
-          "word": "에리트레아",
-          "count": 3
+          "word": "남부발전",
+          "count": 6
         },
         {
-          "word": "침략",
-          "count": 3
+          "word": "참전기념비",
+          "count": 6
         },
         {
-          "word": "유엔",
-          "count": 2
+          "word": "약속",
+          "count": 6
         },
         {
-          "word": "위기",
-          "count": 2
-        },
-        {
-          "word": "군함",
-          "count": 2
+          "word": "참전용사",
+          "count": 6
         }
       ],
       "items": [
+        {
+          "title": "참전용사 후손과 약속 지켰다… 유엔기념공원에 에티오피아 기념비 건립",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "참전용사 후손과 약속 지켰다, 유엔공원에 선 강뉴부대 기념비",
+              "source": "국제신문"
+            },
+            {
+              "title": "부산 유엔기념공원에 에티오피아 기념비 건립···6·25 파병 ‘강뉴부대’ 후손들과 약속 지켰다",
+              "source": "경향신문"
+            },
+            {
+              "title": "유엔기념공원에 에티오피아 기념비…참전용사 후손과 약속 지켜",
+              "source": "매일경제"
+            }
+          ],
+          "span": "11.24~11.26",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 8,
+          "articleCount": 9,
+          "articles": [
+            {
+              "title": "참전용사 후손과 약속 지켰다, 유엔공원에 선 강뉴부대 기념비",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYW1uRE9EdUh3QU92ajlTSlZ6QXM1djEwRk8xSFhxVDNRTnpRQ2tEWHBpRU1wSFJNdloyYnNGYTloMkNQRzRkRE01WHpOMkNkSzZDV1diLXVfSVhJVkFKUUxFUFMyRXE4OURhSHhNSlhQWGVaUnV0TUMyS2JVN0xWSHp6WEJFVS1acDZ4WjJR?oc=5",
+              "source": "국제신문",
+              "publishedAt": "2026-11-26T10:12:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "참전용사 후손과 약속 지켰다… 유엔기념공원에 에티오피아 기념비 건립",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Mb3ZFdXRoa3gtNU1la1Z5bjZCWjVFWFd4OFUxN0JvdGVTMl81SVFJZlh3R0pMTDFqeVhEb1BGam9MZzl0UHNJLXhzWlFJXzJCMkFSbUxhLVVEQThNeExYTWhHdWxMall5VHdzUUZR?oc=5",
+              "source": "한국일보",
+              "publishedAt": "2026-11-26T08:00:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "부산 유엔기념공원에 에티오피아 기념비 건립···6·25 파병 ‘강뉴부대’ 후손들과 약속 지켰다",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DQkdrV2FSYV9MbXJGMmxUUlM3ZWJGaW00NF9WRGJYeXlUQ0s4V2N0SmFyQ1hRZHAwaE5ZcENRZ2JVcjhaV1BlQ3ZkZWlXeW9NSWJ0UkFrNzc2VzRxUTc40gFfQVVfeXFMT0NCR2tXYVJhX0xtckYybFRSUzdlYkZpbTQ0X1ZEYlh5eVRDSzhXY3RKYXJDWFFkcDBoTllwQ1FnYlVyOFpXUGVDdmRlaVd5b01JYnRSQWs3NzZXNHFRNzg?oc=5",
+              "source": "경향신문",
+              "publishedAt": "2026-11-26T07:15:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "유엔기념공원에 에티오피아 기념비…참전용사 후손과 약속 지켜",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FOUhHc2RKMnNubENJd3NNQUE5OEx4TVBJaUVEa3ZMQ3hwbkl4SEZjSDBYXzRzam56bXpwdGwzRlhWWkxrMnc?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-26T06:29:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "부산 유엔기념공원에 에티오피아 기념비 제막",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9faEltNXpwV1o3WG9lcXY1UzFFejJsanh1c0tLTzFIN2s0cVN5ZUdNb1pYQmdmN0FGRnNMd1pGNF9vV3FWRU44TVp4V1A5VnlUSXJRRWlsa3RpakFhVXhDSNIBeEFVX3lxTFBFb1B2TzFybnlFTHBmcVFfMEVzT1hTeGpRcVpsdnBCOFJBSUVDN3hFUHZhTHZCQjhrUGVUMmNLS3VDakVZS2dGU3lRdmYtX1R6RlZQNUF1SVRCZm9yamx6OTJ2bTBlOGxrOVlNczBwN2lSaEJkWFR1Rg?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-26T06:12:36.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "에티오피아 참전용사 후손과 약속 지킨 유엔공원…기념비 건립",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80TE9Gc19uN3cwSENyaXduUjF3ZTN0UFhRVk9kTjcwMDAzNVhtLWNXWm1tYVVhMXBaMWp5MFVuUndSWXdTRmItRWhrUDd6QTdhY2E1NHE1dFFKUTZoOXUtcdIBYEFVX3lxTE80TE9Gc19uN3cwSENyaXduUjF3ZTN0UFhRVk9kTjcwMDAzNVhtLWNXWm1tYVVhMXBaMWp5MFVuUndSWXdTRmItRWhrUDd6QTdhY2E1NHE1dFFKUTZoOXUtcQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T05:36:57.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "남부발전, 에티오피아 참전기념비 건립 후원",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "남부발전, ‘에티오피아 참전기념비 건립’ 후원",
+              "source": "발전산업신문"
+            },
+            {
+              "title": "남부발전, 에티오피아 한국전쟁 참전기념비 건립 기여",
+              "source": "에너지플랫폼뉴스"
+            },
+            {
+              "title": "남부발전, 에티오피아군 참전 75주년 기념비 건립 후원… 제막식 참석",
+              "source": "에너지코리아뉴스"
+            }
+          ],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 6,
+          "articleCount": 6,
+          "articles": [
+            {
+              "title": "남부발전, 에티오피아 참전기념비 건립 후원",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZ2ZlSllRRHRITzFHOE5VQnJweFoxeUEwR0lXTTZCT0ptakk3NXBnSjhUV05Qd3R5empGSnlsX0dmd0xSajVJWDNxc21ob0tLYVNKaWlSejExekwtdm1BS2lTekUtdndLN0pTSjlsZk5mQzhvbDhScVB0WQ?oc=5",
+              "source": "부산일보",
+              "publishedAt": "2026-11-26T13:51:21.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남부발전, ‘에티오피아 참전기념비 건립’ 후원",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mMzgzMUtjQk1GMzhLV1BScmtDUktCUlA1ZWlhT196NzlCNVdQV3VrckFwS0ktdW1yUy03YkFjcXFTeWhHZ1EzRzZydDRmMmYteWV3b1JibXZEVVRFVHU2NGtIM0FVam0y?oc=5",
+              "source": "발전산업신문",
+              "publishedAt": "2026-11-26T12:42:57.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남부발전, 에티오피아 한국전쟁 참전기념비 건립 기여",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qRlRvUE5UWUNkSVVyb3plcHdhVEt1WXpFbmNLX0ZQT0R4Z3U4bGFSdGxaYUtpVDQzanRZdlk3azlNSHdtQ19jSUNDY3hlcDVPbVNPVUpJdi03M3FGX3BLeUI3Ykc2WkhJcko3WNIBcEFVX3lxTE5CVWZmaUFSaXZmd04zemZDMEdvV2J6LTNCWVlrTkI0cXVTRGxCaEFIX2J4TXc2YnRRQ243ZUUwZmlkeHVuSzVRR2NadGFlYkdNUnY2X0lhdUxJTTlTLWZOQ196NnBKUm1UaVhFZ0lOcmE?oc=5",
+              "source": "에너지플랫폼뉴스",
+              "publishedAt": "2026-11-26T09:50:38.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남부발전, 에티오피아군 참전 75주년 기념비 건립 후원… 제막식 참석",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByRU1FU1FEVW1ycDdFY3g4UTd5cEpLT0g2am9HSFRLdHQ4NGFGZEZURklKZFllV3llQXRna2tNMEtzNTF0ekNOLWQ5SWgzQW5wclktQlAyVXlOQnZ3WW1XSUExdUE3Tzhzb3hwUi1jeDk?oc=5",
+              "source": "에너지코리아뉴스",
+              "publishedAt": "2026-11-26T07:10:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남부발전, 에티오피아 6·25 참전기념비 건립 후원",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcTJoWkxlZXpZQUFuM0FCbDRFYndqaTYxc0YyRFQwVzN2S0FyRkVrOENpYjd6VE5uVFBFbTJyVnVUOTZHNV81SWJCaGktX042SnoxUHRZNEE0OHBQUW81LVlHbkRaNC1NMEFyUkp3cXlBOVJKWDgzZlJORHVzUDgxYdIBgAFBVV95cUxOcTJoWkxlZXpZQUFuM0FCbDRFYndqaTYxc0YyRFQwVzN2S0FyRkVrOENpYjd6VE5uVFBFbTJyVnVUOTZHNV81SWJCaGktX042SnoxUHRZNEE0OHBQUW81LVlHbkRaNC1NMEFyUkp3cXlBOVJKWDgzZlJORHVzUDgxYQ?oc=5",
+              "source": "뉴데일리 경제",
+              "publishedAt": "2026-11-26T07:08:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남부발전, 에티오피아 참전 75주년 맞아 기념비 건립 후원",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KV25udVplemhPTVZEbExSVGRiNHFhQ2ZiRG9EeUlKN0tjUHVjbEJQUF9IQnBxOFFGRkN3bHRJX01VdW85VTlMVHBBVTJ5QjFmaTBJN1VFanRFdWE2MTBZSm5LSV8xT1JfS2FEQ2I5Y09ibVXSAXdBVV95cUxPVWJsNzJ6dWt0WGpTX0YzaERuMTkxZEdhNjdRa0x3bkNpMUV1VFNkY1BiZGRPOUtOUTUzNkdKTjVKTUdnNjhyZl9IQXBwZlQ2bjBFT1VVeWc0ejI3dWNLNGdPRHRnUXZqeVJJb09uRFE0dkhId2dScw?oc=5",
+              "source": "핀포인트뉴스",
+              "publishedAt": "2026-11-26T07:07:22.000Z",
+              "kind": "news"
+            }
+          ]
+        },
         {
           "title": "이란 \"美 봉쇄는 군사 침략…공격땐 모든 수단 동원\"",
           "summary": "",
@@ -299,6 +488,81 @@
           ]
         },
         {
+          "title": "“국경 넘어 이어지는 감사와 예우”···HD현대의 보훈 동행",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "국경 넘어 이어지는 HD현대의 호국 정신",
+              "source": "빅터뉴스"
+            },
+            {
+              "title": "국경 넘어 이어지는 감사와 예우… HD현대, 보훈동행 앞장",
+              "source": "국토일보"
+            }
+          ],
+          "span": "11.20",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "국경 넘어 이어지는 HD현대의 호국 정신",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53YWNYWHB0bDdsSmNHR1pmUzh6dnZySDN2TG9qT0dUSlRyUlhsYWpnTXFVeFBMRDZWZGVIbFAyRVJzR2RTU055VnhLajdvLVhwUTkydldQMnotMkxLR1JpZGpncWZlcXc?oc=5",
+              "source": "빅터뉴스",
+              "publishedAt": "2026-11-20T07:28:28.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "국경 넘어 이어지는 감사와 예우… HD현대, 보훈동행 앞장",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYRHhWaUl4Yl95T3doN0JPTExHQ0lIOFNvbnVncm0wV1d0SVVFZUt6ZFFKdEF0cjBXVUdoRi1kU0hLdHBxNmFGMk5Ld0NqUEdtSGZrakFOTjJ2eWpDcjkyWFhrMA?oc=5",
+              "source": "국토일보",
+              "publishedAt": "2026-11-20T05:31:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "“국경 넘어 이어지는 감사와 예우”···HD현대의 보훈 동행",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YLWJUMVV2bWlDLVFkOXdtOWMzakRfV0d6U3U1b0F6QlZhRjF2U3RzOVBTc0szc3hEZWhCWG80V0FZZHE5alVEakpQUUNzaWJOSXRsOWFCaTcwZ2lZY2o2WnFuX0RDS1U2VWU3MHpiY2nSAXRBVV95cUxPV19OMDZJZC13UzZpMVpqWWhzZF9BU3RUVUV4cFV1ZGtCdTQ2S3VQbUNndG9YYWJwai15dnR1ek9jQU80UnNsSzAxTFFJeWFYOWNwcmJBeHpEZnAteUpFSG9FcWUxajctNEIwcjN2bXF5ZHd6bQ?oc=5",
+              "source": "이뉴스투데이",
+              "publishedAt": "2026-11-20T05:28:38.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"당신의 희생을 잊지 않겠다\"…유엔기념공원서 에티오피아 기념비",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "“당신의 희생을 결코 잊지 않겠습니다”…유엔기념공원에 에티오피아 참전기념비 세워",
+              "source": "복지TV부울경방송"
+            }
+          ],
+          "span": "11.24~11.26",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "\"당신의 희생을 잊지 않겠다\"…유엔기념공원서 에티오피아 기념비",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16STR2ZjRCX3NPR0dDY05mWEhlM1diTEppYl8xNFB2QV9aOGJjS0YxQkY3UXQtRUhKSWN5TkxlQ05URWZTUmZpYTNZS2dXUWtzSTV4NFpEMmVTTkRNU0RneENDRm4tdDFh?oc=5",
+              "source": "아세안익스프레스",
+              "publishedAt": "2026-11-26T09:42:43.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "“당신의 희생을 결코 잊지 않겠습니다”…유엔기념공원에 에티오피아 참전기념비 세워",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wdVE4dmdaVzk5TVlRT0NXWGR5bTZIZXhyZ0xYaHYwX3FhZWdEMmJqaDQ4WVNaUkx0RGpMNXVwV01acHZUSDNEMFd1LTRJX3FNTVl3MnFoSVc1WERveHlyOExIWEZiaGhV?oc=5",
+              "source": "복지TV부울경방송",
+              "publishedAt": "2026-11-24T03:59:46.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
           "title": "우크라 전쟁 아프리카까지 번지나...리비아서 러 군함 드론 피격",
           "summary": "",
           "whyItMatters": "",
@@ -329,98 +593,6 @@
               "kind": "news"
             }
           ]
-        },
-        {
-          "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
-              "source": "글로벌이코노믹"
-            }
-          ],
-          "span": "11.19",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
-              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPckpvdDVlNG03eW5MeVgzNXpFQ1laU2VpZmo5c0trOGVwZ2JkVTNBa1p4VWJqbzVnRkhJOXdiWEZKNUd5MWdua3hIMVdXMkpuVklpRXJ3TEVkXzc2RlJPS2RrWExLUVBLS0ticHJ6R0VtTzlFelp2N2ZHSWM5R09rTEo0ZWlBUXhLNkdQTzUzTEEtZjdjeDN6LXV2ZlhqRnF3azNoMVB2MjZ5THMtenB1TGp0X3ZfY3VQMi02VzZ0MWZtNmxCaVdCSkVmdlJNVGtDWlNkM1V6ZmkzTUhhLW16bHBZelVnQVBKOXNxOWQ2Qk5NUVVqUFl1dWFKTy1SZGwzZ2RCcDVkREdjeGZiSFE3RjZ1VlFZZ2pk?oc=5",
-              "source": "데일리안",
-              "publishedAt": "2026-11-19T13:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjVndkl4TmlTTWVHdWtuVGFzbTNWbm1XbEhfQU1rcF9BTm5uOUZpLUdqdlBKVEU2TEVaMU9FLTJ0dmlZbUlTYW8yY2ZqTm1Ec29NWjFRNTR6ano3Z0x3cjZrWGlIdDZFX0YzT19RWFQxT0NlVGdPZG83bHM2RDNXMjFYZmVrajNy?oc=5",
-              "source": "글로벌이코노믹",
-              "publishedAt": "2026-11-19T09:36:16.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4QllFdXRaN2dHcjdUbmZsZEpqTXBxNk10elhFWWxMTVE5OFZOa2xtVzc4SVVDcUMtdVJ6QXA2UEFseFR1cTlaNGhlMEthenpZTjg0QVh6SzBCWkhITlNTWdIBYEFVX3lxTFA4QllFdXRaN2dHcjdUbmZsZEpqTXBxNk10elhFWWxMTVE5OFZOa2xtVzc4SVVDcUMtdVJ6QXA2UEFseFR1cTlaNGhlMEthenpZTjg0QVh6SzBCWkhITlNTWQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-25T22:00:06.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "폴란드, 우크라 접경에 비행금지구역 설정…러 도발 대응",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QUTRmWGM0WmdPeUVTeEJkc3pDbVNlUTRySmQxWGlqbENBNlB1RW1waERQcnRaYlQ2RVNuS0drSENCNUZhWnZicjc5NDZXdzFTSTRKWk51RG4zYjl6czdDNdIBYEFVX3lxTE5QUTRmWGM0WmdPeUVTeEJkc3pDbVNlUTRySmQxWGlqbENBNlB1RW1waERQcnRaYlQ2RVNuS0drSENCNUZhWnZicjc5NDZXdzFTSTRKWk51RG4zYjl6czdDNQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-25T18:21:10.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxdDRCMU0zaTN1eW0xNVlqaUJQVDB0NTJTMTE1bWhORV9XNXBfblc5M1dPb1JOYlRTU1lDRWxuTWtwQ3RYTlI5T2ZOemlUeV9VNnI1UXVoTXFhb3ZDSkk2Y0dmcW1aWmpDNlJHbGtwS3ZTSGJ2?oc=5",
-              "source": "연합뉴스 한민족센터",
-              "publishedAt": "2026-11-25T09:10:47.000Z",
-              "kind": "news"
-            }
-          ]
         }
       ]
     },
@@ -428,6 +600,10 @@
       "label": "정치",
       "summary": "",
       "keywords": [
+        {
+          "word": "탄핵",
+          "count": 4
+        },
         {
           "word": "돈다발",
           "count": 3
@@ -437,31 +613,70 @@
           "count": 3
         },
         {
-          "word": "탄핵",
+          "word": "지원",
           "count": 3
         },
         {
-          "word": "농장",
-          "count": 2
+          "word": "여성",
+          "count": 3
         },
         {
-          "word": "위기",
-          "count": 2
+          "word": "부통령",
+          "count": 3
         },
         {
-          "word": "상명대",
-          "count": 2
+          "word": "음람보",
+          "count": 3
         },
         {
-          "word": "지원",
-          "count": 2
-        },
-        {
-          "word": "법원",
-          "count": 2
+          "word": "응쿠카",
+          "count": 3
         }
       ],
       "items": [
+        {
+          "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…향년 71",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "남아공 첫 여성 부통령이자 여성 인권 증진 힘쓴 음람보-응쿠카 전 부통령 별세",
+              "source": "경향신문"
+            },
+            {
+              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…향년 71",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcXdZRTlUNERFZHdlM05maDRlZEg0NjJ0VlFTaXlpYy1PX1dDWnhyZG0wUzJLZmNyR3I4QVU3WnQzMWJRWUFWRHpyWDBzSlp1S0otV0x0OEdnOTdsSFpqbmxXcGx2bVhDZDdMMXl2VUNlV1U?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-25T08:55:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남아공 첫 여성 부통령이자 여성 인권 증진 힘쓴 음람보-응쿠카 전 부통령 별세",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vRm5tZENJVWZYRUxrbHN1bWJFWk5fU0RScDZ6aTdTT1ZSNlpwT1l6czNValpTejJqSDROLXUzeEpBb29yMmI3dndxWEVvOHR6dXRhdXJiWFgxN0lvN3Vv0gFfQVVfeXFMT29Gbm1kQ0lVZlhFTGtsc3VtYkVaTl9TRFJwNnppN1NPVlI2WnBPWXpzM1VqWlN6MmpINE4tdTN4SkFvb3IyYjd2d3FYRW84dHp1dGF1cmJYWDE3SW83dW8?oc=5",
+              "source": "경향신문",
+              "publishedAt": "2026-11-25T02:40:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sQzF6ZUhDalcyLTdzTE02QXZRZ1VBeTlZdE50dXg2Q0FoTzRmcEpOMmdCdFVFaThLNW52NG1Yc1U3M1g3UWQtOUFfcDh5MlhWUWY3M2tYVUxRREnSAWBBVV95cUxNVU5IUG9IYk01R2FocXhiUHg0dEpBVHZLa3VRSDBLNHRKbS1ZSVRucU9jVlhGZFpsTTJJeFQ4OFNUbDE1enJjaklpYUgyNkplTzhhLTVUOTYtZlhkaGRhZkk?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T16:41:14.000Z",
+              "kind": "news"
+            }
+          ]
+        },
         {
           "title": "‘농장 돈다발 게이트’ 남아공 대통령, 탄핵 직전 몇시간 만에 혐의 벗어",
           "summary": "",
@@ -480,7 +695,7 @@
           "articles": [
             {
               "title": "‘농장 돈다발 게이트’ 남아공 대통령, 탄핵 직전 몇시간 만에 혐의 벗어",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1pS3h6M2d2V2FFRWdMV3Axd3pmTnFQM1VEbUdDak5uS1pScmtVZm9MYnlHTVQzQnZ4YzEwYTBTaHA2b2NvRHc?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wWkxWdWtRS1NCS3Vrc05GdWxNSmRoakJ1SmF0ZThyRlEzOU5nLVM1ZWRkMVRWVnp0ZjI0T3NKMlR6dFZqblRfMWtvZ1FlOXI0YVE?oc=5",
               "source": "매일경제",
               "publishedAt": "2026-11-26T01:49:31.000Z",
               "kind": "news"
@@ -490,38 +705,6 @@
               "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Mdk9IT0ZYRkgxMUFFZThHcjFxM25vS2FzQTI0QkxZMk5MREs0UHNwb2FoQm94SThZYl95VHFSSUtFZzlqSWhLX0JpYXR1S21wN0lqbzg5UDlVRjDSAWBBVV95cUxOZFlEUXJid3dVQnlyOWoyTThLZHRKWUF4MVBvcERydnpSNnR6cl9STmRfRHVtaW84Qk9zT2hjXzRJMmt1bktvZU1JcC02OUx3UUwycGFuLTU1X3cxTk11SlA?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-25T16:09:06.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…향년 71",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…향년 71",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcXdZRTlUNERFZHdlM05maDRlZEg0NjJ0VlFTaXlpYy1PX1dDWnhyZG0wUzJLZmNyR3I4QVU3WnQzMWJRWUFWRHpyWDBzSlp1S0otV0x0OEdnOTdsSFpqbmxXcGx2bVhDZDdMMXl2VUNlV1U?oc=5",
-              "source": "한겨레",
-              "publishedAt": "2026-11-25T08:55:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "남아공 첫 여성 부통령 음람보-응쿠카 별세…한국과도 인연",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VTkhQb0hiTTVHYWhxeGJQeDR0SkFUdktrdVFIMEs0dEptLVlJVG5xT2NWWEZkWmxNMkl4VDg4U1RsMTV6cmNqSWlhSDI2SmVPOGEtNVQ5Ni1mWGRoZGFmSdIBYEFVX3lxTE1VTkhQb0hiTTVHYWhxeGJQeDR0SkFUdktrdVFIMEs0dEptLVlJVG5xT2NWWEZkWmxNMkl4VDg4U1RsMTV6cmNqSWlhSDI2SmVPOGEtNVQ5Ni1mWGRoZGFmSQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T16:41:14.000Z",
               "kind": "news"
             }
           ]
@@ -559,7 +742,7 @@
           ]
         },
         {
-          "title": "‘돈다발 게이트’ 남아공 대통령… 법원 무효 판결에 구사일생",
+          "title": "이란 대통령 \"돈 없다\" 경제난 실토…빵 보조금도 줄여",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
@@ -570,16 +753,16 @@
           "articleCount": 1,
           "articles": [
             {
-              "title": "‘돈다발 게이트’ 남아공 대통령… 법원 무효 판결에 구사일생",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84b2hxWTFLRmhWaG5tNlpEb3BPYldJOWk5STlZUFdMeVBFbklqWFg3WUhXRXZoSm1pWkwxR2xMdlR0VGdiUXNxcjZFNldLd2FD?oc=5",
-              "source": "문화일보",
-              "publishedAt": "2026-11-26T02:53:18.000Z",
+              "title": "이란 대통령 \"돈 없다\" 경제난 실토…빵 보조금도 줄여",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nNHFfTVZRTGw0Q090cUNKRnVabWY0SEZNWXRSRW9mVnE5MmdMTWZXOW9nN003ZWVyUjdhZ1F3RVY3VFpWelRqRmI0LTdubVE3eEdOa043ZHpuLWtsMVV1cFZvT0o4OHRaUWdtTmZvUGhtNElv?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-26T06:31:56.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
+          "title": "英 정부, 에티오피아 기독교인 대상 폭력 규탄… 인권 조사 지원",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
@@ -590,16 +773,16 @@
           "articleCount": 1,
           "articles": [
             {
-              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QemQxcXNrX20wMVRJY1JmLXRoZVZDOXdkNDhLWUpXckF6Z19xUTFBMzBJZTRxVy00U1pkRnFBdWlwdmVkTUJXQkgxcTg2U2dOLVdPMGtKemk0OXJ4VFp2eVRGM1dWTnpnOU9aTUx1ZFVFQ0dn?oc=5",
-              "source": "신화망",
-              "publishedAt": "2026-11-26T01:44:28.000Z",
+              "title": "英 정부, 에티오피아 기독교인 대상 폭력 규탄… 인권 조사 지원",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16d2t4RU9hOE1fM2FDUnpGOE16aG02TVZIbktqYkg4RFJMT2w1NDdPY2JYN2VtVVJ5aVI3X1cwNUpVMDFYN2RQNFZndE5STHpKbmhUZUwzZDZCTGJN0gFcQVVfeXFMTXp3a3hFT2E4TV8zYUNSekY4TXpobTZNVkhuS2piSDhEUkxPbDU0N09jYlg3ZW1VUnlpUjdfVzA1SlUwMVg3ZFA0Vmd0TlJMekpuaFRlTDNkNkJMYk0?oc=5",
+              "source": "기독일보",
+              "publishedAt": "2026-11-26T06:18:19.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
+          "title": "정부, 16억 아프리카와 경제협력 박차…“글로벌 사우스 거점 확보”",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
@@ -610,10 +793,10 @@
           "articleCount": 1,
           "articles": [
             {
-              "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ySm9Oc0JUMldDNnNNemFrdTA2bmhTalVBVmtOM0MyTjlfdnBiVFNacGJIcm5kdGtwTEh1aUY3dHdpUkpDYXItN2ZJM1dIZ083Y2c?oc=5",
-              "source": "매일경제 마켓",
-              "publishedAt": "2026-11-25T22:00:06.000Z",
+              "title": "정부, 16억 아프리카와 경제협력 박차…“글로벌 사우스 거점 확보”",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZR3o2SHUzMnZmcV9MdGVneUNkOFpGVFZoMDVfX1RwakpjcWRxdklXZEtMTkZBcU9wNjFob0htMExjVk5JVVRJYjlZSmx2QQ?oc=5",
+              "source": "www.dt.co.kr",
+              "publishedAt": "2026-11-26T04:51:58.000Z",
               "kind": "news"
             }
           ]

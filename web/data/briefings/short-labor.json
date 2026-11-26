@@ -4,191 +4,219 @@
   "category": "labor",
   "categoryLabel": "노동",
   "range": {
-    "from": "2026-11-20",
-    "to": "2026-11-26"
+    "from": "2026-11-21",
+    "to": "2026-11-27"
   },
-  "updatedAt": "2026-11-26T05:05:18.237Z",
+  "updatedAt": "2026-11-26T21:17:00.283Z",
   "ai": false,
-  "headline": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
-  "overview": "최근 1주 노동 분야 기사 350건(143개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다」(기사 20건·매체 11곳), 「철도노조 준법투쟁…KTX 일부 열차 지연」(기사 14건·매체 9곳), 「학교 비정규직 4만 명 내일 총파업…교육당국 급식·돌봄 비상대응」(기사 10건·매체 9곳)입니다. 자주 등장한 키워드는 서울지하철, 철도노조, 총파업, 타결, 지하철입니다.",
+  "headline": "학교 비정규직 노동자 총파업… 급식·돌봄",
+  "overview": "최근 1주 노동 분야 기사 318건(140개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「학교 비정규직 노동자 총파업… 급식·돌봄」(기사 20건·매체 18곳), 「철도노조 준법투쟁에 열차 지연」(기사 18건·매체 11곳), 「철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지」(기사 14건·매체 8곳)입니다. 자주 등장한 키워드는 철도노조, 총파업, 지연, 준법투쟁, 급식입니다.",
   "keyPoints": [],
   "keywords": [
     {
-      "word": "서울지하철",
-      "count": 30
-    },
-    {
       "word": "철도노조",
-      "count": 30
+      "count": 50
     },
     {
       "word": "총파업",
-      "count": 29
-    },
-    {
-      "word": "타결",
-      "count": 25
-    },
-    {
-      "word": "지하철",
-      "count": 22
-    },
-    {
-      "word": "철회",
-      "count": 22
-    },
-    {
-      "word": "고용노동부",
-      "count": 21
-    },
-    {
-      "word": "준법투쟁",
-      "count": 21
+      "count": 44
     },
     {
       "word": "지연",
-      "count": 20
+      "count": 34
     },
     {
-      "word": "출근길",
-      "count": 17
+      "word": "준법투쟁",
+      "count": 31
     },
     {
-      "word": "서울",
-      "count": 17
+      "word": "급식",
+      "count": 31
     },
     {
-      "word": "임단협",
-      "count": 16
+      "word": "학교",
+      "count": 30
     },
     {
-      "word": "학교비정규직",
-      "count": 16
+      "word": "돌봄",
+      "count": 22
     },
     {
       "word": "노동자",
-      "count": 14
+      "count": 21
+    },
+    {
+      "word": "열차",
+      "count": 20
+    },
+    {
+      "word": "학교비정규직",
+      "count": 19
+    },
+    {
+      "word": "투쟁",
+      "count": 16
+    },
+    {
+      "word": "안전운행",
+      "count": 15
+    },
+    {
+      "word": "고용노동부",
+      "count": 12
+    },
+    {
+      "word": "서울지하철",
+      "count": 12
     }
   ],
   "rising": [
     {
+      "word": "급식",
+      "change": null
+    },
+    {
+      "word": "학교",
+      "change": null
+    },
+    {
       "word": "총파업",
+      "change": 143
+    },
+    {
+      "word": "돌봄",
       "change": null
     },
     {
-      "word": "타결",
+      "word": "노동자",
       "change": null
     },
     {
-      "word": "지하철",
-      "change": null
-    },
-    {
-      "word": "철회",
-      "change": null
-    },
-    {
-      "word": "출근길",
-      "change": null
-    },
-    {
-      "word": "서울",
+      "word": "학교비정규직",
       "change": null
     }
   ],
   "issues": [
     {
-      "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
+      "title": "학교 비정규직 노동자 총파업… 급식·돌봄",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "서울 지하철 노사 교섭 타결로 파업 철회…출근대란 없어",
+          "title": "학교 비정규직 오늘 총파업…대체 급식 등 비상 대응",
           "source": "연합뉴스TV"
         },
         {
-          "title": "서울지하철 노조 오늘 예고 파업 철회...임단협 극적 타결",
-          "source": "티제이비"
+          "title": "급식-돌봄 등 학교 비정규직 4만명 오늘 총파업",
+          "source": "동아일보"
         },
         {
-          "title": "서울교통공사 노사 임단협 극적 타결…3개 노조 파업 철회",
-          "source": "매일일보"
+          "title": "정부와 교섭 불발...학교 비정규직, 오늘 총파업",
+          "source": "YTN"
         }
       ],
-      "span": "11.25",
-      "days": 1,
+      "span": "11.26~11.27",
+      "days": 2,
       "hasPress": false,
-      "sourceCount": 11,
+      "sourceCount": 18,
       "articleCount": 20,
       "articles": [
         {
-          "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52NnQzV09DdzJndkZ5Ukt5cGJrdk0tNERJZ3Q0Y0VOWVh2a0lzX3NqR0h3Mk1tT1F3UndMRU5SUlVnY2dQYV9DTlJYWUctVXhVS01fTnhJT2hfNDA?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-24T23:51:03.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울 지하철 노사 교섭 타결로 파업 철회…출근대란 없어",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6NUszMzFaSGxqZ1U5X2gzeVJQWmZpVXJ2MjN4Rzh2STFDdUdVWWJ6Y2NPSVVsdDYtZWlLR1pQMWVWbi11dmhoSlc3SVJZWkFreVF1dXI5WVJjLXNIcXhHNFM3cllDNUU?oc=5",
+          "title": "학교 비정규직 오늘 총파업…대체 급식 등 비상 대응",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ncl9SNm9xdWY5ZjdkLTBrUzdYd1gxUllaRkx4Tk9oMWZZa1k4RS1aVzVsemozMVpJUjdLbmtuNXRuLWwzWl8wdTVBVmFLeTI2NUU4RDRIQV95cHFPaHgxX09QTHFfZ0k?oc=5",
           "source": "연합뉴스TV",
-          "publishedAt": "2026-11-24T23:22:00.000Z",
+          "publishedAt": "2026-11-26T20:26:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울지하철 노조 오늘 예고 파업 철회...임단협 극적 타결",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mTDZfMVBVZXRscHhyTkhjOXlUdnhyR2g3MXVmMndyaEtoamdJZFZyS3o4OGVaTFl2ZHFmV3FEc0pJWjhfcDZFRXhPMGlHdkQ5bXpBRkhzTU1tLVpK?oc=5",
-          "source": "티제이비",
-          "publishedAt": "2026-11-24T23:08:40.000Z",
+          "title": "급식-돌봄 등 학교 비정규직 4만명 오늘 총파업",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRi1ZQ1lxNEFCZlR5OEpra3ZOM21xUjU2bFhNVlBQSnJlUnNQaVpiMDFmWUZKVndOUHVsT2duMTFhWXp2eEllc2hCMkJiUnhwN3h0M19DY3l0cmdCVWJnWGROWXpVX1F2RHMwRUs5a0lnUk1maGfSAWZBVV95cUxOSkQ3SzgwM1RrcXZTc2pzMUtiRF9WTzFJVlNWSThyemJyRUJBb09KeUN6T19PUDBMMlNtRUF3endTdnlrUG5nWjBpdFREQUdMc1Zsa2NrbFE2Ujd0WGdEeERSZHMxb2c?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2026-11-26T19:30:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울교통공사 노사 임단협 극적 타결…3개 노조 파업 철회",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oZjlxbHdibHFTa0FuZnBqVjJSQjVwTGZrVndsbjZVdWVUUElYQ0hEN1BfZzJPdHY3UTVxakRVWDMxamlvX09BVkR6ZzFtSExReTZBSS1jQ3VuYTNseU9tQUlUbWQ?oc=5",
-          "source": "매일일보",
-          "publishedAt": "2026-11-24T23:07:37.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울지하철 노사 협상 극적 타결...총파업 철회",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMeC1XWUlTR01HX1NWZmloZlkyNzRyaHdrM1E2UUcwYTYxUjlaclhtcGk0SGVJdEFqejJGMzhkVU9vSGs3c0V4QTdxd18tVWQ3UnBPbWU1Y1dIWDQyeFpqbHhCMHJKT0tHOVFYR3RrWQ?oc=5",
+          "title": "정부와 교섭 불발...학교 비정규직, 오늘 총파업",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uY1dxTWNmY1ROTjgxTnc5LUgyVjV6X2JJaHVWYzhSSUlqcW9yWnJ5S2VYdGxBaVlBN3h6YkFpRkJ3MXRhX0F5RnRzSU5BUXgwZ21jM1BYVmpiSlA0cFE?oc=5",
           "source": "YTN",
-          "publishedAt": "2026-11-24T23:03:00.000Z",
+          "publishedAt": "2026-11-26T17:58:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울지하철 임단협 타결, 파업 철회...'출근길 대란' 피했다",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xTFZFZEo3RVJwU1oyTnNfbnppNXhRdVFza0JEQUtDdDlmTmJFNmE2ZTFQdUZhbGNFcUxSZ2ZXMzZJMjJ0d0tLVXJhbUpSSXdwZ3ZwcGI4emRSb25pbm5aRA?oc=5",
-          "source": "KBC광주방송",
-          "publishedAt": "2026-11-24T21:09:14.000Z",
+          "title": "학교 비정규직 내일 총파업…급식·돌봄 비상 대응",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jTXI4VDhVQ3V6cWE3b1o5N0dqVUFsNE9aQ2JGenVEQlVxVGJZeHhDd1RDQzVkcEZtR00zYkE1S3diT0t4REVvT2M3bXVGUkJMdVY2bVhaTmYydTltRDNSejZ6dW4wcFhVbmgw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T10:35:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교 비정규직 노동자 총파업… 급식·돌봄",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JZDNrel9ieVJhendiRnh3bzVuc2xoc1pBNTRpZi1BRkZrYlJydWltY1VVRmNXV1hGRXM0RHJ1X25yNkJCV1ZIelB2RlRrWHVLenZ6di1SWGx3LXNRcWxUU2h4d2wxRHRXLVZCRFR5UQ?oc=5",
+          "source": "기호일보",
+          "publishedAt": "2026-11-26T10:04:41.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교 비정규직 노동자들 27일 총파업…교육당국 “대체 급식 등 마련”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80SW1uVHdRVHE5NjcwcHdsUUREdFY2TkFqa1pwZzBlM2puakVEV0hxT3ZrbEJFQm1yaElDVFNwdWJCU1F2Y0dDWUxhaDZacElpenF0X0lMdDF5Q0Q5TVo3UFozWE9BeDNpVkE?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-26T09:40:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "철도노조 준법투쟁…KTX 일부 열차 지연",
+      "title": "철도노조 준법투쟁에 열차 지연",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "철도노조, 오전 9시부터 준법투쟁…KTX·수도권 전철 지연 우려",
-          "source": "전기신문"
+          "title": "철도노조 준법투쟁 첫날…동대구역 퇴근길 열차 지연",
+          "source": "경북일보"
         },
         {
-          "title": "철도노조 준법투쟁에 열차 지연",
-          "source": "연합뉴스"
+          "title": "철도노조 준법투쟁 첫날···시민들 \"총파업 땐 어쩌나\"",
+          "source": "무등일보"
         },
         {
-          "title": "철도노조 준법투쟁 돌입‥일부 열차 지연 예상",
+          "title": "철도노조, 준법투쟁 돌입‥곳곳 열차 지연 속출",
           "source": "MBC 뉴스"
         }
       ],
       "span": "11.20~11.26",
       "days": 3,
       "hasPress": false,
-      "sourceCount": 9,
-      "articleCount": 14,
+      "sourceCount": 11,
+      "articleCount": 18,
       "articles": [
+        {
+          "title": "철도노조 준법투쟁 첫날 퇴근길 지연 속출…\"30분 기다린 열차 이미 만원\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82ekFqb1VMRlk0Y3Ewc0ZsdFJ2QWE2YzdwWkJJSXg2RlVxUWkxRE9raWFOS3V6bFV3NEpKV1IzbmtsRnpEVDliTkNiaVA0SnB0Qkx3bkRNeU1FZEXSAWBBVV95cUxQd09iNFI0ckxWQXR5NUh2OU5hZWFjUUhpVFpLbHRQVWwxRmxDa1ZoamszU0xvYTNrT2wyUUdWUVdkMWNHR2d1N0c0NnEyaHpod0doTWFsdGpuWWZ1elpWeDU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-26T10:02:06.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 준법투쟁 첫날…동대구역 퇴근길 열차 지연",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QcnVnQ1VaU0hROUVtZ0hxaVVrQ29FMHQzMWFOSXBNM19QbldCc1dzbnE1ZERqbWdCNmFVRXRheHZ2U09MSU55SUdLRzRTZjZuRTdWUUxRaF9VNFJJM2MwWnA2c0kwY3VfaFpDUFVvWQ?oc=5",
+          "source": "경북일보",
+          "publishedAt": "2026-11-26T09:53:06.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 준법투쟁 첫날···시민들 \"총파업 땐 어쩌나\"",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nOEN1dUZ1UHBwYjR3bFZ4T2FVQ2Qzd0htZTV6TWtLWkloTU16SlMtUURuZWRPOUF3Q2hhMkZ1X0JaMGd0cDdtc0dseW0?oc=5",
+          "source": "무등일보",
+          "publishedAt": "2026-11-26T06:51:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조, 준법투쟁 돌입‥곳곳 열차 지연 속출",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UZE9Zdkhocm11NktEMzJhTl9vVlNvN28zTjI1N0lfUGNzMi1mSDRxZUdzWTJ6Qkx6QVR0dlJKYWRaOFBmNTFZZlpINzhCRVBDaDhHTWw3NnhyanBrQkk2Z19zeWtNbzl4WGhBSXNFXzdRbTV0X2c4VNIBeEFVX3lxTE55NUplU2J4QUN4cmZmZUVzRU1nc2xTeGZSZ2NUZER4YTBKTUlGWVRfMG5fOVBRd0pxVVFaS3hyU0RWaFN4VWw0WjRMcWhsLUY1UFdGWmNiM0NBbXdoUXJleldpWi1ZSnhaLU44eUVIUkpyUmhmN2NzQQ?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T03:19:56.000Z",
+          "kind": "news"
+        },
         {
           "title": "철도노조 준법투쟁…KTX 일부 열차 지연",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZ1Z1VFE2RlFzbHdkLXBDTjA4SWxIUzV3eDVzcGd0RjA5ci0wLVpPSW8xaDAycUlvZ2RvTl80MS1RUk9oamM2NS1ZVGlpMjU0ekp4NE4zbmNyWGJNSWVibFl1NV90V3M?oc=5",
@@ -197,134 +225,66 @@
           "kind": "news"
         },
         {
-          "title": "철도노조, 오전 9시부터 준법투쟁…KTX·수도권 전철 지연 우려",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQaEx4bmkyWjFmRzlYZElibEU1SUFnS3JvREJaU3BuYXFrR1FWcUtpU3hqU0trVlJGV1ZnYVZnREZ6amNiMDNlUkFpa190akpza1ZnbUU1QllVeDdiczZESkJsbF8tejBCcVRPZk9sUmbSAXBBVV95cUxQUGhMeG5pMloxZkc5WGRJYmxFNUlBZ0tyb0RCWlNwbmFxa0dRVnFLaVN4alNLa1ZSRldWZ2FWZ0RGempjYjAzZVJBaWtfdGpKc2tWZ21FNUJZVXg3YnM2REpCbGxfLXowQnFUT2ZPbFJm?oc=5",
-          "source": "전기신문",
-          "publishedAt": "2026-11-26T01:00:17.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "철도노조 준법투쟁에 열차 지연",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsZmpTaWVtZWgxek1FS0hYaUJZeC1zVXRTMWJiNHlRZy1zckw0TWZma0pNY3FfVzR0eVd2SG5jMjZZYjM4WDVmT2hnV3ZGVHVnZmp0d3NsZk4wUHFnQjZzQtIBYEFVX3lxTFBsZmpTaWVtZWgxek1FS0hYaUJZeC1zVXRTMWJiNHlRZy1zckw0TWZma0pNY3FfVzR0eVd2SG5jMjZZYjM4WDVmT2hnV3ZGVHVnZmp0d3NsZk4wUHFnQjZzQg?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-26T00:36:46.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "철도노조 준법투쟁 돌입‥일부 열차 지연 예상",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DRk4tWWR0aW14T3RfYm41NmVCbWRMZkJ0ZFVKYVpxMGlPUUZQaVMyMk5RZGwtNUpuN1JlM0lGSW1xUjRwS0RqMW9aQjUwMDNpc3E5U0otRHhHWmhzYlU3RU1GTmx3S2hpSDNKeVQ2WjdRbWZPdDlv?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T00:34:28.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "철도노조, 오늘부터 준법투쟁…수도권 전철 등 지연 우려",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FT0Uyem4xQ0wzRUZvdUpJazB0dC12VlhJWWRiVkZqVjBtaGJET01WaVllRkRWVzM2UkZZQVIyMC1RanJsWEJEZ1dBdmdRdjRFQndoMDBvUUtad29FNFZSUFFBcVUzRzB4Q01vTDhyNnNGaEctTmZTdGNaSk1jVVU?oc=5",
-          "source": "TV조선뉴스",
-          "publishedAt": "2026-11-25T22:45:49.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "출근길 지하철에 KTX까지 ‘주의보’…오늘부터 철도노조 준법투쟁 돌입",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tRkJNUjVTUGUwTE1GaEhJVHpCcnBXSEdfSWRuTGFEd1hROXZKWXF2OWpyX01pZF9SWDBXQXNlQzV6OEFPZVlLRXdOampfN1Z6Rjh5Ng?oc=5",
-          "source": "JTBC",
-          "publishedAt": "2026-11-25T21:46:00.000Z",
+          "title": "철도노조 준법투쟁 돌입…광역전철 최대 30분 지연·KTX 평소 수준(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zam9kbXFabmNuclM1aWowNkZCalM4b2xRNUxKYlNjakFwYXcwMDJQV3g5SV9ENTQ0WDlxRkpzcmdkSXk3REd2NlRnSGw3em9ubEFHU3dLN0xjV3c?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2026-11-26T02:47:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "학교 비정규직 4만 명 내일 총파업…교육당국 급식·돌봄 비상대응",
+      "title": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "학교 비정규직 내일 총파업…대체 급식 등 비상 대응",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "학교 비정규직 27일 총파업…급식·돌봄 차질 우려에 교육당국 비상 대응",
-          "source": "경향신문"
-        },
-        {
-          "title": "학교 비정규직 4만명 총파업 예고… 급식·돌봄교실 차질 예상",
-          "source": "Chosunbiz"
-        }
-      ],
-      "span": "11.25~11.26",
-      "days": 2,
-      "hasPress": false,
-      "sourceCount": 9,
-      "articleCount": 10,
-      "articles": [
-        {
-          "title": "학교 비정규직 내일 총파업…대체 급식 등 비상 대응",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0waFl0NGM3N0pXYkl5TmpVaUlwSl9HX2JkaDlnZ2hXMkw1LWxKaVN4cUNvV2s5VFc2YnZqZEt5bE1aVmZDMEswQ1QxdUxYdkV1T0pSUnp5Q0dZZjUzS1JVZm9NRGJuRm8?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-26T04:36:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "학교 비정규직 27일 총파업…급식·돌봄 차질 우려에 교육당국 비상 대응",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQk9aVngtaUlrN3BsNXl0TmpIQy1oV2ZYbXBrZlJfRDNTNTBMaFZScDlmRUs5cENpMmtGYkhBVUJPVGJ0bEZVNzMtRmdQWHlMbHNrVDVtYTVaUdIBX0FVX3lxTE02aV83ZEZoWkg2T1pzM0dNZkJzX05TNDAtODJXMEszdmlBbW5Vcnh4Nm5yUXJnZGR1WmNLeHdzUHBvZlRESm84V0sybExqUkdqYjhmOXJJQXBtdDE2SEVB?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-26T01:04:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "학교 비정규직 4만 명 내일 총파업…교육당국 급식·돌봄 비상대응",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXeTNYalMxN1g1LW4yUGE3d3EyVXNtSGE3VlN6S1lOMjNoLWJKWE1oTVVrS0JDU0F1RUJxRUZfZXlCSGZuVld1T2pxd3E4eE9Sb2s1ZWFRUWpNa1E?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T00:48:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "학교 비정규직 4만명 총파업 예고… 급식·돌봄교실 차질 예상",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFhHZUoyblVYQlZhRHlNR0JoTjVVQmFlU0pTdGRkQzU5RGhNV2hUdThxQW9QYTYyZl9xOWE0WjRGRGo4RTE0aEdVaVhMSXVWUU9US0dsRUlPSU1EV1M0aEE3NjFqeGRpdUhPZFc2UWdKQkplUHJrcXFWUkQxVktnRzRpLVNUYXlaU3fSAZ4BQVVfeXFMUGZ4YjhZMi04Z3QwX3pxOTQxQ2MxUV9qSmtJZkNxM0dsOFA2el9BcWllMzBqbVRkVXhxenVDQnJZMHd2OXhDcmlFWkJ4QWhsc0tVWHlJN0NYcDBnalprWXZjZ2s2NFY2RmdtMmRWalhaUHhSY1p6T19EaUlSTFBKTTNZeFBIZ2g2ZXVGRC1UMHRRTU1RZHVYcVQxbUtJVHc?oc=5",
-          "source": "Chosunbiz",
-          "publishedAt": "2026-11-26T00:47:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "학교 비정규직 27일 총파업…교육부 비상 대응 가동",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IS3RQdWRLMlB1ZTFuV0JkT1NpTXhTRWFHR2JGUjdJR2o2bHJRNUxxRmtKbWQ4U1hoeFBKV3JmZWtQOXlIS0VSWVl2d1pSNHpMeWpmc3I1RXBwZWZuUnlVV0NnMkNPSXVmbEFrTtIBcEFVX3lxTE1mVUdXRFhQekxrN0FkMGRJd1kzNXhtMm1wX05mRTBhOVVOQnF6b1U2cFhrSjI1Y0VPWXI3VGYzSnItMnRSZ3hVdmphTkMteXR3d0xhaUlZLWVyYjltWjI1ZkFjeFRJOW5HM2hpdnJSWGM?oc=5",
-          "source": "데일리굿뉴스",
-          "publishedAt": "2026-11-26T00:46:56.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "급식 멈추는 진짜 이유는 '교부금'…학교비정규직 내일 총파업",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYkF1czgzSDFZaU1EUEZBMEtxeUVnamJHQWh0cUFKZ2Z2cThqQXZKeXBDVWVEeXJ4UGVPRnBiVUtDTVRPRVBDd1p2MlpkTUpJTGQxNzBMd0oycUtKZDFwVGoweTdKRzhHdnBj?oc=5",
-          "source": "일간투데이",
-          "publishedAt": "2026-11-26T00:42:45.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "철도노조, '안전운행 투쟁' 돌입…승객 불편 불가피",
-          "source": "뉴스토마토"
-        },
-        {
-          "title": "철도노조 안전운행 투쟁 시작…퇴근길 열차 지연될까",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "철도노조 ‘안전운행 투쟁’ 첫날…광역철도 등 일부 지연",
+          "title": "철도노조 안전운행 투쟁…울산역 KTX 지연 잇따라",
           "source": "KBS 뉴스"
+        },
+        {
+          "title": "철도노조 안전운행 투쟁 '첫날'…일반열차 4대 운행 중지",
+          "source": "매일일보"
+        },
+        {
+          "title": "철도노조 안전운행 투쟁 돌입…열차 지연 잇따라",
+          "source": "연합뉴스"
         }
       ],
       "span": "11.25~11.26",
       "days": 2,
       "hasPress": false,
-      "sourceCount": 7,
-      "articleCount": 10,
+      "sourceCount": 8,
+      "articleCount": 14,
       "articles": [
+        {
+          "title": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wRy1WLWExNjFFX2o2b3oxWWxPemlBdTlmelFSYzFORWUyUXZIai04TUpnbjVCVXVPVGVsVHEySUxZRm1PTjNYMXQxRWljS3FtVmFXU0luMGZYVWNFR1laa2xXbWtKX00?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-26T12:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 안전운행 투쟁…울산역 KTX 지연 잇따라",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xUW5yM29aSDZHVk8xZ1NuYzkzS05BQl9ESDZhbnVUS2x4eHRuWkVvZ3M2YTJNTmxja1NRbVZpblNyTjZUb2dkSWdoeUdZMXdITDJwejdTemZsUUpfamZpTUZmYWZUdw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T10:37:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 안전운행 투쟁 '첫날'…일반열차 4대 운행 중지",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYUDdIMUh3RUNINnRoQ0laZlBLWHhhT2dZTzA3bHFUQmRkUzJjR3B4RFZxOFZ2UTA3M1N0WE5hdVNLcEI3TERSTkZGYlhHenBsZDhHYm9qeEUwZ0xBSDNJTTFqX2c?oc=5",
+          "source": "매일일보",
+          "publishedAt": "2026-11-26T09:52:01.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 안전운행 투쟁 돌입…열차 지연 잇따라",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sQno0N2pCUUEzcFhkT0Y2dXpvLWVsb1JadW5Pby1JWmlYU1BzeFBucUxUSjNlVVlSaVAtTlYtUE9ESEpJOWdnZXNOY25yM1FrVzFNcmNoYTNVdVp0cHNTUdIBYEFVX3lxTE5sQno0N2pCUUEzcFhkT0Y2dXpvLWVsb1JadW5Pby1JWmlYU1BzeFBucUxUSjNlVVlSaVAtTlYtUE9ESEpJOWdnZXNOY25yM1FrVzFNcmNoYTNVdVp0cHNTUQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-26T09:46:35.000Z",
+          "kind": "news"
+        },
         {
           "title": "철도노조, '안전운행 투쟁' 돌입…승객 불편 불가피",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZZmpndXA5QWRlV2JUNmFfYVhkWmlRZXVRbEZqd0o2ZlpoaE51cmN3bVhLQnlaSmhOcVFXM3NzZDl2M0U2Nk1rNnJSbnh2RENYQUlhVW55OGJ2T0JQT1BvcA?oc=5",
@@ -333,134 +293,134 @@
           "kind": "news"
         },
         {
-          "title": "철도노조 안전운행 투쟁 시작…퇴근길 열차 지연될까",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0cTJ3bjI1eWdxdVhKc1prZ0ZqRlo4TkVaRFhrZS1BSDlKZEctSEdCb0JDVHpmeWNfcjk5di00SE53aTRHSHhicGd6SmVjQS05WjhWY0l1ZE1sQm43?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "2026-11-26T01:54:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "철도노조 ‘안전운행 투쟁’ 첫날…광역철도 등 일부 지연",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYX1gzRVc5RFlpbU9qcWJlempuWGtyM2pzeDJLQzI4UGlsYUp1bUZia2NWZU0ybEFXZkN3SUFuZkdwdnR3c0tNUHVHS2huZjUwb21DUzVxU3prSEI5VEhfejdZZmxjdw?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T01:51:00.000Z",
-          "kind": "news"
-        },
-        {
           "title": "철도노조 오늘부터 ‘안전운행 투쟁’… 열차 지연·승객 불편 우려",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjRONmQ1SkhBWWI1RU1uYjlKY0ZQTHFpeXgxMU1UdXNORTJZaVFrWTBDaEpMU01FdkpaYVFEZjlmREVTWVl2cEpfWVpBYm55UFQxMlZRNjllLW1oUF92d1BpRXhCZUlDUWloS3VJVDduX3owWkttSTdZZ0YySWp6MDk0cDViQdIBmgFBVV95cUxOaTBjelRvQVhJZk02VVItd0hDdEZNZ0Q0eDExYWFsNjFESmxHNkJEZlFBSnlQSE9aWnRPZ1o3anI1cEV5eFhBVDYtazJPQ0ZyRFpMX1BsQVQ3TlBHeTc4enVtX0M2Uk1SOUx2aC1zTHJ3bUFGeWZLSVB3RmRoaWdJaERCOWNxQXlkY0NvX0RMOGVVTk40VnBHb0pR?oc=5",
           "source": "Chosunbiz",
           "publishedAt": "2026-11-26T00:58:00.000Z",
           "kind": "news"
-        },
-        {
-          "title": "철도노조, 오전 9시부터 '준법투쟁' 돌입...승객 불편 불가피",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YLUZlN2FGLUlqY0d0MFpDVVhER21JWWZHX2lrdllCaXQtWWpTSG85clhiS21razRhRVBoVDcxbzljc0swazljcm9fVnRXTlAzZlZiMTFFTDhJOEZy?oc=5",
-          "source": "티제이비",
-          "publishedAt": "2026-11-26T00:42:59.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xOHZkbjViYTV5R0lRSVN5UERwQjBtSWNyMjBJNVgyX2dnNUMxNlpxRWZ4OXExZkozckhxeVVvb2pPYmNhR3dKbHhycUQtaHBnOGYxX1JySkVTZEXSAWBBVV95cUxNUmY1eHVJS3lXUWdXVTRyTlhuOHJycGhaYXhLcTFqY1h6S0ZlcDNJTjNRUzBOeWpCc245R2Q1QXRKNDNlbFdIY1RuTG5JYUE4OExGY3Zkd0toTG1YblJtdUQ?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-26T00:00:01.000Z",
-          "kind": "news"
         }
       ]
     },
     {
-      "title": "서울지하철 노사 임단협 타결…출근길 지하철 정상 운행",
+      "title": "강원 학교비정규직 27일 총파업⋯급식·돌봄 차질 우려",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "서울지하철 노사 밤샘 협상 타결…출근길 정상 운행",
-          "source": "KBS 뉴스"
+          "title": "학교비정규직 27일 총파업…경기 학교 32% 대체급식 예정",
+          "source": "경기일보"
         },
         {
-          "title": "서울 지하철 노사 임단협 타결··· 정상 운행",
-          "source": "LG헬로비전"
+          "title": "대구교육청, 11월 27일 학교 비정규직 파업에 급식·돌봄 대책",
+          "source": "대구MBC"
         },
         {
-          "title": "서울 지하철 노사 협상 타결‥첫차부터 정상 운행",
-          "source": "MBC 뉴스"
+          "title": "강원학교비정규직연대회의 내일 파업..급식·돌봄 차질 ::::: 기사",
+          "source": "춘천MBC"
         }
       ],
-      "span": "11.25",
-      "days": 1,
-      "hasPress": false,
-      "sourceCount": 7,
-      "articleCount": 7,
-      "articles": [
-        {
-          "title": "서울지하철 노사 밤샘 협상 타결…출근길 정상 운행",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BcHdLWU5HdnhRM2Q5SmdPR05DOGlkOXUtZ19VRmh6QzliYUFlR3BVRGVkMWJtSXg4X3UtYTVIMWljb1dacWRhQks0bGZiWjF0VGxnOUhHRngycDk3T2lwMnhWUWZOQQ?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T09:28:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울 지하철 노사 임단협 타결··· 정상 운행",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ueHFlSkhzYUFfQmJlVktrbFh0d25BQXpVMHkwU3NhYnZxRUV6RHUwZ1NETno5QkJzRW9WZloyVDdla1FCRV9tM05lMDRmMnpCbVYwRG53LXhIVmVESXprakx4Wm5WOG9mMC1zc09PNVZmMVhVeWfSAXZBVV95cUxPbnhxZUpIc2FBX0JiZVZLa2xYdHduQUF6VTB5MFNzYWJ2cUVFekR1MGdTRE56OUJCc0VvVmZaMlQ3ZWtRQkVfbTNOZTA0ZjJ6Qm1WMERudy14SFZlREl6a2pMeFpuVjhvZjAtc3NPTzVWZjFYVXln?oc=5",
-          "source": "LG헬로비전",
-          "publishedAt": "2026-11-25T00:02:57.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울 지하철 노사 협상 타결‥첫차부터 정상 운행",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZGRoWHVJRlE0UDJ5UGs2T05wcExLMHN2WUNtN2lIM2ZfalZSZUcxSnFvYXp5Q24xV25tZjNBWjQ5RnBRRGRPQV8tVTZhZnM4emFjWVExanFfOHRyMHltdkYzQnZEWkNqa0NNUFU2UTRNODE0Q2tQQ1RR0gF6QVVfeXFMUFUyN0RyQTQxQllDUHdaZ1ZrcER2RDRpOHoyUzRHdUZQUG56cHdYVlNzVzdnNmVhdEc1TkN3MklHRHJZa1JJT0ktbWhvZzhqTXA3RTJ1OHFGWmgyZ3V3U2R6bnN3WlRtNzgwdzFzQU1rR3RyOW5lQU5tZXc?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-24T21:03:52.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울지하철 노사, 임단협 극적 타결",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBVi1GdGU0aGRVLUlFT3ZjU2prVTVVaW9BOVZrWmEtYlF5TUFkbmN1dTc2Z2ozc3FWaTg2TFBxYVF3eXFvb2hRd01QdlFuakhWSUVIbkpjdldFM1dHWHRhZndyR3VWRV9kbWVpZy13Z1LSAXBBVV95cUxQQVYtRnRlNGhkVS1JRU92Y1Nqa1U1VWlvQTlWa1phLWJReU1BZG5jdXU3NmdqM3NxVmk4NkxQcWFRd3lxb29oUXdNUHZRbmpIVklFSG5KY3ZXRTNXR1h0YWZ3ckd1VkVfZG1laWctd2dS?oc=5",
-          "source": "데일리굿뉴스",
-          "publishedAt": "2026-11-24T21:03:16.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울 지하철 노사 협상 타결…출근길 대란 피해",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01czVNT2x4THREVGhkZWgwREI4cE1ZNkc5SVJNUjJiaXIwU1hNVnVIZHVsbmJtWC1meEhSb1JubDhLMWVfb0FJMFVrUlE5SnpXcFA3ZzhJTnVfOThWMHRyN3laSnFqcnM?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-24T20:55:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울지하철 노사 임단협 타결…출근길 지하철 정상 운행",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1SEV1aENYdFBtM1M1MG1LNEhXWlFkRXhydXdoQXBTZmxIajAyVkhHSzRzQWh6OTduTS1vempFVndwcDdoVlNIc0ZiRjVVUkZ5LXZjWXNJWUc4cC0zbllMXzhxRQ?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-24T20:46:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "27일 학교비정규직 총파업 예고…울산교육청, 급식·돌봄 비상대책",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "내일 학교비정규직 총파업…서울시교육청, \"급식·돌봄 공백 최소화\"",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "경기교육청, 27일 학교비정규직 파업 대비…급식·돌봄 지침",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "27일 학교 비정규직 총파업… 경기도교육청 대처 능력 시험대",
-          "source": "경인일보"
-        }
-      ],
-      "span": "11.25~11.26",
+      "span": "11.26~11.27",
       "days": 2,
       "hasPress": false,
-      "sourceCount": 5,
+      "sourceCount": 7,
+      "articleCount": 8,
+      "articles": [
+        {
+          "title": "강원 학교비정규직 27일 총파업⋯급식·돌봄 차질 우려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ka0o5UFFXVkxROGVIenhuaTE1dnRzQ0R5QndNcnpLN3lmcHZLSW1pREtyY196ZWlnRHhTSG53TzdTSEd4Z3BzWXZXWTh6bFNlemZ5X0RtRkhOekE?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2026-11-26T15:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교비정규직 27일 총파업…경기 학교 32% 대체급식 예정",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84eF8zLWJNR0xWSzFuc0hHeWlfR2RiWTB4dmk0OHRNNGJNcGdnYll6czZTS3lnOWd4dVA0RlRaQWhQSjRUekJwMzZBb1NFR3JPMTVNYjFma1lHN1k?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-11-26T08:46:36.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대구교육청, 11월 27일 학교 비정규직 파업에 급식·돌봄 대책",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82WVZTX1hqZ0p4eDJpTFhqdnFfN05BamEzVy1kdjdCS1dNMjZmTkotMWd3UExOcGhVWkU3S204YlA2QkxfdUIwdU91Q3o?oc=5",
+          "source": "대구MBC",
+          "publishedAt": "2026-11-26T07:02:45.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "강원학교비정규직연대회의 내일 파업..급식·돌봄 차질 ::::: 기사",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzRkVJS1BFYnVyTlRiUHNTVGlzQk81UTBCdnV5U1hRdWRKY00weDdWTThLWTAzdzJXa2NsV1lFWDJFMk5PMlBjMUhGdlo?oc=5",
+          "source": "춘천MBC",
+          "publishedAt": "2026-11-26T05:37:27.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "대전 학교비정규직 27일 총파업 돌입…급식·돌봄 차질 우려",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwcFk3eTBMcmRkN1JrOGFLVzdSRGFMaVgzQ3R2ODl1TTRHYjhkOTdPZmxkOTFlUGtVMTZ1UVRVUlMxNU93VnVkaFBkRkpFRVNTQnROQ1BvWk1WZFNfRzc4SEtnNEE5QUp2MTNkNw?oc=5",
+          "source": "충청뉴스",
+          "publishedAt": "2026-11-26T05:11:33.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교 비정규직 27일 총파업…급식·돌봄 차질 우려에 교육당국 비상 대응",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQk9aVngtaUlrN3BsNXl0TmpIQy1oV2ZYbXBrZlJfRDNTNTBMaFZScDlmRUs5cENpMmtGYkhBVUJPVGJ0bEZVNzMtRmdQWHlMbHNrVDVtYTVaUdIBX0FVX3lxTE02aV83ZEZoWkg2T1pzM0dNZkJzX05TNDAtODJXMEszdmlBbW5Vcnh4Nm5yUXJnZGR1WmNLeHdzUHBvZlRESm84V0sybExqUkdqYjhmOXJJQXBtdDE2SEVB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-26T01:04:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "경기교육청, 내일 학교비정규직 파업 대비…급식·돌봄 지침",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "학교비정규직 27일 총파업...제주도교육청, 48개교에 대체식 제공",
+          "source": "제주일보"
+        },
+        {
+          "title": "학교 비정규직 내일 총파업…대전교육청, 대체식·도시락 제공",
+          "source": "대전MBC"
+        },
+        {
+          "title": "학교 비정규직 내일 총파업…대전교육청 급식·돌봄 공백 최소화",
+          "source": "티제이비"
+        }
+      ],
+      "span": "11.26",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 6,
       "articleCount": 7,
       "articles": [
+        {
+          "title": "학교비정규직 27일 총파업...제주도교육청, 48개교에 대체식 제공",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEcG1LVnhON3JfOHctYXVCUUlwb3h5M1R0MHZiSVd2RDVlVy1ERHF2aTFFSU1SaTJOamtGQ2hsdUpHdUZxU29BbXptWTF4dGFVcjdaYlh2U1lZWFF5c29EM2FXVV9QUHMwTGIySg?oc=5",
+          "source": "제주일보",
+          "publishedAt": "2026-11-26T09:37:37.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교 비정규직 내일 총파업…대전교육청, 대체식·도시락 제공",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05dzBoOGRtMmRZVU1HcjBndEhuNHJla3gzWHhoelZFU3NPc2lCQW5MdklxclhHQzI2bE4xYkFxLXMxU0duaDNVVUZRTVNlOWc?oc=5",
+          "source": "대전MBC",
+          "publishedAt": "2026-11-26T07:35:04.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교 비정규직 내일 총파업…대전교육청 급식·돌봄 공백 최소화",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBySnR0UTJIUTdzU19MUFBpa21fb1NGWk04Ulo0V3BnenBZRUNLc2FRMzIxNi1SLVdadkJBNzJieVo5OHZQSHZscVZ6bTlIZlZBclBITjZ0YUhqaTVt?oc=5",
+          "source": "티제이비",
+          "publishedAt": "2026-11-26T07:10:42.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경기교육청, 내일 학교비정규직 파업 대비…급식·돌봄 지침",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhV1FjUFV4NXNPbGtYcklHTEpjNGpIZWJBV2p4dDdkU1RaU3NFYWdTeUl3Y3dqeW9wRE0xMHFxZmVnSXNBamJhajU3bktzbUE2R3lGSHBiWkszWWc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T04:27:00.000Z",
+          "kind": "news"
+        },
         {
           "title": "내일 학교비정규직 총파업…서울시교육청, \"급식·돌봄 공백 최소화\"",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TeUlyN1FCTG1ZeUowR0tZaW1XVFkwdU5XVm9BSDJlZHFrRkZFeE5iS3ZjbUh3R0ZhNTRQSmVDYS1QZGtRdTFNbXpYRUVTdjRtbkFJeGVYWElzWmIw?oc=5",
@@ -474,205 +434,310 @@
           "source": "연합뉴스",
           "publishedAt": "2026-11-26T00:34:57.000Z",
           "kind": "news"
-        },
-        {
-          "title": "27일 학교 비정규직 총파업… 경기도교육청 대처 능력 시험대",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BUzRuNUhhR0tPTlhIR1JEQy0ybFNrLTBCclFQdnBmMmhzNENybWk3V0VZTS1ad1pnRHBtbTRZbFpqN3V6WngyUGJqVHNWSmV4cUE?oc=5",
-          "source": "경인일보",
-          "publishedAt": "2026-11-25T11:04:39.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "27일 학교비정규직 총파업 예고…울산교육청, 급식·돌봄 비상대책",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzT3hMbjA2d0FON0hVbFJqU0dicGpkWDNJUlRsMTVabXg3RU1WNkxKV2M2SUNkSkpXVUpGYmxnUjY2M3JWeHNQMDBiMVFmZktnUHJEdlp2LWI3MVI2VmlfWnRQRXRXNGV3ejZNbkU0b21BTkE?oc=5",
-          "source": "울산저널i",
-          "publishedAt": "2026-11-25T03:15:21.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "학교비정규직 27일 총파업…전남광주교육청, 급식·돌봄 비상대응",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94X2Zxa2hoeFBZN1prUFpGUDBBV1hGZmJ3aHJON0VYVi1wUTVld1NKSDN0cjZvbGlsZzR6dEV2M3M1M25fNWlhZ0JlTThqcVlrYmg1QVY1Y21kNS00RXJaeE42akhWbDlxcHRHcA?oc=5",
-          "source": "광주in",
-          "publishedAt": "2026-11-25T01:54:35.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "이달 27일 학교 비정규직 9.4만 명 파업…교육부 \"급식·돌봄 차질 없게\"",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MaEVKY21UZ19jZElLMjYzaXA0ME5PM1dQZHhVTHZ2RkduNGFoT3NTV2RaU1ctS19xV3kxRkRPdUxReFFsM3R6YlZjZF8talVNZllzVUM1aW5tU1c1?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "2026-11-25T23:46:00.000Z",
-          "kind": "news"
         }
       ]
     },
     {
-      "title": "전국 염전 765곳 전수 조사…23곳서 임금체불 등 법 위반 확인",
+      "title": "내년 노인일자리 역대 최대 118만개 공급…27일부터 참여자 모집",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "전국 염전 765곳 전수조사…23곳 법 위반, 체불임금 5000만원 전액 청산",
-          "source": "한국사회복지저널"
+          "title": "내년 노인일자리 118만개로 늘려…27일부터 신청 접수",
+          "source": "cpbc News"
         },
         {
-          "title": "정부 염전 765곳 전수조사, 23곳서 임금체불·노동법 위반 적발",
-          "source": "에이블뉴스"
-        }
-      ],
-      "span": "11.25",
-      "days": 1,
-      "hasPress": true,
-      "sourceCount": 3,
-      "articleCount": 3,
-      "articles": [
-        {
-          "title": "전국 염전 765곳 전수조사…23곳 법 위반, 체불임금 5000만원 전액 청산",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MVFBieUxRdFRaZWliNkNVMlNwSThUT0VwMEQ5MTFiWmRvdnlCSG5kTEZtWGhCS2ozWm8wTEZoZHdRS1ZJckFteGxYcnMyRWZzdmdGSjlFMUd1WWwxNzRHdW5EWlR4QWFDSFRr?oc=5",
-          "source": "한국사회복지저널",
-          "publishedAt": "2026-11-25T10:50:21.000Z",
-          "kind": "press"
+          "title": "내년 노인일자리 참여자 모집…역대 최대 118만개",
+          "source": "산경일보"
         },
         {
-          "title": "전국 염전 765곳 전수 조사…23곳서 임금체불 등 법 위반 확인",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJcWRvc3dmNWE1ckhsM0ktbXVOT3F3cXY2Nk5kN0ZSa2tFMlBIRnpZZkhwZ0pJeEh1bGRLY0J5ZWcwa1VhWnhGV3JPMXV3cnNYckI3UHBpSVFZakJRRVNWMFRHOFEyTDJEYXJUOQ?oc=5",
-          "source": "대한민국 정책브리핑",
-          "publishedAt": "2026-11-25T06:25:09.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "정부 염전 765곳 전수조사, 23곳서 임금체불·노동법 위반 적발",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OeTlDRk1tdzh2N2wzcEI1UG0xUXVoS01JQW91Zm41Rzh1d0pKTnVfalBVQUE2UmpscDNJNFo0TUttWTZkUUVaZkhONmZlWEZjUnppVHk2aFR4VEJfb0RXTEZjQ1lTemVSX2phUnFn0gFyQVVfeXFMT0hSc2JBMF9zU29RbDhOQjR0cUl0OHk5c1JnbmdETHVlUVVnZ0tvZ2M0eW1DQ29Lb1QzNEc2SUZtdHd6RXpQcnpSdVlsZ0dKWjI1eGd5bU1QWjhSbjNpOFpIa2pLQm9kb2xiSG8wUW54QWNn?oc=5",
-          "source": "에이블뉴스",
-          "publishedAt": "2026-11-25T04:39:44.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "충북 학교비정규직 노동자 27일 총파업",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "‘교육교부금 개편 철회’ 학교 비정규직 노동자 총파업에 정치권도 지지",
-          "source": "부산일보"
-        },
-        {
-          "title": "학교 비정규직 노동자들 27일 총파업…교육당국 “대체 급식 등 마련”",
-          "source": "한겨레"
+          "title": "내년 노인일자리 역대 최대 118만개…내일부터 참여자 모집",
+          "source": "연합뉴스"
         }
       ],
       "span": "11.26",
       "days": 1,
       "hasPress": false,
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 6,
+      "articleCount": 7,
       "articles": [
         {
-          "title": "충북 학교비정규직 노동자 27일 총파업",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uUlUzV3dKZWR2bWhITXBiSXpuZ1JMQWdGTFZfSXpTZGl0QXhuR2hLTDJqVmxoeUQwR09ibkVNb20tS3dkVHRlSTdzUnI0ZkZVWGdaSTlGSmoxVUpRT1IyVUVZQ0xmZjV1Ul9NVk5SOXlyc3J4Q2Yw?oc=5",
+          "title": "내년 노인일자리 역대 최대 118만개 공급…27일부터 참여자 모집",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XalJrbnNseHluWmRaVDNUQXhFaGFBMkhkTERIY3VQYlA5R082SUhEUnZPVFNIWWh5eVNrVEt5SEFxU2huUlIweXhFLUo4dw?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-26T04:53:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 노인일자리 118만개로 늘려…27일부터 신청 접수",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkMUltU2FGaGE3ZGxqc0ZTYndzbFJFdTRvYWJYTEc2T1N1d0pkUmhTdUNXd3RDRjg0VWxJUFlUUVRqcFFoVVl3OTRZTnpHTHR3?oc=5",
+          "source": "cpbc News",
+          "publishedAt": "2026-11-26T04:21:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 노인일자리 참여자 모집…역대 최대 118만개",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BYTl0dmd5dDNtaUh1Vm8zSVVaSUp2V0lkdkFVWVIwcFRsS1d2VjVWVHpwY21aaDBuOUk5RWpIOUhiaFBwSnVGQi1QX3lOei1EZ0w0V3k0Zl9kcmhYdHdIRTctVGFqeW84aUR1dXNQLVk?oc=5",
+          "source": "산경일보",
+          "publishedAt": "2026-11-26T03:04:54.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 노인일자리 역대 최대 118만개…내일부터 참여자 모집",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Vk5ocjhiZlFEWEFVRVY0V2hweUUwZVg1cV9XMDhXQjVqLWlIUU1KRklnNjVaTFFDT0JCM0g0WnIzSnQ3cTVnZnlCRURUSW1XTWJycHR5SnNBVHPSAWBBVV95cUxQdDE2ZGQ2UHVNNjFoT0UtZUlzMk5mcDU3MzdrSXVjY3BDVXJhTTdQUENGNThlS2VNSzloRHdvRnRXaDgzTTdBaDZnS2wxb1R0UElIeEJOd0xVZFh3NGkwNVU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-26T03:00:11.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내년 노인일자리 역대 최대 118만 개 열린다... 27일부터 모집",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0WGFSSG05Y3RMc3hPMVEwR1EweWxHUnNiUXpRX3VFUE5CT2FEczJyN3pDU0tzY29mNWxyU05PbmlIanZKc19uOGV0dnd5UnNOckJhdUl5TVZRZXF5NXliYjVQZ18wWjJEQmtENHpqVExqd3pPanJ3?oc=5",
           "source": "OhmyNews",
-          "publishedAt": "2026-11-26T02:57:00.000Z",
+          "publishedAt": "2026-11-26T03:00:00.000Z",
           "kind": "news"
         },
         {
-          "title": "‘교육교부금 개편 철회’ 학교 비정규직 노동자 총파업에 정치권도 지지",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UEF1STVOSXJlcUdabVB3R1VxV2lXTmZQNUpNcTRsTWFKNVJJQmtVUHlBVEstRDdoRUwyTTN5Nk1QOUdKMFM0di1rRGdiM3djVGJfXzNOV1AyOVE4RVpOTmFaWjRBZzIyT04xNmVlWEViSWJYLVJtRg?oc=5",
-          "source": "부산일보",
-          "publishedAt": "2026-11-26T02:41:58.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "학교 비정규직 노동자들 27일 총파업…교육당국 “대체 급식 등 마련”",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80SW1uVHdRVHE5NjcwcHdsUUREdFY2TkFqa1pwZzBlM2puakVEV0hxT3ZrbEJFQm1yaElDVFNwdWJCU1F2Y0dDWUxhaDZacElpenF0X0lMdDF5Q0Q5TVo3UFozWE9BeDNpVkE?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-26T00:15:00.000Z",
+          "title": "복지부, 내년 노인일자리 118만개 푼다…27일부터 참여자 모집",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2x5SGxjblV2OWt6cmp4RGRBOHZPLVpDajBvV1FndTZ6cHNfb05FWVFoX05ZRENtVktHTzM5dEFPZ1BrYU9ISnJJSTdiQk15YTh3M09MTko1UXZX?oc=5",
+          "source": "뉴스핌",
+          "publishedAt": "2026-11-26T03:00:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "서울시교육청, 학교비정규직 파업 대비해 상황실 가동 등 대응",
+      "title": "경남도 내년 생활임금 시급 1만2천626원…올해보다 516원 인상",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "부산시교육청, 학교 비정규직 파업 대책 마련",
-          "source": "연합뉴스"
+          "title": "도 내년 생활임금 시급 1만2626원",
+          "source": "경남매일"
         },
         {
-          "title": "충북교육청, 학교비정규직 파업 대비 비상대응체계 가동",
-          "source": "뉴스핌"
+          "title": "경남도, 내년 생활임금 시급 1만2626원 확정…올해보다 4.3%↑",
+          "source": "CNB뉴스"
+        },
+        {
+          "title": "경남도 내년 생활임금 시간당 1만 2626원…올해보다 516원 올라",
+          "source": "경남도민일보"
+        }
+      ],
+      "span": "11.26",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 5,
+      "articleCount": 5,
+      "articles": [
+        {
+          "title": "도 내년 생활임금 시급 1만2626원",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HcWhuRk8yZG93a2NBQ2d5NkpHZGVBSENqbnpwVlRFRDR3M3JSSW45VzVLQ0hJQzFVeFZ4dklfY2UxdTVaWFo2SWZzNC04UWhXaTRHcDNIQnpYbWE3NVhzNGRXV3N2TU1yMWc?oc=5",
+          "source": "경남매일",
+          "publishedAt": "2026-11-26T12:09:12.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경남도, 내년 생활임금 시급 1만2626원 확정…올해보다 4.3%↑",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ib0N4UWxfVGllVTRpYnhGTjNOUk8zdF9OTGFhLUxLbXZLQWhOX1pkUGFiRFBLeGt4RmVQRGkxa1UyWEpGRFhqUGFnTUNOZHZBWlRwcHV1dlVfaG9KZDY4SDQ1RVh0MlJIWHVr?oc=5",
+          "source": "CNB뉴스",
+          "publishedAt": "2026-11-26T06:43:19.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경남도 내년 생활임금 시간당 1만 2626원…올해보다 516원 올라",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnVjNETzBHWXh4alNqbU9EYmlXMVJXSS14NDFUUkVST3RCU01uYWpvQkpfQmluVGpnc1haRThpTWFwU1VtdkhyalBJMDBHNy1mcjAtUDlYYVRGckZ3a0N6WDJNb1VsTnhERFE?oc=5",
+          "source": "경남도민일보",
+          "publishedAt": "2026-11-26T04:14:16.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경남도 2027년 생활임금 시급 1만 2626원 결정",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MSkFXcHo5VENoVGgxeFE4T3h0dGlIU2oxM0U5NGdKWVAxa1l1cWdlbFJNSVFVdFJHMEMyN2d0UWhlcFkxRG9mTzBhYTlHbzNDdXg4eXRDRjZnc2JOYmtvc1VCcHFCLWJtQ0RjWXBEUHNvdmpOUXBwMw?oc=5",
+          "source": "부산일보",
+          "publishedAt": "2026-11-26T02:10:27.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경남도 내년 생활임금 시급 1만2천626원…올해보다 516원 인상",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdFN1d0hIclhSQXhGTDBNbWpiXzUwNU92YzRDOWNyUnpUUXRfNXBvNTZ2MEFLOEctMmZSZHlTV3luUEJGaU9HZFF5SWgxM2VqcTlOVGlZZ2pNb1NaZTVlR9IBYEFVX3lxTE1NdFN1d0hIclhSQXhGTDBNbWpiXzUwNU92YzRDOWNyUnpUUXRfNXBvNTZ2MEFLOEctMmZSZHlTV3luUEJGaU9HZFF5SWgxM2VqcTlOVGlZZ2pNb1NaZTVlRw?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-26T00:52:42.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "철도노조 준법투쟁에 열차 4대 운행 중지‥광역전철 235대 지연",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "코레일 “철도노조 준법투쟁으로 전철 235대 20분 이상 지연”",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "철도노조 준법투쟁…전철 235대 지연, 4대는 운행 중지",
+          "source": "JTBC"
+        },
+        {
+          "title": "\"철도노조 안전운행 투쟁에 광역전철 235대 20분 이상 지연\"(종합)",
+          "source": "연합뉴스"
+        }
+      ],
+      "span": "11.26",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 5,
+      "articleCount": 5,
+      "articles": [
+        {
+          "title": "코레일 “철도노조 준법투쟁으로 전철 235대 20분 이상 지연”",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUzVQdzc4UzgzS0lCRzhCclFURWR4TFJCaUl0SDd1b0QxZ18tWGw0V2RpcktPdzFXUEpMUWRZSnBzV0lKTVhScHptb2E0c1Zwc3FTTlM2NHF3bWZVRVNMYm1WbDdzOWwtN21faUpLMXoxZWh5RXVGY3RjcV8ydWVOSExlMDlHd9IBmgFBVV95cUxQR1VxcGFmTTIybmJXdUgzcXlBeFB4ZVZqNnJCa1NyS1RRLWNxTmNtcF9zUzEzWTFna05YdWYyUV9UQVIyeE1aRjNzSlV0VUR6SVh4WG45ZWV3V3A3RWwzYWZ0TnlXQVJ1Z3VfNzNXQnhUeE1pbEFDVUdHNm8wSEhOWjY0N1RUZ3VGV0hqSjBFOXJqZTNPY1oxc3lR?oc=5",
+          "source": "Chosunbiz",
+          "publishedAt": "2026-11-26T10:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 준법투쟁…전철 235대 지연, 4대는 운행 중지",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FZ0dEUjZacVZFTHF5V2FJTmhkRTdhM2lKcXgyNXZLMEpGeDg2ckR1dWEwZjhaS3k0YzlIcndLY0Zud0VPNndVMHplcGxZVHhpMkNydQ?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2026-11-26T09:48:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 준법투쟁에 열차 4대 운행 중지‥광역전철 235대 지연",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85WUcxT3E1NW1rYWZhVFJJMVZOczFIcTA5dkpFamxqNmwwemY2dHRjcmxpdEV6TkpaRXdhZzNwYlBLeUZQTFAwMXBZbDgzenpCSGduSzZLdVBHYVJfM2hKUnVPTHNUVmFCNjNuM09XamdEMm5T0gF0QVVfeXFMTi0yY2lJWVZUVk4tbXBSOGlza0NjWTNxYzE0ZFA2djdid01fQjNxakg4U1hUeENmQWZsTzVxeFNUZHBMSGRsMDgzYUNUeVgyY2JkX0RDdE1CdWVHalFEQ1ZyVGFucWpzMmtBbWFkT3ZzRU5kQXY?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T09:43:18.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"철도노조 안전운행 투쟁에 광역전철 235대 20분 이상 지연\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsRkk1X2FmY0REU3lLMVBXT3huZ01valhMN054aHdNdnBpR2xzblU4VU9jV0hqajFGR09UcUJHem95Y3RrdzA5Q2ZqTkVCV1NRelo3LTdnbkFIX0IxLU5tcdIBYEFVX3lxTFBsRkk1X2FmY0REU3lLMVBXT3huZ01valhMN054aHdNdnBpR2xzblU4VU9jV0hqajFGR09UcUJHem95Y3RrdzA5Q2ZqTkVCV1NRelo3LTdnbkFIX0IxLU5tcQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-26T09:16:40.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 준법 투쟁으로 열차 4대 운행 중지·2백여 대 지연",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tdXQyNmFteXNsZVA2bGVST0VOYzZheUZnclRGOTEtOFJVSTAzeG5qV1E1aHNyWFV3MHItT0FxWXE1U24wQmVMVUpFdG5kRTQxLVVMWEZ2anNMNm5Ubk04ckk3Z3Zqdw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T08:30:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "철도노조 26일부터 준법투쟁…수도권 전철·KTX 지연 우려",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "철도노조, 오늘부터 ‘준법투쟁’…“상시적 인력난으로 안전 확보 어려워”",
+          "source": "한겨레"
+        },
+        {
+          "title": "철도노조, 오늘부터 준법투쟁…수도권 전철 등 지연 우려",
+          "source": "TV조선뉴스"
+        },
+        {
+          "title": "철도노조, 오늘부터 준법투쟁...비상대책본부 가동",
+          "source": "YTN"
         }
       ],
       "span": "11.25~11.26",
       "days": 2,
       "hasPress": false,
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 5,
+      "articleCount": 5,
       "articles": [
         {
-          "title": "서울시교육청, 학교비정규직 파업 대비해 상황실 가동 등 대응",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMT0Y2NW1OSXVtTlZZeW1KcFJSSVBiMHhpYi0xSTZQMGRDWVFjX2JqenNpT1FMN0k5Ni00d1dxcnZaeElCWkdNRG5peWdONW1DZWFSX0U3ZFM1elE?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T02:27:00.000Z",
+          "title": "철도노조, 오늘부터 ‘준법투쟁’…“상시적 인력난으로 안전 확보 어려워”",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83Uk1OQnFrenNycVdwMmt6Rm01WVdSUTd4SC1RaVd5d014WmRUY3JXaXRvYkFaVEdGSDgtVklvV2loWWNGdXJOQk00LWVXR2lPYTdtMXNIRmwwa1g5TEJXTkVhdGI?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-26T02:58:00.000Z",
           "kind": "news"
         },
         {
-          "title": "부산시교육청, 학교 비정규직 파업 대책 마련",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBma1lzZDlDdDNzcHhncEVtOHJoWjZHZEJpY3VfU2wyRjJ6d1dYT0hBcm5oR01CNGxkR3pHbmVrQlcwcDAyS0E0c3RlZWhjajE4eGR1djBISHNVRk0?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T01:15:25.000Z",
+          "title": "철도노조, 오늘부터 준법투쟁…수도권 전철 등 지연 우려",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FT0Uyem4xQ0wzRUZvdUpJazB0dC12VlhJWWRiVkZqVjBtaGJET01WaVllRkRWVzM2UkZZQVIyMC1RanJsWEJEZ1dBdmdRdjRFQndoMDBvUUtad29FNFZSUFFBcVUzRzB4Q01vTDhyNnNGaEctTmZTdGNaSk1jVVU?oc=5",
+          "source": "TV조선뉴스",
+          "publishedAt": "2026-11-25T22:45:49.000Z",
           "kind": "news"
         },
         {
-          "title": "충북교육청, 학교비정규직 파업 대비 비상대응체계 가동",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5MTZPcWxaX3dHTE14cllac081YUdJY3JHOVo2YWw2enFEcjIyTjBDUXhJX1p4N2ZNT3RrZHlGTHc5Yk9Yc1F4S3VlMVRRSkhZengyQmNNQ3dVZFQ4?oc=5",
-          "source": "뉴스핌",
-          "publishedAt": "2026-11-25T00:58:00.000Z",
+          "title": "철도노조, 오늘부터 준법투쟁...비상대책본부 가동",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81S0daVmZIcTBmNV9sUEF2SGNvWmJVdFg4Q3A1VVpUTkdUcHhpS2JBM2c0TUhzYnVIYVFFQmxoTVZrSDF0QnhvSWcwcTcyRmdjMGVMeUdqOTV5SUdfMWc?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-25T15:37:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조, 26일부터 준법투쟁 돌입…수도권 전철·KTX 운행 지연 우려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tSVVrSVJFTUpSOG5Iak5zRXp5SkdqWGJPZUpReWN6dTczendmZy1paEswNkRHM25GSE9Ec3ZnMHZWUGZ6b0NFR0VVNk8zMTY5YktuU01ib1VaX0U?oc=5",
+          "source": "경기일보",
+          "publishedAt": "2026-11-25T08:55:27.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 26일부터 준법투쟁…수도권 전철·KTX 지연 우려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fY2doT2ptZWdEVE1kVGRVeVBHeDlWYjNOaC16RGhJa09SZGVsM21VcXdtMlVRNXFhbllVZmoydk1zQzQ1cW02aV8xRlRMSVBZMDlPUnZiOGc2TzA?oc=5",
+          "source": "뉴스1",
+          "publishedAt": "2026-11-25T07:27:12.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "임금 1.9억 체불하고 24년간 미국 도피…반도체 업체 대표 구속",
+      "title": "바커케미칼코리아, 고용노동부 일·생활 균형 우수기업 선정",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "임금 체불 후 24년간 해외 도피…반도체 설비업체 대표 구속",
-          "source": "뉴시스"
+          "title": "쿠도커뮤니케이션, 고용노동부 '일·생활균형 우수기업 선정'",
+          "source": "데일리시큐"
         },
         {
-          "title": "임금 1.9억 체불하고 24년간 미국 도피…국내 입국 한달만 구속",
-          "source": "연합뉴스"
+          "title": "체크멀, 고용노동부 '일·생활 균형 우수기업' 선정",
+          "source": "전자신문"
+        },
+        {
+          "title": "바커케미칼코리아, 고용노동부 ‘2026 대한민국 일·생활 균형 우수기업’ 선정",
+          "source": "뉴스와이어"
         }
       ],
-      "span": "11.25",
+      "span": "11.26",
       "days": 1,
-      "hasPress": false,
-      "sourceCount": 3,
-      "articleCount": 3,
+      "hasPress": true,
+      "sourceCount": 4,
+      "articleCount": 4,
       "articles": [
         {
-          "title": "임금 1.9억 체불하고 24년간 미국 도피…반도체 업체 대표 구속",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrc2RxdUtuX3haMFctVGowdE9pVUdWTmpDbnRVZ3dfSmdpc0lPd3VEWGFOaVg5WTJKXzhQRHgwemxEa01lZUVFdEM4TDdNNm1oSTZIZlpn?oc=5",
-          "source": "중앙일보",
-          "publishedAt": "2026-11-25T13:48:51.000Z",
+          "title": "바커케미칼코리아, 고용노동부 ‘2026 대한민국 일·생활 균형 우수기업’ 선정",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NWXpUcWEwcV9aOEhkakpaUEZ4dHAtNlJlS051QUlXaG9rbnVsSkxkSWVPcE1jVUZuLWMzMklhc2JLb0N2Njgza1VreWtNRkdLOEpnYzY3V0xCdjBQTVdV?oc=5",
+          "source": "뉴스와이어",
+          "publishedAt": "2026-11-26T00:30:00.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "쿠도커뮤니케이션, 고용노동부 '일·생활균형 우수기업 선정'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16QzNHU1pFN0RPVldReU1qdy1vRXAtSnN5NS1TUTRpRGk4ZG4yMmJvOXZtWEtNVGRfb1NFbC1ZN2V1WUp4UWpiMzRsSjFVZ002QUJNRm40LWhjYzIxS2lBWV9mSURNcFBSYnlSVw?oc=5",
+          "source": "데일리시큐",
+          "publishedAt": "2026-11-26T08:38:27.000Z",
           "kind": "news"
         },
         {
-          "title": "임금 체불 후 24년간 해외 도피…반도체 설비업체 대표 구속",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05OTJmc0FfLUE4cFJFa3JEZHBhOFJBVDI0a3FpZkRsUFg1X1VNQ1lRRHcwaHJDMDQ2ZmF6WXRsT1dTSENhLUtZaDYzd3BQdURsbklMWHBCR2Q4aHpibTlrNNIBeEFVX3lxTFB2eVU4ak5pb2dUbnNVNTVvbFRZNkZXLU9EaWNiYkQwQnhPdnJjMDJwYi1aQnlndlNUVXBFcmItTWhQVE56dlhPLWxqcnZLX2E1RHhsT2V2YTlZd3BjbU5tcG5VaGJLYVQ3ZGlUckdlWW9qa1hQdkp1Tg?oc=5",
-          "source": "뉴시스",
-          "publishedAt": "2026-11-25T13:02:34.000Z",
+          "title": "바커케미칼코리아, 고용노동부 일·생활 균형 우수기업 선정",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWNlB4MnZvWHNlYlpuNmZzMndNRUVOTEhuenZhemZ4RnNkdUZ4MlVianVUSXZFZG9wMWhGdlhiUGpXUmFrT3NWTnAwYzUxd2VDU1p6Z3pGZ19iSTl3Y0FITS0tbVdVQQ?oc=5",
+          "source": "디일렉",
+          "publishedAt": "2026-11-26T08:05:13.000Z",
           "kind": "news"
         },
         {
-          "title": "임금 1.9억 체불하고 24년간 미국 도피…국내 입국 한달만 구속",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3V2cybkF5ekREbHJZWDd2TmNuUkVoUGZNeXZVT0MwWFFfMVBzZEV5NllRZEU0Ynhib282Y2dIMFY5ek9ERlZ0d005Ulk3bGlfZkVHb3M2N3RwNDTSAWBBVV95cUxNQ1ZNLU1DcW9FNi1mamlURG85NzZBN0JhRm9fZm1OTlM5RjR0ekY1UmtaZXZmRk15NTlhN21ycGtXR3VYQXJtV0ZwVFJDeVhuMVFxM29kUWRYOUhnZHNQSUo?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T12:49:18.000Z",
+          "title": "체크멀, 고용노동부 '일·생활 균형 우수기업' 선정",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WQ1NXd2pKZFpYaC1mM0gxY0tFNS0xajU2VDNHTWpWV18zcGlvTm5RNC1XNUNUX0thQUZER19pdDJlN3dHVE1MXzZhR012dw?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-26T05:01:36.000Z",
           "kind": "news"
         }
       ]
@@ -681,19 +746,47 @@
   "timeline": [
     {
       "date": "11.20",
-      "event": "철도노조 준법투쟁…KTX 일부 열차 지연"
+      "event": "철도노조 준법투쟁에 열차 지연"
     },
     {
       "date": "11.25",
-      "event": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다"
+      "event": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지"
     },
     {
       "date": "11.26",
-      "event": "충북 학교비정규직 노동자 27일 총파업"
+      "event": "학교 비정규직 노동자 총파업… 급식·돌봄"
     }
   ],
   "outlook": "",
   "press": [
+    {
+      "title": "고용행정데이터 제공 규정 개정 알림",
+      "link": "https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20261100937",
+      "source": "고용노동부",
+      "publishedAt": "2026-11-26T19:55:54.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "2026년도 직업능력개발훈련 심사평가 훈련과정 반납 신청 공고",
+      "link": "https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20261100920",
+      "source": "고용노동부",
+      "publishedAt": "2026-11-26T14:59:13.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "2027년 노동절 정부포상 계획 공고",
+      "link": "https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20261100919",
+      "source": "고용노동부",
+      "publishedAt": "2026-11-26T14:57:30.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "새벽 야외작업 어르신, 한파 땐 작업시간과 따뜻한 쉼터부터 확인하세요",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVUEd4M2ZGR1V2eGItV1N1M0VvY1RQcUgwVGJpVWEyOUUtdlFldGxocTRlR1dRVGZRWHkxckQ0YW1YdXFmWmJOVktCbDVwNDV3WlRr?oc=5",
+      "source": "유스연합",
+      "publishedAt": "2026-11-26T11:59:13.000Z",
+      "kind": "press"
+    },
     {
       "title": "대구공공시설관리공단, 고용노동부장관상 수상 2026 대한민국 커뮤니케이션대상",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zR1NVa3BROWQzS0ZTNnJ3VlNtVUM2WmpDZ21QLWVpeE5BQlhYemFqWklSejdXZ3dPMlB0TTF3NDEzdFpsb0VnUTJmNlBfN3h0Zy14bHNDb25YNTY1Z0xxM0tkdjhVR25FTzhJdmRn0gFyQVVfeXFMTlRGd1NFTlRDRE5zelo5Q1RZbXhxeDlmbWFrTHY3SW9BWlpkdzN3MFBTZ0V6dDRHcnNmZ1hzSGlwNjhKckU3eG1CUm9TWHgwbFR4a1c4SmE0aUN5eG1mNTNSeGFjT2RPcjQzcUdwUHJqeW1n?oc=5",
@@ -702,31 +795,10 @@
       "kind": "press"
     },
     {
-      "title": "부천·김포지역 사고사망자 55.6% 감소 안전문화 실천 성과 공유",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85a0VVOFNYbzl4VFBrSkZoNU44SFNmNUVEd1U3YVpQZG9vZ2tjVm1uSUtENm1PYUxDVlUyX3luLXVvOWZZU2RrMEUta0NRLWlCM2pxNnZTanhzZXFTT1M5UFZpWkt5cG1lNGstSEFGTdIBdEFVX3lxTE1ZX3FQemEwZ19RaGZ4WkFlTkNSb0VSbjNmZS1BU3dFbk1NRFBVZnBsYXdRbjZQLUNPNDBhQk1uODE1MEhvUm1YYmVVclhUNEJWSVM5bXhZRldGNS0zQzFXUXY5YVdrZ3VFR2l0eTRURnZtd1F5?oc=5",
-      "source": "뉴스클레임",
-      "publishedAt": "2026-11-26T01:59:11.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "염전 40곳 중 23곳 노동법 위반… 근로계약서부터 챙겨야",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PalZCMXFsOFllM1BuWDZ6aFJRRGdrMDljSFpXUXk2aTNUdm9RRUpXRDZrSXN4bDZPNEhIa182Wmt0WXJZRC0zYzZBbkxOVEQxOHNYZGR0YkhLQUtSb29UTW45SElJVGkyR0hIcDYyb9IBb0FVX3lxTE9PalZCMXFsOFllM1BuWDZ6aFJRRGdrMDljSFpXUXk2aTNUdm9RRUpXRDZrSXN4bDZPNEhIa182Wmt0WXJZRC0zYzZBbkxOVEQxOHNYZGR0YkhLQUtSb29UTW45SElJVGkyR0hIcDYybw?oc=5",
-      "source": "사례뉴스",
-      "publishedAt": "2026-11-26T01:45:26.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "염전 노동자 고용 실태 합동 전수 조사 실시",
+      "title": "염전 노동자 고용 실태 합동 전수 조사",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Nk45S1AwRk1vRWhEWWp4RkxfdlM1akV5VmpSSE83R2wtVFVSU2tGazJ1TG5DT21lMjRvek16UGtWdWFOXzdzdEVTNVZQazM2bDhPUUNHdnRYdTd6YlBfWExmWl80bHhq?oc=5",
       "source": "환경일보",
       "publishedAt": "2026-11-26T01:34:57.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "(참고) 24년의 도피, 그 끝은 구속이었다",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpTmR3d3FrZWxZLWY1Tzh1eHJ4TllaVXAyZlhKMFZzX1dHR1lfMV9sd0R6WWdJQUpVY1o5YzZMbFNlXzlUZjlDamJlVmluZmty?oc=5",
-      "source": "뉴스미터",
-      "publishedAt": "2026-11-26T00:30:00.000Z",
       "kind": "press"
     },
     {
@@ -734,13 +806,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NWXpUcWEwcV9aOEhkakpaUEZ4dHAtNlJlS051QUlXaG9rbnVsSkxkSWVPcE1jVUZuLWMzMklhc2JLb0N2Njgza1VreWtNRkdLOEpnYzY3V0xCdjBQTVdV?oc=5",
       "source": "뉴스와이어",
       "publishedAt": "2026-11-26T00:30:00.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "중·소 건설현장 일제 패트롤 점검 실시 - 포토 | 멀티미디어",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80RHVTUE9zTzJGUTdQdjNRYUdKVFhGZTVJRG44bXRpTDN4ZW1FR0h1dl92ZTZsQk45NU9pbGNwZ2RaZmE1XzhaTXNrbVU5U0J2YThyRVh0NmRnZzc5NGFqUjFtbUpNb1NWZ2c?oc=5",
-      "source": "대한민국 정책브리핑",
-      "publishedAt": "2026-11-25T23:26:15.000Z",
       "kind": "press"
     },
     {
@@ -765,22 +830,22 @@
       "kind": "press"
     },
     {
-      "title": "전국 염전 765곳 전수조사…23곳 법 위반, 체불임금 5000만원 전액 청산",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MVFBieUxRdFRaZWliNkNVMlNwSThUT0VwMEQ5MTFiWmRvdnlCSG5kTEZtWGhCS2ozWm8wTEZoZHdRS1ZJckFteGxYcnMyRWZzdmdGSjlFMUd1WWwxNzRHdW5EWlR4QWFDSFRr?oc=5",
-      "source": "한국사회복지저널",
-      "publishedAt": "2026-11-25T10:50:21.000Z",
+      "title": "전문경력관 나군(사진·영상 촬영) 공무원 경력경쟁채용시험 공고",
+      "link": "https://www.moel.go.kr/news/notice/noticeView.do?bbs_seq=20261100854",
+      "source": "고용노동부",
+      "publishedAt": "2026-11-25T08:55:50.000Z",
       "kind": "press"
     },
     {
-      "title": "\"위기를 슬기롭게 극복하는 사례들이 많다\" 육가공 현장 케이프라이드, 상생파트너십 최우수 |",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aY3UySThTbXNjTmd6TGE4cmlLazVPUmpuaW50ekZHUjhyVmdiUW1IQzV6aktQbTFjZlZlYVpPWm02X2dkbk1SaUhTbE5wQ1gyWm5yNWc4Y05Sd0ZoUjhCV2JzZHp0ek84YXB4LUp1VQ?oc=5",
-      "source": "사례뉴스",
-      "publishedAt": "2026-11-25T09:46:43.000Z",
+      "title": "가스기술공사, 현장 중심 노사상생 모델로 고용부 장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FZnQwVFZhSTdkS3RZTFZfOThwTzlIQWptdVp2SlJqMTQ2dVNuZUlnT2RSejdkUnZBdDkwWFhDdkZiZU5IR1JXM0VyR3lNVEtGanczR2p0R1Z4ZWwzRkh3VWtKQVdaZk93MWdJS1UtMXJBXzg?oc=5",
+      "source": "충남일보",
+      "publishedAt": "2026-11-25T08:29:08.000Z",
       "kind": "press"
     }
   ],
   "stats": {
-    "articles": 350,
-    "sources": 143
+    "articles": 318,
+    "sources": 140
   }
 }

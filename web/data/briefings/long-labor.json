@@ -11,7 +11,7 @@
     "monthsAvailable": 36,
     "monthsTotal": 36
   },
-  "updatedAt": "2026-11-26T05:05:20.447Z",
+  "updatedAt": "2026-11-26T21:17:02.490Z",
   "trends": {
     "months": [
       "2023-12",
@@ -91,7 +91,7 @@
           4.6,
           7.4,
           9.2,
-          2.7
+          4.7
         ]
       },
       {
@@ -173,7 +173,7 @@
           3.5,
           6.6,
           4.3,
-          2.4
+          3.7
         ]
       },
       {
@@ -214,7 +214,7 @@
           0,
           2.5,
           2.5,
-          4.8
+          6.1
         ]
       },
       {
@@ -255,7 +255,7 @@
           3.2,
           4.9,
           3.7,
-          3.1
+          3
         ]
       },
       {
@@ -389,15 +389,15 @@
       },
       {
         "word": "교섭",
-        "change": 644
+        "change": 643
       },
       {
         "word": "총파업",
-        "change": 708
+        "change": 730
       },
       {
         "word": "사망",
-        "change": 245
+        "change": 255
       },
       {
         "word": "성과급",
@@ -405,7 +405,7 @@
       },
       {
         "word": "철도노조",
-        "change": 854
+        "change": 881
       }
     ],
     "falling": [
@@ -424,11 +424,11 @@
     ]
   },
   "stats": {
-    "articles": 6656
+    "articles": 6658
   },
   "ai": false,
   "headline": "최근 3년 노동: 「2027년 최저임금 1만700원 확정」",
-  "overview": "2023.12부터 2026.11까지 36개월치 노동 기사 6,656건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(7개월), 「대법 양형위, 중대재해처벌법 위반 양형기준 만든다」(5개월), 「‘중대재해처벌법 계기’ 故김용균 사건…“원청업체 무죄”」(5개월)입니다. 기간 후반으로 갈수록 삼성전자, 교섭, 총파업, 사망 언급은 늘고, 외국인, 근로자, 법원 언급은 줄었습니다.",
+  "overview": "2023.12부터 2026.11까지 36개월치 노동 기사 6,658건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(7개월), 「대법 양형위, 중대재해처벌법 위반 양형기준 만든다」(5개월), 「‘중대재해처벌법 계기’ 故김용균 사건…“원청업체 무죄”」(5개월)입니다. 기간 후반으로 갈수록 삼성전자, 교섭, 총파업, 사망 언급은 늘고, 외국인, 근로자, 법원 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -771,7 +771,7 @@
       "title": "학교 비정규직 4만 명 내일 총파업…교육당국 급식·돌봄 비상대응",
       "span": "2025.10~2026.11",
       "monthCount": 3,
-      "articleCount": 10,
+      "articleCount": 11,
       "summary": "",
       "headlines": [
         {
@@ -789,10 +789,10 @@
       ],
       "articles": [
         {
-          "title": "학교 비정규직 27일 총파업…급식·돌봄 차질 우려에 교육당국 비상 대응",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQk9aVngtaUlrN3BsNXl0TmpIQy1oV2ZYbXBrZlJfRDNTNTBMaFZScDlmRUs5cENpMmtGYkhBVUJPVGJ0bEZVNzMtRmdQWHlMbHNrVDVtYTVaUdIBX0FVX3lxTE02aV83ZEZoWkg2T1pzM0dNZkJzX05TNDAtODJXMEszdmlBbW5Vcnh4Nm5yUXJnZGR1WmNLeHdzUHBvZlRESm84V0sybExqUkdqYjhmOXJJQXBtdDE2SEVB?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-26T01:04:00.000Z",
+          "title": "강원 학교비정규직 27일 총파업⋯급식·돌봄 차질 우려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ka0o5UFFXVkxROGVIenhuaTE1dnRzQ0R5QndNcnpLN3lmcHZLSW1pREtyY196ZWlnRHhTSG53TzdTSEd4Z3BzWXZXWTh6bFNlemZ5X0RtRkhOekE?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2026-11-26T15:00:00.000Z",
           "kind": "news"
         },
         {
@@ -858,45 +858,45 @@
       "whyItMatters": ""
     },
     {
-      "title": "서울지하철 노조, 오늘부터 준법투쟁",
-      "span": "2024.11~2026.11",
+      "title": "[다시 “이대로 살 수는 없다”] 한화오션 하청노동자 조선소 내 농성 돌입",
+      "span": "2024.11~2025.10",
       "monthCount": 3,
       "articleCount": 9,
       "summary": "",
       "headlines": [
         {
-          "title": "서울지하철 노조, 오늘부터 준법투쟁",
-          "source": "2026.11"
+          "title": "한화오션 거제사업장서 하청노동자 사망",
+          "source": "2025.10"
         },
         {
-          "title": "서울지하철 노조 내일부터 ‘준법운행’…“출퇴근길 지연 없도록 대비”",
-          "source": "2025.11"
+          "title": "한화오션 하청 노동자들, 본사 앞 농성 돌입",
+          "source": "2025.01"
         },
         {
-          "title": "서울지하철 노조, 내달 6일 총파업 예고…20일부터 '준법운행'(종합2보)",
+          "title": "[다시 “이대로 살 수는 없다”] 한화오션 하청노동자 조선소 내 농성 돌입",
           "source": "2024.11"
         }
       ],
       "articles": [
         {
-          "title": "철도노조, 오늘부터 ‘준법투쟁’…“상시적 인력난으로 안전 확보 어려워”",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83Uk1OQnFrenNycVdwMmt6Rm01WVdSUTd4SC1RaVd5d014WmRUY3JXaXRvYkFaVEdGSDgtVklvV2loWWNGdXJOQk00LWVXR2lPYTdtMXNIRmwwa1g5TEJXTkVhdGI?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-26T02:58:00.000Z",
+          "title": "한화오션 거제사업장서 하청노동자 사망",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04azJzczJTQTNfVzY5akx6MWY1U1IxNndRbVhqUkRHYjFtWUhGR0xBbHN1MEtLQWxXc2cwa2swazkxeW91cWxmU3hQaVhqQmtWdDZqVUhGdTlhRzZkRWtXOHQxT0QwV0ljaXFOdVNGUkc?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-10-17T07:00:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울지하철 노조 내일부터 ‘준법운행’…“출퇴근길 지연 없도록 대비”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbVFKTndFakRzZFpsTm9HeURUem1ERUdGM3BiczBTQ19NUE00cEdBci13c3BweEhfNThqQkNRWmt2ZzE5ZEk2UFVQa1JfTmtFaElNcHEwVFljUdIBX0FVX3lxTE50M2hvcjgyRzZrbkhTZmhPVTBHbUJ0MmkyT3QzTkgtT1BtYzhwdnJJMElXdlh1MHRTTnRNdm0zVnVsWjkyZlVNT1loQ3RlWU13cmFTaVBLdWY0THlLUS1J?oc=5",
+          "title": "한화오션 하청노동자 농성에 원청은 ‘뒷짐’만",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10T0hzNFlhYVJDSnd0YUFSaHdrVkNrdlFidU9uRW1NV0Y3WjFiUjFFMHdJU0o0bVNXZ0xWMXJhU0VMeGhwdVpCbENPWGZqLVQ2R0sybnlOcVN6blY3UW9Dbm1fWlZuaG5pMXBseDF2cGQ?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-01-12T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "하청 노동자들 농성에, 한화오션 원청 노동자들 “하퀴벌레 치우자” 혐오 글",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56OWJGMDVRRkFKUUtucDJ4WVVpcExnVTJySzlJaGNDY3lRSDZ0ZnpJam1pRmxxNkdKMU96VzQxNWJYRFNXcVREUjcxTVVxS1NxeHJmdE9FYlN0UdIBX0FVX3lxTFBZZXJKSmM3N0ZsVVJMejJ0WFgxLUxYVDBfcjRGQ2hGWHl2OXpRUVgwTTJwVl8xZHNNR2lsdGZUdGZ2RUxQYlpEdWttR1p5NUYxODAzX2JFdFFCelhnS1Rv?oc=5",
           "source": "경향신문",
-          "publishedAt": "2025-11-30T08:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "서울지하철 노조, 내달 6일 총파업 예고…20일부터 '준법운행'(종합2보)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11S0VwR1l6OHBQRmRRaFRmdzBydFRscWJEekFvZi1EYV9XZkdNOVlCdkJXQ29NdWo2MEg0N1A2amV2bjNmM0RYUEZQaEVZNUxqQU8tUVhZTl80MDjSAWBBVV95cUxQNWpId0Z5M3ZWU3JWclBCbXhWWGJ6R1EtMW5xTmljd2RKRU1LeXVaUXhDY29iNW9weFVUcU1OUXRsVU1ZakhlYjRfZGVadmtFRTBHZDV5T28xMFpIVk5aejQ?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2024-11-19T08:00:00.000Z",
+          "publishedAt": "2024-11-20T08:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -950,7 +950,7 @@
     },
     {
       "date": "2026.11",
-      "event": "철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)"
+      "event": "철도노조 준법투쟁 첫날 퇴근길"
     }
   ],
   "outlook": ""

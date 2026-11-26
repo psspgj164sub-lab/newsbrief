@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-26T05:05:20.437Z",
+  "updatedAt": "2026-11-26T21:17:02.476Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           2.7,
           2.4,
           7.7,
-          2.4
+          3.4
         ]
       },
       {
@@ -42,7 +42,18 @@
           7.3,
           0,
           4.2,
-          3.4
+          5.4
+        ]
+      },
+      {
+        "word": "수사",
+        "values": [
+          2.9,
+          3.3,
+          2,
+          2.4,
+          2.4,
+          3
         ]
       },
       {
@@ -57,17 +68,6 @@
         ]
       },
       {
-        "word": "수사",
-        "values": [
-          2.9,
-          3.3,
-          2,
-          2.4,
-          2.4,
-          1.7
-        ]
-      },
-      {
         "word": "판결문",
         "values": [
           6.3,
@@ -79,50 +79,42 @@
         ]
       },
       {
-        "word": "정부",
+        "word": "취소",
         "values": [
-          1.4,
+          4.3,
+          2.2,
           0,
-          2,
-          2.9,
-          1.8,
-          1.4
+          0,
+          0,
+          2.4
         ]
       },
       {
-        "word": "대통령",
+        "word": "최태원",
         "values": [
           0,
-          2.7,
+          8.2,
           0,
-          1.8,
-          2.4,
-          2
+          0,
+          0,
+          0
         ]
       },
       {
-        "word": "책임",
+        "word": "공장",
         "values": [
           2.4,
+          1.6,
           0,
           0,
-          4.7,
-          0,
-          1.7
+          1.8,
+          2.4
         ]
       }
     ],
     "rising": [
       {
-        "word": "수능",
-        "change": null
-      },
-      {
         "word": "탄핵",
-        "change": null
-      },
-      {
-        "word": "재난문자",
         "change": null
       },
       {
@@ -130,11 +122,19 @@
         "change": null
       },
       {
-        "word": "적발",
+        "word": "안전",
         "change": null
       },
       {
+        "word": "AI",
+        "change": 110
+      },
+      {
         "word": "조희대",
+        "change": null
+      },
+      {
+        "word": "조사",
         "change": null
       }
     ],
@@ -158,11 +158,11 @@
     ]
   },
   "stats": {
-    "articles": 1173
+    "articles": 1174
   },
   "ai": false,
   "headline": "최근 6개월 사회: 「법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"」",
-  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,173건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 수능, 탄핵, 재난문자, 한덕수 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,174건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 탄핵, 한덕수, 안전, AI 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -237,7 +237,7 @@
       "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 7,
+      "articleCount": 8,
       "summary": "",
       "headlines": [
         {
@@ -251,29 +251,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZ1dOSThrdlQwZFpJVTN1VzROV2ZqZno3dXRrSXUtQnV4eDRidjNTRHpRX0Q4S091QUNpQW13R0lLbHREWGdXc1NBOGR4NElma3c0ZlFmWEM5TkRPaG91RDFNTjFXM3VsSnc?oc=5",
           "source": "한겨레",
           "publishedAt": "2026-11-22T23:57:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
-      "span": "2026.11",
-      "monthCount": 1,
-      "articleCount": 7,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
-          "source": "2026.11"
-        }
-      ],
-      "articles": [
-        {
-          "title": "교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPaXNpNTRDZEtEOHB5WUpsQkVnRkhwVWlQLWxocEtRSUFZNnp6LVNiZWV5QU0ybTBLalBsNFlBaHptT0xhaUFfSWU5SnJDdXdWMXh1VzFoQmVoODDSAWBBVV95cUxOaEdVMGpYb1BRcmVXa3FLMzFNc0hOal8waTFScURiMmRUOXhyMklaOHF6Uk4xc2pIaTZTVG16MUQ4V3hVeGxrdGxobEJnWEhIU1pFbWowYktkZGwwb2RIelA?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-19T02:24:06.000Z",
           "kind": "news"
         }
       ],
@@ -303,23 +280,23 @@
       "whyItMatters": ""
     },
     {
-      "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
+      "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
       "span": "2026.11",
       "monthCount": 1,
       "articleCount": 4,
       "summary": "",
       "headlines": [
         {
-          "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
+          "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "법원, 김수현 소속사에 쿠쿠 모델료 8억여원 반환 판결 : 연예",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02SHRvUTNGa0tBU1NiekNiNUVqd0dpNnV1Q1BQX3E3YklhaFFjcnR6ZlhHWGJxdm8xM2k2RXVxV1BPTEdLbVItaDVxdw?oc=5",
-          "source": "재경일보",
-          "publishedAt": "2026-11-22T01:41:09.000Z",
+          "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOanV0YVZsWkQ0cmtvQVBVVWFxZVd2SWtPYktObDZrTl82ZjJiSTJFdnlUMDF5NDJ1eUQtVnRrMTFMbDB0YXFaNWoyMGZnbmhEZVBuLWh2dFBtYTVUbURSeTNJNTdvSllBWDdyNXhkaFZUdnNuYVVBT1BGR2Y1VDRCQnl6Zk0yT2pGcEJ0SkJ4V3Y?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-26T10:19:50.000Z",
           "kind": "news"
         }
       ],
@@ -343,6 +320,29 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RRUwxVmZpaFlDMFN1emszTzlKcUl5b2VqQl85QUdSUGxGVFg3YVJGaVRfS1RhRUlzc3VwNGY0LS1WTFlua1lTV3lrZXlaYlI4eDJuSi1fWmtJRTTSAWBBVV95cUxPZlFkRXQ5Rml2ZjNFRWFuU19Ca1lDUnBZbEFpTTRxQW9hbk1adzUxbFFEQjlWbFFocUphSEhWRzk5dFltcEUtXzlJZlMzbldXTkhmREttSTQ1S0diSDF0V3E?oc=5",
           "source": "연합뉴스",
           "publishedAt": "2026-09-17T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "대전 한화에어로스페이스 폭발 사고...원인은?",
+      "span": "2026.06",
+      "monthCount": 1,
+      "articleCount": 4,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "대전 한화에어로스페이스 폭발 사고...원인은?",
+          "source": "2026.06"
+        }
+      ],
+      "articles": [
+        {
+          "title": "한화에어로스페이스 폭발사고 현장 합동감식 착수···원인 규명은 시간 걸릴 듯",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSZC1QV3JKMllHMXVaMFpxTU5nanRGUm84bGVkUXFqcEV0UHdpcEhJcUxGelp5M2NneVFHYUl3MElBQzhkZU5FclFqV21lRmlIMVhSYkVvbzI0d9IBX0FVX3lxTE1pd29Qck9hZEF3TFMtcHl2b0I0U25VU2k2WnBwZVI4YWowNERLS05PZEU2MWFueno3a1FqREFzRDFnY0lzRkx2NG13RUZYaWV6X01KOXRwc28tRkhFcmR3?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-06-02T07:00:00.000Z",
           "kind": "news"
         }
       ],

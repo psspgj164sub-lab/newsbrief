@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-26T05:05:20.430Z",
+  "updatedAt": "2026-11-26T21:17:02.423Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           4.6,
           7.4,
           9.2,
-          2.7
+          4.7
         ]
       },
       {
@@ -42,7 +42,7 @@
           3.5,
           6.6,
           4.3,
-          2.4
+          3.7
         ]
       },
       {
@@ -53,7 +53,7 @@
           3.2,
           4.9,
           3.7,
-          3.1
+          3
         ]
       },
       {
@@ -64,7 +64,18 @@
           4.6,
           4.1,
           0,
-          2.7
+          2.4
+        ]
+      },
+      {
+        "word": "철도노조",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15.5
         ]
       },
       {
@@ -76,17 +87,6 @@
           0,
           12.9,
           0
-        ]
-      },
-      {
-        "word": "철도노조",
-        "values": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          14.6
         ]
       },
       {
@@ -144,25 +144,25 @@
         "change": -100
       },
       {
-        "word": "사망",
-        "change": -50
+        "word": "하청노동자",
+        "change": -71
       },
       {
         "word": "현대차",
         "change": -100
       },
       {
-        "word": "하청노동자",
-        "change": -67
+        "word": "사망",
+        "change": -39
       }
     ]
   },
   "stats": {
-    "articles": 1255
+    "articles": 1257
   },
   "ai": false,
   "headline": "최근 6개월 노동: 「2027년 최저임금 1만700원 확정」",
-  "overview": "2026.06부터 2026.11까지 6개월치 노동 기사 1,255건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(2개월), 「1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금」(2개월), 「김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"」(2개월)입니다. 기간 후반으로 갈수록 철도노조, 준법투쟁, 대통령, 발언 언급은 늘고, 인정, 사망, 현대차 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 노동 기사 1,257건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(2개월), 「1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금」(2개월), 「김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"」(2개월)입니다. 기간 후반으로 갈수록 철도노조, 준법투쟁, 대통령, 발언 언급은 늘고, 인정, 하청노동자, 현대차 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -324,68 +324,68 @@
       "whyItMatters": ""
     },
     {
-      "title": "철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)",
+      "title": "철도노조 준법투쟁 첫날 퇴근길",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 28,
+      "articleCount": 16,
       "summary": "",
       "headlines": [
         {
-          "title": "철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)",
+          "title": "철도노조 준법투쟁 첫날 퇴근길",
           "source": "2026.11"
         },
         {
-          "title": "철도노조 준법투쟁 돌입… 일부 열차 지연 가능성 [뉴시스Pic]",
+          "title": "철도노조, 오늘부터 준법투쟁…수도권 전철 등 지연 우려",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "철도노조, '안전운행 투쟁' 돌입…승객 불편 불가피",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZZmpndXA5QWRlV2JUNmFfYVhkWmlRZXVRbEZqd0o2ZlpoaE51cmN3bVhLQnlaSmhOcVFXM3NzZDl2M0U2Nk1rNnJSbnh2RENYQUlhVW55OGJ2T0JQT1BvcA?oc=5",
-          "source": "뉴스토마토",
-          "publishedAt": "2026-11-26T04:45:05.000Z",
+          "title": "철도노조 준법투쟁 첫날 퇴근길 지연 속출…\"30분 기다린 열차 이미 만원\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82ekFqb1VMRlk0Y3Ewc0ZsdFJ2QWE2YzdwWkJJSXg2RlVxUWkxRE9raWFOS3V6bFV3NEpKV1IzbmtsRnpEVDliTkNiaVA0SnB0Qkx3bkRNeU1FZEXSAWBBVV95cUxQd09iNFI0ckxWQXR5NUh2OU5hZWFjUUhpVFpLbHRQVWwxRmxDa1ZoamszU0xvYTNrT2wyUUdWUVdkMWNHR2d1N0c0NnEyaHpod0doTWFsdGpuWWZ1elpWeDU?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-26T10:02:06.000Z",
           "kind": "news"
         },
         {
-          "title": "철도노조 준법투쟁으로 열차 지연 우려에 시민들 ‘불안’",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sMkR5UXBWS2txUGdLWHlfejFaa21rZ1N2RmpPQmZqLUVTVUljMzdNT1gwSEREb1JibG1sUnF5cTUySDJYWXFpOGdBSkhqNmFNb2c?oc=5",
-          "source": "경인일보",
-          "publishedAt": "2026-11-26T03:05:17.000Z",
+          "title": "철도노조, 오늘 오전 9시부터 준법투쟁‥일부 열차 지연 예상",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmLUFaQlkwWG9SMU1STTRWb2tsak1mTE9FdkJCNGlSYnpNcDZ6Q2YzT0lqNGJEWk9sX1YzVjNNeXJ0TmJETkc3clRESHk1X0VxeUFMZEFvREVCb0VsRjEzWVVxOW1VQ2ZVak5FY1JmVlFzeDg50gF0QVVfeXFMT0kxNWFrSFdZNWJEQ0hEb1ZJMGZvWmF0UDVuMERSMEFfMEFKVkpHa2EzZkI1Y0dIQzI2Zm1ac3Z1ME4tdGloX0lhb0V0MUYxUXpOTkJUb1dwT1pzaVk0bmhWSlFueUJuYnh3akVnYXdBaFpEd0w?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-25T23:41:23.000Z",
           "kind": "news"
         }
       ],
       "whyItMatters": ""
     },
     {
-      "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다(종합3보)",
+      "title": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 10,
+      "articleCount": 15,
       "summary": "",
       "headlines": [
         {
-          "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다(종합3보)",
+          "title": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지",
           "source": "2026.11"
         },
         {
-          "title": "서울지하철 노사 협상 타결…오늘 총파업 철회",
+          "title": "철도노조 준법투쟁에 열차 4대 운행 중지‥광역전철 235대 지연",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다(종합3보)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxeGRZSUFLQU1UUXEydTFKWTh1TWMyWjI1dzNVTlZvZjVyem0zZDQ5dkQ5OGR0S2R3LTFkM1VmUjd3Y0w4M1lFQjZGQmJyTnlsSFBhaEZiRzlYUE3SAWBBVV95cUxOUWZQM0xLQWhvd2xsZFZ5TlU1QUstRDY0RHh6OFJ4Mm93aV9iSzdid2tSMTZhYlpRNUl1LWJ4ek83VmpweHE4OTV0anVSZWtlREVMblpoWk5pR0x1Nm54ZzM?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-24T20:15:28.000Z",
+          "title": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wRy1WLWExNjFFX2o2b3oxWWxPemlBdTlmelFSYzFORWUyUXZIai04TUpnbjVCVXVPVGVsVHEySUxZRm1PTjNYMXQxRWljS3FtVmFXU0luMGZYVWNFR1laa2xXbWtKX00?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-26T12:14:00.000Z",
           "kind": "news"
         },
         {
-          "title": "서울지하철 노사 협상 극적 타결...총파업 철회",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jdEptaGpudmJ3NE5faW1oM0hIVGwyMjM3cVJxamFpZ0hfUUtGMG9obDZVbjZId0VEd3ltQzNTMWtUQXN1dHc2MlZVQ2FqOEpQbHlRaVRpMlBETUJwckE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-24T23:03:00.000Z",
+          "title": "철도노조 준법 투쟁으로 열차 4대 운행 중지·2백여 대 지연",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84TW43TVU3NEhyNlplOVpnU2RTVTQ2MnZSWndzQmIwb01sV19xQWxuNEVMeTJhc3E1bnlOR1VWbUJjdEtRSlRseE4tM2NUUWwtWFRORG8zTEJ2YVk?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T09:58:00.000Z",
           "kind": "news"
         }
       ],
@@ -460,7 +460,7 @@
     },
     {
       "date": "2026.11",
-      "event": "철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)"
+      "event": "철도노조 준법투쟁 첫날 퇴근길"
     }
   ],
   "outlook": ""

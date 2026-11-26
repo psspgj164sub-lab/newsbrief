@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-26T05:05:20.434Z",
+  "updatedAt": "2026-11-26T21:17:02.426Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           9.6,
           5.9,
           7,
-          6.9
+          7.7
         ]
       },
       {
@@ -42,7 +42,7 @@
           0,
           0,
           8.1,
-          20.6
+          20.2
         ]
       },
       {
@@ -57,17 +57,6 @@
         ]
       },
       {
-        "word": "국힘",
-        "values": [
-          3.1,
-          6.1,
-          3.5,
-          3,
-          2.2,
-          3.8
-        ]
-      },
-      {
         "word": "민주당",
         "values": [
           4,
@@ -75,7 +64,18 @@
           3.5,
           0,
           5.2,
-          4.8
+          6.6
+        ]
+      },
+      {
+        "word": "국힘",
+        "values": [
+          3.1,
+          6.1,
+          3.5,
+          3,
+          2.2,
+          3.5
         ]
       },
       {
@@ -97,7 +97,7 @@
           1.7,
           6.7,
           2.6,
-          2.7
+          2.8
         ]
       },
       {
@@ -118,23 +118,23 @@
         "change": null
       },
       {
+        "word": "대법원장",
+        "change": null
+      },
+      {
         "word": "트럼프",
         "change": null
       },
       {
-        "word": "대법원장",
-        "change": null
+        "word": "민주당",
+        "change": 88
       },
       {
         "word": "통일",
         "change": null
       },
       {
-        "word": "교체",
-        "change": null
-      },
-      {
-        "word": "중간선거",
+        "word": "외교장관",
         "change": null
       }
     ],
@@ -149,7 +149,7 @@
       },
       {
         "word": "대통령",
-        "change": -45
+        "change": -41
       },
       {
         "word": "선관위",
@@ -158,18 +158,18 @@
     ]
   },
   "stats": {
-    "articles": 1284
+    "articles": 1280
   },
   "ai": false,
   "headline": "최근 6개월 정치: 「민주유공자법, 국회 본회의 통과」",
-  "overview": "2026.06부터 2026.11까지 6개월치 정치 기사 1,284건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「민주유공자법, 국회 본회의 통과」(2개월)입니다. 기간 후반으로 갈수록 조희대, 트럼프, 대법원장, 통일 언급은 늘고, 종합특검, 지방선거, 대통령 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 정치 기사 1,280건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「민주유공자법, 국회 본회의 통과」(2개월)입니다. 기간 후반으로 갈수록 조희대, 대법원장, 트럼프, 민주당 언급은 늘고, 종합특검, 지방선거, 대통령 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
       "title": "민주유공자법, 국회 본회의 통과",
       "span": "2026.08~2026.11",
       "monthCount": 2,
-      "articleCount": 13,
+      "articleCount": 11,
       "summary": "",
       "headlines": [
         {
@@ -184,7 +184,7 @@
       "articles": [
         {
           "title": "민주유공자법 국회 통과...\"감격\" vs \"운동권특혜법\"",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaXNFTTBLRnhLRUg5TlVLNUFrY3I5U3IyeVZxbFVuNEJBNjZEVzI3Ylc2ZEx1OElsVnQxdTBEU3p3UnJaZmtGa19ESVctcjhtd1JlWTh3N3dzTl96eWNiMVlCc2Z3ZW56YjBIOTBsNA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlMDYyMFpTODNrSDdFOE40cVNCcmR4eU9uTldwR2F4RFVCYWFKXzhZUWR6WFZ5LXZFemJQS1Fwb0UyOUltZnNxNlZqTzdwTVB1QjF6Wmg4aFF1YTFiRlE?oc=5",
           "source": "YTN",
           "publishedAt": "2026-11-20T11:42:00.000Z",
           "kind": "news"
@@ -194,6 +194,40 @@
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RRC1uaWxNTEhxVUlHbWZweUF1elJwOUZlclIzc19kb3VsOWlwMGNBTElwS0dENnpxQ0NYQW41bjBQNmxJamtVb0ZPMEMxVTFiN0JjRzRMb3JucHR3VVE?oc=5",
           "source": "YTN",
           "publishedAt": "2026-08-26T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 11,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”",
+          "source": "2026.11"
+        },
+        {
+          "title": "민주당, 조희대 대법원장 탄핵 추진",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "'조희대 탄핵'에 법관회의 의장 \"행동 나서야\"...\"수령 모시나\" 반론도",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWXhheHFiSGxSMTN5U0xRUVdueFZqdVR2SzZVQXlaUUc1bFVscDF6ZERWUDIwbWlpRDBmY1E1RXdEckNJSG1vMF9oTkVOU0Q5RFNRN25neXRldG9XZVhnZ1B5UWpTRjZSdXR3UGRJaw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-23T09:45:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zM2pVcVFpaTc3TV8yV2NpOUZ5ZWFOQTVrZ2VoU2ItZ0lWUWtXQzM5Vm5yaVI4ekNaaEQyZHZFVnJGQVFtR0d5eFBVZzRVMUw5cllFc3R5WW5FZkk?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2026-11-25T09:23:22.000Z",
           "kind": "news"
         }
       ],
@@ -224,10 +258,10 @@
           "kind": "news"
         },
         {
-          "title": "李 대통령, 외교·안보라인 전면 교체…행안부 등 5개 부처 개각",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RZUR0UHlLSi1sTm1ldXpNMGFGcEg3aUFwREN6XzVvdTcwRG9GMTNtWWpOb1VGdFFZQV9wWlFySFNNSzFZNGpOMFlycHlkZ1BJWU5SclVmcGl1dw?oc=5",
-          "source": "농민신문",
-          "publishedAt": "2026-11-23T09:33:00.000Z",
+          "title": "국정원장에 강금실 지명…외교·안보라인 전면 개편",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ba2E2ejdjSEVDWkJ4S1ZxS3o1RERhMFpva0RTd21KT2RRaWswWEFmWlVvNko0MGFTWEhLV2R0R1c1cFpWN3FYMWd0QndiV3lXVi1vRXpCVHFtZ3NESE14Q0NaMkhqWlE?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-23T08:48:00.000Z",
           "kind": "news"
         }
       ],
@@ -251,52 +285,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96SVFIc3JfOXdPdnBpaTJKS3o0Z05fc3dULUhoam5FVmFYUUtJUFA3MjhuVUg2dUNFVEh3c1hMLUdnRkd1VTIxVHRzZElIWTlwRThFMFZCQ2UwU2J4WWItcFd2dklLdw?oc=5",
           "source": "KBS 뉴스",
           "publishedAt": "2026-10-30T07:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "“조희대 탄핵 찬성” 34%, “반대” 44% [NBS]",
-      "span": "2026.11",
-      "monthCount": 1,
-      "articleCount": 5,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "“조희대 탄핵 찬성” 34%, “반대” 44% [NBS]",
-          "source": "2026.11"
-        }
-      ],
-      "articles": [
-        {
-          "title": "‘대법원장 탄핵 추진’ ‘반대’ 44％, ‘찬성’ 34％[NBS]",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkxKTC1ocXJKR2tfbVhmZ2ExbUdLNDE5WlA4dmk3QkJUMjk5T3c4a01QUmVzRzQ5S3k0QWtheVdfeUVXLUhTTmJES3BFc2dBSGczT1p0OW5UNmQzTTF6SjVuejg1RVZCNzhQSndPMTZsLUpVaXNpb2VZcG9lOG5wLXJlR2dIRFdkN3l3dUpQMTBMeWs?oc=5",
-          "source": "국제신문",
-          "publishedAt": "2026-11-26T03:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "창원지법 전체 판사회의 \"법관 탄핵은 헌법 훼손\"…일선 법원 첫 반발",
-      "span": "2026.11",
-      "monthCount": 1,
-      "articleCount": 5,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "창원지법 전체 판사회의 \"법관 탄핵은 헌법 훼손\"…일선 법원 첫 반발",
-          "source": "2026.11"
-        }
-      ],
-      "articles": [
-        {
-          "title": "창원지법 판사회의 “법관 탄핵 추진은 헌법가치 훼손”",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lUnpKVU90SnNkbW5xRko2QTk4VFlRWjdQMTZWNFJlNTZ3OWkyOWhHLVdhYkRqaWlrSkRzMmkyMmFRSWxreEZfb3ZHM2tuYzZubFAtTUotcFQ3RlBCSmRCOGFEUzhGZjRqNGZWYzlwM1RnUQ?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-26T04:27:00.000Z",
           "kind": "news"
         }
       ],
@@ -343,6 +331,29 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Tnhac1FZU25uQ0V5cVBoM3VPQXdUNFloZUp1VDFnZ2VZM1dvUXN3aVQ3NTY3Ui1WNjhEay05Q09qLTg0TjIwd1N4QzVFZU80NnBSS1ZhdlM4YjDSAWBBVV95cUxOOVc1TVBoWjl1dnFXN3o0VTl3aHJjMFhwMlE4RkIxRENGSnNfbmxneUdiSVJtMHpTOE5pQ3Fyb2syM3J1VlhaXzI4YmVPS2xIRlcwRlNOOUMwZlpPcUV6Zjg?oc=5",
           "source": "연합뉴스",
           "publishedAt": "2026-08-14T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "2026년 8월 27일",
+      "span": "2026.08",
+      "monthCount": 1,
+      "articleCount": 5,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "2026년 8월 27일",
+          "source": "2026.08"
+        }
+      ],
+      "articles": [
+        {
+          "title": "2026년 8월 27일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIeXkxSFRvVDBXcHQzTWxDaFVzWlhPaHpuSDRQUDBYVmpTazZkdS1rWWRuYjhiWDNOdjVnVWlwYVM5T0ZhTl9fYTMtS3ZJRFdqZ0IxejVxSjRsX1FHZmdoYnMyLUNHRVVwcGpMTG5B0gFyQVVfeXFMTUZ6RmpaaXMwaTViOTQ5MFBiTi1FRGtxOVkzZGVGZ2JSY1kxYTVyaXl2Y1ZVSk9UN0NlZGxROU1nX1VybmgteGFiN1ZZYUtlSGJUdWhnY2lEQlVoNDFyMnhtS0lEeHN4TFREbDVrMV9EakJn?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-08-27T07:00:00.000Z",
           "kind": "news"
         }
       ],

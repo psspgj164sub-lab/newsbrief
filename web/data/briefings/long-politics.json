@@ -11,7 +11,7 @@
     "monthsAvailable": 36,
     "monthsTotal": 36
   },
-  "updatedAt": "2026-11-26T05:05:20.476Z",
+  "updatedAt": "2026-11-26T21:17:02.520Z",
   "trends": {
     "months": [
       "2023-12",
@@ -91,7 +91,7 @@
           9.6,
           5.9,
           7,
-          6.9
+          7.7
         ]
       },
       {
@@ -173,7 +173,7 @@
           4.8,
           0,
           0,
-          3.1
+          2.4
         ]
       },
       {
@@ -255,7 +255,7 @@
           3.5,
           0,
           5.2,
-          4.8
+          6.6
         ]
       },
       {
@@ -337,7 +337,7 @@
           1.7,
           6.7,
           2.6,
-          2.7
+          2.8
         ]
       },
       {
@@ -378,26 +378,26 @@
           3.5,
           3,
           2.2,
-          3.8
+          3.5
         ]
       }
     ],
     "rising": [
       {
         "word": "통과",
-        "change": 591
+        "change": 584
       },
       {
         "word": "대통령",
-        "change": 92
+        "change": 94
       },
       {
         "word": "국힘",
-        "change": 681
+        "change": 675
       },
       {
         "word": "본회의",
-        "change": 1540
+        "change": 1492
       },
       {
         "word": "종합특검",
@@ -428,18 +428,18 @@
     ]
   },
   "stats": {
-    "articles": 6668
+    "articles": 6664
   },
   "ai": false,
   "headline": "최근 3년 정치: 「'대미투자특별법' 국회 본회의 통과」",
-  "overview": "2023.12부터 2026.11까지 36개월치 정치 기사 6,668건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「'대미투자특별법' 국회 본회의 통과」(9개월), 「북한스러운 ‘북한판 이지스함’ – RFA 자유아시아방송」(6개월), 「윤석열 대통령 탄핵소추안 가결」(3개월)입니다. 기간 후반으로 갈수록 통과, 대통령, 국힘, 본회의 언급은 늘고, 검사, 이재명, 김정 언급은 줄었습니다.",
+  "overview": "2023.12부터 2026.11까지 36개월치 정치 기사 6,664건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「'대미투자특별법' 국회 본회의 통과」(9개월), 「북한스러운 ‘북한판 이지스함’ – RFA 자유아시아방송」(6개월), 「법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”」(4개월)입니다. 기간 후반으로 갈수록 통과, 대통령, 국힘, 본회의 언급은 늘고, 검사, 이재명, 김정 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
       "title": "'대미투자특별법' 국회 본회의 통과",
       "span": "2025.07~2026.11",
       "monthCount": 9,
-      "articleCount": 59,
+      "articleCount": 57,
       "summary": "",
       "headlines": [
         {
@@ -462,7 +462,7 @@
       "articles": [
         {
           "title": "민주유공자법 국회 통과...\"감격\" vs \"운동권특혜법\"",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaXNFTTBLRnhLRUg5TlVLNUFrY3I5U3IyeVZxbFVuNEJBNjZEVzI3Ylc2ZEx1OElsVnQxdTBEU3p3UnJaZmtGa19ESVctcjhtd1JlWTh3N3dzTl96eWNiMVlCc2Z3ZW56YjBIOTBsNA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlMDYyMFpTODNrSDdFOE40cVNCcmR4eU9uTldwR2F4RFVCYWFKXzhZUWR6WFZ5LXZFemJQS1Fwb0UyOUltZnNxNlZqTzdwTVB1QjF6Wmg4aFF1YTFiRlE?oc=5",
           "source": "YTN",
           "publishedAt": "2026-11-20T11:42:00.000Z",
           "kind": "news"
@@ -570,6 +570,69 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXdOcXRITDRfdmxLdkNCbHpNelMzUFpkcG84VHlTRlV2Mm9oM0xheU1xWDRwbDZtMUczWV81Y0VMYUotWjh0SGRUbVBodmh1b0hKbkFMOTdLYmxWQlF3MHFMTGJWeTBESVZjOGlQT3BTV3N1WG9JVG5IUDNwTGdxSE95MVBVRjJjUHdVZmYteU9LT2x2UUkzdlkzMmU3Qk1Oc25ZX3pCeHIxSU40aEFRYXhCMWFKMlp5?oc=5",
           "source": "Radio Free Asia",
           "publishedAt": "2024-03-23T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”",
+      "span": "2023.12~2026.11",
+      "monthCount": 4,
+      "articleCount": 23,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”",
+          "source": "2026.11"
+        },
+        {
+          "title": "민주당, 조희대 대법원장 탄핵 추진",
+          "source": "2026.11"
+        },
+        {
+          "title": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개",
+          "source": "2025.10"
+        },
+        {
+          "title": "민주당, 최재해 ‘감사원장 탄핵’ 추진…민주화 이후 처음",
+          "source": "2024.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "'조희대 탄핵'에 법관회의 의장 \"행동 나서야\"...\"수령 모시나\" 반론도",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aWXhheHFiSGxSMTN5U0xRUVdueFZqdVR2SzZVQXlaUUc1bFVscDF6ZERWUDIwbWlpRDBmY1E1RXdEckNJSG1vMF9oTkVOU0Q5RFNRN25neXRldG9XZVhnZ1B5UWpTRjZSdXR3UGRJaw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-23T09:45:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zM2pVcVFpaTc3TV8yV2NpOUZ5ZWFOQTVrZ2VoU2ItZ0lWUWtXQzM5Vm5yaVI4ekNaaEQyZHZFVnJGQVFtR0d5eFBVZzRVMUw5cllFc3R5WW5FZkk?oc=5",
+          "source": "강원일보",
+          "publishedAt": "2026-11-25T09:23:22.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "조국혁신당 ‘조희대 대법원장 탄핵소추안’ 공개",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GbHMtU3ByRVUxR0p4NHRyUWRHVXhsc3FBaEtFYU0xOVNpdGo2LV9iS3VRaXdMREhKZlp6VUR3MkkwcEFKY3pmT3dLRk1NRE9JcjZzWnhncTNtSmIybDFxTF8xNklVdm5mdXhIU1dJX0Q?oc=5",
+          "source": "매일노동뉴스",
+          "publishedAt": "2025-10-17T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "민주당, 최재해 ‘감사원장 탄핵’ 추진…민주화 이후 처음",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JcUhwbGk3dHJCTDlqalAwV0FudTItQ2ozUnhCN1JWOGFvb2FETG1tdDNsbWQtQXpZX1d4WWIwQ0lJZkw1YVo5MlYyOEYzM0oteUVhUTRvNmMzUdIBX0FVX3lxTE9TeHZvcTIzYVBYUDRHeVNVeEcxdzhoMmNGeEVUeVlEbXF5dU1fZ04za3MxaUxxOEZUVll0bWYyMThaZjBzbDVOR0RLMnBBY0dJVnRnanQ3NHc0Z2lpLUhZ?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2024-11-28T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'조희대 코트' 열린다… 국회, 대법원장 임명동의안 '가결'",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3ejBrU3dNRllkdzR6UjNRbXVaVHFBR0JWRTFfY19Hb2NDVzdjSXJwNkJkTEJxYlEzcElNSXJ3cU9yZTNuamdHQjZITWlFV3dnUUJtM3pUbE9WVThrLVhkRXVXX1duUzA3UldZai1n0gFyQVVfeXFMT2RsXzlScVpfVnp4azF1VFRJR2JZd3BOLWpvNElzbEk2NG9LUHFoMXlTSG5CS0pYXzBTN3A5ek14dHZaaHY4TDlMZ2h4T0plXzJleVkycnU1MU9lZnd1V1R4WDZsOVpSS0pkU1czT3k5VVhB?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2023-12-08T08:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -780,40 +843,6 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Id1NkWVpGbDVfOVB5NWp2ZzctUkhhc2plYnoxR3h0a3hteGVrWkdZY0VZbXNFZlVvYm1ZR183UmdIV2tIUWdZcGloTnp5T21fSkY2R1BONktQNm10dm9keXdoaEhVaDdlYWZqUXdn0gFyQVVfeXFMTkpCNVBJR3pJbDgyOU1pc1dIdFR3ZVd4dHhENUkteGtGc041UU1xLTJrdkkzZGI5alJ0TDZyOE9fc0oyQ2M1VnV1NEp5WXRDdEc2cTdQMjJLV21MSk00RzFBbE00MWZ5U0FPM2hOMnJrNG53?oc=5",
           "source": "법률신문",
           "publishedAt": "2025-07-19T07:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "종합특검, '양평고속도로 의혹' 원희룡 압수수색",
-      "span": "2025.08~2026.07",
-      "monthCount": 2,
-      "articleCount": 6,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "종합특검, '양평고속도로 의혹' 원희룡 압수수색",
-          "source": "2026.07"
-        },
-        {
-          "title": "김건희 특검, ’양평 특혜 의혹’ 양평군청 등 압수수색 착수",
-          "source": "2025.08"
-        }
-      ],
-      "articles": [
-        {
-          "title": "종합특검, '양평고속도로 의혹' 원희룡 전 장관 내달 6일 재소환",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZZ1NmdWtwcEdNUDZLaTBVdEQ0VnFaNmxMMUNKb1kwUGVzTFNRc2RXWXNxeC1xUUNLbmQ0aXNWUjRBUUJfb2FzLUIzSkRld2RRZXluZFVvZXJXZFhZc1BacmdNVmdoRTFJQy1PMktXN09mOHM0QzFr0gF3QVVfeXFMTzQzMnh0WW5IdHlpZGhaa0xXb3hpeVNJODRfVllEcW00ZThLVmNNcEdwN3E4UmV6RzRWRGFUX1NGNDFGVVIwcjBLLTdzd05hV0JoQ1QyanozZm1ZT3pWZUdBUXAzdnptb2tTTDkxZ2o4VlZEQ1Y1MUE?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-07-29T07:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "김건희 특검, ’양평 특혜 의혹’ 양평군청 등 압수수색 착수",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aLWxYbjlVTjF6bTNyYWxnOVpPUHVkTDJNeWFLcWQ4OENKNXhidzBQSDJhMmhGaUIzcWxuR2dULUdwMVRfbWs3blAyLUQ3MGU4QTExWjUwdUJtMEZ2dHhEdzByZFNkU2s?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2025-08-22T07:00:00.000Z",
           "kind": "news"
         }
       ],
