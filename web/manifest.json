@@ -21,6 +21,7 @@
     { "name": "노동 단기 브리핑", "short_name": "노동", "url": "./#/domestic/short/labor", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
     { "name": "경제 단기 브리핑", "short_name": "경제", "url": "./#/domestic/short/economy", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
     { "name": "해외 브리핑", "short_name": "해외", "url": "./#/world", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "오늘의 사설 비교", "short_name": "사설", "url": "./#/editorials", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
     { "name": "보도자료", "short_name": "보도자료", "url": "./#/press", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
   ]
 }

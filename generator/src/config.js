@@ -91,6 +91,19 @@ export const WORLD_REGIONS = {
   africa: { label: '아프리카', terms: '아프리카 OR 나이지리아 OR 수단 OR 에티오피아 OR 남아공', naver: '아프리카' },
 };
 
+// ── 사설 비교: 신문 목록 (화면에 이 순서대로 표시) ────────────────
+// domain: 구글뉴스 site: 검색과 네이버 결과 걸러내기에 씀
+// editorialPath: 이 문자열이 기사 주소에 있으면 제목에 [사설]이 없어도 사설로 인정 (주소로 확인된 것만)
+export const EDITORIAL_PAPERS = [
+  { id: 'chosun', label: '조선일보', domain: 'chosun.com' },
+  { id: 'donga', label: '동아일보', domain: 'donga.com' },
+  { id: 'joongang', label: '중앙일보', domain: 'joongang.co.kr' },
+  { id: 'hani', label: '한겨레', domain: 'hani.co.kr', editorialPath: '/opinion/editorial/' },
+  { id: 'khan', label: '경향신문', domain: 'khan.co.kr' },
+  { id: 'hankook', label: '한국일보', domain: 'hankookilbo.com' },
+  { id: 'imaeil', label: '매일신문', domain: 'imaeil.com' },
+];
+
 export const LIMITS = {
   shortTopics: 10, // 단기 브리핑 이슈 수
   monthTopics: 8, // 월간 요약 이슈 수

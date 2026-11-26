@@ -1,7 +1,7 @@
 // 디자인 미리보기용 예시 데이터 (실제 뉴스 아님): npm run sample → npm run serve
 // 실제 데이터는 `npm run daily` 가 덮어씁니다.
 import path from 'node:path';
-import { CATEGORIES, PERIODS, WORLD_REGIONS, WORLD_THEMES } from './config.js';
+import { CATEGORIES, EDITORIAL_PAPERS, PERIODS, WORLD_REGIONS, WORLD_THEMES } from './config.js';
 import { WEB_DATA, kstDate, lastMonths, writeJSON } from './lib/util.js';
 
 const now = new Date().toISOString();
@@ -96,6 +96,17 @@ await writeJSON(path.join(WEB_DATA, 'press.json'), {
   updatedAt: now,
   items: Object.keys(CATEGORIES).flatMap((c, i) => [{ ...art(i + 1, 'press'), category: c }]),
 });
+const edItem = (p, t) => ({ paper: p.id, paperLabel: p.label, title: t, link: 'https://news.google.com/', snippet: '', publishedAt: now });
+const edByPaper = Object.fromEntries(EDITORIAL_PAPERS.map((p, i) => [p.id, [edItem(p, `예시 사설 제목 — 주제 A에 대한 ${p.label}의 사설`), edItem(p, `예시 사설 — ${p.label}만 다룬 주제`)]]));
+await writeJSON(path.join(WEB_DATA, 'editorials.json'), {
+  updatedAt: now,
+  date: kstDate(),
+  papers: EDITORIAL_PAPERS.map((p) => ({ id: p.id, label: p.label, count: 2 })),
+  common: [{ label: '예시 주제 A', paperCount: EDITORIAL_PAPERS.length, items: EDITORIAL_PAPERS.map((p) => edByPaper[p.id][0]) }],
+  byPaper: edByPaper,
+  weekly: { from: kstDate(), to: kstDate(), days: 1, papers: EDITORIAL_PAPERS.map((p) => ({ id: p.id, label: p.label, count: 2, keywords: [{ word: '예시', count: 2 }] })) },
+});
+
 await writeJSON(path.join(WEB_DATA, 'meta.json'), {
   updatedAt: now,
   date: kstDate(),

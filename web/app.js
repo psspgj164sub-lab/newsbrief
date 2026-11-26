@@ -68,6 +68,7 @@
     const last = store.get('last', {});
     if (tab === 'world') return { tab, region: a || last.region || 'northAmerica' };
     if (tab === 'press') return { tab, cat: a || 'all' };
+    if (tab === 'editorials') return { tab, view: a === 'week' ? 'week' : 'today' };
     return {
       tab: 'domestic',
       period: PERIODS.some((p) => p.id === a) ? a : last.period || 'short',
@@ -293,6 +294,90 @@
     }
   }
 
+  // ── 사설 비교 ───────────────────────────
+  function edRow(e) {
+    return `<a class="ed-row" href="${esc(e.link)}" target="_blank" rel="noopener noreferrer">
+      <span class="paper">${esc(e.paperLabel)}</span>
+      <span class="ed-body"><span class="ed-title">${esc(e.title)}</span>${e.snippet ? `<span class="ed-snip">${esc(e.snippet)}</span>` : ''}</span>
+    </a>`;
+  }
+
+  async function renderEditorials({ view }, fresh) {
+    const controls = `<div class="controls"><div class="segment two" role="tablist" aria-label="기간">
+      <button role="tab" aria-selected="${view === 'today'}" data-go="#/editorials/today"><b>오늘</b><small>사설 나란히 보기</small></button>
+      <button role="tab" aria-selected="${view === 'week'}" data-go="#/editorials/week"><b>최근 7일</b><small>신문별 자주 다룬 단어</small></button>
+    </div></div>`;
+    $view.innerHTML = controls + skeleton();
+
+    let d;
+    try {
+      d = await getJSON('data/editorials.json', { fresh });
+    } catch (e) {
+      $view.innerHTML = controls + errorBox(e.message);
+      return;
+    }
+    const total = d.papers.reduce((n, p) => n + p.count, 0);
+    const coverage = `<div class="paper-chips">${d.papers
+      .map((p) => `<span class="${p.count ? '' : 'off'}">${esc(p.label)} <b>${p.count ? `${p.count}편` : '수집 안 됨'}</b></span>`)
+      .join('')}</div>`;
+
+    if (view === 'week') {
+      const w = d.weekly;
+      $view.innerHTML =
+        controls +
+        `<section class="hero">
+          <div class="kicker"><span class="badge cat" style="--chip-color:var(--accent)">사설</span><span class="badge">최근 ${w.days}일</span><span class="badge">${esc(fmtRange({ from: w.from, to: w.to }))}</span></div>
+          <h2>신문별로 자주 다룬 단어</h2>
+          <p>최근 ${w.days}일 동안 각 신문 사설 제목에 자주 나온 단어입니다. 같은 기간 어떤 신문이 어떤 주제에 무게를 뒀는지 비교해 볼 수 있습니다.</p>
+        </section>
+        <div class="section">${w.papers
+          .map(
+            (p) => `<div class="card ed-week"><div class="ed-week-head"><span class="paper">${esc(p.label)}</span><span class="sub">사설 ${p.count}편</span></div>
+              ${p.keywords.length ? `<div class="kw">${p.keywords.map((k) => `<span>${esc(k.word)}<b>${k.count}</b></span>`).join('')}</div>` : '<p class="theme-summary">모인 사설이 적어 아직 보여줄 단어가 없습니다.</p>'}
+            </div>`,
+          )
+          .join('')}</div>
+        <p class="foot">자료가 하루씩 쌓이면서 7일치가 채워집니다. 숫자는 그 단어가 들어간 사설 수입니다.</p>`;
+      return;
+    }
+
+    $view.innerHTML =
+      controls +
+      `<section class="hero">
+        <div class="kicker"><span class="badge cat" style="--chip-color:var(--accent)">사설</span><span class="badge">${esc(String(d.date).replace(/-/g, '.'))}</span></div>
+        <h2>오늘의 사설 비교</h2>
+        <p>7개 신문 사설 ${total}편 중 두 신문 이상이 함께 다룬 주제는 ${d.common.length}개입니다. 같은 주제를 신문마다 어떻게 제목 붙였는지 나란히 놓았습니다.</p>
+        <div class="meta">${esc(stamp(d.updatedAt))} · 자동 정리</div>
+      </section>
+      <div class="section">${coverage}</div>
+      <div class="section"><h2 class="section-title">같은 주제, 신문별 사설</h2>
+        ${
+          d.common.length
+            ? d.common
+                .map(
+                  (g) => `<article class="card ed-group">
+                    <div class="ed-group-head"><h3>${esc(g.label)}</h3><span class="sub">${g.paperCount}개 신문</span></div>
+                    ${g.items.map(edRow).join('')}
+                  </article>`,
+                )
+                .join('')
+            : '<div class="empty">오늘은 여러 신문이 함께 다룬 주제를 찾지 못했습니다.</div>'
+        }
+      </div>
+      <div class="section"><h2 class="section-title">신문별 오늘 사설</h2>
+        ${d.papers
+          .map((p) => {
+            const list = d.byPaper[p.id] || [];
+            return `<details class="card ed-paper"${list.length ? '' : ' disabled'}>
+              <summary><span class="paper">${esc(p.label)}</span><span class="sub">${list.length ? `${list.length}편` : '수집 안 됨'}</span></summary>
+              ${list.map(edRow).join('')}
+            </details>`;
+          })
+          .join('')}
+      </div>
+      <p class="foot">제목과 주요 단어로 자동으로 묶었습니다. 제목이 많이 다르면 같은 주제라도 따로 보일 수 있습니다. 전문은 각 신문 페이지에서 읽어 주세요.</p>`;
+  }
+
   // ── 렌더 ─────────────────────────────
   async function render(fresh = false) {
     const route = parseRoute();
@@ -302,6 +387,7 @@
     });
     if (route.tab === 'world') await renderWorld(route, fresh);
     else if (route.tab === 'press') await renderPress(route, fresh);
+    else if (route.tab === 'editorials') await renderEditorials(route, fresh);
     else await renderDomestic(route, fresh);
   }
 

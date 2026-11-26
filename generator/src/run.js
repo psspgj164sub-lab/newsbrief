@@ -9,6 +9,7 @@ import { buildShort } from './steps/short.js';
 import { buildMonth } from './steps/monthly.js';
 import { buildTrend } from './steps/trend.js';
 import { buildRegion } from './steps/world.js';
+import { buildEditorials } from './steps/editorials.js';
 
 const cats = Object.keys(CATEGORIES);
 const only = process.argv.find((a) => a.startsWith('--only='))?.split('=')[1]; // 예: --only=short,world
@@ -68,6 +69,12 @@ async function main() {
       await writeJSON(path.join(WEB_DATA, 'world', `${r}.json`), data);
       status[`world-${r}`] = data.ai;
     });
+  }
+
+  // 4-1) 사설 비교
+  if (want('editorials')) {
+    const data = await buildEditorials();
+    await writeJSON(path.join(WEB_DATA, 'editorials.json'), data);
   }
 
   // 5) 보도자료 모음 (단기 브리핑에서 수집한 것 합치기)

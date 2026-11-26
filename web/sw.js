@@ -2,7 +2,7 @@
 // - 앱 화면(셸)은 미리 캐시 → 오프라인에서도 열림
 // - data/*.json 은 네트워크 우선 → 실패하면 마지막으로 받은 브리핑
 // 앱 파일(index.html, app.js, styles.css 등)을 고치면 VERSION 을 올리세요.
-const VERSION = 'v1.1.0';
+const VERSION = 'v1.2.0';
 const SHELL = `shell-${VERSION}`;
 const DATA = 'data-v1';
 const RUNTIME = `runtime-${VERSION}`;

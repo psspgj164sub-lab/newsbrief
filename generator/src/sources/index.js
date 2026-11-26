@@ -39,6 +39,7 @@ export async function fetchGoogle(q, opts = {}) {
       const src = typeof it.source === 'object' ? it.source?._ : it.source;
       return {
         title: cleanTitle(s.title),
+        rawTitle: s.title, // [사설] 같은 꼬리표를 판별할 때 씀
         link: it.link,
         source: src || s.source || 'Google News',
         publishedAt: it.isoDate || null,
@@ -83,6 +84,7 @@ export async function fetchNaver(query, { display = 100 } = {}) {
     const json = await res.json();
     return (json.items || []).map((it) => ({
       title: cleanTitle(stripHtml(it.title)),
+      rawTitle: stripHtml(it.title),
       link: it.originallink || it.link,
       naverLink: it.link,
       source: sourceFromUrl(it.originallink || it.link),
