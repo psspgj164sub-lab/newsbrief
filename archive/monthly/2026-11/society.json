@@ -2,7 +2,7 @@
   "month": "2026-11",
   "category": "society",
   "ai": false,
-  "builtAt": "2026-11-25T23:34:49.205Z",
+  "builtAt": "2026-11-26T05:05:16.571Z",
   "articleCount": 296,
   "summary": "",
   "topics": [
@@ -39,31 +39,31 @@
     },
     {
       "ref": "2026-11#t1",
-      "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
+      "title": "교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
       "summary": "",
       "importance": 5,
-      "articleCount": 5,
+      "articleCount": 7,
       "sourceCount": 5,
       "articles": [
         {
-          "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV0hXSUtKY1laMF82QW0wSGtsLXVZYk5BUXMxSTdVRkZUNHpoTjZQOVJuZDdnYVc0dS1LeDhkdmF3UndBN2lwMFdzREhkbGFvUFEycEUydE5rbEdJZG80OFhLVXgxdkk?oc=5",
+          "title": "교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPaXNpNTRDZEtEOHB5WUpsQkVnRkhwVWlQLWxocEtRSUFZNnp6LVNiZWV5QU0ybTBLalBsNFlBaHptT0xhaUFfSWU5SnJDdXdWMXh1VzFoQmVoODDSAWBBVV95cUxOaEdVMGpYb1BRcmVXa3FLMzFNc0hOal8waTFScURiMmRUOXhyMklaOHF6Uk4xc2pIaTZTVG16MUQ4V3hVeGxrdGxobEJnWEhIU1pFbWowYktkZGwwb2RIelA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-19T02:24:06.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "교육차관 \"위급재난문자로 부정행위 22명 적발…첨단기기 사용은 아냐\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94T0I3V1pMaE0zN0VjbDloZnRoYVMxOWdrR0lGNklUVnlHeGtPMGgwd080ZFphSklrcXZhWmNiWkUtM2RhZ1dnUWhCcUZkSXd0U0VYZXdycWFuekJSQktxTmtEN0VIcTA?oc=5",
           "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T07:49:00.000Z",
+          "publishedAt": "2026-11-19T02:07:00.000Z",
           "kind": "news"
         },
         {
-          "title": "경찰, '이진우 과외선생' 조사...\"진실 묻히면 안돼\"",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ITWFVTHIxaXlRY2tyeDNDckNLVEt3NGNKV1NUeGpUY0cxTzlCWXpvSUYwNmVXSG55a2FTS2dEVXdodWNjcmlBRjV6TDd1b0hwOE45UUNVSzJGdjBlRUE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-25T06:54:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajFYeGFJNUtLTTlqaVdnMXZGS1c4TFhsa0syZmFmS1hVQ2EyMDJteXhmYXdhNk5sU2ZTSU1ZWjZjclYxNjJSTnVXV3lVZFhiR2htaC1FZWZSbEtaTkJVUFpRT0hSNTh5VXdKdHJqUWF4ZVdvTlJRd0dlNDF6NElvMHRWaExHc19CMk1QYVd4QWE?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-25T05:37:32.000Z",
+          "title": "교육부 \"수능 위급 재난문자 발송으로 22개 스마트폰 적발\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxeWZjdGhOWGRNZWU0NklXQmVJdFlmZl9qek1Uck9fb2xPd2pBNTdEZkJHcnEydWtLcjR4aUpDM21Jb3lzOENBYUFoZVNNV1pxQm53Yg?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2026-11-19T02:06:00.000Z",
           "kind": "news"
         }
       ]
@@ -101,40 +101,9 @@
     },
     {
       "ref": "2026-11#t3",
-      "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
-      "summary": "",
-      "importance": 4,
-      "articleCount": 3,
-      "sourceCount": 3,
-      "articles": [
-        {
-          "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xSW5ZZWVaVmVPUjI1cklnc1J6dXZkaVc0RHRZNWpjSGNNY0ZobFhIQlNiYXpkaUtMNDlVcWZqNW1BbGRpRE9KdHFkc0FiZ2dmVEhVdkdiOVVPUnludnpGTFBjVmNSaFJCZGtzSUZpM1hvVEJiZFJ5M9IBeEFVX3lxTFB2R3Z2ZmdxbG1SZWN6a3NBdmxSZnBlOVVsZ01qaGU2VXBySVliQjAyVjRFcDY0SktJb2puR1A0d1U5eUJRd3BxM3VGYWFrUE5NNllOS1l4UDFHeWRvdzkxTDdNbFdQNTFrQ3F0NGpVb1JNanNmb1BiNw?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-25T00:10:30.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kNWU5LUlvTnhRUnhwYXZ4bzVES2kycDZkeFJjUFplWlBKS1BMQWpFeGc0UDBXUnFoT056SWYxT2VWTnFsYXR6LTl5Q0hvTUlzU1Q1Yw?oc=5",
-          "source": "JTBC",
-          "publishedAt": "2026-11-24T23:21:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "이 대통령, ‘5·18 진압 경찰’ 포상취소에 “너무 당연한 조치···역사 교정은 계속될 것”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjTG5NTGRYQmR1T09VSUVQOTlhTVNuRkZkdm5qazB6S1Rmd0pJQ0JUbVN0ZmRyYzZaemJWTU5CSnlSdXA2UXB2SVJNaTBaLXFRV3JHenRRM2UtZ9IBX0FVX3lxTE56UXpqcW9Iamdfcnc3RTVTbGpOaXl2cjZQTHhQX2dqNHg2RkpOU1lwdFJiSHYzVjlFWWlKa2hCOWhIdEdJaC1DNHk0UWM4c1ZlVzU3dm5jR1A4Z2RTTU5j?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-24T22:21:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t4",
       "title": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결",
       "summary": "",
-      "importance": 3,
+      "importance": 4,
       "articleCount": 3,
       "sourceCount": 3,
       "articles": [
@@ -162,87 +131,104 @@
       ]
     },
     {
+      "ref": "2026-11#t4",
+      "title": "이 대통령 \"수능 중 재난문자로 방해 시 그만큼 시간 연장 검토\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "이 대통령 “수능 중 재난문자로 방해받으면 시간 연장 검토”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbUhId3JVbER6TEtuSGtMcklvWHozS2xxajBoZXM5ZDk0bzZiRHN5dHRKMGcxRG1qMUpnRzROQjZ2ZTlCc0FrR0J6bklhX1Y4MzRFZFBLMTA3ZzhJMW1pb2tSNWg1cm02QmJBd1QwMlRLNklr?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-18T05:18:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이 대통령 \"수능 중 재난문자로 방해 시 그만큼 시간 연장 검토\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMZWhZaFA0eDQ5bTBzck84aXhWdkxnLVN4SHV2dHpIMWpOd1N5MTIxNVdJNjZFcHFfZ0lzb0ZBdVpCYWtXQmp5QXVfVWhiRzVDSTl3ajg3X3lUaDQ2eUNtaEhHQkZldkJma1E3ZEotNWhvT0F4Ul9HMdIBeEFVX3lxTE5xVjlXSm8tanc3enR6d0IzdkxPaFBuZHRSQm9IYVoyRHdxcW1jWjZTZkRVV0JGVG9MVFhtc1RyQWVERXJZMTNKVzhDMk9LdlFQcGxxQllQZUlfdF9QeXJ3YWtYWkIwMi1HT2preldGdkFGLUQ0QXpyYw?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-17T23:41:52.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "李대통령 \"수능中 재난문자로 시험방해시 그만큼 시간연장 검토\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwd2hhNFZuWlJURGtCMmhKc2tQMWdSemV6ZW1PR3k3dzR1TVY1T2toMUtJMy1CVnpkdVd4VTVXRkliNGh3QTg4UzB0ZDk2ZDB4ZU5VWjRPb2NUc2_SAWBBVV95cUxPNXJSU0JiY28xS2RsVWRmempjTEJocWs2ZDRlLWd5SUFIVldYVExOS2xMMzVqV184OU1Za0FvYmg4U3VhNEJiMU0xT3FsTGZYdE9OVGVmbGxJMWZycHI2OGQ?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-17T23:30:44.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
       "ref": "2026-11#t5",
-      "title": "‘운전자 바꿔치기’ 현직 경찰관 조언 의혹 경찰 간부 2명 감찰",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 3,
-      "sourceCount": 2,
-      "articles": [
-        {
-          "title": "‘운전자 바꿔치기’ 현직 경찰관 조언 의혹 경찰 간부 2명 감찰",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BOWQ2MDdGLTZWaE4wRmV0RXpTelBhNDMzRGJOWFdxSVpIYjJlTzVDNFFTbnRuUkU2UmtZd2JWSTNoY1UzLVR4TVY5ak5DMk9lV3ZJTUpqRXZ0MGs?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T13:47:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "음주사고에 '운전자 바꿔치기' 조언 의혹…감찰 착수",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13Vkp4QUFscUpGUnl4c1VTXzBhbzUxb0FrUDFObHZLZmxEaFdFVVprTEJxVXJNOUtDc1ZBMXhZSzRwMkExMXVPUHVocEM1bnpRWmFMdWpGN3c1ZTQycHp0VW5n?oc=5",
-          "source": "KBC광주방송",
-          "publishedAt": "2026-11-25T12:14:44.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "‘음주 뺑소니’ 경찰에게 조언 의혹 경찰 간부 2명 감찰",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55aEs0aVhkRjR0UEJocGxucnVIS2h3dEtOQWw1YmJtSy00LTNnR3VhaUlDUFR0cUlYb3ZzQl85cXlHWjB3Y1piUGhWWWtYWWdCd1VkTV9RNGJIRDg?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T12:53:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t6",
-      "title": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 3,
-      "sourceCount": 2,
-      "articles": [
-        {
-          "title": "'만취 음주 운전' 고경표, 경찰 조사…울먹이며 \"무책임한 모습 죄송\"",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JdVFSeTdjWU9MS2pFV2RhRWgtOVpWdXFZZkMyanViaEhhLWNlT0EyMWhSUklTWmRlYzM0RnJaOTVXNEhxRUw3Q21yT3B0bFkzTkdXR2t5cmpPYUNXcEE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-24T01:01:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JbUZhRkJFMnBJcjRiNnBkSVZkdzV2eC14VW55SDNCeHJ0NUsxckdqY3hYQ2ktTlY5bGNZYWxMU0daNndIOGlRTVJQMzl4REFtYVBHVzlxa2pmTFc0cHAxWVdockhGQQ?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-23T21:12:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "'음주운전' 고경표 첫 경찰 소환조사...\"무책임한 모습\"",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwSmdJYnBra0dkUkVNRm04dDYwN0hReFBJZzRERUxyY2JUN2d0VW9pYWdTeDRVdGZuQm91eGs4RmtYbW9TVXVkR2JMR1lpMUw5NDlvbnIxMUxnMmx2Zmc?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-23T11:02:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t7",
-      "title": "이진우 과외교사 경찰 출석…세무사 감독관들 줄조사",
+      "title": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
       "summary": "",
       "importance": 3,
       "articleCount": 2,
       "sourceCount": 2,
       "articles": [
         {
-          "title": "이진우 과외교사 경찰 출석…세무사 감독관들 줄조사",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmOF9DMlFvQks5SFdZM19DRU1CdXZwM1JhNURjN0djOEE0SHFadUIyMjFhQS1DN0U0d01hMW1CZnZIY1lHWERvVmxHRkE4VTZZTi1sVWNkN3RyR2ZDcU9GcmJmMXE3UDQ?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T13:00:00.000Z",
+          "title": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMkFXQ1hzQTh2MVpsQWZKV0dLakpHRDlaRnlxZTI3VDNtazVkcEdYMldmZnRITFo3d25FdmJTemVUOEhTYnZqTWRHRWw5cTY3Wkdld1h4T1BJdVNnMVllb2NHR2xZdWhEbWliU0gzX056MHdULUhB0gF3QVVfeXFMT2lMbmUxMmVYdWNiUzBZN0xwdzNWZkhoNHZ0MU1sU0VCdS11a0I1bHpqeGlZZVZqbnlrZWxsbzlfVnU1aGViSVNZTldrT0lIQnJyMDF0QktzQmx3RlA4OUM3YmF4MlE0RVBWN09DQXNTS2pGMVM4ZE0?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T02:33:31.000Z",
           "kind": "news"
         },
         {
-          "title": "‘이진우 과외교사’ 경찰 출석하며 \"명복을 빕니다, 하지만\"",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdjZFMS1paFRjZzkzZk1lbllrd1FsVnFNVUpyMUtNRjVNa1l4OE1IWEFUcHp2d25ZUHR5ZEZnVzdOSERZZDBwaDB0RUFLRm00NHdzbQ?oc=5",
-          "source": "JTBC",
-          "publishedAt": "2026-11-25T10:14:00.000Z",
+          "title": "경찰, ‘리트 만점자’ 집·수능시험지 보관 고등학교 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tZER3RmJiRXBEQXNvdzNIVmY2RUJrYXdDRi1mcnJWVGF2X1hNMUlidGFkZUhaYVVRRFlPRjhPbTIxUlBQSFgwV002V1V3SktwNDVQSGFocVdTUmlsamtZQ21GUHJVUQ?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-26T02:06:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t6",
+      "title": "영등포소방서, 단독주택 화재 안전조치… 주민이 ‘보이는 소화기’로 진화",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "영등포소방서, 단독주택 화재 안전조치… 주민이 ‘보이는 소화기’로 진화",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE55ejg4amN6UEYybmcwdkdOYkVHYm5qc1FHQU4xbHIzcmhFbVhBWGNfYUZPclBJdFBBUFU5NHBsNERSUmZ6?oc=5",
+          "source": "소방방재신문",
+          "publishedAt": "2026-11-25T09:06:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "둔산소방서, 아파트 단지 화재 안전조치… 목격자가 소화기로 진화",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBROHRaUnp4X3U1VXZGTDBDMGllZnp3azVaS1g0MGp6M2JKMEZ3b1ZlT0c5eTQtS1ByU1BHUGtiR2xoTXYzX2c?oc=5",
+          "source": "FPN-소방방재신문",
+          "publishedAt": "2026-11-02T08:00:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t7",
+      "title": "‘2026년 전국사회복지나눔 유공자 시상식’ 성료… 168명 포상",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 2,
+      "sourceCount": 2,
+      "articles": [
+        {
+          "title": "‘2026년 전국사회복지나눔 유공자 시상식’ 성료… 168명 포상",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkS1V1ampDekNTSVNzVjdrT2NRQk5rWE9yVjZqMjl1cnBWVkJDUE5uaVUxWDdBdXB2X0phcjBUWVoyckQ4bmk0emEwakYtRGFKOWVpZDFoVnBMeWJSczZCQ1VYU3gyY0pyc0RaXw?oc=5",
+          "source": "복지타임즈",
+          "publishedAt": "2026-11-25T08:33:36.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "보이지 않는 곳의 헌신이 빚은 복지 안전망…‘2026 전국사회복지나눔 유공자 시상식’ 개최",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leVV5U2t3am4xS1paY0hzc1NKeU5faHZ1ZmsyZ1VXX3hCOEhHaTBLajhTRjc1OWJaMDJxTk9XMXl4ZmRieURhYl9ITktOSkJSV2YxdEw3b0RZX1pLQ2RrQ0lHQUJaYS01ZW5DV1hVQ3BJWUHSAXNBVV95cUxNZXlVeVNrd2puMUtaWmNIc3NTSnlOX2h2dWZrMmdVV194QjhIR2kwS2o4U0Y3NTliWjAycU5PVzF5eGZkYnlEYWJfSE5LTkpCUldmMXRMN29EWV9aS0Nka0NJR0FCWmEtNWVuQ1dYVUNwSVlB?oc=5",
+          "source": "시사저널",
+          "publishedAt": "2026-11-25T08:21:43.000Z",
           "kind": "news"
         }
       ]
@@ -250,15 +236,23 @@
   ],
   "keywords": [
     {
-      "word": "한덕수",
-      "count": 18
+      "word": "수능",
+      "count": 22
     },
     {
       "word": "탄핵",
       "count": 17
     },
     {
-      "word": "리트",
+      "word": "재난문자",
+      "count": 16
+    },
+    {
+      "word": "한덕수",
+      "count": 16
+    },
+    {
+      "word": "적발",
       "count": 13
     },
     {
@@ -266,36 +260,32 @@
       "count": 13
     },
     {
-      "word": "AI",
-      "count": 12
-    },
-    {
-      "word": "만점자",
-      "count": 11
-    },
-    {
-      "word": "수사",
-      "count": 11
-    },
-    {
       "word": "부정행위",
       "count": 11
     },
     {
-      "word": "의혹",
+      "word": "위급재난문자",
       "count": 10
     },
     {
-      "word": "조사",
+      "word": "AI",
+      "count": 10
+    },
+    {
+      "word": "발송",
       "count": 9
     },
     {
-      "word": "이진우",
+      "word": "리트",
       "count": 9
     },
     {
-      "word": "취소",
-      "count": 9
+      "word": "겨울철",
+      "count": 8
+    },
+    {
+      "word": "만점자",
+      "count": 8
     },
     {
       "word": "개최",
@@ -306,35 +296,27 @@
       "count": 8
     },
     {
-      "word": "교사",
+      "word": "사망",
       "count": 7
     },
     {
-      "word": "수능",
-      "count": 7
-    },
-    {
-      "word": "출석",
-      "count": 7
-    },
-    {
-      "word": "무죄",
-      "count": 7
+      "word": "멀티미디어",
+      "count": 6
     },
     {
       "word": "대통령",
       "count": 6
     },
     {
-      "word": "사망",
+      "word": "교육장관",
       "count": 6
     },
     {
-      "word": "적발",
+      "word": "취소",
       "count": 6
     },
     {
-      "word": "책임",
+      "word": "무죄",
       "count": 6
     },
     {
@@ -346,27 +328,27 @@
       "count": 6
     },
     {
-      "word": "대법원",
-      "count": 6
-    },
-    {
-      "word": "고경표",
+      "word": "예방",
       "count": 5
     },
     {
-      "word": "전국",
+      "word": "교통사고",
       "count": 5
     },
     {
-      "word": "확인",
+      "word": "스마트폰",
       "count": 5
     },
     {
-      "word": "교육장관",
+      "word": "지연",
       "count": 5
     },
     {
-      "word": "새만금공항",
+      "word": "수사",
+      "count": 5
+    },
+    {
+      "word": "책임",
       "count": 5
     },
     {
@@ -374,23 +356,23 @@
       "count": 5
     },
     {
-      "word": "과외",
+      "word": "항소",
+      "count": 5
+    },
+    {
+      "word": "전국",
       "count": 4
     },
     {
-      "word": "참고인",
+      "word": "무효",
       "count": 4
     },
     {
-      "word": "재난문자",
+      "word": "정부",
       "count": 4
     },
     {
-      "word": "조치",
-      "count": 4
-    },
-    {
-      "word": "교통사고",
+      "word": "화재예방",
       "count": 4
     },
     {
@@ -398,19 +380,27 @@
       "count": 4
     },
     {
-      "word": "현직",
-      "count": 4
-    },
-    {
-      "word": "개선",
-      "count": 4
-    },
-    {
       "word": "함께",
+      "count": 4
+    },
+    {
+      "word": "복지급여",
+      "count": 4
+    },
+    {
+      "word": "최교진",
+      "count": 4
+    },
+    {
+      "word": "반환",
       "count": 4
     }
   ],
   "keyEvents": [
+    {
+      "date": "11.18",
+      "event": "교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\""
+    },
     {
       "date": "11.19",
       "event": "유엔 최고법원, 미얀마 로힝야 집단학살 인정… 국가 대상 첫 제노사이드 유죄 판결"
@@ -424,12 +414,8 @@
       "event": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\""
     },
     {
-      "date": "11.24",
-      "event": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석"
-    },
-    {
-      "date": "11.25",
-      "event": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\""
+      "date": "11.26",
+      "event": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서"
     }
   ]
 }

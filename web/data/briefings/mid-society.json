@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-25T23:34:52.162Z",
+  "updatedAt": "2026-11-26T05:05:20.437Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           2.7,
           2.4,
           7.7,
-          2
+          2.4
         ]
       },
       {
@@ -42,18 +42,7 @@
           7.3,
           0,
           4.2,
-          4.1
-        ]
-      },
-      {
-        "word": "수사",
-        "values": [
-          2.9,
-          3.3,
-          2,
-          2.4,
-          2.4,
-          3.7
+          3.4
         ]
       },
       {
@@ -68,6 +57,17 @@
         ]
       },
       {
+        "word": "수사",
+        "values": [
+          2.9,
+          3.3,
+          2,
+          2.4,
+          2.4,
+          1.7
+        ]
+      },
+      {
         "word": "판결문",
         "values": [
           6.3,
@@ -79,25 +79,14 @@
         ]
       },
       {
-        "word": "취소",
+        "word": "정부",
         "values": [
-          4.3,
-          2.2,
+          1.4,
           0,
-          0,
-          0,
-          3
-        ]
-      },
-      {
-        "word": "책임",
-        "values": [
-          2.4,
-          0,
-          0,
-          4.7,
-          0,
-          2
+          2,
+          2.9,
+          1.8,
+          1.4
         ]
       },
       {
@@ -110,11 +99,22 @@
           2.4,
           2
         ]
+      },
+      {
+        "word": "책임",
+        "values": [
+          2.4,
+          0,
+          0,
+          4.7,
+          0,
+          1.7
+        ]
       }
     ],
     "rising": [
       {
-        "word": "한덕수",
+        "word": "수능",
         "change": null
       },
       {
@@ -122,20 +122,20 @@
         "change": null
       },
       {
-        "word": "조사",
+        "word": "재난문자",
         "change": null
       },
       {
-        "word": "리트",
+        "word": "한덕수",
+        "change": null
+      },
+      {
+        "word": "적발",
         "change": null
       },
       {
         "word": "조희대",
         "change": null
-      },
-      {
-        "word": "AI",
-        "change": 81
       }
     ],
     "falling": [
@@ -162,7 +162,7 @@
   },
   "ai": false,
   "headline": "최근 6개월 사회: 「법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"」",
-  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,173건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 한덕수, 탄핵, 조사, 리트 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,173건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 수능, 탄핵, 재난문자, 한덕수 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -234,40 +234,6 @@
       "whyItMatters": ""
     },
     {
-      "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
-      "span": "2026.11",
-      "monthCount": 1,
-      "articleCount": 7,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "‘리트 만점자’ 과외 교사, 경찰 참고인 조사 출석",
-          "source": "2026.11"
-        },
-        {
-          "title": "이진우 과외교사 경찰 출석…세무사 감독관들 줄조사",
-          "source": "2026.11"
-        }
-      ],
-      "articles": [
-        {
-          "title": "’리트만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼“",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV0hXSUtKY1laMF82QW0wSGtsLXVZYk5BUXMxSTdVRkZUNHpoTjZQOVJuZDdnYVc0dS1LeDhkdmF3UndBN2lwMFdzREhkbGFvUFEycEUydE5rbEdJZG80OFhLVXgxdkk?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T07:49:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "이진우 과외교사 경찰 출석…세무사 감독관들 줄조사",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmOF9DMlFvQks5SFdZM19DRU1CdXZwM1JhNURjN0djOEE0SHFadUIyMjFhQS1DN0U0d01hMW1CZnZIY1lHWERvVmxHRkE4VTZZTi1sVWNkN3RyR2ZDcU9GcmJmMXE3UDQ?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T13:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
       "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
       "span": "2026.11",
       "monthCount": 1,
@@ -285,6 +251,29 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZ1dOSThrdlQwZFpJVTN1VzROV2ZqZno3dXRrSXUtQnV4eDRidjNTRHpRX0Q4S091QUNpQW13R0lLbHREWGdXc1NBOGR4NElma3c0ZlFmWEM5TkRPaG91RDFNTjFXM3VsSnc?oc=5",
           "source": "한겨레",
           "publishedAt": "2026-11-22T23:57:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+      "span": "2026.11",
+      "monthCount": 1,
+      "articleCount": 7,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPaXNpNTRDZEtEOHB5WUpsQkVnRkhwVWlQLWxocEtRSUFZNnp6LVNiZWV5QU0ybTBLalBsNFlBaHptT0xhaUFfSWU5SnJDdXdWMXh1VzFoQmVoODDSAWBBVV95cUxOaEdVMGpYb1BRcmVXa3FLMzFNc0hOal8waTFScURiMmRUOXhyMklaOHF6Uk4xc2pIaTZTVG16MUQ4V3hVeGxrdGxobEJnWEhIU1pFbWowYktkZGwwb2RIelA?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-19T02:24:06.000Z",
           "kind": "news"
         }
       ],

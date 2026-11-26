@@ -5,11 +5,11 @@
     "from": "2026-11-20",
     "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T23:34:54.481Z",
+  "updatedAt": "2026-11-26T05:05:22.611Z",
   "ai": false,
-  "overview": "최근 1주 러시아·우크라이나 관련 국내 언론 기사 245건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「폴란드 “러시아 미사일 추정, 미확인 비행체 영공 침범”」(기사 7건)입니다.",
+  "overview": "최근 1주 러시아·우크라이나 관련 국내 언론 기사 243건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「러 군용기, 울릉도 영공 직전까지 근접…정부, 러시아 무관 초치해 항의」(기사 5건)입니다.",
   "stats": {
-    "articles": 245
+    "articles": 243
   },
   "themes": {
     "economy": {
@@ -18,15 +18,7 @@
       "keywords": [
         {
           "word": "푸틴",
-          "count": 7
-        },
-        {
-          "word": "우크라",
           "count": 6
-        },
-        {
-          "word": "트럼프",
-          "count": 5
         },
         {
           "word": "종전",
@@ -37,19 +29,59 @@
           "count": 5
         },
         {
+          "word": "우크라",
+          "count": 5
+        },
+        {
           "word": "협력",
           "count": 5
         },
         {
-          "word": "국제",
-          "count": 5
+          "word": "트럼프",
+          "count": 4
         },
         {
           "word": "경제협력",
           "count": 4
+        },
+        {
+          "word": "군용기",
+          "count": 4
         }
       ],
       "items": [
+        {
+          "title": "러시아 천연자연부·문화부 대표단 방북, 북러 경제·문화협력 강화",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "러시아 천연자원·문화부 대표단 방북…경제문화 협력 가속",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "러시아 천연자연부·문화부 대표단 방북, 북러 경제·문화협력 강화",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOVRON010STJ5akd1SHRZZlRWbExJTlc5MUc5YjA2a1duT3dUc2FBeGNLZ0pCVjRDVDdoQi16MGQ5dGhoNXE4RVZFd0lZblRLUkJpd3kxeDVQU1EyUFpPWWN6cm1fUTBJWmF4S3Fn?oc=5",
+              "source": "아시아투데이",
+              "publishedAt": "2026-11-26T01:24:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "러시아 천연자원·문화부 대표단 방북…경제문화 협력 가속",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9idDNuS0FhdWZLaHo2S09XRy16UkN5UGl6TTFOV1dFTjFHYnhoOWJ0clNuQjlrOGp6Wl8xR2VscmplN2l2U090QmRzNDRGOFlXZDV4dUp5N2NSWDDSAWBBVV95cUxNdE5MR3pEZVJkQTg0el9pVjJhdUNINFkzTDV1dEtlQTFOYmJlT20yZnBvbHFyeU1jRlFsalhIZjFuSnJ4dHZZSVVMdEk3U3BiNXIwb1NKeTg4QmkydGxIcHM?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T23:15:50.000Z",
+              "kind": "news"
+            }
+          ]
+        },
         {
           "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
           "summary": "",
@@ -83,7 +115,7 @@
           ]
         },
         {
-          "title": "러시아 천연자원·문화부 대표단 방북…경제문화 협력 가속",
+          "title": "러시아 천연자원생태부 장관 방북",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
@@ -94,90 +126,70 @@
           "articleCount": 1,
           "articles": [
             {
-              "title": "러시아 천연자원·문화부 대표단 방북…경제문화 협력 가속",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9idDNuS0FhdWZLaHo2S09XRy16UkN5UGl6TTFOV1dFTjFHYnhoOWJ0clNuQjlrOGp6Wl8xR2VscmplN2l2U090QmRzNDRGOFlXZDV4dUp5N2NSWDDSAWBBVV95cUxNdE5MR3pEZVJkQTg0el9pVjJhdUNINFkzTDV1dEtlQTFOYmJlT20yZnBvbHFyeU1jRlFsalhIZjFuSnJ4dHZZSVVMdEk3U3BiNXIwb1NKeTg4QmkydGxIcHM?oc=5",
+              "title": "러시아 천연자원생태부 장관 방북",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85dkNJSlR0dEdaaGY4WUt2MU1UZmRaSDZvSU03VkdoT0F6OWxtV09lRDJRMXZCeGhycUlTZTVuNVpzMGFwblp3TDhzR1hhNmFsZWYyZzBxWVk4RWZ1NTlyQtIBYEFVX3lxTE85dkNJSlR0dEdaaGY4WUt2MU1UZmRaSDZvSU03VkdoT0F6OWxtV09lRDJRMXZCeGhycUlTZTVuNVpzMGFwblp3TDhzR1hhNmFsZWYyZzBxWVk4RWZ1NTlyQg?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-25T23:15:50.000Z",
+              "publishedAt": "2026-11-26T02:42:48.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "신용카드 훔친 북한노동자, 위치는 러 '드론 제조' 경제특구",
+          "title": "김선래 한국외국어대학교 러시아연구소 교수 [월간 CEO저널]",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.25",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
           "articleCount": 1,
           "articles": [
             {
-              "title": "신용카드 훔친 북한노동자, 위치는 러 '드론 제조' 경제특구",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZzRzNlRIMUl3bm1mOU5ZSDgyc0hZcGNMM3FlcjJ2X0xDNEVNczBFVm9rQjFHU0N3Umc5ZWRRSHZlV1I2SWtJbi1jTXBaa0dWdkhLVzZSeUk1cmZfV2dZT0R0RGJLMlBoQUNyWjYtOHVKRkh4MkVBaDF5ZWpmTnBoSA?oc=5",
-              "source": "이데일리",
-              "publishedAt": "2026-11-25T14:02:48.000Z",
+              "title": "김선래 한국외국어대학교 러시아연구소 교수 [월간 CEO저널]",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lcWxxN2lVbGlhRllFTUhBeTBZQVgySkg3bjVRTEpUZnJhaTNDZUdwMktrSHNPWnBPa1JnaFBpaGlQamxZOTR4TEkyMWVhSlpHeE54UDZsWE9LUWtVSWFYV0pFM3BpZU3SAWtBVV95cUxPZG1ZRm9LNUxydnNJNG9SVjg2V0ItY3ZkSW9xbnlkazBOZmpoQlNFcnRoeGdjWlVyZWpJOHhCeW1wc2NEQVpLWE54NW9MU0FqY0pYVWNZdnlNbDVFYWtuZG93Tkp5S0s4V25XWQ?oc=5",
+              "source": "CEO저널",
+              "publishedAt": "2026-11-26T01:00:00.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "러시아 떠난 구글…유럽까지 번진 19억 유로 분쟁",
+          "title": "우크라전 비용 1500조 육박…러시아 '전쟁 청구서' 눈덩이",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.25",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
           "articleCount": 1,
           "articles": [
             {
-              "title": "러시아 떠난 구글…유럽까지 번진 19억 유로 분쟁",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFT2hrN2x0bTlCLVdIeTBxRU0wVUlLYU9HTGhmTjEwY0lOaEpIc0VkOEV0V3A1YXg3S01nZjFVeVEwWThIcXZZZlA1ZnJibl9DZzk0VUY0ZUwwTWRzQzdZaFVHSV9YaGJIR1E?oc=5",
-              "source": "OBC 뉴스",
-              "publishedAt": "2026-11-25T13:42:41.000Z",
+              "title": "우크라전 비용 1500조 육박…러시아 '전쟁 청구서' 눈덩이",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12YllmV1FtMVpwQ29ZNUlQdVdPQ3kwZWZ3RExfM0hYcm0xeFFXbGFfU0FuU0JWMzAxbWFERmN1d1VvWFM5Q0RkclFRTGcxZE14Z013SlBUdVh3QQ?oc=5",
+              "source": "한국경제",
+              "publishedAt": "2026-11-26T00:33:45.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "제11회 러시아 연방 금융 대학 포럼의 틀 안에서 국제 교육 협력을 증진합니다.",
+          "title": "러, 내년 국방비 33%↑…사회예산 삭감, 전비 충당 증세",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.25",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
           "articleCount": 1,
           "articles": [
             {
-              "title": "제11회 러시아 연방 금융 대학 포럼의 틀 안에서 국제 교육 협력을 증진합니다.",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSlFXdHk1T0R3YjNrYVkwdnR5TDF0U1hOYkQzRENwQzNDWkdEVWYxVk9lMGlsYlAxS3pJSzZPSFExTHpETmFTdm9EZHFiTGVYQWh2NUJ1cC1Gb0JwWGFNZ2g5YVFsamtZUWZpZjk2aTVLY2F6MzVlMGdNTWxsRlFTTFJrVXZQdFdwUkhyRkgtSEdUY2drazU1TnRFRmg3dktFa3g4Z01yNDR3UmVYeklMZWtEV0FEUmVMSGl1OEN3ZGhFbTlwVW04N2RZTQ?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-25T13:07:29.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "푸틴의 보복 경고…젤렌스키 “전쟁부터 끝내라”",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "푸틴의 보복 경고…젤렌스키 “전쟁부터 끝내라”",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zQV9sWVVGRjdrbGNhMEFpa1VmclNYWlhSN01nanJOc0NCV2J5ZVlIcHRfSkFJOWN3TDhWMkhqTmRra0pqVEVlcU1ZVExJMmhIOFNWVWw2VWxJM3pqaWtXclVURkVmUXRtYWc?oc=5",
-              "source": "OBC 뉴스",
-              "publishedAt": "2026-11-25T10:50:31.000Z",
+              "title": "러, 내년 국방비 33%↑…사회예산 삭감, 전비 충당 증세",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FbWxjaGJmQ0xVcWNMaV9jYU1aRGw2MDlfZjVvcVBRSFZOSW5EYk95dkgwRnJtV2RWdko2emNRS002dTRFWkpSV2lyNDBid2hBVFpFSHQ2TUJtWVhHX3pHR9IBYEFVX3lxTE1FbWxjaGJmQ0xVcWNMaV9jYU1aRGw2MDlfZjVvcVBRSFZOSW5EYk95dkgwRnJtV2RWdko2emNRS002dTRFWkpSV2lyNDBid2hBVFpFSHQ2TUJtWVhHX3pHRw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T00:06:14.000Z",
               "kind": "news"
             }
           ]
@@ -189,109 +201,41 @@
       "summary": "",
       "keywords": [
         {
-          "word": "폴란드",
-          "count": 15
-        },
-        {
           "word": "우크라",
-          "count": 15
+          "count": 24
         },
         {
           "word": "푸틴",
-          "count": 10
+          "count": 11
         },
         {
-          "word": "영공",
+          "word": "공격",
           "count": 9
-        },
-        {
-          "word": "러시아군",
-          "count": 9
-        },
-        {
-          "word": "트럼프",
-          "count": 8
         },
         {
           "word": "나토",
-          "count": 8
+          "count": 7
         },
         {
-          "word": "침범",
+          "word": "지원",
           "count": 7
+        },
+        {
+          "word": "드론",
+          "count": 7
+        },
+        {
+          "word": "추정",
+          "count": 6
+        },
+        {
+          "word": "러시아군",
+          "count": 6
         }
       ],
       "items": [
         {
-          "title": "폴란드 “러시아 미사일 추정, 미확인 비행체 영공 침범”",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "러시아, 또 폴란드 영공 침범…나토의 시험대",
-              "source": "OBC 뉴스"
-            },
-            {
-              "title": "나토, 러시아 미사일의 폴란드 영공 침범 논의",
-              "source": "Mezha.net"
-            },
-            {
-              "title": "폴란드 '러시아 미사일이 영공 침범'…폭발 순간 CCTV에 포착",
-              "source": "BBC"
-            }
-          ],
-          "span": "11.20~11.24",
-          "days": 4,
-          "hasPress": false,
-          "sourceCount": 6,
-          "articleCount": 7,
-          "articles": [
-            {
-              "title": "러시아, 또 폴란드 영공 침범…나토의 시험대",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWdUpUaktYRXh5VWhDU3VRaUNJeThmXzFGUWZpbUZGcjl3UlR4M2dhOHJBR2hnWWQ5ZEdEYXM0VndMYWFVUUQ0clVUREZDUnBEUURWVDBnak9QQnViVnc3bm5pZ3ZEeU05Q1E?oc=5",
-              "source": "OBC 뉴스",
-              "publishedAt": "2026-11-24T01:59:17.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "나토, 러시아 미사일의 폴란드 영공 침범 논의",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2FiNlB1MG1BbVJTdjVta1lzUjVabUhBb0l1RU0xeE8xUmhIRVhGeTNrVFlxczRVYVhSNU4taWVlSXZYRW9xQUppd1BVZV9pWDFENUpIaEdzcnN5U3FYRUlMMi1EeE9hY19kS0R0SDliZ3NkT2M2QmZLVEI1SzNKdV9JbmxxUlgxSFZUWmgwWHJVcFE5S2VHSUtZWUIxVkV2aWc?oc=5",
-              "source": "Mezha.net",
-              "publishedAt": "2026-11-22T00:23:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "폴란드 '러시아 미사일이 영공 침범'…폭발 순간 CCTV에 포착",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yMG9xXzdZVmxYWWdXRU1yZ1E4bi0ydDhLSk1pLUthWjU1OGRteWI4T2lXeDdmenJEQ0ZPMDhiM3hLUUZ1R3BGT0JNV3AzeWEtN3VadGpDUWtib1I0Q2fSAWNBVV95cUxNQV9fVUhCeXdJNUtFaVFpSTBObkZ4X2VBS1BDMHQxM1J0OVk3VUxqbWxfRXpLcjZFUDREamNpNE5DbHdVUm0tUjFYb0k3MGpNVUlfS1U0eTVIRDdySHBZUUQtLWM?oc=5",
-              "source": "BBC",
-              "publishedAt": "2026-11-21T01:22:55.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "폴란드 “러시아 미사일 추정, 미확인 비행체 영공 침범”",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvR1ctZVJ3LXg3cEluWHJyVW9nWWVKNHZ0bUZ0T00wY0xESHdjb0tPV0N3TmtkZGJBdVpreXpKVjluQ1pvQkFVTm9CZTVtaFE5SFE?oc=5",
-              "source": "매일경제",
-              "publishedAt": "2026-11-20T11:35:27.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "폴란드 “러시아 미사일 추정 미확인 비행체 영공 침범”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xNjJyWkRpQmM3V2tEUWxITm84UVc3Unp2UmREdk43M1ZOX3RHcURuQ3pUU3FXNUdBQ0pHZ1RQcHA1dGpXbHdSOFo0MTBXcGpxR3RhWDBVVl9pUjg?oc=5",
-              "source": "KBS 뉴스",
-              "publishedAt": "2026-11-20T10:42:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "폴란드 \"미확인 비행체 영공 침범…러시아 미사일 추정\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSHZaU1RjU2NOOERjcDBJNVpRa05xM1A3MUZaT1lObGRCSGdybXlJNUNxWFNPaWhvTE1VcDZCZXBiaGVNWXJmUUhHOFllU3NZYkNxeHJNUnBDYW_SAWBBVV95cUxPaHBsTGtfMTF2T0pfQnJoVVlVX0E0N0t1azM4OEFTc3FnTXZ0UjhuOVB1cWVUUFBLMTBfUW5sMHFjc1FDTkI3M2lhc0dpZkVGdEtBYkVWQ1Z6Vm9DZGlyTGs?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-20T10:25:35.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "\"러시아군 자살 1087명\"…우크라이나 전쟁 사망자는 40만명 이상",
+          "title": "우크라이나 전쟁 사망자, 러시아 자체 통계상 50만명 육박",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
@@ -300,19 +244,15 @@
               "source": "한겨레"
             },
             {
-              "title": "우크라이나 전쟁 사망자, 러시아 자체 통계상 50만명 육박",
-              "source": "BBC"
-            },
-            {
-              "title": "가디언, 우크라이나 전쟁 중 러시아군 자살 사망자 1,087명 확인",
-              "source": "Mezha.net"
+              "title": "\"러시아군 자살 1087명\"…우크라이나 전쟁 사망자는 40만명 이상",
+              "source": "ABC뉴스"
             }
           ],
-          "span": "11.23~11.25",
-          "days": 3,
+          "span": "11.24~11.25",
+          "days": 2,
           "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
+          "sourceCount": 3,
+          "articleCount": 3,
           "articles": [
             {
               "title": "“우크라전 러시아군 사망자 50만명 육박…2차대전 이후 최대”",
@@ -333,13 +273,6 @@
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GMksweW05YTlhMnAtdzBGUFlrUlJCZjFWOVVwSGRDTkNNVG5lZlUzeTBDbEZ3TThTdE9tejNNTEFyMG1wMFY1WkIxRHh1Y25aMnMtN2UzM2xpSWZnY2JCUU13WQ?oc=5",
               "source": "ABC뉴스",
               "publishedAt": "2026-11-23T20:19:57.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "가디언, 우크라이나 전쟁 중 러시아군 자살 사망자 1,087명 확인",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNktvQ0E2ZUdrTUFXVTNrcTVJLUJyY2x4WlY0aVI3OExLak9FaWtSODJETXhyZUIzRGdfX0k1TElITkJVbzNBQV9LeVZlMlllSVlQUGlhbERMVUhyUlM5d3NhSUhfSlM3ZjFJYWRuSlFtcmJRUG93TzdVZWc4LU1DbFgtbEROVU1HdnpGMTVCMHFtcEdjcmg3eEt4LTJhYTJvV3c?oc=5",
-              "source": "Mezha.net",
-              "publishedAt": "2026-11-23T09:00:00.000Z",
               "kind": "news"
             }
           ]
@@ -377,6 +310,38 @@
           ]
         },
         {
+          "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "젤렌스키, 美 민주당 의회 출범 기다리나…\"1∼2월 새접근 모색\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWE1pZ0RHaEVScE5RaEhSNFRaaDBuLWl5aDk3UlAxcTRmOUxrN2JjanFNanloR1pxY19vTFh5RzFNLVlnQ3llWVppa1M2YkJOZm04UEdCWnFnMTVOVk5JTDBYMnVnZUVyM3htVWMxNUhFWVUyWFE?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-25T00:01:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "젤렌스키, 美 민주당 의회 출범 기다리나…\"1∼2월 새접근 모색\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cE1DSHV1WmNBX2gwR2lVTmRIQTYzNDZOdl9kX1lIc0x3RklnY1JfU1pOX25GbC1JMjJELUxJUXRSb1JENWRLYlF0UXpwcVFhci1obTJPSkF5c0RNcXB6T9IBYEFVX3lxTE40cE1DSHV1WmNBX2gwR2lVTmRIQTYzNDZOdl9kX1lIc0x3RklnY1JfU1pOX25GbC1JMjJELUxJUXRSb1JENWRLYlF0UXpwcVFhci1obTJPSkF5c0RNcXB6Tw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T23:31:58.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
           "title": "전쟁 중 러시아군 1000명 넘게 스스로 목숨 끊어… 외신 보도",
           "summary": "",
           "whyItMatters": "",
@@ -404,38 +369,6 @@
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9reXhuQV9ZM0VuaVlXTVotaDF1Si1Vbmt6Wi1XRjZCWGhJV29odzdpUnJ6WlZEUWFsRmh0TnJOLTNQbVJEVTFLWHVjVzFQOS01NUtrNk9VTHU4ZXJaYXFoVk9JZmJZbVN1REdrRmhB?oc=5",
               "source": "한국일보",
               "publishedAt": "2026-11-24T01:05:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "외교 경험 없는 멜라니아, 우크라이나 전쟁 중재에 이례적 역할…푸틴·젤렌스키 측과 비공식 소통",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "멜라니아, 우크라전서 존재감…푸틴·젤렌스키 측과 비공식 소통",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.23~11.24",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "외교 경험 없는 멜라니아, 우크라이나 전쟁 중재에 이례적 역할…푸틴·젤렌스키 측과 비공식 소통",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNmxoLUx4c05JRzNZYnQ0Z1ZEenBQS0JDX09XUDV4LWl0UmNkWFZkTXA3U0VvTFRBdkQ3YXF6SXNqU2FxSkFPVlNwaktIeWtRaUd0R0ZQaG5xaDZiNFF5bjJjdmFycXQyNDFGdg?oc=5",
-              "source": "메디컬투데이",
-              "publishedAt": "2026-11-23T22:38:32.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "멜라니아, 우크라전서 존재감…푸틴·젤렌스키 측과 비공식 소통",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QQmpkaEZwUUZkeGpGOHBNRG4tcnhzek0zbmROb2JHQTl4SkpZc0FWTGtERlU1dmZ2b3JadDJnMUo2SzQ4bkJNeldHT3BkMi1PeHFJRTJVSXBBWHRHQUk4etIBYEFVX3lxTE9QQmpkaEZwUUZkeGpGOHBNRG4tcnhzek0zbmROb2JHQTl4SkpZc0FWTGtERlU1dmZ2b3JadDJnMUo2SzQ4bkJNeldHT3BkMi1PeHFJRTJVSXBBWHRHQUk4eg?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-23T02:14:09.000Z",
               "kind": "news"
             }
           ]
@@ -471,6 +404,26 @@
               "kind": "news"
             }
           ]
+        },
+        {
+          "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MOERkYUZJRnhVME9rREZuUFpuUkhZS1RTZkJ0WjhhM1pjaFNFN2VQeHhIbjNNYjA3Y1NXTkxtUzlfdEQ5TnZ0TFNqVHFyRGZMVHJRbHR5UjJqWFXSAWBBVV95cUxPNFRKR0dvZzJmMDJJR3NGb01YSVVOUHY0WERmMVZwak9XdWZELWpiQTlqX1J0cXpIdVhxdGJtZ0M5ZkJpX1JGUl9DSTFGbi1jc016WEQxWkw5a0xPaEtEU20?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T03:08:04.000Z",
+              "kind": "news"
+            }
+          ]
         }
       ]
     },
@@ -480,27 +433,27 @@
       "keywords": [
         {
           "word": "우크라",
-          "count": 36
+          "count": 35
         },
         {
           "word": "푸틴",
-          "count": 26
+          "count": 25
         },
         {
           "word": "트럼프",
-          "count": 18
-        },
-        {
-          "word": "젤렌스키",
-          "count": 14
+          "count": 17
         },
         {
           "word": "공격",
-          "count": 13
+          "count": 15
+        },
+        {
+          "word": "젤렌스키",
+          "count": 12
         },
         {
           "word": "보복",
-          "count": 9
+          "count": 10
         },
         {
           "word": "유럽",
@@ -513,7 +466,7 @@
       ],
       "items": [
         {
-          "title": "러 군용기, 울릉도 영공 '초근접'…정부, 무관 초치해 항의키로(종합)",
+          "title": "러 군용기, 울릉도 영공 직전까지 근접…정부, 러시아 무관 초치해 항의",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
@@ -522,15 +475,15 @@
               "source": "한국NGO신문"
             },
             {
-              "title": "러 군용기, 울릉도 영공 직전까지 근접…정부, 러시아 무관 초치해 항의",
-              "source": "경향신문"
+              "title": "정부, 러 군용기 울릉도 영공 근접에 항의…\"용납할 수 없어\"(종합2보)",
+              "source": "연합뉴스"
             }
           ],
           "span": "11.24",
           "days": 1,
           "hasPress": false,
           "sourceCount": 3,
-          "articleCount": 6,
+          "articleCount": 5,
           "articles": [
             {
               "title": "러시아 군용기 울릉도 근접 비행에 정부, 항의···주한 러시아 국방무관 초치",
@@ -561,67 +514,10 @@
               "kind": "news"
             },
             {
-              "title": "러 군용기, 울릉도 영공 '초근접'…정부, 무관 초치해 항의키로(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wSzhxMGZPYk5ZZzBHUFhJYzktT1lJeUtDc0Z5cHFkQVBiTWp6UjJNYlVpVDAtWXdBVXdqRm1TU1dOckxhTTNmbFJPLUo4VnlCTEhWekFZYlBTeE3SAWBBVV95cUxQME9lUjRrS2U1SE1JcXI1cHZEUHRWajhpZE5Kbm5qRXptZlFjSnpaT1d0Vy1ydlVkVzR6TDduRWJ3MTZXLXk0dlNSRTlDWjZxUm51a09kMHVleXc3S0Q5UHI?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T04:04:35.000Z",
-              "kind": "news"
-            },
-            {
               "title": "러 군용기, 울릉도 영공 '초근접'…정부, 무관 초치해 항의 예정",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQnZkNXJkanFuY1NaY3QyX0FORmF1VEtTUXdfamhESVNQWE03SkZZYnVaVXRZNVBTV2ZBeW14eTBzeUh2SjIwSm9CVHNSQzlRei1xUjNSYk8wU0ZTNEF1WtIBYEFVX3lxTFBHQnZkNXJkanFuY1NaY3QyX0FORmF1VEtTUXdfamhESVNQWE03SkZZYnVaVXRZNVBTV2ZBeW14eTBzeUh2SjIwSm9CVHNSQzlRei1xUjNSYk8wU0ZTNEF1Wg?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-24T02:49:57.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "푸틴 \"러 석유시장 어려워\"…우크라 공격에 보복 예고",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "우크라, 러 정유시설 타격…푸틴 “석유시장 어려워” 보복 예고",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "푸틴 \"러시아 석유시장 어려워\"…우크라 공격에 보복 예고",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 4,
-          "articles": [
-            {
-              "title": "우크라, 러 정유시설 타격…푸틴 “석유시장 어려워” 보복 예고",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hMFd6QU8tRTVFdnpLU1pCeGVqLUdTSVN3c1lJZE1EelYwX3lIMU1MSU9NNVR1Y1drTGwxN0haQi1SOTFVVjA1dE9SbnRJOVZ1c3lKZkVPamdVaUR0RFRhRmRrMEFmZw?oc=5",
-              "source": "KBS 뉴스",
-              "publishedAt": "2026-11-24T21:40:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "푸틴 \"러시아 석유시장 어려워\"…우크라 공격에 보복 예고",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByeHhqLVRRdGVTZEtBdmwyRGlBS055cUhyS2RMaVJwMnJod1lMUWZtMzN4OGY4RzJ0UHJBX2l5ck5kckk2SG1vVTlxenkxSzhyNl9LNHRBLS1IMWxXYjQ2czFBVkZjSlk?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-24T21:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "푸틴 \"러 석유시장 어려워\"…우크라 공격에 보복 예고",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBocVNkcGtMeFdNR2lab2h1d2hyS1U0ZkRCaUpsdDlKOXVCcUw3RnZLZmJkUm83eC1STmlVQXdOZUU3cGx3YjBmcGZLT0IybFdCQ19sTDhQOVdjOG_SAWBBVV95cUxOa1R2X1dyWFNaTVNWajVWZlUxMnlTZFVnYW9kLVpFVkNIWS12TUxqVy1QcXRlVWNGc0ZKY1NmbWZGZVVkdm9Gd0FiUUE5REU5V3JQZjItVjFVcWdZS3ZWRW4?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T16:47:51.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "푸틴 “러 석유시장 어려워”…우크라이나 공격에 보복 예고",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UeGkzVEd6YjNNbDMwVGVuS2lxWWpTbVJkU05lYnB4NFJfZGpUcXlzV29zemdja003b3FQVXQwY1R6Vjl0bHMyNGo0N3RMQmNUSFFpUHdJeWNIanM?oc=5",
-              "source": "KBS 뉴스",
-              "publishedAt": "2026-11-24T17:44:00.000Z",
               "kind": "news"
             }
           ]
@@ -670,44 +566,44 @@
           ]
         },
         {
-          "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…美G20 계기 시사",
+          "title": "푸틴 \"러 석유시장 어려워\"…우크라 공격에 보복 예고",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "젤렌스키 \"성탄절 전 평화협상 제안에 동의\"...미 G20 계기 시사",
-              "source": "YTN"
+              "title": "푸틴 \"러시아 석유시장 어려워\"…우크라 공격에 보복 예고",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"‥G20 계기 가능성",
-              "source": "MBC 뉴스"
+              "title": "푸틴 “러 석유시장 어려워”…우크라이나 공격에 보복 예고",
+              "source": "KBS 뉴스"
             }
           ],
-          "span": "11.22~11.23",
-          "days": 2,
+          "span": "11.25",
+          "days": 1,
           "hasPress": false,
           "sourceCount": 3,
           "articleCount": 3,
           "articles": [
             {
-              "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…美G20 계기 시사",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ka0hLTU41WlF5OXZSOHc2N0E3aEozdVk5TmZwZjI1bHNQZXhnLV90YVB3eGtfVDBFTUYtRWF0SWdIS3Fwd0pYSlRWNGRPU2FPbXNVZWR5Zm1FVE5RNE9lM191bXRlZVpURTZKc2FHT0lJVlFsY3liT9IBeEFVX3lxTE9Ka0hLTU41WlF5OXZSOHc2N0E3aEozdVk5TmZwZjI1bHNQZXhnLV90YVB3eGtfVDBFTUYtRWF0SWdIS3Fwd0pYSlRWNGRPU2FPbXNVZWR5Zm1FVE5RNE9lM191bXRlZVpURTZKc2FHT0lJVlFsY3liTw?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-23T01:49:46.000Z",
+              "title": "푸틴 \"러시아 석유시장 어려워\"…우크라 공격에 보복 예고",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByeHhqLVRRdGVTZEtBdmwyRGlBS055cUhyS2RMaVJwMnJod1lMUWZtMzN4OGY4RzJ0UHJBX2l5ck5kckk2SG1vVTlxenkxSzhyNl9LNHRBLS1IMWxXYjQ2czFBVkZjSlk?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T21:00:00.000Z",
               "kind": "news"
             },
             {
-              "title": "젤렌스키 \"성탄절 전 평화협상 제안에 동의\"...미 G20 계기 시사",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEWHl3YnZScjlKR3NfSld1cDhReVcwWHhINnhOeW9FcmNTSlBFQVZMVW03QVFscmtMQl9kLWhGV1FlSVN0UWszWTdJSmNwWWsxRUxFdjZVX2EzM1YzZC1qWjJqaWowRW1ORW1Wek1Rc3I2YUh4blE?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-22T13:51:00.000Z",
+              "title": "푸틴 “러 석유시장 어려워”…우크라이나 공격에 보복 예고",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UeGkzVEd6YjNNbDMwVGVuS2lxWWpTbVJkU05lYnB4NFJfZGpUcXlzV29zemdja003b3FQVXQwY1R6Vjl0bHMyNGo0N3RMQmNUSFFpUHdJeWNIanM?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-24T17:44:00.000Z",
               "kind": "news"
             },
             {
-              "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"‥G20 계기 가능성",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpSWFSQ0xxSERaWTJJUmVEbWhiQUVzVmMtbHBDZFllR24xZUdlY05mb25zNXhaMWhiWlk4R3FwV1NKaHdJd2h3b1JkMjctbTY1MW4zM0ROTWNJZWR0UFE0NDU4aXJkV0VGenVCLVBoUmhiRG5E0gF0QVVfeXFMTk41eWNtTDN6TnVQRDFMQkROa3hDeURTZHIxeHYtVW41aG9MMlBRX0ptdzhBNkd3ZHM1RW82cXBMMVQxb2YxSnlURnYxNVB2SFM5X3N4aEUydTVsaGlOS1ZjSUJCVHFlV3FITTZpZmtYMFVEVlk?oc=5",
-              "source": "MBC 뉴스",
-              "publishedAt": "2026-11-22T00:46:55.000Z",
+              "title": "푸틴 \"러 석유시장 어려워\"…우크라 공격에 보복 예고",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBocVNkcGtMeFdNR2lab2h1d2hyS1U0ZkRCaUpsdDlKOXVCcUw3RnZLZmJkUm83eC1STmlVQXdOZUU3cGx3YjBmcGZLT0IybFdCQ19sTDhQOVdjOG_SAWBBVV95cUxOa1R2X1dyWFNaTVNWajVWZlUxMnlTZFVnYW9kLVpFVkNIWS12TUxqVy1QcXRlVWNGc0ZKY1NmbWZGZVVkdm9Gd0FiUUE5REU5V3JQZjItVjFVcWdZS3ZWRW4?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T16:47:51.000Z",
               "kind": "news"
             }
           ]
@@ -779,6 +675,38 @@
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rSVI1eHJPV2xZd0hVSk0tazVBWVRTdHRWWDhGNVN6aFE0VjV0NUptUVdybHZnQ25JODd6eThYN1JpcFZRc0hxcjg1WW92M0dmRlBUdkN2cnBTWW93NXQ1MdIBYEFVX3lxTE1rSVI1eHJPV2xZd0hVSk0tazVBWVRTdHRWWDhGNVN6aFE0VjV0NUptUVdybHZnQ25JODd6eThYN1JpcFZRc0hxcjg1WW92M0dmRlBUdkN2cnBTWW93NXQ1MQ?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-25T07:18:29.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "리비아 정부, 우크라 러 선박 공격 규탄…공식 해명 요구",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "리비아 정부, 우크라의 러 선박 공격 규탄…공식 해명 요구",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "리비아 정부, 우크라 러 선박 공격 규탄…공식 해명 요구",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaMVd2RnMzTzZYdFo4RWV2VkJBQ1lTdTY5ampOS29CSm9ybElLRl9rRXF4OC1TUXFtdlVEaERtU2tCQWszN3ZXZnV4NVR6aGctQ2ZnQTdibG5jMkU?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-23T23:57:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "리비아 정부, 우크라의 러 선박 공격 규탄…공식 해명 요구",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RNVRleGRraWRNYnZGN0tZTFZ3UV9FZ3RQUDFSRzBGSDV5R1ZCLUhmTlA3aVdXOHJobDJteU1IQmVQUVV5UEFBWjZzbkttbENoUjh5LTF0ZTY2SVlHQzZwX9IBYEFVX3lxTE1RNVRleGRraWRNYnZGN0tZTFZ3UV9FZ3RQUDFSRzBGSDV5R1ZCLUhmTlA3aVdXOHJobDJteU1IQmVQUVV5UEFBWjZzbkttbENoUjh5LTF0ZTY2SVlHQzZwXw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-23T20:32:13.000Z",
               "kind": "news"
             }
           ]

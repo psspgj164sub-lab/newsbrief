@@ -5,11 +5,11 @@
     "from": "2026-11-20",
     "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T23:34:56.067Z",
+  "updatedAt": "2026-11-26T05:05:24.124Z",
   "ai": false,
-  "overview": "최근 1주 남·동남아시아 관련 국내 언론 기사 284건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「베트남전 전사자 故안규태 병장 유해, 59년 만에 고국 품으로」(기사 9건)입니다.",
+  "overview": "최근 1주 남·동남아시아 관련 국내 언론 기사 285건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「베트남전 전사자 故안규태 병장 유해, 59년 만에 고국 품으로」(기사 8건)입니다.",
   "stats": {
-    "articles": 284
+    "articles": 285
   },
   "themes": {
     "economy": {
@@ -17,113 +17,70 @@
       "summary": "",
       "keywords": [
         {
-          "word": "경제협력",
-          "count": 8
-        },
-        {
-          "word": "기업",
-          "count": 7
-        },
-        {
-          "word": "지원",
-          "count": 7
+          "word": "미국",
+          "count": 11
         },
         {
           "word": "한국",
-          "count": 6
+          "count": 9
         },
         {
-          "word": "협력",
-          "count": 6
+          "word": "기업",
+          "count": 8
         },
         {
-          "word": "수출",
-          "count": 5
+          "word": "경제협력",
+          "count": 7
         },
         {
           "word": "최대",
-          "count": 5
+          "count": 7
         },
         {
-          "word": "중국",
-          "count": 5
+          "word": "수출",
+          "count": 6
+        },
+        {
+          "word": "EU",
+          "count": 6
+        },
+        {
+          "word": "과잉생산",
+          "count": 6
         }
       ],
       "items": [
         {
-          "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협약",
+          "title": "한-아세안 싱크탱크, 미래 경제·통상 협력방안 논의",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "광양경자청-인도네시아 바탕 특별경제구역청 '투자유치' 업무협약",
-              "source": "뉴스1"
+              "title": "한국과 아세안 싱크탱크, 미래 경제 통상 협력방안 논의",
+              "source": "서울Pn"
             },
             {
-              "title": "광양경자청, 인도네시아 바탕 특별경제구역청과 업무협약 체결",
-              "source": "여수넷통뉴스"
+              "title": "韓·아세안 싱크탱크 한자리에…경제·통상 협력 확대 논의",
+              "source": "뉴시스"
             },
-            {
-              "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협력 확대",
-              "source": "NSP통신"
-            }
-          ],
-          "span": "11.23~11.24",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
-          "articles": [
-            {
-              "title": "광양경자청-인도네시아 바탕 특별경제구역청 '투자유치' 업무협약",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sZXd4NEgxcTlVY2ZuRl9vNzAzM0pwNkN0TFZjcTY1RWpQY2VaVlpUQTBpOVowZ1FuMm05NEstUWZuY0dtaXptSlk0bVlZcWh5SldkNkk3by1mOHQzeENF?oc=5",
-              "source": "뉴스1",
-              "publishedAt": "2026-11-24T02:02:05.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "광양경자청, 인도네시아 바탕 특별경제구역청과 업무협약 체결",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mcENtVlJidTQ2UXBFMmpUQXNPbFR3UE9OV1NBWDNTRGJVY3NyQWZjTTNzUVpxZjZJQmRhamFGby1rOFdfVmkxWFFZR2ZjSEhaSjIxOGUwUWhjeUEyem9Cc0UzSjE1dEVFbWc?oc=5",
-              "source": "여수넷통뉴스",
-              "publishedAt": "2026-11-23T22:30:42.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협약",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVlA2cXhnYWx2d3FIa2UtRDBUNGRhc0ZoeUdTWW1xWkJjU2ZJZndhX09DM09XRjNoOGp3b28xNjZ3UXl1ZkROWEFPQ0t6TjFyRDV1TmFFUWpZNGZBMkowMjRuY1oxNTRYbEE?oc=5",
-              "source": "철강금속신문",
-              "publishedAt": "2026-11-23T09:22:20.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협력 확대",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13dHB6NFhhTmhVWE01V192WWtLcEtvN2liUVN5RzBrcmF4b204eFNtNTFwSW9zbDRFVkJnZ2lDTFdkV3A1UEVUQXBhYVJHUlpmTVpaNU01MENSUW0xcE53cg?oc=5",
-              "source": "NSP통신",
-              "publishedAt": "2026-11-23T09:17:30.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "韓·아세안 싱크탱크 한자리에…경제·통상 협력 확대 논의",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
             {
               "title": "한·아세안 경제·통상 연구기관 한자리에…공급망 협력 논의",
               "source": "아주경제"
-            },
-            {
-              "title": "한-아세안 싱크탱크, 미래 경제·통상 협력방안 논의",
-              "source": "데일리안"
             }
           ],
           "span": "11.26",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
+          "sourceCount": 4,
+          "articleCount": 4,
           "articles": [
+            {
+              "title": "한국과 아세안 싱크탱크, 미래 경제 통상 협력방안 논의",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlNGxGc0hLUElLcnB1QVpFME4zaS04UmdKTko2V3BEbGRYRnRpYjBIakROT3hPeGFETlF1N3NMdXBudVZTWURLTzVWYTFhTHBQR2JGMkNSRzlPVnNIc09nZFNn?oc=5",
+              "source": "서울Pn",
+              "publishedAt": "2026-11-26T01:05:07.000Z",
+              "kind": "news"
+            },
             {
               "title": "韓·아세안 싱크탱크 한자리에…경제·통상 협력 확대 논의",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UTlRDd3pqWEpNbU1VMjVQckFpT080NEhCR1puVW41NzdwZENOSE5GRnN1SnQ2QzZHeFZhVEItaWd2QThjQW1hcFRyX1ZuMDRNUUk0Q2hjTVFrZlZ0SWdrctIBeEFVX3lxTFBBM1FCVDNUbVBjSEo5WmsycDl3aFdsY29jZW9oRnNNbDhyVmVKa2gwVHVmaDhHX1FuMGs2b1gycFJHbWpaS0dsZEpMRDhyb2JKOG4yN1BSdGU2ZFBrdDRFempmVkg1VTZnTDFpOHIwUmZhWTF0NjY0RA?oc=5",
@@ -143,6 +100,49 @@
               "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPTGxTY0JkN2VWM3BWXzE2dDdiLTRoRWswVHdYa3Fla2ZnYVRGejRYMjVDbHJKbzBPSC1aMlBmdWZsWVBJdl9SZmE1VFhfNGtRaGxaY090ek5YMVNfbUpXVTJqUGlpWDlrTnhVMUMyQjM2TkM3NU94TWY3STBNZ3FwdTMwak9aQ1JmRlpmTEl0dUNLMnBwelR3ZGtfOXFCV3dkRjhZdF9vRjRwWVNLNVRiMXJnUVNwRWFhWjg2Q1hYV2NBSHJfQWVDZ2RiWXFremE3SlFTbm10WFNDcXE2WjlpNHA0LWt1TTZoSWJxM0g2aUpQc1FfV3ZORjBfczMtX2V4SUR5M2ZPVFc3V3QtMG16UGM4eVdRa3Y1?oc=5",
               "source": "데일리안",
               "publishedAt": "2026-11-25T21:00:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협약",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "광양경자청, 인도네시아 바탕 특별경제구역청과 업무협약 체결",
+              "source": "여수넷통뉴스"
+            },
+            {
+              "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협력 확대",
+              "source": "NSP통신"
+            }
+          ],
+          "span": "11.23~11.24",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "광양경자청, 인도네시아 바탕 특별경제구역청과 업무협약 체결",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mcENtVlJidTQ2UXBFMmpUQXNPbFR3UE9OV1NBWDNTRGJVY3NyQWZjTTNzUVpxZjZJQmRhamFGby1rOFdfVmkxWFFZR2ZjSEhaSjIxOGUwUWhjeUEyem9Cc0UzSjE1dEVFbWc?oc=5",
+              "source": "여수넷통뉴스",
+              "publishedAt": "2026-11-23T22:30:42.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협약",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVlA2cXhnYWx2d3FIa2UtRDBUNGRhc0ZoeUdTWW1xWkJjU2ZJZndhX09DM09XRjNoOGp3b28xNjZ3UXl1ZkROWEFPQ0t6TjFyRDV1TmFFUWpZNGZBMkowMjRuY1oxNTRYbEE?oc=5",
+              "source": "철강금속신문",
+              "publishedAt": "2026-11-23T09:22:20.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협력 확대",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13dHB6NFhhTmhVWE01V192WWtLcEtvN2liUVN5RzBrcmF4b204eFNtNTFwSW9zbDRFVkJnZ2lDTFdkV3A1UEVUQXBhYVJHUlpmTVpaNU01MENSUW0xcE53cg?oc=5",
+              "source": "NSP통신",
+              "publishedAt": "2026-11-23T09:17:30.000Z",
               "kind": "news"
             }
           ]
@@ -191,33 +191,65 @@
           ]
         },
         {
-          "title": "웅진식품 가야농장, 베트남 '하이랜드 커피' 전국 매장 입점",
+          "title": "외교부, 제6차 인도 진출 우리 기업 간담회 개최",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "웅진식품, 베트남 최대 커피 체인 하이랜드 커피 입점",
+              "title": "외교부, 인도 진출기업 간담회 개최…한·인도 경제협력 확대 논의",
+              "source": "뉴스후플러스"
+            }
+          ],
+          "span": "11.25~11.26",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "외교부, 제6차 인도 진출 우리 기업 간담회 개최",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbmZhSzdHTE1VN1JsdDBPb1ZyelNPcEJacGkxTkV3UlM3OFhOMVFBZFNhc3p5aGFFampjRXp6cTJPYnhKdmdZdU5YU2F6eHZwZXVVbjkwR1U5bkFpYzhURzVSQ3JBRm5I?oc=5",
+              "source": "DWBNEWS",
+              "publishedAt": "2026-11-26T01:40:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "외교부, 인도 진출기업 간담회 개최…한·인도 경제협력 확대 논의",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zbXEzR0FweWMxMG1IZkE2Ti1JYWY5ZjNUb25EY2lDd3VRdGdKbGloNDhWa2NxcUY5R2tHQ3FvSEtERnNwZW0wUDYycXBJS0tYSnl1T1hKTXR4VjF4bkRDdS11MGlUM0Z0R0M4dWV3?oc=5",
+              "source": "뉴스후플러스",
+              "publishedAt": "2026-11-25T07:26:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "국가철도공단, 베트남 북남 고속철도 설계용역 수주",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "국가철도공단 참여 컨소시엄, 베트남 고속철 설계계약 체결",
               "source": "아주경제"
             }
           ],
-          "span": "11.25",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "웅진식품 가야농장, 베트남 '하이랜드 커피' 전국 매장 입점",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iYlFBdVJoOXpPUUU3ZjNMYUdDYXZyRDlpUURKZWJNby1QU3paaG9kRDBmUVo4enpoRHJuMmdWSDJuR3dtZDV6VTVROTZrVURvZnNRcmRrYzA2UWJrajFpQ3RKWG15amxIVFlybENzQmzSAXRBVV95cUxPT09nd0tKWmlpb0huYjZ3bGE0ZEZnSDR0TzJ2T0pidC05MjljTWRrTU1SYUZEX1pTamFOZEJUcmZrc0xKUF9yYUJ1QWx4elRpTXdaaUdPb1Q4TlBYYUZ4QmNUeUJfUVI2Q0h2TkprdzV0Q0xobA?oc=5",
-              "source": "주간한국",
-              "publishedAt": "2026-11-25T01:59:05.000Z",
+              "title": "국가철도공단, 베트남 북남 고속철도 설계용역 수주",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42eTBDRW5RQWFWMWs3cjRsZnhxaGx4bl8xZzV0UFNfSUlpV1RBMXFxWUZ5Rld3RmV0Z1h3Q0RGTjZoNlFUUHNWZ0xRSGZ1M0N2UllCNVplbWNKNTdvb191bFBDMWdDSmhuM004?oc=5",
+              "source": "BBS불교방송",
+              "publishedAt": "2026-11-26T01:00:33.000Z",
               "kind": "news"
             },
             {
-              "title": "웅진식품, 베트남 최대 커피 체인 하이랜드 커피 입점",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BM0h4ZEg1dXpMcTJWdUlxNU44M0U3RHQzMUszVTYzUHFnRUNyYmktVFlhcmw0OVI0QkNBQ2lYZDRhekRSeFUtb2gzaWE3RnV6NU54cWVPdjhuQdIBWEFVX3lxTE5MOTMyOTZzMUtCOF84c2VRV08zZkdvMmU3SUFzbDVDTmlMOFJvektjODl0Z0xhWjdFT2FVeGx3QWgxN2F3bmlpOFZRcEJDWDkwQTNrcE41WGg?oc=5",
+              "title": "국가철도공단 참여 컨소시엄, 베트남 고속철 설계계약 체결",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JelRkOFRLa2NGSjRrZWxnTjM0c1hESC1xSHlFdWh5bmZqRXp3LV9KRXhqV3BiMlVNWmlMRm1zZ2dFdG4yWmNjRlA5ZGVGRWZjQWZPN0JkZzkzZ9IBWEFVX3lxTE5JUlJCNWpnSXhYUkRyU1RwUmNMWUtPbzhBUmFWMXctT010TUpMbXczZFdaR2hxZEFYc2UyRl9iMUdnaXBWandBaXBrSmlWekhUV1Q1T1pWMHA?oc=5",
               "source": "아주경제",
-              "publishedAt": "2026-11-24T23:41:33.000Z",
+              "publishedAt": "2026-11-26T00:35:50.000Z",
               "kind": "news"
             }
           ]
@@ -253,38 +285,6 @@
               "kind": "news"
             }
           ]
-        },
-        {
-          "title": "코트라, 인도 안드라프라데시주서 경제협력 세미나 개최",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "KOTRA, ‘한·인도 경제협력 세미나’ 개최",
-              "source": "이코노믹포스트"
-            }
-          ],
-          "span": "11.23",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "코트라, 인도 안드라프라데시주서 경제협력 세미나 개최",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejMzVWFiNmhZblJHaU0yelhBREtxa3RRRDhJaXRtWlVXVFBJN2FFcW9JRFA4aFByZnpmdDcwbzA4eTVzMUNFcXJCQmhDN0sxTkxBOWVpc24tNy1kT2psVnk4SUI1Wlp3WFpmbEdzS2NCN0dSRE1ESWIzbU9nR2gyWA?oc=5",
-              "source": "이데일리",
-              "publishedAt": "2026-11-22T23:26:12.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "KOTRA, ‘한·인도 경제협력 세미나’ 개최",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6dk9iZG5OaDVIdU92YWZzZV92bV9Fd09UdkF0TXI2eUZRR2VKemNzREFiLXVfYjE2QkVCTGVxdW92N2tZSmVLdXBpUUc?oc=5",
-              "source": "이코노믹포스트",
-              "publishedAt": "2026-11-22T20:00:00.000Z",
-              "kind": "news"
-            }
-          ]
         }
       ]
     },
@@ -293,16 +293,16 @@
       "summary": "",
       "keywords": [
         {
+          "word": "국방",
+          "count": 9
+        },
+        {
           "word": "역사",
           "count": 8
         },
         {
           "word": "박물관",
           "count": 8
-        },
-        {
-          "word": "베트남전",
-          "count": 7
         },
         {
           "word": "안규태",
@@ -313,16 +313,16 @@
           "count": 7
         },
         {
-          "word": "국방",
+          "word": "베트남전",
+          "count": 7
+        },
+        {
+          "word": "전사자",
           "count": 6
         },
         {
           "word": "문화",
           "count": 6
-        },
-        {
-          "word": "평화",
-          "count": 5
         }
       ],
       "items": [
@@ -347,8 +347,8 @@
           "span": "11.25~11.26",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 9,
-          "articleCount": 9,
+          "sourceCount": 8,
+          "articleCount": 8,
           "articles": [
             {
               "title": "베트남전 전사자, 59년 만에 고국으로",
@@ -386,10 +386,10 @@
               "kind": "news"
             },
             {
-              "title": "23살에 베트남전서 전사한 안규태 병장, 59년 만에 고국으로",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pdFVMc0Q1dF96RUhWak4wOXNTWG1PSzVrdEl0S1V0cG5BeG4wRDFCS3dmOFhUcFFGWXdPZG9rVkptbXBYWUt3UjFORTNfQXlCLW1WV01qN0pmdWwwdmxvem1zWDFWakFHbENxS01SZ0QzRmJaQnc40gFmQVVfeXFMT0ozbDBnTTVnWUlSeHg3WEJmeWpUWllISDB2ZUpoSDR6Zm53RXZhTWhBRUxYd09iOV9lS2hfMjlFdndBQTJvS05teXBNRHA5UUVKZ29LR2I0MEpQM0liRmE2Z2tKNE5B?oc=5",
-              "source": "동아일보",
-              "publishedAt": "2026-11-25T08:12:00.000Z",
+              "title": "‘베트남전 파병 국군 전사자’, 59년 만에 돌아온다",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xU192OWdKRVFwQjNlTm9ubG10amFtdEUtZnR3S1luTzVtQUYxdnFrM2I1OUtMQnVyX0lLS1VKZXc1UWZPU2c5M3pRTVRXVTk2anBFV0NEUVdBN09ESzZVUHZtU25iLUd3TjVJNGtR?oc=5",
+              "source": "통일뉴스",
+              "publishedAt": "2026-11-25T04:18:34.000Z",
               "kind": "news"
             }
           ]
@@ -529,6 +529,33 @@
           ]
         },
         {
+          "title": "토 람 사무총장 겸 의장은 국방을 위한 이론적 지침 개발에 관한 실무 회의를 주재했습니다.",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.25~11.26",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "토 람 사무총장 겸 의장은 국방을 위한 이론적 지침 개발에 관한 실무 회의를 주재했습니다.",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTFMLV9Gb1Q4MGhBMVVmVW5LWnRGUUMwM1VBTzlOVU12Y2dDWTEwMGJHc3FQYXpXZG5iOEVVdTJENThfQndWd0IzZjRwclJNa29fWHNaeEZRakxzVjRnalZvdk1VQkdLRWZYc1prMWNZblVQdngyNmNmM0g5VFZWUXhyc1Z2eHFiLUFFTFN1bDlFVHVCaTFuaEhxbkR6MkxRdTJFRzZpNmRmWUJVcmt2ZVhFbDdXeldwZnFzYkZmTHM?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-26T01:00:32.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "총서기 겸 대통령은 베트남 국방 및 군사 예술의 이론적 틀 개발에 관한 실무 회의를 주재했습니다.",
+              "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU0VZNG5QMkRnWEdpNUtjUzAzVTNZSjZ2SzFYYng4WG5uM3NNeTlnVS02QTM2bHV0ZmNtaHJOMGpGU29NNmlpeWlub3Q4ZzJjV0txcnQ4YTFDUHBVdkoxeHpsTHdPSlRqeTVkaGJwX0V0THZtZTJuX3U2VTlPaTVOWktRU045d2NKN0llbllDa0pqbWFoQU1XQnFFTk9pazhscm5fZEJ4TFg3c0d3M2M4MVlvZ2dyMVF6VG9kbFRPQmFOZWNyUW1wcVlyamJGTVB0QlZGME8wcnk4a1UxSFhPWQ?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-25T10:52:55.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
           "title": "인도 해군의 유도 미사일 호위함 INS 사햐드리가 다낭을 예방 방문 중입니다.",
           "summary": "",
           "whyItMatters": "",
@@ -554,26 +581,6 @@
               "kind": "news"
             }
           ]
-        },
-        {
-          "title": "베트남 남북 갈랐던 분단선..민추본, 한반도 평화의 길 모색",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "베트남 남북 갈랐던 분단선..민추본, 한반도 평화의 길 모색",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40WjQtU3FDZjdYOXROTGtJRE84bzZnQmN6NmpCUFE5SmJkZTB4cjl4QzRGZmJRTHQxa3BUT2VHVzIxRnNmdFRLakZBNkFxS3o2QkpzcDVnMC11Q25xOGVBMGNHQWdiRnlyUGY00gFrQVVfeXFMTjRaNC1TcUNmN1g5dE5Ma0lETzhvNmdCY3o2akJQUTlKYmRlMHhyOXhDNEZmYlFMdDFrcFRPZUdXMjFGc2Z0VEtqRkE2QXFLejZCSnNwNWcwLXVDbnE4ZUEwY0dBZ2JGeXJQZjQ?oc=5",
-              "source": "BTN불교TV",
-              "publishedAt": "2026-11-25T22:11:00.000Z",
-              "kind": "news"
-            }
-          ]
         }
       ]
     },
@@ -583,92 +590,38 @@
       "keywords": [
         {
           "word": "협력",
-          "count": 11
-        },
-        {
-          "word": "참석",
-          "count": 8
-        },
-        {
-          "word": "라오스",
-          "count": 8
+          "count": 15
         },
         {
           "word": "프라보워",
+          "count": 9
+        },
+        {
+          "word": "라오스",
           "count": 7
         },
         {
-          "word": "인니",
+          "word": "시진핑",
           "count": 6
         },
         {
-          "word": "총회",
+          "word": "참석",
+          "count": 6
+        },
+        {
+          "word": "인니",
           "count": 5
         },
         {
-          "word": "사업",
+          "word": "규모",
           "count": 5
         },
         {
-          "word": "AI",
-          "count": 5
+          "word": "반발",
+          "count": 4
         }
       ],
       "items": [
-        {
-          "title": "국회 대표단, 제47차 아세안의회연맹(AIPA) 총회 참석... 한-아세안 협력 강화",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "아세안의회연맹 제47차 총회, 국회 대표단 마닐라서 디지털·핵심광물 협력 제안",
-              "source": "창업일보"
-            },
-            {
-              "title": "국회, 아세안의회연맹 총회 참석…한-아세안 협력 강화",
-              "source": "아시아경제"
-            },
-            {
-              "title": "아세안 의회 연맹 제47차 총회 개막…쩐 타인 먼 국회의장 참석",
-              "source": "Thông tấn xã Việt Nam"
-            }
-          ],
-          "span": "11.19~11.23",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
-          "articles": [
-            {
-              "title": "아세안의회연맹 제47차 총회, 국회 대표단 마닐라서 디지털·핵심광물 협력 제안",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zRGhoYndXYUQ0THdJQ215WkNIX2pYWm01dVBwQkxrdWw1ME56MGtCcFdWQ2JJUndPRmh6Y2RGU2djMnBkRnh5dFVtOWQtWjdxZG81UjU1U1pmUEEwV3E3T2R0MXhnZy1y?oc=5",
-              "source": "창업일보",
-              "publishedAt": "2026-11-23T02:24:05.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "국회 대표단, 제47차 아세안의회연맹(AIPA) 총회 참석... 한-아세안 협력 강화",
-              "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5XZDZTUEVpdXdiQmlGMHNSSnk3NTJiVk52OXlMeXR6M0pZTTZXc1RaNmQyMGl2VnJXN255aWNJdTlSS3c?oc=5",
-              "source": "인디포커스",
-              "publishedAt": "2026-11-23T02:04:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "국회, 아세안의회연맹 총회 참석…한-아세안 협력 강화",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wQlpBcFRZb0IwQ3dIN1FlQzdYaVJXV0pXRWs3d1lyQ1Z6VVhCbkdtV2tKYjZkMXFvTkViN1pZUHltNWNNZm5fcVRGejlBcUlYWHB2NlRuYmNUWGFzaUxORQ?oc=5",
-              "source": "아시아경제",
-              "publishedAt": "2026-11-23T00:55:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "아세안 의회 연맹 제47차 총회 개막…쩐 타인 먼 국회의장 참석",
-              "link": "https://news.google.com/rss/articles/CBMiqgZBVV95cUxNeUp0bEFGWDFnWVRnY2h6R3F2S291aUJLaWZpUlZ2VUFlU3J0a3l6eGVIamUzcnQ1OVZHOWcxeXFTenVMUWFieEktb3B3eUl0eU5SeFRCTXZjQkVZY1IzLVhVWDlhdU5MNk9xNjJCeVpWUWItTjFIT0RsQ2FGVkNoNWZKYV9OSWZ0LTIxOEhDUUhXVmRLMHhENmgxS1NzeUxfWTdieFFWNmlIWjR3NmJrRE1RM292YVBWS1haMTNocWxTdElGUUROUXg2Nm81Q3VvcXU2WW1sekJKZTZCREdhaUlvNHpWeEMtYkczM1BSREVBbVk0TEJ4ME04ekpaaEhuTjlQWU1nZ0d5dWtDS3h0NHo3YkNjckwybzlDYktmM2dMTGt2RlhLV0N1WHhxU0FJbVA5V2NzdDZreXo5QjFRNDJIams5V2VLZkZpLV9PYXFXN2JZbnRQQ29kRHBKOFJqMkh6R0dLV3pGdHN4Mmpla3JMVE5jZTJBaS1iaTBldzF0ZjBOX003eG1laUFlOFVpVFhPdkZreTliaHBScjBia2NaY1BCR1hORkJRc3l6RUxhV0dVaXhtbzRJTlJFb1ZNY2x2Ql9FeENGUjhpS1ExSThHVWt3SGp5VTVxVGs4RndSajJ5VGZldmgwM2dNbEJlcFR3bTN5OUhQVk4xMU5ETk5uTlVMLVpMOXpZZzRrQzFPREdBRm5QVjYxVzdQb1d5dGhlZWZkV295RHR4TDJyZGtxd2pEUVNwMGJKU0V2UnUzZG9iYndUUzRibG9pdW0wSktReDB1Um5IbVgzUmVNWk9kVy1VQUQ2Q0drczJwbXRUYVpXT043RG8wc3RpeFlGNGRjWjgxMkFNQ25oOExMNjZkU2VsS0YyUFFFb2NjcHlrV1hvMkRwSFpPd3RLeWxWVVpYSDY3Q1VqNGVRRElORGg5X0lfUDdDYjhEcEd2TjdWQmluWnhWWG9WdEJ3Q3lBQjhTNDZUU1VJOXBKZlZTNGpuZXhMOXRwOTZKamtwUEQ4eGdoYTEzX3ROdmJaeFlKOVgwSmdBNUd0MlpqY05rbk1OdkV3TzBMM1E?oc=5",
-              "source": "Thông tấn xã Việt Nam",
-              "publishedAt": "2026-11-19T00:11:19.000Z",
-              "kind": "news"
-            }
-          ]
-        },
         {
           "title": "시진핑 주석, 프라보워 인도네시아 대통령과 회견",
           "summary": "",
@@ -708,6 +661,49 @@
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adjVFNktnaVJ2am9va1ZSWVJ6dGVpQllOcm1pRUx6aTNRdy1ZN2haLWdnMUlFQTRWNHUxcWVuVGxBUTRaQk1EVTFOelRtUFpFclAwNUl2S1dhNXlfdktSM3FrWQ?oc=5",
               "source": "CGTN",
               "publishedAt": "2026-11-19T13:59:21.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "국회 대표단, 제47차 아세안의회연맹(AIPA) 총회 참석... 한-아세안 협력 강화",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "아세안의회연맹 제47차 총회, 국회 대표단 마닐라서 디지털·핵심광물 협력 제안",
+              "source": "창업일보"
+            },
+            {
+              "title": "국회, 아세안의회연맹 총회 참석…한-아세안 협력 강화",
+              "source": "아시아경제"
+            }
+          ],
+          "span": "11.23",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "아세안의회연맹 제47차 총회, 국회 대표단 마닐라서 디지털·핵심광물 협력 제안",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zRGhoYndXYUQ0THdJQ215WkNIX2pYWm01dVBwQkxrdWw1ME56MGtCcFdWQ2JJUndPRmh6Y2RGU2djMnBkRnh5dFVtOWQtWjdxZG81UjU1U1pmUEEwV3E3T2R0MXhnZy1y?oc=5",
+              "source": "창업일보",
+              "publishedAt": "2026-11-23T02:24:05.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "국회 대표단, 제47차 아세안의회연맹(AIPA) 총회 참석... 한-아세안 협력 강화",
+              "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5XZDZTUEVpdXdiQmlGMHNSSnk3NTJiVk52OXlMeXR6M0pZTTZXc1RaNmQyMGl2VnJXN255aWNJdTlSS3c?oc=5",
+              "source": "인디포커스",
+              "publishedAt": "2026-11-23T02:04:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "국회, 아세안의회연맹 총회 참석…한-아세안 협력 강화",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wQlpBcFRZb0IwQ3dIN1FlQzdYaVJXV0pXRWs3d1lyQ1Z6VVhCbkdtV2tKYjZkMXFvTkViN1pZUHltNWNNZm5fcVRGejlBcUlYWHB2NlRuYmNUWGFzaUxORQ?oc=5",
+              "source": "아시아경제",
+              "publishedAt": "2026-11-23T00:55:00.000Z",
               "kind": "news"
             }
           ]
@@ -777,33 +773,6 @@
           ]
         },
         {
-          "title": "베트남 대사가 미르자 파크룰 이슬람 알람기르 대통령에게 신임장을 제출하고 있다.",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "베트남 대사가 미르자 파크룰 이슬람 알람기르 대통령에게 신임장을 제출하고 있다.",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdzZyd21nYjAzQ3drWE1wV3NtZGxXLTlWdHdRTTk5elhlQ0FfNnJUbU9WcDExU2NTeW5VYi1mSE03ZjNXYTVhWDFDUVpHUC02c1ZkNzVRdE1MU09vRXZsdloybHJBWWZ1UzR5eVRsNW1BUEh3ZnluUDl0SWx6TTRrZGdpSUwzUTRSVUppNjlfb005OUVQM0RHbV9PLVdwSzFwNTNyZzdaNkd3aHRGdDVHTnZoV3c?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-25T03:24:32.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "베트남 대사가 방글라데시 인민공화국 대통령에게 신임장을 제출하고 있다.",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0VmOEk1QzZQMG9qbnZ3bUxqVC1SQno2eWFpaFJ6Ykc5SW5jZmZlTVJIb1Uya1cxSHdQZUQxMWZzbGZzeXRzbHdicXp4bGhubUY4UjYwLUJ6bF9sYjdidzhuVTd1N2VGSng5alZOazVoNktQZF9rM21wbTZfS1o2RVhlSEJWdllHUWVWclhEczREVU5rNncycXg4YjlEQzRvc2U5WjZyYm4?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-25T00:27:53.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
           "title": "라오스 총리, 베트남 방문하여 CLMV-12 및 ACMECS-11 정상회의 참석: 전략적 유대 강화 및 합의 도출.",
           "summary": "",
           "whyItMatters": "",
@@ -826,6 +795,33 @@
               "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTZFT09DTUtjNlJmVjJZT2p1eHkzWU4xLVNocmN4bzVIWE9VX09xT2ZfLXNJYkV2UHdkV0FIMTVBZ1RsaDlRTFA1bjZzalpMZTVYQ0M3R216T3ZHakxoR0duMDgzTmxtbEs4ZmxaeHZ4MmQyT1BndEpjd1ZkVkFqN1JtNkxaVEliTGtra3hPbEVEN3o2SXc?oc=5",
               "source": "Vietnam.vn",
               "publishedAt": "2026-11-23T09:51:23.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "라오스의 살렘사이 콤마싯 총리와 그의 부인이 베트남을 공식 방문할 예정이다.",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.23",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "라오스의 살렘사이 콤마싯 총리와 그의 부인이 베트남을 공식 방문할 예정이다.",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0FJMVpoS2RkRHlJYlFnZXlLanZEZ3ltZXkzQU94MFNseUkwOVhpVW5lUlVpNHhaS2c3dGNYLUhUSmtKMXk5UUxkdllEV2N4b2laYi1ScC1BcGp0b2R2Y0RfYU1kT0NTT0xvcy1ORUhjR1htNF83MXQ2dTEyNlhsN25Bc3pWTlNjSlBDNGNKQlZ6SjFNeTM1OXUwV3l2SG5L?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-23T10:35:22.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "살렘사이 콤마싯 라오스 총리가 베트남을 처음으로 방문했다.",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRi1yWlJjc1JyMW9GaGloV2JJdUl5SnVhQnlpckhZdU5oQUlpazRuc2JSeWZoTHpvMjNPT1lvOWtxbGNkYi13ZFE5NU5jZHo1VGFZemRMeGNTWjFnNmZDSHJPM2VuQjBzb3g5OWZkNTNHcE83dWdRenBIc25Ob2gwM3F4MzZvMEx1?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-23T08:48:06.000Z",
               "kind": "news"
             }
           ]

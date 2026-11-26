@@ -5,11 +5,11 @@
     "from": "2026-11-20",
     "to": "2026-11-26"
   },
-  "updatedAt": "2026-11-25T23:34:56.980Z",
+  "updatedAt": "2026-11-26T05:05:25.002Z",
   "ai": false,
-  "overview": "최근 1주 아프리카 관련 국내 언론 기사 130건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「상명대, 나이지리아 디지털 거버넌스 기반환경 조성사업 마무리」(기사 6건)입니다.",
+  "overview": "최근 1주 아프리카 관련 국내 언론 기사 103건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「이란 \"美 봉쇄는 군사 침략…공격땐 모든 수단 동원\"」(기사 3건)입니다.",
   "stats": {
-    "articles": 130
+    "articles": 103
   },
   "themes": {
     "economy": {
@@ -18,11 +18,11 @@
       "keywords": [
         {
           "word": "수출",
-          "count": 7
+          "count": 8
         },
         {
           "word": "달러",
-          "count": 6
+          "count": 5
         },
         {
           "word": "데이터",
@@ -37,19 +37,51 @@
           "count": 4
         },
         {
+          "word": "다변화",
+          "count": 3
+        },
+        {
           "word": "상승",
           "count": 3
         },
         {
           "word": "가격",
           "count": 3
-        },
-        {
-          "word": "마켓",
-          "count": 3
         }
       ],
       "items": [
+        {
+          "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력",
+              "source": "내외뉴스통신"
+            }
+          ],
+          "span": "11.25~11.26",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTmV0bk9fYXlDalBFWUV0a2dBeE51SlphbkRVb2ZpUnBkU0I2THdNbWU5YWg5YUpmV1FiVDBXbzktQmRBbWZLTUQ4em1nWFVNLXptQUlkZGc3ZkFyeENmRF9hWDMtbjB5c2FjNVRHdHBJWS1iemc?oc=5",
+              "source": "신화망",
+              "publishedAt": "2026-11-26T01:44:28.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQTNJMXhnSzdlVkJoWTgzeDZLSV9EZS04VnFXSWFDV09oLWdXRmVtQnpaRHlfZVJ1VHZ1VXVLTGFEbVBValhEWkFMVjI1dE0tdjdpVVYxN1NMNl9JZFcya1M1TXNPeVNJWTN4U3pDRjfSAXBBVV95cUxOakEzSTF4Z0s3ZVZCaFk4M3g2S0lfRGUtOFZxV0lhQ1dPaC1nV0ZlbUJ6WkR5X2VSdVR2dVV1S0xhRG1QVWpYRFpBTFYyNXRNLXY3aVVWMTdTTDZfSWRXMmtTNU1zT3lTSVkzeFN6Q0Y3?oc=5",
+              "source": "내외뉴스통신",
+              "publishedAt": "2026-11-25T09:08:13.000Z",
+              "kind": "news"
+            }
+          ]
+        },
         {
           "title": "국토부, 철도 파업 대비 비상수송대책 점검…대체교통수단 확보 당부",
           "summary": "",
@@ -144,61 +176,41 @@
           ]
         },
         {
-          "title": "친환경적인 생계 수단은 산간 지역 주민들에게 경제 발전의 기회를 열어줍니다.",
+          "title": "남아공 골드필즈, 5만6392센트에 거래 마감하며 4.55% 하락 : 기업주식정보",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.25",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
           "articleCount": 1,
           "articles": [
             {
-              "title": "친환경적인 생계 수단은 산간 지역 주민들에게 경제 발전의 기회를 열어줍니다.",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGQ4d3RnNWdjVHlUSUVZY3JKNmhaMUpEQVhyWlBCZmI2RnNxVmRmYkFHRTVaM3Radm1tdWpTUl9HQWZfMEZHb2p6RUtMWklmdkVRai1CX0tFTEs5bWE0QXdpNmRyQldrM1RrNjJldm81NDJPcGt6aVdYd3ViMVVzbG1rZGlieks4N1gyeHpzRzhqQQ?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-25T11:59:29.000Z",
+              "title": "남아공 골드필즈, 5만6392센트에 거래 마감하며 4.55% 하락 : 기업주식정보",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiYXN1MXBWS0U2aUtJSzA4bFVoMUtUVjR3c2ZnRjJyMmVOa3paek1WZW9PdnZ2RkRDY3h3Yk5MNmRZRVBnc1BRelpxaw?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-26T04:11:07.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
+          "title": "경제시대 구분지표로서의 ‘생산수단’",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.25",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 1,
           "articleCount": 1,
           "articles": [
             {
-              "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxdDRCMU0zaTN1eW0xNVlqaUJQVDB0NTJTMTE1bWhORV9XNXBfblc5M1dPb1JOYlRTU1lDRWxuTWtwQ3RYTlI5T2ZOemlUeV9VNnI1UXVoTXFhb3ZDSkk2Y0dmcW1aWmpDNlJHbGtwS3ZTSGJ2?oc=5",
-              "source": "연합뉴스 한민족센터",
-              "publishedAt": "2026-11-25T09:10:47.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVWt1STZvc3JCY3N5Vm94aVg1TlRpb2l4UHNtUU5yNUp6Nnh0TEkxbFdYUDN0cVFXQVZfNC1MT2FLSDdDR0ZONWUxMl9zNlhMdW04YTVlcnFzVV9rWGFORFFQLXRpRmNhZ3d0Zw?oc=5",
-              "source": "서울뉴스통신",
-              "publishedAt": "2026-11-25T08:22:48.000Z",
+              "title": "경제시대 구분지표로서의 ‘생산수단’",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15UkpRb2s1dDR2aGRvdTY5aHV6ZUV1V0pGN3l3Y2VJRGZNdnNIOTl4cFJMdGFSS1E3aGtZWk5iZDVUaDVEZWVMS0RMOHNsZEZ4eEtsdnJDZnkzTFhGdzB1bjZwUjlBdXBjRGxCetIBbEFVX3lxTE15UkpRb2s1dDR2aGRvdTY5aHV6ZUV1V0pGN3l3Y2VJRGZNdnNIOTl4cFJMdGFSS1E3aGtZWk5iZDVUaDVEZWVMS0RMOHNsZEZ4eEtsdnJDZnkzTFhGdzB1bjZwUjlBdXBjRGxCeg?oc=5",
+              "source": "엔지오프레스",
+              "publishedAt": "2026-11-26T03:36:01.000Z",
               "kind": "news"
             }
           ]
@@ -230,15 +242,15 @@
           "count": 3
         },
         {
-          "word": "국경",
+          "word": "유엔",
+          "count": 2
+        },
+        {
+          "word": "위기",
           "count": 2
         },
         {
           "word": "군함",
-          "count": 2
-        },
-        {
-          "word": "피격",
           "count": 2
         }
       ],
@@ -363,8 +375,8 @@
           "articles": [
             {
               "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ySm9Oc0JUMldDNnNNemFrdTA2bmhTalVBVmtOM0MyTjlfdnBiVFNacGJIcm5kdGtwTEh1aUY3dHdpUkpDYXItN2ZJM1dIZ083Y2c?oc=5",
-              "source": "매일경제 마켓",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4QllFdXRaN2dHcjdUbmZsZEpqTXBxNk10elhFWWxMTVE5OFZOa2xtVzc4SVVDcUMtdVJ6QXA2UEFseFR1cTlaNGhlMEthenpZTjg0QVh6SzBCWkhITlNTWdIBYEFVX3lxTFA4QllFdXRaN2dHcjdUbmZsZEpqTXBxNk10elhFWWxMTVE5OFZOa2xtVzc4SVVDcUMtdVJ6QXA2UEFseFR1cTlaNGhlMEthenpZTjg0QVh6SzBCWkhITlNTWQ?oc=5",
+              "source": "연합뉴스",
               "publishedAt": "2026-11-25T22:00:06.000Z",
               "kind": "news"
             }
@@ -417,103 +429,67 @@
       "summary": "",
       "keywords": [
         {
-          "word": "상명대",
-          "count": 8
+          "word": "돈다발",
+          "count": 3
         },
         {
-          "word": "디지털",
-          "count": 5
-        },
-        {
-          "word": "거버넌스",
-          "count": 5
-        },
-        {
-          "word": "조성사업",
-          "count": 5
-        },
-        {
-          "word": "AI",
-          "count": 5
-        },
-        {
-          "word": "기반환경",
-          "count": 4
-        },
-        {
-          "word": "마무리",
-          "count": 4
+          "word": "게이트",
+          "count": 3
         },
         {
           "word": "탄핵",
           "count": 3
+        },
+        {
+          "word": "농장",
+          "count": 2
+        },
+        {
+          "word": "위기",
+          "count": 2
+        },
+        {
+          "word": "상명대",
+          "count": 2
+        },
+        {
+          "word": "지원",
+          "count": 2
+        },
+        {
+          "word": "법원",
+          "count": 2
         }
       ],
       "items": [
         {
-          "title": "상명대, 나이지리아 디지털 거버넌스 기반환경 조성사업 마무리",
+          "title": "‘농장 돈다발 게이트’ 남아공 대통령, 탄핵 직전 몇시간 만에 혐의 벗어",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "상명대, 나이지리아 디지털정부 기반 조성사업 마무리",
-              "source": "BBS불교방송"
-            },
-            {
-              "title": "상명대, 1300만달러 규모 나이지리아 디지털 거버넌스 조성 사업 마무리 - 머니투데이",
-              "source": "머니투데이"
-            },
-            {
-              "title": "상명대, '나이지리아 디지털 거버넌스 기반환경 조성사업' 완료…'전자정부 마스터플랜 2.0' 이양",
-              "source": "전자신문"
+              "title": "'농장 돈다발 게이트' 남아공 대통령, 탄핵 위기 일단 벗어나",
+              "source": "연합뉴스"
             }
           ],
-          "span": "11.19",
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 6,
-          "articleCount": 6,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
-              "title": "상명대, 나이지리아 디지털정부 기반 조성사업 마무리",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ydGl1ekFmMFNEcUxRdzJIRUdZdlRNSjdFeHg5NEdUTThUODJacUgxYUJMeXhDanEzNU00NjR4VENxZC15YldPcExIQjhsdndNOXplZ1FIcWI2TGVtMVpJT1Jqa0hQZVdoRkhJ?oc=5",
-              "source": "BBS불교방송",
-              "publishedAt": "2026-11-19T06:32:04.000Z",
+              "title": "‘농장 돈다발 게이트’ 남아공 대통령, 탄핵 직전 몇시간 만에 혐의 벗어",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1pS3h6M2d2V2FFRWdMV3Axd3pmTnFQM1VEbUdDak5uS1pScmtVZm9MYnlHTVQzQnZ4YzEwYTBTaHA2b2NvRHc?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-26T01:49:31.000Z",
               "kind": "news"
             },
             {
-              "title": "상명대, 나이지리아 디지털 거버넌스 기반환경 조성사업 마무리",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MNFNHeUtIR0dLRmctQmxpbDVXdnkyV1NFNE1mbDE0RlMzQlZoNEk0WVJ5WkVKSl9tYjdiQnMxUDdXOVdnRElabWJiMEhzWl9TUklJY0puOEpfUVBoQmNDZW5Rb1k4Smc3d2s4V0pB0gFwQVVfeXFMTklzbDMzZmRtNTVTT1hwNk5jNVVFbUpVX1JIX1ZHQmpWNkdxQWpmRlRwRkVpRUZEcVlvWXhBUUwzZjBBdWUtWS13T0VkYXpPaENWZm1VcERlZ2d0WG0xbW1DYm5FYnBVb3dFNWktdjFNRw?oc=5",
-              "source": "대학IN",
-              "publishedAt": "2026-11-19T04:34:52.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "상명대, 1300만달러 규모 나이지리아 디지털 거버넌스 조성 사업 마무리 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBMWpLWHV4a2ZONWVSSFFWMHVDTmxtbkgtOUpESTNRU3FueW9ZUmd1TkFIZGszdkJONFVEN1RmSGd6OGVIa2QtbnhtRkVnMFJmcFVabUh3NHFZUXp6dU10SDBaUTVCSjRjSHfSAW9BVV95cUxOOHBBekVBejJYazk1VmVJSGhtczFLTUJyN3dqTklMV3NRQXRmck1RWmtIQXNrWWtLM1d2NHdKQlQ0ekZ4bDJHcVRKdllSNE1keU1keFVfREJySDNvX1VpUzVqemFqci1OcW8yN25YMHM?oc=5",
-              "source": "머니투데이",
-              "publishedAt": "2026-11-19T04:16:54.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "상명대, '나이지리아 디지털 거버넌스 기반환경 조성사업' 완료…'전자정부 마스터플랜 2.0' 이양",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBheHk5LXdvZ1MteEFWV3pIWE4wUkg4VmZiMnBVUTBVY1lUUXVjcWVSNjI2UXotV29wYXN3Z0ViRmZLZ1h3d1JRZGw4R3VnUQ?oc=5",
-              "source": "전자신문",
-              "publishedAt": "2026-11-19T04:15:05.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "상명대, ‘나이지리아 디지털 거버넌스 기반환경 조성사업’ 대장정 마무리",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZYVdKZmd0Tk00cG5ncWN3MUdGR01PcGR6QWh6WFlwbXlfZ1NoOVBKU0U0MHRKanZXNTFfTDNxRG4zcjhnbGlwenJNYnhGdnQ4NFQ5YURobUhFRXhuWWlPVVFFdE4?oc=5",
-              "source": "매일일보",
-              "publishedAt": "2026-11-19T01:50:32.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "상명대, ‘나이지리아 디지털 거버넌스 기반환경 조성사업’ 완료",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwaVNoSUZZU3NrU1dnSWt3T2gwb2g3Tk9KNXJsb0EyeE1jQVB3VXU1a1F0VFJqazlZei14UW5UZHM5dFNjR0xMQ1RiMkRHODA0TkJ1MGVDM3RSdEJfdWk4N3dzQjNCZXg4WU02OWhONlpCZF9JMk1vSzFhd2I?oc=5",
-              "source": "비욘드포스트",
-              "publishedAt": "2026-11-19T01:32:34.000Z",
+              "title": "'농장 돈다발 게이트' 남아공 대통령, 탄핵 위기 일단 벗어나",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Mdk9IT0ZYRkgxMUFFZThHcjFxM25vS2FzQTI0QkxZMk5MREs0UHNwb2FoQm94SThZYl95VHFSSUtFZzlqSWhLX0JpYXR1S21wN0lqbzg5UDlVRjDSAWBBVV95cUxOZFlEUXJid3dVQnlyOWoyTThLZHRKWUF4MVBvcERydnpSNnR6cl9STmRfRHVtaW84Qk9zT2hjXzRJMmt1bktvZU1JcC02OUx3UUwycGFuLTU1X3cxTk11SlA?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T16:09:06.000Z",
               "kind": "news"
             }
           ]
@@ -583,97 +559,61 @@
           ]
         },
         {
-          "title": "상명대, 나이지리아 전자정부 마스터플랜 수립 지원…1300만 달러 사업 성과",
+          "title": "‘돈다발 게이트’ 남아공 대통령… 법원 무효 판결에 구사일생",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "상명대, 나이지리아 전자정부 마스터플랜 이양",
-              "source": "핀포인트뉴스"
-            }
-          ],
-          "span": "11.19~11.20",
-          "days": 2,
+          "headlines": [],
+          "span": "11.26",
+          "days": 1,
           "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
+          "sourceCount": 1,
+          "articleCount": 1,
           "articles": [
             {
-              "title": "상명대, 나이지리아 전자정부 마스터플랜 수립 지원…1300만 달러 사업 성과",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xb2dtR0VoRXlIdURlVDhMX0lDa1h0WXJlMkJpRjYtXzE3LTBlUm9DUXZ1U09jX05jQzdIU2dkTFhYWTQ0LUJ5NVlmNDIwS1hNS0NDRWpTeFBTVVdCbGdUdUQ0UnlnejA?oc=5",
-              "source": "교수신문",
-              "publishedAt": "2026-11-20T00:37:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "상명대, 나이지리아 전자정부 마스터플랜 이양",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DQmhNalpEWFUzbk1PRFBmX05oRXRUeEg5OG9ZQTVMVnNTNkxscGJXYmVTSVZCeVFZdzBiT0VKTlF1YllfOThYUWdlVEIxai0tTFF3NFVDbzU5Y21hSHkwdkFyTkVocDRyeEpXUTlwZVBneFnSAXdBVV95cUxOSFQtWkFqMTZKNWRHVnJRbjdkS3E4YkVNRVZOdjEzcUppekc2Mk1GejRSZmZ3N0pWTE1jSzFqa3p5Q1lyeVAwTllBdE5Bcmk3d1lYaTFndmxEQlRScWRYc3JsLTRyMjlYa1JGbnc3ZnRDUy16SjU2bw?oc=5",
-              "source": "핀포인트뉴스",
-              "publishedAt": "2026-11-19T01:26:35.000Z",
+              "title": "‘돈다발 게이트’ 남아공 대통령… 법원 무효 판결에 구사일생",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84b2hxWTFLRmhWaG5tNlpEb3BPYldJOWk5STlZUFdMeVBFbklqWFg3WUhXRXZoSm1pWkwxR2xMdlR0VGdiUXNxcjZFNldLd2FD?oc=5",
+              "source": "문화일보",
+              "publishedAt": "2026-11-26T02:53:18.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
+          "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
-              "source": "글로벌이코노믹"
-            }
-          ],
-          "span": "11.19",
+          "headlines": [],
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
+          "sourceCount": 1,
+          "articleCount": 1,
           "articles": [
             {
-              "title": "20년 전쟁 악몽 재현되나…에티오피아·에리트레아 국경에 군대 집결",
-              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPckpvdDVlNG03eW5MeVgzNXpFQ1laU2VpZmo5c0trOGVwZ2JkVTNBa1p4VWJqbzVnRkhJOXdiWEZKNUd5MWdua3hIMVdXMkpuVklpRXJ3TEVkXzc2RlJPS2RrWExLUVBLS0ticHJ6R0VtTzlFelp2N2ZHSWM5R09rTEo0ZWlBUXhLNkdQTzUzTEEtZjdjeDN6LXV2ZlhqRnF3azNoMVB2MjZ5THMtenB1TGp0X3ZfY3VQMi02VzZ0MWZtNmxCaVdCSkVmdlJNVGtDWlNkM1V6ZmkzTUhhLW16bHBZelVnQVBKOXNxOWQ2Qk5NUVVqUFl1dWFKTy1SZGwzZ2RCcDVkREdjeGZiSFE3RjZ1VlFZZ2pk?oc=5",
-              "source": "데일리안",
-              "publishedAt": "2026-11-19T13:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "에티오피아·에리트레아 국경 군사 대치…1998년 전쟁 재발 공포 고조",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjVndkl4TmlTTWVHdWtuVGFzbTNWbm1XbEhfQU1rcF9BTm5uOUZpLUdqdlBKVEU2TEVaMU9FLTJ0dmlZbUlTYW8yY2ZqTm1Ec29NWjFRNTR6ano3Z0x3cjZrWGlIdDZFX0YzT19RWFQxT0NlVGdPZG83bHM2RDNXMjFYZmVrajNy?oc=5",
-              "source": "글로벌이코노믹",
-              "publishedAt": "2026-11-19T09:36:16.000Z",
+              "title": "'美 의존도 낮춘다'...AGOA 배제 앞둔 남아공, 수출 다변화 총력-Xinhua",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QemQxcXNrX20wMVRJY1JmLXRoZVZDOXdkNDhLWUpXckF6Z19xUTFBMzBJZTRxVy00U1pkRnFBdWlwdmVkTUJXQkgxcTg2U2dOLVdPMGtKemk0OXJ4VFp2eVRGM1dWTnpnOU9aTUx1ZFVFQ0dn?oc=5",
+              "source": "신화망",
+              "publishedAt": "2026-11-26T01:44:28.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "이오수 경기도의원 \"준공 5년 광교청사 매각 검토라니…도민 재산이 재정난 해결 수단인가\"",
+          "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "경기도의회 이오수 의원, “준공 5년 만에 광교청사 매각 검토라니...도민 재산이 재정난 해결 수단인가”",
-              "source": "성남신문"
-            }
-          ],
-          "span": "11.19",
+          "headlines": [],
+          "span": "11.26",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
+          "sourceCount": 1,
+          "articleCount": 1,
           "articles": [
             {
-              "title": "이오수 경기도의원 \"준공 5년 광교청사 매각 검토라니…도민 재산이 재정난 해결 수단인가\"",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xSkFjM3FjeG5fVVFHNkQ0N0JqLUI4dUY3MmhEMTVETnlPU1NwdkdyYURVd3hRNWZFOTFrNnp4UVF2enR5RkkxWThfYXpaYk12aWdIS3VIclQ4aDctc2ZyWjZJMk41cnFZck5raTZXZ0kyUQ?oc=5",
-              "source": "https://www.newscenterkorea.com/",
-              "publishedAt": "2026-11-19T07:48:15.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "경기도의회 이오수 의원, “준공 5년 만에 광교청사 매각 검토라니...도민 재산이 재정난 해결 수단인가”",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95UWtIRjhnR2VXS29SazVCODRBZVZQUlVJMVZkelNKbERwdFp1ZFlXSm52WV9WZUVlTFY3TkZKSGlpNjJ6d1lBN2VPaTNCbXhVN3BrVEFrNHVtTWVQQ0RDeFlEZ0Foeno3cUFDadIBcEFVX3lxTE9yUzg1TlM1NFQ1NFpIRFdsSWdKdzFSTWZJTFRWbWVIVVMxUkF1TFcyS0k5b00xbElGeG15VVBZSjRSNVgwSEVBSkhGeVJ2SDk1T0lsNnBIU29aWXk2dEF3YV9TejFJRXF6cUVGQngyQVI?oc=5",
-              "source": "성남신문",
-              "publishedAt": "2026-11-19T07:25:46.000Z",
+              "title": "에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ySm9Oc0JUMldDNnNNemFrdTA2bmhTalVBVmtOM0MyTjlfdnBiVFNacGJIcm5kdGtwTEh1aUY3dHdpUkpDYXItN2ZJM1dIZ083Y2c?oc=5",
+              "source": "매일경제 마켓",
+              "publishedAt": "2026-11-25T22:00:06.000Z",
               "kind": "news"
             }
           ]
