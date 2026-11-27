@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-26T21:17:02.423Z",
+  "updatedAt": "2026-11-27T21:19:10.339Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           4.6,
           7.4,
           9.2,
-          4.7
+          5
         ]
       },
       {
@@ -42,7 +42,7 @@
           3.5,
           6.6,
           4.3,
-          3.7
+          0
         ]
       },
       {
@@ -53,7 +53,18 @@
           3.2,
           4.9,
           3.7,
-          3
+          2.1
+        ]
+      },
+      {
+        "word": "총파업",
+        "values": [
+          0,
+          0,
+          0,
+          2.5,
+          2.5,
+          16.7
         ]
       },
       {
@@ -64,7 +75,18 @@
           4.6,
           4.1,
           0,
-          2.4
+          0
+        ]
+      },
+      {
+        "word": "학교",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          16.3
         ]
       },
       {
@@ -75,7 +97,7 @@
           0,
           0,
           0,
-          15.5
+          15.6
         ]
       },
       {
@@ -88,33 +110,23 @@
           12.9,
           0
         ]
-      },
-      {
-        "word": "노동부",
-        "values": [
-          4.7,
-          0,
-          3.2,
-          3.3,
-          2.5,
-          0
-        ]
-      },
-      {
-        "word": "현대차",
-        "values": [
-          2.8,
-          2.8,
-          7.1,
-          0,
-          0,
-          0
-        ]
       }
     ],
     "rising": [
       {
+        "word": "총파업",
+        "change": null
+      },
+      {
+        "word": "학교",
+        "change": null
+      },
+      {
         "word": "철도노조",
+        "change": null
+      },
+      {
+        "word": "급식",
         "change": null
       },
       {
@@ -124,45 +136,33 @@
       {
         "word": "대통령",
         "change": 428
-      },
-      {
-        "word": "발언",
-        "change": null
-      },
-      {
-        "word": "지연",
-        "change": null
-      },
-      {
-        "word": "총파업",
-        "change": null
       }
     ],
     "falling": [
+      {
+        "word": "사망",
+        "change": -68
+      },
+      {
+        "word": "하청노동자",
+        "change": -100
+      },
       {
         "word": "인정",
         "change": -100
       },
       {
-        "word": "하청노동자",
-        "change": -71
-      },
-      {
         "word": "현대차",
         "change": -100
-      },
-      {
-        "word": "사망",
-        "change": -39
       }
     ]
   },
   "stats": {
-    "articles": 1257
+    "articles": 1243
   },
   "ai": false,
   "headline": "최근 6개월 노동: 「2027년 최저임금 1만700원 확정」",
-  "overview": "2026.06부터 2026.11까지 6개월치 노동 기사 1,257건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(2개월), 「1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금」(2개월), 「김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"」(2개월)입니다. 기간 후반으로 갈수록 철도노조, 준법투쟁, 대통령, 발언 언급은 늘고, 인정, 하청노동자, 현대차 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 노동 기사 1,243건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(2개월), 「1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금」(2개월), 「김영훈 \"'노동자 끼임사망' HL만도 대표 중대재해법 입건\"」(2개월)입니다. 기간 후반으로 갈수록 총파업, 학교, 철도노조, 급식 언급은 늘고, 사망, 하청노동자, 인정 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -324,68 +324,101 @@
       "whyItMatters": ""
     },
     {
-      "title": "철도노조 준법투쟁 첫날 퇴근길",
+      "title": "학교 비정규직 오늘 총파업…급식·돌봄 차질 예상",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 16,
+      "articleCount": 37,
       "summary": "",
       "headlines": [
         {
-          "title": "철도노조 준법투쟁 첫날 퇴근길",
+          "title": "학교 비정규직 오늘 총파업…급식·돌봄 차질 예상",
           "source": "2026.11"
         },
         {
-          "title": "철도노조, 오늘부터 준법투쟁…수도권 전철 등 지연 우려",
+          "title": "부산 학교 비정규직 파업으로 150개 학교 급식 차질",
+          "source": "2026.11"
+        },
+        {
+          "title": "학교비정규직 파업…246개 학교 대체식 제공",
+          "source": "2026.11"
+        },
+        {
+          "title": "전국학교비정규직 오늘 총파업...\"비정규직 차별 해소\"",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "철도노조 준법투쟁 첫날 퇴근길 지연 속출…\"30분 기다린 열차 이미 만원\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82ekFqb1VMRlk0Y3Ewc0ZsdFJ2QWE2YzdwWkJJSXg2RlVxUWkxRE9raWFOS3V6bFV3NEpKV1IzbmtsRnpEVDliTkNiaVA0SnB0Qkx3bkRNeU1FZEXSAWBBVV95cUxQd09iNFI0ckxWQXR5NUh2OU5hZWFjUUhpVFpLbHRQVWwxRmxDa1ZoamszU0xvYTNrT2wyUUdWUVdkMWNHR2d1N0c0NnEyaHpod0doTWFsdGpuWWZ1elpWeDU?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-26T10:02:06.000Z",
+          "title": "학교 비정규직 전국 파업에 급식·돌봄 차질",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSW1uYmxUdldMcUtTQ2dRZ0pMMkc3THdpa1p4d2pOU3BxTjh5SHdHeE4tanluSUJNOEdSdjRrSFNXSEIzM21ZZWoyZFJLNUtLXzRyemQzU2V1aDdzWWh3b1p6T1lZTzhOV0V1S0Y5RjZUdWIyOEF6cGcxZUJ6V3FOUkdWcTVPekU?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-27T12:44:49.000Z",
           "kind": "news"
         },
         {
-          "title": "철도노조, 오늘 오전 9시부터 준법투쟁‥일부 열차 지연 예상",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmLUFaQlkwWG9SMU1STTRWb2tsak1mTE9FdkJCNGlSYnpNcDZ6Q2YzT0lqNGJEWk9sX1YzVjNNeXJ0TmJETkc3clRESHk1X0VxeUFMZEFvREVCb0VsRjEzWVVxOW1VQ2ZVak5FY1JmVlFzeDg50gF0QVVfeXFMT0kxNWFrSFdZNWJEQ0hEb1ZJMGZvWmF0UDVuMERSMEFfMEFKVkpHa2EzZkI1Y0dIQzI2Zm1ac3Z1ME4tdGloX0lhb0V0MUYxUXpOTkJUb1dwT1pzaVk0bmhWSlFueUJuYnh3akVnYXdBaFpEd0w?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-25T23:41:23.000Z",
+          "title": "학교비정규직 총파업..경북 195개교 급식 차질",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZnpnSDNwSEhwVVZiTTJNbzJGUTdvR09xOTRNS3o1WkRucHFXSTY1N1M1NTNmdnBJMmRsNTBfOEZsOW9LWVBfOXVXNS1mM2hfY1dfck5oRW0wclltQWZRM2thQWxCeFoy?oc=5",
+          "source": "안동MBC",
+          "publishedAt": "2026-11-27T12:24:51.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교비정규직 파업…246개 학교 대체식 제공",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYM3hCMjU2Zk16bmRocGdXdHozdzRjUDBDSU5ZakFSeko5UWVmNUZoUUExOGlJSmlHaGFVWkpBNGlkOU9hRWtTeFBTZ2pKV2hiM1U5dkxILVZROW8xZFo1QUNEWjJzZw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T10:32:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교 비정규직 오늘 총파업…“임금차별 해소·교육재정 확보”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cmNoYkZaaTNnVTVycjZweGJ4TTNRTnFPd3BVNXNhTzJuNy1RT3JGVnhZUXlSS0Vib1VTYWV0QUhjWjhJcm1IU0F1dGQ5YVhzYlo1ejZXWk9PZmM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T12:05:00.000Z",
           "kind": "news"
         }
       ],
       "whyItMatters": ""
     },
     {
-      "title": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지",
+      "title": "철도노조 준법투쟁 이틀째…열차 454대 지연",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 15,
+      "articleCount": 27,
       "summary": "",
       "headlines": [
         {
-          "title": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지",
+          "title": "철도노조 준법투쟁 이틀째…열차 454대 지연",
           "source": "2026.11"
         },
         {
-          "title": "철도노조 준법투쟁에 열차 4대 운행 중지‥광역전철 235대 지연",
+          "title": "철도노조 준법투쟁…KTX 일부 열차 지연",
+          "source": "2026.11"
+        },
+        {
+          "title": "철도노조 준법투쟁 2일차, 광역전철 445대 20분 이상 지연",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "철도노조 안전운행 투쟁 돌입…열차 지연·운행 중지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wRy1WLWExNjFFX2o2b3oxWWxPemlBdTlmelFSYzFORWUyUXZIai04TUpnbjVCVXVPVGVsVHEySUxZRm1PTjNYMXQxRWljS3FtVmFXU0luMGZYVWNFR1laa2xXbWtKX00?oc=5",
+          "title": "철도노조 준법투쟁 이틀째…전철 400여대 지연",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWWpybXZTQkJPdWpuVkc2V043b1g1RzliSXAwUmo4WlYwNnJuNGlNN19ranFHT21qaUVGRlVFMWUwc1F0aWg2UEJmTEpVOGMxc2dfMER2dFZ5TDZmQk5kUnY5M0dOeU0?oc=5",
           "source": "연합뉴스TV",
-          "publishedAt": "2026-11-26T12:14:00.000Z",
+          "publishedAt": "2026-11-27T12:09:00.000Z",
           "kind": "news"
         },
         {
-          "title": "철도노조 준법 투쟁으로 열차 4대 운행 중지·2백여 대 지연",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84TW43TVU3NEhyNlplOVpnU2RTVTQ2MnZSWndzQmIwb01sV19xQWxuNEVMeTJhc3E1bnlOR1VWbUJjdEtRSlRseE4tM2NUUWwtWFRORG8zTEJ2YVk?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T09:58:00.000Z",
+          "title": "철도노조 안전운행 투쟁…12월 10일 총파업 예고",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WZkNwWHRMc0hjZDJmbF80dG02M2tiNXVIVWc0SW94M1VBVTJxTXZaSzVjWWRhR3F0Y0dFR3BPamdyOEtUVk9fM3dyZGx4V1hDdGdZNmxsUTlCUQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-11-27T03:33:02.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "철도노조 준법투쟁 2일차, 광역전철 445대 20분 이상 지연",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jUTgyRW52Z0Z3RHdpT2VwS3NxdktES29HS3BrU25NOGtMcGY4MXp3aHZ1dTdmRjl6eEVjN3lBMTdWU3pNNkZJMnRQUEE0WnpMTURUdjk2cjZiVzg4NHZSdnN3SWQ?oc=5",
+          "source": "매일일보",
+          "publishedAt": "2026-11-27T10:27:59.000Z",
           "kind": "news"
         }
       ],
@@ -460,7 +493,7 @@
     },
     {
       "date": "2026.11",
-      "event": "철도노조 준법투쟁 첫날 퇴근길"
+      "event": "학교 비정규직 오늘 총파업…급식·돌봄 차질 예상"
     }
   ],
   "outlook": ""

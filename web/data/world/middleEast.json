@@ -2,14 +2,14 @@
   "region": "middleEast",
   "label": "중동",
   "range": {
-    "from": "2026-11-21",
-    "to": "2026-11-27"
+    "from": "2026-11-22",
+    "to": "2026-11-28"
   },
-  "updatedAt": "2026-11-26T21:17:05.189Z",
+  "updatedAt": "2026-11-27T21:19:12.980Z",
   "ai": false,
-  "overview": "최근 1주 중동 관련 국내 언론 기사 246건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「정부, 이란 다야니 2차 국제투자분쟁 최종 승소…7700억 배상 면해」(기사 22건)입니다.",
+  "overview": "최근 1주 중동 관련 국내 언론 기사 261건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「조현, 이란 외교장관과 통화 “청해부대, 전쟁 불개입”」(기사 5건)입니다.",
   "stats": {
-    "articles": 246
+    "articles": 261
   },
   "themes": {
     "economy": {
@@ -17,76 +17,250 @@
       "summary": "",
       "keywords": [
         {
-          "word": "하락",
-          "count": 5
-        },
-        {
-          "word": "기업주식정보",
-          "count": 5
+          "word": "봉쇄",
+          "count": 9
         },
         {
           "word": "전쟁",
-          "count": 4
-        },
-        {
-          "word": "후티",
-          "count": 4
+          "count": 7
         },
         {
           "word": "공격",
-          "count": 4
+          "count": 7
         },
         {
-          "word": "그림자",
-          "count": 4
+          "word": "호르무즈",
+          "count": 7
+        },
+        {
+          "word": "후티",
+          "count": 6
         },
         {
           "word": "제재",
-          "count": 4
+          "count": 6
         },
         {
-          "word": "폭등",
-          "count": 4
+          "word": "피격",
+          "count": 6
+        },
+        {
+          "word": "수출",
+          "count": 5
         }
       ],
       "items": [
         {
-          "title": "사볼라그룹 사우디 증시서 2.98% 하락 마감 : 기업주식정보",
+          "title": "이란 \"美 봉쇄는 군사 침략…공격시 혁명수비대가 답할 것\" |",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [],
-          "span": "11.25~11.26",
+          "headlines": [
+            {
+              "title": "이란 \"미국의 봉쇄는 군사 침략…공격 시 혁명수비대가 답할 것\"",
+              "source": "SBS 뉴스"
+            },
+            {
+              "title": "이란 \"美 봉쇄는 군사 침략…공격시 혁명수비대가 답할 것\"",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "이란 ＂美 봉쇄는 군사 침략…공격시 혁명수비대가 답할 것＂",
+              "source": "한국경제TV"
+            }
+          ],
+          "span": "11.23~11.25",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 1,
+          "sourceCount": 4,
           "articleCount": 4,
           "articles": [
             {
-              "title": "사우디아왈은행, 현지 증시서 1.55% 하락 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUUjNyVHNNN2ptTkt0dFBaZC1VSlc1REZYd0tIUWRpNkJqdGFZNU1YWDNCb2VNT3JEWi1TYk1kNjNZSkJOWnI1cW8wOA?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-26T03:59:07.000Z",
+              "title": "이란 \"美 봉쇄는 군사 침략…공격시 혁명수비대가 답할 것\" |",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oY2Nuc3BzZDdaOFI1cFN6SWdZS0VYTUM0d1NXWVpINm5VUGhOOEJjS2tYS2h3MEd1Z3JlVjF3Mnd6bi1rSnEyNzBLa1NGUllTam5PQ21VWE94U3dqUklkWkpkYnBLYjQ?oc=5",
+              "source": "국민기자뉴스",
+              "publishedAt": "2026-11-25T03:02:56.000Z",
               "kind": "news"
             },
             {
-              "title": "사볼라그룹 사우디 증시서 2.98% 하락 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TSGxqbXNwdkxmeEc5aHQ2VmtsUy1aMURVOG9GSjFqWXRMQk9ZTlhyaUFEOTFyNzN6ck9uaDR0NFp2cEYzT1BPWi1tZw?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-26T03:53:06.000Z",
+              "title": "이란 \"미국의 봉쇄는 군사 침략…공격 시 혁명수비대가 답할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15b2h0UnZVMm5EU1NIaElkWjJyR0dzcEhXYTR1UHdXbDZERk1lTTVxTXN6emtneS1HeC1GU0s4a2dibHRSemx3NER3NG5ham1SNDJzN2FTTkMySjV1SFRwS2Q1VVZPWkVjamc?oc=5",
+              "source": "SBS 뉴스",
+              "publishedAt": "2026-11-23T09:34:44.000Z",
               "kind": "news"
             },
             {
-              "title": "마덴, 사우디 증시 약세 속 홀로 상승하며 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GbWRkQ1hhY3JBSGVFbGJSdDV5eTc3UXJZMzVpZWxqMDhqSV9Ca0FIZzlrMFNJVEpxVVcwb1d6cmZZU3hKRkstQ3dSdw?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-25T03:50:08.000Z",
+              "title": "이란 \"美 봉쇄는 군사 침략…공격시 혁명수비대가 답할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZDF6UjdwMjU3UE1mdTdIaUtjSXJ2aF9iOXBzNHlvRDNTZE1zMnNUU0FxdFVWekhqRnZEbENsaU9FcXViajl4UG1MUE5Qb0t0akpaRnc4OVJ0cTlQelQ3V9IBYEFVX3lxTE5wZDF6UjdwMjU3UE1mdTdIaUtjSXJ2aF9iOXBzNHlvRDNTZE1zMnNUU0FxdFVWekhqRnZEbENsaU9FcXViajl4UG1MUE5Qb0t0akpaRnc4OVJ0cTlQelQ3Vw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-23T09:11:37.000Z",
               "kind": "news"
             },
             {
-              "title": "방크사우디프랑시 사우디 증시서 2.02% 상승 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13WXVhaDBoMXVfVlJlcGNFQzF3NktCRUZseGdLSlVtN0phb00zVWRQejFpZWIyNG14TF9Mb2lXbDJOYnNnNWpNLW1lOA?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-25T03:45:06.000Z",
+              "title": "이란 ＂美 봉쇄는 군사 침략…공격시 혁명수비대가 답할 것＂",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYU1YX0xJUlVvMmNnemdBRTF3QTRGNi1rNmMwWFUzWjhsYzY5cjVzdjB1WEs3eHNRa3ctYkItMURTU2xyVHhuTThKS1FjYkxxRVR1RTZ6Rk9Hbmk2aDVWLVhMblFTMHB1WDg1UC1PekVjN1kzNDZLNlExWU03MTcxMA?oc=5",
+              "source": "한국경제TV",
+              "publishedAt": "2026-11-23T09:11:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"이란, 호르무즈 안전통항 대가로 암호화폐 '위장 보험료' 징수\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "\"이란, 호르무즈 북부서 암호화폐·위안화로 보험료 징수\"",
+              "source": "뉴스1"
+            },
+            {
+              "title": "\"이란, 호르무즈 통행료 징수 중…암호화폐로 '위장 보험료' 받아\"",
+              "source": "mnews.sbs.co.kr"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "\"이란, 호르무즈 북부서 암호화폐·위안화로 보험료 징수\"",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qbmtOTGpnN241Tl9rTUd4bW5xSi1ZRkxfQ2RiZy1ZWDZhNUdPMS1lbFYyMnVCSGI2RlIzeUJ3a2Zfb1RjZzdvSkJid0JlVl9Wd2lCVGVmNV9Ic1lGQXRHT0dn?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-25T12:36:35.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"이란, 호르무즈 통행료 징수 중…암호화폐로 '위장 보험료' 받아\"",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVFfRlh4UEtoU3NwRTE3Zm9GVlo2ejZUZnN6UnNjV2czVnh3bm90RV9pbkJqUERhTVpZQUdqQ0VvbU5fTEZYMlJITVRTQWNUV2hjdFlQR0VsS0JXai1OVkRKYm9SM2p6bUdtdHJRRkRiNnZlWm9kakp2UU9TcEdCX0FYN0VxWmJsbGZoaTBR?oc=5",
+              "source": "mnews.sbs.co.kr",
+              "publishedAt": "2026-11-25T10:36:06.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"이란, 호르무즈 안전통항 대가로 암호화폐 '위장 보험료' 징수\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQbXhPTHFYQnkyUXFpRzk3RS02ZXM4a25mSVhDVFY4LUpJRWlCakdleUNreHd6RmprcnFmcENHYVhmOHRwMUlsM01BUnA3MG15azdxMTFydDh3c1FHNWN0btIBYEFVX3lxTFBQbXhPTHFYQnkyUXFpRzk3RS02ZXM4a25mSVhDVFY4LUpJRWlCakdleUNreHd6RmprcnFmcENHYVhmOHRwMUlsM01BUnA3MG15azdxMTFydDh3c1FHNWN0bg?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T10:13:48.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "사우디 수도 최고층 빌딩, 경보도 없이 또 피격…11명 부상(종합)",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "사우디 금융지구 최고층 빌딩, 경보도 없이 또 피격…11명 부상",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "사우디 수도 최고층 빌딩, 일주일 만에 또 발사체에 피격",
+              "source": "SBS 뉴스"
+            }
+          ],
+          "span": "11.24~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "사우디 금융지구 최고층 빌딩, 경보도 없이 또 피격…11명 부상",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zazVvd2JNei1lVUN4WlJ0WDU4bjdFMl9KX09GdldmU1FRTktjcy1xcDhBdktlb29hdDB1c21ZSE05MVdtY2ZQYWdmRmFQajNQYmhhM2xB?oc=5",
+              "source": "헤럴드경제",
+              "publishedAt": "2026-11-25T05:43:12.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "사우디 수도 최고층 빌딩, 경보도 없이 또 피격…11명 부상(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aWmRod2NUTHhxY0hCaE1BYjNaMVJPcm9SSnFSc3FCY2pLUU4zblc3WjlnRmIxRWVjd3hlMmhSb1JzR28td29wUHVzVUFCdHJlZ25EancyUWlBbDh6YTd5VNIBYEFVX3lxTE5aWmRod2NUTHhxY0hCaE1BYjNaMVJPcm9SSnFSc3FCY2pLUU4zblc3WjlnRmIxRWVjd3hlMmhSb1JzR28td29wUHVzVUFCdHJlZ25EancyUWlBbDh6YTd5VA?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T16:00:54.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "사우디 수도 최고층 빌딩, 일주일 만에 또 발사체에 피격",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8td0J3c2hDSFlCSUJjenVnS3VleDc0NW5FdkhDeTk0ZEVqUkhEenROZ0xoVml2YUllaVNFeXM3N1FXWWdsUENVUVhlSnNvcDhnek9lV3hVczI2MWpTbjR3Q1VtR0pDTTNLMEE?oc=5",
+              "source": "SBS 뉴스",
+              "publishedAt": "2026-11-24T14:49:32.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"마지막 돈줄 옥죈다\"…美, 이란 그림자 금융 30곳 신규 제재",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "“뱀 머리 묻을 것“…美, 이란 ’그림자 금융망’ 30곳 제재",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "美, 이란 '그림자 금융망' 제재…\"마지막 생명줄 끊겠다\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.24",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "“뱀 머리 묻을 것“…美, 이란 ’그림자 금융망’ 30곳 제재",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BYTQxbW9qQXktOHVsR3JIbFVUMFVmbTRTMEtQZDU3RTh3LVRTRF90TDBzNWJhZ3VKREdkY0lzdFVWMFVFYzk2ODdsSjFsMThsaThqdGtuckliX0NBZmRkemlCZDZHSG8?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-24T06:54:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美, 이란 '그림자 금융망' 제재…\"마지막 생명줄 끊겠다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSnRuak1qUmJVOHFpNnJoM1pUaVdDYlY4YjBvdHBLNy1QMENzZDZqY2xJcGNqZzQxYl9kakVZbW5LeTI5WU9HNEtmOVRJeGY3bWFHZ2JMOFBUVHpPWk01UdIBYEFVX3lxTE1jSnRuak1qUmJVOHFpNnJoM1pUaVdDYlY4YjBvdHBLNy1QMENzZDZqY2xJcGNqZzQxYl9kakVZbW5LeTI5WU9HNEtmOVRJeGY3bWFHZ2JMOFBUVHpPWk01UQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-24T06:23:21.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"마지막 돈줄 옥죈다\"…美, 이란 그림자 금융 30곳 신규 제재",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwSF95N2dsS05RUkVCcnlrZEl6STktbHhRV3JyWFVob3B1Y2RUY2l2aTdvOWRlbXVIWENqSUtrc3dzQmhUOXdRS2Mza25ydDVmM293eE9IVTNRMEZ6TzRVdTZ6M0o4aEJxT29qM0pzVzBnNWdGS0ZZQ9IBeEFVX3lxTFBwSF95N2dsS05RUkVCcnlrZEl6STktbHhRV3JyWFVob3B1Y2RUY2l2aTdvOWRlbXVIWENqSUtrc3dzQmhUOXdRS2Mza25ydDVmM293eE9IVTNRMEZ6TzRVdTZ6M0o4aEJxT29qM0pzVzBnNWdGS0ZZQw?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-23T21:12:21.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "이란, 전쟁 장기화 속 물가 89% 급등…\"물가 억제 총력\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.25",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "이란, 전쟁 장기화 속 물가 89% 급등…\"물가 억제 총력\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByaTVZa3Bna3RQQnBTVEJoaXg5aGdSaE9yX3gxbDJwUy14UXhhaS1oRU1OWlBrd3EtaFM2LU9fb1pEV0JUM01wbWdlWE5XS0t1MmY4c3BMaHVxeDBSVkdIclBRRjB6MTJjR0E?oc=5",
+              "source": "SBS 뉴스",
+              "publishedAt": "2026-11-25T09:21:36.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bmlFTS1HUnJBdEhaTDNVUE9jT1l1VHFITEY0aDdIRHVsOGpqSUREaXJMN3hWLXVuRmNLOWE4VVVWSVVJUWExRE9GWjF3bDlfWkhOWC04U3JGdUHSAWBBVV95cUxQU01ublpONWtHVnRPalZmaC1RSG9VRnNwSkNLMDJCNXdzZVlpRE1Va01LZ0ZUdGw0ekV2bWp4Z0FSZ1N2cFNuZUxHc0FmSU9uOExoeWVFaXcxS1M5MnhMck0?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-25T09:10:47.000Z",
               "kind": "news"
             }
           ]
@@ -122,98 +296,6 @@
               "kind": "news"
             }
           ]
-        },
-        {
-          "title": "“뱀 머리 묻을 것“…美, 이란 ’그림자 금융망’ 30곳 제재",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "美, 이란 '그림자 금융망' 제재…\"마지막 생명줄 끊겠다\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.24",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "“뱀 머리 묻을 것“…美, 이란 ’그림자 금융망’ 30곳 제재",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BYTQxbW9qQXktOHVsR3JIbFVUMFVmbTRTMEtQZDU3RTh3LVRTRF90TDBzNWJhZ3VKREdkY0lzdFVWMFVFYzk2ODdsSjFsMThsaThqdGtuckliX0NBZmRkemlCZDZHSG8?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-24T06:54:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "美, 이란 '그림자 금융망' 제재…\"마지막 생명줄 끊겠다\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hS3ZaMFJrNTBCLXRxaTdPeGNnNm9LN1pBUE9ha2Z6ZkE5LTVTTGtjNHM4b1h5VmNVSnA5M3JxV0V3UGZQWmpNME91bHp5bl9NVFFTNWtTN2lYTzTSAWBBVV95cUxNY0p0bmpNalJiVThxaTZyaDNaVGlXQ2JWOGIwb3RwSzctUDBDc2Q2amNsSXBjamc0MWJfZGpFWW1uS3kyOVlPRzRLZjlUSXhmN21hR2diTDhQVFR6T1pNNVE?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T06:23:21.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "중동 공급 차질 우려에 브렌트유 상승…美 금리 우려에 금값 약세",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.27",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "중동 공급 차질 우려에 브렌트유 상승…美 금리 우려에 금값 약세",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QUmdmdHVSUnZqVXVhMXRuSDZTNGpqN3BlTEdCSVJJY0pYUm9jblIwaDVjWnByYzJ4TU1YVzJNVzJuNklVT1dWZXUtb2NGVWdzcDVtcmt0WkxUbmta?oc=5",
-              "source": "뉴스핌",
-              "publishedAt": "2026-11-26T20:41:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "이란 경제 위기 속 식품값 폭등과 신정체제 내부 갈등 격화",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.27",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "이란 경제 위기 속 식품값 폭등과 신정체제 내부 갈등 격화",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeW9XTWRfYlVqODVQV0xRTktQc0REdUFVMVMyVEczdjZnTDRrNjk2VlZYaWtFdUt2VXdYMVYxamJVZEJsOUVmQlc1akFMNTVIbVBBWkJQNW9sWHQtOU9JQmdQSVdMQVRpa21nekM5OEs4N2V5c0lJVzlOSTBUXzhvQVpLaGZYNWFRVl8tYkRuZmJ3anFJ?oc=5",
-              "source": "블로그차트",
-              "publishedAt": "2026-11-26T17:34:18.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "\"돈 없다\" 두 손 든 이란 대통령…식음료 물가 두 배 폭등",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "\"돈 없다\" 두 손 든 이란 대통령…식음료 물가 두 배 폭등",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hSkg2RVdmUV9ORHBRRkZpdXIwbFlWaUdsZWQtN1JJS2FKdjk2NFE2Q0hkYkY2RF9fTHpZNjRReEswQ0haSFZJZUNvb1dQaWs5SFVPdnF1OC1nZw?oc=5",
-              "source": "한국경제",
-              "publishedAt": "2026-11-26T10:32:49.000Z",
-              "kind": "news"
-            }
-          ]
         }
       ]
     },
@@ -222,35 +304,35 @@
       "summary": "",
       "keywords": [
         {
-          "word": "트럼프",
-          "count": 16
+          "word": "사망",
+          "count": 13
         },
         {
-          "word": "중동전쟁",
+          "word": "공격",
           "count": 11
         },
         {
+          "word": "트럼프",
+          "count": 10
+        },
+        {
           "word": "원유",
-          "count": 9
+          "count": 8
+        },
+        {
+          "word": "하마스",
+          "count": 7
+        },
+        {
+          "word": "중동전쟁",
+          "count": 7
         },
         {
           "word": "청해부대",
-          "count": 9
-        },
-        {
-          "word": "사망",
           "count": 7
         },
         {
-          "word": "가자지구",
-          "count": 7
-        },
-        {
-          "word": "미군",
-          "count": 6
-        },
-        {
-          "word": "불개입",
+          "word": "유럽",
           "count": 6
         }
       ],
@@ -261,29 +343,43 @@
           "whyItMatters": "",
           "headlines": [
             {
+              "title": "韓-이란 외교장관 통화…청해부대 관련 '전쟁 불개입' 원칙 설명",
+              "source": "아시아경제"
+            },
+            {
+              "title": "조현, 이란에 청해부대 전쟁불개입 설명..아락치 외교장관과 통화",
+              "source": "파이낸셜뉴스"
+            },
+            {
               "title": "조현, 이란 외교장관에 청해부대 확대 설명…'전쟁 불개입' 강조",
               "source": "뉴스1"
-            },
-            {
-              "title": "청해부대 ‘미·이란 전쟁 불개입 원칙’ 명시",
-              "source": "경향신문"
-            },
-            {
-              "title": "李 \"청해부대 임무 넓히되, 전쟁 불개입 원칙 분명히 지킬 것\"",
-              "source": "조선일보"
             }
           ],
           "span": "11.25~11.26",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
+          "sourceCount": 5,
+          "articleCount": 5,
           "articles": [
             {
               "title": "조현, 이란 외교장관과 통화 “청해부대, 전쟁 불개입”",
               "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sVTJwYUZvZG5xNy1zclh5R0lmV1RaMjMtSU5femRvYVZMb1N4ZEF3U0J6YmdTSDVwQ0xKY2RCNjVFaWFrOEJyR3RnbVZ5R1FpckJfa25icXBIbnVYbXBid2cxNVdXNmhqeHVFY1NmXzVxQTJY?oc=5",
               "source": "한겨레",
               "publishedAt": "2026-11-26T10:45:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "韓-이란 외교장관 통화…청해부대 관련 '전쟁 불개입' 원칙 설명",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Eb0V6THBjSWtLVTEycGM3ZGhFYWJhVFFUcUdRNlZnYVBFZlhMU256bloyemVraVJjcERFQnVPTXozMjVnTUdCRldsS0dUd3pma3RYbVVyampCNnd4emRFXw?oc=5",
+              "source": "아시아경제",
+              "publishedAt": "2026-11-26T08:18:56.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "조현, 이란에 청해부대 전쟁불개입 설명..아락치 외교장관과 통화",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BVXluVGhZVGx0Yk1haUtZbHFWdlU2NGZjSlFwc3lES3N6NGJDeEJONmFIcHVhN3BTdjhTWTJESkJueFhCckRiUzlnTWozYklRb0VlRVR2WDVnQQ?oc=5",
+              "source": "파이낸셜뉴스",
+              "publishedAt": "2026-11-26T07:41:08.000Z",
               "kind": "news"
             },
             {
@@ -299,24 +395,103 @@
               "source": "경향신문",
               "publishedAt": "2026-11-25T12:00:00.000Z",
               "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"쿠웨이트서 이란 드론 공격으로 이탈리아인 2명 사망\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "쿠웨이트 드론 공격에 이탈리아인 2명 사망…이란 \"전쟁 각본\" 부인",
+              "source": "매일신문"
             },
             {
-              "title": "李 \"청해부대 임무 넓히되, 전쟁 불개입 원칙 분명히 지킬 것\"",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmg5OVBtSjBHZnVqdlpsa2cyZFJwT3FJOVBtV1dxWFkybHFwYzRxOUs0a2hzcTFVbWhSdlhqZTZsQU5CWE9pM2Zhc3llam9UeXVlNk1oSEVVS3FpV1NlQVRPOUZiLURUckl3SGYwUWpkREdJZk9aamJKN1lHYl9YeDU0OV94V09HTmhMYVFodEI?oc=5",
-              "source": "조선일보",
-              "publishedAt": "2026-11-25T09:17:00.000Z",
+              "title": "쿠웨이트서 이탈리아인 2명 사망…쿠웨이트 \"이란 공격 여파\", 이란은 부인",
+              "source": "뉴스핌"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "쿠웨이트 드론 공격에 이탈리아인 2명 사망…이란 \"전쟁 각본\" 부인",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wZWdCM241YTJXalZnckxIZXl2SnZHREdKXzdWTDdpMjZqQU9RTHpVMUVKT0hhMVN3MHhCY3JSRERNSEFSUTNyeDRRM3JjSFJ2MjJEbkhla3B6VlZkek9IY2ZR?oc=5",
+              "source": "매일신문",
+              "publishedAt": "2026-11-27T08:16:41.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "쿠웨이트서 이탈리아인 2명 사망…쿠웨이트 \"이란 공격 여파\", 이란은 부인",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ya1BxNUFSQUlJVjRTWkEwMjN0bi15bVpjNlphbGMzaGM0ZXVSTWtXLVVzQUhMNlNOMUZVZ2lSU3F6MFpadkFjVVNQRUZyMl9mMGxsbl94U2IzOERK?oc=5",
+              "source": "뉴스핌",
+              "publishedAt": "2026-11-27T03:55:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"쿠웨이트서 이란 드론 공격으로 이탈리아인 2명 사망\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4RnRHdk1uWkxRQmlSSnNwZzVfMDBqa0FtWFYxYlhHUEJMQTlvM1JkTC1valhpQlRrcEVYNXExZnBtQmtJUmhKTVFfbHdhRll1elJyMHg3dXNOMTE1NHhselk4dWNKTGtSSnc?oc=5",
+              "source": "SBS 뉴스",
+              "publishedAt": "2026-11-26T15:43:51.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "이스라엘, 가자지구 공습…\"하마스 고위 보안관리 제거\"",
+          "title": "유럽 항공업계 줄파산...이란 전쟁발 연료비 급등에 직격탄",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "하마스 고위 보안 관리, 이스라엘 가자지구 공습으로 사망",
-              "source": "한겨레"
+              "title": "이란 전쟁발 연료비 급등에 유럽 항공업계 ’줄파산’",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "유럽 항공업계 줄파산…전쟁 탓 연료비 급등에 직격탄",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "이란 전쟁발 연료비 급등에 유럽 항공업계 ’줄파산’",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DZ1gzRDJISXFMUV9BcnBkTURIUGR4a2xEemNxM21SQ3N2Ni14RnZad2FpbWFYUkk4LXRGQUpXQlU5bFp4NmJQOHNUUDU2Z3p6MldCbUlFSmI4YURXQk5YNkxFbjJ3Ymc?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-27T06:44:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "유럽 항공업계 줄파산...이란 전쟁발 연료비 급등에 직격탄",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZaVR4Q0E4WElDV0pwM2JkMWRQS2cxLTQ1WHBpbHd5VGRlRzFFYkJ3LV9hVG1UQmtRMGZSTmc4MEt5a2FZbHV3aGE2SEY4eUk3Y2F3eEM0ZDdKbksxd1E?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-27T06:41:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "유럽 항공업계 줄파산…전쟁 탓 연료비 급등에 직격탄",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsUzAwNFBtb1I4M0ZzalZaRDBoQms0Vjl4eU9fMkl4TVl0RTNnWWNwcmtOaHU3cnQyUGhEZ1k2U1JfM1JpS0NxSTFzWndCd3dzVHAyODRqNDhNWGvSAWBBVV95cUxOU3RjNTFkV08tYmYtc05Kb0JpMHRoLXRYdFZOQ3lsWTZSY2Z6Y203WVZSS3ZLMW1vYkZBV0pGaFphSnQwUzc2VDdEOW4tZkxPZVdDMzFCZ25zMVVza3V5QnE?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-27T06:18:21.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "하마스 고위 보안 관리, 이스라엘 가자지구 공습으로 사망",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "이스라엘, 가자지구 아파트 공습…하마스 고위 보안 간부 일가족 사망",
+              "source": "뉴스1"
             },
             {
               "title": "이스라엘, 가자지구 공습해 하마스 고위 보안관리 사살",
@@ -327,7 +502,7 @@
           "days": 2,
           "hasPress": false,
           "sourceCount": 3,
-          "articleCount": 4,
+          "articleCount": 3,
           "articles": [
             {
               "title": "이스라엘, 가자지구 아파트 공습…하마스 고위 보안 간부 일가족 사망",
@@ -345,59 +520,9 @@
             },
             {
               "title": "이스라엘, 가자지구 공습해 하마스 고위 보안관리 사살",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02Wm9wN1h0d1pQMXVVc0FlVHBfSDEwaUhqWk5lTVJMdVFNcmd3NWswLURKYWpyZF9DMGVHU1JWY1Ayb1lxZDNQZWU0VUp2U0l0SlpIYnJKT21sdTjSAWBBVV95cUxOSlBSQzRSbXRyaVJESy00QXBOcTczNjJad2EtSjAtUHMtcVozU0NJWngwaTQ3QlVGTURJcFkwdm1qRGg0SVFGSTJZRVN0WlVxM191MWtZT1dlRURadnFBNmE?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KUFJDNFJtdHJpUkRLLTRBcE5xNzM2Mlp3YS1KMC1Qcy1xWjNTQ0laeDBpNDdCVUZNRElwWTB2bWpEaDRJUUZJMllFU3RaVXEzX3Uxa1lPV2VFRFp2cUE2YdIBYEFVX3lxTE5KUFJDNFJtdHJpUkRLLTRBcE5xNzM2Mlp3YS1KMC1Qcy1xWjNTQ0laeDBpNDdCVUZNRElwWTB2bWpEaDRJUUZJMllFU3RaVXEzX3Uxa1lPV2VFRFp2cUE2YQ?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-24T13:00:02.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "이스라엘, 가자지구 공습…\"하마스 고위 보안관리 제거\"",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FUUQzNnIydXZGN0tIRjR6V0lyNjU2RWFUZFd5VWFRWDZoN0huSUNGZlVIMmhpYmM4RHJ6M3l1NUZPVkVucEFDbzB3VVR1SkYtUzkxN0RYdGozem1WdXhJYjd3?oc=5",
-              "source": "뉴스1",
-              "publishedAt": "2026-11-24T14:13:23.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "한-사우디, 원유 수급부터 비축까지 중동전쟁 위기 대응 공조 강화",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "산업통상부, 한-사우디, 원유 수급부터 비축까지 중동전쟁 위기 대응 공조 강화",
-              "source": "프레스뉴스"
-            },
-            {
-              "title": "한-사우디, 원유 수급부터 비축까지···중동전쟁 대응 강화 협력",
-              "source": "공공투데이"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "한-사우디, 원유 수급부터 비축까지 중동전쟁 위기 대응 공조 강화",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlQ3Rzdk1wSXNLLUxWRFdEVGxORlluVDdDZlBsUGV4Mlc1Q3ZVY3hJZ1NTVDhmbzdFV2I1X1lkUGJLVVdnVVJWX1FBYkU2dmRqNGNyVjhvYkY3eXJvaGRZ?oc=5",
-              "source": "헬로티",
-              "publishedAt": "2026-11-26T05:19:01.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "산업통상부, 한-사우디, 원유 수급부터 비축까지 중동전쟁 위기 대응 공조 강화",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DMG1ncm9Da3dwUG10ei1TcE0xUGFZTFJReHBIWWw2QmR2ZjVaLWd6N3VmeXZTUXA4LW1VeW52cFd2NHFOTW9uVHRya0ZDOWF5R2FJUlhGMWZrR1l5SjktOWEyT1N1VTdmRlRLMUx4cVotZw?oc=5",
-              "source": "프레스뉴스",
-              "publishedAt": "2026-11-26T02:15:24.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "한-사우디, 원유 수급부터 비축까지···중동전쟁 대응 강화 협력",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WWVhQZUJoMVdPcHBDVTZKME9oTVpqdF9WOE5FaDl5OUdMOEhxdzlSOC1BQjFhMEhYZzdLdUNFM2Z1aEhpZnhURHNob05LdkJSYUpiZmJWX3R6TUxXSDB0N3dtTGNVdXFSOXBySGg2NGU?oc=5",
-              "source": "공공투데이",
-              "publishedAt": "2026-11-26T02:03:47.000Z",
               "kind": "news"
             }
           ]
@@ -446,65 +571,33 @@
           ]
         },
         {
-          "title": "한·사우디, 원유 공동비축 확대 추진…비축시설 증설도 논의",
+          "title": "이란 혁명수비대, 미국 해상봉쇄 돌파 결의…\"공중·해상서 행동\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "\"사우디 원유 한국에 더 저장한다\"… 공동비축 확대 추진",
-              "source": "조선일보"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "한·사우디, 원유 공동비축 확대 추진…비축시설 증설도 논의",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBd2dqa1ZEM05NM281NVMwZ3M0dXgzQXRYdF9JLXdiNjhpLUNYdEdibmJDRG4zWmdnYzUzVkxUQVVzY29aaFMxbDlMOW92NlREQXFzTk5EQWpwRWpFaVcxUVg1b3o?oc=5",
-              "source": "매일일보",
-              "publishedAt": "2026-11-26T06:16:52.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "\"사우디 원유 한국에 더 저장한다\"… 공동비축 확대 추진",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaExjZUNWT1dQSl8xTWVuODRWUjZfRG5UMFlYOTQ2ajl5bWtsb2NoSVVEb19IV1Q2ZUxDQk9IVmdmeEpFSlk4dUowNmxETUNMSGpNUTBWa2xoTDhTVWZtUjUtMHhTSFZfeXkzVjNuaUw3ajdhWlNxLUM5enBhX2tqZjdpdlNGVklTbVBNSDhB?oc=5",
-              "source": "조선일보",
-              "publishedAt": "2026-11-26T00:52:14.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "이란, 전쟁 장기화 속 물가 89% 급등…\"물가 억제 총력\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
+              "title": "이란 혁명수비대, 美 해상봉쇄 돌파 결의…\"공중·해상서 행동\"",
               "source": "연합뉴스"
             }
           ],
-          "span": "11.25",
+          "span": "11.28",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "이란, 전쟁 장기화 속 물가 89% 급등…\"물가 억제 총력\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByaTVZa3Bna3RQQnBTVEJoaXg5aGdSaE9yX3gxbDJwUy14UXhhaS1oRU1OWlBrd3EtaFM2LU9fb1pEV0JUM01wbWdlWE5XS0t1MmY4c3BMaHVxeDBSVkdIclBRRjB6MTJjR0E?oc=5",
+              "title": "이란 혁명수비대, 미국 해상봉쇄 돌파 결의…\"공중·해상서 행동\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NNWpPUlVQN0ljUUVmVm1Tb0ZpUW0yRGdpNTFQdnIweUhReWZBQUhkb3k0VVZlNjZJd1pCeGJkRW5tNnlNdWV6U0llWEtqaDN4VG9uTU1QSV9fMlhoVHp0MTc1bUx0WGlLc0E?oc=5",
               "source": "SBS 뉴스",
-              "publishedAt": "2026-11-25T09:21:36.000Z",
+              "publishedAt": "2026-11-27T18:34:01.000Z",
               "kind": "news"
             },
             {
-              "title": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bmlFTS1HUnJBdEhaTDNVUE9jT1l1VHFITEY0aDdIRHVsOGpqSUREaXJMN3hWLXVuRmNLOWE4VVVWSVVJUWExRE9GWjF3bDlfWkhOWC04U3JGdUHSAWBBVV95cUxQU01ublpONWtHVnRPalZmaC1RSG9VRnNwSkNLMDJCNXdzZVlpRE1Va01LZ0ZUdGw0ekV2bWp4Z0FSZ1N2cFNuZUxHc0FmSU9uOExoeWVFaXcxS1M5MnhMck0?oc=5",
+              "title": "이란 혁명수비대, 美 해상봉쇄 돌파 결의…\"공중·해상서 행동\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRjZxYXNoZmJodEF1T0xCRzJZdEpXZjdqa0I3aXhHTm5LbnM0eW5VT05UTmJRQmdtb2FEcTR4cElXdEJzVWNaN3dsbFZsMnd1NXphLXBoSl9KU00?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-25T09:10:47.000Z",
+              "publishedAt": "2026-11-27T17:16:00.000Z",
               "kind": "news"
             }
           ]
@@ -516,107 +609,39 @@
       "summary": "",
       "keywords": [
         {
-          "word": "다야니",
-          "count": 21
-        },
-        {
-          "word": "네타냐후",
-          "count": 19
-        },
-        {
-          "word": "승소",
+          "word": "없다",
           "count": 18
         },
         {
-          "word": "국제투자분쟁",
+          "word": "네타냐후",
           "count": 14
         },
         {
-          "word": "없다",
-          "count": 13
+          "word": "경제난",
+          "count": 9
         },
         {
-          "word": "최종",
-          "count": 12
+          "word": "돈이",
+          "count": 9
         },
         {
-          "word": "전쟁",
-          "count": 11
+          "word": "아이젠코트",
+          "count": 8
         },
         {
-          "word": "배상",
-          "count": 10
+          "word": "트럼프",
+          "count": 7
+        },
+        {
+          "word": "구성",
+          "count": 7
+        },
+        {
+          "word": "보조금",
+          "count": 6
         }
       ],
       "items": [
-        {
-          "title": "정부, 이란 다야니 2차 국제투자분쟁 최종 승소…7700억 배상 면해",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "정부, 이란 다야니 국제투자분쟁 승소 확정…\"7,700억 유출 차단\"",
-              "source": "연합뉴스TV"
-            },
-            {
-              "title": "韓정부, 이란 다야니에 7천700억 국제투자분쟁 최종 승소",
-              "source": "티제이비"
-            },
-            {
-              "title": "정부, 이란 다야니와 2차 국제투자분쟁 최종 승소...7700억원 추가 배상 청구 기각",
-              "source": "위키리크스한국"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 19,
-          "articleCount": 22,
-          "articles": [
-            {
-              "title": "정부, 이란 다야니 국제투자분쟁 승소 확정…\"7,700억 유출 차단\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qNktnbGxjcjBjV0RhWk1VbjF2YXV3UHF5Ry1SbjM3Y1pDeHNJNzM3YW9KS3ZLXzZyLTI4bUZVb3FicWNOaU0yTUN5RXNxNTQyZGIyc25kRkRlNHk4dEV0azNJY1ZWUWc?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-26T08:56:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "정부, 이란 다야니 2차 국제투자분쟁 최종 승소…7700억 배상 면해",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PTG5GcERuNDZrOTVpODFhelItWDhkX005dzhrQnVoV3EwVnZiU3ZIOGZMcmxnbVBTOURNbGFJSzhNUmFLWFdiRmJBZnFlU1RoaEU4WGVSUm5sd1dtcnZHUjFmYklHamlxOTBqZU1B?oc=5",
-              "source": "아시아투데이",
-              "publishedAt": "2026-11-26T08:54:34.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "韓정부, 이란 다야니에 7천700억 국제투자분쟁 최종 승소",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWTmM4OTNOOGdBQ2JyZmFzcFpoMUZPd2hZQXAzd0ZEa28zZ0xQMklydG1ESXFWbmwySDVuamVaOXpLQml4QkFtdVJMWG5FLXhoUlFPWk02aUw0R1Bh?oc=5",
-              "source": "티제이비",
-              "publishedAt": "2026-11-26T08:04:20.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "정부, 이란 다야니와 2차 국제투자분쟁 최종 승소...7700억원 추가 배상 청구 기각",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxVFVaUmtCSDZkVTQ2YzlEOEdDVlZrY0ZkNXVyaWRfZlRFVVdEWVlsbHU2eF9KbUhMVzQ5Mkpjcy1Jby1wM0VEbndNOHhMMHNIU3VYSERQeHJUeGJGX25reXY2MWhSSEx1cmpMWTNrM2w?oc=5",
-              "source": "위키리크스한국",
-              "publishedAt": "2026-11-26T07:57:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "정부, 이란 재벌가 상대 국제투자분쟁 승소‥7700억 지켜",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zY3RYOFQyV2VMODlSTW80TnpraEFPemFaUThFUzRRS2h3MlZ3UUd6MkM1bU1KM0JNcTdPSVFCQlc3alFWS1hPeHNVaFVvcFJ0cG5fTm5hZHVGTkVYR0hEQ0JxSFc3MnpVQ1hoQWUzNjZQLUV2MmRv0gF3QVVfeXFMUHZVWXdJak83dFlkeWZ1X0t4WDhkMVNqa2tLV2JYVlozNHZPdTN3cG1ZRzhVc29HeW92Tlp1Q1k4VmlYVWdWZ0RsdWVpWEFXdHp6aHc0QUtWMlE0YnJKSGtEeUwwOWdMY3B5dTRFXzhrZXFkMWRfbFk?oc=5",
-              "source": "MBC 뉴스",
-              "publishedAt": "2026-11-26T07:42:06.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "정부, 이란 다야니 국제투자분쟁 최종 승소…7,700억 지켰다",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMblU2MTlURExyMk9Pc0kxaldfYzhVbVY2cV9oQ1NMXzNFdGg1eWZxMGw2U2lXY0cxUTBUREhNZGJST1k0OUNoaFdKdEJpQ0FaalphaFppS3d6TXlZMWlQNEYwYlg2eEJVbVJwZNIBcEFVX3lxTE05SjdsakIzeXU5NUpHblg5Z2l1ZDc2RDkxMGxfUEhoRVhnMVhMbnpNNXZEMlFHcTFDYTZfRGF0eFB1NnZWMVVNTWlST01oQUdyQ21QV01VeVpXVWRLMnNQc2k5NzRrYWd3eVlVVE5WRl8?oc=5",
-              "source": "데일리굿뉴스",
-              "publishedAt": "2026-11-26T07:37:34.000Z",
-              "kind": "news"
-            }
-          ]
-        },
         {
           "title": "이란 대통령 “돈 없다” 경제난 실토…빵 보조금도 줄여",
           "summary": "",
@@ -679,123 +704,116 @@
           ]
         },
         {
-          "title": "“미군, 이란 정권 수뇌부 ‘참수 작전’ 검토”",
+          "title": "정부, 이란 다야니 국제투자분쟁 최종승소…7천700억 배상안한다",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "아버지 이어 아들도 타깃?…“미, 이란 수뇌부 ’참수 작전’ 검토“",
+              "title": "정부, 이란 다야니 국제투자분쟁 승소 확정…\"7,700억 유출 차단\"",
               "source": "연합뉴스TV"
             },
             {
-              "title": "트럼프, 종전 카드 꺼내나…\"이란 수뇌부 '참수작전' 검토\"",
-              "source": "한국경제"
+              "title": "韓정부, 이란 다야니에 7천700억 국제투자분쟁 최종 승소",
+              "source": "티제이비"
             },
             {
-              "title": "\"미군, 이란 수뇌부 '참수 작전' 검토…'협상 어려워져' 반대도\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
-          "articles": [
-            {
-              "title": "아버지 이어 아들도 타깃?…“미, 이란 수뇌부 ’참수 작전’ 검토“",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WWlJ5eDI1V0pUemhPWHBZeE5ILW1EcVFpLVp5YmoxZ2tCd3hnTFlhT2ZEMW9TTnZieGJHeGczVFFGX2t2YjJwcGp3OVFLLXllZzN3S1lEX1RQdVZHTzBLWExvM2x0U2s?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-25T03:56:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "“미군, 이란 정권 수뇌부 ‘참수 작전’ 검토”",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM1ZUS29HY2U2RGdDdlNqOGJWLUJZMFFRb0lRbHg4TTZQRUtrTG01b2NVS2kyQXlKalZWRlI1MDRUN1h2bG5iRGJBZWNtbVV5Mk1kMjVIUXNibDFCbnhmQlpuUVh1TXdCUjZGR3JqeVd4czBhUklBX1JoelN6SThpck00aE5oYkp5QzVfczhyTUh2eWJ1anJSakJQb1RQZ9IBsgFBVV95cUxQNXR4cjU0WXVWUGxXVjdhdm1KbGc1Snh1Z3FjaWNBMkQ2VUkyVnYwMzhJczF5ZjhjM1lBSlBfRFp1QkhEUnlCck1ySjNFMVdrYWFYLTVtTUxjZmszSjFpRjlTT3lKampFaWRUUm9tUDNxalFkX1dfUmVGNldwbVg3RHh5ZmdZTEtPR3pEaDZRbnNBUkttWHB2LUZIRnY1VFZOQlZyVE5nQmpic3dpQ1N3X05B?oc=5",
-              "source": "Chosunbiz",
-              "publishedAt": "2026-11-24T21:38:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "트럼프, 종전 카드 꺼내나…\"이란 수뇌부 '참수작전' 검토\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NHNYNXJYNGVqWFMwd0luRVNvUG5rMzdSVXdtTkZCRzhhNUt5b2VhVWk1Q2FCcFphaFcyWGlTTEJkWENhSm5NMEJoMzE5VjJ4Z2ZqSURhXzRTUQ?oc=5",
-              "source": "한국경제",
-              "publishedAt": "2026-11-24T21:16:55.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "\"미군, 이란 수뇌부 '참수 작전' 검토…'협상 어려워져' 반대도\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CbEFPTktLQVBZNkFnMDhtUy1fNHdZYTdnLVMxYmFQTVhoeUx2TXVOOHlyWTlRYU1HS1pKNjR0d0xnay10RzVBalF5UkNpVmdxOXNVZ1NYUUoxS2vSAWBBVV95cUxPUEtfLXhLWUo4VE4wNzhrMjhUUHlqRkFudThUc1k1NTJNZlBLLUExS3I0TU9vclliRWVhaU1ZUTdlSDFibC1vZUUyZG03MXFRN0hpQWg3TDV3dFZUUldZa1U?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T20:51:48.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "네타냐후 부패 재판 새 국면…법원, 핵심사건 공소취하 권고",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "네타냐후 부패 재판 반전? 법원, 일부 ‘공소 취소’ 권고",
-              "source": "한겨레"
-            },
-            {
-              "title": "네타냐후 부패혐의 벗나…이스라엘법원, 핵심사건 공소취하 권고",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.25~11.27",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "네타냐후 부패 재판 반전? 법원, 일부 ‘공소 취소’ 권고",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04VVJFMlBCLUNnR0QtMlk3ci0wc0VXOXcyNm1vNVM1SVJUX1JnM0xneU9PeFhxa05xUlhOQjltQkhPNzJKWDg4WHFiZlVCanBhYzlKTnZfZ3JrVk9zUDBFaThWOXozQTdoV280SUdCOGVucG8?oc=5",
-              "source": "한겨레",
-              "publishedAt": "2026-11-26T15:43:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "네타냐후 부패 재판 새 국면…법원, 핵심사건 공소취하 권고",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SVTljd09Qb0h0VnZrVFVWeXh1VDcwMHFtSGhpOFFpZ29XYTJld0t1SU5WS0ZQUlRLeDd4cTlDQ2dLcl9tcmRlMkRCRko1QksxUEdhclNHc3NIQdIBX0FVX3lxTE5ZU1RGdFBjU3V0MDNOdU9CODhqWmUyblBVbmhsWEFjWGo1X3FTRjY2UkpOV1c0bnlTOE5aaEd3UGtmWVVrV0c0aGdpaHVBNWd0RVFHWXl5MmxTNDVmMFIw?oc=5",
-              "source": "경향신문",
-              "publishedAt": "2026-11-25T12:53:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "네타냐후 부패혐의 벗나…이스라엘법원, 핵심사건 공소취하 권고",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pTVZYUmttRVdOdzBoOF8tUDhGZUhTb1FFQ0JoNmRqYkpGT1dpelQxVG5vRi1LZV9NVUxVNS00bXg5MG1La2FnbWl6Y1dRLWRTa3VzaG8wcFpHVmfSAWBBVV95cUxPNXFfV3V3ZVlfcVV3clpnQ1JoRHdMTmhmMGhMVUVsbzdKVGJyNEN2aE96d1Q3NEZibjY3QkFaZTdlb201X0s1Y1Mtc2xLYUI3NHppa2k1YWJfWERxV1pTSDY?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-25T11:48:38.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "\"우리에겐 돈이 없다\"…이란 대통령, 전쟁 여파 경제난 인정 - 머니투데이",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "우리에게는 돈이 없다 이란 대통령",
-              "source": "SBS Biz"
+              "title": "정부, 이란 재벌가 상대 국제투자분쟁 승소‥7700억 지켜",
+              "source": "MBC 뉴스"
             }
           ],
           "span": "11.26",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
+          "sourceCount": 4,
+          "articleCount": 6,
           "articles": [
             {
-              "title": "\"우리에겐 돈이 없다\"…이란 대통령, 전쟁 여파 경제난 인정 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13OWtNYUhYemFxVExVblpvcnNLVlRDSldjTGpkV2JYNFhXV1NJamxNVzR1MlZJMFZldnV2TWkxV0ZsS3RoOC1wcGtRTnVUV1N5T2JDSFNkTE1RQmhyR1NZQk9VclNVc3Iz0gFuQVVfeXFMUGJGWlhpTVpoNzYtYkpobWJpSWFsYTZ3R0pzUXVicHphcDhydV9KZVota3h2VG93LTRpNmx0eThuWF81VHhBOUE1Nng4T2JQZ09qSmZTdEstTkQxNUZzelVRb0laVnRURlJiUzRZdUE?oc=5",
-              "source": "머니투데이",
-              "publishedAt": "2026-11-26T11:54:25.000Z",
+              "title": "정부, 이란 다야니 국제투자분쟁 승소 확정…\"7,700억 유출 차단\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qNktnbGxjcjBjV0RhWk1VbjF2YXV3UHF5Ry1SbjM3Y1pDeHNJNzM3YW9KS3ZLXzZyLTI4bUZVb3FicWNOaU0yTUN5RXNxNTQyZGIyc25kRkRlNHk4dEV0azNJY1ZWUWc?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-26T08:56:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "韓정부, 이란 다야니에 7천700억 국제투자분쟁 최종 승소",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWTmM4OTNOOGdBQ2JyZmFzcFpoMUZPd2hZQXAzd0ZEa28zZ0xQMklydG1ESXFWbmwySDVuamVaOXpLQml4QkFtdVJMWG5FLXhoUlFPWk02aUw0R1Bh?oc=5",
+              "source": "티제이비",
+              "publishedAt": "2026-11-26T08:04:20.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "정부, 이란 재벌가 상대 국제투자분쟁 승소‥7700억 지켜",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zY3RYOFQyV2VMODlSTW80TnpraEFPemFaUThFUzRRS2h3MlZ3UUd6MkM1bU1KM0JNcTdPSVFCQlc3alFWS1hPeHNVaFVvcFJ0cG5fTm5hZHVGTkVYR0hEQ0JxSFc3MnpVQ1hoQWUzNjZQLUV2MmRv0gF3QVVfeXFMUHZVWXdJak83dFlkeWZ1X0t4WDhkMVNqa2tLV2JYVlozNHZPdTN3cG1ZRzhVc29HeW92Tlp1Q1k4VmlYVWdWZ0RsdWVpWEFXdHp6aHc0QUtWMlE0YnJKSGtEeUwwOWdMY3B5dTRFXzhrZXFkMWRfbFk?oc=5",
+              "source": "MBC 뉴스",
+              "publishedAt": "2026-11-26T07:42:06.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "정부, 이란 다야니 국제투자분쟁 최종승소…7천700억 국고 지켜",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94cnhLbmRDcEROSzJmVmdYcUJyamlodkNaaWw1OW1tVXlITkVqSzRPQTcwakRMMWpYUE5SX3RCV2wxNllOdzdYdkRZelBINm1KV0FaNV9kMXd4MjJCV3Z0UdIBYEFVX3lxTE94cnhLbmRDcEROSzJmVmdYcUJyamlodkNaaWw1OW1tVXlITkVqSzRPQTcwakRMMWpYUE5SX3RCV2wxNllOdzdYdkRZelBINm1KV0FaNV9kMXd4MjJCV3Z0UQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T07:01:10.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "정부, 이란 다야니 국제투자분쟁 최종 승소…7,700억 배상 안 한다",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKWVA1V0w5NkdaV0djaTNBeU4wbkNNOU55eGgzWnlCN1ZUcmozSS03cWRDSk1ZN2JRTTEzOTdOZ0RROUdWeEdjWXViTS04aHp1TVBhU3lGV1JEZGR3Y3FoS29NenI1aUE?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-26T06:14:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "정부, 이란 다야니 국제투자분쟁 최종승소…7천700억 배상안한다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVazF2NlBtT0pUQW5xMXJsbnlLNFpJenhhcEFhZ2puMzJiYXY3SWYwNU5BRWhuVHY5X0VnR0JtVkZ6X1R4Z3AtbXpIZGsxaExyb012RUV4aHhkMmvSAWBBVV95cUxQX0NOcWdrZE1rdlVtd0poMzlraHRWcm9PMDRnYWRSdk5KSlhJelU3RHZ2d2JsNWhFSUdvVlFMV0JGME1lbWUtelEwYzI4RUZJajdvZWUwNzhGV1VwOG45Mkw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T06:03:50.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "우리에게는 돈이 없다 이란 대통령",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "“우리에게는 돈이 없다” 경제난 실토한 대통령…빵값 오르고 전기마저 끊기는 이란",
+              "source": "서울경제"
+            },
+            {
+              "title": "이란 대통령 “우리에게는 돈이 없다”…빵값·전기료 압박 : 국제",
+              "source": "재경일보"
+            },
+            {
+              "title": "“우리에게는 돈이 없다”...이란 대통령, 미국 봉쇄 속 빵 보조금 축소",
+              "source": "한국면세뉴스"
+            }
+          ],
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 4,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "“우리에게는 돈이 없다” 경제난 실토한 대통령…빵값 오르고 전기마저 끊기는 이란",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EQzVCUmpTdHZWWkpJYlVUNjBIaUFtZ0M2SWd1d215cm84c1NPa1ZyOThPSjVGUzBFSklLOGNDZEJQdUNzcV91SDhtdDMxUmlBUkHSAVNBVV95cUxOdXdaU3pkd2RxVHB5Q1FDMkZRLUVYVTBiWXZUb1JNWlNIOVNxQmx6OTdrb1BBNFBGYUpybll0M085UXQ4VlFXMTZxVUhLaWs2OWpOTQ?oc=5",
+              "source": "서울경제",
+              "publishedAt": "2026-11-26T23:21:49.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이란 대통령 “우리에게는 돈이 없다”…빵값·전기료 압박 : 국제",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlTTdZTmNMWlE1eXpnMjBSOHZXbkVOMVEzZ1ZxMFJmM0FBOW9ENHBqSzlmY1BMRzR6LWd3dzdIeWFnTlFDaUNmbXE0QQ?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-26T07:08:26.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "“우리에게는 돈이 없다”...이란 대통령, 미국 봉쇄 속 빵 보조금 축소",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ZXdqNmxFWThLWDlnOVEtcVNzNFNnY1pJdjU3NlZjajR1ZWRDR1lKRU5fQ2RERW11cWVOVDBzdjRsZjVqNElvX0ZNZG8xNVB1NTY2ZXRBbEE1WWE0ZGtPRTlSYWNSRG9Qanc?oc=5",
+              "source": "한국면세뉴스",
+              "publishedAt": "2026-11-26T06:59:25.000Z",
               "kind": "news"
             },
             {
@@ -803,6 +821,81 @@
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMzBhQUYzLUlVZHpMUEI2SW0yUDJpMFUtLU1Cd2wwQ3U0WjVqU2pLXzdwZHMteTVpUkhpdUc2VFFRSHh5TkZfUzV2M3c0VHpGOFRr0gFYQVVfeXFMT3d6SllSVW1qUWxTOVVYdjU3dGxnLUZXenNoQ1g1UkVIYU1tU3Y1SGk0TWFneFF2cFU2T05fcThVd1ZOUTRZODVsQm1DdzBMNEJLanYyOV9BUA?oc=5",
               "source": "SBS Biz",
               "publishedAt": "2026-11-26T06:49:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "이스라엘 야권 아이젠코트 \"8일 내 차기 정부 구성할 것\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "아이젠코트 “8일 안에 이스라엘 새 정부 세우겠다” : 국제",
+              "source": "재경일보"
+            },
+            {
+              "title": "이스라엘 총리 후보 아이젠코트 \"남은 8일 이내 연정 구성할 것\"",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.28",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "이스라엘 야권 아이젠코트 \"8일 내 차기 정부 구성할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0zMHFaeHFJSnpTMWZKS1pkeGMtQk1CSEk0VUFxcGlIaGEzRVFZQjc5c2laQ3RpMmxicTkw?oc=5",
+              "source": "Howl.Link",
+              "publishedAt": "2026-11-27T18:05:14.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "아이젠코트 “8일 안에 이스라엘 새 정부 세우겠다” : 국제",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9id3JOR1h5VE9URXM5dzh1YzFoblowN0pTRkFVZjlhSnRkMjZsMExaV2lVVENlbzRLdUxTdkhsR2FjMWdkdElfcTZ5NA?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-27T17:15:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "이스라엘 총리 후보 아이젠코트 \"남은 8일 이내 연정 구성할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQ1o4QXM3RURqRkVGU1FmNVlodVA5RlpOTzJyeTNIZENpQnA2dkFYUElLcnJnVExVM1ppMFFiMlQ2bFl0TFVLeGlCWDFJU2ItQ2lvOXpyaVgzcHPSAWBBVV95cUxOT3pmQW1QTENVVW1TS0pZX3NaYUVVN2NheWtVdFI1NENzUmhfcGNjZzBtdTd3cDhUeFJkM2k5MUdnVTZKUFlxTnVnYklBZ2xfcDU3SmNqNGk4b0xrSkF0ZEQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-27T16:57:21.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "“우리에겐 돈이 없다” 이란 대통령, 국영방송에서 경제난 시인 [자막뉴스]",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "\"우리에겐 돈이 없다\"…이란 대통령, 전쟁 여파 경제난 인정 - 머니투데이",
+              "source": "머니투데이"
+            }
+          ],
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "“우리에겐 돈이 없다” 이란 대통령, 국영방송에서 경제난 시인 [자막뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfMmg1SzFCNy0tODZiR3RYZUV3YTBkN3Nzc2JYeWZRdmFnZWJJS1NHLTFaSUJoLURTbDJOOGQzdmRrbWtDei1MZmp3RFRyVXcyTzJzc1diZlhVVklfTlHSAWNBVV95cUxQX3NSZWdsT1lBbURiT0FzWHRRRlR6eFpKd1ZTd25aQ2E0dWdLX2JjTnVfekxlWndWZk83MjFsQlBRQUJ0S041NHVWRU5Jb2Npa0NKbmVYVmFUZVdja2gyVjIyWXM?oc=5",
+              "source": "채널A",
+              "publishedAt": "2026-11-27T01:11:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"우리에겐 돈이 없다\"…이란 대통령, 전쟁 여파 경제난 인정 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13OWtNYUhYemFxVExVblpvcnNLVlRDSldjTGpkV2JYNFhXV1NJamxNVzR1MlZJMFZldnV2TWkxV0ZsS3RoOC1wcGtRTnVUV1N5T2JDSFNkTE1RQmhyR1NZQk9VclNVc3Iz0gFuQVVfeXFMUGJGWlhpTVpoNzYtYkpobWJpSWFsYTZ3R0pzUXVicHphcDhydV9KZVota3h2VG93LTRpNmx0eThuWF81VHhBOUE1Nng4T2JQZ09qSmZTdEstTkQxNUZzelVRb0laVnRURlJiUzRZdUE?oc=5",
+              "source": "머니투데이",
+              "publishedAt": "2026-11-26T11:54:25.000Z",
               "kind": "news"
             }
           ]

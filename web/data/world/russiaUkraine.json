@@ -2,12 +2,12 @@
   "region": "russiaUkraine",
   "label": "러시아·우크라이나",
   "range": {
-    "from": "2026-11-21",
-    "to": "2026-11-27"
+    "from": "2026-11-22",
+    "to": "2026-11-28"
   },
-  "updatedAt": "2026-11-26T21:17:05.077Z",
+  "updatedAt": "2026-11-27T21:19:12.875Z",
   "ai": false,
-  "overview": "최근 1주 러시아·우크라이나 관련 국내 언론 기사 296건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「우크라 정보당국 \"북한, 러 군사지원 일시 중단\"」(기사 6건)입니다.",
+  "overview": "최근 1주 러시아·우크라이나 관련 국내 언론 기사 296건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「우크라 정보당국 \"북한, 러 군사지원 일시 중단\"」(기사 15건)입니다.",
   "stats": {
     "articles": 296
   },
@@ -17,76 +17,146 @@
       "summary": "",
       "keywords": [
         {
-          "word": "우크라",
+          "word": "김정",
+          "count": 15
+        },
+        {
+          "word": "협력",
+          "count": 13
+        },
+        {
+          "word": "대표단",
           "count": 10
         },
         {
-          "word": "푸틴",
+          "word": "북러",
           "count": 9
         },
         {
-          "word": "군용기",
-          "count": 8
+          "word": "우크라",
+          "count": 9
         },
         {
-          "word": "종전",
+          "word": "푸틴",
           "count": 7
         },
         {
-          "word": "경제협력",
-          "count": 6
+          "word": "공연",
+          "count": 7
         },
         {
-          "word": "젤렌스키",
-          "count": 6
-        },
-        {
-          "word": "유럽",
-          "count": 6
-        },
-        {
-          "word": "국제",
-          "count": 6
+          "word": "관람",
+          "count": 7
         }
       ],
       "items": [
         {
-          "title": "러시아 증시 상승세 속 폴류스 주가 1.84% 상승 마감 : 기업주식정보",
+          "title": "김정은, 러시아 예술인 공연 관람…\"양국 협력, 보다 긴밀해져\"",
           "summary": "",
           "whyItMatters": "",
-          "headlines": [],
-          "span": "11.24~11.26",
-          "days": 3,
+          "headlines": [
+            {
+              "title": "김정은 총비서, 러시아 예술인 공연 관람…“양국 각 분야 협력 긴밀해지고 확대”",
+              "source": "현장언론 민플러스"
+            },
+            {
+              "title": "김정은, 러시아 예술단 기념공연 관람...'양국 협력 확대' 평가",
+              "source": "통일뉴스"
+            },
+            {
+              "title": "北 김정은, 러시아 예술인 공연 관람…“양국 협력 보다 긴밀해져”",
+              "source": "이투데이"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
           "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 4,
+          "sourceCount": 6,
+          "articleCount": 6,
           "articles": [
             {
-              "title": "로스네프트, 러시아 증시서 하락 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JZFVrWWZSaWhqX2tVZkN1STBlUWxaUTdYeDAtSlpCVEdvUVpjTm9rY0dIbmFHZ2hvdUhvS2s4d2xTcWo5eHp4Qk1ZOA?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-26T03:43:04.000Z",
+              "title": "김정은 총비서, 러시아 예술인 공연 관람…“양국 각 분야 협력 긴밀해지고 확대”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KRUcwMXJOeDk2eXhKelBzMzY3OEhiU0FPTTFBaHBsdTlGMWRrdHM5R0h1dlY5ZzhXczA1RzlEYlZ4T0hEUnVYMHlvbDludG5GbllLQ0ZmazhjZXliLU1xcVBWakY4TVdzem1vcDZ3?oc=5",
+              "source": "현장언론 민플러스",
+              "publishedAt": "2026-11-27T03:04:25.000Z",
               "kind": "news"
             },
             {
-              "title": "노릴스크니켈, 러시아 증시서 1%대 상승 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uSVpTaE92YnpULUJ4U3Zxcm5zOThnOW9LaUtsX0lHYnhIRm9lREFwTHdubGc3RXdwSVhYdEMtSzVOLWduYWdxY0xoQQ?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-25T03:39:05.000Z",
+              "title": "김정은, 러시아 예술단 기념공연 관람...'양국 협력 확대' 평가",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXZzZZZ0NNS0VuWklUZWVMTDY4STBSN1N3d3lvZkRRdTZ3Qm5iRTdRNTBaQm9pbnJGd0tmSkZqRlRmUlJBNUNzcWNneThuVC1iQnZCaVJZMnJya2J0UTEwajFoNVpsNHFrb0ZweENn?oc=5",
+              "source": "통일뉴스",
+              "publishedAt": "2026-11-27T00:55:20.000Z",
               "kind": "news"
             },
             {
-              "title": "러시아 증시 상승세 속 폴류스 주가 1.84% 상승 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XRmtlaDNSZkd6MVB2LVJBcVRHemJPSXBZMHBEUTU1Q1hwN1JsM3BqVG9LUjdwQXNTb3FxbFhyZlI2NVZ5R296R1QwQQ?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-25T03:33:06.000Z",
+              "title": "北 김정은, 러시아 예술인 공연 관람…“양국 협력 보다 긴밀해져”",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbXUxNk9TWU11WG9SSVZPdFJHZXY2UGVaeWlpZGp2ZWFEeG1XSjM5X2NqZElfT1cwOG1pbVNQT3JjSEpiNHI4OUJoNU5RU201bG4yRw?oc=5",
+              "source": "이투데이",
+              "publishedAt": "2026-11-26T22:34:00.000Z",
               "kind": "news"
             },
             {
-              "title": "러시아 증시 상승세 속 폴류스 1.84% 올라 마감 : 기업주식정보",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VenhuMVZ0cWFwOV9DaFBvUXE3UXFTZWsxa2MtbTJGaFFHcG9lSndRaEx2OXlOWWlGa3lER3pNaHI5V3d3aVQ4d0NKTQ?oc=5",
+              "title": "김정은, 방북 러시아 예술인 공연 관람…“양국 협력 확대”",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Nk9uYTNTNi1HZmdZeWtoenFQMFUzY2g0U3A5VnhBLTl4VngtSWhuMlUwYVBXeVpkcU5rd2RXYTdyamNkdkZUWWotbWpKeWV6dV9uUG9hQ21UWjhxV3hRazNhREV2LUpBNjlQN2hPYTJsdlV0SGY00gFmQVVfeXFMTkF1Xy1ucmlBQS16bHB4bHo3Q1dId01hUUtoM0ZoTjNlbkxaOUpTX0tLYzdpSFAyMW9xVk55d0Vzb0JzaU9mQW5UMmlNd2NLNXBtTEtmc2w5ak9XQnVpSUltZXpQR1Fn?oc=5",
+              "source": "동아일보",
+              "publishedAt": "2026-11-26T22:30:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 방북 러시아 대표단과 공연 관람…북러 협력 확대 평가",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQmJoVTRKY0xTSDJDcTJqQzRZQ3hZWHpibXNQMUdBTV9tZ0VZWTM2UEp4RDUwX1J0S1NaWlB4RXBsTlRta29vRGlwSS0xMFNDdEwtaXYweV84X0ZqNDU3RjZUS3FXdVoyOEVEcQ?oc=5",
+              "source": "콜뉴스24",
+              "publishedAt": "2026-11-26T22:20:33.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 러시아 예술인 공연 관람…\"양국 협력, 보다 긴밀해져\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TY1hUbVlNalhNbjFXckxLemlBNHpuSjJiUEZBanRQcjEwNlgyTkhQNUJ3ZVc3bFdpUTZPRjlXTW5Hck5QcXByMGxDSnFId3lQRy1vTW1fN1NVRDFRVVJINdIBYEFVX3lxTE1TY1hUbVlNalhNbjFXckxLemlBNHpuSjJiUEZBanRQcjEwNlgyTkhQNUJ3ZVc3bFdpUTZPRjlXTW5Hck5QcXByMGxDSnFId3lQRy1vTW1fN1NVRDFRVVJINQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T21:32:50.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "김정은, 러시아 대표단 직접 맞아…북러 협력 경제·문화로 확대",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "김정은, 러 대표단 직접 챙겼다…북러 밀착, 군사 넘어 경제·문화로",
+              "source": "https://www.sisaworld.kr/"
+            },
+            {
+              "title": "김정은, 러시아 대표단 환대…북러 협력 경제·문화로 확대 : 정치",
+              "source": "재경일보"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "김정은, 러 대표단 직접 챙겼다…북러 밀착, 군사 넘어 경제·문화로",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NdWlUZjZkUmdNdTVhYV9OVURQZG9IY05xLTk3VThrODVrQld5a2tXWUdTV1IxUnFIZDFsNDJ0c0dWQXJra2YtUkRSSFlPemtGZmVXVXU0V3d3Z1JNREVNU1d2akZ3SHFSRXc?oc=5",
+              "source": "https://www.sisaworld.kr/",
+              "publishedAt": "2026-11-27T07:49:40.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 러시아 대표단 직접 맞아…북러 협력 경제·문화로 확대",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZWlFjdk9qTkMwaDlYXzRGZ2RTZktyUjZWdnVyTTZjbDFsQVAyVTZuanJkV1BCblNJN2pQc2tmcmotNTVjeFRHaXU2RmplVTlVeU96T2dRYlVkRTJmTXc?oc=5",
+              "source": "아시아타임즈",
+              "publishedAt": "2026-11-27T00:27:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 러시아 대표단 환대…북러 협력 경제·문화로 확대 : 정치",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtZGhhWm5MNWEwTFE0RmstS1Y5YkRFOUdjOS1NM2QtQ3lMck9mTEtwX2NoQjU4Y1J6bzFmbnlJc195V2diVEtOeUV1dw?oc=5",
               "source": "재경일보",
-              "publishedAt": "2026-11-24T03:37:04.000Z",
+              "publishedAt": "2026-11-26T23:51:00.000Z",
               "kind": "news"
             }
           ]
@@ -116,7 +186,7 @@
             },
             {
               "title": "러시아 천연자원·문화부 대표단 방북…경제문화 협력 가속",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9idDNuS0FhdWZLaHo2S09XRy16UkN5UGl6TTFOV1dFTjFHYnhoOWJ0clNuQjlrOGp6Wl8xR2VscmplN2l2U090QmRzNDRGOFlXZDV4dUp5N2NSWDDSAWBBVV95cUxNdE5MR3pEZVJkQTg0el9pVjJhdUNINFkzTDV1dEtlQTFOYmJlT20yZnBvbHFyeU1jRlFsalhIZjFuSnJ4dHZZSVVMdEk3U3BiNXIwb1NKeTg4QmkydGxIcHM?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10TkxHekRlUmRBODR6X2lWMmF1Q0g0WTNMNXV0S2VBMU5iYmVPbTJmcG9scXJ5TWNGUWxqWEhmMW5Kcnh0dllJVUx0STdTcGI1cjBvU0p5ODhCaTJ0bEhwc9IBYEFVX3lxTE10TkxHekRlUmRBODR6X2lWMmF1Q0g0WTNMNXV0S2VBMU5iYmVPbTJmcG9scXJ5TWNGUWxqWEhmMW5Kcnh0dllJVUx0STdTcGI1cjBvU0p5ODhCaTJ0bEhwcw?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-25T23:15:50.000Z",
               "kind": "news"
@@ -161,8 +231,8 @@
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "러시아 군용기 카디즈 진입…울릉도 한때 경계경보",
-              "source": "뉴스웍스"
+              "title": "러시아 군용기 카디즈 진입…울릉군 한때 경계경보",
+              "source": "매일경제"
             }
           ],
           "span": "11.24",
@@ -179,10 +249,10 @@
               "kind": "news"
             },
             {
-              "title": "러시아 군용기 카디즈 진입…울릉도 한때 경계경보",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KRnYwU2YwQmVVQ0pSR1NhaFo2aDRyWU9yQ25WREJrWm40QVQxaU9pMFpQNVNsTVlwLXItaVBOdThpVnBrMlVtZ3ZWTGltTVJwZVhIZEI5RWhReE9HemZPU0k1MUFoUmdWOXJJTmRpSdIBc0FVX3lxTFA5TDJUYmZsbTJjTkZScEpXZHBHNnBLMUpJbEFEXzZRNUZnZnkwdmJPWEpvMTZ1LWlLekkyb2lBbHdhSnNiM3VIV2E1dnAxVG5jNG40bVMxWkNDc1lYS1ZNRXE3X2gtclM4OEpGT3lUNGd2aGs?oc=5",
-              "source": "뉴스웍스",
-              "publishedAt": "2026-11-24T00:18:08.000Z",
+              "title": "러시아 군용기 카디즈 진입…울릉군 한때 경계경보",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93NEZ0RXk3NXl6Q1QwSlcwV1NrQm1Wb1FINnZjSzljb0R5R1MzQ016RjNlVy01Y1lvckZSYndQbHhiWnBKVDhicnE2YjFBSXFFUHlfVGxR?oc=5",
+              "source": "매일경제",
+              "publishedAt": "2026-11-23T23:15:44.000Z",
               "kind": "news"
             }
           ]
@@ -218,33 +288,6 @@
               "kind": "news"
             }
           ]
-        },
-        {
-          "title": "러시아 무관 초치…‘울릉도 영공 코앞’ KADIZ 진입에 “노 코멘트”",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.24",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "러시아 무관 초치…‘울릉도 영공 코앞’ KADIZ 진입에 “노 코멘트”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vcE5QdWt2N19CY000WkVpczJxMEhoMk5QVTN1MzVDLTA4Ql9iUkVzeVVIbU9HLVZVRUFKZVF0NmozbXkwVWxPWl9zbDVtTGx0NWNkRU5R?oc=5",
-              "source": "헤럴드경제",
-              "publishedAt": "2026-11-24T06:31:37.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "국방부, 군용기 KADIZ 진입에 “러시아 무관 초치해 엄중 항의할 예정”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XYUpWcFE4RkRHd3dwdzF3SlpGRUU3cXVzLWJhRWI1Nm4zdXE0TVk0MjFkb3l6SmlFNXVFZzFzZE1kN05tcFpNR1F5QTV2ZG1EWVRFQ2ln?oc=5",
-              "source": "헤럴드경제",
-              "publishedAt": "2026-11-24T02:11:56.000Z",
-              "kind": "news"
-            }
-          ]
         }
       ]
     },
@@ -254,35 +297,35 @@
       "keywords": [
         {
           "word": "우크라",
-          "count": 29
+          "count": 30
         },
         {
           "word": "중단",
-          "count": 12
-        },
-        {
-          "word": "푸틴",
-          "count": 12
-        },
-        {
-          "word": "나토",
-          "count": 10
-        },
-        {
-          "word": "지원",
-          "count": 9
+          "count": 28
         },
         {
           "word": "트럼프",
-          "count": 9
+          "count": 19
         },
         {
-          "word": "공격",
-          "count": 8
+          "word": "북한",
+          "count": 16
+        },
+        {
+          "word": "일시",
+          "count": 16
+        },
+        {
+          "word": "푸틴",
+          "count": 13
         },
         {
           "word": "군사지원",
-          "count": 8
+          "count": 12
+        },
+        {
+          "word": "정보당국",
+          "count": 12
         }
       ],
       "items": [
@@ -292,16 +335,503 @@
           "whyItMatters": "",
           "headlines": [
             {
+              "title": "우크라 정보당국 “北, 러 군사지원 일시 중단”",
+              "source": "채널A"
+            },
+            {
+              "title": "우크라 정보당국 \"북한, 러시아에 미사일·포탄 공급 일시 중단\"",
+              "source": "공감신문"
+            },
+            {
+              "title": "우크라 정보국 “김정은, 러 지원 일시 중단…파병 증원도 보류”",
+              "source": "한겨레"
+            }
+          ],
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 14,
+          "articleCount": 15,
+          "articles": [
+            {
+              "title": "우크라 정보당국 “北, 러 군사지원 일시 중단”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TODMwckZ0ZXhYOElYaTA3NmZkdzI5QmtDWThRMEE4M25kOTlOdGZjd085WUVNMWZuOHVmeWg5TDRlcFRPV1hMdXoxLXZIUXhDSjdyazRqTnB3TTZLTlHSAWNBVV95cUxOSDJ5RFA5X0tLbnRoaWFFRTFZMmlSMFNqTU02QnRoN0tYSnY0bXliUXh4Zmp0RHY3bTdjZXRwZkJocW5hV0Exc0F0R2Z4M3gyS0RvVVd0WTlZd2ZVVjNqX0tVUm8?oc=5",
+              "source": "채널A",
+              "publishedAt": "2026-11-27T10:11:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 정보당국 \"북한, 러시아에 미사일·포탄 공급 일시 중단\"",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsTk9FN09teVpvWjdZZTJMMnFiREF4bzdKRDZ0S3JkUmVQdGxQNFZrUEZrRmFzZjhLbnRGbmo2ZXBzdk1aaWpIX01vZWNJMEt5YVBmSHg3UTNmMk9qdXBGNVBteGhaTWRL?oc=5",
+              "source": "공감신문",
+              "publishedAt": "2026-11-27T07:19:02.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 정보국 “김정은, 러 지원 일시 중단…파병 증원도 보류”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU3RQMzNQaXFNcHV3dC1Va05SUkRsd3NMR2RwRlNTV0RBcDk5TGZhY2VmRjRfOWxfVENydVlPa1NWYnZPanJXaUtqd2h4b1Bta3JsMnRzbW5qazh3R3VCM2E0QjQwbVNXVk96NG9ldGlPdkNrWHNKTmFrN3BnbWxSMjhn?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-27T05:32:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"대남 정책 갈등\"…북한, 러시아에 미사일·포탄 공급 중단",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c29pOEphNXZUSnV5UUFmWmdSQldZejJqZE1zbmFGX1hXaENjbGluaXZ1d25VbU5xTDE2cUYxaXVnX3E3b1NJWGdQMzFxUTY4R3h4d2ZDS3ZiOERsZ3Z2T2hkZTVLRGt5VUlUTHZ3?oc=5",
+              "source": "디펜스투데이",
+              "publishedAt": "2026-11-27T02:56:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 정보당국 \"北, 對러 군사지원 일시 중단\" 주장",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UX2dWTF9OLW5mRUNzd21SOG56dlRhSzJkSlZKZm10M3ZxWnE1bXZfR0VQN0QzOVJtSmQ0Ymx2a0ZYa3RFNXkzODBlUkZ5QU1EWUZxMHUtb1JoVWdEclhnUm5lM01BTUJHOFI3QtIBcEFVX3lxTE5GZ0NXUzNZX0VnVjEydkNVUzV0TkJzSnRtNGhHNEtXY1l1RExJSUdFMTFvWUFOU0RQYjQ3VlpJdV9aQVRFMV9kNFUtQ1owWGplQjdFM19GbWV2RFp5WEtza0JuaHoxLVEtQk9TU0xtdU4?oc=5",
+              "source": "글로벌경제신문",
+              "publishedAt": "2026-11-27T00:53:21.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 정보당국 北, 대러 군사 지원 일시 중단…남북 긴장 완화 발언에 반발",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sYnZHUDl0NjZ3R2NpbGV2RVl2STB5b29UZGdxazI1bmtJcVp2cGtNNGFvZ2JzMk92M0xZWWpNNzZZc1ZweFg5SnljWmh2SVZGS2wzeDVqT25rd9IBWEFVX3lxTE5BYUZDUGQyVTB3dklmV0FOM0c0ek5haklHQUpsZjVWcGI0QmFHSy1CVnpHNjF2MDNPcVFxNVZTS1MyRGE0RkV1MUJLb3BOVmFabU9IUVpQdWg?oc=5",
+              "source": "아주경제",
+              "publishedAt": "2026-11-27T00:00:49.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프·나토 수장, 러시아에 \"우크라이나 전쟁 확전 말라\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프·나토 수장, 러시아에 우크라이나전 확전 자제 촉구",
+              "source": "파이낸스투데이"
+            },
+            {
+              "title": "트럼프·나토 사무총장, 러시아에 “우크라이나 전쟁 확대 행동 자제” 촉구",
+              "source": "SPN 서울평양뉴스"
+            },
+            {
+              "title": "트럼프·나토 사무총장 공동성명 \"러시아 확전 자제\" 촉구 - 머니투데이",
+              "source": "머니투데이"
+            }
+          ],
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 8,
+          "articleCount": 8,
+          "articles": [
+            {
+              "title": "트럼프·나토 수장, 러시아에 \"우크라이나 전쟁 확전 말라\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GQnFwM1NPVER4V2lZQ1lfRVlOUTJZbTRiRmlkOFkzQ3pXbHRsVFlVVjNGaDhESk5Ja3dVVXRsQnZRYzVpMV9kcEpqbUhVQ09DcXdfcDREZ3ViX2trU0E?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-26T23:11:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프·나토 수장, 러시아에 우크라이나전 확전 자제 촉구",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aERkZGRHTmR1SEhiN1J4N1pnUkF3UjVhTFJsMWYxaVhlUUlCZTExR0U0eWZuaFItLUdwMlF2cGRaVkI5TjJTMDFTVVBwQ2owYUd1WGNRZlBDTzE2cGNNMURQZEhHTnpGNjdNRg?oc=5",
+              "source": "파이낸스투데이",
+              "publishedAt": "2026-11-26T22:52:25.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프·나토 사무총장, 러시아에 “우크라이나 전쟁 확대 행동 자제” 촉구",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00bmRjUGY2UDQ4dXlWLW9QaXBjeFJRTEQxY2dlQVlRRnhtWW9UY2lIV2NDTVRHOTFiMmpBVS0yLTVHcUNYRFdXNko2SjYySnZjeVpsRldzXzFBTVNhRzQ3UENZZE9LQXVpNXNr?oc=5",
+              "source": "SPN 서울평양뉴스",
+              "publishedAt": "2026-11-26T22:05:28.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프·나토 사무총장 공동성명 \"러시아 확전 자제\" 촉구 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5URGlTUENqODNoOEE0SERhQTJDLVRGTGlKZlNMb0pHbVRIOHVENFVmVjBvcnFlajhjUFcyRlBJY1AwQTZCSFBHRUhvbkxTWWtCdENSLVU2TVUyMEh5MGFIY25EYjNYZmNK0gFuQVVfeXFMUHdhMTVxLUloVXZleTc1RXkwM0pGOWRhZEU3UkM5eG1SZWZWbTY4SVk1bEs2OU9JS1BkZG1CeWxKZVlZVlBNWFRwRkZ5OGRzWUgxdGZFNXNaTmlfVGFTcjhOVGhZcGZfSTR5VlVQb2c?oc=5",
+              "source": "머니투데이",
+              "publishedAt": "2026-11-26T20:55:42.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프·나토 수장 회동...\"러시아, 전쟁 확대 말라\"",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiWDctcVRkdUwwckxIN2stY25JMDBPY0ZIaU85VUFNaldPNlowQVQ0cUVuRGl2cFQwSkJuXzNRd0NsVjNjdVV2cTgtdWxxcE5NX3J4dTRKM2t2RElqbTJtcnZoczQzYVRs0gFrQVVfeXFMT294YlNOOG4zdUtWbzhfRkV4YVJ0dzlTVGZzSWNGOUpBa3h6Ym9wZWFGUDJ6Z1VBTDF1SGp6cW1NYjhrVmNLWjBLZUZfNGpaM0ptWUFNSktlb1BSRWJoRXAxWHp5OW1XUVgxS3M?oc=5",
+              "source": "VOA 한국어 홈페이지",
+              "publishedAt": "2026-11-26T17:38:16.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프·나토 수장 \"러시아, 우크라전 확전 말라\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jQXhLcTBCSDVxbGZTYl9TX2V2Y1FyX0RrZEdfVEFFenZicVJuc1kzTmdRMk9iXzNoVnhLMW1IcXpCNVVZNG15WTFzd3dZcUo5NW5LQkh5T0cwU1AzUXQ4bkVEMUVBeXc?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-26T10:26:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "우크라 \"북한, 러시아 군사지원 일시 중단\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "우크라이나 “북한, 러시아 군사지원 돌연 중단”",
+              "source": "데일리안"
+            },
+            {
+              "title": "우크라이나 정보국 \"북, 러시아 군사지원 일시 중단...한-러 관계 때문\"",
+              "source": "SPN 서울평양뉴스"
+            },
+            {
+              "title": "우크라 “뿔난 김정은, 러시아 군사지원 중단…한러관계 개선에 반발”",
+              "source": "서울신문"
+            }
+          ],
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 7,
+          "articleCount": 7,
+          "articles": [
+            {
+              "title": "우크라이나 “북한, 러시아 군사지원 돌연 중단”",
+              "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUFgyM25Qams4cGFucjNjajFTZFN4bEJTd0l5Wi1qWnZnOFVhWmxJcFFtX1dIUG0zQWhIRUxVMXBpNEhpelVRVHR0cXFCRkRoY2VBX28yY05fY3lxVHZMVlo2NzdxVWxOZ21TazVEVVJ3UmhPWFdPVnB3TjlBdEFGRmx0MFJ5WHdIb1NlQ1p0WjduUmhVbzF0Zzl3X1dNeExKOFdMOHVrd3JYQVRQVktqN0ZmSk1vWS0tVWNrQ0I0UGNMY3hHaFBNb2RXalg3d1Z2dzdGbklCWmU5NWY3akVkMHNTb3dQeU9FSWZlSDl4MTBXaktiLTVjOVN6RHdIdUZmcmtIc3dSYUF5YzFMZ3VpUXlkbUhZeno5NklQaFdJUDRXTjg?oc=5",
+              "source": "데일리안",
+              "publishedAt": "2026-11-27T02:27:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라이나 정보국 \"북, 러시아 군사지원 일시 중단...한-러 관계 때문\"",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96b1VuMjN2NmlYYVYzd2VnWkhRUmVMajRObkdrVWlyVGtIYkdCbWdxNmVyZnNBY19yVnVXS2FMTXAzVExUMFdtZ1hzUU11RWwtN2NjeWt1X1ZPWXhaNHgtT1BMWjZzbnpQQjZN?oc=5",
+              "source": "SPN 서울평양뉴스",
+              "publishedAt": "2026-11-26T22:40:03.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 “뿔난 김정은, 러시아 군사지원 중단…한러관계 개선에 반발”",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbWVlLW5NNWhIeElQZjBuV1RlY1dJcVI5NnRWWFFRV09oc2d4ZWl4bzB1NkhqY0gzRnhscXp6Zm5xaTNpTVUyeVZGX2lqZHZVX2s5czgyeXY3QVA5amFONUxTTU5Ha21Oc2JkT2lkNW0yR1F3dlJR?oc=5",
+              "source": "서울신문",
+              "publishedAt": "2026-11-26T22:20:35.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 \"북한, 러시아 군사지원 일시 중단\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuY2VGUkZoU2kwTVAzVEVUYUtFaVRIYk80MGpvOXBuMG1iQlJRazZyUVlrMkxvd0RqTlM5MkVxSFZvVWxvdTZBTnlzTGdqaUtfdmFTQmZ6bHFzTjA1Nk9YZWVFMnZyWHNtaVHSAWZBVV95cUxONUd1Zzl1WUl3ek03X3djRzEwMmhnWk1UYjdLanpyOGNPcHRURTlsSmRhTGhDSXUwemFZZmRrN2pLQjBBR2Y3UzZIanctOF9aZUJHU2RXR3A3U3RwQ3FlRmtmVHhXZGc?oc=5",
+              "source": "SBS 뉴스",
+              "publishedAt": "2026-11-26T21:22:38.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 \"북한, 러시아 군사 지원 중단\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OaGpIbkRDbjhtZnEtaTJHMlg3eEFmci1peWxqcHBseDBZT0x4NXpmdUsyVHB2TGZCZU9zWlRoWWJERzV4YjR3QVg2R2NaTExWb21zTGRCQU02UmxtNVNSUDNGYllLbFhSdVRmWEI3YmdwRElq?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-26T21:13:37.000Z",
+              "kind": "news"
+            },
+            {
               "title": "우크라 정보당국 “북한, 러시아 군사지원 일시 중단”…진위는 불투명",
-              "source": "https://www.sisaworld.kr/"
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpc3RZNnlzZjhCd1lyMjZKLXc1WHQ1VEhZak81Mkc0ZDNLNlQ3R2VaV28zSUdHR0tOZU4zMVU4cGY0X0k4eE1iajczS3VMNkJQWDU1N2ZuUGptZFozNFBrLVlDWF91RVJPUVE?oc=5",
+              "source": "https://www.sisaworld.kr/",
+              "publishedAt": "2026-11-26T16:08:43.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 충분히 가능\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프, 푸틴에 유럽 군사행동 중단 요구…‘우크라이나 종전’ 압박",
+              "source": "아시아투데이"
             },
             {
-              "title": "우크라 정보당국 “北, 러시아 군사 지원 일시 중단…김정은이 직접 결정”",
-              "source": "Chosunbiz"
+              "title": "트럼프 대통령, 푸틴에 \"유럽 군사 공격 중단\" 요구했다고 공개… 우크라 종전 가능성은? 🕊️",
+              "source": "뉴닉"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "트럼프, 푸틴에 유럽 군사행동 중단 요구…‘우크라이나 종전’ 압박",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50SlAzeUkzQzBjWVZYZWk5Q0dkOENkUnF0WkxTQnBhaVY2b2NVbkFKSGpjcXRUdk84VExYRjFoSWlUd1ExMlRRcUh6dy1BdVNmQnRYeUhUNy1YSzItYlVGVjh6RzZNQlhQQXZjdXJB?oc=5",
+              "source": "아시아투데이",
+              "publishedAt": "2026-11-27T06:10:39.000Z",
+              "kind": "news"
             },
             {
-              "title": "우크라 정보당국 \"北, 러 군사지원 일시 중단…KN-23 등 공급 끊겨\"",
-              "source": "한국일보"
+              "title": "트럼프 대통령, 푸틴에 \"유럽 군사 공격 중단\" 요구했다고 공개… 우크라 종전 가능성은? 🕊️",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85YnU4d2xBYjZlQUxOa2ZPaHNqZDlMRzlmc0FnNS1YdzF4Y040N2xsbE9kaXFsYzY3NDBodVIxY25pUlNHNDhMdXZWRm80S2F5R2FN?oc=5",
+              "source": "뉴닉",
+              "publishedAt": "2026-11-27T02:41:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 충분히 가능\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sX19GVnlyUXowbUk3QWZXMGdxcmJYZU9udzlYWHFQLTNvYmdqSDRlRndwS25KeDk0S2NnUjVnRS1IZTdsbV9RSEVXdVRrc2VHNmk0N2hyTS1HVW_SAWBBVV95cUxQbXRNYzV1NVp5SXVDcUswVWxyV1RZY0dETE5qOW51MEdDSjFmMHJSX01aOXFxcUJXLUMwX05OZ1pzRWR4QzIyRWViZTg4ekNMemI5YXB3cUpZSHBSUUlyTmk?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T19:18:04.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "'유럽 하늘의 튤립 미사일'…모스크바에 네덜란드 겨눈 대형 벽화",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "우크라 지원 네덜란드 겨냥한 러시아…모스크바에 튤립 미사일 벽화",
+              "source": "뉴스1"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "'유럽 하늘의 튤립 미사일'…모스크바에 네덜란드 겨눈 대형 벽화",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91T2pGaXdXcDI5ZmFicW9kcWNNLTBIV29qdTJPM2kwOGo5OGNES3RyZDlORTNwb2pQazBjekppOXdSSlFSSkVjWFRCcVRFYnBOeFlITW1EVmxuLW_SAWBBVV95cUxPckZ2ajFDdTJaMUV5VXlsSFl6ckRtRTMwN0RfVkNGZlZoZDVJNlNhcVp5SGtieURtMl9GMFNsVkVEOElUc3ZKRWNyMzhoc1dqX0dMdncxRHNacTlkdjZJY3E?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-27T10:12:10.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "우크라 지원 네덜란드 겨냥한 러시아…모스크바에 튤립 미사일 벽화",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RZkZ4VU04Vk5Vc2FMdV92ZTVRMjNpbFlUaGtHNjRpSk1XQkZUSnY3cmtFWHA5b01pbV9iVGJoZkdnZjZ2dzNrSVFWSjBEaGNKSlg4?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-27T00:07:49.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "북러, 최고 등급 국가기밀까지 공유·보호 협정 체결…정보기관 협력 강화",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "북러, 기밀정보 보호협정 체결…최고등급 국가기밀도 포함",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "북러, 최고 등급 국가기밀까지 공유·보호 협정 체결…정보기관 협력 강화",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iVWE3aXdNdkJaQVNpOGdDekJxWl9JbnRSc0VfNXN4R3doZ2VrOGFJcjNSYUxtNk94YzZTUGRrejQtS2lfZlpVMExKZ3JKUEJndVpCRXVPME1JalUwYTJHOWYtMzN1RHJ1VnVj?oc=5",
+              "source": "SPN 서울평양뉴스",
+              "publishedAt": "2026-11-27T06:08:21.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "북러, 기밀정보 보호협정 체결…최고등급 국가기밀도 포함",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pYmhqTkh1elRDZ0duWmRMbXU3SVFmLXRjaEYwWjZpUUxIM215UmtiNXo4Qzkwc0xCRjdiZEhldlJ6a0lhcjJjQ0VWSERIbVNuWVR3QkNuXzYxYmPSAWBBVV95cUxPUDVmRkJHZEFNcUpsU2VLa1BMejh6WGJsZHctd3EwZm9yWjc2TUp4Zkl0SHVqcHZad0tjaEJvSlVFVVFESzhoY25qSHNtdExtRzQwZ2NKbjR0QWxNV3E3cXY?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-27T01:00:50.000Z",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    "politics": {
+      "label": "정치",
+      "summary": "",
+      "keywords": [
+        {
+          "word": "푸틴",
+          "count": 38
+        },
+        {
+          "word": "트럼프",
+          "count": 31
+        },
+        {
+          "word": "우크라",
+          "count": 20
+        },
+        {
+          "word": "젤렌스키",
+          "count": 17
+        },
+        {
+          "word": "중단",
+          "count": 13
+        },
+        {
+          "word": "나토",
+          "count": 11
+        },
+        {
+          "word": "공격",
+          "count": 11
+        },
+        {
+          "word": "김정",
+          "count": 11
+        }
+      ],
+      "items": [
+        {
+          "title": "김정은, 러시아 예술인 공연 관람…\"양국 협력, 보다 긴밀해져\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "김정은 총비서, 러시아 예술인 공연 관람…“양국 각 분야 협력 긴밀해지고 확대”",
+              "source": "현장언론 민플러스"
+            },
+            {
+              "title": "김정은, 러시아 정부 대표단과 예술인 공연 관람…“양국 협력, 보다 긴밀해져”",
+              "source": "세계일보"
+            },
+            {
+              "title": "김정은, 러시아 예술단 기념공연 관람...'양국 협력 확대' 평가",
+              "source": "통일뉴스"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 7,
+          "articleCount": 8,
+          "articles": [
+            {
+              "title": "김정은 총비서, 러시아 예술인 공연 관람…“양국 각 분야 협력 긴밀해지고 확대”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KRUcwMXJOeDk2eXhKelBzMzY3OEhiU0FPTTFBaHBsdTlGMWRrdHM5R0h1dlY5ZzhXczA1RzlEYlZ4T0hEUnVYMHlvbDludG5GbllLQ0ZmazhjZXliLU1xcVBWakY4TVdzem1vcDZ3?oc=5",
+              "source": "현장언론 민플러스",
+              "publishedAt": "2026-11-27T03:04:25.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 러시아 정부 대표단과 예술인 공연 관람…“양국 협력, 보다 긴밀해져”",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56aTRGZl9VRkFjNVdvRFFFbkJmclJKUmhIdGhtcXBDVW8tSHZidVZpaEhLSGctUl9hdWdOSVJVT0EwU2RRTU05MkR4bFZvNm11T0NfVUpmakbSAVRBVV95cUxOY1lGTlQyd0VMTkdLR2tLeTdZRkpFWl9PUVR5S1phSnBaemdaSjJCUE02eTljRFZjQmh1X2lZVTFMMmROb2VsaHVqSUt6eTJqdmt6UWk?oc=5",
+              "source": "세계일보",
+              "publishedAt": "2026-11-27T01:04:38.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 러시아 예술단 기념공연 관람...'양국 협력 확대' 평가",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXZzZZZ0NNS0VuWklUZWVMTDY4STBSN1N3d3lvZkRRdTZ3Qm5iRTdRNTBaQm9pbnJGd0tmSkZqRlRmUlJBNUNzcWNneThuVC1iQnZCaVJZMnJya2J0UTEwajFoNVpsNHFrb0ZweENn?oc=5",
+              "source": "통일뉴스",
+              "publishedAt": "2026-11-27T00:55:20.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 러시아 예술인 공연 관람…\"협력 긴밀해져\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZRmpLbzlCMGhYUzRiWnluWG5HUWpncmMtaUpPME1DbW96VkRsLXpudU02Uy1mOXdkMjJiZDV6blNsOEkwY3hGU0Iyd3oxckl4SEZqRE9UZGloWS1BTnprb9IBYEFVX3lxTFBZRmpLbzlCMGhYUzRiWnluWG5HUWpncmMtaUpPME1DbW96VkRsLXpudU02Uy1mOXdkMjJiZDV6blNsOEkwY3hGU0Iyd3oxckl4SEZqRE9UZGloWS1BTnprbw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T23:35:55.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 러시아 예술인 공연 관람…북러 밀착 행보 이어가",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aUTFwem1ibkZmN21NcFpSeUtndW9vZG9sbmthT3FwUXh4emhxQTNHYUhXOTBYbFhZeVNtVEJnak9yTktsbkFxZ0M3eElrTzFEZlJQNE8zM1BUelR2YXF2TFFrb1FoRngy?oc=5",
+              "source": "한국NGO신문",
+              "publishedAt": "2026-11-26T23:29:04.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "김정은, 방북 러시아 예술인 공연 관람…“양국 협력 확대”",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Nk9uYTNTNi1HZmdZeWtoenFQMFUzY2g0U3A5VnhBLTl4VngtSWhuMlUwYVBXeVpkcU5rd2RXYTdyamNkdkZUWWotbWpKeWV6dV9uUG9hQ21UWjhxV3hRazNhREV2LUpBNjlQN2hPYTJsdlV0SGY00gFmQVVfeXFMTkF1Xy1ucmlBQS16bHB4bHo3Q1dId01hUUtoM0ZoTjNlbkxaOUpTX0tLYzdpSFAyMW9xVk55d0Vzb0JzaU9mQW5UMmlNd2NLNXBtTEtmc2w5ak9XQnVpSUltZXpQR1Fn?oc=5",
+              "source": "동아일보",
+              "publishedAt": "2026-11-26T22:30:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 충분히 가능\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프, 푸틴에 유럽 군사행동 중단 요구…‘우크라이나 종전’ 압박",
+              "source": "아시아투데이"
+            },
+            {
+              "title": "트럼프 대통령, 푸틴에 \"유럽 군사 공격 중단\" 요구했다고 공개… 우크라 종전 가능성은? 🕊️",
+              "source": "뉴닉"
+            },
+            {
+              "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…종전 가능\"",
+              "source": "연합뉴스 한민족센터"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 6,
+          "articleCount": 6,
+          "articles": [
+            {
+              "title": "트럼프, 푸틴에 유럽 군사행동 중단 요구…‘우크라이나 종전’ 압박",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50SlAzeUkzQzBjWVZYZWk5Q0dkOENkUnF0WkxTQnBhaVY2b2NVbkFKSGpjcXRUdk84VExYRjFoSWlUd1ExMlRRcUh6dy1BdVNmQnRYeUhUNy1YSzItYlVGVjh6RzZNQlhQQXZjdXJB?oc=5",
+              "source": "아시아투데이",
+              "publishedAt": "2026-11-27T06:10:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 대통령, 푸틴에 \"유럽 군사 공격 중단\" 요구했다고 공개… 우크라 종전 가능성은? 🕊️",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85YnU4d2xBYjZlQUxOa2ZPaHNqZDlMRzlmc0FnNS1YdzF4Y040N2xsbE9kaXFsYzY3NDBodVIxY25pUlNHNDhMdXZWRm80S2F5R2FN?oc=5",
+              "source": "뉴닉",
+              "publishedAt": "2026-11-27T02:41:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…종전 가능\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KUXVjQ1VmYk9zNGZoYTBtTUt3MG1DNm9oTVZWRi1ocngyNllEclBja0NSdElpdVFzWWdiWlptV2FmRFVWakpoLUNZamtuNFBPMmJZUURpRGRwOTR6T0xpSUk2YnpFMGh3VFd4dzVLN1J1d09i?oc=5",
+              "source": "연합뉴스 한민족센터",
+              "publishedAt": "2026-11-26T21:25:55.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"푸틴에 유럽 공격 중단 촉구…우크라 종전 가능성 커\"",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WcVNvQnZZVVpiS1lPME5zc1VEeWRjUWdUVGhzeVVlRnVtUDVfV0hUSXRrckg4MTZBdmxvY2c2YzZWNWd5bXN2ODFSQnpReVZBRHdNdzJNRTVXVlpkeldR?oc=5",
+              "source": "MTN 머니투데이방송",
+              "publishedAt": "2026-11-26T20:30:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 충분히 가능\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtdE1jNXU1WnlJdUNxSzBVbHJXVFljR0RMTmo5bnUwR0NKMWYwclJfTVo5cXFxQlctQzBfTk5nWnNFZHhDMjJFZWJlODh6Q0x6YjlhcHdxSllIcFJRSXJOadIBYEFVX3lxTFBtdE1jNXU1WnlJdUNxSzBVbHJXVFljR0RMTmo5bnUwR0NKMWYwclJfTVo5cXFxQlctQzBfTk5nWnNFZHhDMjJFZWJlODh6Q0x6YjlhcHdxSllIcFJRSXJOaQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T19:18:04.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"푸틴에 우크라 공격 중단 촉구…종전 합의 가능성 크다 믿어\"",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zNzRkQ0lwdU5TbXUyajVNZWZkZktvQk1ja2QycGh3dHhuZnlxdTdtZmJVMm04ZVdyTThGR2lpMjVfNW1HMDY4X0NkS2lDankwejFkV0Mzc19lMTRHajRrTFhZSkZPYm5LdEpHaTVzc2tZdw?oc=5",
+              "source": "KB Think",
+              "publishedAt": "2026-11-26T15:16:46.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프·나토 수장, 러시아에 \"우크라전 확전 말라\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프·나토 수장, 러시아에 \"우크라이나 전쟁 확전 말라\"",
+              "source": "YTN"
+            },
+            {
+              "title": "트럼프·나토 사무총장, 러시아에 “우크라이나 전쟁 확대 행동 자제” 촉구",
+              "source": "SPN 서울평양뉴스"
+            },
+            {
+              "title": "트럼프·나토 수장 회동...\"러시아, 전쟁 확대 말라\"",
+              "source": "VOA 한국어 홈페이지"
             }
           ],
           "span": "11.26~11.27",
@@ -311,151 +841,26 @@
           "articleCount": 6,
           "articles": [
             {
-              "title": "우크라 정보당국 “북한, 러시아 군사지원 일시 중단”…진위는 불투명",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpc3RZNnlzZjhCd1lyMjZKLXc1WHQ1VEhZak81Mkc0ZDNLNlQ3R2VaV28zSUdHR0tOZU4zMVU4cGY0X0k4eE1iajczS3VMNkJQWDU1N2ZuUGptZFozNFBrLVlDWF91RVJPUVE?oc=5",
-              "source": "https://www.sisaworld.kr/",
-              "publishedAt": "2026-11-26T16:08:43.000Z",
+              "title": "트럼프·나토 수장, 러시아에 \"우크라이나 전쟁 확전 말라\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GQnFwM1NPVER4V2lZQ1lfRVlOUTJZbTRiRmlkOFkzQ3pXbHRsVFlVVjNGaDhESk5Ja3dVVXRsQnZRYzVpMV9kcEpqbUhVQ09DcXdfcDREZ3ViX2trU0E?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-26T23:11:00.000Z",
               "kind": "news"
             },
             {
-              "title": "우크라 정보당국 “北, 러시아 군사 지원 일시 중단…김정은이 직접 결정”",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUlTbUN2QUlBRFRfd2Fyc3FQUWplVGVZUTg1Vmpta3ZjcEhickZpQVBrbDhpMjJ1WTR0R2czMkRtLXB0S2Iya29VRHhmclk3azVOd0QzLUxZaWJTOVh3Qkh2SUctaWppQ1N5cEdiZjl2Y3JQLWxsTC1EVjBVYVUtMWowdDAyNk95aG5XSG9Qb0ZWNzY0WDhMUlJGVlYtQdIBsgFBVV95cUxNX0l6dWlZWTNWNjRUTUJwVGN4ZW5oZVdHVEllM0tfVzJkNko5cFYwX3BjSHhYV2dqQUk0QUk0LVdQdkdHb0l4ampOZDhRQzVRSVBOdmFjR1RiOEhva250V1JTeG14R3A3ZWlhWGRvSnJZSWZaQmxIOWdKcFlBdXRaRHFvbXBfdkhieVhSWDc2cHlVRWcxQzk4SllUN2pDbXZrYjhpQXp1Z1NGOXBPWUFYeXd3?oc=5",
-              "source": "Chosunbiz",
-              "publishedAt": "2026-11-26T15:58:00.000Z",
+              "title": "트럼프·나토 사무총장, 러시아에 “우크라이나 전쟁 확대 행동 자제” 촉구",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00bmRjUGY2UDQ4dXlWLW9QaXBjeFJRTEQxY2dlQVlRRnhtWW9UY2lIV2NDTVRHOTFiMmpBVS0yLTVHcUNYRFdXNko2SjYySnZjeVpsRldzXzFBTVNhRzQ3UENZZE9LQXVpNXNr?oc=5",
+              "source": "SPN 서울평양뉴스",
+              "publishedAt": "2026-11-26T22:05:28.000Z",
               "kind": "news"
             },
             {
-              "title": "우크라 정보당국 \"北, 러 군사지원 일시 중단…KN-23 등 공급 끊겨\"",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IdXNuNlY0VkYtNkJRWVVDdXQzVm1tUWQxRThESmduVGNXdGpmbG1YX2xpWWo0dzA2TFVDdXk1TGNTXzdvdFpRMlBpUmlBZmE3TUhEUjhDVzZhNGEtRVF5OWgwOEtlTFZDTUVJa0c1VVhOYlU?oc=5",
-              "source": "한국일보",
-              "publishedAt": "2026-11-26T14:41:00.000Z",
+              "title": "트럼프·나토 수장 회동...\"러시아, 전쟁 확대 말라\"",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiWDctcVRkdUwwckxIN2stY25JMDBPY0ZIaU85VUFNaldPNlowQVQ0cUVuRGl2cFQwSkJuXzNRd0NsVjNjdVV2cTgtdWxxcE5NX3J4dTRKM2t2RElqbTJtcnZoczQzYVRs0gFrQVVfeXFMT294YlNOOG4zdUtWbzhfRkV4YVJ0dzlTVGZzSWNGOUpBa3h6Ym9wZWFGUDJ6Z1VBTDF1SGp6cW1NYjhrVmNLWjBLZUZfNGpaM0ptWUFNSktlb1BSRWJoRXAxWHp5OW1XUVgxS3M?oc=5",
+              "source": "VOA 한국어 홈페이지",
+              "publishedAt": "2026-11-26T17:38:16.000Z",
               "kind": "news"
             },
-            {
-              "title": "우크라 정보당국 \"김정은, 대러 군사 지원 일시 중단 지시…남북 긴장 완화 추진에 반발\"",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPeHphUmg4MVdYdzliaXExZV90bmFaM1EtZ1I1eDhWdUk2dUpKQXpRTUoyMWp2M2lpZTJoZFVjMHVCeG02YlotMDZBYkQ2dVRvbFB1RnhPUS14TmVz?oc=5",
-              "source": "뉴스핌",
-              "publishedAt": "2026-11-26T14:32:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "우크라 정보당국 \"북한, 러 군사지원 일시 중단\" 주장",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3R2oySW1YaWpXVFNsQmJ2TThTdmZCTUh6RmYzdTcwWm9LZlZyclMxVzV4QnVBVkJEQUV6V21aZkxqSDFmX1k5cVl4TlZaajJnQnNCNlZfTFJYLVgtdHRmTGlESWw3azM0WFVvbzdsaDk0MURa0gF0QVVfeXFMUDdHajJJbVhpaldUU2xCYnZNOFN2ZkJNSHpGZjN1NzBab0tmVnJyUzFXNXhCdUFWQkRBRXpXbVpmTGpIMWZfWTlxWXhOVlpqMmdCc0I2Vl9MUlgtWC10dGZMaURJbDdrMzRYVW9vN2xoOTQxRFo?oc=5",
-              "source": "MBC 뉴스",
-              "publishedAt": "2026-11-26T14:18:05.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "우크라 정보당국 \"북한, 러 군사지원 일시 중단\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfWDA3NkFCeEFVTWwyV0tFTUdqNVh0RjhGcmRGU1NEM25CUVZWSDB4dmtjeGM2WnRXMmtwTTlXcXVsczR1aTZDZFdTVUp6ZUpzSm9yUmd6Z2d1OTNOVHBDb1hxR1lOTnc?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-26T14:15:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "우크라 \"北, 러 군사 지원 중단\"…한러 관계 개선에 반발",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "우크라 \"北, 러 '남북 긴장 완화' 발언에 반발…군사 지원 중단\"",
-              "source": "뉴시스"
-            },
-            {
-              "title": "우크라 “뿔난 김정은, 러시아 군사지원 중단…한러관계 개선에 반발”",
-              "source": "서울신문"
-            },
-            {
-              "title": "우크라 정보당국 \"北, 러 군사지원 중단…한러 관계 개선 반발\"",
-              "source": "뉴스1"
-            }
-          ],
-          "span": "11.26~11.27",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
-          "articles": [
-            {
-              "title": "우크라 \"北, 러 '남북 긴장 완화' 발언에 반발…군사 지원 중단\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ta2hCcUswb3pJSnNzOHhmbFhpRWZKcEZMVXRCOF9SQXM5S3RDSi02YlpsVTZiS3AwQjZhM0R6YmVPb29WVkNreF9TTTN2d19DRGtOZDlIc1FrQks4bTNyN9IBeEFVX3lxTE4yOHNfb005Q3pUVHNYWUlpLVZmZmR3RWVSZV9sb1BWeGQtM3V3NUk2Qm5jLVFxLWo5SjlKSmNnSUdYc0VWZ2NOM3NWbF9HWGF0ZEc5LVJ4ell4d1BxSGhzcWY2NTFRWGhHc0hPUVVsMzEyUm5yY2M4Rw?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-26T15:05:29.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "우크라 \"北, 러 군사 지원 중단\"…한러 관계 개선에 반발",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTlZpTXpBcEliMFAwQzZFNnU4NTVfNm9JeDIyTGRBRENURVkzSkZuVDhtLWVsOVFIVHIwM0xDMmJGSVNLTkg2eHJEZDduaGtBN1M2OTRGTG1qUQ?oc=5",
-              "source": "한국경제",
-              "publishedAt": "2026-11-26T13:20:48.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "우크라 “뿔난 김정은, 러시아 군사지원 중단…한러관계 개선에 반발”",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbWVlLW5NNWhIeElQZjBuV1RlY1dJcVI5NnRWWFFRV09oc2d4ZWl4bzB1NkhqY0gzRnhscXp6Zm5xaTNpTVUyeVZGX2lqZHZVX2s5czgyeXY3QVA5amFONUxTTU5Ha21Oc2JkT2lkNW0yR1F3dlJR?oc=5",
-              "source": "서울신문",
-              "publishedAt": "2026-11-26T13:12:56.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "우크라 정보당국 \"北, 러 군사지원 중단…한러 관계 개선 반발\"",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TcHYtLWY0ZzUxVFFyNWVKVy1pSHpWRk9LX0xZSWtiSC1zQm1VMU9yMHhIRm1aeVJZNGR6cFZxNVRaSm9uT0ZaOHRqUU1ROU1IOU5F?oc=5",
-              "source": "뉴스1",
-              "publishedAt": "2026-11-26T13:01:09.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "英, 예비군 10만명에 \"전시 동원 대비하라\"…냉전 이후 처음 - 머니투데이",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "영국, 예비군 10만명에 \"소집 대비하라\"…냉전 후 처음",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "英, 예비군 10만명에 \"전시 동원 대비하라\"…냉전 이후 처음 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLUWY1RzRjU3pjdlFlQVd6SFlma1F2Ri1OUlp2RGFvNkJ1OVZzVEFyU0hjR2hTVVQ3VzdqRHpobEVzQjFQMXozYnhPTFJRcFNMeFBkSkk4dnRaT2d4OVJWYnZWcDhnOE52ZVV4ckxn0gFuQVVfeXFMUEtRZjVHNGNTemN2UWVBV3pIWWZrUXZGLU5SWnZEYW82QnU5VnNUQXJTSGNHaFNVVDdXN2pEemhsRXNCMVAxejNieE9MUlFwU0x4UGRKSTh2dFpPZ3g5UlZidlZwOGc4TnZlVXhyTGc?oc=5",
-              "source": "머니투데이",
-              "publishedAt": "2026-11-26T12:03:20.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "영국, 예비군 10만명에 \"소집 대비하라\"…냉전 후 처음",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDV2hMbUlWbmJMSjUwYjNia0Y1enItdnVtWkU5NmJ5YTVBajFENU4yelUxTEpqMWdjbFhhOXNrMUN5Wjlmdjd4YXlLNVVYaGFVaW9fWjZJY2dKeUxBNm1HS9IBYEFVX3lxTFBDV2hMbUlWbmJMSjUwYjNia0Y1enItdnVtWkU5NmJ5YTVBajFENU4yelUxTEpqMWdjbFhhOXNrMUN5Wjlmdjd4YXlLNVVYaGFVaW9fWjZJY2dKeUxBNm1HSw?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-26T10:23:58.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "트럼프·나토 수장 \"러시아, 우크라전 확전 말라\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "트럼프·나토 수장, 러시아에 \"우크라전 확전 말라\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
             {
               "title": "트럼프·나토 수장 \"러시아, 우크라전 확전 말라\"",
               "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jQXhLcTBCSDVxbGZTYl9TX2V2Y1FyX0RrZEdfVEFFenZicVJuc1kzTmdRMk9iXzNoVnhLMW1IcXpCNVVZNG15WTFzd3dZcUo5NW5LQkh5T0cwU1AzUXQ4bkVEMUVBeXc?oc=5",
@@ -469,152 +874,12 @@
               "source": "연합뉴스",
               "publishedAt": "2026-11-26T09:48:31.000Z",
               "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "“우크라전 러시아군 사망자 50만명 육박…2차대전 이후 최대”",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "우크라이나 전쟁 사망자, 러시아 자체 통계상 50만명 육박",
-              "source": "BBC"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "“우크라전 러시아군 사망자 50만명 육박…2차대전 이후 최대”",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0waVhNbUpraWI1U2dBNkh6TjkwQXFkaE51QXZtcVdLNG1XZzM5VjN0eHhxelNiNjhocThlaERrN0dwTDZ0Q2JxdmlDN0pldDJ1Mk9qZGNCWTFDd01TMi1reXhIN3BnRU0zLXF1aG5B?oc=5",
-              "source": "한겨레",
-              "publishedAt": "2026-11-25T08:34:00.000Z",
-              "kind": "news"
             },
             {
-              "title": "우크라이나 전쟁 사망자, 러시아 자체 통계상 50만명 육박",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WSTZOYmJObDY0N0ppSFRQQXliVm16NjRZSjB0MlRmWGpZdExCNkQ2ZFByeXVrREVNc2hhYk9qUFpyYk03THNSNmF6OTd1aWZiSkdSRDhEcl9Ta1ZLeWfSAWNBVV95cUxPUGl4T280enE1NHZiZXVsclZfZVFaaDl4TU5PekFUMXVDQWlpZmgzZFdpS3JvamZQb1FSbmszU0pQbzA4REZyY3R0blNCbU9ZMnBFcU8zZFBXUXZsblV3Uk9WN2s?oc=5",
-              "source": "BBC",
-              "publishedAt": "2026-11-25T06:08:34.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "“트럼프, 러시아 종전 유인책 ’경제협력 카드’ 접어“",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tZ3JPQVQ2U2dnTEJXcGN3VS1tQmZTWmJHaHJiOE5qS3F5cUhDazNocEsyUG9kOENHanlsSk9OU2RJbWpTdHpMdlRfVnBwRWZMVEpxUTVxTXM4Y00xZ3dzcl94M1pRdVk?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-25T07:39:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "\"트럼프, 러시아 종전 유도할 '경제협력 카드' 접어\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rSVI1eHJPV2xZd0hVSk0tazVBWVRTdHRWWDhGNVN6aFE0VjV0NUptUVdybHZnQ25JODd6eThYN1JpcFZRc0hxcjg1WW92M0dmRlBUdkN2cnBTWW93NXQ1MdIBYEFVX3lxTE1rSVI1eHJPV2xZd0hVSk0tazVBWVRTdHRWWDhGNVN6aFE0VjV0NUptUVdybHZnQ25JODd6eThYN1JpcFZRc0hxcjg1WW92M0dmRlBUdkN2cnBTWW93NXQ1MQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-25T07:18:29.000Z",
-              "kind": "news"
-            }
-          ]
-        }
-      ]
-    },
-    "politics": {
-      "label": "정치",
-      "summary": "",
-      "keywords": [
-        {
-          "word": "푸틴",
-          "count": 35
-        },
-        {
-          "word": "우크라",
-          "count": 30
-        },
-        {
-          "word": "트럼프",
-          "count": 21
-        },
-        {
-          "word": "공격",
-          "count": 18
-        },
-        {
-          "word": "보복",
-          "count": 12
-        },
-        {
-          "word": "젤렌스키",
-          "count": 10
-        },
-        {
-          "word": "경고",
-          "count": 10
-        },
-        {
-          "word": "유럽",
-          "count": 9
-        }
-      ],
-      "items": [
-        {
-          "title": "트럼프 “푸틴에 유럽 전역 군사 공격 중단 요청…합의 가능성 크다”",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "트럼프 \"푸틴에 유럽 전역 군사적 공격 중단 요구…우크라와 신속 합의 희망\"",
-              "source": "뉴스1"
-            },
-            {
-              "title": "트럼프 \"푸틴에 우크라 공격 중단 촉구…종전 합의 가능성 크다 믿어\"",
-              "source": "KB Think"
-            }
-          ],
-          "span": "11.27",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "트럼프 “푸틴에 유럽 전역 군사 공격 중단 요청…합의 가능성 크다”",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVlVelZ6RkExRzZVOTctRksxenl0bDBVWE5nU01CWTNjS21nRFVrLWd0cnFna3g5N3VTR0RJZlE4X0JjR19pSkN2Z09DNnAxNmJqUk9oMWNhMGlUYWJYVDRqY1l1bGY1NDluTHV3SUh5U3Npc0pscDNaWUV5VWcza0g5aGYzRHA1UTc0clpTVVFlZi1qeEtDUXVaN0V3Z9IBsgFBVV95cUxNdUFKZ0hZTWVRVExxeDcxSWt0VEtoRWg3TVc0a1ZZeVZlZldtd0NJS0ZESUxCV0x5UmZuNWtVc2lYLXZBVldFSDdDa00tcm12bi0wdHNTT2dodU4wZG12SGdTdjVYZmxMaldoV0Y5SG9hRDZjSlFDclZXSE14b1NUcUdmc0JibFNVUXlBSnBNSEU3Zjk0cnh6NGVjRmg0LWQtNkppdVJrNVpVNDdram93cHR3?oc=5",
-              "source": "Chosunbiz",
-              "publishedAt": "2026-11-26T16:43:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "트럼프 \"푸틴에 유럽 전역 군사적 공격 중단 요구…우크라와 신속 합의 희망\"",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiUHlGTll6a0I0aHFTRTlpbC1URzJRdzVQWkEtSHd5Q2ZkN1ZseHZUUWc1bDdBQTZRWk1iZHhHUGZYNVdpTHczek5aRFJUWjkyVVIw?oc=5",
+              "title": "트럼프·나토 사무총장, 러시아에 확전 자제 촉구…\"신속한 평화적 해결\"",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIMGJCZ0Z6YzMzbUVHSHZ6SGdSTlJnMUI1VktyNEE4RUdzOVUzNEFkY2xKT1c5SWx2V2Q3Nm1PMW91UzQ1d3AyaVZjQzlHWXZhMFN2MjN1ZG0?oc=5",
               "source": "뉴스1",
-              "publishedAt": "2026-11-26T15:31:46.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "트럼프 \"푸틴에 우크라 공격 중단 촉구…종전 합의 가능성 크다 믿어\"",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zNzRkQ0lwdU5TbXUyajVNZWZkZktvQk1ja2QycGh3dHhuZnlxdTdtZmJVMm04ZVdyTThGR2lpMjVfNW1HMDY4X0NkS2lDankwejFkV0Mzc19lMTRHajRrTFhZSkZPYm5LdEpHaTVzc2tZdw?oc=5",
-              "source": "KB Think",
-              "publishedAt": "2026-11-26T15:16:46.000Z",
+              "publishedAt": "2026-11-26T04:51:35.000Z",
               "kind": "news"
             }
           ]
@@ -624,6 +889,10 @@
           "summary": "",
           "whyItMatters": "",
           "headlines": [
+            {
+              "title": "우크라이나 정보국 \"북, 러시아 군사지원 일시 중단...한-러 관계 때문\"",
+              "source": "SPN 서울평양뉴스"
+            },
             {
               "title": "우크라 정보당국 “北, 러시아 군사 지원 일시 중단…김정은이 직접 결정”",
               "source": "Chosunbiz"
@@ -636,14 +905,21 @@
           "span": "11.26~11.27",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
+          "sourceCount": 4,
+          "articleCount": 4,
           "articles": [
+            {
+              "title": "우크라이나 정보국 \"북, 러시아 군사지원 일시 중단...한-러 관계 때문\"",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96b1VuMjN2NmlYYVYzd2VnWkhRUmVMajRObkdrVWlyVGtIYkdCbWdxNmVyZnNBY19yVnVXS2FMTXAzVExUMFdtZ1hzUU11RWwtN2NjeWt1X1ZPWXhaNHgtT1BMWjZzbnpQQjZN?oc=5",
+              "source": "SPN 서울평양뉴스",
+              "publishedAt": "2026-11-26T22:40:03.000Z",
+              "kind": "news"
+            },
             {
               "title": "우크라 정보당국 “北, 러시아 군사 지원 일시 중단…김정은이 직접 결정”",
               "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUlTbUN2QUlBRFRfd2Fyc3FQUWplVGVZUTg1Vmpta3ZjcEhickZpQVBrbDhpMjJ1WTR0R2czMkRtLXB0S2Iya29VRHhmclk3azVOd0QzLUxZaWJTOVh3Qkh2SUctaWppQ1N5cEdiZjl2Y3JQLWxsTC1EVjBVYVUtMWowdDAyNk95aG5XSG9Qb0ZWNzY0WDhMUlJGVlYtQdIBsgFBVV95cUxNX0l6dWlZWTNWNjRUTUJwVGN4ZW5oZVdHVEllM0tfVzJkNko5cFYwX3BjSHhYV2dqQUk0QUk0LVdQdkdHb0l4ampOZDhRQzVRSVBOdmFjR1RiOEhva250V1JTeG14R3A3ZWlhWGRvSnJZSWZaQmxIOWdKcFlBdXRaRHFvbXBfdkhieVhSWDc2cHlVRWcxQzk4SllUN2pDbXZrYjhpQXp1Z1NGOXBPWUFYeXd3?oc=5",
               "source": "Chosunbiz",
-              "publishedAt": "2026-11-26T15:58:00.000Z",
+              "publishedAt": "2026-11-26T15:59:00.000Z",
               "kind": "news"
             },
             {
@@ -655,7 +931,7 @@
             },
             {
               "title": "우크라 정보당국 \"북한, 러 군사지원 일시 중단\" 주장",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTmMxbkltQWt2SDZMSGJwdll6VHFiOUxIU2RvRHJhLVYtNVpBUlhmRmlQT2t0R0xjclRuVE9zZjV5TlpQQVUwejM5NWtxV1Fwd2dhS2dUTlpHUHBiX0k0MNIBYEFVX3lxTFBoTmMxbkltQWt2SDZMSGJwdll6VHFiOUxIU2RvRHJhLVYtNVpBUlhmRmlQT2t0R0xjclRuVE9zZjV5TlpQQVUwejM5NWtxV1Fwd2dhS2dUTlpHUHBiX0k0MA?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iNFN3d3Y5aDFyazkxaVZ1YmRkZmxLQ2NtT1NNVzdid3VQUlItT2c3aUNzcmxSLUxhQ2RNSXZoRWItMlowWFlONVAyYjEyMjlMZXZfMjNRWDRyNlHSAWBBVV95cUxQaE5jMW5JbUFrdkg2TEhicHZZelRxYjlMSFNkb0RyYS1WLTVaQVJYZkZpUE9rdEdMY3JUblRPc2Y1eU5aUEFVMHozOTVrcVdRcHdnYUtnVE5aR1BwYl9JNDA?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-26T13:46:55.000Z",
               "kind": "news"
@@ -663,140 +939,94 @@
           ]
         },
         {
-          "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
+          "title": "방북 러시아 정부 대표단 평양 '해방탑' 헌화",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "젤렌스키, 내년 초 미국 민주당 의회 출범에 ‘기대’",
-              "source": "KBS 뉴스"
+              "title": "코즐로프 러시아 정부 대표단장",
+              "source": "뉴시스"
             },
             {
-              "title": "젤렌스키, 美 민주당 의회 출범 기다리나…\"1∼2월 새접근 모색\"",
-              "source": "연합뉴스"
+              "title": "러시아 정부대표단·문화부 대표단 같은 날 평양 방문",
+              "source": "통일뉴스"
             }
           ],
-          "span": "11.25",
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "방북 러시아 정부 대표단 평양 '해방탑' 헌화",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05OFZrT2t0a0YyYUdFNUNhenA5SjRTY3dzMlJkVk5Rald3SDJtNzRBZmRsN2FzR3JQb01RUEJYeEh6VEF1MWFaN0o0cnhvMXhIalhfQ1NSV1FSbk91WUV2ZNIBYEFVX3lxTE05OFZrT2t0a0YyYUdFNUNhenA5SjRTY3dzMlJkVk5Rald3SDJtNzRBZmRsN2FzR3JQb01RUEJYeEh6VEF1MWFaN0o0cnhvMXhIalhfQ1NSV1FSbk91WUV2ZA?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-27T08:21:29.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "코즐로프 러시아 정부 대표단장",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HQjBzd19xbUlhcXRBLVZHTG9hZVYtUFdjN3ZMUVNmQmFiZ1NTd19QcWltUFhQQ2JHXzRjVHdSb0xBU3lhR3hhVUVsWlI0cTYtYk45ekFYUUM3eW1pTFJscQ?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-27T02:11:05.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "러시아 정부대표단·문화부 대표단 같은 날 평양 방문",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdHlMQ0pSWk5YelctWkhWMjJ3YXBsQkMxUTdQTklqNDF3NXFzMzl2aXcxMXc0V29qbWFEaHIwVl9wcWtaRmdzU0JZbzhZcVRacm1QLXRleGNBbEFsV2dLWHRNNnBJcS1jeUtlc2dn?oc=5",
+              "source": "통일뉴스",
+              "publishedAt": "2026-11-26T13:32:35.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "북한, 방북 러시아 정부 대표단 환영연회",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nZnhFQXZ6bnRqSVJ0Y2NpRFZhTGZCaEd6WmRRWFJxc2hDMGVTS3diVzhVeWQzendHTEluYkFwWmwwdW9VN2lUNFRFTWV2V1p2MWV6R0ZfVU9qVWFKY0h4VdIBYEFVX3lxTE1nZnhFQXZ6bnRqSVJ0Y2NpRFZhTGZCaEd6WmRRWFJxc2hDMGVTS3diVzhVeWQzendHTEluYkFwWmwwdW9VN2lUNFRFTWV2V1p2MWV6R0ZfVU9qVWFKY0h4VQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-27T08:05:29.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "젤렌스키, '푸틴은 친구' 트럼프에 \"히틀러를 친구라 부르는 격\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "젤렌스키, 푸틴 ‘친구’라 부른 트럼프에 “히틀러 친구라는 것과 같다”",
+              "source": "한겨레"
+            },
+            {
+              "title": "젤렌스키, ‘푸틴은 내 친구’ 트럼프에 “히틀러를 친구라 부르는 격”",
+              "source": "Chosunbiz"
+            }
+          ],
+          "span": "11.27",
           "days": 1,
           "hasPress": false,
           "sourceCount": 3,
           "articleCount": 3,
           "articles": [
             {
-              "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mdEE4aC1xZVlkeHZtY0d0TC1MT2NUdXVlcFpTZlppeXpfd2JNWDJZaWF3QXRTRXlaM01CcWVWYkNHYXppUEdrYXg5MHNDMkdwTlFtT2tLZGtGcGZZMWc?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-25T00:01:00.000Z",
+              "title": "젤렌스키, 푸틴 ‘친구’라 부른 트럼프에 “히틀러 친구라는 것과 같다”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcF9LTGliSHVZYV9pSW9HVE96SVI5RHktVk8telItZVVCVktvSGQ1eV9td2RrcUd4YVE2Z2JpRXNsYUZpekR3by1HbDRsTGx5bTZ2Uk16b1NGWWh2VTZia01ZQmFuZjlrUGtzbFlJMTJyYlZSd2JhaHBUdk5nbFR1NnN3?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-27T14:29:00.000Z",
               "kind": "news"
             },
             {
-              "title": "젤렌스키, 내년 초 미국 민주당 의회 출범에 ‘기대’",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Z2Fsa3lKbE9xZHVTYXNGMU5xNXVyRGhCVUNzTG9RcHQ3WjFjbWRxc2lva0NqZGk5MktHdmY4UnZNVmMyaFIyZEs2aFJkOWpQc0RlNG1UWGVlb3M?oc=5",
-              "source": "KBS 뉴스",
-              "publishedAt": "2026-11-24T23:42:00.000Z",
+              "title": "젤렌스키, '푸틴은 친구' 트럼프에 \"히틀러를 친구라 부르는 격\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EUkdhZlg0WHNWd0drWEpmMW9fZF9ZM2hqTGNTdWZ4Ym8tOFNRX1hFVWJqWk1HeFNlVGdCSUNpZUNGSGxyNUtValo5SGJnYThMLTczNkxid2VkZw?oc=5",
+              "source": "파이낸셜뉴스",
+              "publishedAt": "2026-11-27T13:33:33.000Z",
               "kind": "news"
             },
             {
-              "title": "젤렌스키, 美 민주당 의회 출범 기다리나…\"1∼2월 새접근 모색\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cE1DSHV1WmNBX2gwR2lVTmRIQTYzNDZOdl9kX1lIc0x3RklnY1JfU1pOX25GbC1JMjJELUxJUXRSb1JENWRLYlF0UXpwcVFhci1obTJPSkF5c0RNcXB6T9IBYEFVX3lxTE40cE1DSHV1WmNBX2gwR2lVTmRIQTYzNDZOdl9kX1lIc0x3RklnY1JfU1pOX25GbC1JMjJELUxJUXRSb1JENWRLYlF0UXpwcVFhci1obTJPSkF5c0RNcXB6Tw?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T23:31:58.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 가능\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 충분히 가능\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.27",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 가능\"",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkhHTzlMcTdlOU50OFBQeHlKcm9LMk9kak1fLXZISDJyY1pXTGxtNXBVb1QtWmstVmkzVDdzT1pfTWdmZzRaNUtWaDBRdFdxMWpjS3JaT3JuaUx1Mi1GVS1NdFduUEJ3ZHp1Q1BkRWEtQWR3b3hMaTlPVzlaWGpQMDZnNXJxSTVYMGZydXhQMA?oc=5",
-              "source": "news.sbs.co.kr",
-              "publishedAt": "2026-11-26T19:31:17.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 충분히 가능\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtdE1jNXU1WnlJdUNxSzBVbHJXVFljR0RMTmo5bnUwR0NKMWYwclJfTVo5cXFxQlctQzBfTk5nWnNFZHhDMjJFZWJlODh6Q0x6YjlhcHdxSllIcFJRSXJOadIBYEFVX3lxTFBtdE1jNXU1WnlJdUNxSzBVbHJXVFljR0RMTmo5bnUwR0NKMWYwclJfTVo5cXFxQlctQzBfTk5nWnNFZHhDMjJFZWJlODh6Q0x6YjlhcHdxSllIcFJRSXJOaQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-26T19:18:04.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "트럼프·나토 수장 \"러시아, 우크라전 확전 말라\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "트럼프·나토 수장, 러시아에 \"우크라전 확전 말라\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "트럼프·나토 수장 \"러시아, 우크라전 확전 말라\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jQXhLcTBCSDVxbGZTYl9TX2V2Y1FyX0RrZEdfVEFFenZicVJuc1kzTmdRMk9iXzNoVnhLMW1IcXpCNVVZNG15WTFzd3dZcUo5NW5LQkh5T0cwU1AzUXQ4bkVEMUVBeXc?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-26T10:26:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "트럼프·나토 수장, 러시아에 \"우크라전 확전 말라\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMWdxbWIzVW1MLURXU0VXQ09Dc2xIdDFFMHYxVmIwSkwyWTlBV0czMzNtWnU2Y2M4WlpURGpDMlo1VlZDRXcxb2lyVHlDQzNkaF8ybzdQYkhlcEnSAWBBVV95cUxQWFBYS0JxSENlT0VmRnFMSnpPQTVxNnRIektDR3VjZ2NETE9oWXBtaEJTeUFNZ1ZEWGg1NWE5bGhReWtjX21iZXNWM3NUZXk0VXQwbzgxcGFWSV9qTlhrdTg?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-26T09:48:31.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "핵공격 경고에 놀란 북유럽 푸틴과 비밀 소통",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "핵공격 경고에 놀란 북유럽 푸틴과 비밀 소통",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSeC1YY1h4ZHljNkhFVGtjNmJ4TWpET3NpQmlKRTBKT2NBQmd0S053d0JJbmUxTTN3amczejNVcENEQjE4YkpiSGRoQi1fVTFsVVhCeEZtRnk2dUhPNlduZ2Rn?oc=5",
-              "source": "매일신문",
-              "publishedAt": "2026-11-26T07:08:22.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "핵공격 경고에 놀란 북유럽…러 재벌 중재로 푸틴과 막후 접촉",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80VEpHR29nMmYwMklHc0ZvTVhJVU5QdjRYRGYxVnBqT1d1ZkQtamJBOWpfUnRxekh1WHF0Ym1nQzlmQmlfUkZSX0NJMUZuLWNzTXpYRDFaTDlrTE9oS0RTbdIBYEFVX3lxTE80VEpHR29nMmYwMklHc0ZvTVhJVU5QdjRYRGYxVnBqT1d1ZkQtamJBOWpfUnRxekh1WHF0Ym1nQzlmQmlfUkZSX0NJMUZuLWNzTXpYRDFaTDlrTE9oS0RTbQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-26T03:08:04.000Z",
+              "title": "젤렌스키, ‘푸틴은 내 친구’ 트럼프에 “히틀러를 친구라 부르는 격”",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbzdPZ25LYTVPUGVFVkE3SlMyTkZtaHdlQXFMei1RcVQzeWNTMmNBTkJQMU5EdnZIb0t4VndQM0pLQVZwSDc1TlExMEh3RTBmZWI3WWptcnUwcFJFcHVPQVFIRlJFTU9hOVEzN0h0QUFPTkgxS21rNmY3YjV4NG1PTFo3RWZUejB2OFRjXzBaek4tWUJvZGo4d0JFQV9Zd9IBsgFBVV95cUxOZks3ZFFpZ2JyMVRRekdnZnRISjl4ajlQNk5tSWdKb1pHcHNiQXRqSjFiZ1I5SDVwZERYX2t3OG1NSWpCQWZNWlM5eTFpeGNTUEQ5S3Rfdzhadk1rRFlHc2s3d2NjcXhuZmxJcHhYVHE1eUg5WHA3ZkwzelFDQVF4Z3dLcU43OFZGcWQwMWJsbjBJd2pvYlRCNlRxT1FNaENLVmFCQkpMdDhRUHNUZUUwSUR3?oc=5",
+              "source": "Chosunbiz",
+              "publishedAt": "2026-11-27T13:02:00.000Z",
               "kind": "news"
             }
           ]

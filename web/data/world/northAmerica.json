@@ -2,14 +2,14 @@
   "region": "northAmerica",
   "label": "북미",
   "range": {
-    "from": "2026-11-21",
-    "to": "2026-11-27"
+    "from": "2026-11-22",
+    "to": "2026-11-28"
   },
-  "updatedAt": "2026-11-26T21:17:03.868Z",
+  "updatedAt": "2026-11-27T21:19:11.799Z",
   "ai": false,
-  "overview": "최근 1주 북미 관련 국내 언론 기사 244건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 경제 분야의 「미국 과잉생산 관세 한국 15% 상한 유지」(기사 18건)입니다.",
+  "overview": "최근 1주 북미 관련 국내 언론 기사 270건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 경제 분야의 「美, 한국 등에 과잉생산 관세…15% 상한 유지」(기사 12건)입니다.",
   "stats": {
-    "articles": 244
+    "articles": 270
   },
   "themes": {
     "economy": {
@@ -18,47 +18,43 @@
       "keywords": [
         {
           "word": "과잉생산",
-          "count": 31
+          "count": 23
         },
         {
           "word": "한국",
-          "count": 26
+          "count": 20
         },
         {
           "word": "상한",
-          "count": 16
-        },
-        {
-          "word": "유지",
-          "count": 16
-        },
-        {
-          "word": "인상",
-          "count": 13
-        },
-        {
-          "word": "반도체",
-          "count": 11
+          "count": 14
         },
         {
           "word": "트럼프",
-          "count": 9
+          "count": 14
+        },
+        {
+          "word": "유지",
+          "count": 12
+        },
+        {
+          "word": "인상",
+          "count": 10
+        },
+        {
+          "word": "반도체",
+          "count": 10
         },
         {
           "word": "중국",
-          "count": 8
+          "count": 9
         }
       ],
       "items": [
         {
-          "title": "미국 과잉생산 관세 한국 15% 상한 유지",
+          "title": "美, 한국 등에 과잉생산 관세…15% 상한 유지",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
-            {
-              "title": "미국 과잉생산 관세, 한국은 15% 상한 유지… 연준 12월 인상 확률 98%, 휴장일 밤에 볼 숫자 5개",
-              "source": "네이버 프리미엄콘텐츠"
-            },
             {
               "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
               "source": "BBC"
@@ -66,21 +62,18 @@
             {
               "title": "미국, 14개 경제권에 ‘과잉생산 관세’ 예고…“한국은 15% 상한 유지”",
               "source": "한겨레"
+            },
+            {
+              "title": "14개국에 '과잉생산' 관세‥한국 '15% 상한' 유지",
+              "source": "MBC 뉴스"
             }
           ],
           "span": "11.25~11.26",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 12,
-          "articleCount": 18,
+          "sourceCount": 8,
+          "articleCount": 12,
           "articles": [
-            {
-              "title": "미국 과잉생산 관세, 한국은 15% 상한 유지… 연준 12월 인상 확률 98%, 휴장일 밤에 볼 숫자 5개",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUU0VlUwcDVZZnZPcWpSMmZtRF9hWF9nNXY4UG9NaVlQV2RFb1Jmdk40c0tPUUJ2WFZwWFJ3dGRiaXNfblhyRGd1aG5ELUtYQmFoc05FTENCaGd5blZwNzduMUdEZ3VBZUNLNGQ4clVIYlRjZWxWY0J6UzE3YVE3T2lKRGRmTmduZFVaOEljWERIZVhV?oc=5",
-              "source": "네이버 프리미엄콘텐츠",
-              "publishedAt": "2026-11-26T11:48:00.000Z",
-              "kind": "news"
-            },
             {
               "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbG1kVTFxSl9ndnVoekZ0TGtjUFR0d045UjJtWTVsY05pTDFHZjlYX2xNbWtlVkRXNWYxNklTWTYzTkdwcGEyblVJRnJNT2kzd2RfVXZjWFpkR3cxcFHSAWNBVV95cUxQWFpEMk9aMXlRQWNQMk83NzhRcWJsTW5WYnRtSEdzbndaRTFmM09SZ3RJSUsyWURTU1F1QkVYRDdIQkRScVowN2ZMUFJBWU9RTF8zQVFrV1M2ZFRwa2xQcThERFE?oc=5",
@@ -110,16 +103,23 @@
               "kind": "news"
             },
             {
-              "title": "미국 과잉생산 관세 한국 15% 상한 유지",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxRVBUWXI0MDZ2ZTgwYjFBNzRKdmdDNXBaZ2VKWWVOY1BPcHVlbXBKWExQSmN6OWZZU0RTSWV5a19ZME80RGNwQS13UGNsdGJoc0ZSV2NkbVZDaVJNaTlkRdIBYEFVX3lxTFBxRVBUWXI0MDZ2ZTgwYjFBNzRKdmdDNXBaZ2VKWWVOY1BPcHVlbXBKWExQSmN6OWZZU0RTSWV5a19ZME80RGNwQS13UGNsdGJoc0ZSV2NkbVZDaVJNaTlkRQ?oc=5",
+              "title": "‘15% 상한’ 유지한 미국…이번엔 ‘과잉생산 관세’ 예고",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xRUdaOGtpdERuX2ZyWVhSOGlzX2hIQmtCVTJCd3FRMG82TUQ0ZFNrZ2RVUHdJelNWR3dCX18xajNuS2dPVHdlQ2FvcUp0Mk1ndlpoZQ?oc=5",
+              "source": "JTBC",
+              "publishedAt": "2026-11-25T22:57:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美, 한국 등에 과잉생산 관세…15% 상한 유지",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFYjZScFhyNGVJSmtxSWdmR3BObEVkVk93aXlkc1dDdzJ3eGx2NE5ORXhKZUw2OFdVWER6bXFVQk1yRlBsRDJoTl9YQVRkRFJqVEtwa2VzLUYxOFZPSTJTcdIBYEFVX3lxTFBFYjZScFhyNGVJSmtxSWdmR3BObEVkVk93aXlkc1dDdzJ3eGx2NE5ORXhKZUw2OFdVWER6bXFVQk1yRlBsRDJoTl9YQVRkRFJqVEtwa2VzLUYxOFZPSTJTcQ?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-26T00:15:21.000Z",
+              "publishedAt": "2026-11-25T22:33:46.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "미국 과잉생산 관세에 중국 반발…미중 무역휴전 다시 ‘시험대’",
+          "title": "\"미국 '과잉 생산' 관세에 중국 반발...무역 휴전 다시 시험대\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
@@ -128,8 +128,8 @@
               "source": "연합뉴스TV"
             },
             {
-              "title": "美 과잉생산 관세에 中 반발…미중 무역휴전 다시 '시험대'",
-              "source": "연합뉴스"
+              "title": "미국 과잉생산 관세에 중국 반발…미중 무역휴전 다시 ‘시험대’",
+              "source": "KBS 뉴스"
             }
           ],
           "span": "11.27",
@@ -138,6 +138,13 @@
           "sourceCount": 3,
           "articleCount": 3,
           "articles": [
+            {
+              "title": "\"미국 '과잉 생산' 관세에 중국 반발...무역 휴전 다시 시험대\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pVllxbDJQNV9GV3Q2MU94Sjc4b0hiWXBBSjNZaFo4Nm5rTUpFQ1pDUHBxbmIyVzA0NkVjV0IwZXl2MzI3bjdVTGI0YU95VHJidUUwX3RiSlc4c2x0RFE?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-26T18:08:00.000Z",
+              "kind": "news"
+            },
             {
               "title": "미 과잉생산 관세에 중국 반발…무역휴전 다시 시험대",
               "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yNjg2SHE0XzkyRlNLVHdOZktTaHhTc3ZwbWFYWUpMcERiTWV1UEUyU1VpVWh3cUVpUFkwbk5KWlZJNHUyZmhyYjdTXzJNT3JYRlBLNGxKYXkwYVhNU3Bod2hyTlNkYXc?oc=5",
@@ -151,135 +158,44 @@
               "source": "KBS 뉴스",
               "publishedAt": "2026-11-26T16:04:00.000Z",
               "kind": "news"
-            },
-            {
-              "title": "美 과잉생산 관세에 中 반발…미중 무역휴전 다시 '시험대'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vcVRLSm5aSUMzZ2VMUUNwNU1KZi1zRmVuaFlLMDhjYS1VSFptek8yQjBNX1Q2Mk9KRXNzYlBpUnRadHA4TnNyamp6ZUo0d2lVazBnZUF4V3Utc2PSAWBBVV95cUxOWDd0c0ZqVzZtOTR0M1c3dmFxMnNFcVNMeEdZRC1QYkRaT1Q2Nm5xR0V1d1NBU0t3WkxmSVFLa0Rla1E0MEw2TGRaQkZPdzRZTVRGWW94dEtWZXlITnRwVzY?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-26T15:45:29.000Z",
-              "kind": "news"
             }
           ]
         },
         {
-          "title": "일본 정부, 15% 미국 관세에 “유감”…“구조적 과잉생산 없어”",
+          "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"(종합)",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "일 정부, 미 관세에 ‘유감’…“애초 구조적 과잉생산 없다”",
-              "source": "한겨레"
-            },
-            {
-              "title": "日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
-              "source": "연합뉴스"
+              "title": "‘35% 관세 표적’ 베트남 “미국 우려 해소·무역협상 마무리 노력”",
+              "source": "KBS 뉴스"
             }
           ],
           "span": "11.26",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "일 정부, 미 관세에 ‘유감’…“애초 구조적 과잉생산 없다”",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc09FQjJjUlF2NnlIZjJPSU1zT1BJVUxVdW1PT1BLcXE3MUtiUXc0R0kteDFFSG10RkJOd1k5Y1ZjTEoxbHRTZThVREZ0X25kTzVQWi16dUwtUEdrV1oxb1hhZ1dSMUVpZGl6OWl0LWs1M3k2QkxZRm14N0JrRWotdnh3?oc=5",
-              "source": "한겨레",
-              "publishedAt": "2026-11-26T06:57:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "일본 정부, 15% 미국 관세에 “유감”…“구조적 과잉생산 없어”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5WkFrMW9wYjVQUklkSGU2SEpxbFlaMFhkY0tIaTQ5NmZTNWxiR0JmbUMwdnliWnJnTVh6dW8waUxyU3h6cGRHRHZXMDFvZ2xGVWZmUGpSclQ2MG8?oc=5",
-              "source": "KBS 뉴스",
-              "publishedAt": "2026-11-26T03:51:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "日정부, 15% 美관세에 \"유감\"…\"日에 구조적 과잉생산 없어\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tUEdLSzVPcFoyNVRacXRPUWZCUG0wSzRSUUJaMXctemV3dDZKZ0JWcDd0NHZtUm5mZlRQR2xnR2VJU1N1ZHd0X2ZBY2U2QU5mYjJUYVIwT1kwUU3SAWBBVV95cUxPc3k3dVdDTXdiRWttQ1FWRURNNC0zMjExd0p0NHVPb2g5QW0tQUdXWTJ2YWV2VXNqS3hWOVQwNEZNMWdoZjBENWRBYlpXVXRGTUtiRURfd0N3alhXNzhHaFQ?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-26T03:18:12.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "“약속 어기면 관세 25%”…미국, 호남 반도체 꼬투리 잡았다",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "한국 콕 집어 \"미국에 피해\"…‘약속 어기면’ 관세 25%?",
-              "source": "JTBC"
-            }
-          ],
-          "span": "11.26~11.27",
-          "days": 2,
-          "hasPress": false,
           "sourceCount": 2,
           "articleCount": 3,
           "articles": [
             {
-              "title": "“약속 어기면 관세 25%”…미국, 호남 반도체 꼬투리 잡았다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ejAzMTg4Y3VhdVc4MmthaWtlRHJBUm80N3dxQUlXN1hBUTgzZlpJRjF4aVIyalhTYlJJZ19FZnVEQVRhTVV0c19PR0ZwdzhQUnBNNElB?oc=5",
-              "source": "중앙일보",
-              "publishedAt": "2026-11-26T15:24:11.000Z",
+              "title": "‘35% 관세 표적’ 베트남 “미국 우려 해소·무역협상 마무리 노력”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSXFvTVRnU1RoaXJUbkxBTmFxeHU3U0lzaDBadEoyUzNvWDJwR2FaemdQY2FrcUl5NEd3YkU1M0d0cVpxaVJyWTV0R3BvbTFBb0kzcGhzdTJWYm8?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-26T12:32:00.000Z",
               "kind": "news"
             },
             {
-              "title": "한국 콕 집어 \"미국에 피해\"…‘약속 어기면’ 관세 25%?",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TYnRZX25yaEMzUGlWdHpPZVBtTlRvUWR2R2lBR2JYakJKaUF4Q0xyc0QyRi1LWHVfeTRKM0EtZlFCNU9kckE4WFpxYVk4X3lPZFl0Vg?oc=5",
-              "source": "JTBC",
-              "publishedAt": "2026-11-26T09:55:00.000Z",
+              "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jcmFjZkNBZWU0LWQ3TjREbkQ0VUJEd1JhY2lVQ1J3VHpJandicEV4eVkwUU1fcWdha1BhNzhzSWpnWmdpckdTOFFSdGFOakdMN3FiTnlpbEprU2R2eUxXVtIBYEFVX3lxTE9jcmFjZkNBZWU0LWQ3TjREbkQ0VUJEd1JhY2lVQ1J3VHpJandicEV4eVkwUU1fcWdha1BhNzhzSWpnWmdpckdTOFFSdGFOakdMN3FiTnlpbEprU2R2eUxXVg?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T11:55:22.000Z",
               "kind": "news"
             },
             {
-              "title": "美, 관세 근거로 ‘호남 반도체’ 들었다…“약속 어기면 25%” 압박",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUM1FiTHhWVTVRTUktNk5Ob2cxS0s2bk5RS2hPNGdCcTQ0Zkc4MklsT1gwWG5hc3JIWEVkNjdaRkdaUGVsdHBIQzdBQllHY25zalduM0xn?oc=5",
-              "source": "중앙일보",
-              "publishedAt": "2026-11-25T21:17:42.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "4,900선 무너진 코스피...다음주 미국 물가·한은 금통위 '주목'",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.21~11.22",
-          "days": 2,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 4,
-          "articles": [
-            {
-              "title": "코스피 5,000선 회복할까...미국 물가·금통위 주목",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxbWVuWHVGSnZWVUxSUy1ScTJmVmNSZTNUOUJNaVhZMUpUUU5Vb1oydEtyeUJHMjdaYlFONEE4T2RuZzhodGZJRE1KTTFRTk5rVHBzcjFDdnNsQ0JlRGc?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-22T00:19:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "4,900선 무너진 코스피...다음 주 미국 물가·금통위 주목",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVDRZT0xPbnYtbXFGVGdWRlRHUEFucUdQRDBFOG5wN05QUWRYY0VLdGhwdU5fNWs3Y3JNdWIyTUhVVlVqYWFRZDA4WUJOY2lMMlZyMHBzVmVyNG0wT0E?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-21T06:04:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "코스피 4,900선 붕괴...미국 물가·한은 금통위 '주목'",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01RVpnMTNOMmFVUUlCandGdldFajM3NFZ1eVl5V29JQ01IQ19iN2wyS1VIdHk4WVNYNkdhNlVEZ0VZQ2ZJbGFLeVUzcnlZc2w2d1llRkRiQ0x0SVItZXc?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-21T04:03:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "4,900선 무너진 코스피...다음주 미국 물가·한은 금통위 '주목'",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KX29tTFRJTENmVFZvMnBTdHhzTFFkZTQycS1DZVR5MWRheVFWWFp6ZG5aeHE0MjVCSFB5eERHMjNrYUJPVW84OS1GbFJOUDJ4MGhfd0lkLUNmOFhtakE?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-21T02:16:00.000Z",
+              "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMZGR0YlZFREhxVEVmODJpcXFDUzFUd3d4ZnQyZTRpLXNnT29XcGgzNUxfU3FmU3FjYnFDZlVZeU01WlczN3JYMWhwZmxoUXQ3dlYxS2NjNjh6UC1KU05JadIBYEFVX3lxTFBMZGR0YlZFREhxVEVmODJpcXFDUzFUd3d4ZnQyZTRpLXNnT29XcGgzNUxfU3FmU3FjYnFDZlVZeU01WlczN3JYMWhwZmxoUXQ3dlYxS2NjNjh6UC1KU05JaQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T05:14:21.000Z",
               "kind": "news"
             }
           ]
@@ -309,9 +225,73 @@
             },
             {
               "title": "물가 뛰는데 트럼프 관세 '부채질'…\"최악 시기 경제적 자해\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84UWhXLUVSTFNESF9rWlVSWW4zVDhXdGpXUXR3a0JxOWhJVkx0NlYtRm02RHJWXzBvRGJSZUNXeTBpM00xdkthTHJOSXZ2akluaTZoR196dHFpaW_SAWBBVV95cUxNNzJ0Qkx5aFF2WmlhNFgzdmpKLVBxOUdjUlpyb1dSS2tiTkhLZjZiSFdXZ3VEUWtIS1Z0RlZiQm5VcXdVS2NPalBNeEx5MEpDYUQwdEJaaWVlemNwRG1iUjg?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03MnRCTHloUXZaaWE0WDN2akotUHE5R2NSWnJvV1JLa2JOSEtmNmJIV1dndURRa0hLVnRGVmJCblVxd1VLY09qUE14THkwSkNhRDB0QlppZWV6Y3BEbWJSONIBYEFVX3lxTE03MnRCTHloUXZaaWE0WDN2akotUHE5R2NSWnJvV1JLa2JOSEtmNmJIV1dndURRa0hLVnRGVmJCblVxd1VLY09qUE14THkwSkNhRDB0QlppZWV6Y3BEbWJSOA?oc=5",
               "source": "연합뉴스",
               "publishedAt": "2026-11-26T19:07:55.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "“약속 어기면 관세 25%”…미국, 호남 반도체 꼬투리 잡았다",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "한국 콕 집어 \"미국에 피해\"…‘약속 어기면’ 관세 25%?",
+              "source": "JTBC"
+            }
+          ],
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "“약속 어기면 관세 25%”…미국, 호남 반도체 꼬투리 잡았다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ejAzMTg4Y3VhdVc4MmthaWtlRHJBUm80N3dxQUlXN1hBUTgzZlpJRjF4aVIyalhTYlJJZ19FZnVEQVRhTVV0c19PR0ZwdzhQUnBNNElB?oc=5",
+              "source": "중앙일보",
+              "publishedAt": "2026-11-26T15:24:11.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "한국 콕 집어 \"미국에 피해\"…‘약속 어기면’ 관세 25%?",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TYnRZX25yaEMzUGlWdHpPZVBtTlRvUWR2R2lBR2JYakJKaUF4Q0xyc0QyRi1LWHVfeTRKM0EtZlFCNU9kckE4WFpxYVk4X3lPZFl0Vg?oc=5",
+              "source": "JTBC",
+              "publishedAt": "2026-11-26T09:55:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "일 정부, 미 관세에 ‘유감’…“애초 구조적 과잉생산 없다”",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "일본 정부, 15% 미국 관세에 “유감”…“구조적 과잉생산 없어”",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "span": "11.26",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "일 정부, 미 관세에 ‘유감’…“애초 구조적 과잉생산 없다”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc09FQjJjUlF2NnlIZjJPSU1zT1BJVUxVdW1PT1BLcXE3MUtiUXc0R0kteDFFSG10RkJOd1k5Y1ZjTEoxbHRTZThVREZ0X25kTzVQWi16dUwtUEdrV1oxb1hhZ1dSMUVpZGl6OWl0LWs1M3k2QkxZRm14N0JrRWotdnh3?oc=5",
+              "source": "한겨레",
+              "publishedAt": "2026-11-26T06:57:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "일본 정부, 15% 미국 관세에 “유감”…“구조적 과잉생산 없어”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5WkFrMW9wYjVQUklkSGU2SEpxbFlaMFhkY0tIaTQ5NmZTNWxiR0JmbUMwdnliWnJnTVh6dW8waUxyU3h6cGRHRHZXMDFvZ2xGVWZmUGpSclQ2MG8?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-26T03:51:00.000Z",
               "kind": "news"
             }
           ]
@@ -324,61 +304,158 @@
       "keywords": [
         {
           "word": "이란",
-          "count": 15
-        },
-        {
-          "word": "우크라이나",
-          "count": 5
-        },
-        {
-          "word": "갈등",
-          "count": 4
+          "count": 16
         },
         {
           "word": "트럼프",
-          "count": 4
+          "count": 9
         },
         {
-          "word": "공격",
-          "count": 4
-        },
-        {
-          "word": "국방장관",
-          "count": 4
-        },
-        {
-          "word": "인도",
-          "count": 4
+          "word": "우크라이나",
+          "count": 9
         },
         {
           "word": "관세",
-          "count": 4
+          "count": 8
+        },
+        {
+          "word": "인도",
+          "count": 7
+        },
+        {
+          "word": "패트리어트",
+          "count": 7
+        },
+        {
+          "word": "있다",
+          "count": 7
+        },
+        {
+          "word": "중국",
+          "count": 6
         }
       ],
       "items": [
         {
-          "title": "\"우크라이나 패트리엇 미사일 급한데…미 국방장관이 인도 지연\"",
+          "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 이전 승인을 연기하고 있다.",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.24~11.25",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "미국은 왜 아직 우크라이나에 패트리어트 요격 미사일 이전을 승인하지 않았습니까?",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV09vVUdqUlh0NTVzQXpaUm00V1ZiZ3R6ZGxCdk51cXV3X1hGclVuaHFLNjlQTTdEdi1ENEJuMlUyNERSR3F0a3FQR0JrRkVsbmViS1liOHpVQ3k3eERfZEpJZHJvR0ljenMzWlc2TkJpRVVkb0kxOVhxRktkeElpaFMzUTRJZDg4aTR3NjQzUW5sSHVXYTE3Tm9pbnhobGgtR2VFYVBTaw?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-25T10:49:16.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 이전 승인을 연기하고 있다.",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnc1cllVQ0xQUE1NTTdHa1c4ZllPU0hZVnl3UEx5ejZHWDJkQkp4eVkwcmNwb0htYUEyTHlPblZnZTZSZk9vaUJBZ0FyZkpIaHJ0SlNYMzhpVFJNZlNnSTBHLUFEM3VRYlR2TFdlUjloMU9ROWg3YzFUdC1tRGMzcXBjMlFHZVRHZ0NZeWVuUTk1a0FYY2RLMk9ZM2E?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-24T18:14:39.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 인도를 연기하고 있다.",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmEzb0lPTHdwLW5lMEYzNWVaZUkxcXBrNjk0bzlOaEl3endVREMycGEyaVFuVGkzTGFMQVZjby1lNVQ0ZkNJQU1DN1JOYVhNMnVKWW4wQmxVdjFWYUJOYV9hSmZZZmYyV2JaSnZfNlFob2MtZHJOSzROOWdSSDNsb0hNWThVUmdFakE3NA?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-24T16:48:57.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미국 국방장관은 아직 우크라이나에 패트리어트 미사일을 이전하는 것을 승인하지 않았다.",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0J3SzNnbDdsc0V2U3I0SmlidHZUR01ibldOTzB4UDY5RnV2dFVNTUZFZjZiRWp1VU9iMGFKRVB1b3RWUFc3VWhBQnM0bHJaWmUyWFNIVEVqZ0ROSmRQa2l2UjBRemVLN21lZGxIYXVrbWJaY3dkWGdiUDMzVFA3dEFJY2VweEUzb1BUck1LVDNuY2pEa190enpWYm9lbXFVeTBsckFXdkY?oc=5",
+              "source": "Vietnam.vn",
+              "publishedAt": "2026-11-24T08:37:01.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "\"미국 '과잉 생산' 관세에 중국 반발...무역 휴전 다시 시험대\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "미국 국방장관, 대금 지불 완료 패트리어트 미사일 우크라이나 인도 보류",
-              "source": "글로벌이코노믹"
-            },
-            {
-              "title": "미국 국방장관은 아직 우크라이나에 패트리어트 미사일을 이전하는 것을 승인하지 않았다.",
-              "source": "Vietnam.vn"
-            },
-            {
-              "title": "\"美국방, 패트리엇 미사일 우크라 인도 늦춰…60기 승인 지연\"",
+              "title": "美 과잉생산 관세에 中 반발…미중 무역휴전 다시 '시험대'",
               "source": "연합뉴스"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "\"미국 '과잉 생산' 관세에 중국 반발...무역 휴전 다시 시험대\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pVllxbDJQNV9GV3Q2MU94Sjc4b0hiWXBBSjNZaFo4Nm5rTUpFQ1pDUHBxbmIyVzA0NkVjV0IwZXl2MzI3bjdVTGI0YU95VHJidUUwX3RiSlc4c2x0RFE?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-26T18:08:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美 과잉생산 관세에 中 반발…미중 무역휴전 다시 '시험대'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vcVRLSm5aSUMzZ2VMUUNwNU1KZi1zRmVuaFlLMDhjYS1VSFptek8yQjBNX1Q2Mk9KRXNzYlBpUnRadHA4TnNyamp6ZUo0d2lVazBnZUF4V3Utc2PSAWBBVV95cUxOWDd0c0ZqVzZtOTR0M1c3dmFxMnNFcVNMeEdZRC1QYkRaT1Q2Nm5xR0V1d1NBU0t3WkxmSVFLa0Rla1E0MEw2TGRaQkZPdzRZTVRGWW94dEtWZXlITnRwVzY?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T15:45:29.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "중국에 최대 40% 관세 예고한 미국…무역휴전 다시 고비 : 국제",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "중국, 미국 ‘최대 40% 관세’ 압박에 반발…미중 무역휴전 ‘기로’",
+              "source": "헤럴드경제 미주판"
+            }
+          ],
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "중국에 최대 40% 관세 예고한 미국…무역휴전 다시 고비 : 국제",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SdVp5S1M0ZVllSlg0c0tkUXo5cjAzaXV2TXNqVDhXS2t0dmNuMElVYTJ4Nk9YV0lCclhfdks0Nms4UHpMTk1xMDctQQ?oc=5",
+              "source": "재경일보",
+              "publishedAt": "2026-11-26T15:54:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "중국, 미국 ‘최대 40% 관세’ 압박에 반발…미중 무역휴전 ‘기로’",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VVJ0eVJ5UkU5bnlpcndIZUZ3WUk1a1BtN2FnajVLYzM5aWp6dmZWUGxRc1lGZm1GSGcwRkl6OV9UbXFHOXJMVGd5cGZQLVBLUEJsbklMWEFrekdyQUpVMQ?oc=5",
+              "source": "헤럴드경제 미주판",
+              "publishedAt": "2026-11-26T03:58:00.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "미국 국방장관, 대금 지불 완료 패트리어트 미사일 우크라이나 인도 보류",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "\"우크라이나 패트리엇 미사일 급한데…미 국방장관이 인도 지연\"",
+              "source": "SBS 뉴스"
             }
           ],
           "span": "11.24~11.26",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
               "title": "미국 국방장관, 대금 지불 완료 패트리어트 미사일 우크라이나 인도 보류",
@@ -388,24 +465,10 @@
               "kind": "news"
             },
             {
-              "title": "미국 국방장관은 아직 우크라이나에 패트리어트 미사일을 이전하는 것을 승인하지 않았다.",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0J3SzNnbDdsc0V2U3I0SmlidHZUR01ibldOTzB4UDY5RnV2dFVNTUZFZjZiRWp1VU9iMGFKRVB1b3RWUFc3VWhBQnM0bHJaWmUyWFNIVEVqZ0ROSmRQa2l2UjBRemVLN21lZGxIYXVrbWJaY3dkWGdiUDMzVFA3dEFJY2VweEUzb1BUck1LVDNuY2pEa190enpWYm9lbXFVeTBsckFXdkY?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-24T08:37:01.000Z",
-              "kind": "news"
-            },
-            {
               "title": "\"우크라이나 패트리엇 미사일 급한데…미 국방장관이 인도 지연\"",
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVEdGTXhGTTdsLWZCTWtGWnlfRWZZZ21yZDNuSFBvVE5uLWRQUlpyM18yamhXRkNXaUZQLURFS1FvRTZNUENHQ0V4OXFqQVgxZzA2TTVva29yTHQzTGNoY2hYeC1lWWhzZWc?oc=5",
               "source": "SBS 뉴스",
               "publishedAt": "2026-11-24T08:02:47.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "\"美국방, 패트리엇 미사일 우크라 인도 늦춰…60기 승인 지연\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tZWJUQk14UmpBdllvWjlLTFE0T3FlVXJlMzZHOUM0emk0dTZpRVFSa3BRNEpDZFYzWnVaRzV5LThia2tONVJiUHVwNjhvN0hvTzVuVGgtTDNYbVnSAWBBVV95cUxNbW9LcUo1M2VRNk01MmZBUC1OQm84U2VqSnd4WHFNZjJTelUtbmg5VHpPWlRjUmswcC1nVkNMdlk5SVpLT1I2YkZUNEc5ZWd5bFA0T21xbjhvdGc4VElWODg?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T07:06:34.000Z",
               "kind": "news"
             }
           ]
@@ -443,93 +506,33 @@
           ]
         },
         {
-          "title": "이란 \"미국의 봉쇄는 군사 침략…공격 시 혁명수비대가 답할 것\"",
+          "title": "\"美 승인 지연에 우크라행 패트리엇 미사일 60기 인도 차질\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "이란 \"미국 봉쇄는 군사 침략…공격시 혁명수비대가 대응\"",
-              "source": "연합뉴스TV"
+              "title": "\"美국방, 패트리엇 미사일 우크라 인도 늦춰…60기 승인 지연\"",
+              "source": "연합뉴스"
             }
           ],
-          "span": "11.23",
+          "span": "11.24",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "이란 \"미국의 봉쇄는 군사 침략…공격 시 혁명수비대가 답할 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15b2h0UnZVMm5EU1NIaElkWjJyR0dzcEhXYTR1UHdXbDZERk1lTTVxTXN6emtneS1HeC1GU0s4a2dibHRSemx3NER3NG5ham1SNDJzN2FTTkMySjV1SFRwS2Q1VVZPWkVjamc?oc=5",
-              "source": "SBS 뉴스",
-              "publishedAt": "2026-11-23T09:34:44.000Z",
+              "title": "\"美 승인 지연에 우크라행 패트리엇 미사일 60기 인도 차질\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FSkR0NnRHcGxHYTdCM2pmWGsybGtIQmE3SzN5aWRnWldaaTNPV0ppem1mcGU4bWlQek5XTFJDXzhaUWNxWWlQbEN6d0pIcEZmN2d4SFM1a3dYbGpzX2NDTNIBeEFVX3lxTE4zTmRXMjRfYWVEX1ZNQWVCUjdyQ0dLcGZBeGZzWjRqdGlkU09WV2RJWUNFQTVDQTFheEpiX2dMa2UzaWtJcW96eTdXdGpFbXYtaVhlSF9TeVBiNXZERk5ncGRSaVg3VW15SW5PbzhDUlRxV3Bzc2F3cg?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-24T08:27:13.000Z",
               "kind": "news"
             },
             {
-              "title": "이란 \"미국 봉쇄는 군사 침략…공격시 혁명수비대가 대응\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVamNub2lqdFo5NjdvVmhScnpkMkF3T3MybWxUVjd0clNqLXpfcFBicVcxREliOGJDWnZRaG5IQWdULVlkNFNHUjdDZnJ6SnI5RzB3VTkzNFhKRk5NQ2kwcjhjcnU5S3M?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-23T09:34:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "중국에 최대 40% 관세 예고한 미국…무역휴전 다시 고비 : 국제",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.27",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "중국에 최대 40% 관세 예고한 미국…무역휴전 다시 고비 : 국제",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SdVp5S1M0ZVllSlg0c0tkUXo5cjAzaXV2TXNqVDhXS2t0dmNuMElVYTJ4Nk9YV0lCclhfdks0Nms4UHpMTk1xMDctQQ?oc=5",
-              "source": "재경일보",
-              "publishedAt": "2026-11-26T15:54:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "美 과잉생산 관세에 中 반발…미중 무역휴전 다시 '시험대'",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.27",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "美 과잉생산 관세에 中 반발…미중 무역휴전 다시 '시험대'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vcVRLSm5aSUMzZ2VMUUNwNU1KZi1zRmVuaFlLMDhjYS1VSFptek8yQjBNX1Q2Mk9KRXNzYlBpUnRadHA4TnNyamp6ZUo0d2lVazBnZUF4V3Utc2PSAWBBVV95cUxOWDd0c0ZqVzZtOTR0M1c3dmFxMnNFcVNMeEdZRC1QYkRaT1Q2Nm5xR0V1d1NBU0t3WkxmSVFLa0Rla1E0MEw2TGRaQkZPdzRZTVRGWW94dEtWZXlITnRwVzY?oc=5",
+              "title": "\"美국방, 패트리엇 미사일 우크라 인도 늦춰…60기 승인 지연\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tb0txSjUzZVE2TTUyZkFQLU5CbzhTZWpKd3hYcU1mMlN6VS1uaDlUek9aVGNSazBwLWdWQ0x2WTlJWktPUjZiRlQ0RzllZ3lsUDRPbXFuOG90ZzhUSVY4ONIBYEFVX3lxTE1tb0txSjUzZVE2TTUyZkFQLU5CbzhTZWpKd3hYcU1mMlN6VS1uaDlUek9aVGNSazBwLWdWQ0x2WTlJWktPUjZiRlQ0RzllZ3lsUDRPbXFuOG90ZzhUSVY4OA?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-26T15:45:29.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "\"우리에겐 돈이 없다\"…이란 대통령, 전쟁 여파 경제난 인정 - 머니투데이",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 1,
-          "articleCount": 1,
-          "articles": [
-            {
-              "title": "\"우리에겐 돈이 없다\"…이란 대통령, 전쟁 여파 경제난 인정 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13OWtNYUhYemFxVExVblpvcnNLVlRDSldjTGpkV2JYNFhXV1NJamxNVzR1MlZJMFZldnV2TWkxV0ZsS3RoOC1wcGtRTnVUV1N5T2JDSFNkTE1RQmhyR1NZQk9VclNVc3Iz0gFuQVVfeXFMUGJGWlhpTVpoNzYtYkpobWJpSWFsYTZ3R0pzUXVicHphcDhydV9KZVota3h2VG93LTRpNmx0eThuWF81VHhBOUE1Nng4T2JQZ09qSmZTdEstTkQxNUZzelVRb0laVnRURlJiUzRZdUE?oc=5",
-              "source": "머니투데이",
-              "publishedAt": "2026-11-26T11:54:25.000Z",
+              "publishedAt": "2026-11-24T07:06:34.000Z",
               "kind": "news"
             }
           ]
@@ -542,237 +545,270 @@
       "keywords": [
         {
           "word": "트럼프",
-          "count": 59
-        },
-        {
-          "word": "젠슨",
-          "count": 20
+          "count": 51
         },
         {
           "word": "관세",
-          "count": 14
+          "count": 12
         },
         {
-          "word": "복귀",
-          "count": 13
+          "word": "가짜",
+          "count": 10
         },
         {
-          "word": "중국",
+          "word": "한국",
           "count": 7
         },
         {
-          "word": "비판",
+          "word": "푸틴",
+          "count": 6
+        },
+        {
+          "word": "중간선거",
           "count": 6
         },
         {
           "word": "약속",
-          "count": 6
+          "count": 5
         },
         {
-          "word": "엔비디아",
-          "count": 6
+          "word": "과잉생산",
+          "count": 5
         }
       ],
       "items": [
         {
-          "title": "트럼프 대통령 “김정은과 친서 교환 당장 재개 가능”",
+          "title": "트럼프 \"중간선거 전 발표된 경제성장률 가짜… 즉각 조사해야\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "트럼프 \"김정은과 친서 교환, 당장 재개 가능…핵 문제 다룰 것\"",
-              "source": "SPN 서울평양뉴스"
+              "title": "“중간선거 전 경제성장률은 가짜”…트럼프, 美 상무부 조사 요구",
+              "source": "전자신문"
             },
             {
-              "title": "트럼프 “김정은과 친서교환 당장 재개 가능…내용은 핵무장 관련”",
-              "source": "한겨레"
+              "title": "트럼프 \"선거 전 발표한 美경제성장률은 가짜…조사해야\"",
+              "source": "마켓인"
+            },
+            {
+              "title": "트럼프 \"중간선거 전 발표된 3분기 성장률 가짜…즉각 조사를\"(종합)",
+              "source": "연합뉴스"
             }
           ],
-          "span": "11.25~11.26",
-          "days": 2,
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 4,
+          "articleCount": 4,
+          "articles": [
+            {
+              "title": "“중간선거 전 경제성장률은 가짜”…트럼프, 美 상무부 조사 요구",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KU2hYMkxmZUtjNzdjOW9CbG5URUtmMHpXUWFoem95V1laQ19zV1BzTkNXb2FIM1FxY05sUkdicFBkNE9pX21ESTJiRG50dw?oc=5",
+              "source": "전자신문",
+              "publishedAt": "2026-11-27T01:35:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"중간선거 전 발표된 경제성장률 가짜… 즉각 조사해야\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUE5c00wV092b1ZubXZDVlJ2blQ2ak1zNW9nVEVVb0FOakRiX0IwUjdDUGpSbkpBYjJSMGdUZjBCYUNXOHhlOXYxb01nYzNqQjdYZjhvNUhyOXZMb3QzOGlPVmdvYjZ5dlQtXzRIYkxZOEVNWTJEeVVGdjVfX0F3QjBNR1ZwRjYtanpTLWZWakc5NDZtLS1xd3JYQS1Mdw?oc=5",
+              "source": "조선일보",
+              "publishedAt": "2026-11-26T22:25:14.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"선거 전 발표한 美경제성장률은 가짜…조사해야\"",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mZ242QmkwbWpOTW84cW95Sy16Z09KbVViSV9CTUxFZmFidEJnSnU2bDUzV1dZVTB6MjFiaWJQMmRIUGZSMmttaXJNS1h2c2JkU2xtY0dwRmVzVFhYQ2dxejc1N2hvUk5VRERfY2VpOUVrdm8?oc=5",
+              "source": "마켓인",
+              "publishedAt": "2026-11-26T21:48:42.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프 \"중간선거 전 발표된 3분기 성장률 가짜…즉각 조사를\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UQV9rSXRGTzZ2QlAyc1k3SlBpWEpMOGNScGRyaU92cC00SFZva1NfTWVBdnl2SUFWQ2dMcXhiWlM3RjdnX3NUanlPOVhjWHVYRzBuWnNGZ2ptQ3PSAWBBVV95cUxQVC1mVGJSMFhBaUhVZXNMazhsYnNROHNhQk1OdkF6eWhFMUlXVFRvbWR2RjNVbUpQSE9jXzFIZ0Y4TldBYU9TQXhKQTdmeWNHcmhzbS1JNS1TY2hTOGRzWjU?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T19:40:46.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "미국 의회, ‘중국 자동차 규제법’ 내달 처리 추진…미중 긴장 커지나",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "미 의회, ‘중국 자동차 판매 금지법’ 연내 처리 추진…긴장 커지나",
+              "source": "경향신문"
+            },
+            {
+              "title": "美의회, '中 자동차 규제법' 내달 처리 추진…미중 긴장 커지나",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
           "hasPress": false,
           "sourceCount": 3,
           "articleCount": 3,
           "articles": [
             {
-              "title": "트럼프 \"김정은과 친서 교환, 당장 재개 가능…핵 문제 다룰 것\"",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qRGZ4NTV3OHppd2JDNTg1ckRZMGVWQTVpM3c1ZUY0TDh5cXdTR2taYlRNT21hVXR6RkwxdG1MOGdOcW9qZlZKbDFGZGJ3VEYzcHgwamFiYzRHNUFVQm5sbnRaQ0I0cmhxMGxZ?oc=5",
-              "source": "SPN 서울평양뉴스",
-              "publishedAt": "2026-11-25T21:59:38.000Z",
+              "title": "미 의회, ‘중국 자동차 판매 금지법’ 연내 처리 추진…긴장 커지나",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zWDBhNWExR2UteTFmY1h6M2lzYTRESnpZaTNJRHEyQy1vSUhzanBzLXBTWEZRcF9LRDFObGF1SllyTEpjNXQzbDFIZmV0d0p4ekVESWEwMmhqd9IBX0FVX3lxTE4tLXFTRlh3ZzBHNnZpZk1RU0lVLUw4TGFEc0I0Q2hIem9JYjhNZ3B5am5ua1BVSnJkUmNDR0o2WTZnV2RtcmVqVGZjNVU2T202ZkpJcjB4UlZZSHVPUjZj?oc=5",
+              "source": "경향신문",
+              "publishedAt": "2026-11-26T23:28:00.000Z",
               "kind": "news"
             },
             {
-              "title": "트럼프 대통령 “김정은과 친서 교환 당장 재개 가능”",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wRnpESkFLMUp1dTA5NGx5Nm94SUlxUUg0MERjVGRvb2p6a2llVTktOVh1YkFla2xwdmF5UTVYT0lqWlZhQ2p4NVE2WG44TEt6Sm9fVjlEYWJoTEF6bFdaNGpWUmVlbmFTYzU5dUpfNE5haThQeDU2QVdPd9IBe0FVX3lxTE8wRnpESkFLMUp1dTA5NGx5Nm94SUlxUUg0MERjVGRvb2p6a2llVTktOVh1YkFla2xwdmF5UTVYT0lqWlZhQ2p4NVE2WG44TEt6Sm9fVjlEYWJoTEF6bFdaNGpWUmVlbmFTYzU5dUpfNE5haThQeDU2QVdPdw?oc=5",
+              "title": "미국 의회, ‘중국 자동차 규제법’ 내달 처리 추진…미중 긴장 커지나",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WY3dzRHh6VEJINkRlOGFkRmx1NnRCSDBRdzN5eGJGeWxwVzVuREwwaUhtS3pudGwtenpVaXV1WmtfU0hadUJvQVdjYzFGWWZETDhJZnpUOGNfUEU?oc=5",
+              "source": "KBS 뉴스",
+              "publishedAt": "2026-11-26T22:57:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "美의회, '中 자동차 규제법' 내달 처리 추진…미중 긴장 커지나",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UbVJSbjBBRUIwdFdHSHA3UmgtWUt0LVdkSENVSV9sbWZDZnFMeUZEeEhSUHh5VVdZN3hmVzFOcldxQVhuSEdGUnJhZ3UxVkFOengzczY1ODdaOVXSAWBBVV95cUxNdmlqaVFDbkJfd2l0dW10Smc4MXRoem52bmplbTQtdE9kdHNMd29vNTBwVHNKS0p1aDV2SlRQSjYtc1JJNlRSSEVaNXRLQXNoZ1ZlTnVDUlljVXo1V1ktQno?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T22:21:11.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "캐나다 총리가 공개행사 불러낸 '가짜 트럼프'…\"난 미쳤거든\" 일침",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "캐나다 총리 만찬장에 선 ’가짜 트럼프’…“난 미쳤거든“ 자학",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "\"난 미쳤거든\"…캐나다 총리가 공개행사 불러낸 '가짜 트럼프'",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.23",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 3,
+          "articleCount": 3,
+          "articles": [
+            {
+              "title": "캐나다 총리 만찬장에 선 ’가짜 트럼프’…“난 미쳤거든“ 자학",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sam1uT0c4bm1hODJsY296QW42d1dxWXMxdnNsSGk3Mzg5YjhWWVNnMEd1TklxcHVRSzJRZ0w5dTRURS0xWTYtQ3AtQjZfd1c0Sk9pMG9MYW9EVTBrUHpsNm5tTUZLSGs?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-23T04:54:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "캐나다 총리가 공개행사 불러낸 '가짜 트럼프'…\"난 미쳤거든\" 일침",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZVlvdkdpalJGc0xhc0tKcTcwaVlCbnBEU0JMcTQ5cFFyQkNLN0RKTi1QbHBPcjRPSHF6dGV5OWZ2SUotUm5HYk9BNmVTTlNCQ3hXN1piSHZGVEhEcjFlMmhXRUx2OHFyUEE?oc=5",
+              "source": "SBS 뉴스",
+              "publishedAt": "2026-11-23T02:27:27.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "\"난 미쳤거든\"…캐나다 총리가 공개행사 불러낸 '가짜 트럼프'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLMTNwT2VrcjVYbE5nRXJTRE5lN29EWnJ6OTl5dDNMU1ZfajNRNklOeGF5MTNuRWVCUHZjQTB1bXpweWJleG9OSWE2MFExNUY5YlJ0T1RKU1liaFnSAWBBVV95cUxQSnV5NGJGejUwZWVwNW9qOW05V0U3NTJ1ZTBXUkg1UkJuRU1JVW9PWjMySWk0VEpqNERWNHNWdjNVTElzVE5TT2tZczUxMVdqSGxYMWpVZUNVeGQ2WFhnRkQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-23T02:16:06.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "’美대사 추방하라’ 캐나다 국민청원, 의회에 제출…29만명 서명",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "'美대사 추방하라' 캐나다 국민청원, 의회에 제출…29만명 서명",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.28",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "’美대사 추방하라’ 캐나다 국민청원, 의회에 제출…29만명 서명",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kdm5rMzZjVmFUbEFpdEhpQUdrOVlDZE5DMThneXREbFI2ZGQ4bXhZaGhZLUQzc3M0Ul9pcS1od3BWZ3JEbUQ3dFk5VW9yTWc1cDhiN2o1LVNrVWFpU2dka0dpV3hlWTQ?oc=5",
+              "source": "연합뉴스TV",
+              "publishedAt": "2026-11-27T20:47:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "'美대사 추방하라' 캐나다 국민청원, 의회에 제출…29만명 서명",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mZGpNSTVCMDRJaWdHbUNkV0RURnpQQ29FeUh4NVQ2T1UtRWRtSmFkaGFON01paWc3U2VWQ2R2cjdLWktjN21lY2RmUkFsLWdBOFhVSGEwd2VqdlHSAWBBVV95cUxOZTZNUTBGUE9FLVZZZ1JPcGI0ZC1SWXBvTjZfemVlYU81WlZZYkFfYXJ6YU5mZmZpQmJGNUtzMjY0WEEwbllyaWx6RnhIS0tGeXNua1p1MnBUbzlhMUVQOVE?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-27T20:16:16.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "미국 중간선거 뒤에도 통상 불확실성…업계, 정부 대응 촉구",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청",
+              "source": "연합뉴스"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "미국 중간선거 뒤에도 통상 불확실성…업계, 정부 대응 촉구",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxbUkxQW53aTdxTS1TRVRHQjYxUUt4TlR4QXJuZGJLVnhsaGJ0WXo1dG9LdWFUUzB5YXJUX1NhLUpHNF9GU2dYclpMMGh2eHJGRGJoMXRBS1VibGdCUnJ1eGN5U1JIQ3UzdWc?oc=5",
+              "source": "금융소비자뉴스",
+              "publishedAt": "2026-11-27T01:26:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXlta9IBYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXltaw?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T22:30:03.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "트럼프·나토 수장, 러시아에 \"우크라이나 전쟁 확전 말라\"",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "트럼프·나토 수장 회동...\"러시아, 전쟁 확대 말라\"",
+              "source": "VOA 한국어 홈페이지"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "트럼프·나토 수장, 러시아에 \"우크라이나 전쟁 확전 말라\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GQnFwM1NPVER4V2lZQ1lfRVlOUTJZbTRiRmlkOFkzQ3pXbHRsVFlVVjNGaDhESk5Ja3dVVXRsQnZRYzVpMV9kcEpqbUhVQ09DcXdfcDREZ3ViX2trU0E?oc=5",
+              "source": "YTN",
+              "publishedAt": "2026-11-26T23:11:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "트럼프·나토 수장 회동...\"러시아, 전쟁 확대 말라\"",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiWDctcVRkdUwwckxIN2stY25JMDBPY0ZIaU85VUFNaldPNlowQVQ0cUVuRGl2cFQwSkJuXzNRd0NsVjNjdVV2cTgtdWxxcE5NX3J4dTRKM2t2RElqbTJtcnZoczQzYVRs0gFrQVVfeXFMT294YlNOOG4zdUtWbzhfRkV4YVJ0dzlTVGZzSWNGOUpBa3h6Ym9wZWFGUDJ6Z1VBTDF1SGp6cW1NYjhrVmNLWjBLZUZfNGpaM0ptWUFNSktlb1BSRWJoRXAxWHp5OW1XUVgxS3M?oc=5",
               "source": "VOA 한국어 홈페이지",
-              "publishedAt": "2026-11-25T14:51:35.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "트럼프 “김정은과 친서교환 당장 재개 가능…내용은 핵무장 관련”",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wUzhIVFJZSGdKeFo2R0Fqa1JmbnMtcElkajZwXzNSdVctY1BDMGtQYjZkSGhwNXBLOHIxd2loYlJTWkgydk1SbDR4LWhvUXRTeU1VNm1PU1k4eTM5cnNQLWpjaGFPS3RQYVI2cWFqcw?oc=5",
-              "source": "한겨레",
-              "publishedAt": "2026-11-25T10:54:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "美 백악관·국무부, 쿠팡 과징금에 韓 정부 공개 비판…“공정대우 약속 어겨“",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "美 백악관, 쿠팡 과징금 韓 정부 비판…\"트럼프와 약속 어겨\"",
-              "source": "연합인포맥스"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "美 백악관·국무부, 쿠팡 과징금에 韓 정부 공개 비판…“공정대우 약속 어겨“",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzTlpPWVFYWkQtc2tGYmZ3UW1lbTZWRGJmZl8xMldiOVRJT1JiRkhJdDF6MnFidXJ0V0h4WXlaMERKVE80MlNUQktJdDVQdw?oc=5",
-              "source": "전자신문",
-              "publishedAt": "2026-11-26T07:31:49.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "美 백악관, 쿠팡 과징금 韓 정부 비판…\"트럼프와 약속 어겨\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MM0hON0VVaWlNdk5wakF6Q05oOGtsNkFhT3lzQlFfX3RZLXQ5MGdTYzNZZjlJc2dlNzRHWGtVTllCN0dINFRWdG9ta1IzT0lpOTBjTmtHdjdlWlFTR3lkUnJRdnRuanBFX2tGRFhpdWQ?oc=5",
-              "source": "연합인포맥스",
-              "publishedAt": "2026-11-25T20:44:07.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "미국, 14개 경제권에 ‘과잉생산 관세’ 예고…“한국은 15% 상한 유지”",
-              "source": "한겨레"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbG1kVTFxSl9ndnVoekZ0TGtjUFR0d045UjJtWTVsY05pTDFHZjlYX2xNbWtlVkRXNWYxNklTWTYzTkdwcGEyblVJRnJNT2kzd2RfVXZjWFpkR3cxcFHSAWNBVV95cUxQWFpEMk9aMXlRQWNQMk83NzhRcWJsTW5WYnRtSEdzbndaRTFmM09SZ3RJSUsyWURTU1F1QkVYRDdIQkRScVowN2ZMUFJBWU9RTF8zQVFrV1M2ZFRwa2xQcThERFE?oc=5",
-              "source": "BBC",
-              "publishedAt": "2026-11-26T03:54:05.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "미국, 14개 경제권에 ‘과잉생산 관세’ 예고…“한국은 15% 상한 유지”",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNXI4ZVRGWEJzZF9CaUlkUUNBd3F3SWNiaFFHSjgwVUY3amVLRlgxSzY1U2pyRlJ3c0w0M01RN05pQlZVbVlSNmQ2NERrZXNuR2VLZW02azZDVURDOHdkQWlHbWVmM2NfTDV3VEwwWVRhRHo3TW5JZGlmeUtYQTdzUXRn?oc=5",
-              "source": "한겨레",
-              "publishedAt": "2026-11-26T00:38:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "\"트럼프, 중국 이익 우선하나\"…공화 대중 강경파도 강력 반발 [지금이뉴스]",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "\"트럼프, 중국 이익 우선하나\"…공화 대중 강경파도 강력 반발",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "\"트럼프, 중국 이익 우선하나\"…공화 대중 강경파도 강력 반발 [지금이뉴스]",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kRnk5ZkFZdHdjeGltZTJMZkhpTXYxVEhmNmZZNXc3QWp3ZnFDSHQySnVzeWRIbERFc1N5a0pzMDUxcHREdVZQQlMwVU0zX1NXc2wtSlJBQkp2RnBXd3c?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-25T03:20:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "\"트럼프, 중국 이익 우선하나\"…공화 대중 강경파도 강력 반발",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFTGRVTWlfMFBmNlRlQ0ZEcVVDQUxZb0VtVFNpYWkza2tpUGdCR0tOVGpvWkFkSmYyeHFxU3NOT1kwUmNxLTJldlFpeG9QRVlxeko3QjIxMFg3dDBiR2FhS9IBYEFVX3lxTFBFTGRVTWlfMFBmNlRlQ0ZEcVVDQUxZb0VtVFNpYWkza2tpUGdCR0tOVGpvWkFkSmYyeHFxU3NOT1kwUmNxLTJldlFpeG9QRVlxeko3QjIxMFg3dDBiR2FhSw?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T17:03:59.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "트럼프 \"젠슨 황 사면도 선택지…의회서 진실 말해야\" |",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "트럼프 \"젠슨 황 사면도 선택지…의회서 진실 말해야\"",
-              "source": "KB Think"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "트럼프 \"젠슨 황 사면도 선택지…의회서 진실 말해야\" |",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtQXVGWHJ1WlhkNWx0cHpyak5ONG5TR1dRcjlNV3hmYXFfMXBNcG9kcmNmMWpvLUp1a25ObGVPbTk4R2JQSll4MHJvdzZtMHhHWTROVGJlcjg1R0VCaTNEZ2VCTkJnc1cwVW9tYng0eHRRUnQx?oc=5",
-              "source": "연합인포맥스",
-              "publishedAt": "2026-11-25T01:39:26.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "트럼프 \"젠슨 황 사면도 선택지…의회서 진실 말해야\"",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRHB2MVlBQnFlTGtOUDZuWFo2Nm9sNWpYV3pockprTmRWYUNFRVQ1UVkzUU5WbHZhYXhEb1pUZTdJZXBsY0l1ODZlTE9QU05Na2FJZ3FPTExENzFmU2h5MUFQRXlTYVV5U2NVXzZvX25WZw?oc=5",
-              "source": "KB Think",
-              "publishedAt": "2026-11-24T23:31:23.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "젤렌스키, 美 민주당 의회 출범 기다리나…\"1∼2월 새접근 모색\"",
-              "source": "연합뉴스"
-            }
-          ],
-          "span": "11.25",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "젤렌스키, 미 민주당 의회 출범 기대...\"1~2월 새 접근법 모색\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mdEE4aC1xZVlkeHZtY0d0TC1MT2NUdXVlcFpTZlppeXpfd2JNWDJZaWF3QXRTRXlaM01CcWVWYkNHYXppUEdrYXg5MHNDMkdwTlFtT2tLZGtGcGZZMWc?oc=5",
-              "source": "YTN",
-              "publishedAt": "2026-11-25T00:01:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "젤렌스키, 美 민주당 의회 출범 기다리나…\"1∼2월 새접근 모색\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNFluenNzcV80ejR2NGliakhmMnBvcjZLdzBwMk41WlVvWlNfblp1RDNKTE53M1ZHTXNiRUtFWTFKREhtaGlhQzhfYWhsWFh0WHZHcVhuci1GSkXSAWBBVV95cUxONHBNQ0h1dVpjQV9oMEdpVU5kSEE2MzQ2TnZfZF9ZSHNMd0ZJZ2NSX1NaTl9uRmwtSTIyRC1MSVF0Um9SRDVkS2JRdFF6cHFRYXItaG0yT0pBeXNETXFwek8?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T23:31:58.000Z",
+              "publishedAt": "2026-11-26T17:38:16.000Z",
               "kind": "news"
             }
           ]

@@ -11,7 +11,7 @@
     "monthsAvailable": 36,
     "monthsTotal": 36
   },
-  "updatedAt": "2026-11-26T21:17:02.624Z",
+  "updatedAt": "2026-11-27T21:19:10.492Z",
   "trends": {
     "months": [
       "2023-12",
@@ -91,7 +91,7 @@
           3.4,
           9.9,
           3.6,
-          4.4
+          2
         ]
       },
       {
@@ -132,7 +132,7 @@
           5.2,
           12.9,
           6.6,
-          7.7
+          3.1
         ]
       },
       {
@@ -173,7 +173,7 @@
           6,
           10.9,
           0,
-          5.1
+          2.4
         ]
       },
       {
@@ -214,7 +214,7 @@
           4.5,
           6.4,
           7.1,
-          4
+          6.4
         ]
       },
       {
@@ -296,7 +296,7 @@
           0,
           7.9,
           0,
-          5.7
+          0
         ]
       },
       {
@@ -337,55 +337,55 @@
           9,
           0,
           2.5,
-          12.1
+          8.1
         ]
       },
       {
-        "word": "기준금리",
+        "word": "삼성전자",
         "values": [
-          1.3,
           0,
-          2.4,
+          16.7,
+          0,
+          0,
+          6.1,
+          0,
+          0,
+          3.8,
+          0,
           1.7,
-          2.7,
+          0,
+          3,
           0,
           0,
-          2.1,
-          1.4,
-          2.1,
-          7.3,
-          6,
-          1.7,
-          2.2,
-          0,
-          0,
-          0,
-          3.1,
           0,
           0,
           4.1,
           0,
           0,
-          2.5,
+          4.8,
           0,
-          6.1,
+          1.9,
+          16,
           0,
+          2.1,
+          2.7,
           0,
+          1.8,
           2.6,
           3.1,
           0,
-          5.1,
-          9.7,
+          3.7,
+          2.6,
           0,
-          2.5,
-          13.8
+          3,
+          1.7
         ]
       }
     ],
     "rising": [
       {
-        "word": "돌파",
-        "change": 1175
+        "word": "하락",
+        "change": 651
       },
       {
         "word": "급락",
@@ -393,19 +393,19 @@
       },
       {
         "word": "달러",
-        "change": 148
+        "change": 134
       },
       {
-        "word": "하락",
-        "change": 642
-      },
-      {
-        "word": "역대",
-        "change": 233
+        "word": "돌파",
+        "change": 1039
       },
       {
         "word": "마감",
         "change": null
+      },
+      {
+        "word": "역대",
+        "change": 218
       }
     ],
     "falling": [
@@ -428,11 +428,11 @@
     ]
   },
   "stats": {
-    "articles": 6073
+    "articles": 6071
   },
   "ai": false,
   "headline": "최근 3년 경제: 「삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸」",
-  "overview": "2023.12부터 2026.11까지 36개월치 경제 기사 6,073건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸」(7개월), 「한은, 기준금리 연 3.25%로 인상」(6개월), 「2024년 물류기업 경영실적 분석」(5개월)입니다. 기간 후반으로 갈수록 돌파, 급락, 달러, 하락 언급은 늘고, 인하, 일본, 한국 언급은 줄었습니다.",
+  "overview": "2023.12부터 2026.11까지 36개월치 경제 기사 6,071건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「삼성전자, 2025년 3분기 잠정실적 발표 – 삼성전자 뉴스룸」(7개월), 「한은, 기준금리 연 3%로 인상...2회 연속 인상」(6개월), 「2024년 물류기업 경영실적 분석」(5개월)입니다. 기간 후반으로 갈수록 하락, 급락, 달러, 돌파 언급은 늘고, 인하, 일본, 한국 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -506,37 +506,30 @@
       "whyItMatters": ""
     },
     {
-      "title": "한은, 기준금리 연 3.25%로 인상",
+      "title": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
       "span": "2024.10~2026.11",
       "monthCount": 6,
-      "articleCount": 54,
+      "articleCount": 35,
       "summary": "",
       "headlines": [
-        {
-          "title": "한은, 기준금리 연 3.25%로 인상",
-          "source": "2026.11"
-        },
         {
           "title": "한은, 기준금리 3.25%로 인상…내년 성장률 4.1% 전망",
           "source": "2026.11"
         },
         {
-          "title": "한은, 기준금리 3.25%로 올려…올해 세 번째 인상",
+          "title": "한은, 기준금리 연 3.25%로 0.25%p 인상",
           "source": "2026.11"
         },
         {
           "title": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
           "source": "2026.08"
+        },
+        {
+          "title": "한국은행 기준금리 2회 연속 인상‥연 3.0%",
+          "source": "2026.08"
         }
       ],
       "articles": [
-        {
-          "title": "기준금리 연 3.25%로 인상...내년 초도 금리 오를까?",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GSEJvTHIyMnpqblM0NnV3dTUyY0xkV0poOG80ZzlhOGZwNXZadXAxVE5XejhWczF2ZGY1WlJkZVdnLWFhbkFNNWgyOEtGeHM4bndLTWxBWnhIbC1IMlE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-26T13:06:00.000Z",
-          "kind": "news"
-        },
         {
           "title": "한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZ2p6M1Z3UG8zZUdySkhLS3MwVHZRYXQ3RWxlVXk1dGE2X3RoUzZ2aTI2Q3lvQmgxSVFEb3lvS1prdDdFSVMxOC1uNFRwOWp0ekhwQWk3VTgtQ0Q5cml0dWlMUjJEazVDTF9R0gFwQVVfeXFMUHRwWlc4cHRISExFLVlYdlMwd21rTmxYZGQwblRWWE40VUpGZ1N3ZjJUb1BPZ0FVbVhBUjdrSU1SdFJzSG1GVDRyS2RoN2lKZzgwT3hEb2x0cjRyNnRMUHZLZmVzOS1SQjhTODdtU19vMQ?oc=5",
@@ -545,10 +538,10 @@
           "kind": "news"
         },
         {
-          "title": "긴축 시계 다시 돈다… 기준금리 3.25%, 올해 3번째 인상",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2ltLUxOTXByU2lYMy1vWTFVNno0MzE0Rm1zYy12bXZhb1BfaV9lRXNaV0VmNGxvX04xZ0lwR2l6TjB3WE4wQ0ViRlJSUDdGQ1pyWk1kbkpya0syX2U2VlhZR09wVUlHLWxpNTl1WWV6MmZablB5T2Eza3gtc05zVTZGRURjZ2txb0hFXzRB?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-26T15:52:00.000Z",
+          "title": "기준금리 연 3.25%로 인상...내년 초도 금리 오를까?",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wc1ZVSEhCcWZTTmplb0lNUGppWGd3NlQyRFVwNFpSTGNfZ1dHbXEyWXpVM1hLN0dpQjlCTHd0bk1DYjNZbWQ3RXM1d0N6SkQtQ0RWa043SGVNXy1kOUN6OTNHeExUejhkazJUMkJrT0doMzhNNlBxYmlwbkJsZ0U?oc=5",
+          "source": "YTN 사이언스",
+          "publishedAt": "2026-11-27T02:01:52.000Z",
           "kind": "news"
         },
         {
@@ -570,6 +563,13 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV01VY3dycW5IRHd6U1lRck51YzdpSWt4NWtGQnJ6ZjV5QmI2WUlJaTl2ZUE5MmpFcUExN0NoUXU2cEZSbndhTEhVSGl0Y216ZkRDTV9uejFDZkJGUmI5WDRjclZvYVk?oc=5",
           "source": "연합뉴스TV",
           "publishedAt": "2026-07-16T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "기준금리 2.50% 동결, 한국은행은 왜 '멈춤'을 택했을까?",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12Y01xa09oZXc1YjlJX3FFcDdhclhjb18xdzV0enhnVm5tWlgzMGdUSzU4UFU3OVRjUVhxRk1xRlNEMTFhUHZrOUlHVTRUWngxQWtUNTZhWUZldw?oc=5",
+          "source": "네이버페이 머니스토리",
+          "publishedAt": "2026-02-26T08:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -646,19 +646,15 @@
       "whyItMatters": ""
     },
     {
-      "title": "코스피 4,700선 턱걸이…또 ’매도 사이드카’",
+      "title": "코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합)",
       "span": "2026.03~2026.11",
-      "monthCount": 5,
-      "articleCount": 16,
+      "monthCount": 4,
+      "articleCount": 12,
       "summary": "",
       "headlines": [
         {
-          "title": "코스피 4,700선 턱걸이…또 ’매도 사이드카’",
+          "title": "코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합)",
           "source": "2026.11"
-        },
-        {
-          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
-          "source": "2026.10"
         },
         {
           "title": "코스피, 6,300선 회복…코스닥 매수 사이드카",
@@ -667,21 +663,18 @@
         {
           "title": "코스피 급등에 매수 사이드카 발동",
           "source": "2026.07"
+        },
+        {
+          "title": "코스피·코스닥 10% 이상 급등‥매수사이드카 발동",
+          "source": "2026.03"
         }
       ],
       "articles": [
         {
-          "title": "코스피 4700 턱걸이",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuaVVyeFVzMGZoWXFfTWN1Y1QxeVNwbWZDaVNnWUtHb3ZubVlSMFlmTFhQaVhkNzl3ZkpPQkVzRlhobXVUMDR0eEwyMEZXWlR4dC1wNWFjNmwzd9IBX0FVX3lxTE14VWFwX2hueVo2Q3dGX3Z0aWJFb1V1eFJMcndnM0VkX0dTaFpxRTgyZHVFQ3Jxb0pWcERMaEs2NkREVVh1VktGWDJSZmNleGRrMDRrNEpSOFV1QWdrV2dr?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-23T12:23:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aklpckczTUtvVmxCUko3SVVGTXNrUzhJTjhncUp2bnRyNW5uRDk3QVJnMEZfOURqUlhHb1Z5RFJveEowQWlxWW9sZmRKaWV2QWRHZFlYczRVSVBhMFZnU2RScFMydW9xa0RCUnFmQ29nUVlz0gF0QVVfeXFMTVFCM2FNQ0h5Nkp5YmJ4YUlLX0hfTXg1SW1wNExaTEdrTDRINzB5OEZ5ZlRteldFUEJSY0lHN0xTTHFwdUZxeFFYUi01V3BSWGZoYVh4dGduaV9pZ3BFY0xMNUluUEZzY3l1eFRNX1AxVTVMT20?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-10-30T07:00:00.000Z",
+          "title": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiN05fMENwQzk0bXpZdnlFNUlIeDgzRV9nbl9xQm1xTlh1Z1pHOGt2VkFjWF81cjd5SXN0dm1SOUprd3p4dmdCeDJzc2dXUkw1QUtRd2xmSGtOOE1tWmllbXRyZXIwR0lHRTJoLXU4dw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-27T07:34:00.000Z",
           "kind": "news"
         },
         {
@@ -946,8 +939,8 @@
       "event": "7월 수출 989억달러로 62.8％↑…역대 2위"
     },
     {
-      "date": "2026.11",
-      "event": "한은, 기준금리 연 3.25%로 인상"
+      "date": "2026.09",
+      "event": "8월 수출 983억달러로 역대 3위…반도체 사상 최대"
     }
   ],
   "outlook": ""

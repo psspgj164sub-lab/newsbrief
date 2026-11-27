@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-26T21:17:02.476Z",
+  "updatedAt": "2026-11-27T21:19:10.353Z",
   "trends": {
     "months": [
       "2026-06",
@@ -42,7 +42,7 @@
           7.3,
           0,
           4.2,
-          5.4
+          6.5
         ]
       },
       {
@@ -53,7 +53,7 @@
           2,
           2.4,
           2.4,
-          3
+          3.4
         ]
       },
       {
@@ -79,6 +79,17 @@
         ]
       },
       {
+        "word": "의혹",
+        "values": [
+          0,
+          0,
+          2,
+          3.5,
+          0,
+          3.4
+        ]
+      },
+      {
         "word": "취소",
         "values": [
           4.3,
@@ -86,7 +97,7 @@
           0,
           0,
           0,
-          2.4
+          2
         ]
       },
       {
@@ -99,20 +110,13 @@
           0,
           0
         ]
-      },
-      {
-        "word": "공장",
-        "values": [
-          2.4,
-          1.6,
-          0,
-          0,
-          1.8,
-          2.4
-        ]
       }
     ],
     "rising": [
+      {
+        "word": "AI",
+        "change": 134
+      },
       {
         "word": "탄핵",
         "change": null
@@ -122,20 +126,16 @@
         "change": null
       },
       {
-        "word": "안전",
-        "change": null
-      },
-      {
-        "word": "AI",
-        "change": 110
-      },
-      {
         "word": "조희대",
         "change": null
       },
       {
-        "word": "조사",
+        "word": "압수수색",
         "change": null
+      },
+      {
+        "word": "사망",
+        "change": 57
       }
     ],
     "falling": [
@@ -158,11 +158,11 @@
     ]
   },
   "stats": {
-    "articles": 1174
+    "articles": 1171
   },
   "ai": false,
   "headline": "최근 6개월 사회: 「법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"」",
-  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,174건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 탄핵, 한덕수, 안전, AI 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
+  "overview": "2026.06부터 2026.11까지 6개월치 사회 기사 1,171건을 월별로 묶어 이었습니다. 기간 후반으로 갈수록 AI, 탄핵, 한덕수, 조희대 언급은 늘고, 최태원, 노소영, 판결문 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -237,7 +237,7 @@
       "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
       "span": "2026.11",
       "monthCount": 1,
-      "articleCount": 8,
+      "articleCount": 7,
       "summary": "",
       "headlines": [
         {
@@ -280,69 +280,69 @@
       "whyItMatters": ""
     },
     {
-      "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
+      "title": "최교진 교육장관 사의…“수능 책임 통감”",
       "span": "2026.11",
       "monthCount": 1,
       "articleCount": 4,
       "summary": "",
       "headlines": [
         {
-          "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
+          "title": "최교진 교육장관 사의…“수능 책임 통감”",
           "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOanV0YVZsWkQ0cmtvQVBVVWFxZVd2SWtPYktObDZrTl82ZjJiSTJFdnlUMDF5NDJ1eUQtVnRrMTFMbDB0YXFaNWoyMGZnbmhEZVBuLWh2dFBtYTVUbURSeTNJNTdvSllBWDdyNXhkaFZUdnNuYVVBT1BGR2Y1VDRCQnl6Zk0yT2pGcEJ0SkJ4V3Y?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-26T10:19:50.000Z",
+          "title": "‘수능혼란’ 최교진 교육장관 사퇴",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OZjhNLWtweGpRVmF0bFh4bkdqMUl1SHl4MmJiRGpLbW1GdG04NGNPUzduQWFJQVRoNnBpWEFISnBzZmdXVHJZcnpya1FXalFxakc5dlZNbHNxUlF6dE1nZVFDMU1MQXBGdUl6RGJuY0s2OE0?oc=5",
+          "source": "대한경제",
+          "publishedAt": "2026-11-22T04:32:08.000Z",
           "kind": "news"
         }
       ],
       "whyItMatters": ""
     },
     {
-      "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
-      "span": "2026.09",
+      "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색",
+      "span": "2026.11",
       "monthCount": 1,
       "articleCount": 4,
       "summary": "",
       "headlines": [
         {
-          "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
-          "source": "2026.09"
+          "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색",
+          "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RRUwxVmZpaFlDMFN1emszTzlKcUl5b2VqQl85QUdSUGxGVFg3YVJGaVRfS1RhRUlzc3VwNGY0LS1WTFlua1lTV3lrZXlaYlI4eDJuSi1fWmtJRTTSAWBBVV95cUxPZlFkRXQ5Rml2ZjNFRWFuU19Ca1lDUnBZbEFpTTRxQW9hbk1adzUxbFFEQjlWbFFocUphSEhWRzk5dFltcEUtXzlJZlMzbldXTkhmREttSTQ1S0diSDF0V3E?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-17T07:00:00.000Z",
+          "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2ODhWS05rMnlUSlc3LVo2a2dFLVFfWUxRaXhObkdULVQ4bjVWejZfU293cHduWXZ2dlZiZ20xcGJQT3dCTzZWV1VQVW1hV2NNUmlZT21UMHJTaUs3RHV2Um9OdWptdw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T12:27:00.000Z",
           "kind": "news"
         }
       ],
       "whyItMatters": ""
     },
     {
-      "title": "대전 한화에어로스페이스 폭발 사고...원인은?",
-      "span": "2026.06",
+      "title": "경찰, '리트 만점자' 집·수능시험지 보관 압수수색",
+      "span": "2026.11",
       "monthCount": 1,
       "articleCount": 4,
       "summary": "",
       "headlines": [
         {
-          "title": "대전 한화에어로스페이스 폭발 사고...원인은?",
-          "source": "2026.06"
+          "title": "경찰, '리트 만점자' 집·수능시험지 보관 압수수색",
+          "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "한화에어로스페이스 폭발사고 현장 합동감식 착수···원인 규명은 시간 걸릴 듯",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSZC1QV3JKMllHMXVaMFpxTU5nanRGUm84bGVkUXFqcEV0UHdpcEhJcUxGelp5M2NneVFHYUl3MElBQzhkZU5FclFqV21lRmlIMVhSYkVvbzI0d9IBX0FVX3lxTE1pd29Qck9hZEF3TFMtcHl2b0I0U25VU2k2WnBwZVI4YWowNERLS05PZEU2MWFueno3a1FqREFzRDFnY0lzRkx2NG13RUZYaWV6X01KOXRwc28tRkhFcmR3?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-06-02T07:00:00.000Z",
+          "title": "경찰, '리트 만점자' 집·수능시험지 보관 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rQjBQS1djcEVBZmtOamFOS2tENWUwUl9wT1JKeDB1bkJWOFBLOUlsN0VNbjZZSENYM1NwNDZWdmwyaDVrSm0xME1JSl82dzhZNU9saFZMMHV3YTRpWkg4Y0FleUtEWTQtbW43YUJRWUJWQ0NFTWRFRtIBeEFVX3lxTE5QTHh6emFfSXNTVEZ0UEljSlljckIyUWJGM2paM3k3U1ZFRGQtNFNQYTg2UzJUVldMRWpGNkREVVQ4eDdqR0lSUE9sMGhnNm5uWjVKVjkyeTVEM1E2R1BYQ0lUcG1mRVE3ejZRMThfZ005TWhIWUx5WA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T03:04:48.000Z",
           "kind": "news"
         }
       ],

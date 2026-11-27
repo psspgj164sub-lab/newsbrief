@@ -11,7 +11,7 @@
     "monthsAvailable": 36,
     "monthsTotal": 36
   },
-  "updatedAt": "2026-11-26T21:17:02.490Z",
+  "updatedAt": "2026-11-27T21:19:10.370Z",
   "trends": {
     "months": [
       "2023-12",
@@ -91,7 +91,7 @@
           4.6,
           7.4,
           9.2,
-          4.7
+          5
         ]
       },
       {
@@ -173,7 +173,7 @@
           3.5,
           6.6,
           4.3,
-          3.7
+          0
         ]
       },
       {
@@ -214,7 +214,7 @@
           0,
           2.5,
           2.5,
-          6.1
+          16.7
         ]
       },
       {
@@ -255,7 +255,7 @@
           3.2,
           4.9,
           3.7,
-          3
+          2.1
         ]
       },
       {
@@ -388,24 +388,24 @@
         "change": 272
       },
       {
-        "word": "교섭",
-        "change": 643
-      },
-      {
         "word": "총파업",
-        "change": 730
+        "change": 906
       },
       {
-        "word": "사망",
-        "change": 255
+        "word": "교섭",
+        "change": 630
       },
       {
         "word": "성과급",
         "change": null
       },
       {
+        "word": "사망",
+        "change": 229
+      },
+      {
         "word": "철도노조",
-        "change": 881
+        "change": 883
       }
     ],
     "falling": [
@@ -424,11 +424,11 @@
     ]
   },
   "stats": {
-    "articles": 6658
+    "articles": 6644
   },
   "ai": false,
   "headline": "최근 3년 노동: 「2027년 최저임금 1만700원 확정」",
-  "overview": "2023.12부터 2026.11까지 36개월치 노동 기사 6,658건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(7개월), 「대법 양형위, 중대재해처벌법 위반 양형기준 만든다」(5개월), 「‘중대재해처벌법 계기’ 故김용균 사건…“원청업체 무죄”」(5개월)입니다. 기간 후반으로 갈수록 삼성전자, 교섭, 총파업, 사망 언급은 늘고, 외국인, 근로자, 법원 언급은 줄었습니다.",
+  "overview": "2023.12부터 2026.11까지 36개월치 노동 기사 6,644건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「2027년 최저임금 1만700원 확정」(7개월), 「대법 양형위, 중대재해처벌법 위반 양형기준 만든다」(5개월), 「‘중대재해처벌법 계기’ 故김용균 사건…“원청업체 무죄”」(5개월)입니다. 기간 후반으로 갈수록 삼성전자, 총파업, 교섭, 성과급 언급은 늘고, 외국인, 근로자, 법원 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
@@ -635,6 +635,76 @@
       "whyItMatters": ""
     },
     {
+      "title": "학교 비정규직 오늘 총파업…급식·돌봄 차질 예상",
+      "span": "2025.10~2026.11",
+      "monthCount": 3,
+      "articleCount": 42,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "학교 비정규직 오늘 총파업…급식·돌봄 차질 예상",
+          "source": "2026.11"
+        },
+        {
+          "title": "부산 학교 비정규직 파업으로 150개 학교 급식 차질",
+          "source": "2026.11"
+        },
+        {
+          "title": "학교비정규직 파업…246개 학교 대체식 제공",
+          "source": "2026.11"
+        },
+        {
+          "title": "전국학교비정규직 오늘 총파업...\"비정규직 차별 해소\"",
+          "source": "2026.11"
+        }
+      ],
+      "articles": [
+        {
+          "title": "학교 비정규직 전국 파업에 급식·돌봄 차질",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSW1uYmxUdldMcUtTQ2dRZ0pMMkc3THdpa1p4d2pOU3BxTjh5SHdHeE4tanluSUJNOEdSdjRrSFNXSEIzM21ZZWoyZFJLNUtLXzRyemQzU2V1aDdzWWh3b1p6T1lZTzhOV0V1S0Y5RjZUdWIyOEF6cGcxZUJ6V3FOUkdWcTVPekU?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-27T12:44:49.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교비정규직 총파업..경북 195개교 급식 차질",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZnpnSDNwSEhwVVZiTTJNbzJGUTdvR09xOTRNS3o1WkRucHFXSTY1N1M1NTNmdnBJMmRsNTBfOEZsOW9LWVBfOXVXNS1mM2hfY1dfck5oRW0wclltQWZRM2thQWxCeFoy?oc=5",
+          "source": "안동MBC",
+          "publishedAt": "2026-11-27T12:24:51.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교비정규직 파업…246개 학교 대체식 제공",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYM3hCMjU2Zk16bmRocGdXdHozdzRjUDBDSU5ZakFSeko5UWVmNUZoUUExOGlJSmlHaGFVWkpBNGlkOU9hRWtTeFBTZ2pKV2hiM1U5dkxILVZROW8xZFo1QUNEWjJzZw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T10:32:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교 비정규직 오늘 총파업…“임금차별 해소·교육재정 확보”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cmNoYkZaaTNnVTVycjZweGJ4TTNRTnFPd3BVNXNhTzJuNy1RT3JGVnhZUXlSS0Vib1VTYWV0QUhjWjhJcm1IU0F1dGQ5YVhzYlo1ejZXWk9PZmM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T12:05:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "급식·돌봄 비정규직 노동자 오늘 파업…교육당국 “대체식·돌봄 제공”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiTWxPclJtN2Y1cnhhUmxCRXB5UmhYSWlnWkd3MnNLRzlOcE5PNWlmM2c2VU9uNl9qdWc5Z0M2WE55WEh6a0tYT3JnMFd1R3hESUsxSUNpcXhIQdIBX0FVX3lxTE9ZT2RtNUNTbU9aNG5xLUVtODNzcjZ2ZmVOWW9tTmV6em5oVGR2WEQ3Z1ZfUndEc1JjUmdtSE1ILTNaWnE2UnNmRElVR2drT2JLQjVTbzBsZ29ObklXLU9F?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2025-11-20T08:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "학교 비정규직 노동자들 \"임금인상·차별 해결안되면 총파업\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mTWl6ck1sNFd6aHhtdzJoMVVudEZJbGtXM2s3OHF5bVhJV1JBdFItQllmOFpaSUxnXzE3ODNUbVctb1U1WGV0SFVZYmdDVnBnZDd4eGNuM0RubWPSAWBBVV95cUxOdzdTRnFkdThxdjlNU2E5cDFzSmcybG5yUkpmUXY3QmE0eVJtdkxBSW5Ya0xJdTA1MjFNNERvLTg5c29XSmp5bWUtSjc5aHNxanFzS2V6Mmc5OEZfbmQ4d18?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2025-10-28T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
       "title": "부산 시내버스 노사 협상 결렬…28일 첫차부터 파업",
       "span": "2024.03~2026.10",
       "monthCount": 3,
@@ -762,51 +832,6 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMnJtVEFqeU1IeWdKbnpwaGFzaXZaNWljUnUxc2hFYVZPY0w1RXZEWUZoY1ROa1RYWlkwalU0MlduWl9pNTJ1R2gzb09raFNTM19JdjdLaktDQdIBX0FVX3lxTE1YX3pYSUdveERVcXZwUGRyTG91RTlneS1zelF1b0pwdklSR3hjSzZmcmlFQXFhSWJrMGMyXzctMmlNSERuRkZVTVItajByVE5jT1dna3JjbWQxMjF5UDVr?oc=5",
           "source": "경향신문",
           "publishedAt": "2024-10-22T07:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "학교 비정규직 4만 명 내일 총파업…교육당국 급식·돌봄 비상대응",
-      "span": "2025.10~2026.11",
-      "monthCount": 3,
-      "articleCount": 11,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "학교 비정규직 4만 명 내일 총파업…교육당국 급식·돌봄 비상대응",
-          "source": "2026.11"
-        },
-        {
-          "title": "교육당국, 학교 비정규직 노동자 파업 예고에 “대체식·돌봄 제공”",
-          "source": "2025.11"
-        },
-        {
-          "title": "학교 비정규직 노동자들 \"임금인상·차별 해결안되면 총파업\"",
-          "source": "2025.10"
-        }
-      ],
-      "articles": [
-        {
-          "title": "강원 학교비정규직 27일 총파업⋯급식·돌봄 차질 우려",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ka0o5UFFXVkxROGVIenhuaTE1dnRzQ0R5QndNcnpLN3lmcHZLSW1pREtyY196ZWlnRHhTSG53TzdTSEd4Z3BzWXZXWTh6bFNlemZ5X0RtRkhOekE?oc=5",
-          "source": "강원일보",
-          "publishedAt": "2026-11-26T15:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "급식·돌봄 비정규직 노동자 오늘 파업…교육당국 “대체식·돌봄 제공”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiTWxPclJtN2Y1cnhhUmxCRXB5UmhYSWlnWkd3MnNLRzlOcE5PNWlmM2c2VU9uNl9qdWc5Z0M2WE55WEh6a0tYT3JnMFd1R3hESUsxSUNpcXhIQdIBX0FVX3lxTE9ZT2RtNUNTbU9aNG5xLUVtODNzcjZ2ZmVOWW9tTmV6em5oVGR2WEQ3Z1ZfUndEc1JjUmdtSE1ILTNaWnE2UnNmRElVR2drT2JLQjVTbzBsZ29ObklXLU9F?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2025-11-20T08:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "학교 비정규직 노동자들 \"임금인상·차별 해결안되면 총파업\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mTWl6ck1sNFd6aHhtdzJoMVVudEZJbGtXM2s3OHF5bVhJV1JBdFItQllmOFpaSUxnXzE3ODNUbVctb1U1WGV0SFVZYmdDVnBnZDd4eGNuM0RubWPSAWBBVV95cUxOdzdTRnFkdThxdjlNU2E5cDFzSmcybG5yUkpmUXY3QmE0eVJtdkxBSW5Ya0xJdTA1MjFNNERvLTg5c29XSmp5bWUtSjc5aHNxanFzS2V6Mmc5OEZfbmQ4d18?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2025-10-28T07:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -950,7 +975,7 @@
     },
     {
       "date": "2026.11",
-      "event": "철도노조 준법투쟁 첫날 퇴근길"
+      "event": "학교 비정규직 오늘 총파업…급식·돌봄 차질 예상"
     }
   ],
   "outlook": ""

@@ -2,14 +2,14 @@
   "region": "southAsia",
   "label": "남·동남아시아",
   "range": {
-    "from": "2026-11-21",
-    "to": "2026-11-27"
+    "from": "2026-11-22",
+    "to": "2026-11-28"
   },
-  "updatedAt": "2026-11-26T21:17:06.433Z",
+  "updatedAt": "2026-11-27T21:19:14.241Z",
   "ai": false,
-  "overview": "최근 1주 남·동남아시아 관련 국내 언론 기사 277건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 전쟁·안보 분야의 「베트남전 전사자 故안규태 병장 유해, 59년 만에 고국 품으로」(기사 8건)입니다.",
+  "overview": "최근 1주 남·동남아시아 관련 국내 언론 기사 239건을 주제별로 묶었습니다(경제 6개, 전쟁·안보 6개, 정치 6개 이슈). 가장 많이 보도된 이슈는 정치 분야의 「한성숙 총리, 베트남 당 중앙정책전략위원장 접견」(기사 8건)입니다.",
   "stats": {
-    "articles": 277
+    "articles": 239
   },
   "themes": {
     "economy": {
@@ -17,44 +17,48 @@
       "summary": "",
       "keywords": [
         {
-          "word": "미국",
-          "count": 13
-        },
-        {
-          "word": "과잉생산",
-          "count": 9
-        },
-        {
-          "word": "최대",
-          "count": 9
-        },
-        {
-          "word": "EU",
-          "count": 8
-        },
-        {
           "word": "무역협상",
-          "count": 8
+          "count": 12
+        },
+        {
+          "word": "미국",
+          "count": 10
+        },
+        {
+          "word": "마무리",
+          "count": 9
         },
         {
           "word": "한국",
-          "count": 6
+          "count": 8
         },
         {
           "word": "기업",
-          "count": 6
+          "count": 8
         },
         {
-          "word": "최고",
-          "count": 6
+          "word": "과잉생산",
+          "count": 8
+        },
+        {
+          "word": "논의",
+          "count": 8
+        },
+        {
+          "word": "상승",
+          "count": 7
         }
       ],
       "items": [
         {
-          "title": "‘35% 관세 표적’ 베트남 “미국 우려 해소·무역협상 마무리 노력”",
+          "title": "35% 관세 표적 베트남 美우려 해소·무역협상 마무리 노력",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
+            {
+              "title": "‘35% 관세 표적’ 베트남 “미국 우려 해소·무역협상 마무리 노력”",
+              "source": "KBS 뉴스"
+            },
             {
               "title": "美 '최고 35% 관세' 예고에…베트남 \"무역협상 조속히 마무리\"",
               "source": "아시아경제"
@@ -62,17 +66,13 @@
             {
               "title": "베트남, 미국 관세 압박에 무역협상 조속 마무리 추진",
               "source": "스페셜타임스"
-            },
-            {
-              "title": "美 '35% 관세' 예고에…베트남 \"우려 조치 해소·무역협상 노력\"",
-              "source": "뉴시스"
             }
           ],
           "span": "11.26",
           "days": 1,
           "hasPress": false,
           "sourceCount": 5,
-          "articleCount": 5,
+          "articleCount": 6,
           "articles": [
             {
               "title": "‘35% 관세 표적’ 베트남 “미국 우려 해소·무역협상 마무리 노력”",
@@ -89,6 +89,13 @@
               "kind": "news"
             },
             {
+              "title": "35% 관세 표적 베트남 美우려 해소·무역협상 마무리 노력",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVHRkbnR5blhKMjU1d1JCVHotMk1CdmdkX25xUVhfY0ZUTVAwVWl6clZ1R3ROdTNJTWVYWmwwa19ZVy1Cc0dtTXk1d2REZ09ZV2VtNzN2TUlxd9IBWEFVX3lxTE9YWXdkX3g1LUFzSFItcV9GQi1zcUNGdW1wZnRTbXloaHFtOFd1YzRKdXdDY0pkMXZ2Rk9FczdQLW9yeWhwTGJZMHl2ODNjSWp6a2ZvNS1XLW0?oc=5",
+              "source": "아주경제",
+              "publishedAt": "2026-11-26T12:12:39.000Z",
+              "kind": "news"
+            },
+            {
               "title": "베트남, 미국 관세 압박에 무역협상 조속 마무리 추진",
               "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWEh2RHNuOWMyNThYUTZDdFFndFdTY3pjZEtIN3ZSTzZpOWo2WG5IY1Zsand2TGNsZjdOZXdPZURwVW9obFZpQTBiWGtabkhOQkhOcUhPUFR4cU9POEhTa1Qta3lTUm5LTElQdkFBakpORlU?oc=5",
               "source": "스페셜타임스",
@@ -96,125 +103,113 @@
               "kind": "news"
             },
             {
-              "title": "美 '35% 관세' 예고에…베트남 \"우려 조치 해소·무역협상 노력\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZ0lidEtjdk84alRDOHkxQ3FzQnhhcmRrdFNydzdBcURPWmJBa09jc0Z0eFI0WHBKMmNjbWtZaGMtV1Fpc2hwY2ZCNC1EUkl6WlRfZElSSm5QS216Sy04WdIBeEFVX3lxTFBpVExvcUN6NkhjUGV1UmotTENVTnpPcm5pR2xZOTR3QXJ3ZVdqTVE4anhQRFU2UVFSVlZ0dTB0eUpFNzc4cHBVZEg0TzlsTHlzQ1hKUHpmR0ZLeGctWjhpaUdnT2taVFNZc1RIaHpjUkJqZThveG53Mg?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-26T08:32:06.000Z",
+              "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jcmFjZkNBZWU0LWQ3TjREbkQ0VUJEd1JhY2lVQ1J3VHpJandicEV4eVkwUU1fcWdha1BhNzhzSWpnWmdpckdTOFFSdGFOakdMN3FiTnlpbEprU2R2eUxXVtIBYEFVX3lxTE9jcmFjZkNBZWU0LWQ3TjREbkQ0VUJEd1JhY2lVQ1J3VHpJandicEV4eVkwUU1fcWdha1BhNzhzSWpnWmdpckdTOFFSdGFOakdMN3FiTnlpbEprU2R2eUxXVg?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T11:55:22.000Z",
               "kind": "news"
             },
             {
-              "title": "베트남 ‘35% 관세 표적’에…“美우려 해소·무역협상 마무리 노력”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTaUxwbjBlMF80UElVNl9aeFVybnNPdENOb0ZxckxKQUE5YzlYT0E0UmVqd0F4MU53YTUweTltdFduWk12SnoxbFpZNTBlYTlJWDdJV2RR?oc=5",
-              "source": "헤럴드경제",
-              "publishedAt": "2026-11-26T05:42:36.000Z",
+              "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMZGR0YlZFREhxVEVmODJpcXFDUzFUd3d4ZnQyZTRpLXNnT29XcGgzNUxfU3FmU3FjYnFDZlVZeU01WlczN3JYMWhwZmxoUXQ3dlYxS2NjNjh6UC1KU05JadIBYEFVX3lxTFBMZGR0YlZFREhxVEVmODJpcXFDUzFUd3d4ZnQyZTRpLXNnT29XcGgzNUxfU3FmU3FjYnFDZlVZeU01WlczN3JYMWhwZmxoUXQ3dlYxS2NjNjh6UC1KU05JaQ?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-26T05:14:21.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "한-아세안 싱크탱크, 미래 경제·통상 협력방안 논의",
+          "title": "산업부 장관, 베트남 중앙정책전략위원장 만나 첨단산업·원전·공급망 등 전략적 경제 협력 논의",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "한국과 아세안 싱크탱크, 미래 경제 통상 협력방안 논의",
-              "source": "서울Pn"
-            },
-            {
-              "title": "韓·아세안 싱크탱크 한자리에…경제·통상 협력 확대 논의",
-              "source": "뉴시스"
-            },
-            {
-              "title": "한·아세안 경제·통상 연구기관 한자리에…공급망 협력 논의",
-              "source": "아주경제"
+              "title": "한·베트남, 첨단산업·원전·공급망 등 전략적 경제 협력 논의",
+              "source": "인사이트에너지뉴스"
             }
           ],
-          "span": "11.26",
+          "span": "11.27",
           "days": 1,
           "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
-              "title": "한국과 아세안 싱크탱크, 미래 경제 통상 협력방안 논의",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlNGxGc0hLUElLcnB1QVpFME4zaS04UmdKTko2V3BEbGRYRnRpYjBIakROT3hPeGFETlF1N3NMdXBudVZTWURLTzVWYTFhTHBQR2JGMkNSRzlPVnNIc09nZFNn?oc=5",
-              "source": "서울Pn",
-              "publishedAt": "2026-11-26T01:09:40.000Z",
+              "title": "산업부 장관, 베트남 중앙정책전략위원장 만나 첨단산업·원전·공급망 등 전략적 경제 협력 논의",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4YU14TXFUNVJ5THdFa2JSeGF4a3dfN1pndVZoc3ptUzhzSnJiZjJoZ2hoeVJSQXFVQ1NlNUNzSHJEbjg3UWZRTTRPSmxzMmw3MGJCSnlJZzFCMWt6RDU0?oc=5",
+              "source": "헬로티",
+              "publishedAt": "2026-11-27T05:05:15.000Z",
               "kind": "news"
             },
             {
-              "title": "韓·아세안 싱크탱크 한자리에…경제·통상 협력 확대 논의",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UTlRDd3pqWEpNbU1VMjVQckFpT080NEhCR1puVW41NzdwZENOSE5GRnN1SnQ2QzZHeFZhVEItaWd2QThjQW1hcFRyX1ZuMDRNUUk0Q2hjTVFrZlZ0SWdrctIBeEFVX3lxTFBBM1FCVDNUbVBjSEo5WmsycDl3aFdsY29jZW9oRnNNbDhyVmVKa2gwVHVmaDhHX1FuMGs2b1gycFJHbWpaS0dsZEpMRDhyb2JKOG4yN1BSdGU2ZFBrdDRFempmVkg1VTZnTDFpOHIwUmZhWTF0NjY0RA?oc=5",
-              "source": "뉴시스",
-              "publishedAt": "2026-11-25T21:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "한·아세안 경제·통상 연구기관 한자리에…공급망 협력 논의",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuczBoZkcya2VZeVN1ZWgzZUhfZTBmM1EzU3pLZ3I0QWRKWlhTRjM4b3Nud2IwTDlaSXNIWVNuZjRCQmdtaTFSWXpnOGoxSmRmTmh6cXF1M3M1UdIBWEFVX3lxTE13UEV5WXlmVmpzWmVSVlB0VndKSlM0WXZZUkU4QXpZS3Z5NGpjOHZmNklTM05GeHk3aGlnNDE2QjFxSXduX2RYd1dLNU9tVTk1RnV1cTR2ejk?oc=5",
-              "source": "아주경제",
-              "publishedAt": "2026-11-25T21:00:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "한-아세안 싱크탱크, 미래 경제·통상 협력방안 논의",
-              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPTGxTY0JkN2VWM3BWXzE2dDdiLTRoRWswVHdYa3Fla2ZnYVRGejRYMjVDbHJKbzBPSC1aMlBmdWZsWVBJdl9SZmE1VFhfNGtRaGxaY090ek5YMVNfbUpXVTJqUGlpWDlrTnhVMUMyQjM2TkM3NU94TWY3STBNZ3FwdTMwak9aQ1JmRlpmTEl0dUNLMnBwelR3ZGtfOXFCV3dkRjhZdF9vRjRwWVNLNVRiMXJnUVNwRWFhWjg2Q1hYV2NBSHJfQWVDZ2RiWXFremE3SlFTbm10WFNDcXE2WjlpNHA0LWt1TTZoSWJxM0g2aUpQc1FfV3ZORjBfczMtX2V4SUR5M2ZPVFc3V3QtMG16UGM4eVdRa3Y1?oc=5",
-              "source": "데일리안",
-              "publishedAt": "2026-11-25T21:00:00.000Z",
+              "title": "한·베트남, 첨단산업·원전·공급망 등 전략적 경제 협력 논의",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5SndIdUx3UnB0dFpiYlBiMUk4c2tDWWZPZ0RjbWFVWXpXMmFpWFlGc1E5NkNOZkR1anZNRDY2Y2lTeTRkb3RSYmFZaldISjhSM3ZvT040Z1ZYR3FiYWZ3bFhTX1liUkHSAWtBVV95cUxObS1xVC11aUFIaThmaVlJWVlobzM3Wk4wS2E2ejgxRkhXZ2FhaU1KN0x2Z3BlRFpZcm4wenJVR0xLNmU4aUgyU19veHFtMDN5NXpSZVMtQW9jQWRSSE5EcHBScUJfRWpGaWg5VQ?oc=5",
+              "source": "인사이트에너지뉴스",
+              "publishedAt": "2026-11-27T02:12:41.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "EU·인도네시아 무역협정 체결…관세 90％ 이상 철폐",
+          "title": "한중일 재무차관 회의 \"AI 불확실성 등 역내 경제동향 공유\"",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "EU·인도네시아, 무역협정 체결…대부분 관세 철폐",
-              "source": "Investing.com 한국어"
-            },
-            {
-              "title": "EU·인도네시아 무역협정 서명…90% 넘는 품목 무관세로",
-              "source": "경북매일"
-            },
-            {
-              "title": "EU, 인도네시아와 무역협정 체결… 관세 90％ 이상 철폐",
-              "source": "Chosunbiz"
+              "title": "한중일, AI 불확실성 속 경제동향 공유…재경부 \"협력 중요\"",
+              "source": "연합뉴스"
             }
           ],
-          "span": "11.21~11.23",
-          "days": 3,
+          "span": "11.27",
+          "days": 1,
           "hasPress": false,
-          "sourceCount": 4,
-          "articleCount": 4,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
-              "title": "EU·인도네시아, 무역협정 체결…대부분 관세 철폐",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HemR6LUJ2a2MwU3VEX1Q5c3BWeU5ZcEpzdEg2RmR3emtFMVBWSGJ2Z0RWYV9Nd2ctOUNuWVRVRFROMTd0dkhxR0k1dmlUUzB0T0lpdS04elMwWTZKZ3pYTUZWVDhTdDFaUDNWa2pWZEs?oc=5",
-              "source": "Investing.com 한국어",
-              "publishedAt": "2026-11-23T05:58:00.000Z",
+              "title": "한중일 재무차관 회의 \"AI 불확실성 등 역내 경제동향 공유\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hZks0dHYzYUw1MUxadmh5eEo0MDVhbXBmRldLa0t5R2xvVHlwOGRxRW1BZkhoVV9sTXY1b2pwR0dLeE1rZVV3dlF5Yy1oZ0FIcWhuTnAxY3NsejJuVFVNZ3BGRjAxeFJOY3ZBMDNET2lZb1ph?oc=5",
+              "source": "부산일보",
+              "publishedAt": "2026-11-27T02:59:52.000Z",
               "kind": "news"
             },
             {
-              "title": "EU·인도네시아 무역협정 서명…90% 넘는 품목 무관세로",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTcWhZNVpOOGhsVFk0b3YxM20xMXpRMTNMSmV1YUhFUmxqeVJZWHpEQjFER3U4R2ZRd3MtUWYzVUxzdTlfSXVGQTVDX3pxN0pNaUNSVjJFbjB3Zw?oc=5",
-              "source": "경북매일",
-              "publishedAt": "2026-11-21T19:40:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "EU, 인도네시아와 무역협정 체결… 관세 90％ 이상 철폐",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjVfQVUtRmZta2J6Tjlyd1UwWHdOOWVrVmtQWnJCdHFoZDJxaVk3YmZYcUxQMGJzU3gzS3NxdUllRDN6cGFaZks3NldZYzNJTURnMGJpWHN4a2tZNHp0b3BGWURXWXdqQ0JIYmhWbmVOemRDUWlOWkFqQ3VtWDdDdXJIcU1FZER4REhNakJETFNEWFZ1dW9VZ0d1d0x4UdIBsgFBVV95cUxOUTh1MDM2VGFsd3ZHU25CUVhyRjNGaGNOUF8tTnF3NUVtdUpTeVVzZGtIQ04tY1k4UG9GVWRlQVJPYnh3dXdfakNrNU9ucVVzRzE1NjVleXpiaTQ2UFhaQTdITlFKOUdFRER4djVlckg0QzEteFdMcXFYVkMyVWFnT2JtaXdESDRSbmFfZnVJVnI5MUpxb0ZOd1FSQVlMYlo4VUc2LXl3NGJxTG1pMjdmTGh3?oc=5",
-              "source": "Chosunbiz",
-              "publishedAt": "2026-11-21T15:02:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "EU·인도네시아 무역협정 체결…관세 90％ 이상 철폐",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FcHhnY01INFp6b1d2OTVwcF9XUkw4X1IxbzNCR0FvT3hhVE1tUkVPYzNhdWxleVEwTzNwV01melVMRFRocGJvU1FaMGRnNDhtcWd1THo3SGFOVmvSAWBBVV95cUxQcnptNy1ZMXAyU1JfdWw1TDVaVUYwbWRzRC1sX1VuYTZyQ2VCY29ZcXFnMjdQY3l5M0hPTU9SbkFHOWR5T0htX0R0b19UMzhMaS1ZVlZWcFgzeVYtMGJIazQ?oc=5",
+              "title": "한중일, AI 불확실성 속 경제동향 공유…재경부 \"협력 중요\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHZzdXeFhmanJ4NEoxWHhnODJQZjVXQUNCazQxbEhVMXNWNTFwTWNteVhKTkx1eFFmV25Ebk1GaHR3RFdHLTg0d1gzQzBqcFFrMFdVbVA4LXhpUXkzVS05V9IBYEFVX3lxTFBHZzdXeFhmanJ4NEoxWHhnODJQZjVXQUNCazQxbEhVMXNWNTFwTWNteVhKTkx1eFFmV25Ebk1GaHR3RFdHLTg0d1gzQzBqcFFrMFdVbVA4LXhpUXkzVS05Vw?oc=5",
               "source": "연합뉴스",
-              "publishedAt": "2026-11-21T14:21:30.000Z",
+              "publishedAt": "2026-11-27T01:00:03.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "美 '최대 35% 추가 관세' 쇼크에 베트남 증시 4개월 만에 최대 낙폭",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "베트남 VN-지수58포인트 급락…美 추가 관세 최대 35% 제안에 4개월 만에 최대 낙폭 부제목",
+              "source": "굿모닝베트남미디어"
+            }
+          ],
+          "span": "11.26~11.27",
+          "days": 2,
+          "hasPress": false,
+          "sourceCount": 2,
+          "articleCount": 2,
+          "articles": [
+            {
+              "title": "美 '최대 35% 추가 관세' 쇼크에 베트남 증시 4개월 만에 최대 낙폭",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4TVk4dkYtZnRJNEJHMWxnZmhWbjFNemxYaW1WbGI4SUUteG5YVmNodFB3QXdlcE9mbFRWcUJvRkdCRWdhT3lzRVh6VERvbURNclRKV2EtUzhER3pOdHJlb0U1NzU2LXZId0NQLWstRGM2Zw?oc=5",
+              "source": "아세안데일리 뉴스",
+              "publishedAt": "2026-11-26T23:12:07.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "베트남 VN-지수58포인트 급락…美 추가 관세 최대 35% 제안에 4개월 만에 최대 낙폭 부제목",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OMWstdjhxZ0YwemtaTUQ0Y2lhV1g0b1N5eUFLenlURGpzY2ozdDM2WlJnalJKOGxObTdYOFhqVnN6UGp1WENGdE9WMWJFTEczMzRUdFZyN1NNX3N5TE9EaDdUbGE1T0V4bmQ1cXBnNW4?oc=5",
+              "source": "굿모닝베트남미디어",
+              "publishedAt": "2026-11-26T10:29:02.000Z",
               "kind": "news"
             }
           ]
@@ -252,65 +247,33 @@
           ]
         },
         {
-          "title": "美, 인도의 무역합의 압박…\"17% 협정 안 맺으면 25% 관세\"",
+          "title": "국가철도공단, 베트남 북남 고속철도 설계용역 수주",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "美, 인도에 무역합의 압박…\"관세 17% 협정 안 맺으면 25% 부과\"",
-              "source": "연합뉴스"
+              "title": "韓기업 참여한 컨소, 베트남 고속철도 설계용역 5600억 수주",
+              "source": "한국경제"
             }
           ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "美, 인도의 무역합의 압박…\"17% 협정 안 맺으면 25% 관세\"",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9MQlNJTmpHcHl3ZDlGYm5admpTS1RESWpTek5DTHFVVG8tZlBJSlZCbFZSendkbWg3N0FaYXY3Um9kOFBfcHlRYUdB?oc=5",
-              "source": "코인리더스",
-              "publishedAt": "2026-11-26T00:00:01.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "美, 인도에 무역합의 압박…\"관세 17% 협정 안 맺으면 25% 부과\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mUWRabkk0WGtxQUl3cW9rdU5pNVdzWElmUDk0RlJrbVl1cHg1S01qWVBJOXZBNXBqTDFMWHJYTkpjUjhWRzJKNmtLdlc4YWZ4SmRlU2NtcmZSeWPSAWBBVV95cUxPZFRkeXNzTUJZcDVfM0NWWVFzRFVSSlJYUDFkYkZoa01uSU5JZ3FxZ3Rsc2VqRWxEZDFHWHB2aFFVMmdhWDFnbTF3cUdrZDZHUFNBa2JucjR2SDdLRF9Xa28?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-25T23:18:29.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "광양경자청, 인도네시아 바탕 특별경제구역청과 업무협약 체결",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협약",
-              "source": "철강금속신문"
-            }
-          ],
-          "span": "11.23~11.24",
+          "span": "11.22~11.26",
           "days": 2,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "광양경자청, 인도네시아 바탕 특별경제구역청과 업무협약 체결",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mcENtVlJidTQ2UXBFMmpUQXNPbFR3UE9OV1NBWDNTRGJVY3NyQWZjTTNzUVpxZjZJQmRhamFGby1rOFdfVmkxWFFZR2ZjSEhaSjIxOGUwUWhjeUEyem9Cc0UzSjE1dEVFbWc?oc=5",
-              "source": "여수넷통뉴스",
-              "publishedAt": "2026-11-23T22:30:42.000Z",
+              "title": "국가철도공단, 베트남 북남 고속철도 설계용역 수주",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42eTBDRW5RQWFWMWs3cjRsZnhxaGx4bl8xZzV0UFNfSUlpV1RBMXFxWUZ5Rld3RmV0Z1h3Q0RGTjZoNlFUUHNWZ0xRSGZ1M0N2UllCNVplbWNKNTdvb191bFBDMWdDSmhuM004?oc=5",
+              "source": "BBS불교방송",
+              "publishedAt": "2026-11-26T01:00:33.000Z",
               "kind": "news"
             },
             {
-              "title": "광양경자청, 인도네시아 바탕 경제특구와 투자유치 협약",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVlA2cXhnYWx2d3FIa2UtRDBUNGRhc0ZoeUdTWW1xWkJjU2ZJZndhX09DM09XRjNoOGp3b28xNjZ3UXl1ZkROWEFPQ0t6TjFyRDV1TmFFUWpZNGZBMkowMjRuY1oxNTRYbEE?oc=5",
-              "source": "철강금속신문",
-              "publishedAt": "2026-11-23T09:22:20.000Z",
+              "title": "韓기업 참여한 컨소, 베트남 고속철도 설계용역 5600억 수주",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KTUtWWi1kQ2tMUGZEZGJvSU1RdGNqaVVaajBrS29FSVdOSHVoZHBQMTZ1VmhQTmUxQUM2eWZWOUVVQ3dMNmVEV1ZBYTBqRTRTbjZlS2k2aDh1Zw?oc=5",
+              "source": "한국경제",
+              "publishedAt": "2026-11-22T02:54:38.000Z",
               "kind": "news"
             }
           ]
@@ -323,35 +286,35 @@
       "keywords": [
         {
           "word": "국방",
-          "count": 9
-        },
-        {
-          "word": "역사",
           "count": 8
         },
         {
           "word": "베트남전",
-          "count": 8
+          "count": 7
         },
         {
-          "word": "박물관",
-          "count": 8
+          "word": "역사",
+          "count": 6
         },
         {
           "word": "안규태",
-          "count": 7
+          "count": 6
         },
         {
           "word": "병장",
-          "count": 7
+          "count": 6
         },
         {
           "word": "전사자",
-          "count": 6
+          "count": 5
         },
         {
-          "word": "우크라이나",
-          "count": 6
+          "word": "이론",
+          "count": 5
+        },
+        {
+          "word": "박물관",
+          "count": 5
         }
       ],
       "items": [
@@ -361,29 +324,36 @@
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "베트남전 전사자, 59년 만에 고국으로",
-              "source": "세계일보"
+              "title": "베트남전 국군전사자 유해봉환식",
+              "source": "뉴데일리"
+            },
+            {
+              "title": "국방부, 베트남전쟁 전사자 고(故) 안규태 병장 유해봉환식 거행",
+              "source": "cpbc News"
             },
             {
               "title": "베트남전 전사 안규태 병장 유해 귀환",
               "source": "아틀라스뉴스"
-            },
-            {
-              "title": "반세기 해외 표류 딛고…베트남전 전사자 故 안규태 병장, 59년 만의 귀환",
-              "source": "헤럴드경제"
             }
           ],
           "span": "11.25~11.26",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 7,
-          "articleCount": 8,
+          "sourceCount": 6,
+          "articleCount": 7,
           "articles": [
             {
-              "title": "베트남전 전사자, 59년 만에 고국으로",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBieE1laWw2UzZZRW9zMUtuUXBTdHgyTk1ZQ29xQVFtMFpQSDlfeTctTHNwN2gyUXdyMUFfRkpaWHVOZHhHbnFUdHkwZ1E2LXhBbURQelZZNTHSAVRBVV95cUxQdmk4WFJmU25DQTd1R3IxQkhFQkJqcnI3UnNKLXFicW52ckpfampadHZhVUtxOFVCNUZnZTBRV3RtbGR0OUZUTEk3OU0wRkxqOXBMX2Q?oc=5",
-              "source": "세계일보",
-              "publishedAt": "2026-11-25T21:00:00.000Z",
+              "title": "베트남전 국군전사자 유해봉환식",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWEhDbks4Qlg5SUQ5YXl3bk9telFaSWxzMk05TUYwS2F1OUI0R1EzdzVNeFFxR2tiVEhiSC15TlZxNWVzcXNnU01uWUYtSEtja28tNl9EMUdkR045ZHJkLV9lUXFVLTRkZkdIZzctSmJuUjRMZElRZUlySm10TDdfZtIBgAFBVV95cUxOWEhDbks4Qlg5SUQ5YXl3bk9telFaSWxzMk05TUYwS2F1OUI0R1EzdzVNeFFxR2tiVEhiSC15TlZxNWVzcXNnU01uWUYtSEtja28tNl9EMUdkR045ZHJkLV9lUXFVLTRkZkdIZzctSmJuUjRMZElRZUlySm10TDdfZg?oc=5",
+              "source": "뉴데일리",
+              "publishedAt": "2026-11-26T04:14:00.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "국방부, 베트남전쟁 전사자 고(故) 안규태 병장 유해봉환식 거행",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nMGZ3LXFIQWZ3S1FxU05jN3JrOTJyX1N0QnBMaUhmdmZ1VXk3TFdkSVNkaTdQQ0VEd1N5SERxSjhodjhLM0FwNXZKUmw0UmIx?oc=5",
+              "source": "cpbc News",
+              "publishedAt": "2026-11-26T00:14:00.000Z",
               "kind": "news"
             },
             {
@@ -408,13 +378,6 @@
               "kind": "news"
             },
             {
-              "title": "‘베트남전 파병 국군 전사자’, 59년 만에 돌아온다",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xU192OWdKRVFwQjNlTm9ubG10amFtdEUtZnR3S1luTzVtQUYxdnFrM2I1OUtMQnVyX0lLS1VKZXc1UWZPU2c5M3pRTVRXVTk2anBFV0NEUVdBN09ESzZVUHZtU25iLUd3TjVJNGtR?oc=5",
-              "source": "통일뉴스",
-              "publishedAt": "2026-11-25T04:18:34.000Z",
-              "kind": "news"
-            },
-            {
               "title": "베트남전 전사 故안규태 병장, 59년 만에 고국으로 귀환",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwa194ck10T2FiZXVSVkZhalNqRkp6VW9pV2JvcFNLcnBGaXViZUJEcnJCVnY5dDNtTDI5TXZIc2JNbXFYeF9uaHJGUjFkQU9UZk1KRDdaQXYzcE9lTzRKOUxPWGlmRHB5VzdR?oc=5",
               "source": "SPN 서울평양뉴스",
@@ -424,24 +387,20 @@
           ]
         },
         {
-          "title": "\"우크라이나 패트리엇 미사일 급한데…미 국방장관이 인도 지연\"",
+          "title": "미국 국방장관, 대금 지불 완료 패트리어트 미사일 우크라이나 인도 보류",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "미국 국방장관, 대금 지불 완료 패트리어트 미사일 우크라이나 인도 보류",
-              "source": "글로벌이코노믹"
-            },
-            {
-              "title": "\"패트리엇 미사일 우크라 인도 지연…미 국방이 승인 안 해\"",
-              "source": "연합뉴스TV"
+              "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 인도를 연기하고 있다.",
+              "source": "Vietnam.vn"
             }
           ],
-          "span": "11.24~11.26",
+          "span": "11.25~11.26",
           "days": 2,
           "hasPress": false,
-          "sourceCount": 3,
-          "articleCount": 3,
+          "sourceCount": 2,
+          "articleCount": 2,
           "articles": [
             {
               "title": "미국 국방장관, 대금 지불 완료 패트리어트 미사일 우크라이나 인도 보류",
@@ -451,88 +410,10 @@
               "kind": "news"
             },
             {
-              "title": "\"우크라이나 패트리엇 미사일 급한데…미 국방장관이 인도 지연\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVEdGTXhGTTdsLWZCTWtGWnlfRWZZZ21yZDNuSFBvVE5uLWRQUlpyM18yamhXRkNXaUZQLURFS1FvRTZNUENHQ0V4OXFqQVgxZzA2TTVva29yTHQzTGNoY2hYeC1lWWhzZWc?oc=5",
-              "source": "SBS 뉴스",
-              "publishedAt": "2026-11-24T08:02:47.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "\"패트리엇 미사일 우크라 인도 지연…미 국방이 승인 안 해\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZURKb3pvM05VMmhpeXo0c29GQzlQXzYtV25uOU1kYkU1YVlabm4xLWY4R1ZTendBQkc3WDVwTkRJTVVoQ0dxSWZxRE9yZTlBRWtwV0FMUXpPN2VHQlhkdi0wWVFnbkE?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-24T07:43:00.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 인도를 연기하고 있다.",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "주요 동맹국, 우크라이나에 패트리어트 미사일 인도 계속 연기",
-              "source": "Laodong.vn"
-            }
-          ],
-          "span": "11.24~11.26",
-          "days": 3,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 3,
-          "articles": [
-            {
-              "title": "우크라이나는 미국이 패트리어트 요격 미사일 인도를 지연시키고 있다고 비난했다.",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNckRGT2NsTnFNTTRCWUNYTWw2M2NYMktsUHJDOFZRVTk4WHlLSmRmRGZpbnB2MHJwRmN2eXNCTEpjUFhuenNLVHlqZXpJNFdHdEVzUG9GM2NJS2R3UW9EUGJ0UURKaXlDVXZpbFJqZW41QnU1THYtM0t1Z0Y1bHVUN0NlR2xmX3FjVTh5bmFhX2lpSjc2RFhJ?oc=5",
-              "source": "Vietnam.vn",
-              "publishedAt": "2026-11-26T05:35:11.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "주요 동맹국, 우크라이나에 패트리어트 미사일 인도 계속 연기",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkJ2bVpKT0prakNvMm9XNEdld3ptQlRZNmthMGJ5LUNPUExfYjUyaHhqbVNONHExQUxxcF9KOU1PN0xLcS1LNnhWR0NvVm1HZWE1eFR5NzZNWVVYRjgzaHpTYk8xQUJQaXRFZXVTZHBnaTV2RWNyaFlVc1hya05HeUZTRmFGc0Q4RlFjTHhVWndKRjBWb3BTUGRib3ZUcUprczZVSmk3WUNtaHM?oc=5",
-              "source": "Laodong.vn",
-              "publishedAt": "2026-11-24T07:50:54.000Z",
-              "kind": "news"
-            },
-            {
               "title": "미 국방부는 우크라이나에 대한 패트리어트 미사일 인도를 연기하고 있다.",
               "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmEzb0lPTHdwLW5lMEYzNWVaZUkxcXBrNjk0bzlOaEl3endVREMycGEyaVFuVGkzTGFMQVZjby1lNVQ0ZkNJQU1DN1JOYVhNMnVKWW4wQmxVdjFWYUJOYV9hSmZZZmYyV2JaSnZfNlFob2MtZHJOSzROOWdSSDNsb0hNWThVUmdFakE3NA?oc=5",
               "source": "Vietnam.vn",
               "publishedAt": "2026-11-24T16:48:57.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "베트남전 국군전사자 유해봉환식",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "국방부, 베트남전쟁 전사자 고(故) 안규태 병장 유해봉환식 거행",
-              "source": "cpbc News"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
-          "articles": [
-            {
-              "title": "베트남전 국군전사자 유해봉환식",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWEhDbks4Qlg5SUQ5YXl3bk9telFaSWxzMk05TUYwS2F1OUI0R1EzdzVNeFFxR2tiVEhiSC15TlZxNWVzcXNnU01uWUYtSEtja28tNl9EMUdkR045ZHJkLV9lUXFVLTRkZkdIZzctSmJuUjRMZElRZUlySm10TDdfZtIBgAFBVV95cUxOWEhDbks4Qlg5SUQ5YXl3bk9telFaSWxzMk05TUYwS2F1OUI0R1EzdzVNeFFxR2tiVEhiSC15TlZxNWVzcXNnU01uWUYtSEtja28tNl9EMUdkR045ZHJkLV9lUXFVLTRkZkdIZzctSmJuUjRMZElRZUlySm10TDdfZg?oc=5",
-              "source": "뉴데일리",
-              "publishedAt": "2026-11-26T04:14:00.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "국방부, 베트남전쟁 전사자 고(故) 안규태 병장 유해봉환식 거행",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nMGZ3LXFIQWZ3S1FxU05jN3JrOTJyX1N0QnBMaUhmdmZ1VXk3TFdkSVNkaTdQQ0VEd1N5SERxSjhodjhLM0FwNXZKUmw0UmIx?oc=5",
-              "source": "cpbc News",
-              "publishedAt": "2026-11-26T00:14:00.000Z",
               "kind": "news"
             }
           ]
@@ -555,7 +436,7 @@
           "articles": [
             {
               "title": "베트남 전쟁박물관, 야간 역사 체험 공간 개장",
-              "link": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPYXlPeHZzYWhjdzJGRzlQeTdRdzFfZlJnLXo3TVdVT19HaXpHalpoZExCdXMtM1puZ0xDandSMS11UmVtZ0h6SVVmZWFtaVp0WndtREY3WFFUT1hBY0VGaWp6akFKUGthM3RoWjlKeFZyOEhscEFRYjZZcGQ3TFVWMUJtZ2tReVpOMy1xb2lmeHpMbVhWTkw1NEVXQmRENXdhbHdYNTU4X1dfOHJSS3k4ODlNWDdmalREZzFaaHd3eUpxUGg4MEVLSkgtTjVxMHZqcFF2SmpqWlloY2VZMVFFcVJ2MENaZFQwWEZWc0F5dVVEWnZVX1Q1QVJIMk14Wi1PUDBRN0FIVlhVNUlfSkRSVlVIQjc3bzk2dUJPbGd2bmNQOHFNLWp5aTByZzJERmN2NmlvNm5ROXMwM2pyNzBzT3hyU3NXWG16WVZmZVVlRzhWT0otMk1TS2hlT3JsU2lYQkFvTmdmTFUxWnV1VGx5RWdMV044N0ZHVFhrcDRHNFRFVVdtQ0dqX1RtbEJqS3EwOUFJR0pueWNTcXBkdUN4dW1iZ09YSV9YZnZjeldaOHhqOElad3RnU2FWQkZ6blZvV3dsd1U1c2hwTXgxbTI3ajJTNlB2UjgtOGNSWHVETTB2QjkxUDlTTHdXNWhiUFkyMmRZelcxbWxESjNpaTdtZ05ZNjBISGJxNURocmNxQWJVTzNKWjk0NHJWUGVMWFMycVJfcjZFdUZSUTM4WWpKalBNeVluMjdUcFZ4ZE54dmRRcFZEZk56TmdJMS1RNDZmQ3lBaXRVcG1ZUzE4VGhKLTVZQ1VXeUplQVhnemYzUzhyXzhMR3BPc2J1bTR5bzN1cXpWWm96QVJ2VE1LSUZvbGJqRmMyWEpORFFYZTg2ajMwZHNwcEJpTE5TOA?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPUDJNQUNXUDZ0NlE1SXpxT29fSFhQalhwSF8yX2dWQnYycDlzMWNsTmxrRXo3c1Z3cDZmVGZ1Rjg4WGxaME41ZU9PVWtnYkFIbDkzWTY5QWNLRThCZE5BTHpjenJBVnNuZF9WNkw3QktleXFTU2s0Mm1TQ3dXTFZTLUt0ZDgxNmcyaF91ZEhmU094TDJKZTJ5QndBdFF2SDNmN084TFkwYUNCdVhTU1owWnBBNzRLR1NMUDBUbkhnNmw5MlpXYzlXWnVtZ3FFUmFLM1VsOFFKMUthX21TNWtjZm0xQmJ2OTJlNEx5dUFsVzlqZWdnTkpMMVZzMWdDWVFaSThVOW5ZS3R0UmpsS1l4dGszLTZwdmkxSDZSbFpYN2FpbFQtcUtZM1kwOE91bDJlZ0QtZzg1SkhKQW5yS0dFdWhrakNEeGR5V0hHaV9mYUc5OFlNV2VOdno0SE9zQzhTQ2Fjc19nZ1pncTdFTlRnUUlqNndXNVFtNjNxWjE0U0l6Rll2YkJaMGZjVFFQVUJlanJOamplWDRpeDRSMVFnb2R2NkJPenRCdjF3VVZLeFN5U1Z5WXJ4Z1VMcFNYMDNXaFRSX21wc09wNVFQbWR3dF9Ca005N3lETjRtWUN2RWU4YllIaE1YUE1JRDhEV2pOMHNEc3J6d2Z6NWIwdDVBa1d0MFJYYVl1QkJjakZBTmNLOTlzNEo5eWM0c0Z6LS1lQWtfcjVKcElfZUhyTnB0V2QyWUpXSGNnSjBXZXRtaE1FQ3NIYkk4aXBvV3QwWERHZXEyUDZEbm5SR2tkUGNvUE9GblVNU25tUXVrYk5aOGN1d3hHTGlpQ0huQ2tlREc5MnJNNzdjOHJJMVoyMENNcEhNLUdVa19Tc0RPRnpXYk8xbEFPWGVXMUx3MA?oc=5",
               "source": "Thông tấn xã Việt Nam",
               "publishedAt": "2026-11-25T03:51:23.000Z",
               "kind": "news"
@@ -570,35 +451,68 @@
           ]
         },
         {
-          "title": "제3군관구 소속 군은 베트남 문화의 날을 기념하기 위해 다양한 행사를 개최했습니다.",
+          "title": "사무총장과 회장은 국방부 및 기타 중앙 기관과 협력했습니다.",
           "summary": "",
           "whyItMatters": "",
           "headlines": [],
-          "span": "11.20~11.24",
-          "days": 2,
+          "span": "11.25",
+          "days": 1,
           "hasPress": false,
           "sourceCount": 1,
-          "articleCount": 3,
+          "articleCount": 2,
           "articles": [
             {
-              "title": "제3군관구 소속 군은 베트남 문화의 날을 기념하기 위해 다양한 행사를 개최했습니다.",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFBLeENkcmhXeHBRN0lTdzdLNFBGZFcxNWZzQkxHTkJvbzZCYU83Wmo3ZjJtNVlONmxPX2JVZjlNMUpqMkU5NlhsZ0tjMHo1XzZVay04ZkJDd0pNY2phbjZ6b080ajJfWldjaTRJUmtMcVdEcm1DdDQwR1hXNDZ5UUlfQzNmemZVdTdLS0FNYjBEeHZmakJQTjRCTHozZw?oc=5",
+              "title": "사무총장과 회장은 국방부 및 기타 중앙 기관과 협력했습니다.",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZUxrdU9iOHo0NTVWaFliQWJqSFRvM1o5YnBaV3pIVVozTVJReE9UMlBkMGxHbTE2ZVZkQlc0WlJ0dW03al9tbjVEN1ZJVXYtVkxKV1l5Q3JNN1NaSllXN1pfaENYUi1WR0JEYk4yeHBzYm5nQ1JicDMxWWY5bnJUWUFHb2UyLVRtbF9TeWdWQ2t4dzMzRlpvOFpIREM5djhxdFFGUnpyQQ?oc=5",
               "source": "Vietnam.vn",
-              "publishedAt": "2026-11-24T12:46:16.000Z",
+              "publishedAt": "2026-11-25T14:11:45.000Z",
               "kind": "news"
             },
             {
-              "title": "수많은 관광객들이 베트남 문화의 날을 기념하기 위해 관광 명소를 방문했습니다.",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnpxbGVDek9TczVWOTdXTjZRSnM2THdLUGlCSWNjS0hCdFVSRE5PZ184Tmcxa0cwMWFOcG5YRXhfcG9ncUxRdkFtRDVfUFQ4SFVSejFJdEJWT3VKUlJvVEFSNktKa3FwUno1NnlRclhEaDFrWWgtbG1zelFidE9Dc2NkR0V1SWFKVXE0anR3bURqNFVkUEV6a1NMNVJvSms?oc=5",
+              "title": "토 람 사무총장 겸 회장은 국방부 및 중앙 기관과 협력하여 업무를 수행합니다.",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXpzUjlBQXVndFNNdmRiNHZ0Wkp4STQtTWZDZ0xBU3R4X2VqSVR3YkxHWWpDMm42dTlCRzVBQUtscHNyWUVRN29tTkhxSXVrNXBhRWs5Q0lhdWZvNWdoa0VPVE1sTVlnaTg4VHA3bFBtRWFJQWhVQXBkZTNXYXZyVG1JaHpzVjc4TkxTY2NPMmJXci16SHdXOS1YRXAteDFtYlhfY2pCUkE3TDIzQTVaZQ?oc=5",
               "source": "Vietnam.vn",
-              "publishedAt": "2026-11-24T09:24:59.000Z",
+              "publishedAt": "2026-11-25T09:18:22.000Z",
               "kind": "news"
-            },
+            }
+          ]
+        },
+        {
+          "title": "후티 반군 “사우디 공습으로 11명 사망”…사우디·튀르키예·파키스탄, 방위 회담 개최",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.28",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
             {
-              "title": "군사기술장교학교에서 베트남 교사의 날을 기념하는 행사를 개최했습니다.",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0w3SHgxbHVwQUR4d19xbmdEaWRWbDMtcGJQSUY3cGh4SkFzVkxRUzYzZk12ckQxRF9ibGUyUjZDeFVqZnlnVTFQUDdwZFVvWk5fVndVMy11WkREbVZJNXFNQWhHcF9Bd2JNWUVyaHJ6OWVweXBIb0JmSUszekQxUmEtN1Rma2Q0LUZ5dG9ONXl6N0cxajh1YlZnTlQ?oc=5",
+              "title": "후티 반군 “사우디 공습으로 11명 사망”…사우디·튀르키예·파키스탄, 방위 회담 개최",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGNkQlBNNy1BQUVNNG1tdWhOdzRpWXlTcFV0bi1rWjdlazU5dHBOZnE3UVdaakgwMWIzdXF4M0FfemxvZTM1Q2szdWV1bnhtNE5qUUlzTzlESXVkRnVYclpvZS12eEdoR2dxRUtB0gFwQVVfeXFMTnpDbE9seEYzTFJkSURKSmtucVJoZ0kwWTFablZfeGhjS0RRNUhjRFhYczhuSlNqWkJpZ3BlNV9ZVFFvV09EM1BaUkZyVUxSX0VwTHlkMk4tbmZRWHhEd2hFRG5CdHZvNE95NC0teG05cA?oc=5",
+              "source": "VOA 한국어 홈페이지",
+              "publishedAt": "2026-11-27T19:00:38.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "방산업계 뉴스, 11월 27일: 일본이 인도에서 미사일 시험 발사를 할 수도 있다.",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 1,
+          "articleCount": 1,
+          "articles": [
+            {
+              "title": "방산업계 뉴스, 11월 27일: 일본이 인도에서 미사일 시험 발사를 할 수도 있다.",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFZMckZEaVNfVXllajA1SFN4Tjh6c3pfd0JpVVNab21uYW5vY2ZkWDlfd0phUXJaOWtsOXB2OEtkNnZYRUpEWEUyTUNXTG54dnBENWE1LWxZZndxSC1rOFpqUmpmeFhxOHlNSlgzUFdkRUxVM2R1Z1JvM29ENll1Y1h0SjBPaDJoUmJQdFU2M2NmMjYtMlVZN1Nn?oc=5",
               "source": "Vietnam.vn",
-              "publishedAt": "2026-11-20T08:19:56.000Z",
+              "publishedAt": "2026-11-27T13:45:33.000Z",
               "kind": "news"
             }
           ]
@@ -611,50 +525,118 @@
       "keywords": [
         {
           "word": "협력",
-          "count": 17
+          "count": 13
         },
         {
           "word": "관세",
-          "count": 9
+          "count": 11
         },
         {
-          "word": "지원",
-          "count": 6
+          "word": "중앙정책전략위원장",
+          "count": 8
+        },
+        {
+          "word": "접견",
+          "count": 8
         },
         {
           "word": "무역협상",
+          "count": 7
+        },
+        {
+          "word": "마무리",
           "count": 6
         },
         {
-          "word": "라오스",
+          "word": "한성숙",
           "count": 6
         },
         {
-          "word": "시진핑",
-          "count": 5
-        },
-        {
-          "word": "국제",
-          "count": 5
-        },
-        {
-          "word": "CLMV",
+          "word": "경제",
           "count": 5
         }
       ],
       "items": [
         {
-          "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"",
+          "title": "한성숙 총리, 베트남 당 중앙정책전략위원장 접견",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "美 '35% 관세' 예고에…베트남 \"우려 조치 해소·무역협상 노력\"",
+              "title": "한성숙 국무총리, 베트남 중앙정책전략위원장 접견…경제·첨단산업 협력 강화",
+              "source": "여성종합뉴스"
+            },
+            {
+              "title": "한성숙 국무총리, 베트남 당 중앙정책전략위원장 접견",
               "source": "뉴시스"
             },
             {
-              "title": "베트남 ‘35% 관세 표적’에…“美우려 해소·무역협상 마무리 노력”",
-              "source": "헤럴드경제"
+              "title": "한성숙 국무총리, 응이 베트남 당 중앙정책전략위원장 접견",
+              "source": "서울Pn"
+            }
+          ],
+          "span": "11.27",
+          "days": 1,
+          "hasPress": false,
+          "sourceCount": 7,
+          "articleCount": 8,
+          "articles": [
+            {
+              "title": "한성숙 국무총리, 베트남 중앙정책전략위원장 접견…경제·첨단산업 협력 강화",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ldENCTjE4blpsY2QzY3ZOY3JXUDJNdm1qelViZUc0cEtkRUw3NllaZ0NYMVhrdERqRUxHMmJnSTRBMVhVVU1jSWh6TC0wZUkzUEhFSzRocWJkUQ?oc=5",
+              "source": "여성종합뉴스",
+              "publishedAt": "2026-11-27T11:40:06.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "한성숙 국무총리, 베트남 당 중앙정책전략위원장 접견",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16YmZLRjlmMTlLWUZrNW93V1Z6UHBTbU9iRGVoak5qdG9Pdk16YzlPbnJtVHd6aWx4UXE2R0hTWDFEOTJSWmk3a3NmcjNuNDZsTkRvZUR5cDRUd2NQLUZMak5TdC1TbmNsbTQtajIyRXJLbVNqTjRYUNIBeEFVX3lxTE16YmZLRjlmMTlLWUZrNW93V1Z6UHBTbU9iRGVoak5qdG9Pdk16YzlPbnJtVHd6aWx4UXE2R0hTWDFEOTJSWmk3a3NmcjNuNDZsTkRvZUR5cDRUd2NQLUZMak5TdC1TbmNsbTQtajIyRXJLbVNqTjRYUA?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-27T10:17:17.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "한성숙 국무총리, 응이 베트남 당 중앙정책전략위원장 접견",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56ejBiVm80OFF4MlhlTVREdk1idDM2cGJGbXdYR2lzalRCZEk2eHVFRXBObHZPUGNWSnRKYmFJa2YyZ0VUbnNIcDdsOVlXRU9aXzd5OHlDVWZtalUteWVxR1hR?oc=5",
+              "source": "서울Pn",
+              "publishedAt": "2026-11-27T10:06:34.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "한성숙 총리, 응우옌 타잉 응이 베트남 당 중앙정책전략위원장 접견",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UVVjV3JHVk9WdEN6UFo4NVNUWVhIdlk1dnR5WWtwY2NYQ0Rqb0pVZ1l1dzI0d05wNVFEckVfRk1DQnBuc21ZU0VTdWNNZU12dlVReThNZjhPVnloSjQ0ZnNaZ2FndXp3MjJCWQ?oc=5",
+              "source": "파이낸스투데이",
+              "publishedAt": "2026-11-27T09:54:24.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "응이 베트남 당 중앙정책전략위원장 접견하는 한성숙 총리",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GeWczZm1YamNLWE5tZVpSeTFiTjRIT0tZdkJKNURwUDl6LXFZcm5pV08yT1lpODdQQk1OYXNuSW91eG1sbG5sT0NOVm5kZWljYVRUY0d4bHhrZjDSAWBBVV95cUxOVW1NLVNta1RQVWZuR0stRS1FYjJWQzBEQUtPT2N3VmMycEJrYnIzSzlSQlZPV0dBTEo2dWRCZThKR2hxV0hmXzJVZHhJLUhBNkNhbE5Gb3FkOWFvdlA2Mmo?oc=5",
+              "source": "연합뉴스",
+              "publishedAt": "2026-11-27T09:16:53.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "한성숙 총리, 베트남 당 중앙정책전략위원장 접견",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vUVJGd3dTWVJpUFZBcHloU3F6SXBaNFhlc3dfblFyQlpNU1FQN3E3YVdvSXFvX0JyMUFESG0xV2xYV3Z3ZWh4WnhKNA?oc=5",
+              "source": "뉴스1",
+              "publishedAt": "2026-11-27T09:14:28.000Z",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "title": "35% 관세 표적 베트남 美우려 해소·무역협상 마무리 노력",
+          "summary": "",
+          "whyItMatters": "",
+          "headlines": [
+            {
+              "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"(종합)",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "美 '35% 관세' 예고에…베트남 \"우려 조치 해소·무역협상 노력\"",
+              "source": "뉴시스"
             }
           ],
           "span": "11.26",
@@ -663,6 +645,13 @@
           "sourceCount": 3,
           "articleCount": 4,
           "articles": [
+            {
+              "title": "35% 관세 표적 베트남 美우려 해소·무역협상 마무리 노력",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVHRkbnR5blhKMjU1d1JCVHotMk1CdmdkX25xUVhfY0ZUTVAwVWl6clZ1R3ROdTNJTWVYWmwwa19ZVy1Cc0dtTXk1d2REZ09ZV2VtNzN2TUlxd9IBWEFVX3lxTE9YWXdkX3g1LUFzSFItcV9GQi1zcUNGdW1wZnRTbXloaHFtOFd1YzRKdXdDY0pkMXZ2Rk9FczdQLW9yeWhwTGJZMHl2ODNjSWp6a2ZvNS1XLW0?oc=5",
+              "source": "아주경제",
+              "publishedAt": "2026-11-26T12:12:39.000Z",
+              "kind": "news"
+            },
             {
               "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"(종합)",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jcmFjZkNBZWU0LWQ3TjREbkQ0VUJEd1JhY2lVQ1J3VHpJandicEV4eVkwUU1fcWdha1BhNzhzSWpnWmdpckdTOFFSdGFOakdMN3FiTnlpbEprU2R2eUxXVtIBYEFVX3lxTE9jcmFjZkNBZWU0LWQ3TjREbkQ0VUJEd1JhY2lVQ1J3VHpJandicEV4eVkwUU1fcWdha1BhNzhzSWpnWmdpckdTOFFSdGFOakdMN3FiTnlpbEprU2R2eUxXVg?oc=5",
@@ -678,13 +667,6 @@
               "kind": "news"
             },
             {
-              "title": "베트남 ‘35% 관세 표적’에…“美우려 해소·무역협상 마무리 노력”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTaUxwbjBlMF80UElVNl9aeFVybnNPdENOb0ZxckxKQUE5YzlYT0E0UmVqd0F4MU53YTUweTltdFduWk12SnoxbFpZNTBlYTlJWDdJV2RR?oc=5",
-              "source": "헤럴드경제",
-              "publishedAt": "2026-11-26T05:42:36.000Z",
-              "kind": "news"
-            },
-            {
               "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMZGR0YlZFREhxVEVmODJpcXFDUzFUd3d4ZnQyZTRpLXNnT29XcGgzNUxfU3FmU3FjYnFDZlVZeU01WlczN3JYMWhwZmxoUXQ3dlYxS2NjNjh6UC1KU05JadIBYEFVX3lxTFBMZGR0YlZFREhxVEVmODJpcXFDUzFUd3d4ZnQyZTRpLXNnT29XcGgzNUxfU3FmU3FjYnFDZlVZeU01WlczN3JYMWhwZmxoUXQ3dlYxS2NjNjh6UC1KU05JaQ?oc=5",
               "source": "연합뉴스",
@@ -694,106 +676,67 @@
           ]
         },
         {
-          "title": "국회 대표단, 제47차 아세안의회연맹(AIPA) 총회 참석... 한-아세안 협력 강화",
+          "title": "파키스탄 펀자브주, 신성모독법 처벌 강화 결의안 채택",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "아세안의회연맹 제47차 총회, 국회 대표단 마닐라서 디지털·핵심광물 협력 제안",
-              "source": "창업일보"
+              "title": "파키스탄 펀자브주, 신성모독 처벌 강화 결의안 채택…기독교계 우려",
+              "source": "데일리굿뉴스"
             },
             {
-              "title": "국회, 아세안의회연맹 총회 참석…한-아세안 협력 강화",
-              "source": "아시아경제"
+              "title": "파키스탄 펀자브주 의회, 신성모독 처벌 강화 결의안 만장일치 통과 : 국제",
+              "source": "크리스천투데이"
             }
           ],
-          "span": "11.23",
-          "days": 1,
+          "span": "11.26~11.27",
+          "days": 2,
           "hasPress": false,
           "sourceCount": 3,
           "articleCount": 3,
           "articles": [
             {
-              "title": "아세안의회연맹 제47차 총회, 국회 대표단 마닐라서 디지털·핵심광물 협력 제안",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zRGhoYndXYUQ0THdJQ215WkNIX2pYWm01dVBwQkxrdWw1ME56MGtCcFdWQ2JJUndPRmh6Y2RGU2djMnBkRnh5dFVtOWQtWjdxZG81UjU1U1pmUEEwV3E3T2R0MXhnZy1y?oc=5",
-              "source": "창업일보",
-              "publishedAt": "2026-11-23T02:24:05.000Z",
+              "title": "파키스탄 펀자브주, 신성모독 처벌 강화 결의안 채택…기독교계 우려",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydmpaMzFlbi15QzNrWUUyV25mVnRsNFFXZVoyWUVjcHJER3pQZTk0UHhTbGNNeTdCbF9CTTJwVGtabjh4V3ZOYVRrc2pQaHN5bUl6SnFiaFJzQmZmVlg5bS1mc2tXVWZDZkRWZE8xMFbSAXBBVV95cUxNMnZqWjMxZW4teUMza1lFMlduZlZ0bDRRV2VaMllFY3ByREd6UGU5NFB4U2xjTXk3QmxfQk0ycFRrWm44eFd2TmFUa3NqUGhzeW1JekpxYmhSc0JmZlZYOW0tZnNrV1VmQ2ZEVmRPMTBW?oc=5",
+              "source": "데일리굿뉴스",
+              "publishedAt": "2026-11-26T20:55:54.000Z",
               "kind": "news"
             },
             {
-              "title": "국회 대표단, 제47차 아세안의회연맹(AIPA) 총회 참석... 한-아세안 협력 강화",
-              "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5XZDZTUEVpdXdiQmlGMHNSSnk3NTJiVk52OXlMeXR6M0pZTTZXc1RaNmQyMGl2VnJXN255aWNJdTlSS3c?oc=5",
-              "source": "인디포커스",
-              "publishedAt": "2026-11-23T02:04:00.000Z",
+              "title": "파키스탄 펀자브주 의회, 신성모독 처벌 강화 결의안 만장일치 통과 : 국제",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JVTBHUkNzYldsNkh4UzlJOEY1dDByRXVjaHM5d21DR2djNkxYX3hJclNSSktlQlYyV1hTRkdPM0tPd2tROWtQVEl3azVYSUZSREhUZzhGMA?oc=5",
+              "source": "크리스천투데이",
+              "publishedAt": "2026-11-26T07:01:27.000Z",
               "kind": "news"
             },
             {
-              "title": "국회, 아세안의회연맹 총회 참석…한-아세안 협력 강화",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWnhjUHAtNWRWcGgyVFl5N1BKTm9VcWhnaHVQd19KM2FpYllBYkthVHBrYlN6S3lPUWttWE9peFAxRFk1Zmc0Q3Q0OVFSSmtnUkhNU1ZGSXFiWW9hVVRFRzljeDlvOElKYjJoc0FyMXNkanNjbUJZcHpMbU9FQjdTRXZn?oc=5",
-              "source": "아시아경제",
-              "publishedAt": "2026-11-23T00:25:00.000Z",
+              "title": "파키스탄 펀자브주, 신성모독법 처벌 강화 결의안 채택",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oQ3VJblVXRThDQnRhNzhCZ0s3NWEwTHc3Z3J6Q2hYMlFPbUgzNF9aeWdtZHU5N0h4NWVNNkh2dXlmazA0QnhDV3NkV3JXQUVPRjhwbGN1MNIBXEFVX3lxTE1TNnAxellvdFFkbkFJaGhLMUQxSENuaHNoS3k2bWlKRUY2S0NPd1lOZzdJa1QySWl6N3d5dW9rWHFLajllVHR1NUpITUZ1SGUxU1JVSFRwc3VxY3dm?oc=5",
+              "source": "기독일보",
+              "publishedAt": "2026-11-26T06:32:01.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "구글, 친정부 유튜브 채널 대량 삭제에…인도네시아 반발",
+          "title": "국가철도공단, 95조 베트남 북남고속철도 설계 참여…5600억 규모",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "친정부 유튜브 채널 무더기 삭제에 인도네시아 발끈…구글에 소명 요구",
-              "source": "쿠키뉴스"
+              "title": "국가철도공단, 국내기업과 95조 ‘베트남 고속철’ 밑그림 그린다",
+              "source": "충청뉴스"
             },
             {
-              "title": "구글, 인도네시아 친정부 유튜브 채널 대량 삭제…당국 반발",
-              "source": "연합뉴스"
+              "title": "韓기업 참여한 컨소, 베트남 고속철도 설계용역 5600억 수주",
+              "source": "한국경제"
             }
           ],
-          "span": "11.21",
-          "days": 1,
+          "span": "11.22~11.26",
+          "days": 2,
           "hasPress": false,
           "sourceCount": 3,
           "articleCount": 3,
-          "articles": [
-            {
-              "title": "구글, 친정부 유튜브 채널 대량 삭제에…인도네시아 반발",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44cXlnZllVeEdhUjM1M191TXVXcUpGbXF5ejhKMUhWN2xpc2w5T3NFXzJzMlhVYVVwNC1mNkVnY0VMRzRQMmwyejNJVHJwR2laT1I3UjFfZzJCOVVXM3FmNQ?oc=5",
-              "source": "KBC광주방송",
-              "publishedAt": "2026-11-21T12:20:02.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "친정부 유튜브 채널 무더기 삭제에 인도네시아 발끈…구글에 소명 요구",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xaHE2UFpWVlY1TUhlQXpsTzZSRk95TUxONklYQlNmMFllaXV2TVZESWhmTHp6bnVfT2hvVEg0NVdNdXBfT01waGR4WlhsOVl1cWpwQWhwSXh1MWtYUE8ybnRhUQ?oc=5",
-              "source": "쿠키뉴스",
-              "publishedAt": "2026-11-21T10:59:32.000Z",
-              "kind": "news"
-            },
-            {
-              "title": "구글, 인도네시아 친정부 유튜브 채널 대량 삭제…당국 반발",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sZ0gxM2JmTnZHSzRVNlJQZ3VKWWVfemxscmY3Qlg5Njk3S3ZDZFU2NEJYaWtVc2J6RTRDaEF2dkdzZGF0Tk1obDNHYWtDS3lTRGg0TkhlTnkwSFU?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-21T09:37:05.000Z",
-              "kind": "news"
-            }
-          ]
-        },
-        {
-          "title": "국가철도공단, 국내기업과 95조 ‘베트남 고속철’ 밑그림 그린다",
-          "summary": "",
-          "whyItMatters": "",
-          "headlines": [
-            {
-              "title": "국가철도공단, 95조 베트남 북남고속철도 설계 참여…5600억 규모",
-              "source": "뉴시스"
-            }
-          ],
-          "span": "11.26",
-          "days": 1,
-          "hasPress": false,
-          "sourceCount": 2,
-          "articleCount": 2,
           "articles": [
             {
               "title": "국가철도공단, 국내기업과 95조 ‘베트남 고속철’ 밑그림 그린다",
@@ -804,73 +747,80 @@
             },
             {
               "title": "국가철도공단, 95조 베트남 북남고속철도 설계 참여…5600억 규모",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DVnRYaGJOUkJ3TzY0YTdNTkpBcWdGUVRtNGxKVUkxaVA2dU9VR2VMWHlGNHRiNElLVmtpRmVfY1R4cnMyYnBfWllaUnljWGc1M2syUWRaRmpQT19RWkctRdIBeEFVX3lxTE1KMHZZRUlhVkJwRWliWUhZQ1BVcmxlXzM3MFA0bk1TRGtMeGhlVGswTXZWLTBZRHJkZHZSOVF5UklWXzZ0RjZyOWpJQzhPcmZRY0FDMlBlX0FKUDhLU3poYV8wdXNpb01veTJGa0NqY2RZdW5GQ1BGNw?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KMHZZRUlhVkJwRWliWUhZQ1BVcmxlXzM3MFA0bk1TRGtMeGhlVGswTXZWLTBZRHJkZHZSOVF5UklWXzZ0RjZyOWpJQzhPcmZRY0FDMlBlX0FKUDhLU3poYV8wdXNpb01veTJGa0NqY2RZdW5GQ1BGN9IBeEFVX3lxTE1KMHZZRUlhVkJwRWliWUhZQ1BVcmxlXzM3MFA0bk1TRGtMeGhlVGswTXZWLTBZRHJkZHZSOVF5UklWXzZ0RjZyOWpJQzhPcmZRY0FDMlBlX0FKUDhLU3poYV8wdXNpb01veTJGa0NqY2RZdW5GQ1BGNw?oc=5",
               "source": "뉴시스",
               "publishedAt": "2026-11-26T00:31:21.000Z",
+              "kind": "news"
+            },
+            {
+              "title": "韓기업 참여한 컨소, 베트남 고속철도 설계용역 5600억 수주",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KTUtWWi1kQ2tMUGZEZGJvSU1RdGNqaVVaajBrS29FSVdOSHVoZHBQMTZ1VmhQTmUxQUM2eWZWOUVVQ3dMNmVEV1ZBYTBqRTRTbjZlS2k2aDh1Zw?oc=5",
+              "source": "한국경제",
+              "publishedAt": "2026-11-22T02:54:38.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "인도, 네팔 대홍수 복구에 2조원대 지원…中도 손길",
+          "title": "한·베트남, 첨단산업·원전·공급망 등 전략적 경제 협력 논의",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "인도, 네팔 대홍수 복구에 2조원대 지원…中도 \"재건 적극 지원\"",
-              "source": "연합뉴스"
+              "title": "산업장관, 베트남과 첨단산업 전략적 경제 협력 논의",
+              "source": "뉴시스"
             }
           ],
-          "span": "11.24",
+          "span": "11.27",
           "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "인도, 네팔 대홍수 복구에 2조원대 지원…中도 손길",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zdXVMc1huZlBhdjZ2eld0ZENPRkxoT2RudzJMODY2NE54WHlPZ05KREdOT2hDVFhRUjRSU2toOEZKVy1wanVkVE85MUpjSTk5SGdzelZGZVBvalBLTkwxanFWYTNvSjA?oc=5",
-              "source": "연합뉴스TV",
-              "publishedAt": "2026-11-24T01:51:00.000Z",
+              "title": "한·베트남, 첨단산업·원전·공급망 등 전략적 경제 협력 논의",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5SndIdUx3UnB0dFpiYlBiMUk4c2tDWWZPZ0RjbWFVWXpXMmFpWFlGc1E5NkNOZkR1anZNRDY2Y2lTeTRkb3RSYmFZaldISjhSM3ZvT040Z1ZYR3FiYWZ3bFhTX1liUkHSAWtBVV95cUxObS1xVC11aUFIaThmaVlJWVlobzM3Wk4wS2E2ejgxRkhXZ2FhaU1KN0x2Z3BlRFpZcm4wenJVR0xLNmU4aUgyU19veHFtMDN5NXpSZVMtQW9jQWRSSE5EcHBScUJfRWpGaWg5VQ?oc=5",
+              "source": "인사이트에너지뉴스",
+              "publishedAt": "2026-11-27T02:12:41.000Z",
               "kind": "news"
             },
             {
-              "title": "인도, 네팔 대홍수 복구에 2조원대 지원…中도 \"재건 적극 지원\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZXNhYXdmWXR4WUFxSGh0WjVXckhKd0JhSHRHVmlBeGtMaVluZTNvZTlZQ05BdGNOS2xEZXlZcVRmcGpleVdxWnA3dlkxMGZpdnBYMkF4NERScknSAWBBVV95cUxQZ3FkTXFDX01rdE9QS1N1a21MUFNGcVNLbk1tdXZ5bjFiRTlDencwUVk2dWNlcTZhOGgyZ2plNk56aUxNWUE2WGFZb2ZoT0RMcDlucVNQMWh1Qi1PdTEtWnc?oc=5",
-              "source": "연합뉴스",
-              "publishedAt": "2026-11-24T01:37:57.000Z",
+              "title": "산업장관, 베트남과 첨단산업 전략적 경제 협력 논의",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JYV9JN19DWjl3LUdWYkRoUTZaNEdSWWtLMWZiMjFJaThvQ2l0Mm1EUUFFUnptVTlTQWJjNDJUUC1sdjBtSW8zY25oQ0RtZlEzN3l1cWI0M3BzczRNdHlZRdIBeEFVX3lxTE0zQm04dndEdmk0THhXVW0wbnIwNEZTbFBiYlRIdmU3bWFHUUU0SUt5WXFJS1llSVhHMm51cHBRSmFFcUU3ckRHeHI0WDFOQWhyODBMNFVXYjV4eGxtTmlUOVhxNmpFSUpuUnczT3QtU0t2WmJSbi1tbA?oc=5",
+              "source": "뉴시스",
+              "publishedAt": "2026-11-27T01:45:00.000Z",
               "kind": "news"
             }
           ]
         },
         {
-          "title": "MSCI, 프라보워 대통령과 회담 후 인도네시아 등급 강등 대안 검토",
+          "title": "아이지, 베트남 TUMIKI와 대리점 계약… 동남아 교육장비 시장 진출",
           "summary": "",
           "whyItMatters": "",
           "headlines": [
             {
-              "title": "시진핑 주석, 프라보워 인도네시아 대통령과 회견",
-              "source": "인민망 한국어판"
+              "title": "아이지-베트남 TUMIKI, 독점 대리점 계약… 동남아 교육장비 시장 교두보 마련",
+              "source": "피앤피뉴스"
             }
           ],
-          "span": "11.20~11.23",
-          "days": 2,
+          "span": "11.27",
+          "days": 1,
           "hasPress": false,
           "sourceCount": 2,
           "articleCount": 2,
           "articles": [
             {
-              "title": "MSCI, 프라보워 대통령과 회담 후 인도네시아 등급 강등 대안 검토",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oLWRnTmJhajJZUHRQRE9fVXhQX0ZWSWV5bzNnMmZCVjZRRlVnZVlENWVoOW5qODM4SWRyUDNVdHZuN3pNNWluUzJHU3NIc2RwRVBOWkR2RnZvTjc0VU5JRVAtakQ5dE11Z2sxVFc5SmE?oc=5",
-              "source": "Investing.com 한국어",
-              "publishedAt": "2026-11-23T06:44:00.000Z",
+              "title": "아이지, 베트남 TUMIKI와 대리점 계약… 동남아 교육장비 시장 진출",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kUzVpVWtXd3ZBSjhlNlZiSnU1Q29rWEstbUxYR3FQd0lvWGgyTElXVHR2ZE1WYTVLMzBmbm5UZXhXSks3VmhVWkpPX1RFLXhkd2JQNEtLV0h0MWNkYjhZQUZJcmtlQ1dIelY0Nw?oc=5",
+              "source": "경상일보",
+              "publishedAt": "2026-11-27T01:10:33.000Z",
               "kind": "news"
             },
             {
-              "title": "시진핑 주석, 프라보워 인도네시아 대통령과 회견",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNjMxQ1VCWnhxSXZCSnFkeHdDdDF2Zzl5U1dPVFR2bElzcFU1VlZ0dENVNVBMcXZURkJyOUZpM3FlX0R3enJVb2RELXNzbEttWUhOLTB5OTJDQTBlT2I4dF8wVXdadjczMXc?oc=5",
-              "source": "인민망 한국어판",
-              "publishedAt": "2026-11-20T07:24:00.000Z",
+              "title": "아이지-베트남 TUMIKI, 독점 대리점 계약… 동남아 교육장비 시장 교두보 마련",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4ZzRkbkR1LWtXWUNjVWNzZEZfV2hEWnhvZDduZmxsX2ktS3o3eTRWMURwTDY0RmViNUVYaUxoaW1ubVU4YWtDdFZXMXJTeC1ITDh0VkZ4X3VBaEJXRkE?oc=5",
+              "source": "피앤피뉴스",
+              "publishedAt": "2026-11-27T01:06:54.000Z",
               "kind": "news"
             }
           ]

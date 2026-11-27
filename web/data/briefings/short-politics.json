@@ -4,196 +4,264 @@
   "category": "politics",
   "categoryLabel": "정치",
   "range": {
-    "from": "2026-11-21",
-    "to": "2026-11-27"
+    "from": "2026-11-22",
+    "to": "2026-11-28"
   },
-  "updatedAt": "2026-11-26T21:16:59.524Z",
+  "updatedAt": "2026-11-27T21:19:07.206Z",
   "ai": false,
-  "headline": "북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”",
-  "overview": "최근 1주 정치 분야 기사 336건(97개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”」(기사 5건·매체 5곳), 「‘조작기소 특검’ 후보에 검사 출신 이임성·판사 출신 이정훈 변호사 추천」(기사 4건·매체 4곳), 「임웅순 외교장관 후보자 “한미 동맹도, 한중 관계도 중요”」(기사 4건·매체 4곳)입니다. 자주 등장한 키워드는 조희대, 스위스, 대법원장, 외교사무소, 행안부입니다.",
+  "headline": "세계변호사협회도 조희대 탄핵 추진에 우려…\"위험한 선례\"",
+  "overview": "최근 1주 정치 분야 기사 310건(77개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「세계변호사협회도 조희대 탄핵 추진에 우려…\"위험한 선례\"」(기사 6건·매체 6곳), 「특검, '내란 선동' 혐의 황교안 징역 10년 구형」(기사 5건·매체 5곳), 「조작기소 특검 후보에 민주 이임성·혁신 이정훈 추천」(기사 5건·매체 5곳)입니다. 자주 등장한 키워드는 조희대, 민주당, 반대, 송환, 정부입니다.",
   "keyPoints": [],
   "keywords": [
     {
       "word": "조희대",
-      "count": 50
-    },
-    {
-      "word": "스위스",
-      "count": 22
-    },
-    {
-      "word": "대법원장",
-      "count": 21
-    },
-    {
-      "word": "외교사무소",
-      "count": 18
-    },
-    {
-      "word": "행안부",
-      "count": 15
-    },
-    {
-      "word": "외교장관",
-      "count": 14
+      "count": 48
     },
     {
       "word": "민주당",
-      "count": 13
-    },
-    {
-      "word": "홍익표",
-      "count": 12
-    },
-    {
-      "word": "후보자",
-      "count": 12
-    },
-    {
-      "word": "AI",
-      "count": 11
-    },
-    {
-      "word": "통과",
-      "count": 11
+      "count": 14
     },
     {
       "word": "반대",
+      "count": 14
+    },
+    {
+      "word": "송환",
+      "count": 13
+    },
+    {
+      "word": "정부",
+      "count": 11
+    },
+    {
+      "word": "조작기소",
       "count": 11
     },
     {
       "word": "대통령",
+      "count": 11
+    },
+    {
+      "word": "협력",
       "count": 10
     },
     {
-      "word": "연대",
+      "word": "후보",
       "count": 10
+    },
+    {
+      "word": "표류",
+      "count": 10
+    },
+    {
+      "word": "예산",
+      "count": 9
+    },
+    {
+      "word": "의결",
+      "count": 9
+    },
+    {
+      "word": "이임성",
+      "count": 9
+    },
+    {
+      "word": "후보자",
+      "count": 8
     }
   ],
   "rising": [
     {
-      "word": "스위스",
-      "change": 611
-    },
-    {
-      "word": "외교사무소",
+      "word": "송환",
       "change": null
     },
     {
-      "word": "연대",
+      "word": "조작기소",
       "change": null
     },
     {
-      "word": "재판",
+      "word": "후보",
       "change": null
     },
     {
-      "word": "평양",
+      "word": "표류",
       "change": null
     },
     {
-      "word": "폐쇄",
+      "word": "반대",
+      "change": 238
+    },
+    {
+      "word": "이임성",
       "change": null
     }
   ],
   "issues": [
     {
-      "title": "북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”",
+      "title": "세계변호사협회도 조희대 탄핵 추진에 우려…\"위험한 선례\"",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "스위스 “북한의 평양 외교사무소 폐쇄 결정 유감”",
-          "source": "VOA 한국어 홈페이지"
+          "title": "“조희대 탄핵은 위험한 선례” 세계변호사협회도 우려 표명",
+          "source": "중앙일보"
         },
         {
-          "title": "북, 평양 주재 스위스 외교사무소 전격 폐쇄",
+          "title": "조희대 탄핵 추진에 세계변호사협회도 우려…\"재검토 촉구\" - 머니투데이",
+          "source": "머니투데이"
+        },
+        {
+          "title": "세계변호사협회 “조희대 탄핵 재검토 촉구” 성명 발표",
+          "source": "동아일보"
+        }
+      ],
+      "span": "11.27",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 6,
+      "articleCount": 6,
+      "articles": [
+        {
+          "title": "세계변호사협회도 조희대 탄핵 추진에 우려…\"위험한 선례\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yWVZ1UElpamZ4ZmNZVnprSmtaVGtwRkRsazZEZmRadGoyOVBkdnNqVC1mMnh2Z1dtUXNHZWJXRW1fcVJhRTFxVEUtWThRLWlBYktLbA?oc=5",
+          "source": "JTBC",
+          "publishedAt": "2026-11-27T14:24:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“조희대 탄핵은 위험한 선례” 세계변호사협회도 우려 표명",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZVh6WmdteGpmSHFpUmNPM08ydlRJOXk5MWNkR0g5WEl6X1JmNjNkckRaYUlzemVqaTEyNjlUYWF0Tk9rREgxMVJZU095amMxWThqZTln?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-27T14:23:07.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "조희대 탄핵 추진에 세계변호사협회도 우려…\"재검토 촉구\" - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13WjY4c2dkS3IxbHVsQmpZOEctRklkN2MzemNtMGVrZWdaMGU0U2dyMGVTT2pNQkNCbFhrNnhfaHRuNUpOYm9felZVUkNMamQ3eDNoSmxhbzhlcmZkVGc3b1N4R1dSQkRTNXhn0gFwQVVfeXFMTnJuS2NjQVlRYVh0SHBodDl0Zm9ETW1zUHRmajk0ZG5JeGRZanEzU2dUQUNBeWRiU0RzNlZZQ29jQXM5RWxxWXFXSWtQdzJ3LU4zellLSWxWS2daMXdvVDREZm5DeDJqcEJacE9CeUlsVA?oc=5",
+          "source": "머니투데이",
+          "publishedAt": "2026-11-27T12:56:25.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "세계변호사협회 “조희대 탄핵 재검토 촉구” 성명 발표",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSmFnbE83MzlkNkxBT2cyQTB1cEVIVkVWR09GV3RGa2QzYUhGdFY0ekVwQ1VLa1czd0dPZDVHdEt6VmkyVk82TzhJal9DS0RvcWpXT3hEVzB4eTNGRXk3OVlIS05FejRNaXZtWjJ4dHBlcjVDQnfSAWZBVV95cUxOQVRVV3hTbGlmTDhaanpLUzNSQnExU203a3Zqb3RrYzBqSVlvXzRHcjNVbkZVU01GZVNZNFBtYWkyZWxNR25sVVFDTlFya3RoMl9qNTVQMS1ib21IQTg4S3hNSXRnOXc?oc=5",
+          "source": "동아일보",
+          "publishedAt": "2026-11-27T12:25:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "해외서도 ‘조희대 탄핵’ 우려... 국제변호사협회 연대 성명",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3UtOUlnM3lHNUpSS0JySm1mNzltaS1lRU5uY2pZcDBzMW9YWEF3VkJrLU9BVE1LVEc5VVZDLWVEM0JscU45MWt4M0xDUGY5ZTJzeEF3Zm1NQTdpak9MNks3TkNTSG0tOWlUcVEzRUhBNWJxc3EzUnptMnoxN0lUN1JsdGFPaFE?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-27T11:40:16.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "세계변호사협회도 '조희대 탄핵' 우려…\"중대 결과 초래할 수도\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZdVFmWTlkUnpJN1BCQVc2c1RzWFZpSFZHYU1fRDI2dXE3NVVOUHNCSDR4aHFTLXdlUllQd2hqeDFNbWxoLUp5cVdNeElEVVlORC0yS3FIR1p1WlI3UUNGUtIBeEFVX3lxTE1JOW05Uk0zMXNLVFhMemVWdmg4S3VJYkZQeEtaZ1BEWGlFSHNSS2JKUldOSkN3M1BJMG1ZTjJZQWFsZkNmODF1X3NYTW15VFl2dDB0WTR2VWo5N0sxSUVPMVozTWtDVmdMSmJXNXRQU1l3NWtJUDVaWQ?oc=5",
+          "source": "뉴시스",
+          "publishedAt": "2026-11-27T10:56:53.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "특검, '내란 선동' 혐의 황교안 징역 10년 구형",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "특검, “윤석열 방해하는 한동훈 체포하라”던 황교안 ‘SNS 내란선동 혐의’로 징역 10년 구형",
+          "source": "주간경향"
+        },
+        {
+          "title": "내란특검, 내란선동혐의 황교안에게 징역 10년 구형",
           "source": "경향신문"
         },
         {
-          "title": "북한, 평양 주재 스위스 외교사무소 개설 한달 만에 폐쇄···도대체 무슨 일이",
-          "source": "주간경향"
+          "title": "속보 특검, '내란 선동 혐의' 황교안 징역 10년 구형",
+          "source": "YTN"
         }
       ],
-      "span": "11.25~11.26",
+      "span": "11.27",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 5,
+      "articleCount": 5,
+      "articles": [
+        {
+          "title": "특검, “윤석열 방해하는 한동훈 체포하라”던 황교안 ‘SNS 내란선동 혐의’로 징역 10년 구형",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tVXdoaFlQQ0JsLU90d2phWVFaWWVpdHB1cWVHU0hlaTRHYS1QVVV5MExfNWcwMlpHRWdPbUNaVThRdFhxUWhBeGVvaGEtaTZvOUxHc1YweUdRcnRqd3c?oc=5",
+          "source": "주간경향",
+          "publishedAt": "2026-11-27T11:52:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "특검, '내란 선동' 혐의 황교안 징역 10년 구형",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHb2VXRFlDaDJQOGhvVmJFRUlBcFEtVXVDeGpkRXBfcUh4WHJGbk42MzQ0RUpxbXVQRW90MzVrNzZNQUlYbVRGXzc2czdHYnNRSW94bFlqcF91ZTVVdkNpZW81bWZId1FjbVk1VXY0UHN4QUltc0JN0gF3QVVfeXFMTzhzXzdUbDNRY2hwc0FpMm8tb0YtXzBTZmZMQ3Z3bmRxUXFvNHpZTmFmdTVqUkZia2xmNWdHVGQ2NG9Kdy1EOFRoSzVTb0lNVURJeHFGdXhSR09aWnpYcW1hdURxQ0FaR29NVkVKamwxc3psM1FhWGc?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-27T08:47:56.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "내란특검, 내란선동혐의 황교안에게 징역 10년 구형",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CN1FhVTBjSGFrVGFrYUZsX3F3ZUY4eXNvU0U2Nm5LUGVfUEZOTW9EUFNCeUJEZEVBM0JlbzNLSlJTZEVzU3phQVFBdkN6OG1MTDhFaUphX0luUdIBX0FVX3lxTE1ZN053U0lFTUZxOENkUkxDSkNEX0xJNDAwVnV5d0JXaUtFd0IzbVlZNzZ1SkMxamttdGpVTFl4YXF3YkJ4WlpkeUlOeWNGdW5VeUU5VGxXQ0VVYWhsMTJV?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-27T08:39:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "속보 특검, '내란 선동 혐의' 황교안 징역 10년 구형",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wUEZpMjVEV0oyQTF3OFdBcEl1TUNIQVY4YWJtRzA1Mm5QSVBDczRQRXk2aFVrVnM3T2ZIQlBucUlqc0ZndV9hUUVKMkNZTTdCUFI3cVNHMzlRcE5PNVE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-27T07:27:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "특검, ‘SNS 내란선동 혐의’ 황교안 징역 10년 구형",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YZ2xoMlpBdkVwS1lqeko1X1ZYZktmZnpjNWxMOC10bVFFY0tuYWdMMTVBbXVUVEpJSE5MR2RyUzBxMDZoM3BqTEtTcGl1bnVvZ21uU3NkdWRQSXc?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T07:09:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "조작기소 특검 후보에 민주 이임성·혁신 이정훈 추천",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "조작기소 특검 후보 이임성·이정훈…법조인 고사 ‘구인난’",
+          "source": "한겨레"
+        },
+        {
+          "title": "조작기소 특검 후보 민주당, 이임성 추천",
+          "source": "조선일보"
+        },
+        {
+          "title": "조작기소특검 후보에···민주당 ‘검사 출신’ 이임성, 혁신당 ‘판사 출신’ 이정훈 추천",
+          "source": "경향신문"
+        }
+      ],
+      "span": "11.26~11.27",
       "days": 2,
       "hasPress": false,
       "sourceCount": 5,
       "articleCount": 5,
       "articles": [
         {
-          "title": "북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfR1JNZ1BSbzl2bW54TGpSdHFKbDM0QkR6ZjM5elU3dVpKUXk2ZXp1X08tdV9iT0FzMXYwZ1ZQVFRhMTByUXoxRU1LajVFd0x4MGxLWUhpVEJreUx2SE4xTXZwMzNVdw?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T12:14:04.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "스위스 “북한의 평양 외교사무소 폐쇄 결정 유감”",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sNENxaXo0SzVYdEktU1M2aVVsS05RUnJISHBERlFmZTBfTTdwME05cVcwX0RDa2pyRDF0TWROR1g0cFM1U0hRTVcyREVLRlcw0gFTQVVfeXFMUDA0bUVZRmNacjFLT210Z0xOU3NxYUhBYWdoOURqOGhaNWdmcVlkRUlFVmpUNjNRZVd1LThJV0xpVlBEb0wwbndTbUcxaE11LURwaTA?oc=5",
-          "source": "VOA 한국어 홈페이지",
-          "publishedAt": "2026-11-25T16:29:20.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "북, 평양 주재 스위스 외교사무소 전격 폐쇄",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9meXphemhYVHFjOUk0M19WQWJEMDNSdTZjc2hUYlZnM0xUT1kxOFZGMlN4dldTcUZXNy1URTBMcjJDU3M1OTF6TXh4MWdNRnZvQnlkNDBvWGdKUdIBX0FVX3lxTFBoaDFZdkF5VFI0a3VKQXdPcWlOWmhkZ0RBU0w3dFFuUHFmb3M0SzdQQjVJemNKdkpkUVdrVFhTemxSeGt3OEpVczJGZDg5cU5wUVo3UDNnSkNiZ1p3RVNR?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-25T11:59:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "북한, 평양 주재 스위스 외교사무소 개설 한달 만에 폐쇄···도대체 무슨 일이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fbUpKaG94Ul9hSjB3dXE5ZTRsWE5YRkh3ZHBsMmw3U295bE9GdFpQOFRWU2xZOGVpRi1FSjVwNG1heXlPWkNDQWRBSVJEWVdCY1M4cGVzOTlDUVVUdWc?oc=5",
-          "source": "주간경향",
-          "publishedAt": "2026-11-25T06:21:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "북, 스위스 평양 주재 외교사무소 폐쇄…대북제재 철회 않자 ‘맞불’",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TnJubTU1aGM1QWFWc1VvTE0wQTREUlJxZDg0MHc5anpkbFRqdzh1d1ByMV9EWTk3cGdsTHNhRE1WZXBxRUdqYlc4SG8zR0RqUWhKbXNyRktkUEx0Sy1heGNvbUc0S3VGT2xVcTBjUjZaMGN6?oc=5",
+          "title": "조작기소 특검 후보 이임성·이정훈…법조인 고사 ‘구인난’",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1M3dBX3AyNmVhdzR0X0NuWmFpSzhuZXhlMnRPS2dmV1BCNlR1WWtUVUhuV0Z2U04wSGdpdmRUazM2dUFMRGlxUVFudmdjNnVucXg2TmYxY2N2bWRvV3E2VFR6V25fQ1l0Y2JJcFR1ZGNNcE8t?oc=5",
           "source": "한겨레",
-          "publishedAt": "2026-11-25T06:15:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "‘조작기소 특검’ 후보에 검사 출신 이임성·판사 출신 이정훈 변호사 추천",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "與추천 ‘조작 기소’ 특검 후보에 검찰 출신 이임성 변호사",
-          "source": "조선일보"
-        },
-        {
-          "title": "조작기소특검 후보에···민주당 ‘검사 출신’ 이임성, 혁신당 ‘판사 출신’ 이정훈 추천",
-          "source": "경향신문"
-        },
-        {
-          "title": "민주당, ‘조작 기소 특검’ 후보로 이임성 변호사 추천…국민의힘은 추천 거부",
-          "source": "KBS 뉴스"
-        }
-      ],
-      "span": "11.26",
-      "days": 1,
-      "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 4,
-      "articles": [
-        {
-          "title": "‘조작기소 특검’ 후보에 검사 출신 이임성·판사 출신 이정훈 변호사 추천",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3SV9Sc0hLbjIyTVRvdTRuV2U3WXh1SE0xbTk4ZGpDQ0E4QUducy04R1dQTWF3ZkNRZUpRZEJzZ2p4cVpWcTZCSUpicENEMGhUWHlCSmlVa1N6RGw4a3FQajdoNkxNV1drMW51MGpR0gFyQVVfeXFMT0o3Uklvd1N6SFE2LXRQVDJnajBCdFNmQ1dsN1Y5dWRXbkR6bzNNRldjOGNKVXVvbXlnM0o2NUMtTzJKSnVpajMtcjA2NFU3SkxTeXNKdnNuY0pRMndCZXBWTmtxNDJaYUdyWGhpU0ZQS1VR?oc=5",
-          "source": "법률신문",
-          "publishedAt": "2026-11-26T08:12:44.000Z",
+          "publishedAt": "2026-11-26T16:05:00.000Z",
           "kind": "news"
         },
         {
-          "title": "與추천 ‘조작 기소’ 특검 후보에 검찰 출신 이임성 변호사",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamI3b1JtcnJ4aE5zei01Y01Lemp0dFNOeHpTdkZabGgycnhvNXBWcnpsX3huZ0dQaG4wZ2wwVWI3eWtHeFRJUjMxazE0UXpGWnRiLWxGcEg0MWFXZHlxNDlXZHVSb3ltZW5jcHBoejdicVdWcjlsMTJCVEZWS0treTkxUkpUZkI0UWpmT0hlNDA?oc=5",
+          "title": "조작기소 특검 후보 민주당, 이임성 추천",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcnU3TnZ5UnpER0FMZG1LYUlrOXFpb3k0M3dfRnh4T3FvMGJCNjJ3NERMLXhfQ1VsN0lpeW5pUk9aX1B4X0lwYmZ2VGgzUFljT2lfN1pmcW9McVd0TWZYUms1d1IwOTBwLWdMaklPc0JqTldSbzVYc2hFM3ZnMnoxWmRlTm40Zw?oc=5",
           "source": "조선일보",
-          "publishedAt": "2026-11-26T07:06:24.000Z",
+          "publishedAt": "2026-11-26T15:54:00.000Z",
           "kind": "news"
         },
         {
@@ -204,8 +272,15 @@
           "kind": "news"
         },
         {
+          "title": "조작기소 특검 후보에 민주 이임성·혁신 이정훈 추천",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sLUZ2UExTNnZnRFJmeEd2a2hlOFR0VlFFOUluQUVnTmVuNjBTT21UYjN4azdGaDRjTjhLZGVqa2pPWUdVanVJaDMtTWszbDYwclRLOEZTcUgwU1V5MXVwNWZlbmtRejNCTFg2Nmo0QV8zbnpwbWZhM9IBeEFVX3lxTE1qMDRPTVBHZXB2NkxhRGxta0lLeFZZTVdqUHZMT05LeFpVTm1fcGU4TWw3Vy1La0JTdm1NTHQ0OXRvMFR4MDdZZFd5ZzItc2tPTWZnRG1mTTJzZWhReXBUZkY5QjdNRE83RXhES19pcm9ITVUzaFR5VA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T05:43:53.000Z",
+          "kind": "news"
+        },
+        {
           "title": "민주당, ‘조작 기소 특검’ 후보로 이임성 변호사 추천…국민의힘은 추천 거부",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfYmEzRS1nWFJwN0U2MERHT1piRHROVTVxTTBQMF9Wa1gwajNjUGxYVmMyeTIwaklmOHppQk9VNDJkaXgyRlBIY2s0cmFDLW9OdUVVRi1JT3BhZnlQVHA4djFwcC0tRjY0cGQ0OWZB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOdFM4V2dYWE45ZjlHOUJKeHVYcHAxY1JLYTFVejRVOXRPVEFsVXZPTkNrTzJXNlZrbEN1Wm1FNGRSUldUUU1EOHpZclNtLXk3bTIwNjh1eVNwVEU?oc=5",
           "source": "KBS 뉴스",
           "publishedAt": "2026-11-26T05:42:00.000Z",
           "kind": "news"
@@ -213,274 +288,170 @@
       ]
     },
     {
-      "title": "임웅순 외교장관 후보자 “한미 동맹도, 한중 관계도 중요”",
+      "title": "선관위 특검, '공추비 부당지급' 의혹 노태악 압수수색",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "임웅순 외교장관 후보자 “한미동맹 취약하지 않아…한미도 한중도 중요”",
-          "source": "중앙일보"
-        },
-        {
-          "title": "외교장관 후보자 \"한미 동맹도 한중 관계도 중요\"",
-          "source": "조선일보"
-        },
-        {
-          "title": "임웅순 외교장관 후보자 “한·미 동맹 취약하지 않아…한·중 관계도 중요”",
-          "source": "한겨레"
-        }
-      ],
-      "span": "11.26",
-      "days": 1,
-      "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 4,
-      "articles": [
-        {
-          "title": "임웅순 외교장관 후보자 “한미동맹 취약하지 않아…한미도 한중도 중요”",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IUlphRFZiNjVBbXZlbDZWZ1M1Q250MnA2YkhhZ0poaHlicFFoWHZTX0ltb2ttYXU5clRpOEdVZXh4T0lfRkNKQU1lNWZGSTltbnhUU2lR?oc=5",
-          "source": "중앙일보",
-          "publishedAt": "2026-11-26T06:51:27.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "외교장관 후보자 \"한미 동맹도 한중 관계도 중요\"",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGl4VHdQN2xRelRfX2xsb3dydDlySHNXSm1ibi1xRjVXdjk3T2t3QnFNVmVxUUo2WFJCMERSajNkRHQzV25pd2N4YzNKS2w1ejJPZnM4VUZlYUpZOVo4RTlFQmpWYnV2MFFBZXp4SHBmTjdxTWxrWkVWWHB1Qlg2ZG55UWEyX0pZelh3VDduUTl4UQ?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-26T06:21:51.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "임웅순 외교장관 후보자 “한·미 동맹 취약하지 않아…한·중 관계도 중요”",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuOTBEcExTcGoySHFFSFdYRGxWMHZHMUVkSThIc3pxekU0VklScVhJdUNlNUZaU05DbVozMkt2NEoxVzlSbFZjYlg5dkNVUEdpRTZJY0M3WlIyaFZ2bjhvWWY1NjNBSjJjLWNWdkpfU1pzczFY?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-26T05:58:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "임웅순 외교장관 후보자 “한미 동맹도, 한중 관계도 중요”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aQ0VUMnFJNy1hMlgzRjUwZXFlSHBQUmFUZmh6RU9sYVl0bjFwQ1hwNWpZZUE2eHYwYUljVWRmZldmdVdQT2ZnMUR0aElqUDVJdGt4NFhleXBDYzA?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T05:32:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "정성호 “조희대 탄핵 후과 여당이 져야···충분히 설득하고 명분 쌓아야”",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "정성호 \"조희대 탄핵 시 후과는 여당이 책임져야\" 우려",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "정성호 \"조희대 탄핵시 후과…국민 설득하고 명분 더 쌓아야\"",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "정성호 \"조희대 탄핵, 후과에 대한 책임은 여당이 져야\"",
-          "source": "조선일보"
-        }
-      ],
-      "span": "11.26",
-      "days": 1,
-      "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 4,
-      "articles": [
-        {
-          "title": "정성호 \"조희대 탄핵 시 후과는 여당이 책임져야\" 우려",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKZTZQRG9Vc0t3ckpzZnRqemVyZTJyVzZyX3N1Q08xckxITmh2MDkwenExVGo5UjR3RkZSS2wtSnVsaElUN0ZxVEJJZlpOdUdxNDdINE8tMVR0N0JRX3JXUDY0Rms0MU9rcDBSUUVadkVmSmk5cEpsdNIBeEFVX3lxTFBtcHhLLW1nZU1ldUsxYUFvSXRrSFQ1c29nRVpKRDRmTmtsb0ZlaVlIblVselVGY0lmbVdNZ0gzdjZmX2xOWktPUTNWc3cxa3FyWXBaREdmdlRIb1hCN1NaN0tpRkVnMF9VSDdHYVlGQXZ6ekRseWZWVQ?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T02:15:02.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "정성호 \"조희대 탄핵시 후과…국민 설득하고 명분 더 쌓아야\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhd0ZHQm9KbjA5RTN2RXd3WVNsWUppQ3htdV8wOVZhX0JvaDlVSGdYLXpEZHVKSkFRVFF4ckQtUlBsRzRyMzF4NDJOMmxtWXhYcy16SkxOYXN3aHPSAWBBVV95cUxPa0VaaVVfQXptWEpyQUt5My1NNGpCdEg3OW1WLTVVbmRrRlJqZUkyUkJsbGxTZGY4ZDNLVFNPdDVGS0RvejdYeWtCcklRVzhXcld4N2poQk5pTHdUSjBZVGY?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-26T01:29:07.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "정성호 \"조희대 탄핵, 후과에 대한 책임은 여당이 져야\"",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRW9RTUJPVnh2OEx1OUlNT0d1MXZkVlpLcFVIR1NWQ2x2bWZBT3VHRzd1clZ1MzE0dVdhbUdpTWVnaW8tX19SaEtvb3RMY3hSRG9KY2pWME1XM3k3dW1rSXJhWFJaZ0FLaUJ1XzdjOVRNYjhjSzVKMWlRR2J1QVJxcTd3SnRpanBlRVkwaE9TV3o?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-26T01:03:54.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "정성호 “조희대 탄핵 후과 여당이 져야···충분히 설득하고 명분 쌓아야”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0bHNyaWxTcW50SGJ1M21XOGZCX1dsd3FzQlIzQS14MjZZYzFxeGdxZ1JQSGViOHRrOW80MHMxcnNaOEFuNGVEYlFvZ3FmeGlUQmZPZ09UNV9zUdIBX0FVX3lxTE1oVU1RaE9EY2NXMklHSzFiTHBrM2VyOWxGbURIMlpoNW9ldW5jVFg1S0VOX3oyRTBzMVRmRWQybTIwcEg3bXNBZnhqbEJHUWo4WWlzZkprMU1FZ3owLXZB?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-25T23:32:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "창원지법 “재판을 이유로 법관 탄핵… 헌법 가치 훼손”",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "“재판 이유로 탄핵, 헌법 가치 훼손”…판사들 나서나",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "조희대 탄핵 추진에 창원지법 판사들…\"재판 이유로 탄핵 땐 헌법적 가치 훼손\"",
-          "source": "JTBC"
-        },
-        {
-          "title": "창원지법 판사회의 \"재판 이유로 법관 탄핵 시도 깊은 우려\"",
-          "source": "MBC 뉴스"
-        }
-      ],
-      "span": "11.25~11.26",
-      "days": 2,
-      "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 4,
-      "articles": [
-        {
-          "title": "“재판 이유로 탄핵, 헌법 가치 훼손”…판사들 나서나",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tMk5NOWVJLTA3MmRWZ2RUWXo3R1ZmaU9UNlFHcEUtVGtWUVkwc0szSmNyMS1CLWlKZzVRMXJZYnJ1c2MtMlRnSnlKVDIwTUIyal9sNk02aXp3akk?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-25T21:18:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "창원지법 “재판을 이유로 법관 탄핵… 헌법 가치 훼손”",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOVlpNmtoNkxkdEMySkV4bjREakhkNlZJUFFZNExGWndPTWowUHBhVkp4WGVRWjhRU0RZUkc1R0RCVTVQT1FZcDE2QmM2amlQeFpvMHZLckQ3ck51YVhkUXlOUlZ6OGZOM0FvcGVB0gFyQVVfeXFMTUdFTWwySFQ5ZEtxRnVoSmNaN3U1eUlzcjBkMFFyZzNWRW45T3pncXdhSnVJYW1iaEc3WEF6XzhvOTNzN2xUdUZxTU5tOGltUmhsRWFpdGlqcC1pb3hWTjE2bXMtdXoyc2U2UHg4RnczQzlR?oc=5",
-          "source": "법률신문",
-          "publishedAt": "2026-11-25T09:19:37.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "조희대 탄핵 추진에 창원지법 판사들…\"재판 이유로 탄핵 땐 헌법적 가치 훼손\"",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5seWxyZE9PUmNVNVROZDBWdXAzNmo1bHBCUW5XZmg3UF83OW1Sa0VZTkdJdTlqcUNTYzlJUXZXb3QwMWZIcEh1TlMyZGpvREdhR1hzcg?oc=5",
-          "source": "JTBC",
-          "publishedAt": "2026-11-25T08:37:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "창원지법 판사회의 \"재판 이유로 법관 탄핵 시도 깊은 우려\"",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpS3VxcVYxeG1BS29mZ2JuQWlwcnFZYnRTb3VXNGRnOHZ3UWxXakZmQ3A5d2thcGhiR0Y2TTJQUjFpelBjYS1VdDY2NDlXYy12MC1jb3lHTHAwakZJSmdnSEZvMTFvaWhvYmlPQmpyU3dyM2dnYlFB0gF3QVVfeXFMTWdzZnpsWWZCRVNzT1QwNlpfdEFlUUd6WVROQzFUTFM2Sl8ybFJ0c0hHYk9IWTRha2EzdFI3QkpxYXd4cmdwOUI0bm05WkJRdDd6Qmc5bVRFcjZKbklDTzY5NVZVUnpHcjBjZ2NCUFhjMy0zV0NtOU0?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-25T08:16:58.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
-          "source": "한겨레"
-        },
-        {
-          "title": "전국법관대표회의 의장 \"대법원장 탄핵 도 넘어‥침묵으로 방관 안 돼\"",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "법관회의 의장 “조희대 탄핵 도 넘어…의결 땐 우리도 행동해야”",
-          "source": "중앙일보"
-        }
-      ],
-      "span": "11.23",
-      "days": 1,
-      "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 4,
-      "articles": [
-        {
-          "title": "전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sX3NFc1dKWGl0b3B2dGV3RHVUYkI3YWsyclZ3Y1hDRDg2b3pwZXcwWl9TbzYwSU43RVpJSWMtclZqRHlHNXBSZHQycktpeklzV0tQLXpYN0lkTDZadTFTSktaX2J0aW42RUwyV0oxbHdQQQ?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-23T06:13:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xWGVGU3U0RXFZV0h4a0V5bFI3WnNES1RmZmh2cHB2VGZtLWh0WWdyQkQ2VFlJTjJ2NXM2T2l6U0ZWYkstQnBFOUdrTlhXTmpIaWpVc1QxWEhBZ9IBX0FVX3lxTE15LTZhTkZGTGhhcVNqdG5JaU81TmZ5bkxpTVJPb05HVm94bkhoVGtYQ2o2cGJfQmROR19SeEFhc2htSG51QThqR3o2VFlZR1NGN0dtN3YwNVFrbU9Rb2lN?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-23T01:08:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "전국법관대표회의 의장 \"대법원장 탄핵 도 넘어‥침묵으로 방관 안 돼\"",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zaDhtdkxCN0FCRUNQV04yLTFQNVBmTENYbFVldlFHSGpXdlBPRmRxWG9pS1hRNEgycVZqYjlLUlo4Q015SUowdnY4cEowdkNiOGNNeVZvRHdud19TOHR6dUNWTjJCSUd1ajlvS3Q0MXBMQWtZdkxZ0gF3QVVfeXFMTmZFWnJkeTI5X2IxUG1JTWtyeTNwVXh2ZU1xejFMRlpzM3pVblVtOFp5OVMyc3Ewd1FqVHBnVVA1SzFFWUFRdGFUaVBGV3lSSW9ESzVLY2FLZ21aN2szeHY0ckdHLUc0ZVpqZVpBZzFfdFhmc0Z4aEE?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-23T00:23:28.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "법관회의 의장 “조희대 탄핵 도 넘어…의결 땐 우리도 행동해야”",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWlFQMm9wdk5ybHBfZGljV1BqRzZyc00zaktsNWV0eHNIN3BiUk5VbVNBanZ3X3pCM05GXzRwa3ctRDg3bjAxdlVoWDc1YkFaOU9rYzZn?oc=5",
-          "source": "중앙일보",
-          "publishedAt": "2026-11-22T23:01:02.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "북, 김여정 담화 하루 만에 스위스 외교사무소 전격 폐쇄",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "北, 스위스 외교사무소 폐쇄…김여정 담화 하루 만",
+          "title": "선관위 특검, ’공추비 의혹’ 노태악 압수수색",
           "source": "연합뉴스TV"
+        },
+        {
+          "title": "선관위특검, 노태악 추가 압수수색‥공추비 부당 지급 의혹",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "선관위 특검, ‘공추비 부당 지급 의혹’ 노태악 휴대전화 압수수색",
+          "source": "경향신문"
         }
       ],
-      "span": "11.25~11.26",
-      "days": 2,
+      "span": "11.27",
+      "days": 1,
       "hasPress": false,
-      "sourceCount": 3,
+      "sourceCount": 4,
       "articleCount": 5,
       "articles": [
         {
-          "title": "북, 김여정 담화 하루 만에 스위스 외교사무소 전격 폐쇄",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15YUlaMVh4WUkwTlROcHBpOC1adHgwblRLZG1Ibnd0V19nM2hpVGI2a1FqZ1BwcWZidUgzbndEMlpzbkduUno4UlYyZ29QYmVZUzRVRU04ZEJ1Sm92VFRtQXZlQmVNUHlpMF80MWZqNDY2bldY0gF0QVVfeXFMTnFSZm5NSXVLSGtSVGxtVFpmdWNVN1lWQzJxSkFWdXZ4d3kzcmQtRDBWaUEwQnBveDNyc3lSYk51d3p5ZnozMm43MzZkZ3Y0eEtsYnA5b0tHenBudnlXeGVVNEF0Zm50cFBiRHctUXpIOUF1SWU?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-25T16:14:00.000Z",
+          "title": "선관위 특검, '공추비 부당지급' 의혹 노태악 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ydkZFZ0puVUJVQUthMTBxVXdBdTBtSjVyRHhmOGR4b0dOY1FZZ29iQ3MydHI1RWljV29sWnozMFdOZEFqTHdzb3FNODRMQ0dHM1M3V1ZJN2RhdDRuY0NuZnlDZGNhTHFKOGRPX0530gFyQVVfeXFMTUFVQnJleWRlVWVzSmN4WDZPVXBSb1EydVNkbHdCSGJqS2hUeHdzUnM3di1HWkVKLURmX0ttNWZlOFY2OWZ4LW9zaWx1Y1d2UEhRZ0ZLMzNqMUQwQ1h2ejZNcnRoNnE5MHB0T3I4RVprNkt3?oc=5",
+          "source": "법률신문",
+          "publishedAt": "2026-11-27T12:38:52.000Z",
           "kind": "news"
         },
         {
-          "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93eGxkbHVISGY2aHVwb2U4ZU5ZUkktMDNDMHJWU0tWV1RCeVZRMV9KcnJVRV9nU1ZTdVozeXfSAWBBVV95cUxPR1FKOEVRTEVRSzdKd0N4Rmc1WnpreW9DWXRnQXA4YUtWU3BPaFZyR0xfS1VsZ2NuQ1lQdVd2ZkF3UnhqZmtwWWFyM1NucDdOS0k1TFJpRk95R0pFd1hYOUo?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T15:49:51.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "北, 스위스 외교사무소 폐쇄…김여정 담화 하루 만",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uNDQzUkQyZXU0TFZHSnFRcGtOQzFLdTZGUzJHRm1ScTNnaTBWbDVacHNKMTFHcmJ4ZHVfMmc1NlZyNEJ2WHRkVnlmSEZ3Z01oa1lsT0FnQ2ZaODJoelpfM3NQQU90ZVU?oc=5",
+          "title": "선관위 특검, ’공추비 의혹’ 노태악 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrSHNBUlhmWjI4SWtybnB0LVFCd2RKYi1EUXJZWVo0VGU1bGJnX3NYLWYxcDhiRFAzdnljNDlDTjl5OWVtSTRPOURabGpPZVBacFZnZVpwMjZrZ2ktbFVGWmNFWkJHeXM?oc=5",
           "source": "연합뉴스TV",
-          "publishedAt": "2026-11-25T15:07:00.000Z",
+          "publishedAt": "2026-11-27T12:00:00.000Z",
           "kind": "news"
         },
         {
-          "title": "북한, 김여정 담화 하루만에 평양주재 스위스 외교사무소 전격폐쇄",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14dVBCbEQxQ016c0RhcDhQRWstOGJ4QlpvaHZ3UUdrZmtKTEFtSFlCQ2JvZGh2S3htSEJudGJ6MDQ3TEdaUTUtczJDZktTamhnUXZYVWVSMm9lTVpRWkZ6Q1ZxUEdZNUVKSDlENXF4QlJWakNFZEVaSdIBeEFVX3lxTE1uaWV3SzNzckh1QlVGYUt2eUQ3YkZYQnNXTU5lQWJseWNreEhYenQ4dDRxTjYxU2tWczlfeGpBQWk0cXNMNFJESXdRMjhqeVRMY3pvX0txME1ERnJFSXo4czZMUnBkOW13R3FtN2otanB2dFR0Y0s1eg?oc=5",
+          "title": "선관위특검, 노태악 추가 압수수색‥공추비 부당 지급 의혹",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzU2lnTlhlZ0MzSnZkRkxvdlE1ZzBaZFk4MkZSWUVVWVRfcWtRUHB3OHJWZE14Zmk3V1hIdHJYR1hraUhEZXUtcHZIU1pqd2hmaGZNdy1PRWNIbHhhOXFaTzVpZ0pWblpjckZ3eko2UWVJc0hoc09R0gF3QVVfeXFMTlNzVWxPSXNBTHZUU25GYnpOcmhVYmlRVm5BQ0g0aUkzWm40Z1YzdGoxby1xUGlXRFgtVjVMMVE0LUdOZXE2LVFGU21Vd2RSUzFpbVBTQUh5RjBzMTRsWE5qam13Skl3d1JVSTA4SXJjbjFsVmNZOU0?oc=5",
           "source": "MBC 뉴스",
-          "publishedAt": "2026-11-25T05:03:43.000Z",
+          "publishedAt": "2026-11-27T10:10:09.000Z",
           "kind": "news"
         },
         {
-          "title": "北, 김여정 담화 하루만에 평양주재 스위스 외교사무소 전격폐쇄",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pLVVaWWlKVExiWHk1Z1BWVHVjSC00YkViVHRVbG8ySEo5SWJOWGQxRXN2dnFFUGVnd2Fuc3NaV1g5UUxCNDIzYUVVc0ljeklUNmpmMGlSQ2dfaUnSAWBBVV95cUxNVGM1T1FtUF9qY01NR2w0MGJNUlpaUm96d1phVzlRTmtqZ3cxNEEwRmE0emR5Y0l3TGVSX2kzUlB5STRXOUdiQWJnTXpHRDlZUE92Q1BHU3lLRWZOSTJXNjk?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T03:30:39.000Z",
+          "title": "선관위 특검, ‘공추비 부당 지급 의혹’ 노태악 휴대전화 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKc1prelpRdWs0bmgzelZWQ0N4TzhGZ3RZZFN1RGJndWFkanZPYVR1alhHaXZhM3AxSm15SjJldnotS0lacVdZRWRHS1pIWjNiaEhmcGRFOVNMQdIBX0FVX3lxTE9EQVk4VUVMbFBsYU12TVhhMjJORDdJZUZMaWdlMzZhQmY2X0pHOENVejJzZ0MzSVpFekJ2OEFwekhMelo2SnBFQVM3X21XMm53YW1fRkJEZWMyZ0hxQTI0?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-27T10:02:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "선관위 특검, ’공추비 부당 지급’ 의혹 노태악 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DRW5yRkRsUkFkbzNJRE1RSnBCYWV1am9YVUdqZWZBWDI1SWJTdUJfSnBEVmpZbFlFNi1QY2RhdGxQZ2VuUGlFbDlrcC0zV3d6bkRHNTYtUkRpYlZYdmc4TGNaYldqa1U?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-27T08:09:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "‘조작기소’ 특검 후보 이임성···경기도 고문변호사, ‘조희대 탄핵’ 반대 성명",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "이임성 조작기소 특검 후보, 李 지사 때 경기도 고문변호사",
+          "source": "조선일보"
+        },
+        {
+          "title": "특검 후보 2명 압축‥'조희대 탄핵 반대' 변호사도",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "與추천 조작기소 특검 이임성…‘조희대 탄핵 반대’ 이름 올렸다",
+          "source": "중앙일보"
+        }
+      ],
+      "span": "11.26~11.27",
+      "days": 2,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "‘조작기소’ 특검 후보 이임성···경기도 고문변호사, ‘조희대 탄핵’ 반대 성명",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PbUcwZExNNWJWdkpHdHRmWmZtaThvZTNSXzBnZ3A2SE1WLTZpZHk1Mkx1WXF6SFJBdkxPS3BlQlh5U292OWkyOHRDd0RCdzJSaGktMHV1akFIanAtaUE?oc=5",
+          "source": "주간경향",
+          "publishedAt": "2026-11-27T14:42:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "이임성 조작기소 특검 후보, 李 지사 때 경기도 고문변호사",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEV3MVFJWlM1SnlfenFXbDNPeGZIc0tOVHlHbllBVkgyTzg2M0lwYnU3YTBQNDdvbklFRUNHejdnVUNoRkRvQzRjUnVENE5TODZUMTNMZE44cktUbUFZTnE5bEw5VkVsS05lZ05oNEtobHFjVk5IcDd2SHYxWENpYXBsRmstWXc?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-11-27T13:16:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "특검 후보 2명 압축‥'조희대 탄핵 반대' 변호사도",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tMFZDNVNEb3VoTksxUUh1R1pWb1phMU50Z3dwZm1RVkxTenB6aFR3LXFld1hXR2VrWVc3d0hsLUhwaGY5Y0M1bUpiekNBejNiM3ZKdllfekY2TW94MEt6bkpoV3huYzM1eWFTMkM2M2hXeExTdlNMS3RB0gF6QVVfeXFMTmk4aTA1RV9uenUwUDJuT3JpWTQ4aVlEM25VTGd1emZ6QlV6S0NWVFFDaEpFMUdPODl0TkpvYTU5S0g5LXpSU2tCQnNTZzdkdG9MUmtVTDBBSmJ6akZ3WWNaUUpPR1doVk9pTTA4QlhHYTNFZ0s1UnptdWc?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T21:16:48.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "與추천 조작기소 특검 이임성…‘조희대 탄핵 반대’ 이름 올렸다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JX1J0NEl1X1pldHBtR2lSVUNvYVRESVMyWFpXMDB0RkFYdW1Lb1dsWXp0RDRneDN6clNKYnRqVngwRjctTXhCWkFKTDJFQ0JQc3I3WUNn?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-26T09:40:28.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "‘울릉도 표류’ 북한 어민 6명 송환…1명은 귀순",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "‘울릉도 표류’ 북한 주민 6명 송환…‘잔류’ 밝힌 1명 남아",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "정부, 울릉도 인근서 구조한 북한 어민 6명 송환... 1명은 국내 잔류",
+          "source": "OhmyNews"
+        },
+        {
+          "title": "정부, 동해서 구조한 북한 어민 6명 송환…1명은 귀순",
+          "source": "채널A"
+        }
+      ],
+      "span": "11.27",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "‘울릉도 표류’ 북한 주민 6명 송환…‘잔류’ 밝힌 1명 남아",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NaWthYXV6aHhoVDFuSGNYeDdVakVyTlJBcFQyN3d2VTNZTkFUbkJaVWVjMlJIcEhNc1B1YVV2dWZ1ZlNqVmZ2NE5tbHQ1ek9aY1E5ZUVkSEdGRTQ?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T12:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "‘울릉도 표류’ 북한 어민 6명 송환…1명은 귀순",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FQ3UxYmFzUEhjWlp0T3AtVV9ybE5MU3ZaNWE0YVVzQlJhalAzX0Mzelczb2JMTFkzaXY3cnQ0cExJdlJDaVZqeW9Wbk9qVmZCVGVRbnBBNkpSSDN5R01kb21oWXA3U183?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-27T04:51:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정부, 울릉도 인근서 구조한 북한 어민 6명 송환... 1명은 국내 잔류",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wUzgzcWZDN29UVHBPR0dIU0oyQzBweWJadTNKX1hGMFVjRkJPelo1bm9Oa3dMZ0NRanBQM0tzWjcwYm12dG9xa3J6bFNRdGpjRkJBakRvREQ1RjREakZTd0NJUlJYNC1HdkpvQllERkVuSlRteGtB?oc=5",
+          "source": "OhmyNews",
+          "publishedAt": "2026-11-27T02:58:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "정부, 동해서 구조한 북한 어민 6명 송환…1명은 귀순",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ibzZyQVFKUWI3M05OdF9OQmJaVnJzZVBaSjFMY1VYWU9UeURKejVEZkZ6bjZtTGNZSk5POHE1bVRXQ3JBNkI3YnRSUWhySWVxRUUwaVoydVBjVEQybHfSAWNBVV95cUxORzFIQ0NhajVWZjE5MTdRWjVJNFlNX0JYQ2xvMHFxRmJKT0xBV3ZqU19WeC13RWtPX2FaQTFiS0Q0MHNOSkVEalFOVVNzWloxTmtPUlBaallSVFpPcjRkQmNlQlk?oc=5",
+          "source": "채널A",
+          "publishedAt": "2026-11-27T02:33:00.000Z",
           "kind": "news"
         }
       ]
@@ -491,32 +462,39 @@
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "운영위, 국회·인권위·대통령경호처 예산안 의결…대통령비서실 예산은 보류",
-          "source": "KBS 뉴스"
+          "title": "운영위, 소관부처 예산안 의결…대통령실 예산은 보류",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "운영위, 소관부처 예산안 의결…대통령실 예산은 여야 이견으로 ’보류’",
-          "source": "연합뉴스TV"
+          "title": "대통령비서실·안보실 예산안 보류‥국회와 인권위만 의결",
+          "source": "MBC 뉴스"
         }
       ],
-      "span": "11.26",
-      "days": 1,
+      "span": "11.26~11.27",
+      "days": 2,
       "hasPress": false,
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 5,
       "articles": [
         {
+          "title": "운영위, 소관부처 예산안 의결…대통령실 예산은 보류",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRE9JMDFDYzBjWXFTcVJIdDQ3NHU5TjdSbjhpaFVXWFpaMWJ1WHRHand6YmxNZk1qWkNxcUlueHM0Qm5fb0JLekpjUFRSalBYWHRUNnowT0dJT2ZZYlF0aG03VVpfWWs?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-26T20:35:00.000Z",
+          "kind": "news"
+        },
+        {
           "title": "운영위, 국회·인권위 등 예산안 의결…대통령실 예산은 보류(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtTWhvTTdrMzE0OEpqRk0yaGlEdm5kZ2ZjanpvZ1VCbVNRR05CdzQ4a0trWC1zX2JnX0JZWFQxMGplYTJaM05UQTRfM1FJZFJIM091dUVyMms3VzjSAWBBVV95cUxOWUhUVllBRTMxQ1JBUXdSNGVpWkVSQnBBZ1J3a1VxQzZ5RDZxbEEzMzVIQWVMWHRHT0lDSW5HSEt0aG1ST2pucDMyZy1oM1drVUlLNG5TbVc4Q2FtWG1JNDU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZSFRWWUFFMzFDUkFRd1I0ZWlaRVJCcEFnUndrVXFDNnlENnFsQTMzNUhBZUxYdEdPSUNJbkdIS3RobVJPam5wMzJnLWgzV2tVSUs0blNtVzhDYW1YbUk0NdIBYEFVX3lxTE5ZSFRWWUFFMzFDUkFRd1I0ZWlaRVJCcEFnUndrVXFDNnlENnFsQTMzNUhBZUxYdEdPSUNJbkdIS3RobVJPam5wMzJnLWgzV2tVSUs0blNtVzhDYW1YbUk0NQ?oc=5",
           "source": "연합뉴스",
           "publishedAt": "2026-11-26T06:04:35.000Z",
           "kind": "news"
         },
         {
-          "title": "운영위, 국회·인권위·대통령경호처 예산안 의결…대통령비서실 예산은 보류",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EWHh1SnRzZjV4YkszMk9pSkRVaVNYSzRyZVo3T2YyRUVydVZjaDRyWG8xWWNWTkZra0dURElURjY5R0hibHA1dldjS1FUVVk4Y1U2ZW9MZzhGRkE?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T05:28:00.000Z",
+          "title": "대통령비서실·안보실 예산안 보류‥국회와 인권위만 의결",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEZnlGcEVmRlhtdTlHSVFXdml1YTBaRFEwdk5xWkpOdTl6UWhGalZLZ2lucHVCVnFiQWpUbDVFbzRCQVAzOGZNSHF6RURseDZ1TUg0enF1WU9NTjNkUnlDMDNPTkM0WlRXVkdkbENqRU4tXzB6bjBnMdIBeEFVX3lxTE5LeVhrbjhQUWE2ODYwTU90Z19hb0lCVnI2Q0hia2ZVVE90WWRSQXVuNklkMWZKbkgwdGM0TGg5LWEyd0NWdnBabXdFcEpfTlhYVGp4bnNCbXRtd1VJMjhURXQ4N1c0aDhqTy0tX0poMWdTRFlHMTBtSg?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T05:49:06.000Z",
           "kind": "news"
         },
         {
@@ -528,7 +506,7 @@
         },
         {
           "title": "운영위, 국회·인권위 등 예산안 의결…대통령실 예산은 보류",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zWTNYVERYblFiODRCTFJGcjEybU9zSTlBSFoxb2Z0STM2YXUxSTVzV00xQ0tsbTlCU0NLTWdDU0hGcWVKc3NpTzhicmJpRFE5NG1SREpZeW9uV3PSAWBBVV95cUxQTFkxYk5XRUlQZWpXZkFnQU44UXd3eHpXSDBhV1JqbEU2eXg0YWNxQmppYmZEWUUtQ3YteGE0NW9Nb3plZTlPcjNjLUMydE1VVDdEQnNBcmRLSFNxdkFVLW4?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMWTFiTldFSVBlaldmQWdBTjhRd3d4eldIMGFXUmpsRTZ5eDRhY3FCamliZkRZRS1Ddi14YTQ1b01vemVlOU9yM2MtQzJ0TVVUN0RCc0FyZEtIU3F2QVUtbtIBYEFVX3lxTFBMWTFiTldFSVBlaldmQWdBTjhRd3d4eldIMGFXUmpsRTZ5eDRhY3FCamliZkRZRS1Ddi14YTQ1b01vemVlOU9yM2MtQzJ0TVVUN0RCc0FyZEtIU3F2QVUtbg?oc=5",
           "source": "연합뉴스",
           "publishedAt": "2026-11-26T03:01:17.000Z",
           "kind": "news"
@@ -536,87 +514,144 @@
       ]
     },
     {
-      "title": "행안부·KT, 사회연대경제에 AI 접목 협약",
+      "title": "북한 표류 어선, 구조 24일 만에 송환…1명 귀순",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "KT, \"춘천·청도에 AI 지원\"…행안부 사회연대경제 사업에 협력",
-          "source": "뉴스워치"
+          "title": "'동해 표류' 북한 주민 6명, 24일만에 송환... 1명은 귀순 의사 밝혀",
+          "source": "통일뉴스"
         },
         {
-          "title": "KT·행안부, 사회연대경제 AX 협약",
-          "source": "스트레이트뉴스"
+          "title": "북한 표류 어선, 구조 24일 만에 송환...1명 귀순",
+          "source": "YTN"
         }
       ],
-      "span": "11.23~11.24",
-      "days": 2,
-      "hasPress": true,
+      "span": "11.27",
+      "days": 1,
+      "hasPress": false,
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "articles": [
         {
-          "title": "행안부·KT, 사회연대경제에 AI 접목 협약",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1MGJEeERaQkg4R0RyenpTa1ktNlBsSTVzVHZPM0E3YWI0SlotcDl3LVFIOHgxZXhOQXgwUWNYMlRYRUN5bjh6Z2l2LVYwUQ?oc=5",
-          "source": "디지털포용뉴스",
-          "publishedAt": "2026-11-24T03:39:01.000Z",
-          "kind": "press"
+          "title": "북한 표류 어선, 구조 24일 만에 송환…1명 귀순",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81MjIydmJfSlczY3BLajdWS0hnZm56TVp5ZGNxbmVGMW9IVU5iMjk5LVlsMU9JWU9sMjlIbUNlN0JMU2w1c3ROdjVuYTZxbWxkV2J6clZPakVONFE?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T14:28:00.000Z",
+          "kind": "news"
         },
         {
-          "title": "KT, \"춘천·청도에 AI 지원\"…행안부 사회연대경제 사업에 협력",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51R2VVeEtDaE5NajZ1NlpFdmRDUEZlRDBzVUd6M25qbVJmLVVrTXdCUlFpNi1KYlVkdVBMZk5DeTk3bkdfVmFRQlI0TVNHZ2NSdmdIa1Q3dkV6Q0pCcXREM0h0LXhNeFV0?oc=5",
-          "source": "뉴스워치",
-          "publishedAt": "2026-11-23T08:08:09.000Z",
-          "kind": "press"
+          "title": "'동해 표류' 북한 주민 6명, 24일만에 송환... 1명은 귀순 의사 밝혀",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xb3dzbWJ1R0Ffc1ZEVWhBazRfQkY5M29XdXcwaTRYeW5PNThXMGRDSHN3NkNKc0lYMUE4LUs3TDBiUm5Eb0JPMVlrOWc2UjRvbGI3WTI3eEVjaHNMNjhJNjNKaTNYWTNReHVZY3V3?oc=5",
+          "source": "통일뉴스",
+          "publishedAt": "2026-11-27T14:03:44.000Z",
+          "kind": "news"
         },
         {
-          "title": "KT·행안부, 사회연대경제 AX 협약",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQ2haWVNYcjdSdDZySk5kNkhMeTVqLUFLMUdWOGNBOXJJWGNITC1ZcmZLUlN4NHo2bjlQV1Vhb1VWYURCNnJOYjkyMU9RcGhCZEhnenhSS0Vxb25MZmxNNXdBdDNlbjl0M3lrSTdGc3VuMHPSAXdBVV95cUxOMGJKeE5JbVdFSlRRdGs4X3pOM3NZQ0FVY0RYVVRfNnZ4OFFrdTdXd0NmY0paVF9uRDNfSlczc0RrZ0FyY3FuOF9vZndob20zd0l0b3RrekNvbnpicTNMYVZfSGlJSDJJY2h2NkNLOEtJb2p4akZnMA?oc=5",
-          "source": "스트레이트뉴스",
-          "publishedAt": "2026-11-23T07:16:39.000Z",
-          "kind": "press"
+          "title": "북한 표류 어선, 구조 24일 만에 송환...1명 귀순",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1reUEtU0k4MkRKcmZ4LUZVWVN0Z2pRVk5yYU1iWmVsUld6ZDhiTWstem9zTE1GdFMxcEh0WXA1cGVjdHBvakpLbHhQX21uMmlvbmhQNUVBOWg5X3g1ZkE?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-27T06:53:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "\"구조된 북한 어선, 24일 만에 송환 완료...1명 귀순\"",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RLW5RbUd5MlRBR3JKN01yTGVMQy1mcVJmQTl1QW56bF9xY180X3lnMDFScV9iSkt5bldCYjFxWTFFOFM5LU9OWGpEbU5XWnhRckJFWXFSanZvSUNxN0E?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-27T04:42:00.000Z",
+          "kind": "news"
         }
       ]
     },
     {
-      "title": "홍익표 \"남북관계, 낮고 현실적 방안부터 풀어가야\"(종합)",
+      "title": "김민석, 조희대 탄핵 '5당 연대' 공식 제안‥\"신속 추진\"",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "홍익표 \"남북관계 돌파구, 낮고 현실적 방안부터 풀어가야\"",
-          "source": "MBC 뉴스"
+          "title": "김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영”",
+          "source": "경향신문"
         },
         {
-          "title": "홍익표 \"남북관계, 높은 수준 대화보다 낮고 현실적 방안으로 풀어가야\"",
-          "source": "조선일보"
+          "title": "김민석, 조희대 탄핵 ‘5당 연대’ 제안…판사회의 “독립침해”",
+          "source": "한겨레"
         }
       ],
-      "span": "11.26",
+      "span": "11.25",
       "days": 1,
+      "hasPress": false,
+      "sourceCount": 3,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00RlNVUy0yTG45cllCTHVyMC1qWkRJNzU1ZFZHT3hydHp2TGUtazVhZHNxdy1yN2tRNjYtZHUza3l4Ql9DZjFmejI0SDRzUDBRVTF1RERkS3Yxd9IBX0FVX3lxTE5ncW9MQkdDSUJ4MTlBemNYN2hTUW9SeW5wcTlwR1NndDJRSi1DZGJxUE5zUXJBaC1Sdms0UDg4TEZBeE5oME5SRk1lc0lpeEY3Z2lVcDZlT2ZjX2ZzYmRj?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-25T12:03:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김민석, 조희대 탄핵 ‘5당 연대’ 제안…판사회의 “독립침해”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvd1NlVWM3c1ZXM2x5ckUtSEhQMWI4UFVkUFNoODRrNDJ6SEQ5cEROSkduX1pYU0VQdW5WWmN6SjRVOXhPVTFaTW1RVnVmY1pWNnZKTFJPVjJXUGh4QWIycUFEbkVieC0zT29SbE1DZXRzaUYw?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-25T11:04:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김민석, 조희대 탄핵 '5당 연대' 공식 제안‥\"신속 추진\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LM0J2NnZfTnR5Wmk2ZE5QTm5wTTU0ME5vSm1oZlhjY0lZY3dsSEozNldtc2hCZ3BkZW9oa3VRbmZDVW9GMzgtblF0c3l2VmZEYXFDTWY5a2FGNHhDSTh0aHFWOFVVYVBnNXpMWDdrVmExSE5HQ194btIBeEFVX3lxTE1GdHI3U09KU1ppMzZKY3lhSzJqam5ya3NrZWk0cl9LNHdHNmg4Qjk0X2hMbTRLOUV2S01RRzF0LVJMd2F6WF9ONXNjd0o2cDNPVEZwMUt4Um1rXzAwRHU1emprMG5PQUhfd08td0ZHU0RfMmxSMWdpNg?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-25T01:13:37.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "“조희대 탄핵 추진에 5당 연대하자”…김민석, 공식 제안",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ERG1RUVRaV2hfRVhKcWdJY3R0UzRjR05fQ1ZkYjhDbWh4SkNVYXA5UllpdTZsY2ZfTlJUUUo5V2xuQVZLRUt1T3hVbmtVeWt2OElZbG9RSXZLMFl5LXlhU2hUb2tQS0pzZks3amV3NVZ1aVNH?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-25T10:08:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "경북선관위, 지방체육회장선거 위탁 관리",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "지방체육회장 선거 12월 레이스...선관위 관리 돌입",
+          "source": "충청뉴스"
+        },
+        {
+          "title": "12월 경남·시군 체육회장 선거, 선관위서 위탁 관리",
+          "source": "연합뉴스"
+        }
+      ],
+      "span": "11.27~11.28",
+      "days": 2,
       "hasPress": false,
       "sourceCount": 3,
       "articleCount": 3,
       "articles": [
         {
-          "title": "홍익표 \"남북관계, 낮고 현실적 방안부터 풀어가야\"(종합)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0Ump0UlZsX0xOYmN2RWt3OVVtd2Q4enFkQXFuSW83WjlOdkxjOENCR3p6OXk0dGwxa1dEZkgybTdDT3BaUm0wbTMyUnY5emxjR3RqZlMyQWVOWGvSAWBBVV95cUxOcnV0d2tXMUc5aHpMVFBxbV9nNktBZTN4bjZ3WG42cy1jRzBlQkQyTFh6SWRZSV90a0JPbzJHSklmV0pGRmd6V21lLVM4NmlybDU1NTIwbHRUc2JJT0JaVGo?oc=5",
+          "title": "경북선관위, 지방체육회장선거 위탁 관리",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XSkd5Z1NfSXY1cElTRVVyQ3JxYS1pbF80WkJJOXZwMGFFOFJBVEF2TVQxaGRWbUM2Ty1wVmhLSFhWdTlVekpPTnp2ZktMTkw0MlgtUHJybmVwMFJ3WVNUWTMxTnZ4T3l3?oc=5",
+          "source": "안동MBC",
+          "publishedAt": "2026-11-27T16:29:21.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "지방체육회장 선거 12월 레이스...선관위 관리 돌입",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pWjNXSTdPUnFpVXhwRVQ1eDNhZjh4RmhLamYySjd2bWh0TWdvMmpVYWxqNlhoeXhJRk53Nno1T3p0SDFyRzlvS2NjM2VFcUNTVE1FakhpWHMtbkJqSEFPbU1IZDJseDR0NmJMcw?oc=5",
+          "source": "충청뉴스",
+          "publishedAt": "2026-11-27T06:56:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "12월 경남·시군 체육회장 선거, 선관위서 위탁 관리",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UOW8xR2k0YWJIdFplbWVWcHFKdzdwUTdRYXdJNDdza1oyRmdWaW04TEJNbWhPOVUzM29meW80ZWE4XzVBVC11QnlGQjNIT1NZMkVLOE04TU5jbWPSAWBBVV95cUxNTnBoRWJYVEVFZzFpMVp0RGlWeTJQZGVkSFJQcW81dUJKS1NCMFFUQ3pNaGIwQXpBVnZnRWpnZmFHWkxEYXY3Mjl5ai1TdGE5eHFKaWplYjFnd2RBSmt4N2I?oc=5",
           "source": "연합뉴스",
-          "publishedAt": "2026-11-26T08:39:06.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "홍익표 \"남북관계 돌파구, 낮고 현실적 방안부터 풀어가야\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43MmJpNkVuNzBhYnJmRjdDaUU3MWdjdFJKcVV0eEt3bW9NY25EWUdmWG1WV2ZhYUJBNWxSWUI3QTM0bDdxd2dMMVNrZlRyWTJDcXp4blJlZVFEblhlSGktQmxreW5qZUluM1RlTTlPSlVfTDlvQ1BqONIBeEFVX3lxTE5VdkNkMExXNHVreUhmZENiZTR0QlV2b1dOM3oyRTZ3TXFIcndIT3ktVVpucjhJM1d0dGlMYUljeHZ2ZE1fSDZSZU1xaFV4VG5NTGpFQTlrN21ZX2x4QmUtSDhpWU5GRk1TZVUyQ1B6MUVVX1BtQlY5aQ?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T07:36:31.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "홍익표 \"남북관계, 높은 수준 대화보다 낮고 현실적 방안으로 풀어가야\"",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2VkaVZyWWZ5VWllOThEMFJXSkliUHVPUjY2SHpxTWdLYUZmZ1haeG1YUUJkZEVWdnBBcmdhYXlfZ0czX09CRWxSUmlTM2lpdkZfT3VldkN5TVpidEJwUTV0cWhpTEFTZ1VISWNSS1dFSW55TzFOMmZJQjdGajEzZzAwTUp4eHZaanc?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-26T07:26:00.000Z",
+          "publishedAt": "2026-11-27T05:59:44.000Z",
           "kind": "news"
         }
       ]
@@ -624,29 +659,81 @@
   ],
   "timeline": [
     {
-      "date": "11.20",
-      "event": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택"
-    },
-    {
-      "date": "11.23",
-      "event": "법관대표회의 의장 “조희대 대법원장 탄핵, 도 넘은 것···의결 땐 행동 나서야”"
-    },
-    {
       "date": "11.25",
-      "event": "북한, 평양 주재 스위스 외교사무소 폐쇄 통보…스위스 “유감”"
+      "event": "김민석, 조희대 탄핵 '5당 연대' 공식 제안‥\"신속 추진\""
     },
     {
       "date": "11.26",
-      "event": "‘조작기소 특검’ 후보에 검사 출신 이임성·판사 출신 이정훈 변호사 추천"
+      "event": "조작기소 특검 후보에 민주 이임성·혁신 이정훈 추천"
+    },
+    {
+      "date": "11.27",
+      "event": "세계변호사협회도 조희대 탄핵 추진에 우려…\"위험한 선례\""
     }
   ],
   "outlook": "",
   "press": [
     {
-      "title": "26년 만에 한국 찾은 오만 외교장관, LG서 '엑사원' 협력 논의",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tNkVIVHhndDZORGRTLXVqc05lRF92TTZZZE5PbGg1TFdCeG82MWNOTno3OXhqUldKNkQ1dDRfWlVVamtRRmNjcDQ2czRLSmJ0RVhTamRYOWdCdEt2cXRPT01VNUc3NmhZWXc4?oc=5",
-      "source": "한국신용신문",
-      "publishedAt": "2026-11-26T12:47:00.000Z",
+      "title": "육군 72사단 방문해 드론 운용 현황 살펴보는 강신철 국방부 장관",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByS1U5cjdVSFg0X0lzeWFSMFJpWWZzWUUyR2VMazA0NDBHMENibnJJOTE2NlVCaTlWTGVlay1BWjZ5bk5nbnJnNGZ0R3BYZEFISUM0Yy1HZ2VibDg0aXVWa0JxXzFlSU1FTlFmLQ?oc=5",
+      "source": "파이낸스투데이",
+      "publishedAt": "2026-11-27T09:45:44.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "구례군, 2026 적극행정 우수사례 경진대회 행정안전부장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aNHJocExxRWg2emU3MkNPRlZTcVkwZGlmbHhLMWZrQkNPX3lRakxTRkZwSDZmSXBNNG5VZkEwUXM3ODZMcUFRa3VhYWpVcF9zUDRyLWFqcUxHTkk?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-27T07:51:30.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "경남대학교 통일미래최고위과정 김연철 전 통일부 장관 특강.. '평화적 공존 제도화와 새 협상 전략 필요'",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzRy04YmdEbm9LZ1pLb3pSUGFlNzB1aGxWQkxodnFIaHdaT25nSDVGZGlwOVFGeno5NFlodW5KdHgwRlhQVi1aS05lSWFGQkFmaXJfTTlpeWJfcFg3NW9DZ1pBYkpRZDUtX2l4Yw?oc=5",
+      "source": "베리타스알파",
+      "publishedAt": "2026-11-27T07:06:57.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "대전교통공사 김중진 차장, 행안부 장관 표창 수상 - 보도자료 | 기사",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PTmhPMTJrWmo1cWIzak9PY1d5NU1oRlNlNWxmQnJFTW1uRXZ6b2x3a0tpcjhqZm9UN1dQeUFaWVVoTEtiUnJIOEpzZk93NTYwRG81cG1IRGxTRmRONmVV?oc=5",
+      "source": "더팩트",
+      "publishedAt": "2026-11-27T06:50:17.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "재외공관 역할 재창조 이행 특별성과 포상금 지급 상세보기|보도자료",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2bVdWVVhTR2JqalI0X2NtZ3Z1UTdnMWlOd0JwanZXMjc1LWJUTTZMS2hreVdkMktvU0RDOU16QUJCUGx2cVBmdTVLcnhZQnVDZDhHRVo1VEJPcW5OQW11LTgxZDdxbXZEWkJuZkhlSkdqUThGY0Jvdm1Hb0E?oc=5",
+      "source": "Mofa.go.kr",
+      "publishedAt": "2026-11-27T05:52:27.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "익산시, 맞춤형 체납관리 성과…행정안전부 '우수상' 수상",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fb3o3TWRrZTZ0ZW5SOURMUG4taXZqam1kTjk1cUtaaEhRWm9hOG1rWlEzNEZkdzZmT2lVeXl4Q19Qa0h0d20zSzcwQkg0Nmd0djllQ3d6eTVacnM1NjZWUjNPaHRSSEVha0J2d2Z3?oc=5",
+      "source": "국제뉴스",
+      "publishedAt": "2026-11-27T04:46:10.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "남북 물·환경 협력 방안 모색…국가물관리위·통일부·기후부, 토론회 개최",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HXzNtb09OR3RpeVB6Q2VLX000akRScHBXWG1VVVFzRTJDOTNHRjROc18tQnhXanVtSXJGbVY1R0docjRFQ19jZlM2NW5la3dPTnlKNkx0aHJWZjRBbnl0U3piYkw1M0JLdFZlbdIBcEFVX3lxTE1scFhBaW1rRXhIbE4ycHFzNHBIRTlRMm9DN0psZWs2T2ZuUUJPcFhmS1ZKVzZkY1FGSG5kMVF0UlVqMjFhNjJ2Sm9CV0wyekRWc3RsRTVOY2VIY25Db3lObjBJa05HdXNBUmNYU1J2Um8?oc=5",
+      "source": "전기신문",
+      "publishedAt": "2026-11-27T04:30:00.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "전남광주통합특별시, 행안부 ‘체납관리단 발표대회’서 우수상",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqcFRsYlZzNTJmZGtoY2lveHowUkRyRGVRSGhMZjVlODliUUdVbXhkZ1BzVmxOTTdENmcwYlNCS0o0c3VCMC14Y0h5bjJyVWJCMmZQbXVEbWFjYUt2TDNmckZ2MGoyZm1CUC1LWFAwYXh5YmpZYW5mNkd5b9IBf0FVX3lxTE8ybWRCR2FsdDNOdldndnBHSmxSNmhkRmxSbENJSUZlUi1XZEU0bGNISTlGZnBkUGhCUHVycVRWazNaOV9NcGhRaG1KcGdVdzEzZEktQWR6Rk9jcW5OcTh0S2kxcWZpOWQ0Tmp2YXFwdUsybGtlaE40RGlCMl9sZEk?oc=5",
+      "source": "데일리스포츠한국",
+      "publishedAt": "2026-11-27T01:00:01.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "전남광주시, 행안부 '체납관리단 발표대회' 우수상 - 보도자료 | 기사",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wcEltRmo2Z1NjS3FsYnd0QjluRXNOMUZEekQ0M2dQMnBzMTB3ZEFCb3JoWV92UlFTeXQ3bGhfRUlDX1Y4enNrb0x2SU1Ddk9XREljX2Ryemt5Mm1iVWFJ?oc=5",
+      "source": "더팩트",
+      "publishedAt": "2026-11-27T00:47:42.000Z",
       "kind": "press"
     },
     {
@@ -654,13 +741,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xdmp1T3FIbGU4RDhWaElVSHZ3MTBlSll0dW05OENPRUtFWll3bVpRYmlMUklBUHJuT0lId1FxSU9JcGZqRGhMTDhGNEptTktmUjlqcDV2Mk9HeXF4LVhOSENXRTNjcjRQ?oc=5",
       "source": "환경일보",
       "publishedAt": "2026-11-26T10:07:24.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "홍익표 \"한반도 평화공존 목표 향해 서두르지도 멈추지도 않겠다\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uVjRoTEZJX0hKOFZLSWtxVlV5ZnA4Q09ISDdwQWE4QXJRTmFsalNIUzlTenplZFF1Y3EwQnYyV2tsM3lMVTRhSXFWQk4zNWlwTzVrUzJhNFFpbm4tZ1V6LWtrYXNsSG9tLWxfUG1haDhmQkgxNWVrStIBeEFVX3lxTE5uVjRoTEZJX0hKOFZLSWtxVlV5ZnA4Q09ISDdwQWE4QXJRTmFsalNIUzlTenplZFF1Y3EwQnYyV2tsM3lMVTRhSXFWQk4zNWlwTzVrUzJhNFFpbm4tZ1V6LWtrYXNsSG9tLWxfUG1haDhmQkgxNWVrSg?oc=5",
-      "source": "뉴시스",
-      "publishedAt": "2026-11-26T09:10:15.000Z",
       "kind": "press"
     },
     {
@@ -676,59 +756,10 @@
       "source": "이데일리",
       "publishedAt": "2026-11-26T05:36:36.000Z",
       "kind": "press"
-    },
-    {
-      "title": "제6차 한-중미 특별라운드테이블 개최 결과 상세보기|보도자료",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rSGpKbFFKajBScWI1ajZ5V1FJN3FkQTFlT3duOGczb1FCQTAzY3c1a1ROUEZrNXlNSkgzUnc1Ry1WWVZkZW5BVm1sd0VJS3RHb3BsY2hCRDZOZENjemxmMFJDUWU0dE1xaXBQazF3bExQekotakxyU19sMTk?oc=5",
-      "source": "Mofa.go.kr",
-      "publishedAt": "2026-11-26T03:44:20.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "광명·군포, 소각장 정비 때 생활폐기물 1426t 교차 처리… 행안부 장관상",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50SDZQMzFyeC15bXhDZ2pfaklVOFY2a2tlT0RRaE9zb2w4ZEd0dk1zdTlFZkxQeU5ycTB6SFktNnFiMFJYTFNIU1E1NG5wSVB4X3ZqcW5SSmZQelkxZTJfbGRERmRoeTEwUFRiVEhn?oc=5",
-      "source": "더리포트",
-      "publishedAt": "2026-11-26T03:05:38.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "전남광주시 '폐아스콘 재활용'·'농업재해 인정' 적극행정 우수사례 - 보도자료 | 기사",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjWXA3M29iTGxWUFF1RUlwQ3dHaGhSaVZpTzh4VWJYV3J6SmtKbm0xMXNuVEZ6ajJ5NEtEdmJQYkNXQ2tUYTY2MGNZdnhWc09wemlTSHR1ZFY4M3dYMGo4?oc=5",
-      "source": "더팩트",
-      "publishedAt": "2026-11-26T02:12:15.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "하남시, 조직문화 혁신으로 행안부 장관상 수상",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTcVNDVWRfZ3l5MzVnc0lfOFYtVFZXNkJTNUp1bEl2MlBuU1huOHB4c3BldHJZVXhmOG5jdmFyMU55c0FHdjhpSC1yUG9EMTYzNGExSjNoUlFiQm1TX3N6TXFhOEhnTE55WlpKU9IBcEFVX3lxTE5kTDZuVFV6Sm9sUlNCZEVMTEpraEg1Q2d3cjJsa2FUOHVoT2ZaOExqeE1zYkY1MXJCUE96T0R5TUVLSW5OTXFpR19mWHZycEVtdXRzNXBZQ3FTU1RmaWlyN3VPTy1US3lWSXdtOWw0Q1k?oc=5",
-      "source": "뉴스투데이24",
-      "publishedAt": "2026-11-26T01:57:31.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "보령시, 행안부 '국민행복민원실' 재인증…2029년까지 자격 유지",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pNzZJbFJmXzJGZFg1U0lvQ1ROZzVfZU03ZFR3S0xXUHFLYzk3WlVvenJwMFpXNFNkaVRVM1FUN3owQTNBZF9kQkFvcC1qM3B2MXlBaXBsMmNuNnZINkNiMDNOalRqbHFTbDln?oc=5",
-      "source": "한국사회복지저널",
-      "publishedAt": "2026-11-26T01:29:18.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "미 국방부, 머피 의원 카타르 기지 방문 지원 거부",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qbnk1U0RIdWFZMGdXSW13Qk1EWXdYSFY0UHc3VFlYdjdjdXM0ZFlCYkFMZGFyaHZiekpmSkJMN1BCNDVHa09ZaXBFdl82dDlQMkNJbk1B0gFbQVVfeXFMUENzbFVYUHlLOS1XejdsajFZeEgyWjRGTldHS3JGYVBiNmFnMmx2aERnaGFQbmU1bXUtUGdfaFY2T1FUWkplQlVLdVVXdHVsM0E3NFExd0doOUxoOA?oc=5",
-      "source": "토큰포스트",
-      "publishedAt": "2026-11-25T19:56:06.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "러, 울릉도 도발 때 최신 스텔스기 Su-57도 띄워",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wRl9NSGt3US1XeUNpQzF3eFF1TXFQcGZ4c05USk9Ec1MtYV8yR3FGMWtOVFlEYXBiZDBmcE1wT2M4VHpndjh2WVpna0x3ZXZEaUJV?oc=5",
-      "source": "네이트",
-      "publishedAt": "2026-11-25T15:50:00.000Z",
-      "kind": "press"
     }
   ],
   "stats": {
-    "articles": 336,
-    "sources": 97
+    "articles": 310,
+    "sources": 77
   }
 }

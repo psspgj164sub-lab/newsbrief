@@ -4,61 +4,49 @@
   "category": "society",
   "categoryLabel": "사회",
   "range": {
-    "from": "2026-11-21",
-    "to": "2026-11-27"
+    "from": "2026-11-22",
+    "to": "2026-11-28"
   },
-  "updatedAt": "2026-11-26T21:17:02.412Z",
+  "updatedAt": "2026-11-27T21:19:10.335Z",
   "ai": false,
-  "headline": "교육부, 수능 시험지 보관기간 1년→5년 연장 추진",
-  "overview": "최근 1주 사회 분야 기사 306건(127개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「교육부, 수능 시험지 보관기간 1년→5년 연장 추진」(기사 5건·매체 5곳), 「경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색」(기사 4건·매체 4곳), 「경찰, ‘AI 부정행위’ 세무사 수석 구속영장 신청…“도주 우려”」(기사 3건·매체 3곳)입니다. 자주 등장한 키워드는 AI, 수능, 교육부, 부정행위, 인천입니다.",
+  "headline": "교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
+  "overview": "최근 1주 사회 분야 기사 295건(131개 매체)을 같은 사건끼리 묶었습니다. 가장 많이 보도된 이슈는 「교육부 “수능 시험지 보관기간 1→5년 연장 추진”」(기사 7건·매체 7곳), 「최교진 교육장관 사의 표명…“수능 책임 통감”」(기사 4건·매체 4곳), 「경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색」(기사 4건·매체 3곳)입니다. 자주 등장한 키워드는 AI, 수능, 의혹, 교육부, 개최입니다.",
   "keyPoints": [],
   "keywords": [
     {
       "word": "AI",
-      "count": 22
+      "count": 20
     },
     {
       "word": "수능",
-      "count": 21
+      "count": 17
     },
     {
-      "word": "교육부",
-      "count": 18
-    },
-    {
-      "word": "부정행위",
+      "word": "의혹",
       "count": 14
     },
     {
-      "word": "인천",
-      "count": 11
+      "word": "교육부",
+      "count": 12
     },
     {
-      "word": "리트",
+      "word": "개최",
+      "count": 12
+    },
+    {
+      "word": "부정행위",
       "count": 10
-    },
-    {
-      "word": "사망",
-      "count": 10
-    },
-    {
-      "word": "탄핵",
-      "count": 10
-    },
-    {
-      "word": "만점자",
-      "count": 9
     },
     {
       "word": "수상",
       "count": 9
     },
     {
-      "word": "개최",
+      "word": "압수수색",
       "count": 9
     },
     {
-      "word": "예방",
+      "word": "탄핵",
       "count": 9
     },
     {
@@ -66,13 +54,29 @@
       "count": 8
     },
     {
-      "word": "취소",
+      "word": "조사",
+      "count": 8
+    },
+    {
+      "word": "사망",
+      "count": 8
+    },
+    {
+      "word": "수사",
+      "count": 8
+    },
+    {
+      "word": "공소청",
       "count": 8
     }
   ],
   "rising": [
     {
-      "word": "인천",
+      "word": "압수수색",
+      "change": null
+    },
+    {
+      "word": "시험지",
       "change": null
     },
     {
@@ -81,24 +85,20 @@
     },
     {
       "word": "개최",
+      "change": 217
+    },
+    {
+      "word": "보관기간",
       "change": null
     },
     {
-      "word": "예방",
-      "change": null
-    },
-    {
-      "word": "시험지",
-      "change": null
-    },
-    {
-      "word": "대상",
+      "word": "연장",
       "change": null
     }
   ],
   "issues": [
     {
-      "title": "교육부, 수능 시험지 보관기간 1년→5년 연장 추진",
+      "title": "교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
@@ -107,25 +107,39 @@
           "source": "CBC뉴스"
         },
         {
-          "title": "교육부, 수능 시험지 보관기간 현행 1년에서 5년으로 연장",
-          "source": "부산일보"
+          "title": "수능 시험지 보관기간 1→5년...부정행위 사후 조사 강화",
+          "source": "데일리안"
         },
         {
-          "title": "교육부, 수능 시험지 보관기간 연장 추진...'1년 →5년'",
-          "source": "KBC광주방송"
+          "title": "교육부, 수능 시험지 보관기간 5년으로 연장 추진",
+          "source": "강원도민일보"
         }
       ],
       "span": "11.25",
       "days": 1,
       "hasPress": true,
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 7,
+      "articleCount": 7,
       "articles": [
         {
           "title": "1년에서 5년으로 교육부수능 시험지 보관기간 연장 추진…부정행위 사후 조사 강화",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXS0VhOTVEUVhXV3o5dFZwNWEwUEFUM0lNQWNRbFpGQ3BxU0R4RkFNWkNDTE9LRnJfbWF0RzAwQ3VqT2FiSTZCaVBTNHQzaXNucVdFc2tMbWxtMXVVQ1FpVUVEVE5nSHM?oc=5",
           "source": "CBC뉴스",
           "publishedAt": "2026-11-25T01:55:51.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "수능 시험지 보관기간 1→5년...부정행위 사후 조사 강화",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR3BWY2xTcjhpNDB6ekpOeHBFSktWelRkOC11U1JVc0dOcnBfUDc0ZnE0MktwLXdJcFdGQl83dV9KRHpERThXZUVyZFhPS1pnY0Q2dHdKVWR4MEtvLVFJRHJXQWlZUFYzWjYzY3YtQjVqRVNsUV9YNHJTUFFhTWpYSFdJX2V2TFNpUWNhQjVlTHZveUVnajBnMXdvVlNrOW9jNVNQWXBLV0t4V1l0VG5qU3otWFYtenhwNzhfam15Wm1NTEx0bUlVWFpjRFVmQWVBLVp3U3dvMXVsd3dxNFBzMU5KVXlNWGpjSnY2RUV0X0dCdGRlUUQ3eXpWOENKdlZQUFRQRVlLYnFfak5s?oc=5",
+          "source": "데일리안",
+          "publishedAt": "2026-11-25T01:53:00.000Z",
+          "kind": "press"
+        },
+        {
+          "title": "교육부, 수능 시험지 보관기간 5년으로 연장 추진",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MSS1OLWNZUzJsX0I3a1FxMTlmVThIMHdLOWpBVkRnbndEdElYUVE3QUdnMVppRGhBNnQzd01sN3BIeWZ0MGFrNGRWVExrTmdadWVtbkRkcUZwV3Zxck5uOHljTzgwWnM?oc=5",
+          "source": "강원도민일보",
+          "publishedAt": "2026-11-25T01:28:25.000Z",
           "kind": "press"
         },
         {
@@ -136,25 +150,208 @@
           "kind": "press"
         },
         {
-          "title": "교육부, 수능 시험지 보관기간 연장 추진...'1년 →5년'",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRWjJpdXo4VVJqdVNwVFl5b0RBR1d6OHg4WEdieTBsb0lIWTdoMkRqazhLeWJzRjBqc3JGOEY1a3hkWnhiTHJLQVg4XzRsZVFiU1p2WUNmVmIxZGlyWV9jNQ?oc=5",
-          "source": "KBC광주방송",
-          "publishedAt": "2026-11-25T01:03:18.000Z",
+          "title": "수능 시험지 5년간 보관 추진",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVZCTUlqcHF4cFJMQUNpZ1VGZVNHNDNyaTRjY0I5WDVfVzZXQmhxQ3pfcHBrS0pKdTU3dGcwcHEtOTFTeEtTTXgtMDcxT2pCLS10WjZJdkc4cVdlNXZmXzZOUDZzZ01HNmdTaWYzcjZnd0RBNmdaakxWMVdybmh4ODZwNUFielBQcllJRTNRRXBtVl9s?oc=5",
+          "source": "국제신문",
+          "publishedAt": "2026-11-25T01:03:00.000Z",
           "kind": "press"
         },
         {
           "title": "교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdkhEQlhSZDBzZTJWYXpsWkRFWm9hTlVSalZzTkxDOGsxc3pidXN0ZnZYQXQ2Z202b0VycGxvMGF6eGVpcFUySDA5MjMwMkR4bXJwREdfZHRYOS1NQzNYX2Vn?oc=5",
-          "source": "미주중앙일보",
-          "publishedAt": "2026-11-25T00:57:00.000Z",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yd0dLblFLMzktVDVQRS1WbWd0ek1ieEhTaFdKLVBhWDRWVXdkVENvdWR6MTVDbjN3bVVfaldrYTl3OXBHZHlyYk5NOGpCdkFXN2dyay13?oc=5",
+          "source": "중앙일보",
+          "publishedAt": "2026-11-25T00:57:48.000Z",
+          "kind": "press"
+        }
+      ]
+    },
+    {
+      "title": "최교진 교육장관 사의 표명…“수능 책임 통감”",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "‘수능혼란’ 최교진 교육장관 사퇴",
+          "source": "대한경제"
+        },
+        {
+          "title": "최교진 교육장관, 사의 표명‥\"수능 책임 통감\"",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "최교진 교육장관 사의…“수능 책임 통감”",
+          "source": "KBS 뉴스"
+        }
+      ],
+      "span": "11.22",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 4,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "‘수능혼란’ 최교진 교육장관 사퇴",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OZjhNLWtweGpRVmF0bFh4bkdqMUl1SHl4MmJiRGpLbW1GdG04NGNPUzduQWFJQVRoNnBpWEFISnBzZmdXVHJZcnpya1FXalFxakc5dlZNbHNxUlF6dE1nZVFDMU1MQXBGdUl6RGJuY0s2OE0?oc=5",
+          "source": "대한경제",
+          "publishedAt": "2026-11-22T04:32:08.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최교진 교육장관 사의 표명…“수능 책임 통감”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YMXVySzZqbmw2SVNJNEg2WFA4MFR5N0ZjdDdPSzFBMFBMZ25pY1ROZ2xWak5LUFZWN3BKam1IaUR6aEh3am5xTF9RNmRBM0w0S0daeHZyTldtWVlNcFFwNEs3TEtJaFdYeHc?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-22T02:49:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최교진 교육장관, 사의 표명‥\"수능 책임 통감\"",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUVZFMzM5UmpmNng2SmdUbzRPRFZPSTJtWUlGbU80OWM0LVZoMnYtV3owWENKRFFIQ3NTMG43eDNsX0YzU3Y1cm5fUDlmVXZNR3BuRWdONWJDZXVGRndNbDEwbGJWNUp3a3NNWUswdTAtVXBOS0F30gF3QVVfeXFMTW1wNWJZMmpMeWtMalRpTUt0Um9tNFZPSkpQRjQ3ckI4N09ZWEtucDRZNnVYTDQtTkx4OVlyQ2EyWHNsNTVCWnExZ1hVTHFoVkdtY01uaXFVTWxEWGU0dTdvQnVOQWZpVmJQYTlPSC12NzVhMElyM00?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-22T02:43:19.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "최교진 교육장관 사의…“수능 책임 통감”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQX1pTcXBJeTNJenhYazFaSmY3THI0OGY1dVl3ZmpLTzQyRjBkWko4bVhmUElvZjlTWlRWOUpJSjg1djFGZTJ6TV9RMUNKamxRalJsYWNhYnNTNjQ?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-22T02:42:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사",
+          "source": "YTN"
+        },
+        {
+          "title": "경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+          "source": "MBC 뉴스"
+        }
+      ],
+      "span": "11.27",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 3,
+      "articleCount": 4,
+      "articles": [
+        {
+          "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2ODhWS05rMnlUSlc3LVo2a2dFLVFfWUxRaXhObkdULVQ4bjVWejZfU293cHduWXZ2dlZiZ20xcGJQT3dCTzZWV1VQVW1hV2NNUmlZT21UMHJTaUs3RHV2Um9OdWptdw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T12:27:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcmY1d19YcTBzR0dUcTZKaGtZUXRvcEZsWUg1dmNHTUhfVVJrN2ZxeEdpRndsbUJmQllrLTVoNUZyM2Q2ekQ0RFFfc3FiX1BPRTg4SU5JeHJhOFFoN3c?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-27T06:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wS2lrZFBhSThxSi10WVpnZHlYLXJDdk1xTTdacVhVNXNTX2E4QklTZ0FoMXNaQWYwNkw5WkhxbTFic1R0R0F0SDN4amVSWkR2bzRrLVY0TmZBNkVQSmJ5THFsOC1aSnhUNGlhdVdnUmpxRXhxSGN30gF3QVVfeXFMTkdZby1mWnRLVlZ0Q25obzRPTVZaUy11YzBQSEgzRGJlSVVua0VnX2pYTXFkUjhDVVo5eDA3aW13TWREbWVkNHp1aENmY0MxcGRyV3JQMjc4ajFFb1RBSW1pT1ZGTjJXVjRJUGJ0ZFRTLWZvT05hRG8?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-27T00:28:19.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxclgtU3B2Skg4QnFkRHkzb2hKUU1kSXk3OWtoSXlJNWJSS202VnRUdUdTbm5meG43R0IxcGFOVmZrdnV4ZlpGTVN4R09OWWRPRVA2ZG9XUmlKdHM?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T00:43:00.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "title": "동아제약, ‘2026 녹색경영 우수기업’ 기후에너지환경부 장관상 수상",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "SH, 환경정보공개 우수기업 선정…기후에너지환경부 장관상",
+          "source": "중소기업신문"
+        },
+        {
+          "title": "동아제약, '녹색경영 우수기업' 기후부장관상 수상",
+          "source": "테크홀릭"
+        }
+      ],
+      "span": "11.25~11.26",
+      "days": 2,
+      "hasPress": true,
+      "sourceCount": 3,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "동아제약, ‘2026 녹색경영 우수기업’ 기후에너지환경부 장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Pd0tCV3VFTFdOYm1NWGJwZzVzS1NBWU9TVndfV2t5dTlEeUVfdGRYM2hHTy1IenNib0NHZjgtdDNVVEtVYWtfVENBQkRTOVNlQjJxbkFkX01mWWpIcEkxWWxfajU0THhkUzZocHZfbzRORzjSAXdBVV95cUxPbnBubmE1VEdrOGtZYXVkU3UxbW5UbFNqTzlNQ3RjNG5VLUllWi1MUTJTSGNFd2F6YTRkdHI2VkNjMTIxNVZUeHBlRk5GbUxQQm5GYnA3b3RUWWZ4WjcxdnVfakpHa3lQX25uTzZITVBLM3N0V2hOdw?oc=5",
+          "source": "인사이트코리아",
+          "publishedAt": "2026-11-26T08:55:52.000Z",
           "kind": "press"
         },
         {
-          "title": "교육부, 수능 시험지 보관기간 1년→5년 연장 추진",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbnF3Q3U5VjhkLTlKbE5KOExlbkozRVlYX2pyektNMmwwNVlOUlF5djNTWnpqcG1vMmtQb3JrNVdLSDV1bGlMbHBFblJfT0xQNGVYYXlSYUxqT3fSAWBBVV95cUxNMjNnejZnS1V5THhVTFhJWEpfdmFEck0yTmsybWQ4eE1UU3dIb3MxVF9vR1Y4UUtCZ3BWWUtOVWY4TjRpck9URUVfdVdMX1hGV0RNaG9rNlpaY210MHNaUzQ?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-25T00:47:56.000Z",
+          "title": "SH, 환경정보공개 우수기업 선정…기후에너지환경부 장관상",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcDBFeUdQSDRrdUQtS0k2OHRNMFlXZjc3SVlYc2xGcVNHU0g2ajVWYVFRanVKU1JIcFB0eXpWOE9xMWtDVkpIeUR0WXdmamgzc2lCYW5PcVgxSjZNVDk5VTcwanZlcUNvQ09KUkhn?oc=5",
+          "source": "중소기업신문",
+          "publishedAt": "2026-11-26T07:24:37.000Z",
           "kind": "press"
+        },
+        {
+          "title": "동아제약, '녹색경영 우수기업' 기후부장관상 수상",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UamVtRjY1VUVUTG1abkJnOU9vdFF3bWROVF9IcXM2cXh3Ry01eDNrbHY5eUF5LTZkeWdhRVZnYWVMemNvandzVlBWYnFKQlZYSG1XY3phV1VPX2VTQkJ1VHlIQzI5MEVuemFNN1Rn?oc=5",
+          "source": "테크홀릭",
+          "publishedAt": "2026-11-25T05:18:54.000Z",
+          "kind": "press"
+        }
+      ]
+    },
+    {
+      "title": "김주범 대구시의원, \"대구시 필수의료 전담팀 신설로 보건의료 조직 정비해야\"",
+      "summary": "",
+      "whyItMatters": "",
+      "headlines": [
+        {
+          "title": "김주범 대구시의회 의원. 대구시 보건의료 조직체계 정비 촉구",
+          "source": "데일리대구경북뉴스"
+        },
+        {
+          "title": "김주범 대구시의원, 필수의료 전담조직 신설 촉구",
+          "source": "매일일보"
+        }
+      ],
+      "span": "11.27",
+      "days": 1,
+      "hasPress": false,
+      "sourceCount": 3,
+      "articleCount": 3,
+      "articles": [
+        {
+          "title": "김주범 대구시의회 의원. 대구시 보건의료 조직체계 정비 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NcFFvcUlqV3BKWjdZc1Zrc0pQN0k3TmhjOFQ5R19ORk1jYmVvbGZ6UGgxVU5HT0RLYWNrVGt0NTMxeWdXSTY5ejBXU1dpcVZRVkdmZFRReGl3MW0xUkNqM1V2cWZQdw?oc=5",
+          "source": "데일리대구경북뉴스",
+          "publishedAt": "2026-11-27T09:35:02.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김주범 대구시의원, \"대구시 필수의료 전담팀 신설로 보건의료 조직 정비해야\"",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXdll2Ym9PZEp4dU1wYlBDSDZZOVlrQl9TakU5TjlidDVHS0RsVW9URHZZNDAwdWtwdW5oX3BpZ0xrMHdxZDBLUVhwNlBVSWhvUkVTaFJXOWRPdGpWOGVkVEFCczN2ckd5Ukt3?oc=5",
+          "source": "BBS불교방송",
+          "publishedAt": "2026-11-27T07:50:57.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김주범 대구시의원, 필수의료 전담조직 신설 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PX2JJOTZqYV9WWFlZX041ZEFUZVpYSUJJaXB2cXVrYnZqamdUb0VuMlRXczhiN3F5NTNWRFRaM1pvQXJfcC1YeDZYTnZOaExkNVFmYU5Demh1cGdfaFpydWY2Y3A?oc=5",
+          "source": "매일일보",
+          "publishedAt": "2026-11-27T07:50:26.000Z",
+          "kind": "news"
         }
       ]
     },
@@ -163,10 +360,6 @@
       "summary": "",
       "whyItMatters": "",
       "headlines": [
-        {
-          "title": "경찰, 고 이진우 자택·시험지 보관장소 압수수색",
-          "source": "연합뉴스TV"
-        },
         {
           "title": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
           "source": "MBC 뉴스"
@@ -179,16 +372,9 @@
       "span": "11.26",
       "days": 1,
       "hasPress": false,
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "articles": [
-        {
-          "title": "경찰, 고 이진우 자택·시험지 보관장소 압수수색",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlaGUteHJWZzYxSUVGSGRVbGNzVkY4cHBZY1ZuT1JCWGZkTEFGRlczTjhjcW1pSUpBaGExaDNneWhGay12bldCQTVfaVpEQWZYUERkeTF3TnVtRTNnb21QdHRQcWNCNUU?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-26T04:37:00.000Z",
-          "kind": "news"
-        },
         {
           "title": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMkFXQ1hzQTh2MVpsQWZKV0dLakpHRDlaRnlxZTI3VDNtazVkcEdYMldmZnRITFo3d25FdmJTemVUOEhTYnZqTWRHRWw5cTY3Wkdld1h4T1BJdVNnMVllb2NHR2xZdWhEbWliU0gzX056MHdULUhB0gF3QVVfeXFMT2lMbmUxMmVYdWNiUzBZN0xwdzNWZkhoNHZ0MU1sU0VCdS11a0I1bHpqeGlZZVZqbnlrZWxsbzlfVnU1aGViSVNZTldrT0lIQnJyMDF0QktzQmx3RlA4OUM3YmF4MlE0RVBWN09DQXNTS2pGMVM4ZE0?oc=5",
@@ -208,49 +394,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tZER3RmJiRXBEQXNvdzNIVmY2RUJrYXdDRi1mcnJWVGF2X1hNMUlidGFkZUhaYVVRRFlPRjhPbTIxUlBQSFgwV002V1V3SktwNDVQSGFocVdTUmlsamtZQ21GUHJVUQ?oc=5",
           "source": "KBS 뉴스",
           "publishedAt": "2026-11-26T02:06:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "title": "경찰, ‘AI 부정행위’ 세무사 수석 구속영장 신청…“도주 우려”",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "경찰, 'AI 부정행위' 세무사에 사전 구속영장 신청‥\"시험 공정성 훼손\"",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "경찰, ‘AI 부정행위 자수’ 세무사시험 수석에 구속영장 신청",
-          "source": "경향신문"
-        }
-      ],
-      "span": "11.26",
-      "days": 1,
-      "hasPress": false,
-      "sourceCount": 3,
-      "articleCount": 3,
-      "articles": [
-        {
-          "title": "경찰, 'AI 부정행위' 세무사에 사전 구속영장 신청‥\"시험 공정성 훼손\"",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jOTZhdWhUc2lGclNydWlydzFxNXRWY3huUzNZVE1kV2ZoSGVXaUYxYnN6S2xiSnNydUZDalRUU3VuWnZHckItUkF0ZHNWb1dwN1pNWTE0aU43Yl9UR0VHX3p0YTdZWGZDOXQwc29WMFYzQmUyR2xN0gF3QVVfeXFMUHQxVE5uNGUzSFlhdnh3b0tUcUoxT21jb3Z4cGhDNDlRcXp2RU56d2RoTUVUOFVYZzhBWlJWdEhvYXFXQWZnQlA3QzBKVDk4NXRHTVJOYTljd2NYRjNXa2NvSE1sYk5Gcll5V2kyOHVsTTg5TjBkN0k?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T10:14:03.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "경찰, ‘AI 부정행위 자수’ 세무사시험 수석에 구속영장 신청",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtdFlMOVl0MVB1bzBDNlJ2NnRQQndxbFVNTVgyNzNXcXkxb1V2WG1ISTR5T0FnYnhuWVZxbHRoWW05N3BoeFAyVEp6XzNta283Y1NGQ3JOSjJ6d9IBX0FVX3lxTE9tQUhIQUoxUGFadGZFMGs5cEYtcU83NTRzckV4V2x1SldHaXZUaWNIWWQ2WWpkYWoxMDh1dGI3TXM1MVE5WndSdjd4ZTk3QTU4WkE1S1VJMTdjaXI1VzVF?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-26T10:03:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "경찰, ‘AI 부정행위’ 세무사 수석 구속영장 신청…“도주 우려”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUHpZNHNwN2lBbVZHMUhxaGVZMm1xVldvZ0lLd0RHamRCZlNXT29xWnhIVnNKOVZGS0tneDdzeVc0NUhHMDZqbjkwaDdzNjgzQnlUdjFEZUt2N2M?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T10:03:00.000Z",
           "kind": "news"
         }
       ]
@@ -299,80 +442,77 @@
       ]
     },
     {
-      "title": "최교진 교육장관 사의 표명…“수능 책임 통감”",
+      "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "최교진 교육장관, 사의 표명‥\"수능 책임 통감\"",
-          "source": "MBC 뉴스"
+          "title": "與 \"한덕수 판결, 내용 아닌 절차가 曺탄핵사유…연내의결 노력\"(종합)",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "조희대 탄핵 나선 민주당 “한덕수 판결은 탄핵 사유 삼지 않기로”",
+          "source": "한겨레"
         }
       ],
-      "span": "11.22~11.23",
-      "days": 2,
+      "span": "11.22",
+      "days": 1,
       "hasPress": false,
-      "sourceCount": 2,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "articles": [
         {
-          "title": "이 대통령, 최교진 교육장관 면직안 재가",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fRlBPYWNMZkV1bFVHUE85cTZJRGlFMGs0RGl2VE9ROGhYejhleVBzLVlXc0w0UGtHNkYyVFl0YWZFUWRwYzNZY1hzZzFHWFdrVFJvN1NJblhPSVh3ZWFsTHFHMjNwNWRSbS1z?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-22T23:57:00.000Z",
+          "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWEV5YURydVRSSGQ5b0FNT3FFckN5THNtMHMyRl9xTGRIeWNLVjJVTVkzUjgxSU5LZVN4WUtjajVFbUs5TTIzb3drNW9OQVN1QS0tTUVqY2lyS3ZaSDdQaUVnSmR5N0E?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-22T06:55:00.000Z",
           "kind": "news"
         },
         {
-          "title": "최교진 교육장관, 사의 표명‥\"수능 책임 통감\"",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUVZFMzM5UmpmNng2SmdUbzRPRFZPSTJtWUlGbU80OWM0LVZoMnYtV3owWENKRFFIQ3NTMG43eDNsX0YzU3Y1cm5fUDlmVXZNR3BuRWdONWJDZXVGRndNbDEwbGJWNUp3a3NNWUswdTAtVXBOS0F30gF3QVVfeXFMTW1wNWJZMmpMeWtMalRpTUt0Um9tNFZPSkpQRjQ3ckI4N09ZWEtucDRZNnVYTDQtTkx4OVlyQ2EyWHNsNTVCWnExZ1hVTHFoVkdtY01uaXFVTWxEWGU0dTdvQnVOQWZpVmJQYTlPSC12NzVhMElyM00?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-11-22T02:43:19.000Z",
+          "title": "與 \"한덕수 판결, 내용 아닌 절차가 曺탄핵사유…연내의결 노력\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VWtaNjN5UTF6OEpOUi1Pc0ZFRVpmTHJXRGFHcDh0NzFrVGIzZWV2Szd3Z3FnTXM5TUlHSk5kX3VjWXJSMWZaTi1zZ2pqMS1EUWtCN2FtaE5wTTjSAWBBVV95cUxPSEVkREIyd1drUjZSX3F5eWVVY1ZQN2hYT2w4V3BsUEhHMDluWGlBelRoOUNxZkQtRUdLZEFfdTFseTlha2JJZlRIc0dzQS1BVzdlSU9faDNlRGxxdVpGWWY?oc=5",
+          "source": "연합뉴스",
+          "publishedAt": "2026-11-22T06:15:20.000Z",
           "kind": "news"
         },
         {
-          "title": "이 대통령, 최교진 교육장관 사의 수락",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QbjBKMFhHb2xlQnVTWEZ1RUlNU0RIRnBOVTk2U3hrWkU1eHQtb2UyQjZXMFZ0OVZ3UUFRQ0hIak1SR3FwMnpOTV8yZk1jM3FpNGlsNDBmZUNYa29oVXpFZVp6VmRtVm10Wld3?oc=5",
+          "title": "조희대 탄핵 나선 민주당 “한덕수 판결은 탄핵 사유 삼지 않기로”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5USVJ2djlOYVRWcFFnTmFzRjNZOWloUWpJRjljV1Q0Q1BjZUt0M2xOd094dkFuMmlKdDBodUlaTk9aUUhXM1phTmlBTmFLTnRYdmF5eDlESkc4ajF2aGVZVUFRYjNTT25GdnhRbzBPZF9rR0Jp?oc=5",
           "source": "한겨레",
-          "publishedAt": "2026-11-22T03:35:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "최교진 교육장관 사의 표명…“수능 책임 통감”",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YMXVySzZqbmw2SVNJNEg2WFA4MFR5N0ZjdDdPSzFBMFBMZ25pY1ROZ2xWak5LUFZWN3BKam1IaUR6aEh3am5xTF9RNmRBM0w0S0daeHZyTldtWVlNcFFwNEs3TEtJaFdYeHc?oc=5",
-          "source": "한겨레",
-          "publishedAt": "2026-11-22T02:49:00.000Z",
+          "publishedAt": "2026-11-22T02:48:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
-      "title": "(인사) 기후에너지환경부",
+      "title": "충남경찰, 연말연시 음주운전 특별단속…매일 3차례",
       "summary": "",
       "whyItMatters": "",
       "headlines": [
         {
-          "title": "SH, 환경정보공개 우수기업 선정…기후에너지환경부 장관상",
-          "source": "중소기업신문"
+          "title": "충남경찰청, 연말연시 음주 운전 특별 단속 나선다.",
+          "source": "뉴스프리존"
         }
       ],
-      "span": "11.26",
+      "span": "11.27",
       "days": 1,
       "hasPress": true,
       "sourceCount": 2,
       "articleCount": 2,
       "articles": [
         {
-          "title": "(인사) 기후에너지환경부",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xZUMtdnlYaVpHeGRWRjNSeVh3MlV4OURURU4xNHl1SE5JNVBmQmV0anhwQUVJX05mWU1wemdyTkZ0SjZfRDFjVUJ4dzR2OTk5eEU3QWJJRnBHc0ZRTU10YWY5QkN5WVZ6blpkedIBcEFVX3lxTFBVTVM3SE5IaTVRS0NPU2lLWW1XUzBLYmQ3LV9CQVUxeWJvVVhsUWRyMVdqUF9JbkRHTzBHZG9JdkhBclpfakR2RDNDaU5PQ09tRktJQ3lSdGpMRnB0X1pKSGFqbm8xUkdCTWt1REFqeV8?oc=5",
-          "source": "전기신문",
-          "publishedAt": "2026-11-26T07:49:20.000Z",
+          "title": "충남경찰청, 연말연시 음주 운전 특별 단속 나선다.",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5haUJnZnMtRXJfbDY0WV9QbnVEdy1sTDFRMWhjcm1LRzNCTnBVMGVjNXMyM1FtdVVVODMxbHdLNDVwVDlTTDE2ckdOY0hMeVlBVE9yR3dsMzdBbXdhc1ZXOVJyekU4czd2MkVMVS1xSmNyVmfSAXdBVV95cUxPVW9PZ2huNGY0OWlNRHVUQjF5bUZSYUNDcXliMUREWjltV0JLWDlwYUdzdnp3V2IxWkpwVldRNDhfd2RkU0IwZFJ2Q0NiakJNaE0ydzlnYzFtRnljNVJnYU00cVBVazdxeHFnclloZDdsVVQ1a0FkTQ?oc=5",
+          "source": "뉴스프리존",
+          "publishedAt": "2026-11-27T02:51:14.000Z",
           "kind": "press"
         },
         {
-          "title": "SH, 환경정보공개 우수기업 선정…기후에너지환경부 장관상",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcDBFeUdQSDRrdUQtS0k2OHRNMFlXZjc3SVlYc2xGcVNHU0g2ajVWYVFRanVKU1JIcFB0eXpWOE9xMWtDVkpIeUR0WXdmamgzc2lCYW5PcVgxSjZNVDk5VTcwanZlcUNvQ09KUkhn?oc=5",
-          "source": "중소기업신문",
-          "publishedAt": "2026-11-26T07:24:37.000Z",
-          "kind": "press"
+          "title": "충남경찰, 연말연시 음주운전 특별단속…매일 3차례",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iaUJJU2VTbklPMXRQZDhianBGaDREWHUtS1NCbFNEcTBsSU5LdlpVUjgtbjJLX2lZS2pkMldQNDFmS1Q1RlpicHlKcjV3VFFKNjV5VWFxMEZOQWNIbXp0UEtn?oc=5",
+          "source": "티제이비",
+          "publishedAt": "2026-11-27T09:59:26.000Z",
+          "kind": "news"
         }
       ]
     },
@@ -407,109 +547,9 @@
           "kind": "press"
         }
       ]
-    },
-    {
-      "title": "교육부 '수능 부정행위 전담 대응팀' 본격 가동",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "교육부, 수능 부정행위 대응팀 가동…6명 전담 조사체계 마련",
-          "source": "한국사회복지저널"
-        }
-      ],
-      "span": "11.24",
-      "days": 1,
-      "hasPress": true,
-      "sourceCount": 2,
-      "articleCount": 2,
-      "articles": [
-        {
-          "title": "교육부 '수능 부정행위 전담 대응팀' 본격 가동",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BMVo2a2NsNzVQVjFVVTJ4M0N2anRGSUw4UTctSkFvRDJqa0RZSzdvNkVkSVFzeU5MUG5wMnRyVTRiNkxDSHN5V0g4em0yUjV1U05VUjBPOWV0eEo3emRtNU8yMVNsX3gtZXpQbw?oc=5",
-          "source": "대한민국 정책브리핑",
-          "publishedAt": "2026-11-24T14:34:37.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "교육부, 수능 부정행위 대응팀 가동…6명 전담 조사체계 마련",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45SHh5Xy0tcUhuYmRYSDVUTUNEbjhjNHlCOExVTjFldTBNeDZtUE1lNUtTejRzMF96NlhGRDI3UDREM09UX3RzcW9wZGF6NU1aOWtaaWJrVTdFb05oOU83eEtZZ3VKOXVKOGlFNA?oc=5",
-          "source": "한국사회복지저널",
-          "publishedAt": "2026-11-24T10:38:08.000Z",
-          "kind": "press"
-        }
-      ]
-    },
-    {
-      "title": "대전시교육청 ‘2026 꿈이음 우수사례 공모전’ 교육부장관상 최우수 등 5건 수상",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "대전시교육청, 교육부 주최 '꿈이음 우수사례 공모전' 전 부문 석권…최우수 등 5건 수상 - 보도자료 | 기사",
-          "source": "더팩트"
-        }
-      ],
-      "span": "11.20",
-      "days": 1,
-      "hasPress": true,
-      "sourceCount": 2,
-      "articleCount": 2,
-      "articles": [
-        {
-          "title": "대전시교육청 ‘2026 꿈이음 우수사례 공모전’ 교육부장관상 최우수 등 5건 수상",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wcktiQWVsNU5lZ2xQdWdHTlR3UGFERU5YNjhvN1VZUGNRXzJvblZVZEN3YUpoNkdUZGdiLTRka3poRTBfYkxsdVlWZUNfbXJiaVNyajQ4U0Y5ckIyMXotaVdMV0JiRk1YZ1E?oc=5",
-          "source": "천지일보",
-          "publishedAt": "2026-11-20T12:40:12.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "대전시교육청, 교육부 주최 '꿈이음 우수사례 공모전' 전 부문 석권…최우수 등 5건 수상 - 보도자료 | 기사",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45cG4wR0lnVE4yaVoxUjloTDNDVk5vTnVsTGkxTW9BQmJGX0Fqbk4tOEJ1T1dXZ1RUVlJDOU0zTjlRS0dpZk84TU5QVFdGTFhFYzhva3BIT0dtdGdUTVVz?oc=5",
-          "source": "더팩트",
-          "publishedAt": "2026-11-20T01:11:29.000Z",
-          "kind": "press"
-        }
-      ]
-    },
-    {
-      "title": "CJ제일제당·질병관리청 민관 협력…‘햇반 저단백밥’ 공급 안정화",
-      "summary": "",
-      "whyItMatters": "",
-      "headlines": [
-        {
-          "title": "CJ제일제당, 질병관리청과 '햇반 저단백밥' 안정 공급 협력 강화",
-          "source": "싱글리스트"
-        }
-      ],
-      "span": "11.20",
-      "days": 1,
-      "hasPress": true,
-      "sourceCount": 2,
-      "articleCount": 2,
-      "articles": [
-        {
-          "title": "CJ제일제당·질병관리청 민관 협력…‘햇반 저단백밥’ 공급 안정화",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82V1VZM2l1ZnFZYUNCSWFYT0Q0OWtPODZnUnN6ekIxeE5zMzY4cVdPa3RlSGZ3aWIwWmZKZFYzRVJqLTJKT1h3WGJ3aUZzX3BtYnZ1dkFEaUd0cFl0dzBEUEhvLUJQWUdVRjFQdUFR?oc=5",
-          "source": "위클리서울",
-          "publishedAt": "2026-11-20T01:21:21.000Z",
-          "kind": "press"
-        },
-        {
-          "title": "CJ제일제당, 질병관리청과 '햇반 저단백밥' 안정 공급 협력 강화",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrWVY2bXdlY1RNRXNBMXdWMUVJclN2SUlzbkVPWmxmMm10SjFhcG5iUzVSU1dETVQweHpNcHpOSnRqb0s5WEtuR0RCZnd5ZWFDX3JlTlA4VEswQk9Ob3NSeWVUY1ZHdw?oc=5",
-          "source": "싱글리스트",
-          "publishedAt": "2026-11-20T00:40:34.000Z",
-          "kind": "press"
-        }
-      ]
     }
   ],
   "timeline": [
-    {
-      "date": "11.20",
-      "event": "대전시교육청 ‘2026 꿈이음 우수사례 공모전’ 교육부장관상 최우수 등 5건 수상"
-    },
     {
       "date": "11.22",
       "event": "최교진 교육장관 사의 표명…“수능 책임 통감”"
@@ -520,20 +560,73 @@
     },
     {
       "date": "11.25",
-      "event": "교육부, 수능 시험지 보관기간 1년→5년 연장 추진"
+      "event": "교육부 “수능 시험지 보관기간 1→5년 연장 추진”"
     },
     {
       "date": "11.26",
       "event": "경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색"
+    },
+    {
+      "date": "11.27",
+      "event": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색"
     }
   ],
   "outlook": "",
   "press": [
     {
-      "title": "우리은행 임직원 가족봉사단, 보건복지부장관상",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyRWROUWN1MExXNFhxYW1rVUE5ZjRfU0FDa3RmYVlXM2wzYktUckZYSFNrYmlhd2ZNQzk5WmFvN01xNTJKVThUX08wc29uM2g0Q21lcXM0M3gteUM4d2V5clVMNFZFQjA?oc=5",
-      "source": "빅터뉴스",
-      "publishedAt": "2026-11-26T09:03:25.000Z",
+      "title": "환경보전원, 학교환경교육 정책협력 강화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tVzFDMzN3OFpsbzNhbFl4a09RQzlSQzd5RXV1X0x5NDIwd1ZyMWN1alpqNjJVS1VDSW8zTWozYTcycmxSQXVtOFZfcThGeE01bGFhVnpZVm1keTQ4X0pZS3NVM3RCNlJpRVRoR9IBcEFVX3lxTE92bERia1lHYlRUZUdiaXZaenNqUkI5cVJvcldYTnRQQ1ZoZzR2RHFCWEx4Rm1TYnctVXB5aFRsbERjTlI2Rk55U3BGdzVhOFQ1QjFKWTUydkF5amVjb0xYQTlIT0Q3d2dKTW9xRk1Nc18?oc=5",
+      "source": "전기신문",
+      "publishedAt": "2026-11-27T09:07:26.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "성신여대 간호학과·바이오헬스융합학부 학생팀, '영마인드 링크 3기' 보건복지부장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xeTVHaERvWTRzWVZKTXVmWkFTRWNBc2E0eW1pWDZKSlhjMW1YSmdUdXhrUndwZGRwRkFSQ2gtTHF3SG10aWZrZndnTWdSSXhqbWszajNVbllrTUZVSTlKYVB4UUI?oc=5",
+      "source": "매일일보",
+      "publishedAt": "2026-11-27T06:38:20.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "남북 물·환경 협력 방안 모색…국가물관리위·통일부·기후부, 토론회 개최",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HXzNtb09OR3RpeVB6Q2VLX000akRScHBXWG1VVVFzRTJDOTNHRjROc18tQnhXanVtSXJGbVY1R0docjRFQ19jZlM2NW5la3dPTnlKNkx0aHJWZjRBbnl0U3piYkw1M0JLdFZlbdIBcEFVX3lxTE1scFhBaW1rRXhIbE4ycHFzNHBIRTlRMm9DN0psZWs2T2ZuUUJPcFhmS1ZKVzZkY1FGSG5kMVF0UlVqMjFhNjJ2Sm9CV0wyekRWc3RsRTVOY2VIY25Db3lObjBJa05HdXNBUmNYU1J2Um8?oc=5",
+      "source": "전기신문",
+      "publishedAt": "2026-11-27T04:30:00.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "사직종합사회복지관, 전국사회복지나눔 유공 '보건복지부 장관상' 수상",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VZHJBdkVRM0J5QkFRd0FsbUVhWlpUVmpHNzY3bnJRTnNXQ2R4WGxicVZWcFpMN0o2SXhYVG9Wa3VNOUlsNS1hc2NrSi15NmhxNHdRMGt5NkxLdTRvTEd2eVFlbFBCNUtseEpWREVB?oc=5",
+      "source": "국제뉴스",
+      "publishedAt": "2026-11-27T04:12:25.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "충남경찰청, 연말연시 음주 운전 특별 단속 나선다.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5haUJnZnMtRXJfbDY0WV9QbnVEdy1sTDFRMWhjcm1LRzNCTnBVMGVjNXMyM1FtdVVVODMxbHdLNDVwVDlTTDE2ckdOY0hMeVlBVE9yR3dsMzdBbXdhc1ZXOVJyekU4czd2MkVMVS1xSmNyVmfSAXdBVV95cUxPVW9PZ2huNGY0OWlNRHVUQjF5bUZSYUNDcXliMUREWjltV0JLWDlwYUdzdnp3V2IxWkpwVldRNDhfd2RkU0IwZFJ2Q0NiakJNaE0ydzlnYzFtRnljNVJnYU00cVBVazdxeHFnclloZDdsVVQ1a0FkTQ?oc=5",
+      "source": "뉴스프리존",
+      "publishedAt": "2026-11-27T02:51:14.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "수능 부정행위 신고 306건 접수…교육부 \"확인 시 최소 1억원 포상\"",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LekZ3SzdsVHZRbnMwMkhKNVMyT25UX2s4a3JJYmVrWENvVk5OSWpWZGt1YjV5WlNzMV9mUENIUE5Lamo2T1NWbkVYSkdHSnpUejU1XzUxV1piT1pMaFRETDN3LURqQQ?oc=5",
+      "source": "싱글리스트",
+      "publishedAt": "2026-11-27T02:36:58.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "의료데이터 활용 문턱 낮춘다…가명처리 심의 차등화·서류 23종→10종",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVbHRIMVBhMnRjeEwyQXVKQzR5Z29vWjZKVXZGYUtITzI4OUp3N21pcDVOMzc3ZFRMR1lCOVdkeTdyYkh4blNDVm5IaHlXN2NYcFAwWnV3?oc=5",
+      "source": "바이오북미디어",
+      "publishedAt": "2026-11-27T02:01:00.000Z",
+      "kind": "press"
+    },
+    {
+      "title": "동아제약, ‘2026 녹색경영 우수기업’ 기후에너지환경부 장관상 수상",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Pd0tCV3VFTFdOYm1NWGJwZzVzS1NBWU9TVndfV2t5dTlEeUVfdGRYM2hHTy1IenNib0NHZjgtdDNVVEtVYWtfVENBQkRTOVNlQjJxbkFkX01mWWpIcEkxWWxfajU0THhkUzZocHZfbzRORzjSAXdBVV95cUxPbnBubmE1VEdrOGtZYXVkU3UxbW5UbFNqTzlNQ3RjNG5VLUllWi1MUTJTSGNFd2F6YTRkdHI2VkNjMTIxNVZUeHBlRk5GbUxQQm5GYnA3b3RUWWZ4WjcxdnVfakpHa3lQX25uTzZITVBLM3N0V2hOdw?oc=5",
+      "source": "인사이트코리아",
+      "publishedAt": "2026-11-26T08:55:52.000Z",
       "kind": "press"
     },
     {
@@ -563,59 +656,10 @@
       "source": "베리타스알파",
       "publishedAt": "2026-11-26T07:13:51.000Z",
       "kind": "press"
-    },
-    {
-      "title": "충북대 조성진 교수, 첨단재생의료 연구 활성화 공로 보건복지부 장관 표창",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWV9obzBqNDgyekVpR3NVaGE3NGdLcXZNbkJuYm5BY0pJMUc1MVlNQW9QTTBGUllla3d6MUlVYnZUcHUwOG1KZ2NKZnhpSzJ6SkhpWlNORDdSb0Izdl9zcjlzWVZJV1IxWjBpcTJB?oc=5",
-      "source": "전국도민뉴스",
-      "publishedAt": "2026-11-26T06:59:52.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "교육부, 영유아 조기 사교육 영향 분석…4개 학회 연구 결과 공개",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tQmxuc2pLSWpFeW15Vk5KUXZlU0hwek0xV25ENWtNWlBaejdNNDQ3VEp6d2g4U2h6Qm9kSElKMWhHaVQ1VHB0ZDlwVk9HY2lhS05aaHFINmUzN1BYcTdtYm5pSWd0eFVndGxBem13?oc=5",
-      "source": "뉴스후플러스",
-      "publishedAt": "2026-11-26T06:47:00.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "의사냥이·간호냥이도 있나…국시 과목 만점자 7배 뛰었다 관련",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzFWbWQ2a1c3V2hLMGtaVE9McVdIaV90M2JQSjJfZFpPQTZ0VmVkVG4yQUoyY094bEpaYTJzZjR3REpWVlpyS0NwZ1dicUdyN3JrN05ZNDhWT1VfUjJGNTNmcDV3Z3VCeDQ4RE1kd1lxSTBzZVJPOUJHMjZqWjdDMlFncjlTTERf?oc=5",
-      "source": "대한민국 정책브리핑",
-      "publishedAt": "2026-11-26T05:23:07.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "경남대학교 앵커사업단 김태림 직원 교육부장관상 수상.. '앵커 리더 왕중왕전' 최다 득표",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UEI1a0NXZWxRdWl2WU1kckVHVGlGV1o3bmlLcWhkZDVZTGp6Y0pBeGRtOUFlRk9GcWNNZ1lDZ2lEQnhrTHRRVFRKbjNWcHI1enVwcFNwS3luUW82V0NDQnAzd0N4ZWtLMmFocg?oc=5",
-      "source": "베리타스알파",
-      "publishedAt": "2026-11-26T04:48:34.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "고교학점제 전면 시행 2년 차… 교육부, 현장 성과 공유",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kNjB4bXMza213SDBuVTJodDY0TkpaeGw5WGgxUVhXMGRrQlUza09xdXhDbG5SUDRCbU1HcnZZMHo5YUE5T3k5WlRaUnFkYXBRZTN3NXRzWm5ZYUpORndHbTN0MjZWVTBYd0E?oc=5",
-      "source": "천지일보",
-      "publishedAt": "2026-11-26T02:09:29.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "한성숙 국무총리 주재 수능 부정행위 대응TF 1차 회의",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xdUNTdTMyeGNST1J2ajZNNERWT2xra0NnTnpGM3ByeGlHaFZ5TE5EVl91V0huYjNsa1J3dXhyVUFKamRjaU4yakU3VFAtbUM0Z0pZREt4dkE1Wmh0WmtMcnVB?oc=5",
-      "source": "서울Pn",
-      "publishedAt": "2026-11-25T23:59:03.000Z",
-      "kind": "press"
-    },
-    {
-      "title": "세종경찰, 어린이보호구역 ‘우회전 위반’ 집중단속",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxZmtkdU5iQVA3SXYxTWpCUHNUd0Uwc19uUEVpOU8zTHlFSzROR1c0ZER1dnpRTkY0ekx5MVdZUlpya3h5WERYZktjdnJRaTg4WkNlR1ZDcFVvYUhfaUJ6ODJfTDc0RnBaeUNuN3NEUkFvdw?oc=5",
-      "source": "굿모닝충청",
-      "publishedAt": "2026-11-25T06:46:19.000Z",
-      "kind": "press"
     }
   ],
   "stats": {
-    "articles": 306,
-    "sources": 127
+    "articles": 295,
+    "sources": 131
   }
 }

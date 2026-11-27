@@ -11,7 +11,7 @@
     "monthsAvailable": 6,
     "monthsTotal": 6
   },
-  "updatedAt": "2026-11-26T21:17:02.478Z",
+  "updatedAt": "2026-11-27T21:19:10.357Z",
   "trends": {
     "months": [
       "2026-06",
@@ -31,7 +31,7 @@
           5.2,
           12.9,
           6.6,
-          7.7
+          3.1
         ]
       },
       {
@@ -42,7 +42,7 @@
           10.4,
           10.9,
           8.6,
-          2.7
+          3.4
         ]
       },
       {
@@ -53,29 +53,7 @@
           3.7,
           0,
           11.2,
-          8.4
-        ]
-      },
-      {
-        "word": "인상",
-        "values": [
-          0,
-          5.9,
-          11.2,
-          0,
-          3.6,
-          17.8
-        ]
-      },
-      {
-        "word": "역대",
-        "values": [
-          10.7,
-          0,
-          6,
-          10.9,
-          0,
-          5.1
+          7.5
         ]
       },
       {
@@ -86,18 +64,40 @@
           6,
           5.9,
           7.1,
-          3.4
+          5.8
         ]
       },
       {
-        "word": "기준금리",
+        "word": "인상",
         "values": [
           0,
-          5.1,
-          9.7,
+          5.9,
+          11.2,
           0,
-          2.5,
-          13.8
+          3.6,
+          11.5
+        ]
+      },
+      {
+        "word": "역대",
+        "values": [
+          10.7,
+          0,
+          6,
+          10.9,
+          0,
+          2.4
+        ]
+      },
+      {
+        "word": "AI",
+        "values": [
+          0,
+          3.7,
+          3.4,
+          4.5,
+          8.6,
+          6.8
         ]
       },
       {
@@ -108,151 +108,88 @@
           3.4,
           9.9,
           3.6,
-          4.4
+          2
         ]
       }
     ],
     "rising": [
       {
-        "word": "인상",
-        "change": 264
-      },
-      {
-        "word": "기준금리",
-        "change": 218
-      },
-      {
         "word": "상승",
         "change": null
       },
       {
-        "word": "한은",
-        "change": 299
-      },
-      {
         "word": "AI",
-        "change": 290
+        "change": 319
       },
       {
-        "word": "성장률",
+        "word": "인상",
+        "change": 156
+      },
+      {
+        "word": "수출실적",
         "change": null
+      },
+      {
+        "word": "한은",
+        "change": 190
+      },
+      {
+        "word": "반등",
+        "change": 109
       }
     ],
     "falling": [
+      {
+        "word": "역대",
+        "change": -78
+      },
+      {
+        "word": "달러",
+        "change": -44
+      },
       {
         "word": "발동",
         "change": -74
       },
       {
-        "word": "사상",
+        "word": "돌파",
         "change": -100
-      },
-      {
-        "word": "기대",
-        "change": -100
-      },
-      {
-        "word": "역대",
-        "change": -53
       }
     ]
   },
   "stats": {
-    "articles": 1156
+    "articles": 1154
   },
   "ai": false,
-  "headline": "최근 6개월 경제: 「코스피 4,700선 턱걸이…또 ’매도 사이드카’」",
-  "overview": "2026.06부터 2026.11까지 6개월치 경제 기사 1,156건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「코스피 4,700선 턱걸이…또 ’매도 사이드카’」(4개월), 「한은, 기준금리 연 3.25%로 인상」(3개월), 「8월 수출 983억달러로 역대 3위…반도체 사상 최대」(2개월)입니다. 기간 후반으로 갈수록 인상, 기준금리, 상승, 한은 언급은 늘고, 발동, 사상, 기대 언급은 줄었습니다.",
+  "headline": "최근 6개월 경제: 「한은, 기준금리 연 3%로 인상...2회 연속 인상」",
+  "overview": "2026.06부터 2026.11까지 6개월치 경제 기사 1,154건을 월별로 묶어 이었습니다. 여러 달 이어진 이슈는 「한은, 기준금리 연 3%로 인상...2회 연속 인상」(3개월), 「코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합)」(3개월), 「8월 수출 983억달러로 역대 3위…반도체 사상 최대」(2개월)입니다. 기간 후반으로 갈수록 상승, AI, 인상, 수출실적 언급은 늘고, 역대, 달러, 발동 언급은 줄었습니다.",
   "keyPoints": [],
   "issues": [
     {
-      "title": "코스피 4,700선 턱걸이…또 ’매도 사이드카’",
-      "span": "2026.07~2026.11",
-      "monthCount": 4,
-      "articleCount": 13,
-      "summary": "",
-      "headlines": [
-        {
-          "title": "코스피 4,700선 턱걸이…또 ’매도 사이드카’",
-          "source": "2026.11"
-        },
-        {
-          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
-          "source": "2026.10"
-        },
-        {
-          "title": "코스피, 6,300선 회복…코스닥 매수 사이드카",
-          "source": "2026.08"
-        },
-        {
-          "title": "코스피 급등에 매수 사이드카 발동",
-          "source": "2026.07"
-        }
-      ],
-      "articles": [
-        {
-          "title": "코스피 4700 턱걸이",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuaVVyeFVzMGZoWXFfTWN1Y1QxeVNwbWZDaVNnWUtHb3ZubVlSMFlmTFhQaVhkNzl3ZkpPQkVzRlhobXVUMDR0eEwyMEZXWlR4dC1wNWFjNmwzd9IBX0FVX3lxTE14VWFwX2hueVo2Q3dGX3Z0aWJFb1V1eFJMcndnM0VkX0dTaFpxRTgyZHVFQ3Jxb0pWcERMaEs2NkREVVh1VktGWDJSZmNleGRrMDRrNEpSOFV1QWdrV2dr?oc=5",
-          "source": "경향신문",
-          "publishedAt": "2026-11-23T12:23:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aklpckczTUtvVmxCUko3SVVGTXNrUzhJTjhncUp2bnRyNW5uRDk3QVJnMEZfOURqUlhHb1Z5RFJveEowQWlxWW9sZmRKaWV2QWRHZFlYczRVSVBhMFZnU2RScFMydW9xa0RCUnFmQ29nUVlz0gF0QVVfeXFMTVFCM2FNQ0h5Nkp5YmJ4YUlLX0hfTXg1SW1wNExaTEdrTDRINzB5OEZ5ZlRteldFUEJSY0lHN0xTTHFwdUZxeFFYUi01V3BSWGZoYVh4dGduaV9pZ3BFY0xMNUluUEZzY3l1eFRNX1AxVTVMT20?oc=5",
-          "source": "MBC 뉴스",
-          "publishedAt": "2026-10-30T07:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "코스피, 6,300선 회복…코스닥 매수 사이드카",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kM3hqMGRwdkpmSmEyWlRoVXgyT3ZrQnlRallFbEpzNldTTUQxSlFXU1o3dFlIMzBFN3JkcHZxUFFBbTlqdW1DU0FDOGh5RExtc29NT2czVk5sWFR1LVlTOENUU1NMYTg?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-08-10T07:00:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "'매수 사이드카' 발동에도 코스피, 발목 잡힌 배경은",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kVVhycHZNeDE5eVYyT0l4eWZNZnJaVldiUS1iS296Vl9CVDE5TXU2OGZqaEE5Y1pqdlJnSldZaDgxZnBsTThTTTkyNUtqeHFMSV9xNUlpcU93TktTRmJyS0ZLcmhhRHVjRFdDcldPYU4?oc=5",
-          "source": "연합인포맥스",
-          "publishedAt": "2026-07-22T07:00:00.000Z",
-          "kind": "news"
-        }
-      ],
-      "whyItMatters": ""
-    },
-    {
-      "title": "한은, 기준금리 연 3.25%로 인상",
+      "title": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
       "span": "2026.07~2026.11",
       "monthCount": 3,
-      "articleCount": 41,
+      "articleCount": 22,
       "summary": "",
       "headlines": [
-        {
-          "title": "한은, 기준금리 연 3.25%로 인상",
-          "source": "2026.11"
-        },
         {
           "title": "한은, 기준금리 3.25%로 인상…내년 성장률 4.1% 전망",
           "source": "2026.11"
         },
         {
-          "title": "한은, 기준금리 3.25%로 올려…올해 세 번째 인상",
+          "title": "한은, 기준금리 연 3.25%로 0.25%p 인상",
           "source": "2026.11"
         },
         {
           "title": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
           "source": "2026.08"
+        },
+        {
+          "title": "한국은행 기준금리 2회 연속 인상‥연 3.0%",
+          "source": "2026.08"
         }
       ],
       "articles": [
-        {
-          "title": "기준금리 연 3.25%로 인상...내년 초도 금리 오를까?",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GSEJvTHIyMnpqblM0NnV3dTUyY0xkV0poOG80ZzlhOGZwNXZadXAxVE5XejhWczF2ZGY1WlJkZVdnLWFhbkFNNWgyOEtGeHM4bndLTWxBWnhIbC1IMlE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-26T13:06:00.000Z",
-          "kind": "news"
-        },
         {
           "title": "한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZ2p6M1Z3UG8zZUdySkhLS3MwVHZRYXQ3RWxlVXk1dGE2X3RoUzZ2aTI2Q3lvQmgxSVFEb3lvS1prdDdFSVMxOC1uNFRwOWp0ekhwQWk3VTgtQ0Q5cml0dWlMUjJEazVDTF9R0gFwQVVfeXFMUHRwWlc4cHRISExFLVlYdlMwd21rTmxYZGQwblRWWE40VUpGZ1N3ZjJUb1BPZ0FVbVhBUjdrSU1SdFJzSG1GVDRyS2RoN2lKZzgwT3hEb2x0cjRyNnRMUHZLZmVzOS1SQjhTODdtU19vMQ?oc=5",
@@ -261,10 +198,10 @@
           "kind": "news"
         },
         {
-          "title": "긴축 시계 다시 돈다… 기준금리 3.25%, 올해 3번째 인상",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2ltLUxOTXByU2lYMy1vWTFVNno0MzE0Rm1zYy12bXZhb1BfaV9lRXNaV0VmNGxvX04xZ0lwR2l6TjB3WE4wQ0ViRlJSUDdGQ1pyWk1kbkpya0syX2U2VlhZR09wVUlHLWxpNTl1WWV6MmZablB5T2Eza3gtc05zVTZGRURjZ2txb0hFXzRB?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-26T15:52:00.000Z",
+          "title": "기준금리 연 3.25%로 인상...내년 초도 금리 오를까?",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wc1ZVSEhCcWZTTmplb0lNUGppWGd3NlQyRFVwNFpSTGNfZ1dHbXEyWXpVM1hLN0dpQjlCTHd0bk1DYjNZbWQ3RXM1d0N6SkQtQ0RWa043SGVNXy1kOUN6OTNHeExUejhkazJUMkJrT0doMzhNNlBxYmlwbkJsZ0U?oc=5",
+          "source": "YTN 사이언스",
+          "publishedAt": "2026-11-27T02:01:52.000Z",
           "kind": "news"
         },
         {
@@ -286,6 +223,51 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV01VY3dycW5IRHd6U1lRck51YzdpSWt4NWtGQnJ6ZjV5QmI2WUlJaTl2ZUE5MmpFcUExN0NoUXU2cEZSbndhTEhVSGl0Y216ZkRDTV9uejFDZkJGUmI5WDRjclZvYVk?oc=5",
           "source": "연합뉴스TV",
           "publishedAt": "2026-07-16T07:00:00.000Z",
+          "kind": "news"
+        }
+      ],
+      "whyItMatters": ""
+    },
+    {
+      "title": "코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합)",
+      "span": "2026.07~2026.11",
+      "monthCount": 3,
+      "articleCount": 9,
+      "summary": "",
+      "headlines": [
+        {
+          "title": "코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합)",
+          "source": "2026.11"
+        },
+        {
+          "title": "코스피, 6,300선 회복…코스닥 매수 사이드카",
+          "source": "2026.08"
+        },
+        {
+          "title": "코스피 급등에 매수 사이드카 발동",
+          "source": "2026.07"
+        }
+      ],
+      "articles": [
+        {
+          "title": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiN05fMENwQzk0bXpZdnlFNUlIeDgzRV9nbl9xQm1xTlh1Z1pHOGt2VkFjWF81cjd5SXN0dm1SOUprd3p4dmdCeDJzc2dXUkw1QUtRd2xmSGtOOE1tWmllbXRyZXIwR0lHRTJoLXU4dw?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-27T07:34:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "코스피, 6,300선 회복…코스닥 매수 사이드카",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kM3hqMGRwdkpmSmEyWlRoVXgyT3ZrQnlRallFbEpzNldTTUQxSlFXU1o3dFlIMzBFN3JkcHZxUFFBbTlqdW1DU0FDOGh5RExtc29NT2czVk5sWFR1LVlTOENUU1NMYTg?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-08-10T07:00:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "'매수 사이드카' 발동에도 코스피, 발목 잡힌 배경은",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kVVhycHZNeDE5eVYyT0l4eWZNZnJaVldiUS1iS296Vl9CVDE5TXU2OGZqaEE5Y1pqdlJnSldZaDgxZnBsTThTTTkyNUtqeHFMSV9xNUlpcU93TktTRmJyS0ZLcmhhRHVjRFdDcldPYU4?oc=5",
+          "source": "연합인포맥스",
+          "publishedAt": "2026-07-22T07:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -326,14 +308,14 @@
       "whyItMatters": ""
     },
     {
-      "title": "젠슨황 복귀 훈풍에 코스피 급등…5,000선 회복",
+      "title": "코스피, 급락 딛고 소폭 반등…4,700선 회복",
       "span": "2026.10~2026.11",
       "monthCount": 2,
-      "articleCount": 7,
+      "articleCount": 5,
       "summary": "",
       "headlines": [
         {
-          "title": "젠슨황 복귀 훈풍에 코스피 급등…5,000선 회복",
+          "title": "코스피, 급락 딛고 소폭 반등…4,700선 회복",
           "source": "2026.11"
         },
         {
@@ -343,10 +325,10 @@
       ],
       "articles": [
         {
-          "title": "젠슨 황 복귀에 코스피 급등…5천선 회복",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TdEFDdWR0R2Z3MzFQMF9obVR3aFpjQ0tDdFJ6T0x6UVVFYXNBb3M2TWlVSGFRTjFkaDM2aWVfbUVIeXU1VmtOZlI2eE5oVjVFNUhMY3RtVnZ5Nk0?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-24T12:03:00.000Z",
+          "title": "코스피, 급락 딛고 소폭 반등…4,700선 회복",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlMzNWakJDQlNtLUJSZVhkTk92UzVkUkhfZHQ3cnplNW5LWVBDWHZXSWhtMzZQVy1QNjBxSXhfVHlWV2daaFJVTDkxREVIZXg0T2dwbEtMcUdhNVp5LUI4RjJ0Q1dUclU?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-26T07:13:00.000Z",
           "kind": "news"
         },
         {
@@ -428,23 +410,23 @@
       "whyItMatters": ""
     },
     {
-      "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
-      "span": "2026.10",
+      "title": "서비스 수출실적 증명 쉬워진다…무역협회 등 6개 기관 협약",
+      "span": "2026.11",
       "monthCount": 1,
       "articleCount": 6,
       "summary": "",
       "headlines": [
         {
-          "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
-          "source": "2026.10"
+          "title": "서비스 수출실적 증명 쉬워진다…무역협회 등 6개 기관 협약",
+          "source": "2026.11"
         }
       ],
       "articles": [
         {
-          "title": "’1,310원대 근접’ 원·달러 환율…명목실효환율 2년 만에 최고",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93M1h6SUhDYnRsN0dpNFRkQU5hOEI1Zzc2MXVwbnlWQkdpS0dPTTJiQTlBU3pJQXRXWGlqQjFVMk1tM2RJR0NWc2U1S1VtZVJhalBKMUlZSEJoR2pkOUg4eDdkS2JMdHM?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-10-26T07:00:00.000Z",
+          "title": "서비스 수출실적 증명 간소화…6개 기관 협력체계 구축",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16MzlNaHBzUXR5R2R6Y1JPaE5vS01sLUx3dW1WRFhpYWpSeklQdXJ1SVhIeTRIYU1heFQ0d043SDdHSE90Smg2cW5acDViVEpjQnJ0SkhFRGpzV19iSVowX3ZGZER4Z9IBa0FVX3lxTE1MS1pjQmxwRm9hUWJteExLRlJITE9nUnh5TVFjbXJTdVZjYTcxRjNYdjFjMS1DUWRaLTZXbTFxRTdoWDRlSVczaGxkaDBNbWdYUGRDa3Z3TlJsTGVTTXhHVjB1M2F1QWpVbkxZ?oc=5",
+          "source": "한국관세신문",
+          "publishedAt": "2026-11-12T08:00:00.000Z",
           "kind": "news"
         }
       ],
@@ -474,7 +456,7 @@
     },
     {
       "date": "2026.11",
-      "event": "한은, 기준금리 연 3.25%로 인상"
+      "event": "서비스 수출실적 증명 쉬워진다…무역협회 등 6개 기관 협약"
     }
   ],
   "outlook": ""

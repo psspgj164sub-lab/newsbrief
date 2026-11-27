@@ -2,8 +2,8 @@
   "month": "2026-11",
   "category": "society",
   "ai": false,
-  "builtAt": "2026-11-26T21:16:58.930Z",
-  "articleCount": 297,
+  "builtAt": "2026-11-27T21:19:06.704Z",
+  "articleCount": 294,
   "summary": "",
   "topics": [
     {
@@ -11,8 +11,8 @@
       "title": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\"",
       "summary": "",
       "importance": 5,
-      "articleCount": 8,
-      "sourceCount": 6,
+      "articleCount": 7,
+      "sourceCount": 5,
       "articles": [
         {
           "title": "민주 “조희대 탄핵 사유, 판결 내용 아닌 절차 위반 문제”",
@@ -39,48 +39,79 @@
     },
     {
       "ref": "2026-11#t1",
-      "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
+      "title": "최교진 교육장관 사의…“수능 책임 통감”",
       "summary": "",
       "importance": 5,
       "articleCount": 4,
       "sourceCount": 4,
       "articles": [
         {
-          "title": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOanV0YVZsWkQ0cmtvQVBVVWFxZVd2SWtPYktObDZrTl82ZjJiSTJFdnlUMDF5NDJ1eUQtVnRrMTFMbDB0YXFaNWoyMGZnbmhEZVBuLWh2dFBtYTVUbURSeTNJNTdvSllBWDdyNXhkaFZUdnNuYVVBT1BGR2Y1VDRCQnl6Zk0yT2pGcEJ0SkJ4V3Y?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-11-26T10:19:50.000Z",
+          "title": "‘수능혼란’ 최교진 교육장관 사퇴",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OZjhNLWtweGpRVmF0bFh4bkdqMUl1SHl4MmJiRGpLbW1GdG04NGNPUzduQWFJQVRoNnBpWEFISnBzZmdXVHJZcnpya1FXalFxakc5dlZNbHNxUlF6dE1nZVFDMU1MQXBGdUl6RGJuY0s2OE0?oc=5",
+          "source": "대한경제",
+          "publishedAt": "2026-11-22T04:32:08.000Z",
           "kind": "news"
         },
         {
-          "title": "경찰, 'AI 커닝' 세무사 수석 구속영장 신청…범죄 중대성 고려",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15UnN3c0tTMnZjeFpCS0xOZEd3NDlLbmhMeXl6MWZtTjJMY3lfQkJkbF8tdjJ4MmFDWE5zYnEyN1lmSXEzRXVUMWFqSmhOaHB3Zk12c3FqdEZYR2fSAWBBVV95cUxObUp0QjR6THh2dmJwUV90b280cGljX2w2Z2JvcjNOVlluelRQLTBuTWFGdkp6MFZNYVphbHZUdUtzMFFjNnItdnF2Q2FsNFNVclhqNExpWWpwa19iYmRUMFQ?oc=5",
-          "source": "연합뉴스",
-          "publishedAt": "2026-11-26T10:19:08.000Z",
+          "title": "이 대통령, 최교진 교육장관 사의 수락",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QbjBKMFhHb2xlQnVTWEZ1RUlNU0RIRnBOVTk2U3hrWkU1eHQtb2UyQjZXMFZ0OVZ3UUFRQ0hIak1SR3FwMnpOTV8yZk1jM3FpNGlsNDBmZUNYa29oVXpFZVp6VmRtVm10Wld3?oc=5",
+          "source": "한겨레",
+          "publishedAt": "2026-11-22T03:35:00.000Z",
           "kind": "news"
         },
         {
-          "title": "경찰, 'AI 부정행위' 세무사에 사전 구속영장 신청‥\"시험 공정성 훼손\"",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jOTZhdWhUc2lGclNydWlydzFxNXRWY3huUzNZVE1kV2ZoSGVXaUYxYnN6S2xiSnNydUZDalRUU3VuWnZHckItUkF0ZHNWb1dwN1pNWTE0aU43Yl9UR0VHX3p0YTdZWGZDOXQwc29WMFYzQmUyR2xN0gF3QVVfeXFMUHQxVE5uNGUzSFlhdnh3b0tUcUoxT21jb3Z4cGhDNDlRcXp2RU56d2RoTUVUOFVYZzhBWlJWdEhvYXFXQWZnQlA3QzBKVDk4NXRHTVJOYTljd2NYRjNXa2NvSE1sYk5Gcll5V2kyOHVsTTg5TjBkN0k?oc=5",
+          "title": "최교진 교육장관, 사의 표명‥\"수능 책임 통감\"",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUVZFMzM5UmpmNng2SmdUbzRPRFZPSTJtWUlGbU80OWM0LVZoMnYtV3owWENKRFFIQ3NTMG43eDNsX0YzU3Y1cm5fUDlmVXZNR3BuRWdONWJDZXVGRndNbDEwbGJWNUp3a3NNWUswdTAtVXBOS0F30gF3QVVfeXFMTW1wNWJZMmpMeWtMalRpTUt0Um9tNFZPSkpQRjQ3ckI4N09ZWEtucDRZNnVYTDQtTkx4OVlyQ2EyWHNsNTVCWnExZ1hVTHFoVkdtY01uaXFVTWxEWGU0dTdvQnVOQWZpVmJQYTlPSC12NzVhMElyM00?oc=5",
           "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T10:14:03.000Z",
+          "publishedAt": "2026-11-22T02:43:19.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t2",
-      "title": "경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
+      "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색",
       "summary": "",
       "importance": 4,
-      "articleCount": 3,
+      "articleCount": 4,
       "sourceCount": 3,
       "articles": [
         {
-          "title": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMkFXQ1hzQTh2MVpsQWZKV0dLakpHRDlaRnlxZTI3VDNtazVkcEdYMldmZnRITFo3d25FdmJTemVUOEhTYnZqTWRHRWw5cTY3Wkdld1h4T1BJdVNnMVllb2NHR2xZdWhEbWliU0gzX056MHdULUhB0gF3QVVfeXFMT2lMbmUxMmVYdWNiUzBZN0xwdzNWZkhoNHZ0MU1sU0VCdS11a0I1bHpqeGlZZVZqbnlrZWxsbzlfVnU1aGViSVNZTldrT0lIQnJyMDF0QktzQmx3RlA4OUM3YmF4MlE0RVBWN09DQXNTS2pGMVM4ZE0?oc=5",
+          "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2ODhWS05rMnlUSlc3LVo2a2dFLVFfWUxRaXhObkdULVQ4bjVWejZfU293cHduWXZ2dlZiZ20xcGJQT3dCTzZWV1VQVW1hV2NNUmlZT21UMHJTaUs3RHV2Um9OdWptdw?oc=5",
+          "source": "KBS 뉴스",
+          "publishedAt": "2026-11-27T12:27:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcmY1d19YcTBzR0dUcTZKaGtZUXRvcEZsWUg1dmNHTUhfVVJrN2ZxeEdpRndsbUJmQllrLTVoNUZyM2Q2ekQ0RFFfc3FiX1BPRTg4SU5JeHJhOFFoN3c?oc=5",
+          "source": "YTN",
+          "publishedAt": "2026-11-27T06:14:00.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wS2lrZFBhSThxSi10WVpnZHlYLXJDdk1xTTdacVhVNXNTX2E4QklTZ0FoMXNaQWYwNkw5WkhxbTFic1R0R0F0SDN4amVSWkR2bzRrLVY0TmZBNkVQSmJ5THFsOC1aSnhUNGlhdVdnUmpxRXhxSGN30gF3QVVfeXFMTkdZby1mWnRLVlZ0Q25obzRPTVZaUy11YzBQSEgzRGJlSVVua0VnX2pYTXFkUjhDVVo5eDA3aW13TWREbWVkNHp1aENmY0MxcGRyV3JQMjc4ajFFb1RBSW1pT1ZGTjJXVjRJUGJ0ZFRTLWZvT05hRG8?oc=5",
           "source": "MBC 뉴스",
-          "publishedAt": "2026-11-26T02:33:31.000Z",
+          "publishedAt": "2026-11-27T00:28:19.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t3",
+      "title": "경찰, '리트 만점자' 집·수능시험지 보관 압수수색",
+      "summary": "",
+      "importance": 4,
+      "articleCount": 4,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "경찰, '리트 만점자' 집·수능시험지 보관 압수수색",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rQjBQS1djcEVBZmtOamFOS2tENWUwUl9wT1JKeDB1bkJWOFBLOUlsN0VNbjZZSENYM1NwNDZWdmwyaDVrSm0xME1JSl82dzhZNU9saFZMMHV3YTRpWkg4Y0FleUtEWTQtbW43YUJRWUJWQ0NFTWRFRtIBeEFVX3lxTE5QTHh6emFfSXNTVEZ0UEljSlljckIyUWJGM2paM3k3U1ZFRGQtNFNQYTg2UzJUVldMRWpGNkREVVQ4eDdqR0lSUE9sMGhnNm5uWjVKVjkyeTVEM1E2R1BYQ0lUcG1mRVE3ejZRMThfZ005TWhIWUx5WA?oc=5",
+          "source": "MBC 뉴스",
+          "publishedAt": "2026-11-26T03:04:48.000Z",
           "kind": "news"
         },
         {
@@ -100,10 +131,41 @@
       ]
     },
     {
-      "ref": "2026-11#t3",
+      "ref": "2026-11#t4",
+      "title": "김주범 대구시의원, \"대구시 필수의료 전담팀 신설로 보건의료 조직 정비해야\"",
+      "summary": "",
+      "importance": 3,
+      "articleCount": 3,
+      "sourceCount": 3,
+      "articles": [
+        {
+          "title": "김주범 대구시의회 의원. 대구시 보건의료 조직체계 정비 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NcFFvcUlqV3BKWjdZc1Zrc0pQN0k3TmhjOFQ5R19ORk1jYmVvbGZ6UGgxVU5HT0RLYWNrVGt0NTMxeWdXSTY5ejBXU1dpcVZRVkdmZFRReGl3MW0xUkNqM1V2cWZQdw?oc=5",
+          "source": "데일리대구경북뉴스",
+          "publishedAt": "2026-11-27T09:35:02.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김주범 대구시의원, \"대구시 필수의료 전담팀 신설로 보건의료 조직 정비해야\"",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXdll2Ym9PZEp4dU1wYlBDSDZZOVlrQl9TakU5TjlidDVHS0RsVW9URHZZNDAwdWtwdW5oX3BpZ0xrMHdxZDBLUVhwNlBVSWhvUkVTaFJXOWRPdGpWOGVkVEFCczN2ckd5Ukt3?oc=5",
+          "source": "BBS불교방송",
+          "publishedAt": "2026-11-27T07:50:57.000Z",
+          "kind": "news"
+        },
+        {
+          "title": "김주범 대구시의원, 필수의료 전담조직 신설 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PX2JJOTZqYV9WWFlZX041ZEFUZVpYSUJJaXB2cXVrYnZqamdUb0VuMlRXczhiN3F5NTNWRFRaM1pvQXJfcC1YeDZYTnZOaExkNVFmYU5Demh1cGdfaFpydWY2Y3A?oc=5",
+          "source": "매일일보",
+          "publishedAt": "2026-11-27T07:50:26.000Z",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "ref": "2026-11#t5",
       "title": "법원 “김수현 소속사, 쿠쿠에 8억7508만원 배상해야”…1심 판결",
       "summary": "",
-      "importance": 4,
+      "importance": 3,
       "articleCount": 3,
       "sourceCount": 3,
       "articles": [
@@ -131,104 +193,56 @@
       ]
     },
     {
-      "ref": "2026-11#t4",
-      "title": "'만취 음주 운전' 고경표, 경찰 조사…울먹이며 \"무책임한 모습 죄송\"",
+      "ref": "2026-11#t6",
+      "title": "법원, 김수현 측에 '광고 중단' 모델료 11억여원 반환 판결",
       "summary": "",
       "importance": 3,
       "articleCount": 3,
-      "sourceCount": 2,
+      "sourceCount": 3,
       "articles": [
         {
-          "title": "'만취 음주 운전' 고경표, 경찰 조사…울먹이며 \"무책임한 모습 죄송\"",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JdVFSeTdjWU9MS2pFV2RhRWgtOVpWdXFZZkMyanViaEhhLWNlT0EyMWhSUklTWmRlYzM0RnJaOTVXNEhxRUw3Q21yT3B0bFkzTkdXR2t5cmpPYUNXcEE?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-24T01:01:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "경찰, 음주운전 고경표 1시간40분 조사…울먹이며 \"정말 죄송\"(종합2보)",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQXdTMjFqSzFFNHllUDBfVjVLQzQyelRVaXRMb0w0QjY3LUYyNVFhQ3ZGMjJEWExILVZBZGMwMV9fRWdRTkc4QVN1TVJuR3hOSUpOUzREWWdIdmvSAWBBVV95cUxPdnBXYi1ZQzRMWVRYVm94YmY5VExDU2xmX2tjYzBoM3NHZ0FKeHlGaDlCME1LU0hYZkMyTXhEVWZJZTZab0R1Rmlkc3dGMlBqRUpYcVBPQXBKM05yZ2tHNXQ?oc=5",
+          "title": "법원, 김수현 측에 '광고 중단' 모델료 11억여원 반환 판결",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43MHA4Tnd4MjIzdXc5bjNodVEzRjNlOHZ3U2xUYktoNlVPVE81ZkEtYzA5c0RLdUgxTTM4MENWUkxjdVAzY3VBZjlMaHRYMzZONHh2NHdKNGd2d2PSAWBBVV95cUxPRWtjbEpmY3I5eXVYQkRmM0dlRkJPa2lCdE9La2t6TGZkSU5iYkhzejJ6eFhNVUdWMzhjVFdONFNsczFsZTB4a2NNZjRvYllTb1RvOWEyV1VfNGF1TkQzY1A?oc=5",
           "source": "연합뉴스",
-          "publishedAt": "2026-11-23T12:08:57.000Z",
+          "publishedAt": "2026-11-13T08:00:00.000Z",
           "kind": "news"
         },
         {
-          "title": "'음주운전' 고경표 첫 경찰 소환조사...\"무책임한 모습\"",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwSmdJYnBra0dkUkVNRm04dDYwN0hReFBJZzRERUxyY2JUN2d0VW9pYWdTeDRVdGZuQm91eGs4RmtYbW9TVXVkR2JMR1lpMUw5NDlvbnIxMUxnMmx2Zmc?oc=5",
-          "source": "YTN",
-          "publishedAt": "2026-11-23T11:02:00.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t5",
-      "title": "보건의료데이터 가이드라인 전면 개정",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 2,
-      "sourceCount": 2,
-      "articles": [
-        {
-          "title": "보건의료데이터 가이드라인 전면 개정",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51dU1XY3VzX3gwRjhOb3RObmFzNHBRQXFhcWRndUJQNDN6YmJWQVdNNFNReVZTNWNtb1V3QV93SUFhZFV2YjdRY05wQ0FBUF9NRmpPQ0FfYXdMb2poUWdTOVpLNVVBbVFTRUE?oc=5",
-          "source": "병원신문",
-          "publishedAt": "2026-11-26T12:22:51.000Z",
+          "title": "\"김수현, '광고 중단' 모델료 11억 반환하라\"…법원 판결",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GdzY2LVdOTS05dFVNYTZtRzE3VV9sLXZmRWc5Nkd5Z1JkWi04RXliTjAwSWMtZnA4cHJydEdNbGVvT2RDdG41VjZlSHYyQmpfY2phYkVhMFo2QQ?oc=5",
+          "source": "한국경제",
+          "publishedAt": "2026-11-13T08:00:00.000Z",
           "kind": "news"
         },
         {
-          "title": "AI 시대, 의료데이터 더 안전하고 쉽게 활용 「보건의료데이터 활용 가이드라인」 전부개정",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xbmVIOVg4N005elZldVRjU3h0bTVQNjRWODQ4OUFRcjVPZFQxd1h4UHp3ZDFqYVRmaFc3djkwZHJ6Rk9zd1F0WTNPMG9FNUc2UFpRMlgzb3JVMUNYZV9DdGxWZlloNXd3ZEpEMUsyYnFJX1JFaUpMeVVPWXRxdw?oc=5",
-          "source": "BRIC",
-          "publishedAt": "2026-11-26T04:45:08.000Z",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "ref": "2026-11#t6",
-      "title": "태국 방콕서 정유공장 폭발·화재…7명 부상",
-      "summary": "",
-      "importance": 3,
-      "articleCount": 2,
-      "sourceCount": 2,
-      "articles": [
-        {
-          "title": "태국 방콕서 정유공장 폭발·화재…7명 부상",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBUHNmWjRwQ05fdnZKUmtMb3hVYjFvZDkyWmlETUJBblpWeXRTQlFLanZBN0o4TjZ2SEVfT2J5NTdoWjRYWkpRTDk0LW82NHlEd3A3S3dTRnlIalI2VGN5ODFGSy1QQU0?oc=5",
-          "source": "연합뉴스TV",
-          "publishedAt": "2026-11-26T10:34:00.000Z",
-          "kind": "news"
-        },
-        {
-          "title": "태국 방콕 정유공장 폭발·화재…7명 부상·주민 대피",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ackJGZnRobGVPZjU0eTV0V1dMaFJxX2hERHljbjlfYm14cUROd1lEazQzUXhRYmlPWlhkVURUVm5jVktjVXQ2MVdWRmRaU1I4REZBVlJxMUJidXM?oc=5",
-          "source": "KBS 뉴스",
-          "publishedAt": "2026-11-26T10:27:00.000Z",
+          "title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UXJzaVNicUxtS3REekhRUlhNamxRaENKVlpDaV9WTks1WUZZcVZaaGtCbHl1bUNFNU9HMlVyZTNZNEpOU3k5Tk9IVDJ5MDBQSlBtcWFqOEQ4d9IBX0FVX3lxTE5fUjRHdFN2eFcyOU5WSVh1UzhvSU4weG9YV1hSSWFfLUY0QkJDd1Z1YlJ4ZUtnNndvbloxNTVfSjc4MGZVY0tDNVVpTExtZG4tNUxFTkZoU3czSmMzclNB?oc=5",
+          "source": "경향신문",
+          "publishedAt": "2026-11-13T08:00:00.000Z",
           "kind": "news"
         }
       ]
     },
     {
       "ref": "2026-11#t7",
-      "title": "인천 남동구 공장 화재로 근로자 1명 사망",
+      "title": "전재수 부산시장, 선거법 위반 고발 2건 불송치…경찰 수사 종결",
       "summary": "",
       "importance": 3,
       "articleCount": 2,
       "sourceCount": 2,
       "articles": [
         {
-          "title": "인천 남동구 공장 화재로 근로자 1명 사망",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxaF92cmNaNG5OV2Q0WEw4eEg4MDRlbTA3OWdSTTU5amEwazJLQnR4YnpDVC1lblQ4QXdVTnAtT0FRbWNU?oc=5",
-          "source": "FPN-소방방재신문",
-          "publishedAt": "2026-11-26T09:05:00.000Z",
+          "title": "전재수 부산시장, 선거법 위반 고발 2건 불송치…경찰 수사 종결",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwcWxLajh3aFdjdmNxTlZQQlA1T1hxT0IwOFp1RWFmTEtkcHVSVUpqVXVuMWliUHNBeGdzeC1LbkxwQXhLdTgweVYwWHZQdGV3blJNVnoyWG4tdjk3SHl6bVVHM1hCaE1PWjAw?oc=5",
+          "source": "해사신문",
+          "publishedAt": "2026-11-27T12:48:00.000Z",
           "kind": "news"
         },
         {
-          "title": "인천 남동구 화재 공장 3층서 신원 미상 사망자 1명 발견",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yaGNvTDdCei12TXhKUVBpcFJ2RFJLdVp0Z1RoVjEtWXFZT1JmQVJIQ3l0Q3Y2di0ycTdGbjNacXc1YXRHcWxSMTF3dWdoeDJwenVucm1EbHRsWU5VdmdpRGowdFFYNkxnS21rV0M0Nm8?oc=5",
-          "source": "인천투데이",
-          "publishedAt": "2026-11-26T07:47:00.000Z",
+          "title": "경찰, 전재수 시장 선거법 고발 2건 불송치 종결",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nUDFpdUYwWFJFUnpjQmVLVWhTYkVDSkxkQlp1LTVwUGhaSXdIVXFrSFRVajl2OGplNnN1TkJDZTJ0ak1HYWlqYUZkc3FoRUlmdnJrWlpxUlVpdmtPLWdHR1doNU4xaGc?oc=5",
+          "source": "연합뉴스TV",
+          "publishedAt": "2026-11-27T05:53:00.000Z",
           "kind": "news"
         }
       ]
@@ -236,131 +250,119 @@
   ],
   "keywords": [
     {
+      "word": "AI",
+      "count": 19
+    },
+    {
       "word": "탄핵",
-      "count": 18
+      "count": 17
     },
     {
       "word": "한덕수",
-      "count": 18
-    },
-    {
-      "word": "AI",
       "count": 16
     },
     {
       "word": "조희대",
-      "count": 14
+      "count": 13
     },
     {
-      "word": "리트",
-      "count": 11
-    },
-    {
-      "word": "인천",
-      "count": 11
+      "word": "압수수색",
+      "count": 12
     },
     {
       "word": "사망",
       "count": 10
     },
     {
-      "word": "만점자",
-      "count": 9
-    },
-    {
-      "word": "부정행위",
-      "count": 9
-    },
-    {
-      "word": "신청",
-      "count": 9
+      "word": "의혹",
+      "count": 10
     },
     {
       "word": "수사",
-      "count": 9
-    },
-    {
-      "word": "수능",
-      "count": 8
-    },
-    {
-      "word": "공장",
-      "count": 7
-    },
-    {
-      "word": "조사",
-      "count": 7
-    },
-    {
-      "word": "의혹",
-      "count": 7
-    },
-    {
-      "word": "절차",
-      "count": 7
-    },
-    {
-      "word": "취소",
-      "count": 7
-    },
-    {
-      "word": "사유",
-      "count": 7
+      "count": 10
     },
     {
       "word": "김수현",
+      "count": 9
+    },
+    {
+      "word": "공소청",
       "count": 7
     },
     {
-      "word": "이진우",
+      "word": "교육장관",
+      "count": 7
+    },
+    {
+      "word": "리트",
       "count": 6
     },
     {
-      "word": "구속영장",
+      "word": "만점자",
       "count": 6
-    },
-    {
-      "word": "세무사",
-      "count": 6
-    },
-    {
-      "word": "대응",
-      "count": 6
-    },
-    {
-      "word": "쿠쿠",
-      "count": 6
-    },
-    {
-      "word": "안전",
-      "count": 5
-    },
-    {
-      "word": "발견",
-      "count": 5
     },
     {
       "word": "중단",
-      "count": 5
+      "count": 6
     },
     {
-      "word": "수석",
-      "count": 5
+      "word": "부정행위",
+      "count": 6
     },
     {
-      "word": "적발",
-      "count": 5
-    },
-    {
-      "word": "교육장관",
-      "count": 5
+      "word": "수능",
+      "count": 6
     },
     {
       "word": "개최",
+      "count": 6
+    },
+    {
+      "word": "운영",
+      "count": 6
+    },
+    {
+      "word": "취소",
+      "count": 6
+    },
+    {
+      "word": "사유",
+      "count": 6
+    },
+    {
+      "word": "절차",
+      "count": 6
+    },
+    {
+      "word": "인천",
       "count": 5
     },
     {
-      "word": "내용",
+      "word": "위반",
+      "count": 5
+    },
+    {
+      "word": "한동훈",
+      "count": 5
+    },
+    {
+      "word": "지원",
+      "count": 5
+    },
+    {
+      "word": "전국",
+      "count": 5
+    },
+    {
+      "word": "새만금",
+      "count": 5
+    },
+    {
+      "word": "모델료",
+      "count": 5
+    },
+    {
+      "word": "반환",
       "count": 5
     },
     {
@@ -368,19 +370,31 @@
       "count": 5
     },
     {
+      "word": "쿠쿠",
+      "count": 5
+    },
+    {
       "word": "항소",
       "count": 5
     },
     {
-      "word": "소속사",
+      "word": "대법원",
       "count": 5
     },
     {
-      "word": "압수수색",
+      "word": "집중",
       "count": 4
     },
     {
-      "word": "남동구",
+      "word": "신청",
+      "count": 4
+    },
+    {
+      "word": "대구",
+      "count": 4
+    },
+    {
+      "word": "아파트",
       "count": 4
     },
     {
@@ -388,11 +402,11 @@
       "count": 4
     },
     {
-      "word": "예방",
+      "word": "오세훈",
       "count": 4
     },
     {
-      "word": "남동산단",
+      "word": "고발",
       "count": 4
     }
   ],
@@ -406,12 +420,12 @@
       "event": "與 \"한덕수 판결, 내용 아닌 절차가 조희대 탄핵 사유\""
     },
     {
-      "date": "11.23",
-      "event": "'만취 음주 운전' 고경표, 경찰 조사…울먹이며 \"무책임한 모습 죄송\""
+      "date": "11.26",
+      "event": "경찰, '리트 만점자' 집·수능시험지 보관 압수수색"
     },
     {
-      "date": "11.26",
-      "event": "경찰, ‘AI 커닝’ 세무사 수석 구속영장 신청"
+      "date": "11.27",
+      "event": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색"
     }
   ]
 }

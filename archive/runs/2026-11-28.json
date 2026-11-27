@@ -1,0 +1,26 @@
+{
+  "finishedAt": "2026-11-27T21:19:17.676Z",
+  "seconds": 12,
+  "status": {
+    "short-politics": false,
+    "short-labor": false,
+    "short-economy": false,
+    "short-society": false,
+    "mid-politics": false,
+    "mid-labor": false,
+    "mid-society": false,
+    "mid-economy": false,
+    "long-labor": false,
+    "long-politics": false,
+    "long-economy": false,
+    "long-society": false,
+    "world-europe": false,
+    "world-northAmerica": false,
+    "world-russiaUkraine": false,
+    "world-middleEast": false,
+    "world-eastAsia": false,
+    "world-southAsia": false,
+    "world-africa": false,
+    "world-latinAmerica": false
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T21:17:10.085Z",
-  "date": "2026-11-27",
+  "updatedAt": "2026-11-27T21:19:17.670Z",
+  "date": "2026-11-28",
   "papers": [
     {
       "id": "chosun",
@@ -10,12 +10,12 @@
     {
       "id": "donga",
       "label": "동아일보",
-      "count": 7
+      "count": 6
     },
     {
       "id": "joongang",
       "label": "중앙일보",
-      "count": 5
+      "count": 3
     },
     {
       "id": "hani",
@@ -25,7 +25,7 @@
     {
       "id": "khan",
       "label": "경향신문",
-      "count": 5
+      "count": 4
     },
     {
       "id": "hankook",
@@ -35,89 +35,51 @@
     {
       "id": "imaeil",
       "label": "매일신문",
-      "count": 5
+      "count": 3
     }
   ],
   "common": [
     {
-      "label": "반도체 · 공론화",
+      "label": "국민의힘 · 꼬라지",
       "paperCount": 2,
       "items": [
         {
           "paper": "chosun",
           "paperLabel": "조선일보",
-          "title": "본토에서 흔들리는 ‘AI 낙관론’, 반도체만 믿는 재정 괜찮나",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXFlWjhPT2doQUtVZmRpZGwtT3pKNzBGbmJtWGFsTEl3aGRtaE92eDlzUDFYXzFzbjBLbnJIa0xxOF9xRWF2NHdQMWJjWlNOc0ZjVm1VUS1rUFpKZG9Uc0dTWnM2clpzYzVybDFSMUlCU3p3X01JZm1pQ2ZuT0NkM1l0NWhqQQ?oc=5",
+          "title": "“야당이라도 구실을…” 기대 걷어차는 국민의힘 ‘당 꼬라지’",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMTEzYVk2MWU1b1ZhOUZ4SWVFdFVLeGVvbGMxWkhqNTFhU3NDVm14TWd6dHNQUVZyeHZwSGZoOGdIaW1zSWZDa1dTWGRoNzVOb1FJNFpxM3BldVlQcnNFU0RNNGFzeVVyYi1uQ3BlWHBVR0toVEVWd0hIY3ZjdkxYaGV3UWtkUQ?oc=5",
           "snippet": "",
-          "publishedAt": "2026-11-25T15:23:36.000Z"
+          "publishedAt": "2026-11-26T15:10:00.000Z"
         },
         {
-          "paper": "chosun",
-          "paperLabel": "조선일보",
-          "title": "원전 공론화 시작부터 파행, 이럴 줄 알고 공론에 부친 건가",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnJMcm16VkZMQW5NQ2FqUWNCTFhKVENEaEpMQUg2T3hYRUFHTm5qc3lGOTdxQldsWS1IbHJNYlBQWHkyZlhRSERpZzJ0cDB0RFdsV0Fub1UwbWNnWHZpb2p4WUMxYWwxQWVueTlPY1JjcFNkbGRSSUlSdnBDSHgxYl85TGdsdw?oc=5",
+          "paper": "hankook",
+          "paperLabel": "한국일보",
+          "title": "국민의힘, 이런 ‘꼬라지’로 무슨 수권 정당인가",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jcFRwX3oxcG5laDRaT282d0dybHFidUJzVHY4WHliYW82OXFjSFRVQV9qSWNkR3ZGY3NSb0VfYW93QWo1bHoydFh6aDhnOF93am56ZkZpWEpyX3g5dW5VZi0tc3lrZTRYX0VuTTRSRU9iY2PSAXNBVV95cUxNY3BUcF96MXBuZWg0Wk9vNndHcmxxYnVCc1R2OFh5YmFvNjlxY0hUVUFfakljZEd2RmNzUm9FX2Fvd0FqNWx6MnRYemg4Zzhfd2puemZGaVhKcl94OXVuVWYtLXN5a2U0WF9Fbk00UkVPYmNj?oc=5",
           "snippet": "",
-          "publishedAt": "2026-11-25T15:10:00.000Z"
-        },
-        {
-          "paper": "donga",
-          "paperLabel": "동아일보",
-          "title": "원전 공론화 첫발부터 삐끗… 반도체-AI 수요 감당할 수 있나",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FbmJXcWx5UGFMMERLa2xxM0szRXNMUXRNTjA0MkJaMFV6THJKQzlVMk1Vbm9FS3hYMjFxVU1pTkdvT2tlWEpzRURSSWU5cVIzZU14aFZuLUtIbC1mNHByaE5CT2xmTS1pQ0tQSVByWlBkb0tSdlHSAWZBVV95cUxOZ3I3aFkzZjJaRENJTFpwYUx6ZVA3ZXdXeUlWWWhUcnFubm5RZjgzM0UtME4yLUVTZW1SQlVkOGlxeGhsZTZZekctSk14QmFodlJNMEFjUkNuQlVVNXowYUE0OTdsaVE?oc=5",
-          "snippet": "",
-          "publishedAt": "2026-11-25T14:27:00.000Z"
+          "publishedAt": "2026-11-27T15:10:00.000Z"
         }
       ]
     },
     {
-      "label": "취약층 · 금리",
-      "paperCount": 2,
-      "items": [
-        {
-          "paper": "hani",
-          "paperLabel": "한겨레",
-          "title": "‘낙수효과’ 아직인데 금리는 상승, 취약층 보호해야",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DSDc4WVAzRlRtTXA0c0FDNEt2M0RGZnVabVNjdFBrSWdRd3l0aXY2S1U5QTI3cUYyTjZ0dXFhY0JMM3l3STZUa0NtVVpueWktR2ZXTjNiQ0FxVkVtbmJ6TWNHX0l4TWNTOWc?oc=5",
-          "snippet": "",
-          "publishedAt": "2026-11-26T11:00:00.000Z"
-        },
-        {
-          "paper": "khan",
-          "paperLabel": "경향신문",
-          "title": "가계대출 금리 5% 돌파, 취약층 안전판 마련 서둘러야",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Wmw1NzYyb2MxdkZSUWlTVlhBRGVwZ2tzcHFEN3pUd2VfY2hNMUhLQ0V4N1QtNklXRTMwQVo0QzBpMTZBTUNJLW94dVhDVUlwdDNOSUJtOEtyd9IBX0FVX3lxTE9zSzR2ZzFXOTJwVEpmMFNmOE51ekpSZDlYeFZLOGZFVmVaVm5fOURvNjNKSWZpaGkwRUJJUHpIYW4wTmhKaTM2Ym0tMHRRYjVFM2tkZzRJVnU0Tm9XUkdF?oc=5",
-          "snippet": "",
-          "publishedAt": "2026-11-25T09:36:00.000Z"
-        },
-        {
-          "paper": "khan",
-          "paperLabel": "경향신문",
-          "title": "가계대출 위험 키운 금리 5% 돌파, 취약층 안전판 마련 서둘러야",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zSzR2ZzFXOTJwVEpmMFNmOE51ekpSZDlYeFZLOGZFVmVaVm5fOURvNjNKSWZpaGkwRUJJUHpIYW4wTmhKaTM2Ym0tMHRRYjVFM2tkZzRJVnU0Tm9XUkdF0gFfQVVfeXFMT3NLNHZnMVc5MnBUSmYwU2Y4TnV6SlJkOVh4Vks4ZkVWZVpWbl85RG82M0pJZmloaTBFQklQekhhbjBOaEppMzZibS0wdFFiNUUza2RnNElWdTROb1dSR0U?oc=5",
-          "snippet": "",
-          "publishedAt": "2026-11-25T09:36:00.000Z"
-        }
-      ]
-    },
-    {
-      "label": "대법원장 · 탄핵",
+      "label": "정년연장",
       "paperCount": 2,
       "items": [
         {
           "paper": "joongang",
           "paperLabel": "중앙일보",
-          "title": "대법원장 직무정지용 탄핵 추진…명백한 권한 남용이다",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03VWM4LW1ONVpwSldMOXdSLVRZRHM0U0RQc1pMUWxJWU1QOXpjRkRTXzIzSS1hbVdTaDl3cWVRaWJoZE13anVjR0t4Uk5kWE9vakxOcUZB?oc=5",
+          "title": "청년 피눈물 외면하는 정년연장은 안된다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PRDhOa0Ryc0hPcXZraGdnQ0w3N1A3YThfZWlCN3VkQnBMMU1zNVRuOFBlbWJ2dDJ6cV9hMlhmamMyTkdqLWk4aTRCZ0REZGVyWlZpQTFn?oc=5",
           "snippet": "",
-          "publishedAt": "2026-11-25T15:36:38.000Z"
+          "publishedAt": "2026-11-27T15:34:00.000Z"
         },
         {
           "paper": "hankook",
           "paperLabel": "한국일보",
-          "title": "여당의 대법원장 탄핵 열차 급가속, 정당성 없는 권한 남용",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TNjVQcm9VMGc4d3ItRl9JcjZ4aldkdng3OXpTWVhMaV9CeVZESmF4dDRScEZjb01zZVN5NnpyUnVVaUZHNk9JUGwxNy1nU3BfQU5PRVpzZi1MX2JHcHh0ZGx3M0xvRjliUXBhVnp1WUlad0k?oc=5",
+          "title": "정년연장 연내 입법 속도, 충격 덜어낼 청년대책이 우선",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMkIxc1EtbHdQWWF1V0w5UGtPX25vUjRNdm9jV05mNG5MUjdUMWN2RUFJcTJLdk51YURWcTVWZ0F0ZUw4blQ3cURqNzA4ZUhoRXlRU2dyMmRBNU1PMVdXREZiaHpaZUo0a2pSb05NSkZpc0XSAXNBVV95cUxNbzJCMXNRLWx3UFlhdVdMOVBrT19ub1I0TXZvY1dOZjRuTFI3VDFjdkVBSXEyS3ZOdWFEVnE1VmdBdGVMOG5UN3FEajcwOGVIaEV5UVNncjJkQTVNTzFXV0RGYmh6WmVKNGtqUm9OTUpGaXNF?oc=5",
           "snippet": "",
-          "publishedAt": "2026-11-25T15:10:00.000Z"
+          "publishedAt": "2026-11-27T15:10:00.000Z"
         }
       ]
     },
@@ -140,28 +102,6 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEbGdIN05yV1lFNEhGT2ZuWDUwYzJXRlZMOTl6Z1FvTjdLOEI4NnRPRzdMVllLUDZ5dktGWGZKUy1ZZHg1RVNrYWgzcHFRaFgtNnFqLS1UZmZTUUFHVzR1ZmVDVV9HcnZQc2YwWGV3?oc=5",
           "snippet": "",
           "publishedAt": "2026-11-26T15:10:00.000Z"
-        }
-      ]
-    },
-    {
-      "label": "아동학대 · 무고성",
-      "paperCount": 2,
-      "items": [
-        {
-          "paper": "hani",
-          "paperLabel": "한겨레",
-          "title": "무고성 아동학대 신고 대책, 신속한 사건 종결이 관건",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZXZlbVdaNVgxSjZmdVJPNWQ5Nl9uODhJVG5MSTNhdWR2MUV5dERvdjRIU29JdGl0a0VjUGUzd0pYNnFxR1BiTDB4YWoxSkFESXA1UER6QWVVZ19UVnpzVk1QSFRKcWhyU0E?oc=5",
-          "snippet": "",
-          "publishedAt": "2026-11-26T09:09:00.000Z"
-        },
-        {
-          "paper": "khan",
-          "paperLabel": "경향신문",
-          "title": "교원 대상 무고성 아동학대 신고 근절 대책, 서이초 비극 다신 없길",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4YnhWV1dmMEF2MV9RMGRLSEpaVGh0d1BzR3hWX1drWktJU2htNUFyaDA3S1FDVEJXeUh6aGU1U042WWw5d2lWRlRZUVlvZlJ2cmg1ZGozdUYtQdIBX0FVX3lxTFBYVnJtaXZsLXlLeWdmZWhZMnZyWXNMSGpINXg2dDhZLWhxTF8tVkFtUEVtR2V2NmhfLUxiMUNlNFVhSVM1LVF4ZVJ5Snp4TERCT0hjdW1sYnU2VTZUSTE4?oc=5",
-          "snippet": "",
-          "publishedAt": "2026-11-26T09:10:00.000Z"
         }
       ]
     },
@@ -193,10 +133,34 @@
       {
         "paper": "chosun",
         "paperLabel": "조선일보",
+        "title": "특검·검찰총장 희귀한 구인난, 공소취소 무리수 때문 아닌가",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWFpRdGNBRmdtNi1uWDVXQ0pvUTh4QjZaeldyZVNtbHZwUDVybnlDYWJBWjByeV9naGRrZkZ4dHFDd21vZ0hDRThaMWQ1ampvdnlSOWVVVTd4MzlJbG8yTEkzYlFNWmw3VlRlcDJoS0NmazQ3QW9hTm5pdnRIOFR2bTJHZEJFdw?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T15:20:00.000Z"
+      },
+      {
+        "paper": "chosun",
+        "paperLabel": "조선일보",
+        "title": "음모론·괴담 ‘대장’이 이재명 정부 사회 大개혁 이끈다니",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnJzc1ZBdkkzY01ybmtRT3hPbnlJYUI3dGR6VS1LRllPNzVBbld0WjUzcEc5c0p2bmFfeU9YdjVtY2FRaDFEZkQyMUJSOEZiVDBxbGlYNlpQQkQySF9YMXFPaWlCSWVMYUF1cXU2UmRucnRuZ0xVZ0JIbGxpb2FlOHJBU0V5UQ?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T15:10:00.000Z"
+      },
+      {
+        "paper": "chosun",
+        "paperLabel": "조선일보",
+        "title": "학부모 출입금지로 ‘악의적 아동학대 신고’ 못 막는다",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDd1YXFFMmxuUjc1emNBLWdVc0ZudFprTHNyZWpkb1B0T2xhZlJEY2RGVDBEZUd6TjJ5RjBRWS14d2Jia0Y1OWprNHhDRENxeFV3akIxbEcxYzB1S1RxZ3VsSXVJMEY4YXIydFBsMEswTWFlWGFPcVA0N3E1YnFTMW05b0xwdw?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T15:01:17.000Z"
+      },
+      {
+        "paper": "chosun",
+        "paperLabel": "조선일보",
         "title": "판사들은 \"헌법 훼손\", 친명 중진들은 \"책임은 우리에게\"",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdldZNGR6ZnZ3RkJ4TGF2c011b00wcWZxNmQ0UnhGaEtldkJEdjhFUEJESVB4WkhISmtaeEZqWFdXdTFvZHVVZFFId25jYlVLMTZtU2F2VFNmWklrWUpYN3R0TTBrYTBsLTd6WTJpeEZxaDBfc2hWT1dELS1pR2YtaXEwLXpaZw?oc=5",
         "snippet": "",
-        "publishedAt": "2026-11-26T15:20:00.000Z"
+        "publishedAt": "2026-11-26T15:27:47.000Z"
       },
       {
         "paper": "chosun",
@@ -212,34 +176,34 @@
         "title": "고금리로 빌려 쓴다는 미래기금, 경제원로들의 ‘레드 카드’",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUdJQ0NCX0hsalVCUnZ1SkViejRuTGQyUWVOcGdONGZzWEo0encyRElwN2ZOdGVTOFhWVEdUdFlGZGdmYTNzUVVFbDcyMTEwT2RYNUU3Rmh5ei05SWtKa0tFYmhNSFBUT3I1ZV9JTnFkT3dmR3pGa3d1SE4yM2FDaUtFanhSQQ?oc=5",
         "snippet": "",
-        "publishedAt": "2026-11-26T15:00:00.000Z"
-      },
-      {
-        "paper": "chosun",
-        "paperLabel": "조선일보",
-        "title": "본토에서 흔들리는 ‘AI 낙관론’, 반도체만 믿는 재정 괜찮나",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXFlWjhPT2doQUtVZmRpZGwtT3pKNzBGbmJtWGFsTEl3aGRtaE92eDlzUDFYXzFzbjBLbnJIa0xxOF9xRWF2NHdQMWJjWlNOc0ZjVm1VUS1rUFpKZG9Uc0dTWnM2clpzYzVybDFSMUlCU3p3X01JZm1pQ2ZuT0NkM1l0NWhqQQ?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:23:36.000Z"
-      },
-      {
-        "paper": "chosun",
-        "paperLabel": "조선일보",
-        "title": "원전 공론화 시작부터 파행, 이럴 줄 알고 공론에 부친 건가",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnJMcm16VkZMQW5NQ2FqUWNCTFhKVENEaEpMQUg2T3hYRUFHTm5qc3lGOTdxQldsWS1IbHJNYlBQWHkyZlhRSERpZzJ0cDB0RFdsV0Fub1UwbWNnWHZpb2p4WUMxYWwxQWVueTlPY1JjcFNkbGRSSUlSdnBDSHgxYl85TGdsdw?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:10:00.000Z"
-      },
-      {
-        "paper": "chosun",
-        "paperLabel": "조선일보",
-        "title": "법사위원장 황당 발언, \"사법부 독립, 헌법에 없다\"까지",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFFOb050Vmp3QkY0ek9mWUpQN0JqU1ROQldfRzJqMzJmanJ4NEl2RXN0NUhjNFhJa2dkWG9jQmpiNFJYVjNOWi1BSmc4SmVDNFgyNzJmOEF6anpTdWVNdDhHVFZ1Xzk3T2k1cmJMRXpMMm5JWmpMOWxsQmxIWEdTclJ0R0Jodw?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:00:00.000Z"
+        "publishedAt": "2026-11-26T15:02:45.000Z"
       }
     ],
     "donga": [
+      {
+        "paper": "donga",
+        "paperLabel": "동아일보",
+        "title": "여야 지지율 횡보… 허구한 날 ‘안팎 삿대질’에 국민 진절머리",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWERXU3VaYm1WQm1QREZYTXJyTzhqZ0NtcVBCaEFpY1pfMUFYM2swLUdBdHVJUFNfODdtNjVMUzludnFZRERBdUp0RW9lemN5ZmpaMTk4VzlhNkM2RURfbzVKNlJ1anlWdG16dy14UVViRWxPcHfSAWZBVV95cUxOYWpsVFZNMFlBNlhaa1hWX1ItLTYxeTdIVzBFNkJhRjFid1FSODE2djM4UmV2dnBOaU12SlYyeWs5dmxZeXpXdkdNUjIzS3dma1FtM01rSU5uRWxJUVBZR1JKQWhITUE?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T14:30:00.000Z"
+      },
+      {
+        "paper": "donga",
+        "paperLabel": "동아일보",
+        "title": "정년연장특위 합의 불발… 임금체계 개편이 먼저",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xcTR0Y2RVQUZSQUs2S0dwQXhMNmc2TmJjLTM1WXZTMU1SQmhoYWtXZWhhZWwyRzhkb29XanpCbjBKN1U1bTVjb05BZDktT3l5aTJWR0JqdWVCVE9vQmJTYl9nY2pzdmQ0UVVyRUtod0FDa1JLc1HSAWZBVV95cUxNcHlibk1leU5RR1c0QzYtaUZOaEIwUnBtNVR2QWRRVGxfWktfVFZjakN1azRzQVRrbVJ5b29lTGNPWlE4SUwta25seWE1WkM5dm1RNW5RVGV1X01heklZSFpPSmtjeHc?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T14:27:00.000Z"
+      },
+      {
+        "paper": "donga",
+        "paperLabel": "동아일보",
+        "title": "‘전술핵 다종화’ 공개한 北… 탐지-타격-보복 ‘3축 체계’ 속도 내야",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiQTBGX3U4bThLOHdqeVJIWm9aTVFoazZjQXBjUmlLcFpXTzNoSWNUdmRNd09NZ3AtNmVPampBUXNNcUdQZlo5TUQ4UEk1eDRtWFpwUXlyOFlpby1ELTJ1aVpVMmJHWTBFR3RDdUpiS3hOQWVteGfSAWZBVV95cUxPMDlmVzdtMVdQUnVVN0tHdHNDVVpPc2tvNFpILVRrTml0LTNzS3k5VmkycFBPdzlBUXRUTlpFeTcxaEV1ejlxYXZtdGRfVGlPSkxOckJqb0JGWmxNU2RUUDZuUHc3eGc?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T14:24:00.000Z"
+      },
       {
         "paper": "donga",
         "paperLabel": "동아일보",
@@ -263,41 +227,17 @@
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GdHR3MXZoSElJN2I1QjlKZVhDMjc5Z0IzdzdCekJXd2lZTWRHd2xqYi1iSUdQYW9fdGNaQmZUZC1zT011aUdKNlk4VGpKWk9FWFk0UWxiSFBBOGt2bUt2Uy03Y1B4azlfYnVzMUpLSGNqN2FIU1HSAWZBVV95cUxQMzhKZUdaQmVyeTR2MGpLUnJSOUtVZWVfWFpCWDFNcUpoVnJVb2YxSjZMY1ljcTRpODNqcUZVUlptdVFMT0tLNm9nVnZUQTdaZEFjeXFMWVVianJRallGMkJObEVaS3c?oc=5",
         "snippet": "",
         "publishedAt": "2026-11-26T14:24:00.000Z"
-      },
-      {
-        "paper": "donga",
-        "paperLabel": "동아일보",
-        "title": "美 301조 ‘과잉 생산’ 무역보복… 관세 위협 산 넘어 산",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pdWdHRFd3TGVhWUhnWGRRbVEzWENUV2M2Q0EydDViak5KQWFHekNoejYwNzdndXhiX3ZDZ0FVTmY1OW5aS3h4MnNFV21mVUpla3YwU2Vxdi0wUy1pbE90MDZIRjQ0dmpWXzgtQ1pNcXh0TnZpTUHSAWZBVV95cUxNUHE1SW5QZjdKUHIyakF1ZS1yZW1HaTlyaGJLZmZiUFl3SlNzQ3B6VnF6V2d3Y0V1ZzdOaTdUWHo2c0x6SnAxZmNLc3A4bDBYNjRPb1VDMm9uUU9zd0FKbDhnUTlTb3c?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T14:30:00.000Z"
-      },
-      {
-        "paper": "donga",
-        "paperLabel": "동아일보",
-        "title": "원전 공론화 첫발부터 삐끗… 반도체-AI 수요 감당할 수 있나",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FbmJXcWx5UGFMMERLa2xxM0szRXNMUXRNTjA0MkJaMFV6THJKQzlVMk1Vbm9FS3hYMjFxVU1pTkdvT2tlWEpzRURSSWU5cVIzZU14aFZuLUtIbC1mNHByaE5CT2xmTS1pQ0tQSVByWlBkb0tSdlHSAWZBVV95cUxOZ3I3aFkzZjJaRENJTFpwYUx6ZVA3ZXdXeUlWWWhUcnFubm5RZjgzM0UtME4yLUVTZW1SQlVkOGlxeGhsZTZZekctSk14QmFodlJNMEFjUkNuQlVVNXowYUE0OTdsaVE?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T14:27:00.000Z"
-      },
-      {
-        "paper": "donga",
-        "paperLabel": "동아일보",
-        "title": "“유지 땐 1855원, 폐지 땐 1828원”… 석유 최고가격제 필요한가",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xM2NvTTNHSFJWc1AyUjdMLUxWNXR5WFRhMEgza1hic3BJaG1xb3lWNlFRV211X3JEMTJzYng0MHB5TUxzampnVlhSZVE0TUZWbTdRcHBFYXBfamItVmV2YkdCUDBtZnRLVXlJ0gFmQVVfeXFMT2Y2Y0lNaFJ0aV9aVXZuXzA2WWpjLXpHNmE3TmRlOVVZT0d2cTNUZzg2Z2dCNEc5aHlOdklZczk2U1VYUXV1b2plQ1hYSU1FcmNoMTRLdnZQRTlXM0R1bmN4cUdTQ2ZB?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T14:24:00.000Z"
-      },
-      {
-        "paper": "donga",
-        "paperLabel": "동아일보",
-        "title": "“유지 땐 1855원, 폐지 땐 1828원”… 유가 최고가격제 필요한가",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mNmNJTWhSdGlfWlV2bl8wNllqYy16RzZhN05kZTlVWU9HdnEzVGc4NmdnQjRHOWh5TnZJWXM5NlNVWFF1dW9qZUNYWElNRXJjaDE0S3Z2UEU5VzNEdW5jeHFHU0NmQdIBZkFVX3lxTE9mNmNJTWhSdGlfWlV2bl8wNllqYy16RzZhN05kZTlVWU9HdnEzVGc4NmdnQjRHOWh5TnZJWXM5NlNVWFF1dW9qZUNYWElNRXJjaDE0S3Z2UEU5VzNEdW5jeHFHU0NmQQ?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T14:24:00.000Z"
       }
     ],
     "joongang": [
+      {
+        "paper": "joongang",
+        "paperLabel": "중앙일보",
+        "title": "청년 피눈물 외면하는 정년연장은 안된다",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PRDhOa0Ryc0hPcXZraGdnQ0w3N1A3YThfZWlCN3VkQnBMMU1zNVRuOFBlbWJ2dDJ6cV9hMlhmamMyTkdqLWk4aTRCZ0REZGVyWlZpQTFn?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T15:34:00.000Z"
+      },
       {
         "paper": "joongang",
         "paperLabel": "중앙일보",
@@ -313,33 +253,25 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ocDY1eXNER210TFpNMkQ4b1M4dmd3MTNkdml3UmRIbTZzS0s5SHg4anlDQmEtSXBXcE43bVdHc1hsd0FKbHZyYjI2Q2hJMDh4X2VENHFR?oc=5",
         "snippet": "",
         "publishedAt": "2026-11-26T15:20:00.000Z"
-      },
-      {
-        "paper": "joongang",
-        "paperLabel": "중앙일보",
-        "title": "정보 문외한 국정원장 후보자, ‘정보전쟁’ 준비돼 있나",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10UTR0aklfSGxyRWtlai1SbTdiVnVGamRXS2ZWU1hBaGhtam5RQjdEMlFXMEZoQzBXeXF0QXUzUmptS2h0Wk9TSHFsbFZWb0I5ekp3aXVB?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:37:53.000Z"
-      },
-      {
-        "paper": "joongang",
-        "paperLabel": "중앙일보",
-        "title": "대담해지는 러시아의 무력시위, 재발 막을 대응책 있나",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZYzJnSWhiWm81REt5QVBvc0swemR4Mm5iTHlFVmZET0pBZHdqRlhmSGRMLWR6Yk4tQUpxR0VneGNQcUotWENFZ0c2WWZzX2ZWeXljWE53?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:37:10.000Z"
-      },
-      {
-        "paper": "joongang",
-        "paperLabel": "중앙일보",
-        "title": "대법원장 직무정지용 탄핵 추진…명백한 권한 남용이다",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03VWM4LW1ONVpwSldMOXdSLVRZRHM0U0RQc1pMUWxJWU1QOXpjRkRTXzIzSS1hbVdTaDl3cWVRaWJoZE13anVjR0t4Uk5kWE9vakxOcUZB?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:36:38.000Z"
       }
     ],
     "hani": [
+      {
+        "paper": "hani",
+        "paperLabel": "한겨레",
+        "title": "최민희 중징계 결정, ‘당내 내전’으로 이어져선 안돼",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1UUZra09wbXpDUF9PZXltZmljMTFHVGVFcVU1VnI2VHdrT0xrQW1oUExUTUktUVFmV2lQVTV4elNkY0daem92Xzg3UEV5Tmd5R21sS2Z2Nnp1Ry1JQlZ4S09BZzN5RG5YVFE?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T11:00:00.000Z"
+      },
+      {
+        "paper": "hani",
+        "paperLabel": "한겨레",
+        "title": "학교 비정규직 총파업, 정부는 책임감 있게 대화 나서야",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96MzVVOTg1elVVSXU4SXdaVk1MejdtQlZIZGdva3Q2OWUyZlJEUGdNVFUyRXY0MmRnZWRyZmFPN1dreXkwWk5RNlVONk8zWHZhb1k0VEpuYmVQNmlicE9CVW1Vbl9HY3l6NGc?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T08:53:00.000Z"
+      },
       {
         "paper": "hani",
         "paperLabel": "한겨레",
@@ -355,25 +287,25 @@
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xUVIwOV9Nb1hhMXVlSzdkTTF1S2VSeU5BVHREdExMYXdSSGZxZXNSZ3poOEZuTnktaTZocWM3LWlubDdNR0h1WnFBQlFoNmtESlAtZ2w5cTN4bTNDbV9idDNKNlJhVmMxOFE?oc=5",
         "snippet": "",
         "publishedAt": "2026-11-26T10:27:00.000Z"
-      },
-      {
-        "paper": "hani",
-        "paperLabel": "한겨레",
-        "title": "무고성 아동학대 신고 대책, 신속한 사건 종결이 관건",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZXZlbVdaNVgxSjZmdVJPNWQ5Nl9uODhJVG5MSTNhdWR2MUV5dERvdjRIU29JdGl0a0VjUGUzd0pYNnFxR1BiTDB4YWoxSkFESXA1UER6QWVVZ19UVnpzVk1QSFRKcWhyU0E?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-26T09:09:00.000Z"
-      },
-      {
-        "paper": "hani",
-        "paperLabel": "한겨레",
-        "title": "무분별한 ‘친중-반미’ 딱지 붙이기, 국익에 무슨 도움 되나",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HUEE2bVp4Nlp3YVlVdEVKUDdOcE1vaVBFWE1uQVFXSnIxTFpFYXh2R01MMk8tVEw2RWE1MEZhdVNOLUM0OUd5X25hSHhFdXV6ZkFkbFBtQ0VGZjZsN0tmRC1fTHZPVjN5S3c?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T13:00:00.000Z"
       }
     ],
     "khan": [
+      {
+        "paper": "khan",
+        "paperLabel": "경향신문",
+        "title": "3명 중 1명이 교통 약자, ‘이동권 보장’되는 사회 서둘러야할 이유",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WGVRN3FHMC04RzQ1VzBDU0Z4cnZDUUFxclNNUjhYYVVQb2t4OHBuMWk1dFNBR2gxR3JIY2NwY2JLdkk2SWtPQzZQcVNBdnlEUnNpNVpFakM0d9IBX0FVX3lxTE1jY3huWHMzVjNKeVJKa2N6bGwxZjdQTGF5UnBEMGwtWUc1UW5vMHlHdDNSMnB4ZFpOdnR5YWxkbm5kYmRSSEFfTV84ek10QjF0d2ZOOXNfS05uSGhBdVNB?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T09:12:00.000Z"
+      },
+      {
+        "paper": "khan",
+        "paperLabel": "경향신문",
+        "title": "12·3 내란 2주년에 장외 나가겠다는 장동혁 대표 귀엔 “당 꼬라지” 탄식 안들리나",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjRTZ3hGWWlKV3o5N1V0YXpqck01NHNOenp0Q1Z1VHFxYXIxc3Bvd0lEaFp6NFpGZjdfTkFsRURNYlR4dUtJdnlKODVKcDh6S3M4bzhYcnNXMFQtQ2JDV2UzcnNmbElwaExVM0x6TU1nbnVKYWtEdFRiOGJzUm4wcExJTmRISlZiRVZkaTZ0VW95V0JqUkNQbWstSmNMNXc0SDNTaFdLWjltUdIBX0FVX3lxTFB5RlYxMnE1TUUzZlZtYVQtLVNsVlR2VzNFd1hnajR1T2RSQmRsLVpzQ1hwUDZWOGVCWk1FaE5IeE1SdDd3aW94V0VCekpEMzhseVl1eWZ6Q2xqMy1zMzI4?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T09:09:00.000Z"
+      },
       {
         "paper": "khan",
         "paperLabel": "경향신문",
@@ -386,36 +318,36 @@
         "paper": "khan",
         "paperLabel": "경향신문",
         "title": "막 오른 판사회의, 사법 신뢰 훼손 성찰도 함께 가야",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZT3RZdHlTZWF1N2s4RUw2RkhnYlhhUGhQRDFVSW5jaE40X0RWRmkwLS1nTkJ5eVBMY2c2cWczaEE1QUNncnZISThTUmZaWEQ0c1d3OGE0MzBqbF90c29B0gFfQVVfeXFMTllPdFl0eVNlYXU3azhFTDZGSGdiWGFQaFBEMVVJbmNoTjRfRFZGaTAtLWdOQnl5UExjZzZxZzNoQTVBQ2dydkhJOFNSZlpYRDRzV3c4YTQzMGpsX3Rzb0E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NWDdIM2QwT3lsWHpDS1I4S0xfdGFFbzBUek1pNlExMFBuLWNtZC13TVJBcjRoZFpWSUxndUFfOHFZYTBtb2ZpajRRZmREeUlaRHF0aGJRZzdid9IBX0FVX3lxTE5ZT3RZdHlTZWF1N2s4RUw2RkhnYlhhUGhQRDFVSW5jaE40X0RWRmkwLS1nTkJ5eVBMY2c2cWczaEE1QUNncnZISThTUmZaWEQ0c1d3OGE0MzBqbF90c29B?oc=5",
         "snippet": "",
         "publishedAt": "2026-11-26T09:30:00.000Z"
-      },
-      {
-        "paper": "khan",
-        "paperLabel": "경향신문",
-        "title": "교원 대상 무고성 아동학대 신고 근절 대책, 서이초 비극 다신 없길",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4YnhWV1dmMEF2MV9RMGRLSEpaVGh0d1BzR3hWX1drWktJU2htNUFyaDA3S1FDVEJXeUh6aGU1U042WWw5d2lWRlRZUVlvZlJ2cmg1ZGozdUYtQdIBX0FVX3lxTFBYVnJtaXZsLXlLeWdmZWhZMnZyWXNMSGpINXg2dDhZLWhxTF8tVkFtUEVtR2V2NmhfLUxiMUNlNFVhSVM1LVF4ZVJ5Snp4TERCT0hjdW1sYnU2VTZUSTE4?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-26T09:10:00.000Z"
-      },
-      {
-        "paper": "khan",
-        "paperLabel": "경향신문",
-        "title": "가계대출 금리 5% 돌파, 취약층 안전판 마련 서둘러야",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Wmw1NzYyb2MxdkZSUWlTVlhBRGVwZ2tzcHFEN3pUd2VfY2hNMUhLQ0V4N1QtNklXRTMwQVo0QzBpMTZBTUNJLW94dVhDVUlwdDNOSUJtOEtyd9IBX0FVX3lxTE9zSzR2ZzFXOTJwVEpmMFNmOE51ekpSZDlYeFZLOGZFVmVaVm5fOURvNjNKSWZpaGkwRUJJUHpIYW4wTmhKaTM2Ym0tMHRRYjVFM2tkZzRJVnU0Tm9XUkdF?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T09:36:00.000Z"
-      },
-      {
-        "paper": "khan",
-        "paperLabel": "경향신문",
-        "title": "가계대출 위험 키운 금리 5% 돌파, 취약층 안전판 마련 서둘러야",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zSzR2ZzFXOTJwVEpmMFNmOE51ekpSZDlYeFZLOGZFVmVaVm5fOURvNjNKSWZpaGkwRUJJUHpIYW4wTmhKaTM2Ym0tMHRRYjVFM2tkZzRJVnU0Tm9XUkdF0gFfQVVfeXFMT3NLNHZnMVc5MnBUSmYwU2Y4TnV6SlJkOVh4Vks4ZkVWZVpWbl85RG82M0pJZmloaTBFQklQekhhbjBOaEppMzZibS0wdFFiNUUza2RnNElWdTROb1dSR0U?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T09:36:00.000Z"
       }
     ],
     "hankook": [
+      {
+        "paper": "hankook",
+        "paperLabel": "한국일보",
+        "title": "국민의힘, 이런 ‘꼬라지’로 무슨 수권 정당인가",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jcFRwX3oxcG5laDRaT282d0dybHFidUJzVHY4WHliYW82OXFjSFRVQV9qSWNkR3ZGY3NSb0VfYW93QWo1bHoydFh6aDhnOF93am56ZkZpWEpyX3g5dW5VZi0tc3lrZTRYX0VuTTRSRU9iY2PSAXNBVV95cUxNY3BUcF96MXBuZWg0Wk9vNndHcmxxYnVCc1R2OFh5YmFvNjlxY0hUVUFfakljZEd2RmNzUm9FX2Fvd0FqNWx6MnRYemg4Zzhfd2puemZGaVhKcl94OXVuVWYtLXN5a2U0WF9Fbk00UkVPYmNj?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T15:10:00.000Z"
+      },
+      {
+        "paper": "hankook",
+        "paperLabel": "한국일보",
+        "title": "경기도 고문 변호사 이력 이임성, 특검 자격 되나",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2UlY2ZGlGRGFOenVCY2h5RkFIR3BxRi12Nm14RTlsczZDUWxqSGZrbG1TdW9zdU8ybXZsMUpSRUFUdjlGQWNiUlVLVHk1aHpTbUQ3YVBEangxM0t4WVJtU29vS3hPOERrcWwxRGZEbmFDTVnSAXNBVV95cUxQdlJWNmRpRkRhTnp1QmNoeUZBSEdwcUYtdjZteEU5bHM2Q1Fsakhma2xtU3Vvc3VPMm12bDFKUkVBVHY5RkFjYlJVS1R5NWh6U21EN2FQRGp4MTNLeFlSbVNvb0t4TzhEa3FsMURmRG5hQ01Z?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T15:10:00.000Z"
+      },
+      {
+        "paper": "hankook",
+        "paperLabel": "한국일보",
+        "title": "정년연장 연내 입법 속도, 충격 덜어낼 청년대책이 우선",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMkIxc1EtbHdQWWF1V0w5UGtPX25vUjRNdm9jV05mNG5MUjdUMWN2RUFJcTJLdk51YURWcTVWZ0F0ZUw4blQ3cURqNzA4ZUhoRXlRU2dyMmRBNU1PMVdXREZiaHpaZUo0a2pSb05NSkZpc0XSAXNBVV95cUxNbzJCMXNRLWx3UFlhdVdMOVBrT19ub1I0TXZvY1dOZjRuTFI3VDFjdkVBSXEyS3ZOdWFEVnE1VmdBdGVMOG5UN3FEajcwOGVIaEV5UVNncjJkQTVNTzFXV0RGYmh6WmVKNGtqUm9OTUpGaXNF?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-27T15:10:00.000Z"
+      },
       {
         "paper": "hankook",
         "paperLabel": "한국일보",
@@ -439,33 +371,17 @@
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1N3JZN1VrOUxFYkg3V2pUTnRUenNYRmNuSlVhbnJ5cVlabEMyTmNTS3BtZkJIYmFJbXF3R3g4QllkMVJqeXpfdnJkb2NSM3YxWXBZUTdNaDVkRVAzUXFHZE5ydUlaNXludmJxYXlEZHJJYmc?oc=5",
         "snippet": "",
         "publishedAt": "2026-11-26T15:10:00.000Z"
-      },
-      {
-        "paper": "hankook",
-        "paperLabel": "한국일보",
-        "title": "여당의 대법원장 탄핵 열차 급가속, 정당성 없는 권한 남용",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TNjVQcm9VMGc4d3ItRl9JcjZ4aldkdng3OXpTWVhMaV9CeVZESmF4dDRScEZjb01zZVN5NnpyUnVVaUZHNk9JUGwxNy1nU3BfQU5PRVpzZi1MX2JHcHh0ZGx3M0xvRjliUXBhVnp1WUlad0k?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:10:00.000Z"
-      },
-      {
-        "paper": "hankook",
-        "paperLabel": "한국일보",
-        "title": "러 핵폭격기 울릉도 코앞까지 누볐는데 고작 무관 초치라니",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OSC1DbVJ2bFpFd0RVLWlzdzVtUXBFb2UwVXdTcTd4LVhwY2gxWC1QYm1aNERQOWlKRXVkZ2J1eExEcVBTS1JxMGctS2lvRnhuZ3R0Q081d3pITERJZ3o4azY1VDYwcl8xeWxwQXNVOXhjSm8?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:10:00.000Z"
-      },
-      {
-        "paper": "hankook",
-        "paperLabel": "한국일보",
-        "title": "820조 슈퍼예산도 밀실 합의에 짬짜미 증액인가",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tTl9XVlpvUXZ4eVdlQTFyLWVuU0hDRXRCMElUdlo4dGhxUVlBcVFCSE5oYWF2MTB3MGtFcVlIWE9OamJrSFRDUllnWlE1dHJFaFRlWHQzRWZqOWt4RGcxYlE5QlJUMk80NF9hcEl3?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T15:10:00.000Z"
       }
     ],
     "imaeil": [
+      {
+        "paper": "imaeil",
+        "paperLabel": "매일신문",
+        "title": "`만점자의 침묵`과 의료 국시 이상 징후…AI 부정행위 성역 없어야",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pQi1rcVJBQlNJMFJGNlBHWW5XYmM3SjVyTmRhbDlwQlk0WHlhYWN2MTBIZ2JQZmt5UmNYZlMyXzFKdkZyVU85MEpqelY1OTFBWng3a2F5dDUybklzYWUxMkh3?oc=5",
+        "snippet": "",
+        "publishedAt": "2026-11-26T20:00:00.000Z"
+      },
       {
         "paper": "imaeil",
         "paperLabel": "매일신문",
@@ -481,46 +397,22 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FalJDNl8yQUdPMmdNVUhHYjVwYzZtRjlsYzZDcWZfQkRrVE02OThzMUdpNVRBdU5udnIwZXZVYURRT3Jld3czV2FkZUhpM2hWcElod2JGU2ZRVXlETFJmZ1p3?oc=5",
         "snippet": "",
         "publishedAt": "2026-11-26T20:00:00.000Z"
-      },
-      {
-        "paper": "imaeil",
-        "paperLabel": "매일신문",
-        "title": "`만점자의 침묵`과 의료 국시 이상 징후…AI 부정행위 성역 없어야",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pQi1rcVJBQlNJMFJGNlBHWW5XYmM3SjVyTmRhbDlwQlk0WHlhYWN2MTBIZ2JQZmt5UmNYZlMyXzFKdkZyVU85MEpqelY1OTFBWng3a2F5dDUybklzYWUxMkh3?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-26T20:00:00.000Z"
-      },
-      {
-        "paper": "imaeil",
-        "paperLabel": "매일신문",
-        "title": "결혼하고 싶어도 못 하는 사회, 30대 절반이 미혼이다",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WQm1QSUVOT0RBWWg2QloyWmNEcFp6Q1FycWdzNG1CTFlFbS1WSk5kWVR5MEZrWHdYX1ljUkM0bGtTQ0I0YzJ6YXh1YzA1LWJGaXhSN2RYc3R3ZklyNWF3U3hn?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T20:00:00.000Z"
-      },
-      {
-        "paper": "imaeil",
-        "paperLabel": "매일신문",
-        "title": "당게 사건 및 징계 조작 논란, 여론전 아닌 재판으로 끝내라",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtcHptSkFNVDVOR2oxdjY3a2pRMzNlM0Z6UnF1MVBSbVdzOEtESWozRXpaTHdka2NKQ3J4ZEIwU042Qk45WXhTMVlPSVFNR0NYQmlZNDM1NU13SXFSX3JoVFBR?oc=5",
-        "snippet": "",
-        "publishedAt": "2026-11-25T20:00:00.000Z"
       }
     ]
   },
   "weekly": {
     "from": "2026-11-26",
-    "to": "2026-11-27",
-    "days": 2,
+    "to": "2026-11-28",
+    "days": 3,
     "papers": [
       {
         "id": "chosun",
         "label": "조선일보",
-        "count": 10,
+        "count": 16,
         "keywords": [
           {
             "word": "헌법",
-            "count": 3
+            "count": 4
           },
           {
             "word": "본토",
@@ -547,7 +439,7 @@
       {
         "id": "donga",
         "label": "동아일보",
-        "count": 12,
+        "count": 18,
         "keywords": [
           {
             "word": "유지",
@@ -578,7 +470,7 @@
       {
         "id": "joongang",
         "label": "중앙일보",
-        "count": 8,
+        "count": 11,
         "keywords": [
           {
             "word": "있나",
@@ -586,7 +478,7 @@
           },
           {
             "word": "무력시위",
-            "count": 3
+            "count": 4
           },
           {
             "word": "정보",
@@ -609,7 +501,7 @@
       {
         "id": "hani",
         "label": "한겨레",
-        "count": 7,
+        "count": 11,
         "keywords": [
           {
             "word": "무분별한",
@@ -640,7 +532,7 @@
       {
         "id": "khan",
         "label": "경향신문",
-        "count": 9,
+        "count": 13,
         "keywords": [
           {
             "word": "가계대출",
@@ -671,8 +563,16 @@
       {
         "id": "hankook",
         "label": "한국일보",
-        "count": 9,
+        "count": 15,
         "keywords": [
+          {
+            "word": "인상",
+            "count": 4
+          },
+          {
+            "word": "충격",
+            "count": 3
+          },
           {
             "word": "대법원장",
             "count": 2
@@ -688,21 +588,13 @@
           {
             "word": "급가속",
             "count": 2
-          },
-          {
-            "word": "정당성",
-            "count": 2
-          },
-          {
-            "word": "권한",
-            "count": 2
           }
         ]
       },
       {
         "id": "imaeil",
         "label": "매일신문",
-        "count": 9,
+        "count": 12,
         "keywords": [
           {
             "word": "결혼",
